@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Ruuli-RDT: Relations: `nsubj:outer`
 
 This relation is a language-specific subtype of <tt><a href="ruc_rdt-dep-nsubj.html">nsubj</a></tt>.
+There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="ruc_rdt-dep-nsubj-pass.html">nsubj:pass</a></tt>.
 
 3 nodes (0%) are attached to their parents as `nsubj:outer`.
 

@@ -6,87 +6,85 @@ udver: '2'
 
 ## Treebank Statistics: UD_Italian-KIParlaForest: POS Tags: `INTJ`
 
-There are 42 `INTJ` lemmas (2%), 44 `INTJ` types (1%) and 791 `INTJ` tokens (4%).
-Out of 16 observed tags, the rank of `INTJ` is: 10 in number of lemmas, 11 in number of types and 10 in number of tokens.
+There are 53 `INTJ` lemmas (2%), 54 `INTJ` types (1%) and 1107 `INTJ` tokens (4%).
+Out of 16 observed tags, the rank of `INTJ` is: 9 in number of lemmas, 11 in number of types and 10 in number of tokens.
 
-The 10 most frequent `INTJ` lemmas: <em>mh, eh, okay, ah, no, sì, vabbè, ok, beh, ehm</em>
+The 10 most frequent `INTJ` lemmas: <em>mh, eh, ah, okay, no, vabbè, sì, ok, beh, mhmh</em>
 
-The 10 most frequent `INTJ` types:  <em>eh, mh, okay, ah, no, sì, vabbè, mhmh, beh, ehm</em>
+The 10 most frequent `INTJ` types:  <em>mh, eh, okay, ah, mhmh, vabbè, no, sì, beh, oh</em>
 
-The 10 most frequent ambiguous lemmas: <em>mh</em> (<tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 216, <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> 3), <em>okay</em> (<tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 94, <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> 4), <em>no</em> (<tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 119, <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 34), <em>sì</em> (<tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 268, <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 34, <tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> 2), <em>ecco</em> (<tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 4, <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 2), <em>grazie</em> (<tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 2), <em>si</em> (<tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> 121, <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 2), <em>Arabia</em> (<tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt> 9, <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 1), <em>a</em> (<tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt> 359, <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 1), <em>attenzione</em> (<tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>mh</em> (<tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 293, <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> 2), <em>eh</em> (<tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 270, <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 1, <tt><a href="it_kiparlaforest-pos-X.html">X</a></tt> 1), <em>okay</em> (<tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 100, <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> 2), <em>no</em> (<tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 221, <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 42, <tt><a href="it_kiparlaforest-pos-X.html">X</a></tt> 1), <em>sì</em> (<tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 383, <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 36), <em>beh</em> (<tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 28, <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 2), <em>oh</em> (<tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 17, <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 2), <em>e</em> (<tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 463, <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 6, <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="it_kiparlaforest-pos-X.html">X</a></tt> 1), <em>ecco</em> (<tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 6, <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 3), <em>grazie</em> (<tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt> 2)
 
-The 10 most frequent ambiguous types:  <em>mh</em> (<tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 195, <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> 3), <em>okay</em> (<tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 121, <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> 4), <em>no</em> (<tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 118, <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 34), <em>sì</em> (<tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 268, <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 33, <tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt> 3), <em>si</em> (<tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> 118, <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 3), <em>a</em> (<tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt> 351, <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 2), <em>ecco</em> (<tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 4, <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 2), <em>grazie</em> (<tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 2), <em>ha</em> (<tt><a href="it_kiparlaforest-pos-AUX.html">AUX</a></tt> 54, <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt> 29, <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 2), <em>arabia</em> (<tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt> 9, <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>mh</em> (<tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 272, <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> 2), <em>eh</em> (<tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 270, <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 1, <tt><a href="it_kiparlaforest-pos-X.html">X</a></tt> 1), <em>okay</em> (<tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 131, <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> 2), <em>no</em> (<tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 220, <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 42, <tt><a href="it_kiparlaforest-pos-X.html">X</a></tt> 1), <em>sì</em> (<tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 383, <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 35, <tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt> 3), <em>beh</em> (<tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 28, <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 2), <em>oh</em> (<tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 17, <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 2), <em>e</em> (<tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 459, <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 6, <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="it_kiparlaforest-pos-X.html">X</a></tt> 1), <em>ecco</em> (<tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 6, <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 3), <em>grazie</em> (<tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt> 2)
 
 
 * <em>mh</em>
-  * <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 195: <em><b>mh</b> sì</em>
-  * <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> 3: <em>vabbè tanto veniva fuori <b>mh</b></em>
+  * <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 272: <em>eh <b>mh</b> volevo far la su il child language brokering però</em>
+  * <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> 2: <em>le interessa parlare con ex-broker perché loro <b>mh</b> li conoscono</em>
+* <em>eh</em>
+  * <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 270: <em><b>eh</b> mh volevo far la su il child language brokering però</em>
+  * <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 1: <em>sì se lo sapete <b>eh</b> se no</em>
+  * <tt><a href="it_kiparlaforest-pos-X.html">X</a></tt> 1: <em>comunque questo monolito è stato mh trovato <b>eh</b> eh a kurkh in il sud di la turchia per questo si chiama monolito di kurkh</em>
 * <em>okay</em>
-  * <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 121: <em><b>okay</b> quindi è fatta su diversi piani</em>
-  * <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> 4: <em><b>okay</b></em>
+  * <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 131: <em><b>okay</b></em>
+  * <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> 2: <em>non è vero no incenso questa è la resina di l' albero di l' incenso l' albero l' olibano <b>okay</b> che cresce cresce solo esclusivamente</em>
 * <em>no</em>
-  * <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 118: <em><b>no</b> si trova fuori da la città ma è vicina in realtà</em>
-  * <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 34: <em><b>no</b> ma infatti non sarà</em>
+  * <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 220: <em>sì sì <b>no</b></em>
+  * <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 42: <em><b>no</b> ma infatti non sarà</em>
+  * <tt><a href="it_kiparlaforest-pos-X.html">X</a></tt> 1: <em>sì di llo ta~ a il massimo se dici albicocche dico <b>no</b> albicocche no</em>
 * <em>sì</em>
-  * <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 268: <em>mh <b>sì</b></em>
-  * <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 33: <em><b>sì</b></em>
+  * <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 383: <em><b>sì</b></em>
+  * <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 35: <em><b>sì</b> apostrofo 'mbare</em>
   * <tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt> 3: <em>da natura <b>sì</b> compra glie lo</em>
-* <em>si</em>
-  * <tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> 118: <em>okay e <b>si</b> trova in centro a la città o fuori</em>
-  * <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 3: <em>no <b>si</b> effettivamente non ci stanno edifici che m' hanno lasciato oddio che bella ancona</em>
-* <em>a</em>
-  * <tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt> 351: <em>allora la mia casa è una villa mh in mezzo <b>a</b> la natura</em>
-  * <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 2: <em><b>a</b> no è camerino che c' ha università</em>
+* <em>beh</em>
+  * <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 28: <em><b>beh</b> ho capito però</em>
+  * <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 2: <em>sì <b>beh</b> è nata che è una città fatta così</em>
+* <em>oh</em>
+  * <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 17: <em><b>oh</b> che aspettative hai</em>
+  * <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 2: <em>quando piove <b>oh</b> ci son gli uragani</em>
+* <em>e</em>
+  * <tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 459: <em><b>e</b> lei quando pensava di</em>
+  * <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 6: <em><b>e</b> a voi è mai capitato di incontrare qualche artista bolognese in giro per strada</em>
+  * <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> 1: <em>non posso scrivere <b>e</b></em>
+  * <tt><a href="it_kiparlaforest-pos-X.html">X</a></tt> 1: <em>e a la ca' foscari c' era anche appunto pao~ pallotti vagoni e infatti alcuni <b>e</b> serragiotto</em>
 * <em>ecco</em>
-  * <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 4: <em>che poi i miei spazi me li ritaglio a casa mia <b>ecco</b></em>
-  * <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 2: <em>ah <b>ecco</b> vedi</em>
+  * <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 6: <em><b>ecco</b> ci qua</em>
+  * <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 3: <em>ah <b>ecco</b> vedi</em>
 * <em>grazie</em>
-  * <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> 3: <em><b>grazie</b> buon lavoro</em>
-  * <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 2: <em>no <b>grazie</b></em>
-* <em>ha</em>
-  * <tt><a href="it_kiparlaforest-pos-AUX.html">AUX</a></tt> 54: <em>chi l' <b>ha</b> detto</em>
-  * <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt> 29: <em>a no è camerino che c' <b>ha</b> università</em>
-  * <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 2: <em><b>ha</b> <b>ha</b> viene oscurato il nome non sapranno che mangio l' insalata</em>
-* <em>arabia</em>
-  * <tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt> 9: <em>comunque sono gli arabi in <b>arabia</b> saudita</em>
-  * <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 1: <em>l' <b>arabia</b> felice opulenta</em>
+  * <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 3: <em>no <b>grazie</b></em>
+  * <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> 3: <em><b>grazie</b> mille</em>
+  * <tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt> 2: <em><b>grazie</b> a te</em>
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.047619 (the average of all parts of speech is 1.385867).
+The form / lemma ratio of `INTJ` is 1.018868 (the average of all parts of speech is 1.397522).
 
 The 1st highest number of forms (4) was observed with the lemma “mh”: <em>mh, mhmh, mhmhmh, mmmh</em>.
 
-The 2nd highest number of forms (3) was observed with the lemma “ah”: <em>a, ah, ahh</em>.
+The 2nd highest number of forms (2) was observed with the lemma “ah”: <em>ah, ahh</em>.
 
 The 3rd highest number of forms (2) was observed with the lemma “si”: <em>si, sì</em>.
 
-`INTJ` occurs with 1 features: <tt><a href="it_kiparlaforest-feat-Gender.html">Gender</a></tt> (34; 4% instances)
-
-`INTJ` occurs with 1 feature-value pairs: `Gender=Masc`
-
-`INTJ` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (757 tokens).
-Examples: <em>eh, mh, okay, ah, no, sì, vabbè, mhmh, beh, ehm</em>
+`INTJ` does not occur with any features.
 
 
 ## Relations
 
-`INTJ` nodes are attached to their parents using 15 different relations: <tt><a href="it_kiparlaforest-dep-discourse.html">discourse</a></tt> (480; 61% instances), <tt><a href="it_kiparlaforest-dep-root.html">root</a></tt> (278; 35% instances), <tt><a href="it_kiparlaforest-dep-parataxis.html">parataxis</a></tt> (9; 1% instances), <tt><a href="it_kiparlaforest-dep-conj.html">conj</a></tt> (7; 1% instances), <tt><a href="it_kiparlaforest-dep-reparandum.html">reparandum</a></tt> (4; 1% instances), <tt><a href="it_kiparlaforest-dep-amod.html">amod</a></tt> (2; 0% instances), <tt><a href="it_kiparlaforest-dep-ccomp-reported.html">ccomp:reported</a></tt> (2; 0% instances), <tt><a href="it_kiparlaforest-dep-obj.html">obj</a></tt> (2; 0% instances), <tt><a href="it_kiparlaforest-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="it_kiparlaforest-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="it_kiparlaforest-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="it_kiparlaforest-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="it_kiparlaforest-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="it_kiparlaforest-dep-obl.html">obl</a></tt> (1; 0% instances), <tt><a href="it_kiparlaforest-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
+`INTJ` nodes are attached to their parents using 16 different relations: <tt><a href="it_kiparlaforest-dep-discourse.html">discourse</a></tt> (435; 39% instances), <tt><a href="it_kiparlaforest-dep-root.html">root</a></tt> (310; 28% instances), <tt><a href="it_kiparlaforest-dep-discourse-filler.html">discourse:filler</a></tt> (219; 20% instances), <tt><a href="it_kiparlaforest-dep-discourse-tag.html">discourse:tag</a></tt> (81; 7% instances), <tt><a href="it_kiparlaforest-dep-conj.html">conj</a></tt> (42; 4% instances), <tt><a href="it_kiparlaforest-dep-conj-reform.html">conj:reform</a></tt> (5; 0% instances), <tt><a href="it_kiparlaforest-dep-amod.html">amod</a></tt> (2; 0% instances), <tt><a href="it_kiparlaforest-dep-ccomp-reported.html">ccomp:reported</a></tt> (2; 0% instances), <tt><a href="it_kiparlaforest-dep-parataxis-parenth.html">parataxis:parenth</a></tt> (2; 0% instances), <tt><a href="it_kiparlaforest-dep-reparandum.html">reparandum</a></tt> (2; 0% instances), <tt><a href="it_kiparlaforest-dep-vocative.html">vocative</a></tt> (2; 0% instances), <tt><a href="it_kiparlaforest-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="it_kiparlaforest-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="it_kiparlaforest-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="it_kiparlaforest-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="it_kiparlaforest-dep-parataxis-restart.html">parataxis:restart</a></tt> (1; 0% instances)
 
-Parents of `INTJ` nodes belong to 15 different parts of speech:  (278; 35% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt> (246; 31% instances), <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> (85; 11% instances), <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> (60; 8% instances), <tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt> (36; 5% instances), <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> (26; 3% instances), <tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> (18; 2% instances), <tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt> (12; 2% instances), <tt><a href="it_kiparlaforest-pos-X.html">X</a></tt> (12; 2% instances), <tt><a href="it_kiparlaforest-pos-AUX.html">AUX</a></tt> (11; 1% instances), <tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="it_kiparlaforest-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="it_kiparlaforest-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="it_kiparlaforest-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Parents of `INTJ` nodes belong to 15 different parts of speech: <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt> (369; 33% instances),  (310; 28% instances), <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> (127; 11% instances), <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> (80; 7% instances), <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> (55; 5% instances), <tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt> (54; 5% instances), <tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> (31; 3% instances), <tt><a href="it_kiparlaforest-pos-X.html">X</a></tt> (23; 2% instances), <tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt> (21; 2% instances), <tt><a href="it_kiparlaforest-pos-AUX.html">AUX</a></tt> (17; 2% instances), <tt><a href="it_kiparlaforest-pos-NUM.html">NUM</a></tt> (7; 1% instances), <tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="it_kiparlaforest-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="it_kiparlaforest-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
-697 (88%) `INTJ` nodes are leaves.
+978 (88%) `INTJ` nodes are leaves.
 
-67 (8%) `INTJ` nodes have one child.
+84 (8%) `INTJ` nodes have one child.
 
-21 (3%) `INTJ` nodes have two children.
+33 (3%) `INTJ` nodes have two children.
 
-6 (1%) `INTJ` nodes have three or more children.
+12 (1%) `INTJ` nodes have three or more children.
 
 The highest child degree of a `INTJ` node is 4.
 
-Children of `INTJ` nodes are attached using 13 different relations: <tt><a href="it_kiparlaforest-dep-discourse.html">discourse</a></tt> (61; 47% instances), <tt><a href="it_kiparlaforest-dep-parataxis.html">parataxis</a></tt> (18; 14% instances), <tt><a href="it_kiparlaforest-dep-advmod.html">advmod</a></tt> (11; 9% instances), <tt><a href="it_kiparlaforest-dep-conj.html">conj</a></tt> (10; 8% instances), <tt><a href="it_kiparlaforest-dep-cc.html">cc</a></tt> (7; 5% instances), <tt><a href="it_kiparlaforest-dep-dep.html">dep</a></tt> (5; 4% instances), <tt><a href="it_kiparlaforest-dep-amod.html">amod</a></tt> (4; 3% instances), <tt><a href="it_kiparlaforest-dep-case.html">case</a></tt> (4; 3% instances), <tt><a href="it_kiparlaforest-dep-det.html">det</a></tt> (4; 3% instances), <tt><a href="it_kiparlaforest-dep-advcl.html">advcl</a></tt> (2; 2% instances), <tt><a href="it_kiparlaforest-dep-compound.html">compound</a></tt> (1; 1% instances), <tt><a href="it_kiparlaforest-dep-nummod.html">nummod</a></tt> (1; 1% instances), <tt><a href="it_kiparlaforest-dep-obl.html">obl</a></tt> (1; 1% instances)
+Children of `INTJ` nodes are attached using 13 different relations: <tt><a href="it_kiparlaforest-dep-conj.html">conj</a></tt> (85; 45% instances), <tt><a href="it_kiparlaforest-dep-discourse.html">discourse</a></tt> (58; 31% instances), <tt><a href="it_kiparlaforest-dep-advmod.html">advmod</a></tt> (8; 4% instances), <tt><a href="it_kiparlaforest-dep-cc.html">cc</a></tt> (8; 4% instances), <tt><a href="it_kiparlaforest-dep-conj-reform.html">conj:reform</a></tt> (8; 4% instances), <tt><a href="it_kiparlaforest-dep-obl.html">obl</a></tt> (6; 3% instances), <tt><a href="it_kiparlaforest-dep-advcl.html">advcl</a></tt> (4; 2% instances), <tt><a href="it_kiparlaforest-dep-dep.html">dep</a></tt> (4; 2% instances), <tt><a href="it_kiparlaforest-dep-case.html">case</a></tt> (2; 1% instances), <tt><a href="it_kiparlaforest-dep-det.html">det</a></tt> (2; 1% instances), <tt><a href="it_kiparlaforest-dep-discourse-filler.html">discourse:filler</a></tt> (1; 1% instances), <tt><a href="it_kiparlaforest-dep-nummod.html">nummod</a></tt> (1; 1% instances), <tt><a href="it_kiparlaforest-dep-vocative.html">vocative</a></tt> (1; 1% instances)
 
-Children of `INTJ` nodes belong to 12 different parts of speech: <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> (60; 47% instances), <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> (19; 15% instances), <tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> (13; 10% instances), <tt><a href="it_kiparlaforest-pos-X.html">X</a></tt> (7; 5% instances), <tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt> (6; 5% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt> (6; 5% instances), <tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt> (5; 4% instances), <tt><a href="it_kiparlaforest-pos-DET.html">DET</a></tt> (4; 3% instances), <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="it_kiparlaforest-pos-SCONJ.html">SCONJ</a></tt> (2; 2% instances), <tt><a href="it_kiparlaforest-pos-NUM.html">NUM</a></tt> (1; 1% instances)
+Children of `INTJ` nodes belong to 14 different parts of speech: <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> (80; 43% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt> (31; 16% instances), <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> (22; 12% instances), <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> (13; 7% instances), <tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> (12; 6% instances), <tt><a href="it_kiparlaforest-pos-X.html">X</a></tt> (9; 5% instances), <tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> (7; 4% instances), <tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt> (4; 2% instances), <tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt> (3; 2% instances), <tt><a href="it_kiparlaforest-pos-DET.html">DET</a></tt> (3; 2% instances), <tt><a href="it_kiparlaforest-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="it_kiparlaforest-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="it_kiparlaforest-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances)
 

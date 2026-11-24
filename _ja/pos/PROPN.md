@@ -19,4 +19,4 @@ _<b>長谷</b>&nbsp;_ “Hase” and an ordinary noun _<b>寺</b>&nbsp;_ “temp
 
 - _<b>京都</b>&nbsp;_ “Kyoto” city name (`noun(proper.place.general)` / 名詞-固有名詞-地名-一般)
 - _<b>鈴木</b>&nbsp;_ “Suzuki” family name (`noun(proper.name.surname)` / 名詞-固有名詞-人名-姓)
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:38 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:29 CET -->

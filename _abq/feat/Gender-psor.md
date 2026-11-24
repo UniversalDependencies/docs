@@ -25,4 +25,4 @@ This feature marks gender agreement of the noun with the possessor.
 
 * [abq] _албыргIан <b>а</b>-больница_ [Elburgan <b>3SG.N.PR</b>-hospital] ‘hospital of Elburgan’ `Gender[psor]=Neut|Number[psor]=Sing|Person[psor]=3`
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:55 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:44 CET -->

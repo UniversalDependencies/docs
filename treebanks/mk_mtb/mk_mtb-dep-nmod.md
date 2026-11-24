@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `nmod`: <tt><a href="mk_mtb-dep-nmod-poss.html">nmod:poss</a></tt>.
 
-14 nodes (1%) are attached to their parents as `nmod`.
+15 nodes (1%) are attached to their parents as `nmod`.
 
-14 instances of `nmod` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.42857142857143.
+15 instances of `nmod` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.4.
 
-The following 3 pairs of parts of speech are connected with `nmod`: <tt><a href="mk_mtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mk_mtb-pos-NOUN.html">NOUN</a></tt> (11; 79% instances), <tt><a href="mk_mtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mk_mtb-pos-PROPN.html">PROPN</a></tt> (2; 14% instances), <tt><a href="mk_mtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mk_mtb-pos-ADJ.html">ADJ</a></tt> (1; 7% instances).
+The following 3 pairs of parts of speech are connected with `nmod`: <tt><a href="mk_mtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mk_mtb-pos-NOUN.html">NOUN</a></tt> (12; 80% instances), <tt><a href="mk_mtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mk_mtb-pos-PROPN.html">PROPN</a></tt> (2; 13% instances), <tt><a href="mk_mtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mk_mtb-pos-ADJ.html">ADJ</a></tt> (1; 7% instances).
 
 
 ~~~ conllu

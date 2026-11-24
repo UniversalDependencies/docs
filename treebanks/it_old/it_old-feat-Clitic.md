@@ -9,20 +9,20 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-1606 tokens (1%) have a non-empty value of `Clitic`.
+1616 tokens (1%) have a non-empty value of `Clitic`.
 30 types (0%) occur at least once with a non-empty value of `Clitic`.
 20 lemmas (0%) occur at least once with a non-empty value of `Clitic`.
-The feature is used with 4 part-of-speech tags: <tt><a href="it_old-pos-PRON.html">PRON</a></tt> (1581; 1% instances), <tt><a href="it_old-pos-ADP.html">ADP</a></tt> (17; 0% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="it_old-pos-DET.html">DET</a></tt> (1; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="it_old-pos-PRON.html">PRON</a></tt> (1591; 1% instances), <tt><a href="it_old-pos-ADP.html">ADP</a></tt> (17; 0% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="it_old-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 ### `PRON`
 
-1581 <tt><a href="it_old-pos-PRON.html">PRON</a></tt> tokens (11% of all `PRON` tokens) have a non-empty value of `Clitic`.
+1591 <tt><a href="it_old-pos-PRON.html">PRON</a></tt> tokens (11% of all `PRON` tokens) have a non-empty value of `Clitic`.
 
-The most frequent other feature values with which `PRON` and `Clitic` co-occurred: <tt><a href="it_old-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1580; 100%), <tt><a href="it_old-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1578; 100%), <tt><a href="it_old-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1296; 82%), <tt><a href="it_old-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (988; 62%), <tt><a href="it_old-feat-Number.html">Number</a></tt><tt>=Sing</tt> (873; 55%).
+The most frequent other feature values with which `PRON` and `Clitic` co-occurred: <tt><a href="it_old-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1591; 100%), <tt><a href="it_old-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1590; 100%), <tt><a href="it_old-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1306; 82%), <tt><a href="it_old-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (998; 63%), <tt><a href="it_old-feat-Number.html">Number</a></tt><tt>=Sing</tt> (874; 55%).
 
 `PRON` tokens may have the following values of `Clitic`:
 
-* `Yes` (1581; 100% of non-empty `Clitic`): <em>mi, si, ti, li, s', ne, m', lo, ci, 'l</em>
+* `Yes` (1591; 100% of non-empty `Clitic`): <em>mi, si, ti, li, s', ne, m', lo, ci, 'l</em>
 
 `Clitic` seems to be **lexical feature** of `PRON`. 100% lemmas (18) occur only with one value of `Clitic`.
 

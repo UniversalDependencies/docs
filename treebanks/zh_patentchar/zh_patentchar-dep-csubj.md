@@ -53,10 +53,10 @@ The following 2 pairs of parts of speech are connected with `csubj`: <tt><a href
 11	其中	_	NOUN	_	_	61	obl	_	Gloss=_|SpaceAfter=No|Translit=qí_zhōng
 12	，	_	PUNCT	_	_	61	punct	_	Gloss=_|SpaceAfter=No|Translit=，
 13	当	_	ADP	_	_	61	dep	_	Gloss=_|SpaceAfter=No|Translit=dāng
-14	将	_	PART	_	_	17	case	_	Gloss=_|SpaceAfter=No|Translit=jiāng
+14	将	_	PART	_	_	18	mark	_	Gloss=_|SpaceAfter=No|Translit=jiāng
 15	相同	_	NOUN	_	_	18	obl	_	Gloss=_|SpaceAfter=No|Translit=xiāng_tóng
 16	的	_	PART	_	_	15	case	_	Gloss=_|SpaceAfter=No|Translit=de
-17	压力	_	NOUN	_	_	18	obj	_	Gloss=_|SpaceAfter=No|Translit=yā_lì
+17	压力	_	NOUN	_	_	18	dep	_	Gloss=_|SpaceAfter=No|Translit=yā_lì
 18	施加	_	VERB	_	_	31	ccomp	_	Gloss=_|SpaceAfter=No|Translit=shī_jiā
 19	到	_	NOUN	_	_	18	obj	_	Gloss=_|SpaceAfter=No|Translit=dào
 20	所述	_	VERB	_	_	22	acl	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù

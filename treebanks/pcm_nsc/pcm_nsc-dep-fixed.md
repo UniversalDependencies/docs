@@ -22,19 +22,19 @@ The following 39 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 11 fixed	color:blue
-1	#	#	PUNCT	_	_	6	punct	_	AlignBegin=309730|AlignEnd=310166|Gloss=PUNCT
-2	American	American	ADJ	_	_	4	amod	_	AlignBegin=310166|AlignEnd=310938|Gloss=American|Lang=en
-3	#	#	PUNCT	_	_	2	punct	_	AlignBegin=310938|AlignEnd=311430|Gloss=PUNCT
-4	gift	gift	NOUN	_	_	6	nsubj	_	AlignBegin=311430|AlignEnd=311736|Gloss=gift|Lang=en
-5	will	will	AUX	_	VerbForm=Fin	6	aux	_	AlignBegin=311736|AlignEnd=311860|Gloss=FUT|Lang=en
-6	come	come	VERB	_	_	0	root	_	AlignBegin=311860|AlignEnd=312030|Gloss=come|Lang=en
-7	to	to	ADP	_	_	8	case	_	AlignBegin=312030|AlignEnd=312170|Gloss=to|Lang=en
-8	Nigeria	Nigeria	PROPN	_	_	6	obl:arg	_	AlignBegin=312170|AlignEnd=312580|Gloss=Nigeria|Lang=en
-9	#	#	PUNCT	_	_	12	punct	_	AlignBegin=312610|AlignEnd=312790|Gloss=PUNCT
-10	so	so	SCONJ	_	ExtPos=SCONJ	12	case	_	AlignBegin=312790|AlignEnd=312960|Gloss=so|Idiom=Yes
-11	dat	dat	SCONJ	_	Number=Sing	10	fixed	_	AlignBegin=312960|AlignEnd=313170|Gloss=SG.DEM|InIdiom=Yes
-12	we	we	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	obl:mod	_	AlignBegin=313170|AlignEnd=313330|Gloss=NOM.PL.1|Scrap=Yes
-13	&//	&//	PUNCT	_	_	6	punct	_	AlignBegin=313330|AlignEnd=313330|Gloss=PUNCT
+1	#	#	PUNCT	_	_	6	punct	_	Gloss=PUNCT|WordAlignmentBegin=309730|WordAlignmentEnd=310166
+2	American	American	ADJ	_	_	4	amod	_	Gloss=American|Lang=en|WordAlignmentBegin=310166|WordAlignmentEnd=310938
+3	#	#	PUNCT	_	_	2	punct	_	Gloss=PUNCT|WordAlignmentBegin=310938|WordAlignmentEnd=311430
+4	gift	gift	NOUN	_	_	6	nsubj	_	Gloss=gift|Lang=en|WordAlignmentBegin=311430|WordAlignmentEnd=311736
+5	will	will	AUX	_	VerbForm=Fin	6	aux	_	Gloss=FUT|Lang=en|WordAlignmentBegin=311736|WordAlignmentEnd=311860
+6	come	come	VERB	_	_	0	root	_	Gloss=come|Lang=en|WordAlignmentBegin=311860|WordAlignmentEnd=312030
+7	to	to	ADP	_	_	8	case	_	Gloss=to|Lang=en|WordAlignmentBegin=312030|WordAlignmentEnd=312170
+8	Nigeria	Nigeria	PROPN	_	_	6	obl:arg	_	Gloss=Nigeria|Lang=en|WordAlignmentBegin=312170|WordAlignmentEnd=312580
+9	#	#	PUNCT	_	_	12	punct	_	Gloss=PUNCT|WordAlignmentBegin=312610|WordAlignmentEnd=312790
+10	so	so	SCONJ	_	ExtPos=SCONJ	12	case	_	Gloss=so|Idiom=Yes|WordAlignmentBegin=312790|WordAlignmentEnd=312960
+11	dat	dat	SCONJ	_	Number=Sing	10	fixed	_	Gloss=SG.DEM|InIdiom=Yes|WordAlignmentBegin=312960|WordAlignmentEnd=313170
+12	we	we	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	obl:mod	_	Gloss=NOM.PL.1|Scrap=Yes|WordAlignmentBegin=313170|WordAlignmentEnd=313330
+13	&//	&//	PUNCT	_	_	6	punct	_	Gloss=PUNCT|WordAlignmentBegin=313330|WordAlignmentEnd=313330
 
 ~~~
 
@@ -45,19 +45,19 @@ The following 39 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 fixed	color:blue
-1	as	as	ADP	_	ExtPos=ADP	7	discourse	_	AlignBegin=206480|AlignEnd=206730|Gloss=as|Idiom=Yes
-2	in	in	ADP	_	_	1	fixed	_	AlignBegin=206730|AlignEnd=206811|Gloss=in|InIdiom=Yes
-3	kai	kai	INTJ	_	_	7	discourse	_	AlignBegin=206920|AlignEnd=207290|Gloss=please!
-4	#	#	PUNCT	_	_	7	punct	_	AlignBegin=207320|AlignEnd=207740|Gloss=PUNCT
-5	agbada	agbada	NOUN	_	_	7	nsubj	_	AlignBegin=207740|AlignEnd=208070|Gloss=native_clothe
-6	don	don	AUX	_	Aspect=Perf	7	aux	_	AlignBegin=208070|AlignEnd=208250|Gloss=PRF
-7	hook	hook	VERB	_	_	0	root	_	AlignBegin=208250|AlignEnd=208490|Gloss=hook
-8	wire	wire	NOUN	_	_	7	obj	_	AlignBegin=208490|AlignEnd=208759|Gloss=wire
-9	today	today	NOUN	_	_	7	obl:mod	_	AlignBegin=208759|AlignEnd=209060|Gloss=today
-10	>+	>+	PUNCT	_	_	11	punct	_	AlignBegin=209060|AlignEnd=209200|Gloss=PUNCT
-11	be	be	VERB	_	PartType=Cop	7	advcl:cleft	_	AlignBegin=209060|AlignEnd=209200|Gloss=be
-12	dat	dat	PRON	_	Number=Sing	11	nsubj	_	AlignBegin=209200|AlignEnd=209580|Gloss=SG.DEM
-13	!//	!//	PUNCT	_	_	7	punct	_	AlignBegin=209580|AlignEnd=209580|Gloss=PUNCT
+1	as	as	ADP	_	ExtPos=ADP	7	discourse	_	Gloss=as|Idiom=Yes|WordAlignmentBegin=206480|WordAlignmentEnd=206730
+2	in	in	ADP	_	_	1	fixed	_	Gloss=in|InIdiom=Yes|WordAlignmentBegin=206730|WordAlignmentEnd=206811
+3	kai	kai	INTJ	_	_	7	discourse	_	Gloss=please!|WordAlignmentBegin=206920|WordAlignmentEnd=207290
+4	#	#	PUNCT	_	_	7	punct	_	Gloss=PUNCT|WordAlignmentBegin=207320|WordAlignmentEnd=207740
+5	agbada	agbada	NOUN	_	_	7	nsubj	_	Gloss=native_clothe|WordAlignmentBegin=207740|WordAlignmentEnd=208070
+6	don	don	AUX	_	Aspect=Perf	7	aux	_	Gloss=PRF|WordAlignmentBegin=208070|WordAlignmentEnd=208250
+7	hook	hook	VERB	_	_	0	root	_	Gloss=hook|WordAlignmentBegin=208250|WordAlignmentEnd=208490
+8	wire	wire	NOUN	_	_	7	obj	_	Gloss=wire|WordAlignmentBegin=208490|WordAlignmentEnd=208759
+9	today	today	NOUN	_	_	7	obl:mod	_	Gloss=today|WordAlignmentBegin=208759|WordAlignmentEnd=209060
+10	>+	>+	PUNCT	_	_	11	punct	_	Gloss=PUNCT|WordAlignmentBegin=209060|WordAlignmentEnd=209200
+11	be	be	VERB	_	PartType=Cop	7	advcl:cleft	_	Gloss=be|WordAlignmentBegin=209060|WordAlignmentEnd=209200
+12	dat	dat	PRON	_	Number=Sing	11	nsubj	_	Gloss=SG.DEM|WordAlignmentBegin=209200|WordAlignmentEnd=209580
+13	!//	!//	PUNCT	_	_	7	punct	_	Gloss=PUNCT|WordAlignmentBegin=209580|WordAlignmentEnd=209580
 
 ~~~
 
@@ -68,20 +68,20 @@ The following 39 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 9 fixed	color:blue
-1	but	but	CCONJ	_	_	8	discourse	_	AlignBegin=51070|AlignEnd=51250|Gloss=but
-2	to	to	ADP	_	_	3	mark	_	AlignBegin=51250|AlignEnd=51400|Gloss=to
-3	see	see	VERB	_	_	8	dislocated	_	AlignBegin=51400|AlignEnd=51600|Gloss=see
-4	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	3	obj	_	AlignBegin=51600|AlignEnd=51820|Gloss=ACC.SG.3
-5	do	do	VERB	_	_	3	xcomp	_	AlignBegin=51820|AlignEnd=51983|Gloss=do
-6	<	<	PUNCT	_	_	3	punct	_	AlignBegin=51983|AlignEnd=51983|Gloss=PUNCT
-7	#	#	PUNCT	_	_	8	punct	_	AlignBegin=51983|AlignEnd=52573|Gloss=PUNCT
-8	na	na	AUX	_	ExtPos=SCONJ|PartType=Cop	0	root	_	AlignBegin=52573|AlignEnd=52711|Gloss=be|Idiom=Yes
-9	im	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	8	fixed	_	AlignBegin=52711|AlignEnd=52776|Gloss=NOM.SG.3|InIdiom=Yes
-10	>+	>+	PUNCT	_	_	12	punct	_	AlignBegin=52776|AlignEnd=52776|Gloss=PUNCT
-11	con	con	AUX	_	Aspect=Cons	12	aux	_	AlignBegin=52776|AlignEnd=53016|Gloss=CONS
-12	dey	dey	VERB	_	VerbType=Cop	8	advcl:cleft	_	AlignBegin=53016|AlignEnd=53166|Gloss=be
-13	hard	hard	ADJ	_	_	12	xcomp	_	AlignBegin=53166|AlignEnd=53418|Gloss=hard
-14	//	//	PUNCT	_	_	8	punct	_	AlignBegin=53418|AlignEnd=53418|Gloss=PUNCT
+1	but	but	CCONJ	_	_	8	discourse	_	Gloss=but|WordAlignmentBegin=51070|WordAlignmentEnd=51250
+2	to	to	ADP	_	_	3	mark	_	Gloss=to|WordAlignmentBegin=51250|WordAlignmentEnd=51400
+3	see	see	VERB	_	_	8	dislocated	_	Gloss=see|WordAlignmentBegin=51400|WordAlignmentEnd=51600
+4	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	3	obj	_	Gloss=ACC.SG.3|WordAlignmentBegin=51600|WordAlignmentEnd=51820
+5	do	do	VERB	_	_	3	xcomp	_	Gloss=do|WordAlignmentBegin=51820|WordAlignmentEnd=51983
+6	<	<	PUNCT	_	_	3	punct	_	Gloss=PUNCT|WordAlignmentBegin=51983|WordAlignmentEnd=51983
+7	#	#	PUNCT	_	_	8	punct	_	Gloss=PUNCT|WordAlignmentBegin=51983|WordAlignmentEnd=52573
+8	na	na	AUX	_	ExtPos=SCONJ|PartType=Cop	0	root	_	Gloss=be|Idiom=Yes|WordAlignmentBegin=52573|WordAlignmentEnd=52711
+9	im	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	8	fixed	_	Gloss=NOM.SG.3|InIdiom=Yes|WordAlignmentBegin=52711|WordAlignmentEnd=52776
+10	>+	>+	PUNCT	_	_	12	punct	_	Gloss=PUNCT|WordAlignmentBegin=52776|WordAlignmentEnd=52776
+11	con	con	AUX	_	Aspect=Cons	12	aux	_	Gloss=CONS|WordAlignmentBegin=52776|WordAlignmentEnd=53016
+12	dey	dey	VERB	_	VerbType=Cop	8	advcl:cleft	_	Gloss=be|WordAlignmentBegin=53016|WordAlignmentEnd=53166
+13	hard	hard	ADJ	_	_	12	xcomp	_	Gloss=hard|WordAlignmentBegin=53166|WordAlignmentEnd=53418
+14	//	//	PUNCT	_	_	8	punct	_	Gloss=PUNCT|WordAlignmentBegin=53418|WordAlignmentEnd=53418
 
 ~~~
 

@@ -83,7 +83,7 @@ The following 3 pairs of parts of speech are connected with `vocative`: <tt><a h
 32	de	de	ADP	_	_	34	case	_	_
 33	l'	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	34	det	_	Exponence[Gender]=Absent|SpaceAfter=No
 34	embargo	embargo	NOUN	_	Gender=Masc|Number=Sing	31	nmod	_	Exponence[Gender]=Inherent
-35	imposé	imposer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	34	acl	_	Tense[denom]=Past
+35	imposé	imposer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	34	acl	_	Status[Tense]=Denom
 36	à	à	ADP	_	_	38	case	_	_
 37	l'	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	38	det	_	Exponence[Gender]=Absent|SpaceAfter=No
 38	Irak	Irak	PROPN	_	Gender=Masc|Number=Sing	35	obl:arg	_	Exponence[Gender]=Inherent

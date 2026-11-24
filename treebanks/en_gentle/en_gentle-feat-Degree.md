@@ -9,19 +9,19 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
-1628 tokens (9%) have a non-empty value of `Degree`.
-720 types (20%) occur at least once with a non-empty value of `Degree`.
-635 lemmas (20%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 2 part-of-speech tags: <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (1217; 7% instances), <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> (411; 2% instances).
+1572 tokens (9%) have a non-empty value of `Degree`.
+708 types (19%) occur at least once with a non-empty value of `Degree`.
+626 lemmas (20%) occur at least once with a non-empty value of `Degree`.
+The feature is used with 2 part-of-speech tags: <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (1215; 7% instances), <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> (357; 2% instances).
 
 ### `ADJ`
 
-1217 <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Degree`.
+1215 <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
 `ADJ` tokens may have the following values of `Degree`:
 
 * `Cmp` (41; 3% of non-empty `Degree`): <em>more, lower, better, greater, stronger, worse, Fewer, denser, earlier, further</em>
-* `Pos` (1143; 94% of non-empty `Degree`): <em>next, other, old, open, straight, chronic, right, transitive, final, good</em>
+* `Pos` (1141; 94% of non-empty `Degree`): <em>next, other, old, open, straight, chronic, right, transitive, final, good</em>
 * `Sup` (33; 3% of non-empty `Degree`): <em>nearest, closest, smallest, best, least, most, hardest, lowest, shortest</em>
 * `EMPTY` (11): <em>such</em>
 
@@ -30,27 +30,27 @@ The feature is used with 2 part-of-speech tags: <tt><a href="en_gentle-pos-ADJ.h
   <tr><td><tt></tt></td><td><em>good</em></td><td><em>better</em></td><td><em>best</em></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADJ`. 97% lemmas (473) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADJ`. 97% lemmas (471) occur only with one value of `Degree`.
 
 ### `ADV`
 
-411 <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> tokens (56% of all `ADV` tokens) have a non-empty value of `Degree`.
+357 <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> tokens (49% of all `ADV` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="en_gentle-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (411; 100%).
+The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="en_gentle-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (347; 97%).
 
 `ADV` tokens may have the following values of `Degree`:
 
-* `Cmp` (25; 6% of non-empty `Degree`): <em>better, more, longer, earlier, less, farther, faster, later, sooner</em>
-* `Pos` (381; 93% of non-empty `Degree`): <em>well, still, back, ever, Therefore, above, down, nevermore, again, away</em>
+* `Cmp` (25; 7% of non-empty `Degree`): <em>better, more, longer, earlier, less, farther, faster, later, sooner</em>
+* `Pos` (327; 92% of non-empty `Degree`): <em>well, above, down, nevermore, away, before, currently, far, below, next</em>
 * `Sup` (5; 1% of non-empty `Degree`): <em>most, best</em>
-* `EMPTY` (325): <em>then, just, so, here, also, thus, how, where, now, when</em>
+* `EMPTY` (379): <em>then, just, so, here, also, thus, how, where, now, when</em>
 
 <table>
   <tr><th>Paradigm <i>well</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
   <tr><td><tt></tt></td><td><em>well</em></td><td><em>better</em></td><td><em>best</em></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADV`. 96% lemmas (165) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADV`. 96% lemmas (158) occur only with one value of `Degree`.
 
 ## Relations with Agreement in `Degree`
 

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Daniel Zeman.
 
 Repository: [UD_Warlpiri-UFAL](https://github.com/UniversalDependencies/UD_Warlpiri-UFAL)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udwbp_ufal218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udwbp_ufal219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 
@@ -539,9 +539,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB--NOUN-Abs (26)</li>
-      <li>VERB--NOUN-Dat (1)</li>
       <li>VERB--PRON-Abs (3)</li>
-      <li>VERB--PRON-Dat (4)</li>
+      <li>VERB--PRON-Dat (3)</li>
       <li>VERB-Fin--NOUN-Abs (10)</li>
       <li>VERB-Inf--NOUN-Abs (6)</li>
     </ul>
@@ -551,8 +550,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB--NOUN-Dat (5)</li>
-      <li>VERB--PRON-Dat (1)</li>
+      <li>VERB--NOUN-Dat (6)</li>
+      <li>VERB--PRON-Dat (2)</li>
       <li>VERB-Inf--NOUN-Dat (2)</li>
     </ul>
   </li>

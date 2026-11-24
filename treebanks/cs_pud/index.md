@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Václava Kettnerová, Jan Hajič jr., Silvie Cinková, Zdeňka Urešová, Milan Straka, Jan Hajič, Jaroslava Hlaváčová, Daniel Zeman.
 
 Repository: [UD_Czech-PUD](https://github.com/UniversalDependencies/UD_Czech-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_pud218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_pud219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 
@@ -619,15 +619,26 @@ employ ten-fold cross-validation.
 <ul>
   <li>Imp
     <ul>
-      <li>ADJ-Part: vedoucí, následující, používán, považováno, považovány, probíhající, sestávající, studujících, aktivovány, budoucího</li>
+      <li>ADJ-Part: vedoucí, následující, používán, považováno, považovány, probíhající, psáno, sestávající, studujících, aktivovány</li>
       <li>AUX-Fin: je, by, jsou, bude, jsem, není, jsme, budou, nebude, budeme</li>
       <li>AUX-Inf: být</li>
       <li>AUX-Part: byl, bylo, byla, byly, byli, nebyly, nebyla, nebyl, nebylo</li>
       <li>NOUN-Part: vedoucích</li>
       <li>VERB-Conv: Počínaje, nedbajíce</li>
-      <li>VERB-Fin: říká, obsahuje, pomáhá, ukazuje, existují, patří, tvrdí, nachází, naznačuje, poskytují</li>
-      <li>VERB-Inf: pokračovat, dělat, sledovat, vybírat, měnit, objevovat, posílat, používat, předvídat, tvořit</li>
-      <li>VERB-Part: pracoval, režíroval, snažil, varoval, vládl, vypadaly, bavili, fungoval, konalo, miloval</li>
+      <li>VERB-Fin: má, může, říká, mohou, mají, lze, obsahuje, pomáhá, ukazuje, existují</li>
+      <li>VERB-Inf: mít, vidět, pokračovat, vést, dělat, muset, sledovat, vybírat, držet, hrát</li>
+      <li>VERB-Part: mohl, měl, vedl, mohla, pracoval, vedla, hrál, měla, mělo, měly</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Imp,Perf
+    <ul>
+      <li>ADJ-Part: kvalifikovaných, Konzultované, definována, informován, inspirovaná, investované, investováno, jmenovaný, nejmenovaný, nekvalifikovaný</li>
+      <li>VERB-Fin: absorbují, eliminuje, investují, reprezentuje, trivializují, vypovídá</li>
+      <li>VERB-Inf: inscenovat, interpretovat, investovat, jmenovat</li>
+      <li>VERB-Part: informoval, charakterizovala, degradovalo, emigrovali, informovaly, integrovala, interpretovala, klasifikovaly, kolonizovali, modifikovali</li>
     </ul>
   </li>
 </ul>
@@ -635,11 +646,12 @@ employ ten-fold cross-validation.
 <ul>
   <li>Perf
     <ul>
-      <li>ADJ-Part: nabídnuto, označen, prodán, rozděleno, vytvořen, vytvořena, založena, zamítnuto, dovoleno, namontován</li>
+      <li>ADJ: Spojených, řečeno, propuštěn, Spojené, Spojeným, nabídnuto, otevřenou, otevřená, označen, poražena</li>
+      <li>ADJ-Part: Spojených, řečeno, propuštěn, Spojené, Spojeným, nabídnuto, otevřenou, otevřená, označen, poražena</li>
       <li>VERB-Conv: redukujíc</li>
-      <li>VERB-Fin: Polož, Skončíte, Zhodnotíme, koupím, naučí, navrhnu, navštíví, nedovolí, neobjeví, nerozvodní</li>
-      <li>VERB-Inf: opustit, získat, udělat, vytvořit, zrušit, naučit, odhalit, překročit, vrátit, zajistit</li>
-      <li>VERB-Part: rozhodl, vrátil, objevil, vydala, navštívil, rozhodli, setkal, umožnila, vyhlásil, vytvořil</li>
+      <li>VERB-Fin: stojí, dokáže, stane, zemře, dojde, přijdou, začne, Polož, Rozesměje, Skončíte</li>
+      <li>VERB-Inf: získat, najít, opustit, stát, udělat, vytvořit, vzdát, zrušit, naučit, odhalit</li>
+      <li>VERB-Part: řekl, stal, stala, uvedla, rozhodl, uvedl, vrátil, začal, dostal, ukázala</li>
     </ul>
   </li>
 </ul>

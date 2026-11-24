@@ -19,55 +19,51 @@ The following 51 pairs of parts of speech are connected with `advcl`: <tt><a hre
 ~~~ conllu
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 6 advcl	color:blue
-1	Mammucis	mammucis	NOUN	ncmsn2	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	9:nsubj	LvtbNodeId=a-d173-p933s5w1|SpaceAfter=No
-2	,	,	PUNCT	zc	_	6	punct	6:punct	LvtbNodeId=a-d173-p933s5w2
-3	galvu	galva	NOUN	ncfsa4	Case=Acc|Gender=Fem|Number=Sing	6	obj	6:obj	LvtbNodeId=a-d173-p933s5w3
-4	ar	ar	ADP	sppd	_	5	case	5:case	LvtbNodeId=a-d173-p933s5w4
-5	elkoņiem	elkonis	NOUN	ncmpd2	Case=Dat|Gender=Masc|Number=Plur	6	iobj	6:iobj	LvtbNodeId=a-d173-p933s5w5
-6	sargājot	sargāt	VERB	vmnpu0000000n	Polarity=Pos|VerbForm=Conv	9	advcl	9:advcl	LvtbNodeId=a-d173-p933s5w6|SpaceAfter=No
-7	,	,	PUNCT	zc	_	6	punct	6:punct	LvtbNodeId=a-d173-p933s5w7
-8	drausmīgi	drausmīgi	ADV	rpn	Degree=Pos	9	advmod	9:advmod	LvtbNodeId=a-d173-p933s5w8
-9	kliedza	kliegt	VERB	vmnisi130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-d173-p933s5w9|SpaceAfter=No
-10	.	.	PUNCT	zs	_	9	punct	9:punct	LvtbNodeId=a-d173-p933s5w10
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 6 advcl	color:blue
+1	Taču	taču	CCONJ	cc	_	8	cc	8:cc	LvtbNodeId=a-d177-p693s1w1
+2	pagaidām	pagaidām	ADV	r0n	_	8	advmod	8:advmod	LvtbNodeId=a-d177-p693s1w2
+3	Edmunds	Edmunds	PROPN	npmsn1	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	8:nsubj	LvtbNodeId=a-d177-p693s1w3|SpaceAfter=No
+4	,	,	PUNCT	zc	_	6	punct	6:punct	LvtbNodeId=a-d177-p693s1w4
+5	satraukti	satraukti	ADV	rpn	Degree=Pos	6	advmod	6:advmod	LvtbNodeId=a-d177-p693s1w5
+6	elpojot	elpot	VERB	vmnpu0000000n	Polarity=Pos|VerbForm=Conv	8	advcl	8:advcl	LvtbNodeId=a-d177-p693s1w6|SpaceAfter=No
+7	,	,	PUNCT	zc	_	6	punct	6:punct	LvtbNodeId=a-d177-p693s1w7
+8	klusēja	klusēt	VERB	vmnisi230an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-d177-p693s1w8|SpaceAfter=No
+9	.	.	PUNCT	zs	_	8	punct	8:punct	LvtbNodeId=a-d177-p693s1w9
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 4 advcl	color:blue
-1	Sanī	Sanī	PROPN	npf000	Gender=Fem	2	nsubj	2:nsubj	LvtbNodeId=a-d197-p116s1w1
-2	čaloja	čalot	VERB	vmnist230an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-d197-p116s1w2
-3	kā	kā	SCONJ	cs	_	4	mark	4:mark	LvtbNodeId=a-d197-p116s1w3
-4	strauts	strauts	NOUN	ncmsn1	Case=Nom|Gender=Masc|Number=Sing	2	advcl	2:advcl:kā	LvtbNodeId=a-d197-p116s1w4|SpaceAfter=No
-5	.	.	PUNCT	zs	_	2	punct	2:punct	LvtbNodeId=a-d197-p116s1w5
+# visual-style 2 6 advcl	color:blue
+1	Ilze	Ilze	PROPN	npfsn5	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	2:nsubj	LvtbNodeId=a-d87-p507s3w1
+2	brēc	brēkt	VERB	vmnipt130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-d87-p507s3w2
+3	kā	kā	SCONJ	cs	_	6	mark	6:mark	LvtbNodeId=a-d87-p507s3w3
+4	vārtrūmē	vārtrūme	NOUN	ncfsl5	Case=Loc|Gender=Fem|Number=Sing	5	obl	5:obl:loc	LvtbNodeId=a-d87-p507s3w4
+5	pamests	pamest	VERB	vmnpdmsnpsnpn	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	6	amod	6:amod	LvtbNodeId=a-d87-p507s3w5
+6	kaķēns	kaķēns	NOUN	ncmsn1	Case=Nom|Gender=Masc|Number=Sing	2	advcl	2:advcl:kā	LvtbNodeId=a-d87-p507s3w6|SpaceAfter=No
+7	.	.	PUNCT	zs	_	2	punct	2:punct	LvtbNodeId=a-d87-p507s3w7
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 9 advcl	color:blue
-1	Sāpīgi	sāpīgi	ADV	rpn	Degree=Pos	0	root	0:root	LvtbNodeId=a-c1-p16s4w1|SpaceAfter=No
-2	,	,	PUNCT	zc	_	6	punct	6:punct	LvtbNodeId=a-c1-p16s4w2
-3	tomēr	tomēr	CCONJ	cc	_	6	cc	6:cc	LvtbNodeId=a-c1-p16s4w3
-4	ne	ne	PART	q	Polarity=Neg	6	dep	6:dep	LvtbNodeId=a-c1-p16s4w4
-5	tik	tik	ADV	r0n	PronType=Dem	6	advmod	6:advmod	LvtbNodeId=a-c1-p16s4w5
-6	briesmīgi	briesmīgi	ADV	rpn	Degree=Pos	1	conj	1:conj	LvtbNodeId=a-c1-p16s4w6|SpaceAfter=No
-7	,	,	PUNCT	zc	_	9	punct	9:punct	LvtbNodeId=a-c1-p16s4w7
-8	kā	kā	ADV	r0n	PronType=Int	9	advmod	9:advmod	LvtbNodeId=a-c1-p16s4w8
-9	varētu	varēt	VERB	vonc0i300an	Mood=Cnd|Polarity=Pos|VerbForm=Fin|Voice=Act	5	advcl	5:advcl	LvtbNodeId=a-c1-p16s4w9
-10	padomāt	padomāt	VERB	vmnn0t2000n	Polarity=Pos|VerbForm=Inf	9	xcomp	9:xcomp	LvtbNodeId=a-c1-p16s4w10|SpaceAfter=No
-11	.	.	PUNCT	zs	_	1	punct	1:punct	LvtbNodeId=a-c1-p16s4w11
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 5 advcl	color:blue
+1	Tāpēc	tāpēc	ADV	r0n	_	0	root	0:root	LvtbNodeId=a-d60-p68s1w1|SpaceAfter=No
+2	,	,	PUNCT	zc	_	5	punct	5:punct	LvtbNodeId=a-d60-p68s1w2
+3	ka	ka	SCONJ	cs	_	5	mark	5:mark	LvtbNodeId=a-d60-p68s1w3
+4	veca	vecs	ADJ	affsnnp	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	5	xcomp	5:xcomp	LvtbNodeId=a-d60-p68s1w4
+5	palieku	palikt	VERB	vtnipi11san	Evident=Fh|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	1:advcl	LvtbNodeId=a-d60-p68s1w5|SpaceAfter=No
+6	.	.	PUNCT	zs	_	1	punct	1:punct	LvtbNodeId=a-d60-p68s1w6
 
 ~~~
 

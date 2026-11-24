@@ -26,4 +26,4 @@ compound(thousand, fifty)
 compound(tisíc, pět)
 compound(thousand, five)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:49 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:28 CET -->

@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  مليون (<tt><a href="ar_padt-pos-NUM.
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.090634 (the average of all parts of speech is 1.761981).
+The form / lemma ratio of `NUM` is 1.090634 (the average of all parts of speech is 1.762127).
 
 The 1st highest number of forms (16) was observed with the lemma “أَلف”: آلاف, آلافا, ألف, ألفا, ألفاً, ألفي, ألفين, الآلاف, الألف, الاف, الالاف, الف, الفا, الفى, الفي, الفين.
 

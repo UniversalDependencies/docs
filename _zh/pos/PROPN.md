@@ -14,4 +14,4 @@ A proper noun is a noun (or nominal content word, or substantive) that is the na
 - 孔子 / _kǒngzǐ_ "Confucius"
 - 亞洲 / _yàzhōu_ "Asia"
 - <b>威威</b> 木材 公司 ／ _<b>wēiwēi</b> mùcái gōngsī_ "<b>Weiwei</b> Timber Company"
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:38 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:29 CET -->

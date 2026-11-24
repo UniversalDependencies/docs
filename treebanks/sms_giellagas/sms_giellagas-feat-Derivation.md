@@ -10,7 +10,7 @@ This feature is language-specific.
 It occurs with 2 different values: `InchL`, `Men`.
 
 14 tokens (0%) have a non-empty value of `Derivation`.
-12 types (2%) occur at least once with a non-empty value of `Derivation`.
+12 types (1%) occur at least once with a non-empty value of `Derivation`.
 12 lemmas (2%) occur at least once with a non-empty value of `Derivation`.
 The feature is used with 1 part-of-speech tags: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (14; 0% instances).
 

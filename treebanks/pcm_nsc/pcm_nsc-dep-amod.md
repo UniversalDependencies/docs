@@ -22,20 +22,20 @@ The following 9 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 amod	color:blue
-1	but	but	CCONJ	_	_	12	discourse	_	AlignBegin=48990|AlignEnd=49170|Gloss=but
-2	any	any	DET	_	_	4	det	_	AlignBegin=49170|AlignEnd=49420|Gloss=any
-3	small	small	ADJ	_	_	4	amod	_	AlignBegin=49420|AlignEnd=49740|Gloss=small
-4	tin	ting	NOUN	_	_	12	dislocated	_	AlignBegin=49740|AlignEnd=49880|Gloss=thing
-5	weh	wey	SCONJ	_	_	7	mark	_	AlignBegin=49880|AlignEnd=50030|Gloss=REL
-6	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	AlignBegin=50030|AlignEnd=50090|Gloss=NOM.2
-7	do	do	VERB	_	_	4	acl:relcl	_	AlignBegin=50090|AlignEnd=50160|Gloss=do
-8	<	<	PUNCT	_	_	4	punct	_	AlignBegin=50160|AlignEnd=50160|Gloss=PUNCT
-9	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	12	nsubj	_	AlignBegin=50160|AlignEnd=50270|Gloss=NOM.2
-10	go	go	AUX	_	Aspect=Prosp	12	aux	_	AlignBegin=50270|AlignEnd=50390|Gloss=PROSP
-11	quick	quick	ADJ	_	_	12	advcl	_	AlignBegin=50390|AlignEnd=50630|Gloss=quick
-12	get	get	VERB	_	_	0	root	_	AlignBegin=50630|AlignEnd=50749|Gloss=get
-13	money	money	NOUN	_	_	12	obj	_	AlignBegin=50749|AlignEnd=51070|Gloss=money
-14	//	//	PUNCT	_	_	12	punct	_	AlignBegin=51070|AlignEnd=51070|Gloss=PUNCT
+1	but	but	CCONJ	_	_	12	discourse	_	Gloss=but|WordAlignmentBegin=48990|WordAlignmentEnd=49170
+2	any	any	DET	_	_	4	det	_	Gloss=any|WordAlignmentBegin=49170|WordAlignmentEnd=49420
+3	small	small	ADJ	_	_	4	amod	_	Gloss=small|WordAlignmentBegin=49420|WordAlignmentEnd=49740
+4	tin	ting	NOUN	_	_	12	dislocated	_	Gloss=thing|WordAlignmentBegin=49740|WordAlignmentEnd=49880
+5	weh	wey	SCONJ	_	_	7	mark	_	Gloss=REL|WordAlignmentBegin=49880|WordAlignmentEnd=50030
+6	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	Gloss=NOM.2|WordAlignmentBegin=50030|WordAlignmentEnd=50090
+7	do	do	VERB	_	_	4	acl:relcl	_	Gloss=do|WordAlignmentBegin=50090|WordAlignmentEnd=50160
+8	<	<	PUNCT	_	_	4	punct	_	Gloss=PUNCT|WordAlignmentBegin=50160|WordAlignmentEnd=50160
+9	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	12	nsubj	_	Gloss=NOM.2|WordAlignmentBegin=50160|WordAlignmentEnd=50270
+10	go	go	AUX	_	Aspect=Prosp	12	aux	_	Gloss=PROSP|WordAlignmentBegin=50270|WordAlignmentEnd=50390
+11	quick	quick	ADJ	_	_	12	advcl	_	Gloss=quick|WordAlignmentBegin=50390|WordAlignmentEnd=50630
+12	get	get	VERB	_	_	0	root	_	Gloss=get|WordAlignmentBegin=50630|WordAlignmentEnd=50749
+13	money	money	NOUN	_	_	12	obj	_	Gloss=money|WordAlignmentBegin=50749|WordAlignmentEnd=51070
+14	//	//	PUNCT	_	_	12	punct	_	Gloss=PUNCT|WordAlignmentBegin=51070|WordAlignmentEnd=51070
 
 ~~~
 
@@ -46,15 +46,15 @@ The following 9 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 amod	color:blue
-1	maybe	maybe	ADV	_	_	5	advmod	_	AlignBegin=163800|AlignEnd=164018|Gloss=maybe
-2	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	AlignBegin=164018|AlignEnd=164150|Gloss=NOM.SG.1
-3	fit	fit	AUX	_	Mood=Pot	5	aux	_	AlignBegin=164150|AlignEnd=164310|Gloss=ABIL
-4	con	con	AUX	_	Aspect=Cons	5	aux	_	AlignBegin=164310|AlignEnd=164490|Gloss=CONS
-5	finish	finish	VERB	_	_	0	root	_	AlignBegin=164490|AlignEnd=164920|Gloss=finish
-6	junior	junior	ADJ	_	_	7	amod	_	AlignBegin=164920|AlignEnd=165227|Gloss=junior
-7	WAEC	WAEC	PROPN	_	_	5	obj	_	AlignBegin=165227|AlignEnd=165570|Gloss=WAEC
-8	now	now	ADV	_	_	5	advmod	_	AlignBegin=165570|AlignEnd=165782|Gloss=now
-9	//	//	PUNCT	_	_	5	punct	_	AlignBegin=165782|AlignEnd=165782|Gloss=PUNCT
+1	maybe	maybe	ADV	_	_	5	advmod	_	Gloss=maybe|WordAlignmentBegin=163800|WordAlignmentEnd=164018
+2	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Gloss=NOM.SG.1|WordAlignmentBegin=164018|WordAlignmentEnd=164150
+3	fit	fit	AUX	_	Mood=Pot	5	aux	_	Gloss=ABIL|WordAlignmentBegin=164150|WordAlignmentEnd=164310
+4	con	con	AUX	_	Aspect=Cons	5	aux	_	Gloss=CONS|WordAlignmentBegin=164310|WordAlignmentEnd=164490
+5	finish	finish	VERB	_	_	0	root	_	Gloss=finish|WordAlignmentBegin=164490|WordAlignmentEnd=164920
+6	junior	junior	ADJ	_	_	7	amod	_	Gloss=junior|WordAlignmentBegin=164920|WordAlignmentEnd=165227
+7	WAEC	WAEC	PROPN	_	_	5	obj	_	Gloss=WAEC|WordAlignmentBegin=165227|WordAlignmentEnd=165570
+8	now	now	ADV	_	_	5	advmod	_	Gloss=now|WordAlignmentBegin=165570|WordAlignmentEnd=165782
+9	//	//	PUNCT	_	_	5	punct	_	Gloss=PUNCT|WordAlignmentBegin=165782|WordAlignmentEnd=165782
 
 ~~~
 
@@ -65,20 +65,20 @@ The following 9 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 10 amod	color:blue
-1	so	so	ADV	_	_	4	discourse	_	AlignBegin=252100|AlignEnd=252243|Gloss=so
-2	de	dem	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	AlignBegin=252243|AlignEnd=252385|Gloss=NOM.PL.3
-3	go	go	AUX	_	Aspect=Prosp	4	aux	_	AlignBegin=252385|AlignEnd=252528|Gloss=PROSP
-4	say	say	VERB	_	_	0	root	_	AlignBegin=252528|AlignEnd=252671|Gloss=say
-5	[	[	PUNCT	_	_	11	punct	_	AlignBegin=252671|AlignEnd=252671|Gloss=PUNCT
-6	dis	dis	DET	_	Number=Sing|PronType=Dem	7	det	_	AlignBegin=252671|AlignEnd=252814|Gloss=SG.DEM
-7	wedding	wedding	NOUN	_	_	11	nsubj	_	AlignBegin=252814|AlignEnd=252956|Gloss=wedding
-8	no	no	AUX	_	Polarity=Neg	11	aux	_	AlignBegin=252956|AlignEnd=253099|Gloss=NEG
-9	be	be	AUX	_	PartType=Cop	11	cop	_	AlignBegin=253099|AlignEnd=253242|Gloss=be1
-10	only	only	ADJ	_	_	11	amod	_	AlignBegin=253242|AlignEnd=253385|Gloss=only
-11	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	4	parataxis	_	AlignBegin=253385|AlignEnd=253527|Gloss=NOM.2
-12	o	o	PART	_	PartType=Disc	11	advmod	_	AlignBegin=253527|AlignEnd=253670|Gloss=EMPH
-13	]	]	PUNCT	_	_	11	punct	_	AlignBegin=253670|AlignEnd=253670|Gloss=PUNCT
-14	//	//	PUNCT	_	_	4	punct	_	AlignBegin=253670|AlignEnd=253670|Gloss=PUNCT
+1	so	so	ADV	_	_	4	discourse	_	Gloss=so|WordAlignmentBegin=252100|WordAlignmentEnd=252243
+2	de	dem	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	Gloss=NOM.PL.3|WordAlignmentBegin=252243|WordAlignmentEnd=252385
+3	go	go	AUX	_	Aspect=Prosp	4	aux	_	Gloss=PROSP|WordAlignmentBegin=252385|WordAlignmentEnd=252528
+4	say	say	VERB	_	_	0	root	_	Gloss=say|WordAlignmentBegin=252528|WordAlignmentEnd=252671
+5	[	[	PUNCT	_	_	11	punct	_	Gloss=PUNCT|WordAlignmentBegin=252671|WordAlignmentEnd=252671
+6	dis	dis	DET	_	Number=Sing|PronType=Dem	7	det	_	Gloss=SG.DEM|WordAlignmentBegin=252671|WordAlignmentEnd=252814
+7	wedding	wedding	NOUN	_	_	11	nsubj	_	Gloss=wedding|WordAlignmentBegin=252814|WordAlignmentEnd=252956
+8	no	no	AUX	_	Polarity=Neg	11	aux	_	Gloss=NEG|WordAlignmentBegin=252956|WordAlignmentEnd=253099
+9	be	be	AUX	_	PartType=Cop	11	cop	_	Gloss=be1|WordAlignmentBegin=253099|WordAlignmentEnd=253242
+10	only	only	ADJ	_	_	11	amod	_	Gloss=only|WordAlignmentBegin=253242|WordAlignmentEnd=253385
+11	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	4	parataxis	_	Gloss=NOM.2|WordAlignmentBegin=253385|WordAlignmentEnd=253527
+12	o	o	PART	_	PartType=Disc	11	advmod	_	Gloss=EMPH|WordAlignmentBegin=253527|WordAlignmentEnd=253670
+13	]	]	PUNCT	_	_	11	punct	_	Gloss=PUNCT|WordAlignmentBegin=253670|WordAlignmentEnd=253670
+14	//	//	PUNCT	_	_	4	punct	_	Gloss=PUNCT|WordAlignmentBegin=253670|WordAlignmentEnd=253670
 
 ~~~
 

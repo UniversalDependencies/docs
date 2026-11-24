@@ -9,32 +9,32 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-132 tokens (0%) have a non-empty value of `Typo`.
-93 types (1%) occur at least once with a non-empty value of `Typo`.
-84 lemmas (2%) occur at least once with a non-empty value of `Typo`.
-The feature is used with 10 part-of-speech tags: <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (68; 0% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (17; 0% instances), <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (16; 0% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (9; 0% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+134 tokens (0%) have a non-empty value of `Typo`.
+95 types (1%) occur at least once with a non-empty value of `Typo`.
+86 lemmas (2%) occur at least once with a non-empty value of `Typo`.
+The feature is used with 10 part-of-speech tags: <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (69; 0% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (18; 0% instances), <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (16; 0% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (9; 0% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-68 <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Typo`.
+69 <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="gd_arcosg-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (66; 97%), <tt><a href="gd_arcosg-feat-Case.html">Case</a></tt><tt>=Gen</tt> (58; 85%), <tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (58; 85%), <tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (41; 60%).
+The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="gd_arcosg-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (67; 97%), <tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (59; 86%), <tt><a href="gd_arcosg-feat-Case.html">Case</a></tt><tt>=Gen</tt> (58; 84%), <tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (41; 59%).
 
 `NOUN` tokens may have the following values of `Typo`:
 
-* `Yes` (68; 100% of non-empty `Typo`): <em>dìon, diofar, pàirc, adhbhar, chlach, meadhon, Chroàiseanaich, Cìr, Mhuslamaich, baile</em>
+* `Yes` (69; 100% of non-empty `Typo`): <em>dìon, diofar, pàirc, adhbhar, chlach, meadhon, Chroàiseanaich, Cìr, Mhuslamaich, baile</em>
 
-`Typo` seems to be **lexical feature** of `NOUN`. 100% lemmas (56) occur only with one value of `Typo`.
+`Typo` seems to be **lexical feature** of `NOUN`. 100% lemmas (57) occur only with one value of `Typo`.
 
 ### `PROPN`
 
-17 <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `Typo`.
+18 <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `PROPN` and `Typo` co-occurred: <tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (15; 88%), <tt><a href="gd_arcosg-feat-NounType.html">NounType</a></tt><tt>=Prs</tt> (15; 88%).
+The most frequent other feature values with which `PROPN` and `Typo` co-occurred: <tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (15; 83%), <tt><a href="gd_arcosg-feat-NounType.html">NounType</a></tt><tt>=Prs</tt> (15; 83%).
 
 `PROPN` tokens may have the following values of `Typo`:
 
-* `Yes` (17; 100% of non-empty `Typo`): <em>lain, Yugoslavai, Èirinn</em>
+* `Yes` (18; 100% of non-empty `Typo`): <em>lain, Fuerst, Yugoslavai, Èirinn</em>
 
 ### `DET`
 

@@ -22,39 +22,31 @@ The following 113 pairs of parts of speech are connected with `conj`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 5 conj	color:blue
-1	Tia	Tia	PROPN	npfsn4	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	2:nsubj|5:nsubj	LvtbNodeId=a-d119-p268s3w1
-2	novērsās	novērsties	VERB	vmyisi130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Reflex=Yes|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-d119-p268s3w2
-3	un	un	CCONJ	cc	_	5	cc	5:cc	LvtbNodeId=a-d119-p268s3w3
-4	ilgi	ilgi	ADV	rpn	Degree=Pos	5	advmod	5:advmod	LvtbNodeId=a-d119-p268s3w4
-5	lūkojās	lūkoties	VERB	vmyisi230an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Reflex=Yes|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	2:conj	LvtbNodeId=a-d119-p268s3w5
-6	pa	pa	ADP	spsa	_	7	case	7:case	LvtbNodeId=a-d119-p268s3w6
-7	logu	logs	NOUN	ncmsa1	Case=Acc|Gender=Masc|Number=Sing	5	obl	5:obl:pa	LvtbNodeId=a-d119-p268s3w7
-8	uz	uz	ADP	spsa	_	11	case	11:case	LvtbNodeId=a-d119-p268s3w8
-9	viņu	viņš	PRON	pp3mpgn	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	11	nmod	11:nmod	LvtbNodeId=a-d119-p268s3w9
-10	lielo	liels	ADJ	affsayp	Case=Acc|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	11	amod	11:amod	LvtbNodeId=a-d119-p268s3w10
-11	pļavu	pļava	NOUN	ncfsa4	Case=Acc|Gender=Fem|Number=Sing	5	obl	5:obl:uz	LvtbNodeId=a-d119-p268s3w11|SpaceAfter=No
-12	.	.	PUNCT	zs	_	2	punct	2:punct	LvtbNodeId=a-d119-p268s3w12
+1	Novēlam	novēlēt	VERB	vmnipt31pan	Evident=Fh|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-p8106-p3s1w1
+2	turpināt	turpināt	VERB	vpnn0t3000n	Polarity=Pos|VerbForm=Inf	1	ccomp	1:ccomp	LvtbNodeId=a-p8106-p3s1w2
+3	iesākto	iesākt	VERB	vmnpdmsapsypn	Aspect=Perf|Case=Acc|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	2	obj	2:obj	LvtbNodeId=a-p8106-p3s1w3
+4	un	un	CCONJ	cc	_	5	cc	5:cc	LvtbNodeId=a-p8106-p3s1w4
+5	uzfilmēt	uzfilmēt	VERB	vmnn0t2000n	Polarity=Pos|VerbForm=Inf	2	conj	1:ccomp|2:conj	LvtbNodeId=a-p8106-p3s1w5
+6	kinofilmu	kinofilma	NOUN	ncfsa4	Case=Acc|Gender=Fem|Number=Sing	5	obj	5:obj	LvtbNodeId=a-p8106-p3s1w6
+7	pilnā	pilns	ADJ	afmslnp	Case=Loc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	8	amod	8:amod	LvtbNodeId=a-p8106-p3s1w7
+8	garumā	garums	NOUN	ncmsl1	Case=Loc|Gender=Masc|Number=Sing	5	obl	5:obl:loc	LvtbNodeId=a-p8106-p3s1w8|SpaceAfter=No
+9	!	!	PUNCT	zs	_	1	punct	1:punct	LvtbNodeId=a-p8106-p3s1w9
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 10 conj	color:blue
-1	Milda	Milda	PROPN	npfsn4	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	2:nsubj	LvtbNodeId=a-d173-p1637s2w1
-2	stāsta	stāstīt	VERB	vmnipt330an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-d173-p1637s2w2|SpaceAfter=No
-3	,	,	PUNCT	zc	_	6	punct	6:punct	LvtbNodeId=a-d173-p1637s2w3
-4	ka	ka	SCONJ	cs	_	6	mark	6:mark	LvtbNodeId=a-d173-p1637s2w4
-5	šos	šis	DET	pd3mpan	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Dem	6	obj	6:obj	LvtbNodeId=a-d173-p1637s2w5
-6	audīšot	aust	VERB	vmnrft100an	Evident=Nfh|Mood=Qot|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	2	ccomp	2:ccomp	LvtbNodeId=a-d173-p1637s2w6
-7	rakstā	raksts	NOUN	ncmsl1	Case=Loc|Gender=Masc|Number=Sing	6	obl	6:obl:loc	LvtbNodeId=a-d173-p1637s2w7|SpaceAfter=No
-8	,	,	PUNCT	zc	_	10	punct	10:punct	LvtbNodeId=a-d173-p1637s2w8
-9	nevis	nevis	CCONJ	cc	_	10	cc	10:cc	LvtbNodeId=a-d173-p1637s2w9
-10	strīpās	strīpa	NOUN	ncfpl4	Case=Loc|Gender=Fem|Number=Plur	7	conj	6:obl:loc|7:conj	LvtbNodeId=a-d173-p1637s2w10|SpaceAfter=No
-11	.	.	PUNCT	zs	_	2	punct	2:punct	LvtbNodeId=a-d173-p1637s2w11
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 4 conj	color:blue
+1	Reklāmas	reklāma	NOUN	ncfsg4	Case=Gen|Gender=Fem|Number=Sing	5	nmod	5:nmod:gen	LvtbNodeId=a-p3767-p10s1w1
+2	un	un	CCONJ	cc	_	4	cc	4:cc	LvtbNodeId=a-p3767-p10s1w2
+3	sabiedrisko	sabiedrisks	ADJ	affpgyp	Case=Gen|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur	4	amod	4:amod	LvtbNodeId=a-p3767-p10s1w3
+4	attiecību	attiecības	NOUN	ncfdg4	Case=Gen|Gender=Fem|Number=Ptan	1	conj	1:conj|5:nmod:gen	LvtbNodeId=a-p3767-p10s1w4
+5	daļas	daļa	NOUN	ncfsg4	Case=Gen|Gender=Fem|Number=Sing	6	nmod	6:nmod:gen	LvtbNodeId=a-p3767-p10s1w5
+6	vadītāja	vadītāja	NOUN	ncfsn4	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	LvtbNodeId=a-p3767-p10s1w6
 
 ~~~
 

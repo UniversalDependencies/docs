@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-348 nodes (4%) are attached to their parents as `advmod`.
+345 nodes (4%) are attached to their parents as `advmod`.
 
-245 instances of `advmod` (70%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.60344827586207.
+242 instances of `advmod` (70%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.50724637681159.
 
-The following 10 pairs of parts of speech are connected with `advmod`: <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (238; 68% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-PART.html">PART</a></tt> (67; 19% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (20; 6% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (9; 3% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-PART.html">PART</a></tt> (3; 1% instances), <tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt>-<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt>-<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="yo_ytb-pos-DET.html">DET</a></tt>-<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `advmod`: <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (235; 68% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-PART.html">PART</a></tt> (67; 19% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (20; 6% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (10; 3% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-PART.html">PART</a></tt> (3; 1% instances), <tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt>-<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt>-<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="yo_ytb-pos-DET.html">DET</a></tt>-<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 10 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 advmod	color:blue
-1	Nítorí	nítorí	SCONJ	_	_	5	mark	_	Gloss=for|Ref=JOHN_10.19
+1	Nítorí	nítorí	SCONJ	_	ExtPos=SCONJ	5	mark	_	Gloss=for|Ref=JOHN_10.19
 2	náà	náà	ADV	_	_	1	fixed	_	Gloss=that|Ref=JOHN_10.19
 3	ìyapa	ìyapa	NOUN	_	_	5	nsubj	_	Gloss=separation|Ref=JOHN_10.19
 4	tún	tún	ADV	_	_	5	advmod	_	Gloss=again|Ref=JOHN_10.19
@@ -32,7 +32,7 @@ The following 10 pairs of parts of speech are connected with `advmod`: <tt><a hr
 8	Júù	júù	PROPN	_	_	5	obl	_	Gloss=jews|Ref=JOHN_10.19
 9	nítorí	nítorí	SCONJ	_	_	10	case	_	Gloss=because|Ref=JOHN_10.19
 10	ọ̀rọ̀	ọ̀rọ̀	NOUN	_	_	5	obl	_	Gloss=word|Ref=JOHN_10.19
-11	wọ̀nyí	wọ̀nyí	DET	_	_	10	det	_	Gloss=these|Ref=JOHN_10.19|SpaceAfter=No
+11	wọ̀nyí	wọ̀nyí	DET	_	PronType=Dem	10	det	_	Gloss=these|Ref=JOHN_10.19|SpaceAfter=No
 12	.	.	PUNCT	_	_	5	punct	_	Gloss=.|Ref=JOHN_10.19
 
 ~~~
@@ -44,10 +44,10 @@ The following 10 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 10 advmod	color:blue
-1	Òun	Òun	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=he|Ref=JOHN_10.13
+1	Òun	òun	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=he|Ref=JOHN_10.13
 2	sá	sá	VERB	_	_	0	root	_	Gloss=fled|Ref=JOHN_10.13
 3	lọ	lọ	VERB	_	_	2	compound:svc	_	Gloss=go|Ref=JOHN_10.13
-4	nítorí	nítorí	SCONJ	_	_	8	mark	_	Gloss=because|Ref=JOHN_10.13
+4	nítorí	nítorí	SCONJ	_	ExtPos=SCONJ	8	mark	_	Gloss=because|Ref=JOHN_10.13
 5	tí	tí	PRON	_	PronType=Rel	4	fixed	_	Gloss=that|Ref=JOHN_10.13
 6	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	Gloss=he|Ref=JOHN_10.13
 7	jẹ́	jẹ́	AUX	_	_	8	cop	_	Gloss=be|Ref=JOHN_10.13
@@ -69,7 +69,7 @@ The following 10 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 8 advmod	color:blue
-1	Ẹ	Ẹ	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	Gloss=you|Ref=PS_134.2
+1	Ẹ	ẹ	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	Gloss=you|Ref=PS_134.2
 2	gbé	gbé	VERB	_	_	0	root	_	Gloss=lift|Ref=PS_134.2
 3	ọwọ́	ọwọ́	NOUN	_	_	2	obj	_	Gloss=hand|Ref=PS_134.2
 4	yín	yín	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	3	nmod	_	Gloss=your|Ref=PS_134.2

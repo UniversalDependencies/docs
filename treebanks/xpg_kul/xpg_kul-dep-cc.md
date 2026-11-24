@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-117 nodes (6%) are attached to their parents as `cc`.
+118 nodes (6%) are attached to their parents as `cc`.
 
-61 instances of `cc` (52%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.91452991452991.
+62 instances of `cc` (53%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.90677966101695.
 
-The following 10 pairs of parts of speech are connected with `cc`: <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xpg_kul-pos-CCONJ.html">CCONJ</a></tt> (63; 54% instances), <tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt>-<tt><a href="xpg_kul-pos-CCONJ.html">CCONJ</a></tt> (23; 20% instances), <tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xpg_kul-pos-CCONJ.html">CCONJ</a></tt> (11; 9% instances), <tt><a href="xpg_kul-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xpg_kul-pos-CCONJ.html">CCONJ</a></tt> (5; 4% instances), <tt><a href="xpg_kul-pos-AUX.html">AUX</a></tt>-<tt><a href="xpg_kul-pos-CCONJ.html">CCONJ</a></tt> (4; 3% instances), <tt><a href="xpg_kul-pos-X.html">X</a></tt>-<tt><a href="xpg_kul-pos-CCONJ.html">CCONJ</a></tt> (4; 3% instances), <tt><a href="xpg_kul-pos-ADV.html">ADV</a></tt>-<tt><a href="xpg_kul-pos-CCONJ.html">CCONJ</a></tt> (2; 2% instances), <tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt>-<tt><a href="xpg_kul-pos-CCONJ.html">CCONJ</a></tt> (2; 2% instances), <tt><a href="xpg_kul-pos-SYM.html">SYM</a></tt>-<tt><a href="xpg_kul-pos-CCONJ.html">CCONJ</a></tt> (2; 2% instances), <tt><a href="xpg_kul-pos-ADP.html">ADP</a></tt>-<tt><a href="xpg_kul-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances).
+The following 10 pairs of parts of speech are connected with `cc`: <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xpg_kul-pos-CCONJ.html">CCONJ</a></tt> (63; 53% instances), <tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt>-<tt><a href="xpg_kul-pos-CCONJ.html">CCONJ</a></tt> (24; 20% instances), <tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xpg_kul-pos-CCONJ.html">CCONJ</a></tt> (11; 9% instances), <tt><a href="xpg_kul-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xpg_kul-pos-CCONJ.html">CCONJ</a></tt> (5; 4% instances), <tt><a href="xpg_kul-pos-AUX.html">AUX</a></tt>-<tt><a href="xpg_kul-pos-CCONJ.html">CCONJ</a></tt> (4; 3% instances), <tt><a href="xpg_kul-pos-X.html">X</a></tt>-<tt><a href="xpg_kul-pos-CCONJ.html">CCONJ</a></tt> (4; 3% instances), <tt><a href="xpg_kul-pos-ADV.html">ADV</a></tt>-<tt><a href="xpg_kul-pos-CCONJ.html">CCONJ</a></tt> (2; 2% instances), <tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt>-<tt><a href="xpg_kul-pos-CCONJ.html">CCONJ</a></tt> (2; 2% instances), <tt><a href="xpg_kul-pos-SYM.html">SYM</a></tt>-<tt><a href="xpg_kul-pos-CCONJ.html">CCONJ</a></tt> (2; 2% instances), <tt><a href="xpg_kul-pos-ADP.html">ADP</a></tt>-<tt><a href="xpg_kul-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -62,8 +62,8 @@ The following 10 pairs of parts of speech are connected with `cc`: <tt><a href="
 1	[...]	[...]	SYM	_	_	0	root	_	Ref=TM1001271-1-2
 2	antiyokoy	antiyokoy	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	1	obl	_	Ref=TM1001271-1-2
 3	∙	∙	PUNCT	_	_	1	punct	_	Ref=TM1001271-1-3
-4	Silẹṿkoỵ	Silevkoy	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	1	obl	_	Ref=TM1001271-1-4
-5	kẹỵ	ke	CCONJ	_	_	4	cc	_	Ref=TM1001271-1-5
+4	Silẹṿkoỵ	Silevkoy	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	1	obl	_	Ref=TM1001271-1-4|SpaceAfter=No
+5	-kẹỵ	ke	CCONJ	_	_	4	cc	_	Ref=TM1001271-1-5
 
 ~~~
 

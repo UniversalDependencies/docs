@@ -51,7 +51,7 @@ The following 2 pairs of parts of speech are connected with `orphan`: <tt><a hre
 5	á	á	ADP	Pr	_	6	case	_	_
 6	Kvinnuráðstevnuni	kvinnaráðstevna	NOUN	N	Case=Dat|Definite=Def|Gender=Fem|Number=Sing	3	obl	_	_
 7	í	í	ADP	Pr	_	8	case	_	_
-8	Peking	Peking	PROPN	N	Case=Acc|Number=Sing	6	obl	_	_
+8	Peking	Peking	PROPN	N	Case=Acc|Number=Sing	6	nmod	_	_
 9	og	og	CCONJ	CC	_	11	cc	_	_
 10	í	í	ADP	Pr	_	11	case	_	_
 11	2000	2000	NUM	Num	Case=Dat	3	conj	_	_

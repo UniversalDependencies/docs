@@ -56,7 +56,7 @@ The following 10 pairs of parts of speech are connected with `det:predet`: <tt><
 2	these	this	PRON	DT	_	4	nsubj	4:nsubj	_
 3	are	be	AUX	VBP	_	4	cop	4:cop	_
 4	mine	mine	PRON	PRP	_	0	root	0:root	SpaceAfter=No
-5	!	!	PUNCT	!	_	4	punct	4:punct	_
+5	!	!	PUNCT	.	_	4	punct	4:punct	_
 
 ~~~
 

@@ -18,7 +18,7 @@ The feature is used with 4 part-of-speech tags: <tt><a href="it_old-pos-VERB.htm
 
 14787 <tt><a href="it_old-pos-VERB.html">VERB</a></tt> tokens (87% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="it_old-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (13822; 93%), <tt><a href="it_old-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (11392; 77%), <tt><a href="it_old-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10930; 74%), <tt><a href="it_old-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9761; 66%), <tt><a href="it_old-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (9471; 64%), <tt><a href="it_old-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (9370; 63%), <tt><a href="it_old-feat-Person.html">Person</a></tt><tt>=3</tt> (8275; 56%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="it_old-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (13822; 93%), <tt><a href="it_old-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (11391; 77%), <tt><a href="it_old-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10930; 74%), <tt><a href="it_old-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9761; 66%), <tt><a href="it_old-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (9471; 64%), <tt><a href="it_old-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (9371; 63%), <tt><a href="it_old-feat-Person.html">Person</a></tt><tt>=3</tt> (8276; 56%).
 
 `VERB` tokens may have the following values of `Tense`:
 
@@ -162,7 +162,7 @@ The most frequent other feature values with which `ADJ` and `Tense` co-occurred:
 `ADJ` tokens may have the following values of `Tense`:
 
 * `Past` (1; 100% of non-empty `Tense`): <em>disdegnoso</em>
-* `EMPTY` (5198): <em>gran, dolce, alto, primo, prima, buon, bella, maggior, grande, alta</em>
+* `EMPTY` (5202): <em>gran, dolce, alto, primo, prima, buon, bella, maggior, grande, alta</em>
 
 ### `NOUN`
 
@@ -173,13 +173,13 @@ The most frequent other feature values with which `NOUN` and `Tense` co-occurred
 `NOUN` tokens may have the following values of `Tense`:
 
 * `Pres` (1; 100% of non-empty `Tense`): <em>luce</em>
-* `EMPTY` (15952): <em>occhi, mondo, terra, gente, maestro, parte, ciel, mente, viso, loco</em>
+* `EMPTY` (15954): <em>occhi, mondo, terra, gente, maestro, parte, ciel, mente, viso, loco</em>
 
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>VERB --[<tt><a href="it_old-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1488; 51%),
-<tt>VERB --[<tt><a href="it_old-dep-conj.html">conj</a></tt>]--> VERB</tt> (1363; 88%),
+<tt>VERB --[<tt><a href="it_old-dep-conj.html">conj</a></tt>]--> VERB</tt> (1362; 88%),
 <tt>VERB --[<tt><a href="it_old-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (965; 75%),
 <tt>VERB --[<tt><a href="it_old-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (324; 58%),
 <tt>VERB --[<tt><a href="it_old-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (235; 53%),

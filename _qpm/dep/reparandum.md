@@ -14,4 +14,4 @@ lit: enter-you in  village-the will to see-you  at left - right a new house
 "upon entering the village you will see at the left - at the right a new house" 
 reparandum(lǽvo, désne)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:43 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:39:13 CET -->

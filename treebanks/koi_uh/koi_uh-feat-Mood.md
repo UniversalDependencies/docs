@@ -10,7 +10,7 @@ This feature is universal.
 It occurs with 3 different values: `Cnd`, `Imp`, `Ind`.
 
 184 tokens (16%) have a non-empty value of `Mood`.
-149 types (24%) occur at least once with a non-empty value of `Mood`.
+147 types (24%) occur at least once with a non-empty value of `Mood`.
 112 lemmas (23%) occur at least once with a non-empty value of `Mood`.
 The feature is used with 2 part-of-speech tags: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (153; 13% instances), <tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> (31; 3% instances).
 
@@ -22,9 +22,9 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 `VERB` tokens may have the following values of `Mood`:
 
-* `Imp` (5; 3% of non-empty `Mood`): <em>осьт, видзöтлы, висьö, кольччы</em>
-* `Ind` (148; 97% of non-empty `Mood`): <em>зэрӧ, быдмис, локтін, босьтіс, вашöтö, велалас, высьтіс, гижис, котӧртіс, краситӧм</em>
-* `EMPTY` (53): <em>вӧтны, керны, öшöтöмöн, адззавлыны, адззыв, аркмы, артав, артась, боньгыныт, бырӧм</em>
+* `Imp` (5; 3% of non-empty `Mood`): <em>осьт, видзӧтлы, висьӧ, кольччы</em>
+* `Ind` (148; 97% of non-empty `Mood`): <em>зэрӧ, быдмис, локтін, юаліс, босьтіс, вашӧтӧ, велалас, высьтіс, гижис, котӧртіс</em>
+* `EMPTY` (53): <em>вӧтны, керны, адззавлыны, адззыв, аркмы, артав, артась, боньгыныт, бырӧм, бӧрйыны</em>
 
 <table>
   <tr><th>Paradigm <i>кольччыны</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th></tr>
@@ -44,7 +44,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 
 * `Cnd` (1; 3% of non-empty `Mood`): <em>бы</em>
 * `Ind` (30; 97% of non-empty `Mood`): <em>оз, эз, эг, вӧлі, озӧ, эн, верман, коліс, овлӧ, ог</em>
-* `EMPTY` (14): <em>абу, вермы, не, эз, абуöсь, вӧв, овны, позь</em>
+* `EMPTY` (14): <em>абу, вермы, не, эз, абуӧсь, вӧв, овны, позь</em>
 
 ## Relations with Agreement in `Mood`
 

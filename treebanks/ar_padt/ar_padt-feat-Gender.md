@@ -12,7 +12,7 @@ It occurs with 2 different values: `Fem`, `Masc`.
 67429 tokens (24%) have a non-empty value of `Gender`.
 9336 types (37%) occur at least once with a non-empty value of `Gender`.
 3447 lemmas (23%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 8 part-of-speech tags: <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (29351; 10% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (21296; 8% instances), <tt><a href="ar_padt-pos-PRON.html">PRON</a></tt> (10877; 4% instances), <tt><a href="ar_padt-pos-DET.html">DET</a></tt> (4668; 2% instances), <tt><a href="ar_padt-pos-NUM.html">NUM</a></tt> (702; 0% instances), <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> (505; 0% instances), <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (27; 0% instances), <tt><a href="ar_padt-pos-PROPN.html">PROPN</a></tt> (3; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (29351; 10% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (21297; 8% instances), <tt><a href="ar_padt-pos-PRON.html">PRON</a></tt> (10877; 4% instances), <tt><a href="ar_padt-pos-DET.html">DET</a></tt> (4668; 2% instances), <tt><a href="ar_padt-pos-NUM.html">NUM</a></tt> (702; 0% instances), <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> (504; 0% instances), <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (27; 0% instances), <tt><a href="ar_padt-pos-PROPN.html">PROPN</a></tt> (3; 0% instances).
 
 ### `ADJ`
 
@@ -47,13 +47,13 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 ### `VERB`
 
-21296 <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Gender`.
+21297 <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="ar_padt-feat-Person.html">Person</a></tt><tt>=3</tt> (20900; 98%), <tt><a href="ar_padt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (20020; 94%), <tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (19849; 93%), <tt><a href="ar_padt-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (11215; 53%), <tt><a href="ar_padt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (11215; 53%), <tt><a href="ar_padt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (11215; 53%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="ar_padt-feat-Person.html">Person</a></tt><tt>=3</tt> (20901; 98%), <tt><a href="ar_padt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (20021; 94%), <tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (19850; 93%), <tt><a href="ar_padt-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (11215; 53%), <tt><a href="ar_padt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (11215; 53%), <tt><a href="ar_padt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (11215; 53%).
 
 `VERB` tokens may have the following values of `Gender`:
 
-* `Fem` (7836; 37% of non-empty `Gender`): كانت، قالت، ذكرت، بلغت، تصل، تكون، بدأت، تقوم، أكدت، نقلت
+* `Fem` (7837; 37% of non-empty `Gender`): كانت، قالت، ذكرت، بلغت، تصل، تكون، بدأت، تقوم، أكدت، نقلت
 * `Masc` (13460; 63% of non-empty `Gender`): قال، كان، أضاف، تم، أكد، يتم، يمكن، أشار، أوضح، أعلن
 
 <table>
@@ -162,15 +162,15 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 
 ### `AUX`
 
-505 <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> tokens (23% of all `AUX` tokens) have a non-empty value of `Gender`.
+504 <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> tokens (24% of all `AUX` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="ar_padt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (503; 100%), <tt><a href="ar_padt-feat-Person.html">Person</a></tt><tt>=3</tt> (492; 97%), <tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (490; 97%), <tt><a href="ar_padt-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (308; 61%).
+The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="ar_padt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (502; 100%), <tt><a href="ar_padt-feat-Person.html">Person</a></tt><tt>=3</tt> (491; 97%), <tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (489; 97%), <tt><a href="ar_padt-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (308; 61%).
 
 `AUX` tokens may have the following values of `Gender`:
 
-* `Fem` (177; 35% of non-empty `Gender`): تكون، كانت، ليست، تكن، تعد
+* `Fem` (176; 35% of non-empty `Gender`): تكون، كانت، ليست، تكن
 * `Masc` (328; 65% of non-empty `Gender`): كان، يكون، ليس، يكن، كانوا، كنت، تكونون، كن، لسنا، أكون
-* `EMPTY` (1649): س، قد، سوف، ما، هل، ربما، أ، علّ، لقد
+* `EMPTY` (1628): س، قد، سوف، ما، ربما، علّ، لقد
 
 <table>
   <tr><th>Paradigm <i>كَان</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -215,11 +215,11 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>VERB --[<tt><a href="ar_padt-dep-conj.html">conj</a></tt>]--> VERB</tt> (1943; 75%),
+<tt>VERB --[<tt><a href="ar_padt-dep-conj.html">conj</a></tt>]--> VERB</tt> (1943; 76%),
 <tt>VERB --[<tt><a href="ar_padt-dep-nsubj.html">nsubj</a></tt>]--> DET</tt> (1569; 74%),
 <tt>VERB --[<tt><a href="ar_padt-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1520; 58%),
 <tt>ADJ --[<tt><a href="ar_padt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (890; 99%),
-<tt>VERB --[<tt><a href="ar_padt-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (760; 68%),
+<tt>VERB --[<tt><a href="ar_padt-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (761; 68%),
 <tt>VERB --[<tt><a href="ar_padt-dep-obj.html">obj</a></tt>]--> PRON</tt> (738; 54%),
 <tt>VERB --[<tt><a href="ar_padt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (637; 99%),
 <tt>VERB --[<tt><a href="ar_padt-dep-advcl-pred.html">advcl:pred</a></tt>]--> VERB</tt> (634; 98%),

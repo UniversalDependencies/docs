@@ -30,7 +30,7 @@ The 10 most frequent ambiguous types:  <em>-</em> (<tt><a href="en_pud-pos-PUNCT
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.133333 (the average of all parts of speech is 1.151116).
+The form / lemma ratio of `PUNCT` is 1.133333 (the average of all parts of speech is 1.151896).
 
 The 1st highest number of forms (3) was observed with the lemma “"”: <em>", “, ”</em>.
 
@@ -45,7 +45,7 @@ The 3rd highest number of forms (1) was observed with the lemma “(”: <em>(</
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="en_pud-dep-punct.html">punct</a></tt> (2448; 100% instances)
 
-Parents of `PUNCT` nodes belong to 11 different parts of speech: <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (1507; 62% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (479; 20% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (190; 8% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (179; 7% instances), <tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (40; 2% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (17; 1% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (10; 0% instances), <tt><a href="en_pud-pos-SYM.html">SYM</a></tt> (9; 0% instances), <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="en_pud-pos-X.html">X</a></tt> (6; 0% instances), <tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (4; 0% instances)
+Parents of `PUNCT` nodes belong to 11 different parts of speech: <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (1514; 62% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (479; 20% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (190; 8% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (180; 7% instances), <tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (40; 2% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (10; 0% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (9; 0% instances), <tt><a href="en_pud-pos-SYM.html">SYM</a></tt> (9; 0% instances), <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="en_pud-pos-X.html">X</a></tt> (6; 0% instances), <tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (4; 0% instances)
 
 2448 (100%) `PUNCT` nodes are leaves.
 

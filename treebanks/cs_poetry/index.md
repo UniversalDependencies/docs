@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.13 release
 The following people have contributed to making this treebank part of UD: Silvie Cinková.
 
 Repository: [UD_Czech-Poetry](https://github.com/UniversalDependencies/UD_Czech-Poetry)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_poetry218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_poetry219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 
@@ -570,7 +570,7 @@ This work has used the tools and data provided by the LINDAT/CLARIAH-CZ project 
 <ul>
   <li>Perf
     <ul>
-      <li>ADJ-Part: Oněmlé, Podťata, Rozcuchán, Zsinalá, narozené, narozený, nepoznaným, nezvrácen, oblečeny, obnažená</li>
+      <li>ADJ-Part: Vyloupena, skrytých, Oněmlé, Očištěna, Podťata, Rozcuchán, Ukřižovaného, Zsinalá, naplněnou, narozené</li>
       <li>VERB-Fin: stojí, dáš, nech, padne, dej, dejte, dám, povede, vstane, Dejž</li>
       <li>VERB-Inf: stát, říci, dopomoci, dát, naplnit, obléct, pomyslit, pozvednout, promluvit, prostřít</li>
       <li>VERB-Part: poznali, Rozhučela, dal, nechali, povylétla, vstal, vzrostla, zůstaly, Došel, Sklesl</li>

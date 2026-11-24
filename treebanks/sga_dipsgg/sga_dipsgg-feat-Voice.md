@@ -18,18 +18,18 @@ The feature is used with 1 part-of-speech tags: <tt><a href="sga_dipsgg-pos-VERB
 
 28 <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt> tokens (88% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="sga_dipsgg-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (28; 100%), <tt><a href="sga_dipsgg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (26; 93%), <tt><a href="sga_dipsgg-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (24; 86%), <tt><a href="sga_dipsgg-feat-PartType.html">PartType</a></tt><tt>=EMPTY</tt> (24; 86%), <tt><a href="sga_dipsgg-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (21; 75%), <tt><a href="sga_dipsgg-feat-Person.html">Person</a></tt><tt>=3</tt> (19; 68%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="sga_dipsgg-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (28; 100%), <tt><a href="sga_dipsgg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (26; 93%), <tt><a href="sga_dipsgg-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (24; 86%), <tt><a href="sga_dipsgg-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (21; 75%), <tt><a href="sga_dipsgg-feat-Person.html">Person</a></tt><tt>=3</tt> (19; 68%).
 
 `VERB` tokens may have the following values of `Voice`:
 
 * `Act` (26; 93% of non-empty `Voice`): <em>chain, Gaib, braigim, cél, cóima, ecmoṅgat, epur, farcai, fuasna, giuil</em>
-* `Pass` (2; 7% of non-empty `Voice`): <em>roscribad, roscríbad</em>
+* `Pass` (2; 7% of non-empty `Voice`): <em>scribad, scríbad</em>
 * `EMPTY` (4): <em>adest, dicit, fit, pepedi</em>
 
 <table>
   <tr><th>Paradigm <i>scríbaid</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th></tr>
-  <tr><td><tt><tt><a href="sga_dipsgg-feat-PartType.html">PartType</a></tt><tt>=Aug</tt>|<tt><a href="sga_dipsgg-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="sga_dipsgg-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td><em>roscribad, roscríbad</em></td></tr>
   <tr><td><tt><tt><a href="sga_dipsgg-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="sga_dipsgg-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>scríbaimm</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="sga_dipsgg-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="sga_dipsgg-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td><em>scribad, scríbad</em></td></tr>
 </table>
 
 `Voice` seems to be **lexical feature** of `VERB`. 95% lemmas (18) occur only with one value of `Voice`.

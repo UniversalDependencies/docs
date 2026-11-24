@@ -11,27 +11,30 @@ Out of 15 observed tags, the rank of `NOUN` is: 1 in number of lemmas, 1 in numb
 
 The 10 most frequent `NOUN` lemmas: <em>Петя, ай, керку, лун, Маша, мӧс, дор, йӧр, морт, вон</em>
 
-The 10 most frequent `NOUN` types:  <em>Петя, айӧ, йӧрсӧ, керку, морт, Машакöт, айся, гортас, дорас, дорын</em>
+The 10 most frequent `NOUN` types:  <em>Петя, айӧ, йӧрсӧ, керку, морт, Машакӧт, айся, гортас, дорас, дорын</em>
 
 The 10 most frequent ambiguous lemmas: <em>Петя</em> (<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> 17, <tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt> 4), <em>ордчӧн</em> (<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> 2, <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> 2), <em>Митя</em> (<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt> 1), <em>кыдз</em> (<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> 6, <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> 1), <em>талун</em> (<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> 3, <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> 1), <em>том</em> (<tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>дорас</em> (<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="koi_uh-pos-ADP.html">ADP</a></tt> 1), <em>ордчӧн</em> (<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> 1), <em>Митя</em> (<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt> 1), <em>вылын</em> (<tt><a href="koi_uh-pos-ADP.html">ADP</a></tt> 2, <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> 1), <em>дынӧ</em> (<tt><a href="koi_uh-pos-ADP.html">ADP</a></tt> 2, <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> 1), <em>талун</em> (<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> 2, <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>дорас</em> (<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="koi_uh-pos-ADP.html">ADP</a></tt> 1), <em>ордчӧн</em> (<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> 1), <em>Митя</em> (<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt> 1), <em>Сылӧ</em> (<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> 1), <em>вылын</em> (<tt><a href="koi_uh-pos-ADP.html">ADP</a></tt> 2, <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> 1), <em>дынӧ</em> (<tt><a href="koi_uh-pos-ADP.html">ADP</a></tt> 2, <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> 1), <em>талун</em> (<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> 2, <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> 1)
 
 
 * <em>дорас</em>
   * <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> 2: <em>Пукси ойнас берег <b>дорас</b> , вуграся .</em>
-  * <tt><a href="koi_uh-pos-ADP.html">ADP</a></tt> 1: <em>Аскöттят сія велалас сьöд удж <b>дорас</b> .</em>
+  * <tt><a href="koi_uh-pos-ADP.html">ADP</a></tt> 1: <em>Аскӧттят сія велалас сьӧд удж <b>дорас</b> .</em>
 * <em>ордчӧн</em>
   * <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> 2: <em>Петялӧн <b>ордчӧн</b> олісьыс краситӧм йӧрсӧ .</em>
   * <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> 1: <em>Дёма да Лида мунісӧ <b>ордчӧн</b> кык квартал и ӧтамӧдлӧ только кыкисьӧн шыасисӧ .</em>
 * <em>Митя</em>
   * <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> 1: <em>Дядя <b>Митя</b> видзӧтіс , кыдз пиньӧвтчисӧ менам аннэзӧ , и шынняліс довольнӧя .</em>
   * <tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt> 1: <em>Окаліс <b>Митя</b> кыкнаннысӧ да пуксьӧтіс пызан сайӧ .</em>
+* <em>Сылӧ</em>
+  * <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> 1: <em><b>Сылӧ</b> кӧть кыдз эн висьтав , нем оз вежӧрт .</em>
+  * <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> 1: <em><b>Сылӧ</b> коліс басӧка лӧсьӧтны юрсисӧ , но мылякӧ сія лунӧ сылӧ эз вӧв охота сійӧ керны .</em>
 * <em>вылын</em>
-  * <tt><a href="koi_uh-pos-ADP.html">ADP</a></tt> 2: <em>Ӧтпыр туй <b>вылын</b> аркмыліс интереснöй случай .</em>
-  * <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> 1: <em>Только ылын веськытлань , самӧй горизонт <b>вылын</b> , лэбтіcиcӧ кык ыджыт коричневӧй кымӧp .</em>
+  * <tt><a href="koi_uh-pos-ADP.html">ADP</a></tt> 2: <em>Ӧтпыр туй <b>вылын</b> аркмыліс интереснӧй случай .</em>
+  * <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> 1: <em>Только ылын веськытлань , самӧй горизонт <b>вылын</b> , лэбтісисӧ кык ыджыт коричневӧй кымӧр .</em>
 * <em>дынӧ</em>
-  * <tt><a href="koi_uh-pos-ADP.html">ADP</a></tt> 2: <em>Быд лaдopcянь Ворошилов <b>дынӧ</b> ӧні кoтӧpтіcӧ oтиp .</em>
+  * <tt><a href="koi_uh-pos-ADP.html">ADP</a></tt> 2: <em>Быд ладорсянь Ворошилов <b>дынӧ</b> ӧні котӧртісӧ отир .</em>
   * <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> 1: <em>Морт тэ , адзза , простӧй , честнӧй , а честнӧй <b>дынӧ</b> , может , и петас сія .</em>
 * <em>талун</em>
   * <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> 2: <em>— Кытшӧм <b>талун</b> луныс ? — ылӧстӧма юаліс сія .</em>
@@ -39,11 +42,11 @@ The 10 most frequent ambiguous types:  <em>дорас</em> (<tt><a href="koi_uh-
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 1.283951 (the average of all parts of speech is 1.260870).
+The form / lemma ratio of `NOUN` is 1.283951 (the average of all parts of speech is 1.239604).
 
-The 1st highest number of forms (7) was observed with the lemma “ай”: <em>ай, айся, айтöг, айыс, айыт, айытся, айӧ</em>.
+The 1st highest number of forms (7) was observed with the lemma “ай”: <em>ай, айся, айтӧг, айыс, айыт, айытся, айӧ</em>.
 
-The 2nd highest number of forms (5) was observed with the lemma “керку”: <em>керку, керкуокыс, керкутöг, керкуын, керкуыс</em>.
+The 2nd highest number of forms (5) was observed with the lemma “керку”: <em>керку, керкуокыс, керкутӧг, керкуын, керкуыс</em>.
 
 The 3rd highest number of forms (5) was observed with the lemma “лун”: <em>лун, лунас, лунсӧ, луныс, лунӧ</em>.
 

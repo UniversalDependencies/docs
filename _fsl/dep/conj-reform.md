@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'conj:reform'
-shortdef: 'oblique modifier'
+shortdef: 'reformulation'
 udver: '2'
 ---
 
@@ -13,4 +13,4 @@ The deprel `conj:reform` is used for dependency relation in which the elements a
 conj:reform ([s'envoler],[VOLER])
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:34 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:34 CET -->

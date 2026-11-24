@@ -63,7 +63,7 @@ The following 3 pairs of parts of speech are connected with `parataxis`: <tt><a 
 5	ó	ó	INTJ	_	_	7	discourse	_	_
 6	ní	ní	PART	_	Polarity=Neg	7	advmod	_	SpaceAfter=No
 7	epur	asbeir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	1	parataxis	_	_
-8	na	nach	DET	_	Case=Acc|Definite=Ind|Number=Sing	9	det	_	_
+8	na	nach	DET	_	Case=Acc|Number=Sing|PronType=Neg	9	det	_	_
 9	haill	aile	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	_
 
 ~~~
@@ -81,7 +81,7 @@ The following 3 pairs of parts of speech are connected with `parataxis`: <tt><a 
 4	chliab	clíab	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
 5	a	a	PART	_	PartType=Voc	7	case:voc	_	SpaceAfter=No
 6	nóib	nóib	ADJ	_	Degree=Pos|Prefix=Yes	7	amod	_	SpaceAfter=No
-7	ingen	ingen	NOUN	_	Case=Voc|Number=Sing	4	parataxis	_	_
+7	ingen	ingen_1	NOUN	_	Case=Voc|Number=Sing	4	parataxis	_	_
 8	··–	·–	PUNCT	_	_	7	punct	_	_
 
 ~~~

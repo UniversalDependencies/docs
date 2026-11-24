@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.5 release.
 The following people have contributed to making this treebank part of UD: Jack Rueter, Maria Levina, Nadezhda Kabaeva, Judit Molnár, Khalid Alnajjar.
 
 Repository: [UD_Moksha-JR](https://github.com/UniversalDependencies/UD_Moksha-JR)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udmdf_jr218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udmdf_jr219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 
@@ -107,7 +107,7 @@ period) [Essays on the history of formation of Mordvin literary languages (early
 
 ## Features
 
-[Abbr](mdf_jr-feat-Abbr.html) – [AdpType](mdf_jr-feat-AdpType.html) – [AdvType](mdf_jr-feat-AdvType.html) – [Animacy](mdf_jr-feat-Animacy.html) – [Aspect](mdf_jr-feat-Aspect.html) – [Case](mdf_jr-feat-Case.html) – [Clitic](mdf_jr-feat-Clitic.html) – [Connegative](mdf_jr-feat-Connegative.html) – [Definite](mdf_jr-feat-Definite.html) – [Degree](mdf_jr-feat-Degree.html) – [Derivation](mdf_jr-feat-Derivation.html) – [ExtPos](mdf_jr-feat-ExtPos.html) – [Gender](mdf_jr-feat-Gender.html) – [Mood](mdf_jr-feat-Mood.html) – [NameType](mdf_jr-feat-NameType.html) – [Nomzr](mdf_jr-feat-Nomzr.html) – [NounType](mdf_jr-feat-NounType.html) – [Number](mdf_jr-feat-Number.html) – [Number[obj]](mdf_jr-feat-Number-obj.html) – [Number[psor]](mdf_jr-feat-Number-psor.html) – [Number[subj]](mdf_jr-feat-Number-subj.html) – [NumForm](mdf_jr-feat-NumForm.html) – [NumType](mdf_jr-feat-NumType.html) – [PartForm](mdf_jr-feat-PartForm.html) – [PartType](mdf_jr-feat-PartType.html) – [Person](mdf_jr-feat-Person.html) – [Person[obj]](mdf_jr-feat-Person-obj.html) – [Person[psor]](mdf_jr-feat-Person-psor.html) – [Person[subj]](mdf_jr-feat-Person-subj.html) – [Polarity](mdf_jr-feat-Polarity.html) – [PronType](mdf_jr-feat-PronType.html) – [PunctSide](mdf_jr-feat-PunctSide.html) – [Reflex](mdf_jr-feat-Reflex.html) – [Style](mdf_jr-feat-Style.html) – [Tense](mdf_jr-feat-Tense.html) – [Typo](mdf_jr-feat-Typo.html) – [Variant](mdf_jr-feat-Variant.html) – [VerbForm](mdf_jr-feat-VerbForm.html) – [VerbType](mdf_jr-feat-VerbType.html)
+[Abbr](mdf_jr-feat-Abbr.html) – [AdpType](mdf_jr-feat-AdpType.html) – [AdvType](mdf_jr-feat-AdvType.html) – [Animacy](mdf_jr-feat-Animacy.html) – [Aspect](mdf_jr-feat-Aspect.html) – [Case](mdf_jr-feat-Case.html) – [Clitic](mdf_jr-feat-Clitic.html) – [ConjType](mdf_jr-feat-ConjType.html) – [Connegative](mdf_jr-feat-Connegative.html) – [Definite](mdf_jr-feat-Definite.html) – [Degree](mdf_jr-feat-Degree.html) – [Derivation](mdf_jr-feat-Derivation.html) – [ExtPos](mdf_jr-feat-ExtPos.html) – [Gender](mdf_jr-feat-Gender.html) – [Mood](mdf_jr-feat-Mood.html) – [NameType](mdf_jr-feat-NameType.html) – [Nomzr](mdf_jr-feat-Nomzr.html) – [NounType](mdf_jr-feat-NounType.html) – [Number](mdf_jr-feat-Number.html) – [Number[obj]](mdf_jr-feat-Number-obj.html) – [Number[psor]](mdf_jr-feat-Number-psor.html) – [Number[subj]](mdf_jr-feat-Number-subj.html) – [NumForm](mdf_jr-feat-NumForm.html) – [NumType](mdf_jr-feat-NumType.html) – [PartForm](mdf_jr-feat-PartForm.html) – [PartType](mdf_jr-feat-PartType.html) – [Person](mdf_jr-feat-Person.html) – [Person[obj]](mdf_jr-feat-Person-obj.html) – [Person[psor]](mdf_jr-feat-Person-psor.html) – [Person[subj]](mdf_jr-feat-Person-subj.html) – [Polarity](mdf_jr-feat-Polarity.html) – [PronType](mdf_jr-feat-PronType.html) – [PunctSide](mdf_jr-feat-PunctSide.html) – [Reflex](mdf_jr-feat-Reflex.html) – [Style](mdf_jr-feat-Style.html) – [Tense](mdf_jr-feat-Tense.html) – [Typo](mdf_jr-feat-Typo.html) – [Variant](mdf_jr-feat-Variant.html) – [VerbForm](mdf_jr-feat-VerbForm.html) – [VerbType](mdf_jr-feat-VerbType.html)
 
 ## Relations
 
@@ -662,8 +662,10 @@ period) [Essays on the history of formation of Mordvin literary languages (early
 <ul>
   <li>Cnd
     <ul>
-      <li>AUX: ба</li>
-      <li>VERB-Fin: надияндярят, тундярят</li>
+      <li>AUX: ба, афоль, Улендяряль, афолензе, афолеть, улелеть, улефтяряль</li>
+      <li>AUX-Fin: Улендяряль, улелеть</li>
+      <li>VERB: Видендярялеть, Лездолень, Путондяряльхть, Рамаль, Сандяряль, Таргафтолемайть, арьселень, келептелине, корхнельхть, курендакшнельхть</li>
+      <li>VERB-Fin: Видендярялеть, Лездолень, Путондяряльхть, Рамаль, Сандяряль, Таргафтолемайть, арьселень, келептелине, корхнельхть, курендакшнельхть</li>
     </ul>
   </li>
 </ul>
@@ -706,14 +708,6 @@ period) [Essays on the history of formation of Mordvin literary languages (early
 </ul>
 
 <ul>
-  <li>NegCndSub
-    <ul>
-      <li>AUX: улефтяряль</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
   <li>Opt
     <ul>
       <li>AUX: катк, савоза</li>
@@ -728,17 +722,6 @@ period) [Essays on the history of formation of Mordvin literary languages (early
     <ul>
       <li>AUX: тята</li>
       <li>VERB-Fin: Варжалите, Панчк-ка, варжака</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Sub
-    <ul>
-      <li>AUX: афоль, Улендяряль, афолензе, афолеть, улелеть</li>
-      <li>AUX-Fin: Улендяряль, улелеть</li>
-      <li>VERB: Видендярялеть, Лездолень, Путондяряльхть, Рамаль, Сандяряль, Таргафтолемайть, арьселень, келептелине, корхнельхть, курендакшнельхть</li>
-      <li>VERB-Fin: Видендярялеть, Лездолень, Путондяряльхть, Рамаль, Сандяряль, Таргафтолемайть, арьселень, келептелине, корхнельхть, курендакшнельхть</li>
     </ul>
   </li>
 </ul>
@@ -1023,7 +1006,7 @@ period) [Essays on the history of formation of Mordvin literary languages (early
     <ul>
       <li>Deg
         <ul>
-          <li>ADV: пяк, сяда, сяшкава, конашкава, тяшкава, ёфcи, ёфси</li>
+          <li>ADV: пяк, сяда, сяшкава, ёфси, конашкава, тяшкава</li>
         </ul>
       </li>
       <li>Loc
@@ -1105,6 +1088,22 @@ period) [Essays on the history of formation of Mordvin literary languages (early
 </ul>
 
 <ul>
+  <li><a>ConjType</a>
+    <ul>
+      <li>Cnd
+        <ul>
+          <li>AUX: Улендяряль, савондяряй, улендяряза, улефтяряль</li>
+          <li>AUX-Fin: Улендяряль, савондяряй, улендяряза</li>
+          <li>SCONJ: кда, къда</li>
+          <li>VERB: Касондярян, матодовондяряй, Видендярялеть, Путондяряльхть, Сандяряль, кадондярясак, кизефтендярясамазь, кирдендярясы, лездондярятада, лисендяряль</li>
+          <li>VERB-Fin: Касондярян, матодовондяряй, Видендярялеть, Путондяряльхть, Сандяряль, кадондярясак, кизефтендярясамазь, кирдендярясы, лездондярятада, лисендяряль</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Connegative</a>
     <ul>
       <li>Yes
@@ -1119,13 +1118,6 @@ period) [Essays on the history of formation of Mordvin literary languages (early
 <ul>
   <li><a>Derivation</a>
     <ul>
-      <li>Cond
-        <ul>
-          <li>AUX-Fin: Улендяряль, савондяряй, улендяряза</li>
-          <li>VERB: Касондярян, матодовондяряй, Видендярялеть, Путондяряльхть, Сандяряль, кадондярясак, кизефтендярясамазь, кирдендярясы, лездондярятада, лисендяряль</li>
-          <li>VERB-Fin: Касондярян, матодовондяряй, Видендярялеть, Путондяряльхть, Сандяряль, кадондярясак, кизефтендярясамазь, кирдендярясы, лездондярятада, лисендяряль</li>
-        </ul>
-      </li>
       <li>F
         <ul>
           <li>VERB-Part: анеляф, ацафоль, максф, маскировандафт, путфт, ранендаф, содафоль, таргозьфтольхть, тиф, шавф</li>
@@ -1526,7 +1518,7 @@ period) [Essays on the history of formation of Mordvin literary languages (early
 </ul>
 
 <ul>
-<li>This corpus uses 7 lemmas as auxiliaries (<a>aux</a>). Examples: аф, аш, эрявомс, ба, савомс, улемс, сашендовомс.</li>
+<li>This corpus uses 7 lemmas as auxiliaries (<a>aux</a>). Examples: аш, эрявомс, ба, савомс, улемс, аф, сашендовомс.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>

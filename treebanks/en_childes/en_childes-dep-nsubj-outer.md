@@ -43,7 +43,7 @@ The following 22 pairs of parts of speech are connected with `nsubj:outer`: <tt>
 2	game	game	NOUN	NN	_	4	nsubj:outer	4:nsubj:outer	_
 3	's	be	AUX	POS	_	4	cop	4:cop	_
 4	finished	finish	VERB	VBN	_	0	root	0:root	SpaceAfter=No
-5	?	?	PUNCT	?	_	4	punct	4:punct	_
+5	?	?	PUNCT	.	_	4	punct	4:punct	_
 
 ~~~
 

@@ -18,7 +18,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="cs_cac-pos-VERB.htm
 
 30773 <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> tokens (79% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (30773; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (28110; 91%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (20574; 67%), <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (20566; 67%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (20566; 67%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17494; 57%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt> (17113; 56%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (30773; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (28110; 91%), <tt><a href="cs_cac-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (21501; 70%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (20574; 67%), <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (20566; 67%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (20566; 67%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17494; 57%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt> (17113; 56%).
 
 `VERB` tokens may have the following values of `Tense`:
 
@@ -96,7 +96,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 2182 <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> tokens (3% of all `ADJ` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `ADJ` and `Tense` co-occurred: <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (2182; 100%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2182; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (2151; 99%), <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (2143; 98%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1144; 52%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1118; 51%).
+The most frequent other feature values with which `ADJ` and `Tense` co-occurred: <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (2182; 100%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2182; 100%), <tt><a href="cs_cac-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (2180; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (2151; 99%), <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (2143; 98%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1144; 52%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1118; 51%).
 
 `ADJ` tokens may have the following values of `Tense`:
 

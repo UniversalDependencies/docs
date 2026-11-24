@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `nmod`: <tt><a href="sab_chibergis-dep-nmod-poss.html">nmod:poss</a></tt>.
 
-19 nodes (1%) are attached to their parents as `nmod`.
+21 nodes (1%) are attached to their parents as `nmod`.
 
-19 instances of `nmod` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.15789473684211.
+21 instances of `nmod` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.14285714285714.
 
-The following 4 pairs of parts of speech are connected with `nmod`: <tt><a href="sab_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sab_chibergis-pos-NOUN.html">NOUN</a></tt> (11; 58% instances), <tt><a href="sab_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sab_chibergis-pos-NUM.html">NUM</a></tt> (4; 21% instances), <tt><a href="sab_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sab_chibergis-pos-PROPN.html">PROPN</a></tt> (3; 16% instances), <tt><a href="sab_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="sab_chibergis-pos-NOUN.html">NOUN</a></tt> (1; 5% instances).
+The following 4 pairs of parts of speech are connected with `nmod`: <tt><a href="sab_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sab_chibergis-pos-NOUN.html">NOUN</a></tt> (13; 62% instances), <tt><a href="sab_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sab_chibergis-pos-NUM.html">NUM</a></tt> (4; 19% instances), <tt><a href="sab_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sab_chibergis-pos-PROPN.html">PROPN</a></tt> (3; 14% instances), <tt><a href="sab_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="sab_chibergis-pos-NOUN.html">NOUN</a></tt> (1; 5% instances).
 
 
 ~~~ conllu

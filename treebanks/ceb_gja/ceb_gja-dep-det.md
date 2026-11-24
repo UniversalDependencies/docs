@@ -22,7 +22,7 @@ The following 2 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 det	color:blue
-1	Mga	mga	DET	_	Number=Plur	3	det	_	Gloss=around
+1	Mga	mga	DET	_	Number=Plur|PronType=Ind	3	det	_	Gloss=around
 2	tres	tres	NUM	_	_	3	nummod	_	Gloss=three
 3	pesos	pesos	NOUN	_	_	0	root	_	Gloss=pesos|SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	Gloss=,
@@ -38,7 +38,7 @@ The following 2 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 det	color:blue
-1	Daghan	daghan	DET	_	_	3	det	_	Gloss=many
+1	Daghan	daghan	DET	_	Number=Plur|PronType=Ind	3	det	_	Gloss=many
 2	kuno	kuno	PART	_	_	3	advmod	_	_
 3	nawad-an	wala	VERB	_	Aspect=Perf|Mood=Ind|Voice=Pass	0	root	_	Gloss=lost
 4	ug	ug	ADP	_	Case=Gen	5	case	_	_

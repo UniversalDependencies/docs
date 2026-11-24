@@ -47,7 +47,7 @@ The following 5 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 22	"	"	PUNCT	fe	PunctType=Quot	8	punct	8:punct	SpaceAfter=No
 23	,	,	PUNCT	fc	PunctType=Comm	8	punct	8:punct	_
 24	manifestó	manifestar	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
-25	Álvaro	Álvaro	PROPN	np00000	_	24	nsubj	24:nsubj	MWE=Álvaro_Ruiz-Mateos|MWEPOS=PROPN|ArgTem=arg0:agt|Entity=(CESSCASTP20020402106c2-person-1-CorefType:ident,gstype:spec
+25	Álvaro	Álvaro	PROPN	np00000	_	24	nsubj	24:nsubj	ArgTem=arg0:agt|Entity=(CESSCASTP20020402106c2-person-1-CorefType:ident,gstype:spec|MWE=Álvaro_Ruiz-Mateos|MWEPOS=PROPN
 26	Ruiz-Mateos	Ruiz-Mateos	PROPN	_	_	25	flat	25:flat	Entity=CESSCASTP20020402106c2)|SpaceAfter=No
 27	.	.	PUNCT	fp	PunctType=Peri	24	punct	24:punct	_
 

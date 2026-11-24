@@ -22,10 +22,10 @@ The following 6 pairs of parts of speech are connected with `advcl`: <tt><a href
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 7 advcl	color:blue
-1	പീറ്റർ	പീറ്റർ	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	10	nsubj	_	Gloss=Peter|Translit=pīṟṟaṟ̕|LTranslit=pīṟṟaṟ̕
-2	ഉം	ഉം	CCONJ	_	_	1	cc	_	Gloss=and|Translit=uṁ|LTranslit=uṁ
-3	മേരി	മേരി	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	1	conj	_	Gloss=Mary|Translit=mēri|LTranslit=mēri
-4	ഉം	ഉം	CCONJ	_	_	3	cc	_	Gloss=and|Translit=uṁ|LTranslit=uṁ
+1	പീറ്റർ	പീറ്റർ	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	10	nsubj	_	Gloss=Peter|LTranslit=pīṟṟaṟ̕|Translit=pīṟṟaṟ̕
+2	ഉം	ഉം	CCONJ	_	_	1	cc	_	Gloss=and|LTranslit=uṁ|Translit=uṁ
+3	മേരി	മേരി	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	1	conj	_	Gloss=Mary|LTranslit=mēri|Translit=mēri
+4	ഉം	ഉം	CCONJ	_	_	3	cc	_	Gloss=and|LTranslit=uṁ|Translit=uṁ
 5	പരസ്പരം	പരസ്പരം	ADV	_	_	7	advmod	_	Gloss=each-other|Translit=parasparaṁ|LTranslit=parasparaṁ
 6	ആലിംഗനം	ആലിംഗനം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	7	obj	_	Gloss=hug|Translit=āliṁganaṁ|LTranslit=āliṁganaṁ
 7	ചെയ്ത	ചെയ്യുക	VERB	_	Tense=Past|VerbForm=Part	10	advcl	_	Gloss=did|Translit=ceyta|LTranslit=ceyyuka

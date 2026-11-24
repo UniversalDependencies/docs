@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>eesti</em> (<tt><a href="et_ewt-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.188312 (the average of all parts of speech is 1.733800).
+The form / lemma ratio of `PROPN` is 1.188312 (the average of all parts of speech is 1.733719).
 
 The 1st highest number of forms (7) was observed with the lemma “Eesti”: <em>Eestil, Eestist, Eestit, eesti, eestile, eestis, eestisse</em>.
 

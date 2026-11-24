@@ -31,4 +31,4 @@ This feature marks person agreement of the verb with the indirect object or of p
 
 * [ab] _зы-ӡҕаб-цәа_ [Poss.Rel-girl-Pl] ‘whose girls’ `Animacy=Hum|Number=Plur|Person[psor]=Rel`
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:11 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:57 CET -->

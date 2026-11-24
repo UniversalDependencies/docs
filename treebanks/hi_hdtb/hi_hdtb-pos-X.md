@@ -60,7 +60,7 @@ The 10 most frequent ambiguous types:  पास (<tt><a href="hi_hdtb-pos-ADP.h
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.200484).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.200418).
 
 The 1st highest number of forms (1) was observed with the lemma “50”: 50.
 

@@ -67,7 +67,7 @@ The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 5 7 cop	color:blue
 1	यह	यह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	2	det	_	ChunkId=NP|ChunkType=child|LTranslit=yaha|Translit=yaha
 2	संबंध	संबंध	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	5	nsubj	_	ChunkId=NP|ChunkType=head|LTranslit=saṁbaṁdha|Tam=0|Translit=saṁbaṁdha|Vib=0
-3	इतने	इतना	DET	QF	Gender=Masc|Number=Plur	4	det	_	ChunkId=JJP|ChunkType=child|LTranslit=itanā|Translit=itane
+3	इतने	इतना	DET	QF	Gender=Masc|Number=Plur|PronType=Dem	4	det	_	ChunkId=JJP|ChunkType=child|LTranslit=itanā|Translit=itane
 4	बेहतर	बेहतर	ADJ	JJ	_	5	amod	_	ChunkId=JJP|ChunkType=head|LTranslit=behatara|Translit=behatara
 5	कभी	कभी	PRON	PRP	PronType=Prs	0	root	_	ChunkId=NP2|ChunkType=head|LTranslit=kabhī|Translit=kabhī
 6	नहीं	नहीं	PART	NEG	Polarity=Neg|PronType=Neg	5	advmod	_	ChunkId=VGF|ChunkType=child|LTranslit=nahīṁ|Translit=nahīṁ

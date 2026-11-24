@@ -38,3 +38,4 @@ The 2pl. can be used instead of a 2sg. The 3pl. can be used instead of a 3sg.
 ### <a name="Infm">`Infm`</a>: Informals
 #### Examples
 - none yet
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:58 CET -->

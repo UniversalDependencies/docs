@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 8 different values: `ADJ`, `ADP`, `ADV`, `CCONJ`, `DET`, `INTJ`, `PRON`, `SCONJ`.
 
-229 tokens (1%) have a non-empty value of `ExtPos`.
-50 types (1%) occur at least once with a non-empty value of `ExtPos`.
-34 lemmas (1%) occur at least once with a non-empty value of `ExtPos`.
-The feature is used with 8 part-of-speech tags: <tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> (121; 0% instances), <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> (74; 0% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (13; 0% instances), <tt><a href="fr_pud-pos-DET.html">DET</a></tt> (8; 0% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="fr_pud-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="fr_pud-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="fr_pud-pos-X.html">X</a></tt> (2; 0% instances).
+228 tokens (1%) have a non-empty value of `ExtPos`.
+49 types (1%) occur at least once with a non-empty value of `ExtPos`.
+33 lemmas (1%) occur at least once with a non-empty value of `ExtPos`.
+The feature is used with 8 part-of-speech tags: <tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> (121; 0% instances), <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> (73; 0% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (13; 0% instances), <tt><a href="fr_pud-pos-DET.html">DET</a></tt> (8; 0% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="fr_pud-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="fr_pud-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="fr_pud-pos-X.html">X</a></tt> (2; 0% instances).
 
 ### `ADP`
 
@@ -34,16 +34,16 @@ The feature is used with 8 part-of-speech tags: <tt><a href="fr_pud-pos-ADP.html
 
 ### `ADV`
 
-74 <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> tokens (7% of all `ADV` tokens) have a non-empty value of `ExtPos`.
+73 <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> tokens (7% of all `ADV` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `ADV` and `ExtPos` co-occurred: <tt><a href="fr_pud-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (74; 100%).
+The most frequent other feature values with which `ADV` and `ExtPos` co-occurred: <tt><a href="fr_pud-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (73; 100%).
 
 `ADV` tokens may have the following values of `ExtPos`:
 
 * `ADV` (8; 11% of non-empty `ExtPos`): <em>bien, plus, autrement, moins, non, plutôt</em>
 * `CCONJ` (8; 11% of non-empty `ExtPos`): <em>ainsi</em>
 * `DET` (2; 3% of non-empty `ExtPos`): <em>bien</em>
-* `PRON` (28; 38% of non-empty `ExtPos`): <em>plus, beaucoup, peu, moins, près, trop, énormément</em>
+* `PRON` (27; 37% of non-empty `ExtPos`): <em>plus, beaucoup, peu, moins, près, trop</em>
 * `SCONJ` (28; 38% of non-empty `ExtPos`): <em>parce, tandis, bien, alors</em>
 
 <table>

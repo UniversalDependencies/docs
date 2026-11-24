@@ -61,7 +61,7 @@ The 10 most frequent ambiguous types:  <em>so</em> (<tt><a href="en_ewt-pos-ADV.
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.137085 (the average of all parts of speech is 1.250484).
+The form / lemma ratio of `ADV` is 1.137085 (the average of all parts of speech is 1.251287).
 
 The 1st highest number of forms (6) was observed with the lemma “definitely”: <em>Def, Definetely, deffenitly, deffly, definately, definitely</em>.
 
@@ -69,12 +69,12 @@ The 2nd highest number of forms (6) was observed with the lemma “so”: <em>do
 
 The 3rd highest number of forms (5) was observed with the lemma “long”: <em>ling, lo9nger, long, longer, longest</em>.
 
-`ADV` occurs with 8 features: <tt><a href="en_ewt-feat-PronType.html">PronType</a></tt> (2691; 21% instances), <tt><a href="en_ewt-feat-Degree.html">Degree</a></tt> (997; 8% instances), <tt><a href="en_ewt-feat-NumForm.html">NumForm</a></tt> (155; 1% instances), <tt><a href="en_ewt-feat-NumType.html">NumType</a></tt> (155; 1% instances), <tt><a href="en_ewt-feat-ExtPos.html">ExtPos</a></tt> (142; 1% instances), <tt><a href="en_ewt-feat-Typo.html">Typo</a></tt> (118; 1% instances), <tt><a href="en_ewt-feat-Abbr.html">Abbr</a></tt> (23; 0% instances), <tt><a href="en_ewt-feat-Style.html">Style</a></tt> (17; 0% instances)
+`ADV` occurs with 8 features: <tt><a href="en_ewt-feat-PronType.html">PronType</a></tt> (2722; 22% instances), <tt><a href="en_ewt-feat-Degree.html">Degree</a></tt> (997; 8% instances), <tt><a href="en_ewt-feat-NumForm.html">NumForm</a></tt> (155; 1% instances), <tt><a href="en_ewt-feat-NumType.html">NumType</a></tt> (155; 1% instances), <tt><a href="en_ewt-feat-ExtPos.html">ExtPos</a></tt> (142; 1% instances), <tt><a href="en_ewt-feat-Typo.html">Typo</a></tt> (118; 1% instances), <tt><a href="en_ewt-feat-Abbr.html">Abbr</a></tt> (23; 0% instances), <tt><a href="en_ewt-feat-Style.html">Style</a></tt> (17; 0% instances)
 
 `ADV` occurs with 21 feature-value pairs: `Abbr=Yes`, `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `ExtPos=ADP`, `ExtPos=ADV`, `ExtPos=CCONJ`, `ExtPos=SCONJ`, `NumForm=Word`, `NumType=Frac`, `NumType=Mult`, `NumType=Ord`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Neg`, `PronType=Rel`, `PronType=Tot`, `Style=Expr`, `Style=Slng`, `Typo=Yes`
 
 `ADV` occurs with 32 feature combinations.
-The most frequent feature combination is `_` (8491 tokens).
+The most frequent feature combination is `_` (8461 tokens).
 Examples: <em>so, just, very, also, even, only, back, really, still, too</em>
 
 

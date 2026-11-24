@@ -24,7 +24,7 @@ The following 1 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 6	fgColor:white
 # visual-style 6 8 flat	color:blue
 1	Le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
-2	7	7	NUM	_	Number=Sing|NumType=Card	13	obl:mod	_	Exponence[Number]=Inherent
+2	7	7	NUM	_	ExtPos=PROPN|Number=Sing|NumType=Card	13	advcl	_	Exponence[Number]=Inherent
 3	août	août	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	Exponence[Gender]=Inherent|SpaceAfter=No
 4	,	,	PUNCT	_	_	2	punct	_	_
 5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	9	det	_	_
@@ -35,7 +35,7 @@ The following 1 pairs of parts of speech are connected with `flat`: <tt><a href=
 10	de	de	ADP	_	_	11	case	_	_
 11	Hajj	Hajj	PROPN	_	_	9	nmod	_	_
 12	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	aux:pass	_	_
-13	retirées	retirer	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	Tense[denom]=Past
+13	retirées	retirer	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	Status[Tense]=Denom
 14	de	de	ADP	_	_	16	case	_	_
 15	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
 16	base	base	NOUN	_	Gender=Fem|Number=Sing	13	obl:arg	_	Exponence[Gender]=Inherent
@@ -44,7 +44,7 @@ The following 1 pairs of parts of speech are connected with `flat`: <tt><a href=
 19	de	de	ADP	_	_	20	case	_	_
 20	Reuters	Reuters	PROPN	_	_	16	nmod	_	_
 21	[	[	PUNCT	_	_	22	punct	_	SpaceAfter=No
-22	8	8	NUM	_	Number=Sing|NumType=Card	13	obl:mod	_	Exponence[Number]=Inherent|SpaceAfter=No
+22	8	8	NUM	_	ExtPos=PROPN|Number=Sing|NumType=Card	13	obl:mod	_	Exponence[Number]=Inherent|SpaceAfter=No
 23	]	]	PUNCT	_	_	22	punct	_	SpaceAfter=No
 24	.	.	PUNCT	_	_	13	punct	_	_
 

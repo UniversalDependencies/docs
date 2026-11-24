@@ -58,20 +58,20 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 50 <tt><a href="cpg_amgic-pos-PRON.html">PRON</a></tt> tokens (53% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="cpg_amgic-feat-Number.html">Number</a></tt><tt>=Sing</tt> (48; 96%), <tt><a href="cpg_amgic-feat-Person.html">Person</a></tt><tt>=3</tt> (48; 96%), <tt><a href="cpg_amgic-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (40; 80%), <tt><a href="cpg_amgic-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (35; 70%), <tt><a href="cpg_amgic-feat-Clitic.html">Clitic</a></tt><tt>=Yes</tt> (28; 56%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="cpg_amgic-feat-Number.html">Number</a></tt><tt>=Sing</tt> (48; 96%), <tt><a href="cpg_amgic-feat-Person.html">Person</a></tt><tt>=3</tt> (48; 96%), <tt><a href="cpg_amgic-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (40; 80%), <tt><a href="cpg_amgic-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (35; 70%), <tt><a href="cpg_amgic-feat-Clitic.html">Clitic</a></tt><tt>=Yes</tt> (29; 58%).
 
 `PRON` tokens may have the following values of `Gender`:
 
-* `Fem` (12; 24% of non-empty `Gender`): <em>či, čis, ǰis, ekín, zin, zis, ǰi</em>
+* `Fem` (12; 24% of non-empty `Gender`): <em>či, čis, ǰis, ekín, zis, ǰi, ǰin</em>
 * `Masc` (17; 34% of non-empty `Gender`): <em>du, tútus, tu, Kaneís, cínus, do, su, tus, tútunu</em>
 * `Neut` (21; 42% of non-empty `Gender`): <em>to, da, ta, do, Τúta, δa</em>
 * `EMPTY` (44): <em>mu, su, tu, emís, m, mas, ro, s', sas, se</em>
 
 <table>
   <tr><th>Paradigm <i>(e)γó</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="cpg_amgic-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cpg_amgic-feat-Clitic.html">Clitic</a></tt><tt>=Yes</tt>|<tt><a href="cpg_amgic-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>do</em></td><td><em>či, ǰi</em></td><td><em>da, ta, to, do, δa</em></td></tr>
+  <tr><td><tt><tt><a href="cpg_amgic-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cpg_amgic-feat-Clitic.html">Clitic</a></tt><tt>=Yes</tt>|<tt><a href="cpg_amgic-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>do</em></td><td><em>či, ǰi, ǰin</em></td><td><em>da, ta, to, do, δa</em></td></tr>
   <tr><td><tt><tt><a href="cpg_amgic-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cpg_amgic-feat-Clitic.html">Clitic</a></tt><tt>=Yes</tt>|<tt><a href="cpg_amgic-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>tus</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cpg_amgic-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cpg_amgic-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>zin</em></td><td><em>ta</em></td></tr>
+  <tr><td><tt><tt><a href="cpg_amgic-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cpg_amgic-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>ta</em></td></tr>
   <tr><td><tt><tt><a href="cpg_amgic-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cpg_amgic-feat-Clitic.html">Clitic</a></tt><tt>=Yes</tt>|<tt><a href="cpg_amgic-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cpg_amgic-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td><em>du, tu</em></td><td><em>čis, ǰis</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cpg_amgic-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cpg_amgic-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cpg_amgic-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>zis, čis, ǰis</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cpg_amgic-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cpg_amgic-feat-Clitic.html">Clitic</a></tt><tt>=Yes</tt>|<tt><a href="cpg_amgic-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>či</em></td><td></td></tr>

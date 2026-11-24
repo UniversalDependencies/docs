@@ -74,7 +74,7 @@ Examples: மத்திய, ஒரு, புதிய, கடந்த, ம�
 
 ## Relations
 
-`ADJ` nodes are attached to their parents using 4 different relations: <tt><a href="ta_ttb-dep-amod.html">amod</a></tt> (549; 99% instances), <tt><a href="ta_ttb-dep-obl.html">obl</a></tt> (4; 1% instances), <tt><a href="ta_ttb-dep-conj.html">conj</a></tt> (3; 1% instances), <tt><a href="ta_ttb-dep-iobj.html">iobj</a></tt> (1; 0% instances)
+`ADJ` nodes are attached to their parents using 5 different relations: <tt><a href="ta_ttb-dep-amod.html">amod</a></tt> (549; 99% instances), <tt><a href="ta_ttb-dep-conj.html">conj</a></tt> (3; 1% instances), <tt><a href="ta_ttb-dep-nmod.html">nmod</a></tt> (3; 1% instances), <tt><a href="ta_ttb-dep-iobj.html">iobj</a></tt> (1; 0% instances), <tt><a href="ta_ttb-dep-obl.html">obl</a></tt> (1; 0% instances)
 
 Parents of `ADJ` nodes belong to 7 different parts of speech: <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (459; 82% instances), <tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt> (53; 10% instances), <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (21; 4% instances), <tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt> (10; 2% instances), <tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> (6; 1% instances), <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> (5; 1% instances), <tt><a href="ta_ttb-pos-PRON.html">PRON</a></tt> (3; 1% instances)
 

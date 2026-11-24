@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-100 nodes (1%) are attached to their parents as `cop`.
+121 nodes (2%) are attached to their parents as `cop`.
 
-99 instances of `cop` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.84.
+112 instances of `cop` (93%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.04132231404959.
 
-The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="lij_glt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lij_glt-pos-AUX.html">AUX</a></tt> (45; 45% instances), <tt><a href="lij_glt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lij_glt-pos-AUX.html">AUX</a></tt> (38; 38% instances), <tt><a href="lij_glt-pos-PRON.html">PRON</a></tt>-<tt><a href="lij_glt-pos-AUX.html">AUX</a></tt> (9; 9% instances), <tt><a href="lij_glt-pos-ADV.html">ADV</a></tt>-<tt><a href="lij_glt-pos-AUX.html">AUX</a></tt> (5; 5% instances), <tt><a href="lij_glt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lij_glt-pos-AUX.html">AUX</a></tt> (2; 2% instances), <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-AUX.html">AUX</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="lij_glt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lij_glt-pos-AUX.html">AUX</a></tt> (51; 42% instances), <tt><a href="lij_glt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lij_glt-pos-AUX.html">AUX</a></tt> (38; 31% instances), <tt><a href="lij_glt-pos-PRON.html">PRON</a></tt>-<tt><a href="lij_glt-pos-AUX.html">AUX</a></tt> (17; 14% instances), <tt><a href="lij_glt-pos-ADV.html">ADV</a></tt>-<tt><a href="lij_glt-pos-AUX.html">AUX</a></tt> (7; 6% instances), <tt><a href="lij_glt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lij_glt-pos-AUX.html">AUX</a></tt> (4; 3% instances), <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-AUX.html">AUX</a></tt> (3; 2% instances), <tt><a href="lij_glt-pos-NUM.html">NUM</a></tt>-<tt><a href="lij_glt-pos-AUX.html">AUX</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -53,27 +53,25 @@ The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 10 cop	color:blue
-1	Ben	ben	INTJ	_	_	11	discourse	_	SpaceAfter=No
-2	,	,	PUNCT	_	_	6	punct	_	_
-3	se	se	SCONJ	_	_	6	mark	_	_
-4	no	no	ADV	_	_	6	advmod	_	_
-5	ô	ô	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:pv	_	_
-6	son	ëse	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	SpaceAfter=No
-7	,	,	PUNCT	_	_	6	punct	_	_
-8	de	de	ADP	_	_	9	case	_	_
-9	seguo	seguo	ADV	_	_	11	advmod	_	_
-10	en	ëse	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
-11	quarcösa	quarcösa	PRON	_	Number=Sing|PronType=Ind	0	root	_	_
-12	che	che	PRON	_	PronType=Rel	15	nsubj	_	_
-13	se	se	PRON	_	Person=3|PronType=Prs	15	expl:pv	_	_
-14	gh'	ghe	PRON	_	PronType=Dem	15	expl:pv	_	SpaceAfter=No
-15	assomeggia	assomeggiâ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	SpaceAfter=No
-16	.	.	PUNCT	_	_	11	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 6 cop	color:blue
+1	Mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	ô	ô	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+3	sò	savei	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	chi	chi	PRON	_	PronType=Int	3	ccomp	_	_
+5	t'	ti	PRON	_	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	SpaceAfter=No
+6	ê	ëse	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	cop	_	SpaceAfter=No
+7	:	:	PUNCT	_	_	9	punct	_	_
+8	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	santo	santo	NOUN	_	Gender=Masc|Number=Sing	3	parataxis	_	_
+10	de	de	ADP	_	_	12	case	_	_
+11	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	Segnô	Segnô	PROPN	_	Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
+13	»	»	PUNCT	_	_	3	punct	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

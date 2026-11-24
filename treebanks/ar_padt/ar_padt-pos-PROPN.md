@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  بن (<tt><a href="ar_padt-pos-PROPN.html
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.057143 (the average of all parts of speech is 1.761981).
+The form / lemma ratio of `PROPN` is 1.057143 (the average of all parts of speech is 1.762127).
 
 The 1st highest number of forms (3) was observed with the lemma “أَبُوظَبِي”: أبوظبي, ابوظبى, ابوظبي.
 

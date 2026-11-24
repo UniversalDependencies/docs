@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="fr_sequoia-dep-flat.html">flat</a></tt>.
 There are also 1 other language-specific subtypes of `flat`: <tt><a href="fr_sequoia-dep-flat-foreign.html">flat:foreign</a></tt>.
 
-807 nodes (1%) are attached to their parents as `flat:name`.
+808 nodes (1%) are attached to their parents as `flat:name`.
 
-807 instances of `flat:name` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.07434944237918.
+808 instances of `flat:name` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.07425742574257.
 
-The following 5 pairs of parts of speech are connected with `flat:name`: <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (696; 86% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (86; 11% instances), <tt><a href="fr_sequoia-pos-X.html">X</a></tt>-<tt><a href="fr_sequoia-pos-X.html">X</a></tt> (20; 2% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_sequoia-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `flat:name`: <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (696; 86% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (86; 11% instances), <tt><a href="fr_sequoia-pos-X.html">X</a></tt>-<tt><a href="fr_sequoia-pos-X.html">X</a></tt> (21; 3% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_sequoia-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -59,9 +59,9 @@ The following 5 pairs of parts of speech are connected with `flat:name`: <tt><a 
 3	The	The	X	_	Foreign=Yes	0	root	_	Lang=en
 4	Economist	Economist	X	_	Foreign=Yes	3	flat:name	_	Lang=en|SpaceAfter=No
 5	,	,	PUNCT	_	_	6	punct	_	_
-6	18	18	NUM	_	Number=Sing|NumType=Card	3	nmod	_	Exponence[Number]=Inherent
+6	18	18	NUM	_	ExtPos=PROPN|Number=Sing|NumType=Card	3	nmod	_	Exponence[Number]=Inherent
 7	février	février	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	Exponence[Gender]=Inherent
-8	1989	1989	NUM	_	Number=Sing|NumType=Card	7	nmod	_	Exponence[Number]=Inherent|SpaceAfter=No
+8	1989	1989	NUM	_	ExtPos=PROPN|Number=Sing|NumType=Card	7	nmod	_	Exponence[Number]=Inherent|SpaceAfter=No
 9	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~

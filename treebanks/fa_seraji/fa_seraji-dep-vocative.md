@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-67 nodes (0%) are attached to their parents as `vocative`.
+70 nodes (0%) are attached to their parents as `vocative`.
 
-47 instances of `vocative` (70%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.82089552238806.
+49 instances of `vocative` (70%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.97142857142857.
 
-The following 6 pairs of parts of speech are connected with `vocative`: <tt><a href="fa_seraji-pos-VERB.html">VERB</a></tt>-<tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> (43; 64% instances), <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> (16; 24% instances), <tt><a href="fa_seraji-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> (3; 4% instances), <tt><a href="fa_seraji-pos-ADV.html">ADV</a></tt>-<tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="fa_seraji-pos-VERB.html">VERB</a></tt>-<tt><a href="fa_seraji-pos-X.html">X</a></tt> (2; 3% instances), <tt><a href="fa_seraji-pos-PRON.html">PRON</a></tt>-<tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `vocative`: <tt><a href="fa_seraji-pos-VERB.html">VERB</a></tt>-<tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> (46; 66% instances), <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> (16; 23% instances), <tt><a href="fa_seraji-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> (3; 4% instances), <tt><a href="fa_seraji-pos-ADV.html">ADV</a></tt>-<tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="fa_seraji-pos-VERB.html">VERB</a></tt>-<tt><a href="fa_seraji-pos-X.html">X</a></tt> (2; 3% instances), <tt><a href="fa_seraji-pos-PRON.html">PRON</a></tt>-<tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

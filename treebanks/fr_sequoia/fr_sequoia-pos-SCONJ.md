@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_French-Sequoia: POS Tags: `SCONJ`
 
-There are 7 `SCONJ` lemmas (0%), 11 `SCONJ` types (0%) and 761 `SCONJ` tokens (1%).
+There are 7 `SCONJ` lemmas (0%), 11 `SCONJ` types (0%) and 751 `SCONJ` tokens (1%).
 Out of 16 observed tags, the rank of `SCONJ` is: 13 in number of lemmas, 14 in number of types and 13 in number of tokens.
 
-The 10 most frequent `SCONJ` lemmas: <em>que, si, comme, lorsque, parce, quand, puisque</em>
+The 10 most frequent `SCONJ` lemmas: <em>que, si, comme, lorsque, quand, puisque, parce</em>
 
-The 10 most frequent `SCONJ` types:  <em>que, qu', si, comme, parce, quand, lorsqu', s', lorsque, puisqu'</em>
+The 10 most frequent `SCONJ` types:  <em>que, qu', si, comme, quand, lorsqu', s', lorsque, puisqu', puisque</em>
 
-The 10 most frequent ambiguous lemmas: <em>que</em> (<tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> 545, <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> 110, <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> 28), <em>si</em> (<tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> 135, <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> 2), <em>comme</em> (<tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> 75, <tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> 33), <em>parce</em> (<tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> 12, <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> 9), <em>quand</em> (<tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> 12, <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>que</em> (<tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> 545, <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> 110, <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> 28), <em>si</em> (<tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> 135, <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> 2), <em>comme</em> (<tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> 75, <tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> 33), <em>parce</em> (<tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> 20, <tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>que</em> (<tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> 404, <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> 62, <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> 18), <em>qu'</em> (<tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> 136, <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> 35, <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> 10), <em>si</em> (<tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> 76, <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> 2), <em>comme</em> (<tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> 68, <tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> 28), <em>parce</em> (<tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> 11, <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> 9), <em>quand</em> (<tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> 9, <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> 1), <em>s'</em> (<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> 132, <tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> 7)
+The 10 most frequent ambiguous types:  <em>que</em> (<tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> 404, <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> 62, <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> 18), <em>qu'</em> (<tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> 136, <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> 35, <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> 10), <em>si</em> (<tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> 76, <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> 2), <em>comme</em> (<tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> 68, <tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> 28), <em>s'</em> (<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> 132, <tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> 7)
 
 
 * <em>que</em>
@@ -32,19 +32,13 @@ The 10 most frequent ambiguous types:  <em>que</em> (<tt><a href="fr_sequoia-pos
 * <em>comme</em>
   * <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> 68: <em>Or , il est pris en otage et traité <b>comme</b> un prisonnier de guerre .</em>
   * <tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> 28: <em>Pour soutenir " le chef " , <b>comme</b> l' explique un de les démissionnaires .</em>
-* <em>parce</em>
-  * <tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> 11: <em>Elle a été condamnée <b>parce</b> qu' en tant que médecin , elle a porté secours à des blessés de les deux camps .</em>
-  * <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> 9: <em>" Tout simplement " , a précisé Roger Thiriot , " <b>parce</b> que l' histoire de le travail industriel est , ici , une longue et vieille histoire .</em>
-* <em>quand</em>
-  * <tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> 9: <em>A -t-on jamais pensé à ne relâcher ces sanctions que <b>quand</b> le gouvernement serbe aura vraiment fait un geste ?</em>
-  * <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> 1: <em>Après analyse , toutes les propositions d' amendement - <b>quand</b> bien même elles sont peut-être bien intentionnées sur le plan écologique - ne contribuent pas à une amélioration de la situation actuelle .</em>
 * <em>s'</em>
   * <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> 132: <em>L' EBM <b>s'</b> inclina devant Joeuf par 70-61 .</em>
   * <tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> 7: <em>En effet , ces médicaments peuvent augmenter le risque de saignement <b>s'</b> ils sont administrés en même temps qu' Angiox .</em>
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.571429 (the average of all parts of speech is 1.408837).
+The form / lemma ratio of `SCONJ` is 1.571429 (the average of all parts of speech is 1.408810).
 
 The 1st highest number of forms (2) was observed with the lemma “lorsque”: <em>lorsqu', lorsque</em>.
 
@@ -52,7 +46,7 @@ The 2nd highest number of forms (2) was observed with the lemma “puisque”: <
 
 The 3rd highest number of forms (2) was observed with the lemma “que”: <em>qu', que</em>.
 
-`SCONJ` occurs with 1 features: <tt><a href="fr_sequoia-feat-ExtPos.html">ExtPos</a></tt> (14; 2% instances)
+`SCONJ` occurs with 1 features: <tt><a href="fr_sequoia-feat-ExtPos.html">ExtPos</a></tt> (4; 1% instances)
 
 `SCONJ` occurs with 2 feature-value pairs: `ExtPos=ADV`, `ExtPos=SCONJ`
 
@@ -63,17 +57,19 @@ Examples: <em>que, qu', si, comme, quand, lorsqu', s', lorsque, puisqu', puisque
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 6 different relations: <tt><a href="fr_sequoia-dep-mark.html">mark</a></tt> (621; 82% instances), <tt><a href="fr_sequoia-dep-fixed.html">fixed</a></tt> (89; 12% instances), <tt><a href="fr_sequoia-dep-case.html">case</a></tt> (46; 6% instances), <tt><a href="fr_sequoia-dep-advmod.html">advmod</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-dep-dep-comp.html">dep:comp</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-dep-dep.html">dep</a></tt> (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 5 different relations: <tt><a href="fr_sequoia-dep-mark.html">mark</a></tt> (613; 82% instances), <tt><a href="fr_sequoia-dep-fixed.html">fixed</a></tt> (89; 12% instances), <tt><a href="fr_sequoia-dep-case.html">case</a></tt> (46; 6% instances), <tt><a href="fr_sequoia-dep-advmod.html">advmod</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-dep-dep.html">dep</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 9 different parts of speech: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (510; 67% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (81; 11% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (60; 8% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (59; 8% instances), <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (20; 3% instances), <tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> (12; 2% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (11; 1% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (7; 1% instances), <tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 9 different parts of speech: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (501; 67% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (81; 11% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (70; 9% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (59; 8% instances), <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (20; 3% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (11; 1% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (7; 1% instances), <tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
-746 (98%) `SCONJ` nodes are leaves.
+746 (99%) `SCONJ` nodes are leaves.
 
-15 (2%) `SCONJ` nodes have one child.
+4 (1%) `SCONJ` nodes have one child.
 
-The highest child degree of a `SCONJ` node is 1.
+1 (0%) `SCONJ` nodes have two children.
 
-Children of `SCONJ` nodes are attached using 2 different relations: <tt><a href="fr_sequoia-dep-fixed.html">fixed</a></tt> (14; 93% instances), <tt><a href="fr_sequoia-dep-punct.html">punct</a></tt> (1; 7% instances)
+The highest child degree of a `SCONJ` node is 2.
 
-Children of `SCONJ` nodes belong to 4 different parts of speech: <tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> (12; 80% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (1; 7% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (1; 7% instances), <tt><a href="fr_sequoia-pos-PUNCT.html">PUNCT</a></tt> (1; 7% instances)
+Children of `SCONJ` nodes are attached using 2 different relations: <tt><a href="fr_sequoia-dep-fixed.html">fixed</a></tt> (5; 83% instances), <tt><a href="fr_sequoia-dep-punct.html">punct</a></tt> (1; 17% instances)
+
+Children of `SCONJ` nodes belong to 4 different parts of speech: <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (3; 50% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (1; 17% instances), <tt><a href="fr_sequoia-pos-PUNCT.html">PUNCT</a></tt> (1; 17% instances), <tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> (1; 17% instances)
 

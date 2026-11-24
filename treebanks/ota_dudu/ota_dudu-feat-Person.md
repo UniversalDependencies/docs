@@ -11,34 +11,37 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="ota_dudu-feat-Person.html">Person</a></tt>, <tt><a href="ota_dudu-feat-Person-psor.html">Person[psor]</a></tt>.
 
-14779 tokens (67%) have a non-empty value of `Person`.
-7210 types (84%) occur at least once with a non-empty value of `Person`.
-3693 lemmas (81%) occur at least once with a non-empty value of `Person`.
-The feature is used with 7 part-of-speech tags: <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (8301; 38% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (3115; 14% instances), <tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt> (1623; 7% instances), <tt><a href="ota_dudu-pos-PRON.html">PRON</a></tt> (1006; 5% instances), <tt><a href="ota_dudu-pos-AUX.html">AUX</a></tt> (559; 3% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt> (140; 1% instances), <tt><a href="ota_dudu-pos-NUM.html">NUM</a></tt> (35; 0% instances).
+16829 tokens (67%) have a non-empty value of `Person`.
+7736 types (85%) occur at least once with a non-empty value of `Person`.
+3815 lemmas (81%) occur at least once with a non-empty value of `Person`.
+The feature is used with 7 part-of-speech tags: <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (9179; 37% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (3704; 15% instances), <tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt> (1876; 8% instances), <tt><a href="ota_dudu-pos-PRON.html">PRON</a></tt> (1250; 5% instances), <tt><a href="ota_dudu-pos-AUX.html">AUX</a></tt> (631; 3% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt> (154; 1% instances), <tt><a href="ota_dudu-pos-NUM.html">NUM</a></tt> (35; 0% instances).
 
 ### `NOUN`
 
-8301 <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Person`.
+9179 <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `NOUN` and `Person` co-occurred: <tt><a href="ota_dudu-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7126; 86%), <tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7104; 86%), <tt><a href="ota_dudu-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (6067; 73%), <tt><a href="ota_dudu-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (6067; 73%), <tt><a href="ota_dudu-feat-Case.html">Case</a></tt><tt>=Nom</tt> (5267; 63%).
+The most frequent other feature values with which `NOUN` and `Person` co-occurred: <tt><a href="ota_dudu-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7918; 86%), <tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7867; 86%), <tt><a href="ota_dudu-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (6626; 72%), <tt><a href="ota_dudu-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (6626; 72%), <tt><a href="ota_dudu-feat-Case.html">Case</a></tt><tt>=Nom</tt> (5763; 63%).
 
 `NOUN` tokens may have the following values of `Person`:
 
 * `1` (6; 0% of non-empty `Person`): <em>ahālīmizin, elüme, vaṣiyyetüm, üsdümüzden, ʿömrüm, ʿādetüm</em>
 * `2` (1; 0% of non-empty `Person`): <em>ġāzīsün</em>
-* `3` (8294; 100% of non-empty `Person`): <em>var, gün, paşa, üzerine, bin, efendi, melik, gice, oġlı, beglerbegisi</em>
+* `3` (9172; 100% of non-empty `Person`): <em>var, gün, paşa, üzerine, melik, bin, oġlı, gice, ḫaber, efendi</em>
 * `EMPTY` (2): <em>ecelüñ, ṭayyār</em>
 
 <table>
   <tr><th>Paradigm <i>el</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
+  <tr><td><tt><tt><a href="ota_dudu-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>elden</em></td></tr>
   <tr><td><tt><tt><a href="ota_dudu-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>elinden, elümden, elüñden</em></td></tr>
   <tr><td><tt><tt><a href="ota_dudu-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>elin, ellerin</em></td></tr>
   <tr><td><tt><tt><a href="ota_dudu-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ota_dudu-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>ellerin</em></td></tr>
+  <tr><td><tt><tt><a href="ota_dudu-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ota_dudu-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>ellerin</em></td></tr>
   <tr><td><tt><tt><a href="ota_dudu-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>ele</em></td></tr>
   <tr><td><tt><tt><a href="ota_dudu-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td><em>elüme</em></td><td><em>eline, ellerine</em></td></tr>
   <tr><td><tt><tt><a href="ota_dudu-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ota_dudu-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>ellerine</em></td></tr>
   <tr><td><tt><tt><a href="ota_dudu-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>ellerüñ</em></td></tr>
   <tr><td><tt><tt><a href="ota_dudu-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>elile</em></td></tr>
+  <tr><td><tt><tt><a href="ota_dudu-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>eli-y-ile</em></td></tr>
   <tr><td><tt><tt><a href="ota_dudu-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ota_dudu-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>elleri-y-ile</em></td></tr>
   <tr><td><tt><tt><a href="ota_dudu-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>elinde, elüñde</em></td></tr>
   <tr><td><tt><tt><a href="ota_dudu-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>el</em></td></tr>
@@ -46,32 +49,31 @@ The most frequent other feature values with which `NOUN` and `Person` co-occurre
   <tr><td><tt><tt><a href="ota_dudu-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ota_dudu-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>elleri</em></td></tr>
 </table>
 
-`Person` seems to be **lexical feature** of `NOUN`. 100% lemmas (2558) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `NOUN`. 100% lemmas (2619) occur only with one value of `Person`.
 
 ### `VERB`
 
-3115 <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> tokens (73% of all `VERB` tokens) have a non-empty value of `Person`.
+3704 <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> tokens (74% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (2890; 93%), <tt><a href="ota_dudu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2810; 90%), <tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2509; 81%), <tt><a href="ota_dudu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2495; 80%), <tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (2222; 71%), <tt><a href="ota_dudu-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (2108; 68%), <tt><a href="ota_dudu-feat-Evident.html">Evident</a></tt><tt>=Fh</tt> (1811; 58%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (3427; 93%), <tt><a href="ota_dudu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3371; 91%), <tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2963; 80%), <tt><a href="ota_dudu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2946; 80%), <tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (2632; 71%), <tt><a href="ota_dudu-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (2510; 68%), <tt><a href="ota_dudu-feat-Evident.html">Evident</a></tt><tt>=Fh</tt> (2179; 59%).
 
 `VERB` tokens may have the following values of `Person`:
 
-* `1` (165; 5% of non-empty `Person`): <em>itdüm, oldum, iderin, eyledüm, gördüm, iderem, ideyin, buldum, dilerin, eyledük</em>
-* `2` (172; 6% of non-empty `Person`): <em>getür, idesin, itdüñ, eyle, gizle, gerek, getürüñ, idersin, idüñ, ṭur</em>
-* `3` (2778; 89% of non-empty `Person`): <em>oldı, eyledi, itdi, eyitdi, olındı, geldi, didi, eydür, oldılar, itdiler</em>
-* `EMPTY` (1146): <em>olup, idüp, gelüp, olan, olınup, varup, virilüp, alup, gelen, öpüp</em>
+* `1` (221; 6% of non-empty `Person`): <em>itdüm, oldum, iderin, eyledüm, gördüm, ideyin, dilerin, gidelüm, iderem, varalum</em>
+* `2` (222; 6% of non-empty `Person`): <em>eyle, idesin, getür, itdüñ, getürüñ, gizle, idüñ, gerek, idersin, ṭur</em>
+* `3` (3261; 88% of non-empty `Person`): <em>oldı, eyledi, eyitdi, didi, itdi, geldi, olındı, eydür, oldılar, itdiler</em>
+* `EMPTY` (1312): <em>olup, idüp, gelüp, olan, varup, olınup, virilüp, alup, işidicek, olıcaḳ</em>
 
 <table>
   <tr><th>Paradigm <i>ol</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="ota_dudu-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt>|<tt><a href="ota_dudu-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ota_dudu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>olmaz-ısañ</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ota_dudu-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt>|<tt><a href="ota_dudu-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ota_dudu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td></td><td><em>olursa</em></td></tr>
   <tr><td><tt><tt><a href="ota_dudu-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt>|<tt><a href="ota_dudu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ota_dudu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td></td><td><em>olmazdı</em></td></tr>
   <tr><td><tt><tt><a href="ota_dudu-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt>|<tt><a href="ota_dudu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ota_dudu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="ota_dudu-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td></td><td><em>olınmazdı</em></td></tr>
-  <tr><td><tt><tt><a href="ota_dudu-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt>|<tt><a href="ota_dudu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ota_dudu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td></td><td><em>olmaz</em></td></tr>
+  <tr><td><tt><tt><a href="ota_dudu-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt>|<tt><a href="ota_dudu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ota_dudu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td></td><td><em>olmaz, olam</em></td></tr>
   <tr><td><tt><tt><a href="ota_dudu-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt>|<tt><a href="ota_dudu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ota_dudu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="ota_dudu-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td></td><td><em>olınmaz, olunmaz</em></td></tr>
   <tr><td><tt><tt><a href="ota_dudu-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt>|<tt><a href="ota_dudu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ota_dudu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td></td><td><em>olurdı</em></td></tr>
   <tr><td><tt><tt><a href="ota_dudu-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt>|<tt><a href="ota_dudu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ota_dudu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="ota_dudu-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td></td><td><em>olınurdı</em></td></tr>
-  <tr><td><tt><tt><a href="ota_dudu-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt>|<tt><a href="ota_dudu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ota_dudu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td></td><td><em>olur, ola, oldur</em></td></tr>
+  <tr><td><tt><tt><a href="ota_dudu-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt>|<tt><a href="ota_dudu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ota_dudu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>olursın</em></td><td><em>olur, ola, oldur</em></td></tr>
   <tr><td><tt><tt><a href="ota_dudu-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt>|<tt><a href="ota_dudu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ota_dudu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="ota_dudu-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td></td><td><em>olınur, olunur</em></td></tr>
   <tr><td><tt><tt><a href="ota_dudu-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt>|<tt><a href="ota_dudu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ota_dudu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td></td><td><em>olurlar</em></td></tr>
   <tr><td><tt><tt><a href="ota_dudu-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ota_dudu-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ota_dudu-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>olduḳdan, olduḳtan, oldıḳından</em></td></tr>
@@ -83,7 +85,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
   <tr><td><tt><tt><a href="ota_dudu-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ota_dudu-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ota_dudu-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>olduġı, oldıġı</em></td></tr>
   <tr><td><tt><tt><a href="ota_dudu-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ota_dudu-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ota_dudu-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="ota_dudu-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td></td><td><em>olınduġı</em></td></tr>
   <tr><td><tt><tt><a href="ota_dudu-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ota_dudu-feat-Evident.html">Evident</a></tt><tt>=Fh</tt>|<tt><a href="ota_dudu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ota_dudu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td></td><td><em>olmadı</em></td></tr>
-  <tr><td><tt><tt><a href="ota_dudu-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ota_dudu-feat-Evident.html">Evident</a></tt><tt>=Fh</tt>|<tt><a href="ota_dudu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ota_dudu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>oldum</em></td><td></td><td><em>oldı, oldu</em></td></tr>
+  <tr><td><tt><tt><a href="ota_dudu-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ota_dudu-feat-Evident.html">Evident</a></tt><tt>=Fh</tt>|<tt><a href="ota_dudu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ota_dudu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>oldum</em></td><td></td><td><em>oldı, oldu, olıdı</em></td></tr>
   <tr><td><tt><tt><a href="ota_dudu-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ota_dudu-feat-Evident.html">Evident</a></tt><tt>=Fh</tt>|<tt><a href="ota_dudu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ota_dudu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="ota_dudu-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td></td><td><em>olındı, olundu</em></td></tr>
   <tr><td><tt><tt><a href="ota_dudu-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ota_dudu-feat-Evident.html">Evident</a></tt><tt>=Fh</tt>|<tt><a href="ota_dudu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ota_dudu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>olduñuz</em></td><td><em>oldılar, olurlar</em></td></tr>
   <tr><td><tt><tt><a href="ota_dudu-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ota_dudu-feat-Evident.html">Evident</a></tt><tt>=Fh</tt>|<tt><a href="ota_dudu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ota_dudu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="ota_dudu-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td></td><td><em>olındılar</em></td></tr>
@@ -102,10 +104,11 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
   <tr><td><tt><tt><a href="ota_dudu-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ota_dudu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ota_dudu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td></td><td><em>olmışdı, olmışdır</em></td></tr>
   <tr><td><tt><tt><a href="ota_dudu-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ota_dudu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=Pqp</tt>|<tt><a href="ota_dudu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td></td><td><em>olmışıdı</em></td></tr>
   <tr><td><tt><tt><a href="ota_dudu-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ota_dudu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ota_dudu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td></td><td><em>oldılar</em></td></tr>
-  <tr><td><tt><tt><a href="ota_dudu-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ota_dudu-feat-Mood.html">Mood</a></tt><tt>=Opt</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ota_dudu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>olasun</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ota_dudu-feat-Aspect.html">Aspect</a></tt><tt>=Prosp</tt>|<tt><a href="ota_dudu-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="ota_dudu-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>olmayacaġın</em></td></tr>
   <tr><td><tt><tt><a href="ota_dudu-feat-Aspect.html">Aspect</a></tt><tt>=Prosp</tt>|<tt><a href="ota_dudu-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="ota_dudu-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>olıcaġı</em></td></tr>
   <tr><td><tt><tt><a href="ota_dudu-feat-Aspect.html">Aspect</a></tt><tt>=Prosp</tt>|<tt><a href="ota_dudu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="ota_dudu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td></td><td><em>olacaḳ</em></td></tr>
   <tr><td><tt><tt><a href="ota_dudu-feat-Aspect.html">Aspect</a></tt><tt>=Prosp</tt>|<tt><a href="ota_dudu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ota_dudu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td></td><td><em>olacaḳ</em></td></tr>
+  <tr><td><tt><tt><a href="ota_dudu-feat-Aspect.html">Aspect</a></tt><tt>=Prosp</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ota_dudu-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>olacaḳ</em></td></tr>
   <tr><td><tt><tt><a href="ota_dudu-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ota_dudu-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>olanları</em></td></tr>
   <tr><td><tt><tt><a href="ota_dudu-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ota_dudu-feat-VerbForm.html">VerbForm</a></tt><tt>=Vnoun</tt></tt></td><td></td><td></td><td><em>olmaġa</em></td></tr>
   <tr><td><tt><tt><a href="ota_dudu-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ota_dudu-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>olmayanlara</em></td></tr>
@@ -120,36 +123,37 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
   <tr><td><tt><tt><a href="ota_dudu-feat-Mood.html">Mood</a></tt><tt>=Des</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ota_dudu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>olsam</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ota_dudu-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="ota_dudu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>olmasun</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ota_dudu-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ota_dudu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td></td><td><em>olsun</em></td></tr>
-  <tr><td><tt><tt><a href="ota_dudu-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ota_dudu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>ol, ola</em></td><td><em>ol, olsun</em></td></tr>
-  <tr><td><tt><tt><a href="ota_dudu-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ota_dudu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>oluñ, olasız</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ota_dudu-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ota_dudu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>ol, ola, olasın</em></td><td><em>olsun, ol</em></td></tr>
+  <tr><td><tt><tt><a href="ota_dudu-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ota_dudu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>oluñ, olasız</em></td><td><em>olsunlar</em></td></tr>
   <tr><td><tt><tt><a href="ota_dudu-feat-Mood.html">Mood</a></tt><tt>=Opt</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="ota_dudu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td></td><td><em>olmasun, olmaya</em></td></tr>
-  <tr><td><tt><tt><a href="ota_dudu-feat-Mood.html">Mood</a></tt><tt>=Opt</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ota_dudu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>olam</em></td><td></td><td><em>ola</em></td></tr>
+  <tr><td><tt><tt><a href="ota_dudu-feat-Mood.html">Mood</a></tt><tt>=Opt</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ota_dudu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>olam</em></td><td><em>olasun</em></td><td><em>ola</em></td></tr>
   <tr><td><tt><tt><a href="ota_dudu-feat-Mood.html">Mood</a></tt><tt>=Opt</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="ota_dudu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>olmayalum</em></td><td></td><td></td></tr>
 </table>
 
 ### `PROPN`
 
-1623 <tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Person`.
+1876 <tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PROPN` and `Person` co-occurred: <tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1608; 99%), <tt><a href="ota_dudu-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1169; 72%), <tt><a href="ota_dudu-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1054; 65%), <tt><a href="ota_dudu-feat-NameType.html">NameType</a></tt><tt>=Prs</tt> (978; 60%).
+The most frequent other feature values with which `PROPN` and `Person` co-occurred: <tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1861; 99%), <tt><a href="ota_dudu-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1335; 71%), <tt><a href="ota_dudu-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1289; 69%), <tt><a href="ota_dudu-feat-NameType.html">NameType</a></tt><tt>=Prs</tt> (1194; 64%).
 
 `PROPN` tokens may have the following values of `Person`:
 
-* `3` (1623; 100% of non-empty `Person`): <em>ibrāhīm, nemrūd, ʿanter, züheyr, iskender, aḥmed, muṣṭafā, ʿalī, āẕer, meḥemmed</em>
+* `3` (1876; 100% of non-empty `Person`): <em>ʿanter, ibrāhīm, nemrūd, züheyr, iskender, mālik, aḥmed, züheyrüñ, āẕer, ʿable</em>
 
-`Person` seems to be **lexical feature** of `PROPN`. 100% lemmas (696) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `PROPN`. 100% lemmas (723) occur only with one value of `Person`.
 
 ### `PRON`
 
-1006 <tt><a href="ota_dudu-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Person`.
+1250 <tt><a href="ota_dudu-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="ota_dudu-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (868; 86%), <tt><a href="ota_dudu-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (868; 86%), <tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (836; 83%), <tt><a href="ota_dudu-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (520; 52%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="ota_dudu-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1101; 88%), <tt><a href="ota_dudu-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (1101; 88%), <tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1037; 83%), <tt><a href="ota_dudu-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (648; 52%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (147; 15% of non-empty `Person`): <em>ben, benüm, baña, beni, bize, bizüm, benden, benim, bizi, biz</em>
-* `2` (95; 9% of non-empty `Person`): <em>saña, sen, senüñ, seni, size, senden, siz, sizi, birbirüñüze, sizden</em>
-* `3` (764; 76% of non-empty `Person`): <em>andan, anuñ, bunuñ, kendü, anda, bu, ol, anı, aña, birinüñ</em>
+* `1` (182; 15% of non-empty `Person`): <em>ben, benüm, baña, beni, bize, bizüm, bizi, biz, benden, benim</em>
+* `2` (120; 10% of non-empty `Person`): <em>sen, saña, senüñ, seni, size, senden, siz, sizi, sizüñ, birbirüñüze</em>
+* `3` (948; 76% of non-empty `Person`): <em>andan, anuñ, bunuñ, kendü, anı, bu, anda, aña, ol, bunlaruñ</em>
+* `EMPTY` (1): <em>bu</em>
 
 <table>
   <tr><th>Paradigm <i>ben</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
@@ -164,48 +168,48 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 ### `AUX`
 
-559 <tt><a href="ota_dudu-pos-AUX.html">AUX</a></tt> tokens (94% of all `AUX` tokens) have a non-empty value of `Person`.
+631 <tt><a href="ota_dudu-pos-AUX.html">AUX</a></tt> tokens (94% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (548; 98%), <tt><a href="ota_dudu-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (472; 84%), <tt><a href="ota_dudu-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (367; 66%), <tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (334; 60%), <tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (324; 58%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (620; 98%), <tt><a href="ota_dudu-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (519; 82%), <tt><a href="ota_dudu-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (416; 66%), <tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (373; 59%), <tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (359; 57%).
 
 `AUX` tokens may have the following values of `Person`:
 
-* `1` (20; 4% of non-empty `Person`): <em>idüm, sın, yam, yem, yidüm, idük, midüm, sin, yin, yüz</em>
-* `2` (16; 3% of non-empty `Person`): <em>misin, sañ, degülsin, misiz, degilsiñiz, mısınız, señ, señüz, sun, sıñız</em>
-* `3` (523; 94% of non-empty `Person`): <em>dur, idi, dür, ıdı, dir, dır, imiş, dı, degüldür, di</em>
-* `EMPTY` (36): <em>iken, ken, idi, mi, yiken, yken, ıken</em>
+* `1` (26; 4% of non-empty `Person`): <em>idüm, sın, yam, degülin, sin, yem, yidüm, yın, idük, midüm</em>
+* `2` (22; 3% of non-empty `Person`): <em>sañ, misin, degülsin, misiz, señ, -sañ, degilsiñiz, mısın, mısınız, señüz</em>
+* `3` (583; 92% of non-empty `Person`): <em>dur, idi, dür, ıdı, dir, dır, imiş, di, mi, degüldür</em>
+* `EMPTY` (37): <em>iken, ken, idi, mi, yiken, yken, ıken</em>
 
 <table>
   <tr><th>Paradigm <i>y</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="ota_dudu-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>mi</em></td></tr>
+  <tr><td><tt><tt><a href="ota_dudu-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>mi, mı</em></td></tr>
   <tr><td><tt><tt><a href="ota_dudu-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ota_dudu-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ota_dudu-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>ydügin</em></td></tr>
   <tr><td><tt><tt><a href="ota_dudu-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ota_dudu-feat-Evident.html">Evident</a></tt><tt>=Fh</tt>|<tt><a href="ota_dudu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ota_dudu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td></td><td><em>idiler</em></td></tr>
-  <tr><td><tt><tt><a href="ota_dudu-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ota_dudu-feat-Evident.html">Evident</a></tt><tt>=Fh</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>idüm, yidüm, idük</em></td><td></td><td><em>idi, ıdı, dı, di, -ıdı, ydi, udı, yidi, -idi, yıdı</em></td></tr>
+  <tr><td><tt><tt><a href="ota_dudu-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ota_dudu-feat-Evident.html">Evident</a></tt><tt>=Fh</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>idüm, yidüm, idük</em></td><td></td><td><em>idi, ıdı, di, dı, -ıdı, ydi, udı, yidi, -idi, imiş, yıdı</em></td></tr>
   <tr><td><tt><tt><a href="ota_dudu-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ota_dudu-feat-Evident.html">Evident</a></tt><tt>=Fh</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>idüm</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ota_dudu-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ota_dudu-feat-Evident.html">Evident</a></tt><tt>=Nfh</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>imiş</em></td></tr>
   <tr><td><tt><tt><a href="ota_dudu-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ota_dudu-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>se</em></td></tr>
   <tr><td><tt><tt><a href="ota_dudu-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>dur, dür, dir, dır, tir, tır, -durur</em></td></tr>
   <tr><td><tt><tt><a href="ota_dudu-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>ken, tur</em></td></tr>
   <tr><td><tt><tt><a href="ota_dudu-feat-Evident.html">Evident</a></tt><tt>=Fh</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>-y-ıdı</em></td></tr>
-  <tr><td><tt><tt><a href="ota_dudu-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>sa, se, ısa</em></td></tr>
-  <tr><td><tt><tt><a href="ota_dudu-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td></td><td><em>sañ, señ</em></td><td><em>ise, sa, se, -sa, -y-ise, iseñ</em></td></tr>
+  <tr><td><tt><tt><a href="ota_dudu-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>ısa, sa, se</em></td></tr>
+  <tr><td><tt><tt><a href="ota_dudu-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td></td><td><em>sañ, señ, -sañ</em></td><td><em>ise, sa, se, -sa, -y-ise, iseñ, ısa</em></td></tr>
   <tr><td><tt><tt><a href="ota_dudu-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td></td><td><em>señüz</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>sın, yam, yem, sin, yin, yüz, yım, yın, üm</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>sın, yam, sin, yem, yın, yin, yüz, yım, üm</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>sıñız</em></td><td></td></tr>
 </table>
 
 ### `ADJ`
 
-140 <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt> tokens (11% of all `ADJ` tokens) have a non-empty value of `Person`.
+154 <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt> tokens (11% of all `ADJ` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `ADJ` and `Person` co-occurred: <tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (115; 82%).
+The most frequent other feature values with which `ADJ` and `Person` co-occurred: <tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (125; 81%).
 
 `ADJ` tokens may have the following values of `Person`:
 
-* `3` (140; 100% of non-empty `Person`): <em>içinde, ḫātūn, mezbūruñ, var, aralarında, yanında, arası, atlu, aʿlāsı, aʿrābī</em>
-* `EMPTY` (1163): <em>niçe, maʿzūl, çoḳ, mezbūr, vāḳiʿ, dürlü, ẓāhir, muḳarrer, büyük, bāḳī</em>
+* `3` (154; 100% of non-empty `Person`): <em>ḫātūn, içinde, aralarında, mezbūruñ, var, niçeler, yanında, arası, atlu, aʿlāsı</em>
+* `EMPTY` (1272): <em>niçe, çoḳ, maʿzūl, mezbūr, vāḳiʿ, dürlü, bāḳī, ẓāhir, hīç, büyük</em>
 
-`Person` seems to be **lexical feature** of `ADJ`. 100% lemmas (111) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `ADJ`. 100% lemmas (114) occur only with one value of `Person`.
 
 ### `NUM`
 
@@ -216,21 +220,21 @@ The most frequent other feature values with which `NUM` and `Person` co-occurred
 `NUM` tokens may have the following values of `Person`:
 
 * `3` (35; 100% of non-empty `Person`): <em>beşi, ikisi, ikisinde, altıda, biñden, sekizinde, altısında, beşinde, biñde, biñe</em>
-* `EMPTY` (471): <em>yüz, on, biñ, iki, üç, dört, yigirmi, ḳırḳ, ṭoḳuz, sekiz</em>
+* `EMPTY` (487): <em>yüz, on, iki, biñ, üç, dört, yigirmi, ṭoḳuz, ḳırḳ, sekiz</em>
 
 `Person` seems to be **lexical feature** of `NUM`. 100% lemmas (15) occur only with one value of `Person`.
 
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="ota_dudu-dep-obl.html">obl</a></tt>]--> NOUN</tt> (847; 70%),
-<tt>NOUN --[<tt><a href="ota_dudu-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (728; 100%),
-<tt>NOUN --[<tt><a href="ota_dudu-dep-compound-lvc.html">compound:lvc</a></tt>]--> VERB</tt> (588; 66%),
-<tt>NOUN --[<tt><a href="ota_dudu-dep-conj.html">conj</a></tt>]--> NOUN</tt> (571; 100%),
-<tt>NOUN --[<tt><a href="ota_dudu-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (563; 100%),
-<tt>NOUN --[<tt><a href="ota_dudu-dep-obl.html">obl</a></tt>]--> NOUN</tt> (549; 100%),
-<tt>VERB --[<tt><a href="ota_dudu-dep-obj.html">obj</a></tt>]--> NOUN</tt> (531; 62%),
-<tt>VERB --[<tt><a href="ota_dudu-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (470; 74%),
-<tt>VERB --[<tt><a href="ota_dudu-dep-conj.html">conj</a></tt>]--> VERB</tt> (319; 94%),
-<tt>NOUN --[<tt><a href="ota_dudu-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (296; 100%).
+<tt>VERB --[<tt><a href="ota_dudu-dep-obl.html">obl</a></tt>]--> NOUN</tt> (982; 70%),
+<tt>NOUN --[<tt><a href="ota_dudu-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (762; 100%),
+<tt>NOUN --[<tt><a href="ota_dudu-dep-compound-lvc.html">compound:lvc</a></tt>]--> VERB</tt> (635; 66%),
+<tt>NOUN --[<tt><a href="ota_dudu-dep-conj.html">conj</a></tt>]--> NOUN</tt> (616; 100%),
+<tt>NOUN --[<tt><a href="ota_dudu-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (606; 100%),
+<tt>NOUN --[<tt><a href="ota_dudu-dep-obl.html">obl</a></tt>]--> NOUN</tt> (586; 100%),
+<tt>VERB --[<tt><a href="ota_dudu-dep-obj.html">obj</a></tt>]--> NOUN</tt> (585; 60%),
+<tt>VERB --[<tt><a href="ota_dudu-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (542; 74%),
+<tt>VERB --[<tt><a href="ota_dudu-dep-conj.html">conj</a></tt>]--> VERB</tt> (431; 93%),
+<tt>NOUN --[<tt><a href="ota_dudu-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (318; 100%).
 

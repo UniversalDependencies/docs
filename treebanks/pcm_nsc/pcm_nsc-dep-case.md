@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-4499 nodes (3%) are attached to their parents as `case`.
+4498 nodes (3%) are attached to their parents as `case`.
 
-4497 instances of `case` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.83418537452767.
+4496 instances of `case` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.83370386838595.
 
-The following 33 pairs of parts of speech are connected with `case`: <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (2676; 59% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (763; 17% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (499; 11% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (145; 3% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (89; 2% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (76; 2% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (61; 1% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (47; 1% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (23; 1% instances), <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (16; 0% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (16; 0% instances), <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (15; 0% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (14; 0% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (7; 0% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt>-<tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt>-<tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 33 pairs of parts of speech are connected with `case`: <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (2674; 59% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (763; 17% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (499; 11% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (145; 3% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (89; 2% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (76; 2% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (61; 1% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (47; 1% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (23; 1% instances), <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (16; 0% instances), <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (16; 0% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (16; 0% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (14; 0% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (7; 0% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt>-<tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt>-<tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,15 +22,15 @@ The following 33 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 case	color:blue
-1	#	#	PUNCT	_	_	5	punct	_	AlignBegin=23422|AlignEnd=23583|Gloss=PUNCT
-2	meh	make	AUX	_	Mood=Opt	5	aux	_	AlignBegin=23583|AlignEnd=23707|Gloss=SBJV
-3	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	dislocated	_	AlignBegin=23707|AlignEnd=23788|Gloss=ACC.SG.1
-4	a	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	AlignBegin=23788|AlignEnd=23907|Gloss=NOM.SG.1
-5	go	go	VERB	_	_	0	root	_	AlignBegin=23907|AlignEnd=24107|Gloss=go
-6	for	for	ADP	_	_	7	case	_	AlignBegin=24107|AlignEnd=24297|Gloss=for
-7	school	school	NOUN	_	_	5	obl:arg	_	AlignBegin=24297|AlignEnd=24577|Gloss=school
-8	first	first	ADV	_	_	5	advmod	_	AlignBegin=24577|AlignEnd=24856|Gloss=first
-9	//	//	PUNCT	_	_	5	punct	_	AlignBegin=24856|AlignEnd=24856|Gloss=PUNCT
+1	#	#	PUNCT	_	_	5	punct	_	Gloss=PUNCT|WordAlignmentBegin=23422|WordAlignmentEnd=23583
+2	meh	make	AUX	_	Mood=Opt	5	aux	_	Gloss=SBJV|WordAlignmentBegin=23583|WordAlignmentEnd=23707
+3	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	dislocated	_	Gloss=ACC.SG.1|WordAlignmentBegin=23707|WordAlignmentEnd=23788
+4	a	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Gloss=NOM.SG.1|WordAlignmentBegin=23788|WordAlignmentEnd=23907
+5	go	go	VERB	_	_	0	root	_	Gloss=go|WordAlignmentBegin=23907|WordAlignmentEnd=24107
+6	for	for	ADP	_	_	7	case	_	Gloss=for|WordAlignmentBegin=24107|WordAlignmentEnd=24297
+7	school	school	NOUN	_	_	5	obl:arg	_	Gloss=school|WordAlignmentBegin=24297|WordAlignmentEnd=24577
+8	first	first	ADV	_	_	5	advmod	_	Gloss=first|WordAlignmentBegin=24577|WordAlignmentEnd=24856
+9	//	//	PUNCT	_	_	5	punct	_	Gloss=PUNCT|WordAlignmentBegin=24856|WordAlignmentEnd=24856
 
 ~~~
 
@@ -41,17 +41,17 @@ The following 33 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 9 case	color:blue
-1	#	#	PUNCT	_	_	3	punct	_	AlignBegin=64011|AlignEnd=64514|Gloss=PUNCT
-2	dey	dey	AUX	_	Aspect=Imp	3	aux	_	AlignBegin=64513|AlignEnd=64584|Gloss=IPFV
-3	use	use	VERB	_	_	0	root	_	AlignBegin=64584|AlignEnd=64774|Gloss=use
-4	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	3	obj	_	AlignBegin=64774|AlignEnd=64974|Gloss=ACC.SG.3
-5	//=	//=	PUNCT	_	_	7	punct	_	AlignBegin=64974|AlignEnd=64974|Gloss=PUNCT
-6	dey	dey	AUX	_	Aspect=Imp	7	aux	_	AlignBegin=64974|AlignEnd=65063|Gloss=IPFV
-7	take	take	VERB	_	_	3	parataxis:conj	_	AlignBegin=65063|AlignEnd=65263|Gloss=take
-8	care	care	NOUN	_	_	7	obj:lvc	_	AlignBegin=65263|AlignEnd=65464|Gloss=care
-9	of	of	ADP	_	_	10	case	_	AlignBegin=65464|AlignEnd=65644|Gloss=of
-10	ourself	oursef	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs|Reflex=Yes	7	obl:arg	_	AlignBegin=65644|AlignEnd=66032|Gloss=ACC.PL.1.REFL
-11	//	//	PUNCT	_	_	3	punct	_	AlignBegin=66032|AlignEnd=66032|Gloss=PUNCT
+1	#	#	PUNCT	_	_	3	punct	_	Gloss=PUNCT|WordAlignmentBegin=64011|WordAlignmentEnd=64514
+2	dey	dey	AUX	_	Aspect=Imp	3	aux	_	Gloss=IPFV|WordAlignmentBegin=64513|WordAlignmentEnd=64584
+3	use	use	VERB	_	_	0	root	_	Gloss=use|WordAlignmentBegin=64584|WordAlignmentEnd=64774
+4	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	3	obj	_	Gloss=ACC.SG.3|WordAlignmentBegin=64774|WordAlignmentEnd=64974
+5	//=	//=	PUNCT	_	_	7	punct	_	Gloss=PUNCT|WordAlignmentBegin=64974|WordAlignmentEnd=64974
+6	dey	dey	AUX	_	Aspect=Imp	7	aux	_	Gloss=IPFV|WordAlignmentBegin=64974|WordAlignmentEnd=65063
+7	take	take	VERB	_	_	3	parataxis:conj	_	Gloss=take|WordAlignmentBegin=65063|WordAlignmentEnd=65263
+8	care	care	NOUN	_	_	7	obj:lvc	_	Gloss=care|WordAlignmentBegin=65263|WordAlignmentEnd=65464
+9	of	of	ADP	_	_	10	case	_	Gloss=of|WordAlignmentBegin=65464|WordAlignmentEnd=65644
+10	ourself	oursef	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs|Reflex=Yes	7	obl:arg	_	Gloss=ACC.PL.1.REFL|WordAlignmentBegin=65644|WordAlignmentEnd=66032
+11	//	//	PUNCT	_	_	3	punct	_	Gloss=PUNCT|WordAlignmentBegin=66032|WordAlignmentEnd=66032
 
 ~~~
 
@@ -62,23 +62,23 @@ The following 33 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 16	bgColor:blue
 # visual-style 16	fgColor:white
 # visual-style 16 15 case	color:blue
-1	#	#	PUNCT	_	_	8	punct	_	AlignBegin=99890|AlignEnd=100444|Gloss=PUNCT
-2	so	so	SCONJ	_	_	8	discourse	_	AlignBegin=100444|AlignEnd=100579|Gloss=so
-3	dat	dat	DET	_	Number=Sing	5	det	_	AlignBegin=100579|AlignEnd=100877|Gloss=SG.DEM
-4	#	#	PUNCT	_	_	3	punct	_	AlignBegin=100877|AlignEnd=101323|Gloss=PUNCT
-5	moment	moment	NOUN	_	_	8	dislocated	_	AlignBegin=101323|AlignEnd=101765|Gloss=moment
-6	<	<	PUNCT	_	_	5	punct	_	AlignBegin=101765|AlignEnd=101765|Gloss=PUNCT
-7	#	#	PUNCT	_	_	5	punct	_	AlignBegin=101765|AlignEnd=102107|Gloss=PUNCT
-8	na	na	AUX	_	ExtPos=SCONJ|PartType=Cop	0	root	_	AlignBegin=102107|AlignEnd=102210|Gloss=be|Idiom=Yes
-9	im	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	8	fixed	_	AlignBegin=102210|AlignEnd=102310|Gloss=NOM.SG.3|InIdiom=Yes
-10	>+	>+	PUNCT	_	_	14	punct	_	AlignBegin=102310|AlignEnd=102310|Gloss=PUNCT
-11	my	my	PRON	_	Number=Sing|Person=1|Poss=Yes	12	nmod:poss	_	AlignBegin=102310|AlignEnd=102430|Gloss=SG.1.POSS
-12	uncle	uncle	NOUN	_	_	14	nsubj	_	AlignBegin=102430|AlignEnd=102650|Gloss=uncle
-13	con	con	AUX	_	Aspect=Cons	14	aux	_	AlignBegin=102650|AlignEnd=102830|Gloss=CONS
-14	come	come	VERB	_	_	8	advcl:cleft	_	AlignBegin=102830|AlignEnd=103090|Gloss=come
-15	from	from	ADP	_	_	16	case	_	AlignBegin=103090|AlignEnd=103350|Gloss=from
-16	Abuja	Abuja	PROPN	_	_	14	obl:arg	_	AlignBegin=103350|AlignEnd=103911|Gloss=Abuja
-17	//	//	PUNCT	_	_	8	punct	_	AlignBegin=103911|AlignEnd=103911|Gloss=PUNCT
+1	#	#	PUNCT	_	_	8	punct	_	Gloss=PUNCT|WordAlignmentBegin=99890|WordAlignmentEnd=100444
+2	so	so	SCONJ	_	_	8	discourse	_	Gloss=so|WordAlignmentBegin=100444|WordAlignmentEnd=100579
+3	dat	dat	DET	_	Number=Sing	5	det	_	Gloss=SG.DEM|WordAlignmentBegin=100579|WordAlignmentEnd=100877
+4	#	#	PUNCT	_	_	3	punct	_	Gloss=PUNCT|WordAlignmentBegin=100877|WordAlignmentEnd=101323
+5	moment	moment	NOUN	_	_	8	dislocated	_	Gloss=moment|WordAlignmentBegin=101323|WordAlignmentEnd=101765
+6	<	<	PUNCT	_	_	5	punct	_	Gloss=PUNCT|WordAlignmentBegin=101765|WordAlignmentEnd=101765
+7	#	#	PUNCT	_	_	5	punct	_	Gloss=PUNCT|WordAlignmentBegin=101765|WordAlignmentEnd=102107
+8	na	na	AUX	_	ExtPos=SCONJ|PartType=Cop	0	root	_	Gloss=be|Idiom=Yes|WordAlignmentBegin=102107|WordAlignmentEnd=102210
+9	im	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	8	fixed	_	Gloss=NOM.SG.3|InIdiom=Yes|WordAlignmentBegin=102210|WordAlignmentEnd=102310
+10	>+	>+	PUNCT	_	_	14	punct	_	Gloss=PUNCT|WordAlignmentBegin=102310|WordAlignmentEnd=102310
+11	my	my	PRON	_	Number=Sing|Person=1|Poss=Yes	12	nmod:poss	_	Gloss=SG.1.POSS|WordAlignmentBegin=102310|WordAlignmentEnd=102430
+12	uncle	uncle	NOUN	_	_	14	nsubj	_	Gloss=uncle|WordAlignmentBegin=102430|WordAlignmentEnd=102650
+13	con	con	AUX	_	Aspect=Cons	14	aux	_	Gloss=CONS|WordAlignmentBegin=102650|WordAlignmentEnd=102830
+14	come	come	VERB	_	_	8	advcl:cleft	_	Gloss=come|WordAlignmentBegin=102830|WordAlignmentEnd=103090
+15	from	from	ADP	_	_	16	case	_	Gloss=from|WordAlignmentBegin=103090|WordAlignmentEnd=103350
+16	Abuja	Abuja	PROPN	_	_	14	obl:arg	_	Gloss=Abuja|WordAlignmentBegin=103350|WordAlignmentEnd=103911
+17	//	//	PUNCT	_	_	8	punct	_	Gloss=PUNCT|WordAlignmentBegin=103911|WordAlignmentEnd=103911
 
 ~~~
 

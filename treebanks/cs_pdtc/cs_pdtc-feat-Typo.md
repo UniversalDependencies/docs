@@ -30,7 +30,7 @@ The most frequent other feature values with which `NOUN` and `Typo` co-occurred:
 
 83 <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `ADJ` and `Typo` co-occurred: <tt><a href="cs_pdtc-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (83; 100%), <tt><a href="cs_pdtc-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (83; 100%), <tt><a href="cs_pdtc-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (77; 93%), <tt><a href="cs_pdtc-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (75; 90%), <tt><a href="cs_pdtc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (52; 63%), <tt><a href="cs_pdtc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (49; 59%), <tt><a href="cs_pdtc-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (44; 53%).
+The most frequent other feature values with which `ADJ` and `Typo` co-occurred: <tt><a href="cs_pdtc-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (83; 100%), <tt><a href="cs_pdtc-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (83; 100%), <tt><a href="cs_pdtc-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (83; 100%), <tt><a href="cs_pdtc-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (77; 93%), <tt><a href="cs_pdtc-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (75; 90%), <tt><a href="cs_pdtc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (52; 63%), <tt><a href="cs_pdtc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (49; 59%), <tt><a href="cs_pdtc-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (44; 53%).
 
 `ADJ` tokens may have the following values of `Typo`:
 

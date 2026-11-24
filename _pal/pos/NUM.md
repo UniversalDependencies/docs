@@ -17,4 +17,4 @@ Numerals can be written as a word, e.g. _ēk_ "one" written ʾywk, or _se_ "thre
 - _dō_ "two", also written _yb_
 - panǰāh "fifty", also written _sk_ or _sd_
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:36 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:28 CET -->

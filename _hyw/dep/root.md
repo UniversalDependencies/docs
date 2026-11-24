@@ -34,4 +34,4 @@ and there are multiple orphaned dependents, the dependent that is highest in the
 10	էնթէրէն	էնթէրէ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing|Style=Coll	8	orphan	_	Translit=ēnt’ērēn|LTranslit=ēnt’ērē|SpaceAfter=No
 11	...	...	PUNCT	_	_	3	punct	_	Translit=...|LTranslit=...
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:43 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:39:13 CET -->

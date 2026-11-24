@@ -13,7 +13,7 @@ The 10 most frequent `PART` lemmas: <em>не, же, и, только, ли, да
 
 The 10 most frequent `PART` types:  <em>не, же, и, только, ли, даже, именно, лишь, ни, просто</em>
 
-The 10 most frequent ambiguous lemmas: <em>и</em> (<tt><a href="ru_pud-pos-CCONJ.html">CCONJ</a></tt> 448, <tt><a href="ru_pud-pos-PART.html">PART</a></tt> 29), <em>ведь</em> (<tt><a href="ru_pud-pos-PART.html">PART</a></tt> 4, <tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 1), <em>де</em> (<tt><a href="ru_pud-pos-PART.html">PART</a></tt> 3, <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt> 1), <em>это</em> (<tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> 93, <tt><a href="ru_pud-pos-DET.html">DET</a></tt> 2, <tt><a href="ru_pud-pos-PART.html">PART</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>и</em> (<tt><a href="ru_pud-pos-CCONJ.html">CCONJ</a></tt> 448, <tt><a href="ru_pud-pos-PART.html">PART</a></tt> 29), <em>ведь</em> (<tt><a href="ru_pud-pos-PART.html">PART</a></tt> 4, <tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 1), <em>де</em> (<tt><a href="ru_pud-pos-PART.html">PART</a></tt> 3, <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt> 1), <em>это</em> (<tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> 93, <tt><a href="ru_pud-pos-PART.html">PART</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>и</em> (<tt><a href="ru_pud-pos-CCONJ.html">CCONJ</a></tt> 442, <tt><a href="ru_pud-pos-PART.html">PART</a></tt> 29), <em>ведь</em> (<tt><a href="ru_pud-pos-PART.html">PART</a></tt> 2, <tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 1), <em>это</em> (<tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> 46, <tt><a href="ru_pud-pos-DET.html">DET</a></tt> 12, <tt><a href="ru_pud-pos-PART.html">PART</a></tt> 1)
 
@@ -31,7 +31,7 @@ The 10 most frequent ambiguous types:  <em>и</em> (<tt><a href="ru_pud-pos-CCON
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.496727).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.499132).
 
 The 1st highest number of forms (1) was observed with the lemma “Эль”: <em>Эль</em>.
 
@@ -52,7 +52,7 @@ Examples: <em>же, и, только, ли, даже, именно, лишь, п
 
 `PART` nodes are attached to their parents using 7 different relations: <tt><a href="ru_pud-dep-advmod.html">advmod</a></tt> (239; 89% instances), <tt><a href="ru_pud-dep-fixed.html">fixed</a></tt> (23; 9% instances), <tt><a href="ru_pud-dep-flat-name.html">flat:name</a></tt> (3; 1% instances), <tt><a href="ru_pud-dep-discourse.html">discourse</a></tt> (2; 1% instances), <tt><a href="ru_pud-dep-cc.html">cc</a></tt> (1; 0% instances), <tt><a href="ru_pud-dep-expl.html">expl</a></tt> (1; 0% instances), <tt><a href="ru_pud-dep-nsubj.html">nsubj</a></tt> (1; 0% instances)
 
-Parents of `PART` nodes belong to 12 different parts of speech: <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (109; 40% instances), <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (50; 19% instances), <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> (28; 10% instances), <tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> (17; 6% instances), <tt><a href="ru_pud-pos-DET.html">DET</a></tt> (17; 6% instances), <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> (14; 5% instances), <tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (9; 3% instances), <tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> (7; 3% instances), <tt><a href="ru_pud-pos-CCONJ.html">CCONJ</a></tt> (5; 2% instances), <tt><a href="ru_pud-pos-NUM.html">NUM</a></tt> (5; 2% instances), <tt><a href="ru_pud-pos-PART.html">PART</a></tt> (5; 2% instances), <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt> (4; 1% instances)
+Parents of `PART` nodes belong to 13 different parts of speech: <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (110; 41% instances), <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (50; 19% instances), <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> (28; 10% instances), <tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> (17; 6% instances), <tt><a href="ru_pud-pos-DET.html">DET</a></tt> (17; 6% instances), <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> (14; 5% instances), <tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (8; 3% instances), <tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> (7; 3% instances), <tt><a href="ru_pud-pos-CCONJ.html">CCONJ</a></tt> (5; 2% instances), <tt><a href="ru_pud-pos-NUM.html">NUM</a></tt> (5; 2% instances), <tt><a href="ru_pud-pos-PART.html">PART</a></tt> (5; 2% instances), <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="ru_pud-pos-X.html">X</a></tt> (1; 0% instances)
 
 263 (97%) `PART` nodes are leaves.
 

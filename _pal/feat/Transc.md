@@ -21,4 +21,4 @@ The feature "transcendent" has been set up to mark supernatural beings, places o
 - _ohrmazd_ "(the god) Ohrmazd"
 - _wahišt_ "paradise"
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:21 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:05 CET -->

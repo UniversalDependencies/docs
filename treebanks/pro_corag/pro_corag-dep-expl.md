@@ -8,35 +8,27 @@ udver: '2'
 
 This relation is universal.
 
-409 nodes (1%) are attached to their parents as `expl`.
+562 nodes (1%) are attached to their parents as `expl`.
 
-389 instances of `expl` (95%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.68215158924205.
+540 instances of `expl` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.55693950177936.
 
-The following 2 pairs of parts of speech are connected with `expl`: <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (398; 97% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-PART.html">PART</a></tt> (11; 3% instances).
+The following 2 pairs of parts of speech are connected with `expl`: <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (551; 98% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-PART.html">PART</a></tt> (11; 2% instances).
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 6 expl	color:blue
-1	Item	_	ADV	_	_	7	advmod	_	SpaceAfter=No
-2	,	_	PUNCT	_	_	1	punct	_	_
-3	nulh	_	DET	_	Polarity=Neg	4	det	_	_
-4	ceys	_	NOUN	_	_	7	nsubj	_	_
-5	no-	_	ADV	_	Polarity=Neg	7	advmod	_	_
-6	-s	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	8	expl	_	_
-7	deu	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
-8	judyar	_	VERB	_	VerbForm=Inf	7	xcomp	_	_
-9	fore	_	ADP	_	_	11	case	_	_
-10	la	_	DET	_	_	11	det	_	_
-11	cadene	_	NOUN	_	_	8	obl	_	_
-12	de	_	ADP	_	_	14	case	_	_
-13	la	_	DET	_	_	14	det	_	_
-14	viele	_	NOUN	_	_	11	nmod	_	SpaceAfter=No
-15	.	_	PUNCT	_	_	7	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 expl	color:blue
+1	No-	_	ADV	_	Polarity=Neg	3	advmod	_	_
+2	-s	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	3	expl	_	_
+3	serve	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
+4	passat	_	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	3	advcl	_	_
+5	.XXX.	_	NUM	_	_	6	nummod	_	_
+6	antz	_	NOUN	_	_	4	nsubj	_	SpaceAfter=No
+7	.	_	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

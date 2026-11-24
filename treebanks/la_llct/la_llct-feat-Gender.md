@@ -25,7 +25,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 * `Fem` (20581; 40% of non-empty `Gender`): <em>ecclesie, manus, casa, terra, res, cartula, rebus, ecclesia, indictione, memorie</em>
 * `Masc` (23000; 45% of non-empty `Gender`): <em>teste, filio, loco, notarius, presbitero, anno, domno, episcopus, presbiter, testis</em>
 * `Neut` (7625; 15% of non-empty `Gender`): <em>signum, nomine, argentum, lato, caput, regni, imperii, tempore, mandato, capo</em>
-* `EMPTY` (6): <em>[noun], [--], [pronoun]</em>
+* `EMPTY` (7): <em>[noun], [pronoun], [--]</em>
 
 <table>
   <tr><th>Paradigm <i>heres</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -152,7 +152,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 * `Fem` (1858; 22% of non-empty `Gender`): <em>quas, eas, que, eam, quam, tibi, eius, ea, qua, cui</em>
 * `Masc` (5595; 66% of non-empty `Gender`): <em>qui, tibi, eius, vobis, tu, te, vos, cui, que, quo</em>
 * `Neut` (1017; 12% of non-empty `Gender`): <em>id, quod, que, aliquo, quibus, aliquid, eo, quit, quidquid, quo</em>
-* `EMPTY` (9809): <em>ego, me, nos, mihi, nobis, se, nihil, nus, novis, sibi</em>
+* `EMPTY` (9808): <em>ego, me, nos, mihi, nobis, se, nihil, nus, novis, sibi</em>
 
 <table>
   <tr><th>Paradigm <i>qui</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>

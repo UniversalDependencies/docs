@@ -118,13 +118,13 @@ The most frequent other feature values with which `ADJ` and `Person` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="fa_seraji-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1583; 74%),
-<tt>VERB --[<tt><a href="fa_seraji-dep-conj.html">conj</a></tt>]--> VERB</tt> (1556; 92%),
+<tt>VERB --[<tt><a href="fa_seraji-dep-conj.html">conj</a></tt>]--> VERB</tt> (1555; 92%),
 <tt>VERB --[<tt><a href="fa_seraji-dep-aux.html">aux</a></tt>]--> AUX</tt> (1315; 76%),
-<tt>VERB --[<tt><a href="fa_seraji-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (726; 71%),
-<tt>VERB --[<tt><a href="fa_seraji-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (267; 77%),
+<tt>VERB --[<tt><a href="fa_seraji-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (728; 72%),
+<tt>VERB --[<tt><a href="fa_seraji-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (270; 77%),
 <tt>VERB --[<tt><a href="fa_seraji-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (197; 100%),
 <tt>PRON --[<tt><a href="fa_seraji-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (89; 55%),
-<tt>VERB --[<tt><a href="fa_seraji-dep-cop.html">cop</a></tt>]--> AUX</tt> (21; 91%),
+<tt>VERB --[<tt><a href="fa_seraji-dep-cop.html">cop</a></tt>]--> AUX</tt> (20; 91%),
 <tt>VERB --[<tt><a href="fa_seraji-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (17; 100%),
 <tt>VERB --[<tt><a href="fa_seraji-dep-obl.html">obl</a></tt>]--> VERB</tt> (14; 93%).
 

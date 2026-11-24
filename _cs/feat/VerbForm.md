@@ -114,9 +114,15 @@ and its lemma is the singular nominative form of the verbal noun (not the infini
 the verb). Unlike finite verbs and infinitives, a verbal noun inflects for [Case]()
 and [Number]() (although plural forms are rarely used).
 
+The annotation does not distinguish by context whether the verbal noun still denotes primarily
+the event or has lexicalized with a shifted meaning. For example, _oddělení_ “department” and
+_zaměstnání_ “employment” will get `VerbForm=Vnoun` simply because they were formed from the
+verbal stem using the standard suffix _-ní/-tí_. On the other hand, _nákup_ “purchase” is formed
+differently and does not get the feature (unlike much rarer _koupení_).
+
 #### Examples
 
 - _nesení_ &nbsp;“carrying”
 - _bytí_ &nbsp;“being”
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:23 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:07 CET -->

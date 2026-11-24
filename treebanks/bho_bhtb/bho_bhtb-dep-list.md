@@ -22,7 +22,7 @@ The following 8 pairs of parts of speech are connected with `list`: <tt><a href=
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 7 list	color:blue
-1	अब	अब	DET	N_NST	Case=Nom|PronType=Prs	2	obl	_	Translit=aba|LTranslit=aba
+1	अब	अब	DET	N_NST	Case=Nom|PronType=Prs	2	nmod	_	Translit=aba|LTranslit=aba
 2	भारत	भारत	PROPN	N_NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	nsubj	_	Translit=bhārata|LTranslit=bhārata
 3	-	-	PUNCT	RD_PUNC	_	2	punct	_	Translit=-|LTranslit=-
 4	भूमि	भूमि	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	2	compound	_	Translit=bhūmi|LTranslit=bhūmi
@@ -49,16 +49,16 @@ The following 8 pairs of parts of speech are connected with `list`: <tt><a href=
 2	खयाल	खयाल	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	13	nsubj	_	Translit=khayāla|LTranslit=khayāla
 3	से	से	ADP	PSP	AdpType=Post	2	case	_	Translit=se|LTranslit=se
 4	हमनी	हमनी	PRON	PR_PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	nmod	_	Translit=hamanī|LTranslit=hamanī
-5	सभ	सभ	PART	QT_QTF	_	6	obl	_	Translit=sabha|LTranslit=sabha
+5	सभ	सभ	PART	QT_QTF	_	6	nmod	_	Translit=sabha|LTranslit=sabha
 6	लेखकन	लेखकन	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	8	iobj	_	Translit=lekhakana|LTranslit=lekhakana
 7	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	6	case	_	Translit=ke|LTranslit=kā
 8	राजनीति	राजनीति	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	13	obj	_	Translit=rājanīti|LTranslit=rājanīti
 9	आ	आ	CCONJ	CC_CCD	_	12	advcl	_	Translit=ā|LTranslit=ā
-10	गोलबंदी	गोलबंदी	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	8	obl	_	Translit=golabaṁdī|LTranslit=golabaṁdī
+10	गोलबंदी	गोलबंदी	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	8	nmod	_	Translit=golabaṁdī|LTranslit=golabaṁdī
 11	से	से	ADP	PSP	AdpType=Post	10	case	_	Translit=se|LTranslit=se
 12	अलगे	अलग	NOUN	N_NST	_	10	list	_	Translit=alage|LTranslit=alaga
 13	रहेके	रहेको	VERB	V_VM	_	0	root	_	Translit=raheke|LTranslit=raheko
-14	चाहीं	चाही	AUX	V_AUX	_	13	aux	_	SpacesAfter=\s\s|Translit=cāhīṁ|LTranslit=cāhī
+14	चाहीं	चाही	AUX	V_VAUX	_	13	aux	_	SpacesAfter=\s\s|Translit=cāhīṁ|LTranslit=cāhī
 15	।	।	PUNCT	RD_PUNC	_	13	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 ~~~

@@ -36,7 +36,7 @@ The 10 most frequent ambiguous types:  त (<tt><a href="bho_bhtb-pos-PART.html"
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 0.909091 (the average of all parts of speech is 1.035079).
+The form / lemma ratio of `SCONJ` is 0.909091 (the average of all parts of speech is 1.035097).
 
 The 1st highest number of forms (1) was observed with the lemma “आँखि”: आँखि.
 

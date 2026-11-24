@@ -50,7 +50,7 @@ The 10 most frequent ambiguous types:  <em>ὅτι</em> (<tt><a href="grc_ptnk-p
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.153846 (the average of all parts of speech is 2.345984).
+The form / lemma ratio of `SCONJ` is 1.153846 (the average of all parts of speech is 2.346578).
 
 The 1st highest number of forms (2) was observed with the lemma “γάρ”: <em>γάρ, γὰρ</em>.
 

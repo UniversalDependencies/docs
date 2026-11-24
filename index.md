@@ -24,7 +24,7 @@ If you are new to UD, you should start by reading the first part of the Short In
   <td rowspan="2" style="padding-left: 1em"><a href="guidelines.html">Annotation guidelines</a> (<a href="changes.html">changes</a>)<br/>
   &nbsp;&nbsp;&nbsp;<a href="u/pos/index.html">UPOS tags</a> ▪ <a href="u/feat/index.html">feats</a> ▪ <a href="u/dep/index.html">deprels</a> ▪ <a href="format.html">CoNLL-U format</a></td>
   <td rowspan="2" style="padding-left: 1em" id="download">Download UD treebanks: <a href="download.html">all releases</a><br/>
-                  ☞ <a href="http://hdl.handle.net/11234/1-6149">Release 2.18</a> <small>(May 15, 2026)</small></td>
+                  ☞ <a href="http://hdl.handle.net/11234/1-6316">Release 2.19</a> <small>(November 15, 2026)</small></td>
   <td style="padding-left: 1em"><a href="https://lists.uu.se/sympa/info/lingfil-ud">UD mailing list</a></td>
 </tr>
 <tr>
@@ -67,9 +67,9 @@ If you are new to UD, you should start by reading the first part of the Short In
 <small>Information about language families (and genera for families with multiple branches) is mostly taken from
 [WALS Online](http://wals.info) (IE = Indo-European).</small>
 
-<div id="accordion" class="jquery-ui-accordion">
+{::nomarkdown}
 {% include at_glance.html %}
-</div>
+{:/nomarkdown}
 
 <small>Disclaimer: Our use of flags to symbolise languages is only intended as a visual enhancement of the website and should not be interpreted as a political statement in any way.</small>
 
@@ -78,9 +78,9 @@ If you are new to UD, you should start by reading the first part of the Short In
 People have expressed interest in providing annotated data for the following languages but no
 valid data has been provided so far.
 
-<div id="accordion" class="jquery-ui-accordion">
+{::nomarkdown}
 {% include at_glance_sapling.html %}
-</div>
+{:/nomarkdown}
 
 <small>Disclaimer: Our use of flags to symbolise languages is only intended as a visual enhancement of the website and should not be interpreted as a political statement in any way.</small>
 
@@ -89,9 +89,9 @@ valid data has been provided so far.
 The following treebanks have been part of one or more UD releases in the past but they are no
 longer maintained and they have been excluded from the most recent release.
 
-<div id="accordion" class="jquery-ui-accordion">
+{::nomarkdown}
 {% include at_glance_retired.html %}
-</div>
+{:/nomarkdown}
 
 <small>Disclaimer: Our use of flags to symbolise languages is only intended as a visual enhancement of the website and should not be interpreted as a political statement in any way.</small>
 

@@ -8,25 +8,47 @@ udver: '2'
 
 This feature is universal.
 It occurs with 2 different values: `Imp`, `Perf`.
+Some words have combined values of the feature; 1 combinations have been observed: `Imp|Perf`.
 
-45706 tokens (9%) have a non-empty value of `Aspect`.
-11244 types (18%) occur at least once with a non-empty value of `Aspect`.
-4213 lemmas (15%) occur at least once with a non-empty value of `Aspect`.
-The feature is used with 5 part-of-speech tags: <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (24932; 5% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (16120; 3% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (4639; 1% instances), <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> (9; 0% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (6; 0% instances).
+65524 tokens (13%) have a non-empty value of `Aspect`.
+16683 types (27%) occur at least once with a non-empty value of `Aspect`.
+5352 lemmas (19%) occur at least once with a non-empty value of `Aspect`.
+The feature is used with 5 part-of-speech tags: <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (38544; 8% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (16120; 3% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (10845; 2% instances), <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> (9; 0% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (6; 0% instances).
 
 ### `VERB`
 
-24932 <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> tokens (64% of all `VERB` tokens) have a non-empty value of `Aspect`.
+38544 <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> tokens (99% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (23495; 94%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (19337; 78%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (18954; 76%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (13583; 54%), <tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (13392; 54%), <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (13351; 54%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (35789; 93%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (30658; 80%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (28404; 74%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (20945; 54%), <tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (20519; 53%), <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (20510; 53%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
-* `Imp` (17129; 69% of non-empty `Aspect`): <em>patří, tvoří, znamená, odpovídá, stává, mění, představuje, dochází, ukazuje, říká</em>
-* `Perf` (7803; 31% of non-empty `Aspect`): <em>zajistit, podařilo, vytvořit, vyjádřit, vysvětlit, získat, stanoví, viz, splnit, odstranit</em>
-* `EMPTY` (13816): <em>má, mají, musí, může, jde, lze, mohou, můžeme, mít, měl</em>
+* `Imp` (25197; 65% of non-empty `Aspect`): <em>má, mají, musí, může, jde, lze, mohou, můžeme, mít, měl</em>
+* `Imp,Perf` (568; 1% of non-empty `Aspect`): <em>realizovat, charakterizuje, charakterizovat, informoval, organizovat, definovat, konstatovat, aplikovat, orientovat, realizuje</em>
+* `Perf` (12779; 33% of non-empty `Aspect`): <em>došlo, zajistit, říci, stojí, řekl, podařilo, použít, dosáhnout, stal, stát</em>
+* `EMPTY` (204): <em>nalézt, nalezl, myslet, tkví, nalezli, myslel, rozepsat, vymyslel, vymyslet, zamysleme</em>
 
-`Aspect` seems to be **lexical feature** of `VERB`. 100% lemmas (3008) occur only with one value of `Aspect`.
+<table>
+  <tr><th>Paradigm <i>stát</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>stali, stáli</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>nestaly</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>staly, stály</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-ExtPos.html">ExtPos</a></tt><tt>=ADV</tt>|<tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>stůj</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>nestál, nestal</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>stal, stál</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Fem,Neut</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>stala, stála</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>nestalo, nestálo</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>stalo, stálo</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>stůj</em></td><td><em>stůj</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>staňte</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>nestane, nestojí</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>stojí, stane</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>stojíme, staneme</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>stojí, stanou</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt></tt></td><td></td><td><em>stát, státi</em></td></tr>
+</table>
+
+`Aspect` seems to be **lexical feature** of `VERB`. 100% lemmas (3600) occur only with one value of `Aspect`.
 
 ### `AUX`
 
@@ -40,17 +62,31 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 
 ### `ADJ`
 
-4639 <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> tokens (6% of all `ADJ` tokens) have a non-empty value of `Aspect`.
+10845 <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> tokens (15% of all `ADJ` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `ADJ` and `Aspect` co-occurred: <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (4639; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (4597; 99%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2748; 59%), <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (2496; 54%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (2457; 53%), <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2454; 53%).
+The most frequent other feature values with which `ADJ` and `Aspect` co-occurred: <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (10655; 98%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (10627; 98%), <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (8656; 80%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (8473; 78%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (6468; 60%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5498; 51%).
 
 `ADJ` tokens may have the following values of `Aspect`:
 
-* `Imp` (3050; 66% of non-empty `Aspect`): <em>pracujících, rozhodující, pracující, vedoucí, odpovídající, následující, věnována, řídící, týkající, budoucí</em>
-* `Perf` (1589; 34% of non-empty `Aspect`): <em>splněny, zahájena, založena, splněn, stanovena, spojeno, spojeny, stanoveny, vybudována, připraveny</em>
-* `EMPTY` (69581): <em>další, pracovní, první, jednotlivých, základní, nové, možno, socialistické, různých, dalších</em>
+* `Imp` (4202; 39% of non-empty `Aspect`): <em>pracujících, rozhodující, pracující, vedoucí, odpovídající, plánovaných, následující, věnována, řídící, týkající</em>
+* `Imp,Perf` (520; 5% of non-empty `Aspect`): <em>specializovaných, charakterizována, charakterizovány, kvalifikovaných, orientované, charakterizován, realizována, specializované, orientovaná, orientovaných</em>
+* `Perf` (6123; 56% of non-empty `Aspect`): <em>uvedených, uvedené, řečeno, dané, dosaženo, spojené, daného, spojených, dána, provedena</em>
+* `EMPTY` (63375): <em>další, pracovní, první, jednotlivých, základní, nové, možno, socialistické, různých, dalších</em>
 
-`Aspect` seems to be **lexical feature** of `ADJ`. 100% lemmas (1201) occur only with one value of `Aspect`.
+<table>
+  <tr><th>Paradigm <i>věnovaný</i></th><th><tt>Imp</tt></th><th><tt>Imp,Perf</tt></th></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cac-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td><em>věnovány</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>věnované</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>věnovanou</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>věnované</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>věnovaných</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>věnovaná</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td><em>věnován</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Fem,Neut</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt>|<tt><a href="cs_cac-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td><em>věnována</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td><em>věnováno</em></td><td></td></tr>
+</table>
+
+`Aspect` seems to be **lexical feature** of `ADJ`. 100% lemmas (1739) occur only with one value of `Aspect`.
 
 ### `CCONJ`
 
@@ -59,7 +95,7 @@ The most frequent other feature values with which `ADJ` and `Aspect` co-occurred
 `CCONJ` tokens may have the following values of `Aspect`:
 
 * `Imp` (9; 100% of non-empty `Aspect`): <em>buď</em>
-* `EMPTY` (24206): <em>a, i, nebo, ale, však, ani, či, tak, neboť, jednak</em>
+* `EMPTY` (23987): <em>a, i, nebo, ale, však, ani, či, neboť, jednak, avšak</em>
 
 ### `NOUN`
 
@@ -71,19 +107,19 @@ The most frequent other feature values with which `NOUN` and `Aspect` co-occurre
 
 * `Imp` (1; 17% of non-empty `Aspect`): <em>tváří</em>
 * `Perf` (5; 83% of non-empty `Aspect`): <em>oprav, vyhovění</em>
-* `EMPTY` (136176): <em>práce, roce, let, práci, roku, oblasti, době, společnosti, hlediska, činnosti</em>
+* `EMPTY` (136236): <em>práce, roce, let, práci, roku, oblasti, době, společnosti, hlediska, činnosti</em>
 
 ## Relations with Agreement in `Aspect`
 
 The 10 most frequent relations where parent and child node agree in `Aspect`:
+<tt>VERB --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> VERB</tt> (4020; 74%),
+<tt>VERB --[<tt><a href="cs_cac-dep-aux.html">aux</a></tt>]--> AUX</tt> (1859; 62%),
+<tt>VERB --[<tt><a href="cs_cac-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (998; 59%),
+<tt>VERB --[<tt><a href="cs_cac-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (567; 51%),
+<tt>VERB --[<tt><a href="cs_cac-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (120; 53%),
+<tt>VERB --[<tt><a href="cs_cac-dep-csubj-pass.html">csubj:pass</a></tt>]--> VERB</tt> (50; 64%),
+<tt>AUX --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> VERB</tt> (26; 84%),
+<tt>VERB --[<tt><a href="cs_cac-dep-xcomp.html">xcomp</a></tt>]--> AUX</tt> (20; 95%),
 <tt>AUX --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> AUX</tt> (19; 100%),
-<tt>VERB --[<tt><a href="cs_cac-dep-advcl-pred.html">advcl:pred</a></tt>]--> VERB</tt> (15; 79%),
-<tt>AUX --[<tt><a href="cs_cac-dep-aux.html">aux</a></tt>]--> AUX</tt> (10; 100%),
-<tt>AUX --[<tt><a href="cs_cac-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (6; 100%),
-<tt>VERB --[<tt><a href="cs_cac-dep-orphan.html">orphan</a></tt>]--> VERB</tt> (5; 56%),
-<tt>VERB --[<tt><a href="cs_cac-dep-advmod.html">advmod</a></tt>]--> VERB</tt> (2; 100%),
-<tt>VERB --[<tt><a href="cs_cac-dep-compound.html">compound</a></tt>]--> AUX</tt> (2; 67%),
-<tt>VERB --[<tt><a href="cs_cac-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (2; 100%),
-<tt>ADJ --[<tt><a href="cs_cac-dep-nsubj.html">nsubj</a></tt>]--> ADJ</tt> (1; 100%),
-<tt>AUX --[<tt><a href="cs_cac-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (1; 100%).
+<tt>VERB --[<tt><a href="cs_cac-dep-appos.html">appos</a></tt>]--> VERB</tt> (17; 53%).
 

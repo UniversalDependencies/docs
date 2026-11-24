@@ -52,7 +52,7 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 4	Pompeiových	Pompeiův	ADJ	AUFP6M---------	Case=Loc|Gender=Fem|Gender[psor]=Masc|NameType=Sur|Number=Plur|Poss=Yes	5	amod	5:amod	LDeriv=Pompeius
 5	akcích	akce	NOUN	NNFP6-----A----	Case=Loc|Gender=Fem|Number=Plur	7	obl	7:obl:o:loc	_
 6	osobně	osobně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	7	advmod	7:advmod	LDeriv=osobní
-7	informován	informovaný	ADJ	VsYS---XX-AP---	Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	0:root	LDeriv=informovat
+7	informován	informovaný	ADJ	VsYS---XX-AP---	Aspect=Imp,Perf|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	0:root	LDeriv=informovat
 8	Curiem	Curio	PROPN	NNMS7-----A----	Animacy=Anim|Case=Ins|Gender=Masc|NameType=Sur|Number=Sing	7	obl:agent	7:obl:agent:ins|14:nsubj	SpaceAfter=No
 9	,	,	PUNCT	Z:-------------	_	14	punct	14:punct	_
 10	který	který	DET	P4YS1----------	Case=Nom|Gender=Masc|Number=Sing|PronType=Int,Rel	14	nsubj	8:ref	_

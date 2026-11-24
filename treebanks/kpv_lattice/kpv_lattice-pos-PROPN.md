@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Komi_Zyrian-Lattice: POS Tags: `PROPN`
 
-There are 39 `PROPN` lemmas (2%), 41 `PROPN` types (1%) and 49 `PROPN` tokens (1%).
+There are 40 `PROPN` lemmas (2%), 42 `PROPN` types (1%) and 50 `PROPN` tokens (1%).
 Out of 15 observed tags, the rank of `PROPN` is: 7 in number of lemmas, 8 in number of types and 13 in number of tokens.
 
 The 10 most frequent `PROPN` lemmas: <em>Ворошилов, Ефрем, Климент, Краснӧй, Сталин, Ёгор, Валентина, Вера, Вика, Волга</em>
@@ -39,7 +39,7 @@ The 10 most frequent ambiguous types:  <em>Краснӧй</em> (<tt><a href="kpv
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.051282 (the average of all parts of speech is 1.477594).
+The form / lemma ratio of `PROPN` is 1.050000 (the average of all parts of speech is 1.477648).
 
 The 1st highest number of forms (2) was observed with the lemma “Ворошилов”: <em>Ворошилов, Ворошиловӧс</em>.
 
@@ -47,22 +47,22 @@ The 2nd highest number of forms (2) was observed with the lemma “Ефрем”
 
 The 3rd highest number of forms (1) was observed with the lemma “Ёгор”: <em>Ёгор</em>.
 
-`PROPN` occurs with 7 features: <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt> (49; 100% instances), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt> (49; 100% instances), <tt><a href="kpv_lattice-feat-Animacy.html">Animacy</a></tt> (8; 16% instances), <tt><a href="kpv_lattice-feat-NameType.html">NameType</a></tt> (3; 6% instances), <tt><a href="kpv_lattice-feat-Number-psor.html">Number[psor]</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-feat-Person-psor.html">Person[psor]</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-feat-Variant.html">Variant</a></tt> (1; 2% instances)
+`PROPN` occurs with 7 features: <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt> (50; 100% instances), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt> (50; 100% instances), <tt><a href="kpv_lattice-feat-Animacy.html">Animacy</a></tt> (8; 16% instances), <tt><a href="kpv_lattice-feat-NameType.html">NameType</a></tt> (3; 6% instances), <tt><a href="kpv_lattice-feat-Number-psor.html">Number[psor]</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-feat-Person-psor.html">Person[psor]</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-feat-Variant.html">Variant</a></tt> (1; 2% instances)
 
 `PROPN` occurs with 17 feature-value pairs: `Animacy=Hum`, `Case=Abe`, `Case=Acc`, `Case=Apr`, `Case=Com`, `Case=Dat`, `Case=Ela`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `NameType=Giv`, `NameType=Sur`, `Number=Sing`, `Number[psor]=Sing`, `Person[psor]=3`, `Variant=Vclause`
 
 `PROPN` occurs with 14 feature combinations.
-The most frequent feature combination is `Case=Nom|Number=Sing` (30 tokens).
+The most frequent feature combination is `Case=Nom|Number=Sing` (31 tokens).
 Examples: <em>Ворошилов, Климент, Ефремович, Краснӧй, Сталин, Ёгор, Валентина, Вера, Гриш, Демит</em>
 
 
 ## Relations
 
-`PROPN` nodes are attached to their parents using 13 different relations: <tt><a href="kpv_lattice-dep-flat-name.html">flat:name</a></tt> (8; 16% instances), <tt><a href="kpv_lattice-dep-nsubj.html">nsubj</a></tt> (8; 16% instances), <tt><a href="kpv_lattice-dep-obl.html">obl</a></tt> (7; 14% instances), <tt><a href="kpv_lattice-dep-compound-nn.html">compound:nn</a></tt> (6; 12% instances), <tt><a href="kpv_lattice-dep-conj.html">conj</a></tt> (6; 12% instances), <tt><a href="kpv_lattice-dep-nmod.html">nmod</a></tt> (5; 10% instances), <tt><a href="kpv_lattice-dep-appos.html">appos</a></tt> (2; 4% instances), <tt><a href="kpv_lattice-dep-obj.html">obj</a></tt> (2; 4% instances), <tt><a href="kpv_lattice-dep-amod.html">amod</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-dep-compound.html">compound</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-dep-flat.html">flat</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-dep-obl-cmp.html">obl:cmp</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-dep-xcomp.html">xcomp</a></tt> (1; 2% instances)
+`PROPN` nodes are attached to their parents using 13 different relations: <tt><a href="kpv_lattice-dep-flat-name.html">flat:name</a></tt> (8; 16% instances), <tt><a href="kpv_lattice-dep-nsubj.html">nsubj</a></tt> (8; 16% instances), <tt><a href="kpv_lattice-dep-obl.html">obl</a></tt> (8; 16% instances), <tt><a href="kpv_lattice-dep-compound-nn.html">compound:nn</a></tt> (6; 12% instances), <tt><a href="kpv_lattice-dep-conj.html">conj</a></tt> (6; 12% instances), <tt><a href="kpv_lattice-dep-nmod.html">nmod</a></tt> (5; 10% instances), <tt><a href="kpv_lattice-dep-appos.html">appos</a></tt> (2; 4% instances), <tt><a href="kpv_lattice-dep-obj.html">obj</a></tt> (2; 4% instances), <tt><a href="kpv_lattice-dep-amod.html">amod</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-dep-compound.html">compound</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-dep-flat.html">flat</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-dep-obl-cmp.html">obl:cmp</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-dep-xcomp.html">xcomp</a></tt> (1; 2% instances)
 
-Parents of `PROPN` nodes belong to 4 different parts of speech: <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (19; 39% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (16; 33% instances), <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> (13; 27% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (1; 2% instances)
+Parents of `PROPN` nodes belong to 4 different parts of speech: <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (19; 38% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (17; 34% instances), <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> (13; 26% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (1; 2% instances)
 
-28 (57%) `PROPN` nodes are leaves.
+29 (58%) `PROPN` nodes are leaves.
 
 12 (24%) `PROPN` nodes have one child.
 

@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Czech-FicTree: POS Tags: `CCONJ`
 
-There are 34 `CCONJ` lemmas (0%), 34 `CCONJ` types (0%) and 7681 `CCONJ` tokens (5%).
+There are 32 `CCONJ` lemmas (0%), 32 `CCONJ` types (0%) and 7556 `CCONJ` tokens (5%).
 Out of 16 observed tags, the rank of `CCONJ` is: 13 in number of lemmas, 15 in number of types and 9 in number of tokens.
 
-The 10 most frequent `CCONJ` lemmas: <em>a, ale, i, nebo, tak, však, jenže, ani, proto, neboť</em>
+The 10 most frequent `CCONJ` lemmas: <em>a, ale, i, nebo, však, jenže, ani, proto, neboť, sice</em>
 
-The 10 most frequent `CCONJ` types:  <em>a, ale, i, nebo, tak, však, jenže, ani, proto, neboť</em>
+The 10 most frequent `CCONJ` types:  <em>a, ale, i, nebo, však, jenže, ani, proto, neboť, sice</em>
 
-The 10 most frequent ambiguous lemmas: <em>a</em> (<tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> 5586, <tt><a href="cs_fictree-pos-INTJ.html">INTJ</a></tt> 1), <em>ale</em> (<tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> 889, <tt><a href="cs_fictree-pos-PART.html">PART</a></tt> 4), <em>i</em> (<tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> 360, <tt><a href="cs_fictree-pos-PART.html">PART</a></tt> 120), <em>tak</em> (<tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> 451, <tt><a href="cs_fictree-pos-PART.html">PART</a></tt> 124, <tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> 122), <em>však</em> (<tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> 86, <tt><a href="cs_fictree-pos-PART.html">PART</a></tt> 2), <em>ani</em> (<tt><a href="cs_fictree-pos-PART.html">PART</a></tt> 262, <tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> 74), <em>proto</em> (<tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> 55, <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> 54), <em>vždyť</em> (<tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> 20, <tt><a href="cs_fictree-pos-PART.html">PART</a></tt> 4), <em>až</em> (<tt><a href="cs_fictree-pos-PART.html">PART</a></tt> 141, <tt><a href="cs_fictree-pos-SCONJ.html">SCONJ</a></tt> 101, <tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> 11), <em>tedy</em> (<tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> 82, <tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> 11)
+The 10 most frequent ambiguous lemmas: <em>a</em> (<tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> 5586, <tt><a href="cs_fictree-pos-INTJ.html">INTJ</a></tt> 1), <em>ale</em> (<tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> 889, <tt><a href="cs_fictree-pos-PART.html">PART</a></tt> 4), <em>i</em> (<tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> 360, <tt><a href="cs_fictree-pos-PART.html">PART</a></tt> 120), <em>však</em> (<tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> 86, <tt><a href="cs_fictree-pos-PART.html">PART</a></tt> 2), <em>ani</em> (<tt><a href="cs_fictree-pos-PART.html">PART</a></tt> 262, <tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> 74), <em>proto</em> (<tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> 55, <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> 54), <em>vždyť</em> (<tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> 20, <tt><a href="cs_fictree-pos-PART.html">PART</a></tt> 4), <em>až</em> (<tt><a href="cs_fictree-pos-PART.html">PART</a></tt> 141, <tt><a href="cs_fictree-pos-SCONJ.html">SCONJ</a></tt> 101, <tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> 11), <em>tedy</em> (<tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> 82, <tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> 11), <em>přesto</em> (<tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> 16, <tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> 6)
 
-The 10 most frequent ambiguous types:  <em>ale</em> (<tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> 620, <tt><a href="cs_fictree-pos-PART.html">PART</a></tt> 3), <em>i</em> (<tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> 317, <tt><a href="cs_fictree-pos-PART.html">PART</a></tt> 120), <em>tak</em> (<tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> 413, <tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> 121, <tt><a href="cs_fictree-pos-PART.html">PART</a></tt> 58), <em>však</em> (<tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> 81, <tt><a href="cs_fictree-pos-PART.html">PART</a></tt> 1), <em>ani</em> (<tt><a href="cs_fictree-pos-PART.html">PART</a></tt> 231, <tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> 71), <em>proto</em> (<tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> 46, <tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> 41), <em>vždyť</em> (<tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> 8, <tt><a href="cs_fictree-pos-PART.html">PART</a></tt> 3), <em>až</em> (<tt><a href="cs_fictree-pos-PART.html">PART</a></tt> 132, <tt><a href="cs_fictree-pos-SCONJ.html">SCONJ</a></tt> 90, <tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> 11), <em>tedy</em> (<tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> 77, <tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> 11), <em>buď</em> (<tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>ale</em> (<tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> 620, <tt><a href="cs_fictree-pos-PART.html">PART</a></tt> 3), <em>i</em> (<tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> 317, <tt><a href="cs_fictree-pos-PART.html">PART</a></tt> 120), <em>však</em> (<tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> 81, <tt><a href="cs_fictree-pos-PART.html">PART</a></tt> 1), <em>ani</em> (<tt><a href="cs_fictree-pos-PART.html">PART</a></tt> 231, <tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> 71), <em>proto</em> (<tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> 46, <tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> 41), <em>vždyť</em> (<tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> 8, <tt><a href="cs_fictree-pos-PART.html">PART</a></tt> 3), <em>až</em> (<tt><a href="cs_fictree-pos-PART.html">PART</a></tt> 132, <tt><a href="cs_fictree-pos-SCONJ.html">SCONJ</a></tt> 90, <tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> 11), <em>tedy</em> (<tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> 77, <tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> 11), <em>buď</em> (<tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> 1), <em>přesto</em> (<tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> 13, <tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> 6)
 
 
 * <em>ale</em>
@@ -24,10 +24,6 @@ The 10 most frequent ambiguous types:  <em>ale</em> (<tt><a href="cs_fictree-pos
 * <em>i</em>
   * <tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> 317: <em>Věřil , že právě tento postoj dráždivě provokuje ženy <b>i</b> osud .</em>
   * <tt><a href="cs_fictree-pos-PART.html">PART</a></tt> 120: <em>Tak tyhle zvony budu slyšet <b>i</b> za čtrnáct dní !</em>
-* <em>tak</em>
-  * <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> 413: <em>Lidé v tramvajích a metru jen <b>tak</b> koukají a já si opakoval pár slovíček .</em>
-  * <tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> 121: <em>" Dobře , <b>tak</b> na mou duši , která se spouští do břicha . "</em>
-  * <tt><a href="cs_fictree-pos-PART.html">PART</a></tt> 58: <em>" Dobře , <b>tak</b> já jdu , " Veronika seskočí ze židličky na zem .</em>
 * <em>však</em>
   * <tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> 81: <em>Nahlas jsem <b>však</b> přitakala , nechtělo se mi dohadovat .</em>
   * <tt><a href="cs_fictree-pos-PART.html">PART</a></tt> 1: <em>Nepodobal - li se mu <b>však</b> , tím víc se mu kdysi toužil podobat .</em>
@@ -50,10 +46,13 @@ The 10 most frequent ambiguous types:  <em>ale</em> (<tt><a href="cs_fictree-pos
 * <em>buď</em>
   * <tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> 6: <em>Aleše <b>buď</b> přestalo bavit blbnout mladou holku , nebo mi něco chtěl sdělit .</em>
   * <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> 1: <em>" Ale <b>buď</b> tak laskavý a vyšli posla , který tě ohlásí , aby bych se na tvůj příchod mohl připravit a nebyl tak jako dnes náhle zachvácen strachem ze smrti . "</em>
+* <em>přesto</em>
+  * <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> 13: <em>Eduard začal tušit , o čem je řeč , ale <b>přesto</b> se otázal :</em>
+  * <tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> 6: <em>Je na něho milá , ale <b>přesto</b> mu odpírá .</em>
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.968644).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.968853).
 
 The 1st highest number of forms (1) was observed with the lemma “a”: <em>a</em>.
 
@@ -66,27 +65,27 @@ The 3rd highest number of forms (1) was observed with the lemma “anebo”: <em
 `CCONJ` occurs with 3 feature-value pairs: `ConjType=Oper`, `ExtPos=CCONJ`, `ExtPos=SCONJ`
 
 `CCONJ` occurs with 4 feature combinations.
-The most frequent feature combination is `_` (7588 tokens).
-Examples: <em>a, ale, i, nebo, tak, však, jenže, ani, proto, neboť</em>
+The most frequent feature combination is `_` (7463 tokens).
+Examples: <em>a, ale, i, nebo, však, jenže, ani, proto, neboť, sice</em>
 
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 10 different relations: <tt><a href="cs_fictree-dep-cc.html">cc</a></tt> (7411; 96% instances), <tt><a href="cs_fictree-dep-advmod-emph.html">advmod:emph</a></tt> (155; 2% instances), <tt><a href="cs_fictree-dep-mark.html">mark</a></tt> (87; 1% instances), <tt><a href="cs_fictree-dep-root.html">root</a></tt> (8; 0% instances), <tt><a href="cs_fictree-dep-advmod.html">advmod</a></tt> (5; 0% instances), <tt><a href="cs_fictree-dep-conj.html">conj</a></tt> (5; 0% instances), <tt><a href="cs_fictree-dep-dep.html">dep</a></tt> (5; 0% instances), <tt><a href="cs_fictree-dep-discourse.html">discourse</a></tt> (3; 0% instances), <tt><a href="cs_fictree-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="cs_fictree-dep-orphan.html">orphan</a></tt> (1; 0% instances)
+`CCONJ` nodes are attached to their parents using 7 different relations: <tt><a href="cs_fictree-dep-cc.html">cc</a></tt> (7301; 97% instances), <tt><a href="cs_fictree-dep-advmod-emph.html">advmod:emph</a></tt> (155; 2% instances), <tt><a href="cs_fictree-dep-mark.html">mark</a></tt> (85; 1% instances), <tt><a href="cs_fictree-dep-root.html">root</a></tt> (8; 0% instances), <tt><a href="cs_fictree-dep-dep.html">dep</a></tt> (4; 0% instances), <tt><a href="cs_fictree-dep-conj.html">conj</a></tt> (2; 0% instances), <tt><a href="cs_fictree-dep-obj.html">obj</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 15 different parts of speech: <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (5079; 66% instances), <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (1265; 16% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (611; 8% instances), <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (326; 4% instances), <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (127; 2% instances), <tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt> (77; 1% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (69; 1% instances), <tt><a href="cs_fictree-pos-PART.html">PART</a></tt> (54; 1% instances), <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (32; 0% instances), <tt><a href="cs_fictree-pos-NUM.html">NUM</a></tt> (22; 0% instances),  (8; 0% instances), <tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="cs_fictree-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="cs_fictree-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="cs_fictree-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances)
+Parents of `CCONJ` nodes belong to 15 different parts of speech: <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (4962; 66% instances), <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (1265; 17% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (608; 8% instances), <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (326; 4% instances), <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (127; 2% instances), <tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt> (75; 1% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (69; 1% instances), <tt><a href="cs_fictree-pos-PART.html">PART</a></tt> (53; 1% instances), <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (30; 0% instances), <tt><a href="cs_fictree-pos-NUM.html">NUM</a></tt> (22; 0% instances),  (8; 0% instances), <tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="cs_fictree-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="cs_fictree-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="cs_fictree-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances)
 
-7572 (99%) `CCONJ` nodes are leaves.
+7450 (99%) `CCONJ` nodes are leaves.
 
-94 (1%) `CCONJ` nodes have one child.
+92 (1%) `CCONJ` nodes have one child.
 
-6 (0%) `CCONJ` nodes have two children.
+5 (0%) `CCONJ` nodes have two children.
 
 9 (0%) `CCONJ` nodes have three or more children.
 
 The highest child degree of a `CCONJ` node is 7.
 
-Children of `CCONJ` nodes are attached using 6 different relations: <tt><a href="cs_fictree-dep-fixed.html">fixed</a></tt> (92; 65% instances), <tt><a href="cs_fictree-dep-punct.html">punct</a></tt> (37; 26% instances), <tt><a href="cs_fictree-dep-conj.html">conj</a></tt> (7; 5% instances), <tt><a href="cs_fictree-dep-cc.html">cc</a></tt> (2; 1% instances), <tt><a href="cs_fictree-dep-orphan.html">orphan</a></tt> (2; 1% instances), <tt><a href="cs_fictree-dep-parataxis.html">parataxis</a></tt> (1; 1% instances)
+Children of `CCONJ` nodes are attached using 5 different relations: <tt><a href="cs_fictree-dep-fixed.html">fixed</a></tt> (92; 67% instances), <tt><a href="cs_fictree-dep-punct.html">punct</a></tt> (35; 26% instances), <tt><a href="cs_fictree-dep-conj.html">conj</a></tt> (7; 5% instances), <tt><a href="cs_fictree-dep-cc.html">cc</a></tt> (2; 1% instances), <tt><a href="cs_fictree-dep-parataxis.html">parataxis</a></tt> (1; 1% instances)
 
-Children of `CCONJ` nodes belong to 7 different parts of speech: <tt><a href="cs_fictree-pos-SCONJ.html">SCONJ</a></tt> (80; 57% instances), <tt><a href="cs_fictree-pos-PUNCT.html">PUNCT</a></tt> (37; 26% instances), <tt><a href="cs_fictree-pos-PART.html">PART</a></tt> (13; 9% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (5; 4% instances), <tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> (4; 3% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (1; 1% instances)
+Children of `CCONJ` nodes belong to 6 different parts of speech: <tt><a href="cs_fictree-pos-SCONJ.html">SCONJ</a></tt> (80; 58% instances), <tt><a href="cs_fictree-pos-PUNCT.html">PUNCT</a></tt> (35; 26% instances), <tt><a href="cs_fictree-pos-PART.html">PART</a></tt> (12; 9% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (5; 4% instances), <tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> (4; 3% instances), <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (1; 1% instances)
 

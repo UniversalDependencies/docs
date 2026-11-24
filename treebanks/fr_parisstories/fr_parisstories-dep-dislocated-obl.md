@@ -28,7 +28,7 @@ The following 2 pairs of parts of speech are connected with `dislocated:obl`: <t
 3	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	Exponence[Gender]=Inherent|Exponence[Number]=Inherent|Exponence[Person]=Inherent
 4	m'	moi	PRON	_	Case=Dat|Emph=No|Number=Sing|Person=1|PronType=Prs	5	iobj	_	Exponence[Number]=Inherent|Exponence[Person]=Inherent|SpaceAfter=No
 5	apporte	apporter	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Exponence[Number]=Absent|Exponence[Person]=Absent
-6	euh	euh	INTJ	_	_	7	discourse	_	_
+6	euh	euh	INTJ	_	_	7	discourse:filler	_	_
 7	beaucoup	beaucoup	ADV	_	_	5	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	5	punct	_	_
 
@@ -41,23 +41,23 @@ The following 2 pairs of parts of speech are connected with `dislocated:obl`: <t
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 5 dislocated:obl	color:blue
-1	en	en	ADP	_	_	3	case	_	AlignBegin=35722|AlignEnd=35890
-2	même	même	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	AlignBegin=35890|AlignEnd=36058|Exponence[Gender]=Absent|Exponence[Number]=Absent|HasSpokenGender=No|HasSpokenNumber=OnlyWithLiaison
-3	temps	temps	NOUN	_	Gender=Masc|Number=Sing	9	obl:mod	_	AlignBegin=36058|AlignEnd=36227|Exponence[Gender]=Inherent|Exponence[Number]=Absent|SpaceAfter=No
-4	,	,	PUNCT	_	_	3	punct	_	AlignBegin=36227|AlignEnd=36227
-5	Morgane	Morgane	PROPN	_	_	9	dislocated:obl	_	AlignBegin=36227|AlignEnd=36395|SpaceAfter=No
-6	,	,	PUNCT	_	_	5	punct	_	AlignBegin=36395|AlignEnd=36395
-7	on	on	PRON	_	Case=Nom|Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	9	nsubj	_	AlignBegin=36395|AlignEnd=36563|Exponence[Gender]=Absent|Exponence[Number]=Inherent|Exponence[Person]=Inherent
-8	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	9	obj	_	AlignBegin=36563|AlignEnd=36731|Exponence[Person]=Inherent
-9	connaît	connaître	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=36731|AlignEnd=36899|Exponence[Person]=Absent
-10	depuis	depuis	ADP	_	_	15	case	_	AlignBegin=36899|AlignEnd=37114
-11	à	à	ADP	_	_	13	case	_	AlignBegin=37114|AlignEnd=37329|wordform=au
-12	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	HasSpokenGender=OnlySingExceptWithLiaison
-13	moins	moins	ADV	_	_	14	obl:mod	_	AlignBegin=37329|AlignEnd=37544
-14	vingt-deux	vingt-deux	NUM	_	_	15	nummod	_	AlignBegin=37544|AlignEnd=37759
-15	ans	an	NOUN	_	Gender=Masc|Number=Plur	9	obl:mod	_	AlignBegin=37759|AlignEnd=37974|Exponence[Gender]=Inherent|Exponence[Number]=Absent|LiaisonPossibleBefore=Yes
-16	maintenant	maintenant	ADV	_	_	15	advmod	_	AlignBegin=37974|AlignEnd=38189|SpaceAfter=No
-17	.	.	PUNCT	_	_	9	punct	_	AlignBegin=38189|AlignEnd=38189
+1	en	en	ADP	_	_	3	case	_	WordAlignmentBegin=35722|WordAlignmentEnd=35890
+2	même	même	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	Exponence[Gender]=Absent|Exponence[Number]=Absent|HasSpokenGender=No|HasSpokenNumber=OnlyWithLiaison|WordAlignmentBegin=35890|WordAlignmentEnd=36058
+3	temps	temps	NOUN	_	Gender=Masc|Number=Sing	9	obl:mod	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent|SpaceAfter=No|WordAlignmentBegin=36058|WordAlignmentEnd=36227
+4	,	,	PUNCT	_	_	3	punct	_	WordAlignmentBegin=36227|WordAlignmentEnd=36227
+5	Morgane	Morgane	PROPN	_	_	9	dislocated:obl	_	SpaceAfter=No|WordAlignmentBegin=36227|WordAlignmentEnd=36395
+6	,	,	PUNCT	_	_	5	punct	_	WordAlignmentBegin=36395|WordAlignmentEnd=36395
+7	on	on	PRON	_	Case=Nom|Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	9	nsubj	_	Exponence[Gender]=Absent|Exponence[Number]=Inherent|Exponence[Person]=Inherent|WordAlignmentBegin=36395|WordAlignmentEnd=36563
+8	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	9	obj	_	Exponence[Person]=Inherent|WordAlignmentBegin=36563|WordAlignmentEnd=36731
+9	connaît	connaître	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Exponence[Person]=Absent|WordAlignmentBegin=36731|WordAlignmentEnd=36899
+10	depuis	depuis	ADP	_	_	15	case	_	WordAlignmentBegin=36899|WordAlignmentEnd=37114
+11	à	à	ADP	_	_	13	case	_	WordAlignmentBegin=37114|WordAlignmentEnd=37329
+12	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	moins	moins	ADV	_	_	14	obl:mod	_	WordAlignmentBegin=37329|WordAlignmentEnd=37544
+14	vingt-deux	vingt-deux	NUM	_	_	15	nummod	_	WordAlignmentBegin=37544|WordAlignmentEnd=37759
+15	ans	an	NOUN	_	Gender=Masc|Number=Plur	9	obl:mod	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent|LiaisonPossibleBefore=Yes|WordAlignmentBegin=37759|WordAlignmentEnd=37974
+16	maintenant	maintenant	ADV	_	_	15	advmod	_	SpaceAfter=No|WordAlignmentBegin=37974|WordAlignmentEnd=38189
+17	.	.	PUNCT	_	_	9	punct	_	WordAlignmentBegin=38189|WordAlignmentEnd=38189
 
 ~~~
 

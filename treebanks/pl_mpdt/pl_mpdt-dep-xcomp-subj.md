@@ -9,36 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="pl_mpdt-dep-xcomp.html">xcomp</a></tt>.
 There are also 2 other language-specific subtypes of `xcomp`: <tt><a href="pl_mpdt-dep-xcomp-cleft.html">xcomp:cleft</a></tt>, <tt><a href="pl_mpdt-dep-xcomp-pred.html">xcomp:pred</a></tt>.
 
-37 nodes (0%) are attached to their parents as `xcomp:subj`.
+18 nodes (0%) are attached to their parents as `xcomp:subj`.
 
-23 instances of `xcomp:subj` (62%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.64864864864865.
+15 instances of `xcomp:subj` (83%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.33333333333333.
 
-The following 5 pairs of parts of speech are connected with `xcomp:subj`: <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt> (23; 62% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt> (8; 22% instances), <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt> (3; 8% instances), <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt> (2; 5% instances), <tt><a href="pl_mpdt-pos-PART.html">PART</a></tt>-<tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt> (1; 3% instances).
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 xcomp:subj	color:blue
-1	Na	na	ADP	prep:loc	AdpType=Prep	3	case	3:case	Case=Loc|Translit=Na
-2	dwu	dwa	NUM	num:pl:loc:f	Case=Loc|Gender=Fem|Number=Plur|NumForm=Word	3	nummod	3:nummod	Translit=dwu
-3	rzeczach	rzecz	NOUN	subst:pl:loc:f	Case=Loc|Gender=Fem|Number=Plur	5	obl:arg	5:obl:arg	Translit=rzeczach
-4	potym	potym	ADV	adv:pos	Degree=Pos	5	advmod	5:advmod	Translit=potym
-5	zeszło	zejść	VERB	praet:sg:n:perf	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Translit=zeszło
-6	J	jego	ADV	brev:pun	Abbr=Yes	5	xcomp:subj	5:xcomp:subj	SpaceAfter=No|Translit=J
-7	.	.	PUNCT	interp	PunctType=Peri	6	punct	6:punct	Translit=.
-8	K	królewski	ADV	brev:pun	Abbr=Yes	6	flat	6:flat	SpaceAfter=No|Translit=K
-9	.	.	PUNCT	interp	PunctType=Peri	8	punct	8:punct	Translit=.
-10	M	mość	ADV	brev:pun	Abbr=Yes	6	flat	6:flat	SpaceAfter=No|Translit=M
-11	.	.	PUNCT	interp	PunctType=Peri	10	punct	10:punct	Translit=.
-12	potym	potym	ADV	adv:pos	Degree=Pos	5	advmod	5:advmod	Translit=potym
-13	s	s	X	ign	Foreign=Yes	12	obl	12:obl	SpaceAfter=No|Translit=s
-14	.	.	PUNCT	interp	PunctType=Peri	5	punct	5:punct	Translit=.
-
-~~~
+The following 5 pairs of parts of speech are connected with `xcomp:subj`: <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt> (10; 56% instances), <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt> (3; 17% instances), <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt> (2; 11% instances), <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt> (2; 11% instances), <tt><a href="pl_mpdt-pos-PART.html">PART</a></tt>-<tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
@@ -79,6 +55,48 @@ The following 5 pairs of parts of speech are connected with `xcomp:subj`: <tt><a
 10	MĄDRZE	mądrze	ADV	adv:pos	Degree=Pos	11	advmod	11:advmod	Translit=MADRZE
 11	Czynić	czynić	VERB	inf:imperf	Aspect=Imp|VerbForm=Inf|Voice=Act	8	xcomp:subj	8:xcomp:subj	SpaceAfter=No|Translit=CZYNIC
 12	.	.	PUNCT	interp	PunctType=Peri	2	punct	2:punct	Translit=.
+
+~~~
+
+
+~~~ conllu
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 13 xcomp:subj	color:blue
+1	Lasy	las	NOUN	subst:pl:nom:m	Case=Nom|Gender=Masc|Number=Plur	5	nsubj	5:nsubj	Translit=Lasy
+2	są	być	AUX	fin:pl:ter:imperf	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	5:cop	Translit=są
+3	wielce	wielce	ADV	adv:pos	Degree=Pos	4	advmod	4:advmod	Translit=wielce
+4	pomocnem	pomocny	ADJ	adj:sg:inst:n:pos	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	5	amod	5:amod	Translit=pomocném
+5	źrzódłem	źrzódło	NOUN	subst:sg:inst:n	Case=Ins|Gender=Neut|Number=Sing	0	root	0:root	Translit=źrzódłem
+6	dla	dla	ADP	prep:gen	AdpType=Prep	7	case	7:case	Case=Gen|Translit=dla
+7	Rzplitej	Rzplita	PROPN	subst:sg:gen:f	Case=Gen|Gender=Fem|Number=Sing	5	obl	5:obl	Translit=Rzplitey
+8	z	z	ADP	prep:gen:nwok	AdpType=Prep|Variant=Short	9	case	9:case	Case=Gen|Translit=z
+9	nich	on	PRON	ppron3:pl:gen:m:ter:neut:praep	Case=Gen|Gender=Masc|Number=Plur|Person=3|PrepCase=Pre|PronType=Prs|Variant=Short	11	obl	11:obl	Translit=nich
+10	ma	mieć	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	5:conj	Translit=ma
+11	być	być	VERB	inf:imperf	Aspect=Imp|VerbForm=Inf|Voice=Act	10	xcomp	10:xcomp	Translit=bydź
+12	za	za	ADP	prep:acc	AdpType=Prep	13	case	13:case	Case=Acc|Translit=za
+13	więcej	dużo	ADV	adv:com	Degree=Cmp	11	xcomp:subj	11:xcomp:subj	SpaceAfter=No|Translit=więcey
+14	,	,	PUNCT	interp	PunctType=Comm	15	punct	15:punct	Translit=,
+15	jak	jak	CCONJ	conj	_	13	obl:cmp	13:obl:cmp	Translit=iak
+16	10	10	NUM	dig	NumForm=Digit	20	nummod	20:nummod	SpaceAfter=No|Translit=10
+17	.	.	PUNCT	interp	PunctType=Peri	16	punct	16:punct	Translit=.
+18	mil	milion	NOUN	brev:pun	Abbr=Yes	16	flat	16:flat	SpaceAfter=No|Translit=mill
+19	.	.	PUNCT	interp	PunctType=Peri	18	punct	18:punct	Translit=.
+20	drzewa	drzewo	NOUN	subst:sg:gen:n	Case=Gen|Gender=Neut|Number=Sing	15	dep	15:dep	Translit=drzewa
+21	przydatnego	przydatny	ADJ	adj:sg:gen:n:pos	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	20	amod	20:amod	SpaceAfter=No|Translit=przydatnego
+22	,	,	PUNCT	interp	PunctType=Comm	29	punct	29:punct	Translit=,
+23	a	a	CCONJ	conj	_	29	cc	29:cc	Translit=a
+24	ponad	ponad	PART	part	_	25	advmod:emph	25:advmod:emph	Translit=po nad
+25	10,000	10,000	NUM	dig	NumForm=Digit	27	nummod	27:nummod	SpaceAfter=No|Translit=10,000
+26	.	.	PUNCT	interp	PunctType=Peri	27	punct	27:punct	Translit=.
+27	sztuk	sztuka	NOUN	subst:pl:gen:f	Case=Gen|Gender=Fem|Number=Plur	29	obj	29:obj	Translit=sztuk
+28	drzewa	drzewo	NOUN	subst:sg:gen:n	Case=Gen|Gender=Neut|Number=Sing	27	nmod:arg	27:nmod:arg	Translit=drzewa
+29	zapisano	zapisać	VERB	imps:perf	Aspect=Perf|Mood=Ind|Person=0|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	5:conj	Translit=zapisano
+30	na	na	ADP	prep:loc	AdpType=Prep	31	case	31:case	Case=Loc|Translit=na
+31	budowie	budowa	NOUN	subst:sg:loc:f	Case=Loc|Gender=Fem|Number=Sing	29	obl	29:obl	SpaceAfter=No|Translit=budowie
+32	.	.	PUNCT	interp	PunctType=Peri	5	punct	5:punct	Translit=.
 
 ~~~
 

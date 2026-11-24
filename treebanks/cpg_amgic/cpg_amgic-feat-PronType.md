@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="cpg_amgic-pos-PRON.
 
 94 <tt><a href="cpg_amgic-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="cpg_amgic-feat-Number.html">Number</a></tt><tt>=Sing</tt> (75; 80%), <tt><a href="cpg_amgic-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (67; 71%), <tt><a href="cpg_amgic-feat-Person.html">Person</a></tt><tt>=3</tt> (54; 57%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="cpg_amgic-feat-Number.html">Number</a></tt><tt>=Sing</tt> (75; 80%), <tt><a href="cpg_amgic-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (67; 71%), <tt><a href="cpg_amgic-feat-Person.html">Person</a></tt><tt>=3</tt> (54; 57%), <tt><a href="cpg_amgic-feat-Clitic.html">Clitic</a></tt><tt>=Yes</tt> (48; 51%).
 
 `PRON` tokens may have the following values of `PronType`:
 

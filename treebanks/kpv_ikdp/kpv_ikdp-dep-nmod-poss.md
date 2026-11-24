@@ -70,7 +70,7 @@ The following 3 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 # visual-style 3 1 nmod:poss	color:blue
 1	Ассюм	Ассюм	PRON	Pron	Case=Ela|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	3	nmod:poss	_	GTtags=Refl,Sg1,Ela
 2	кыы	кыв	NOUN	N	Case=Nom|Number=Sing	3	obj	_	GTtags=Err/Dial,Sg,Err/Dial,Nom
-3	тӧдэмъяссэ	тӧдны	VERB	V	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3|VerbForm=Vnoun	5	obj	_	GTtags=Err/Dial,Der,Der/ӧм,Der/NomAct,N,Pl,Acc|PxSg3|Err/Dial
+3	тӧдэмъяссэ	тӧдны	VERB	V	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3|VerbForm=Vnoun	5	obj	_	GTtags=Err/Dial,Der,Der/ӧм,Der/NomAct,N,Pl,Acc,PxSg3,Err/Dial
 4	вылэджык	выв	NOUN	N	Case=Ill|Degree=Cmp|NounType=Relat|Number=Sing	5	obl	_	GTtags=Relat,Sg,Err/Dial,Ill,Comp
 5	кыпедны	кыпӧдны	VERB	V	VerbForm=Inf	0	root	_	GTtags=Inf|SpaceAfter=No
 6	,	,	PUNCT	PUNCT	_	10	punct	_	_

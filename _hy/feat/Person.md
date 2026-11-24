@@ -45,4 +45,4 @@ The third person refers to one or more persons that are neither speakers nor add
 
 * _<b>անի</b>_/_ani_ “<b>he/she/it does</b> `Sub`”
 * _<b>անեն</b>_/_anen_ “<b>they</b> do `Sub`”
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:09 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:55 CET -->

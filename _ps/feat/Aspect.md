@@ -95,4 +95,4 @@ or with usual past tense expressing the habitual circumstances, in which a main 
 
 #### Examples
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:43 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:34 CET -->

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-274 nodes (3%) are attached to their parents as `det`.
+273 nodes (3%) are attached to their parents as `det`.
 
-192 instances of `det` (70%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.12773722627737.
+191 instances of `det` (70%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.11355311355311.
 
-The following 9 pairs of parts of speech are connected with `det`: <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> (216; 79% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> (15; 5% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> (15; 5% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> (13; 5% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> (7; 3% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt>-<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt>-<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `det`: <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> (217; 79% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> (15; 5% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> (14; 5% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> (11; 4% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> (7; 3% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt>-<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt>-<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -25,7 +25,7 @@ The following 9 pairs of parts of speech are connected with `det`: <tt><a href="
 1	Ní	ní	ADP	_	_	2	case	_	Gloss=in|Ref=GEN_1.1
 2	ìbẹ̀rẹ̀	ìbẹ̀rẹ̀	NOUN	_	_	6	obl	_	Gloss=beginning|Ref=GEN_1.1
 3	ohun	ohun	NOUN	_	_	5	nmod	_	Gloss=things|Ref=GEN_1.1
-4	gbogbo	gbogbo	DET	_	_	5	det	_	Gloss=all|Ref=GEN_1.1
+4	gbogbo	gbogbo	DET	_	PronType=Tot	5	det	_	Gloss=all|Ref=GEN_1.1
 5	Ọlọ́run	ọlọ́run	NOUN	_	_	6	nsubj	_	Gloss=god|Ref=GEN_1.1
 6	dá	dá	VERB	_	_	0	root	_	Gloss=made|Ref=GEN_1.1
 7	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	8	det	_	Gloss=the|Ref=GEN_1.1
@@ -43,7 +43,7 @@ The following 9 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 7 det	color:blue
-1	Nítorí	nítorí	SCONJ	_	_	5	mark	_	Gloss=for|Ref=JOHN_10.19
+1	Nítorí	nítorí	SCONJ	_	ExtPos=SCONJ	5	mark	_	Gloss=for|Ref=JOHN_10.19
 2	náà	náà	ADV	_	_	1	fixed	_	Gloss=that|Ref=JOHN_10.19
 3	ìyapa	ìyapa	NOUN	_	_	5	nsubj	_	Gloss=separation|Ref=JOHN_10.19
 4	tún	tún	ADV	_	_	5	advmod	_	Gloss=again|Ref=JOHN_10.19
@@ -53,7 +53,7 @@ The following 9 pairs of parts of speech are connected with `det`: <tt><a href="
 8	Júù	júù	PROPN	_	_	5	obl	_	Gloss=jews|Ref=JOHN_10.19
 9	nítorí	nítorí	SCONJ	_	_	10	case	_	Gloss=because|Ref=JOHN_10.19
 10	ọ̀rọ̀	ọ̀rọ̀	NOUN	_	_	5	obl	_	Gloss=word|Ref=JOHN_10.19
-11	wọ̀nyí	wọ̀nyí	DET	_	_	10	det	_	Gloss=these|Ref=JOHN_10.19|SpaceAfter=No
+11	wọ̀nyí	wọ̀nyí	DET	_	PronType=Dem	10	det	_	Gloss=these|Ref=JOHN_10.19|SpaceAfter=No
 12	.	.	PUNCT	_	_	5	punct	_	Gloss=.|Ref=JOHN_10.19
 
 ~~~
@@ -65,7 +65,7 @@ The following 9 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 17	bgColor:blue
 # visual-style 17	fgColor:white
 # visual-style 17 16 det	color:blue
-1	Nígbà	nígbà	ADV	_	_	6	advmod	_	Gloss=when|Ref=MARK_5.17
+1	Nígbà	nígbà	ADV	_	ExtPos=ADV	6	advmod	_	Gloss=when|Ref=MARK_5.17
 2	náà	náà	ADV	_	_	1	fixed	_	Gloss=|Ref=MARK_5.17|SpaceAfter=No
 3	,	,	PUNCT	_	_	6	punct	_	Gloss=,|Ref=MARK_5.17
 4	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	5	det	_	Gloss=the|Ref=MARK_5.17

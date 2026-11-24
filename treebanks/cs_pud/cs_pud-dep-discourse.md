@@ -25,13 +25,13 @@ The following 5 pairs of parts of speech are connected with `discourse`: <tt><a 
 1	„	"	PUNCT	Z:-------------	_	4	punct	4:punct	SpaceAfter=No
 2	Naštěstí	naštěstí	ADV	Db-------------	_	4	advmod	4:advmod	_
 3	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	4	expl:pv	4:expl:pv	LGloss=(zvr._zájmeno/částice)
-4	ozval	ozvat	VERB	VpYS---XR-AA---	Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	23	ccomp	23:ccomp	_
+4	ozval	ozvat	VERB	VpYS---XR-AA---	Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	23	ccomp	23:ccomp	_
 5	někdo	někdo	PRON	PZM-1----------	Animacy=Anim|Case=Nom|Gender=Masc|PronType=Ind	4	nsubj	4:nsubj	_
 6	ze	z	ADP	RV--2----------	AdpType=Voc|Case=Gen	7	case	7:case	LId=z-1
 7	Sony	Sony	PROPN	NNFXX-----A----	Abbr=Yes|Gender=Fem|NameType=Com	5	nmod	5:nmod:z:gen	_
 8	Australia	Austrálie	PROPN	NNFXX-----A----	Foreign=Yes|Gender=Fem|NameType=Geo|Style=Rare	7	flat	7:flat	_
 9	a	a	CCONJ	J^-------------	_	10	cc	10:cc	LId=a-1
-10	řekl	říci	VERB	VpYS---XR-AA---	Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	4	conj	4:conj|23:ccomp	SpaceAfter=No
+10	řekl	říci	VERB	VpYS---XR-AA---	Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	4	conj	4:conj|23:ccomp	SpaceAfter=No
 11	,	,	PUNCT	Z:-------------	_	15	punct	15:punct	_
 12	'	'	PUNCT	Z:-------------	_	15	punct	15:punct	SpaceAfter=No
 13	Mimochodem	mimochodem	ADV	Db-------------	_	15	discourse	15:discourse	SpaceAfter=No

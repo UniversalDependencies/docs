@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>ena</em> (<tt><a href="sl_sst-pos-NUM
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.576923 (the average of all parts of speech is 1.751794).
+The form / lemma ratio of `NUM` is 1.576923 (the average of all parts of speech is 1.752917).
 
 The 1st highest number of forms (10) was observed with the lemma “en”: <em>een, en, ena, ene, enega, enem, eni, enih, enim, eno</em>.
 

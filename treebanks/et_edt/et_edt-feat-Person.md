@@ -14,19 +14,19 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 48697 tokens (11%) have a non-empty value of `Person`.
 5909 types (7%) occur at least once with a non-empty value of `Person`.
 1835 lemmas (4%) occur at least once with a non-empty value of `Person`.
-The feature is used with 5 part-of-speech tags: <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (25125; 6% instances), <tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (14515; 3% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (9051; 2% instances), <tt><a href="et_edt-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The feature is used with 5 part-of-speech tags: <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (25126; 6% instances), <tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (14514; 3% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (9051; 2% instances), <tt><a href="et_edt-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-25125 <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> tokens (52% of all `VERB` tokens) have a non-empty value of `Person`.
+25126 <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> tokens (52% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="et_edt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (25125; 100%), <tt><a href="et_edt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (25114; 100%), <tt><a href="et_edt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (24334; 97%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (19409; 77%), <tt><a href="et_edt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (13960; 56%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="et_edt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (25126; 100%), <tt><a href="et_edt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (25115; 100%), <tt><a href="et_edt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (24335; 97%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (19410; 77%), <tt><a href="et_edt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (13961; 56%).
 
 `VERB` tokens may have the following values of `Person`:
 
 * `1` (2838; 11% of non-empty `Person`): <em>arvan, sain, mõtlesin, tean, ütlesin, nägin, tegin, mäletan, vaatan, läksin</em>
 * `2` (1120; 4% of non-empty `Person`): <em>vaata, tule, tahad, mine, tead, lähed, kuule, saad, näe, pane</em>
-* `3` (21167; 84% of non-empty `Person`): <em>tuleb, on, ütles, sai, tuli, saab, jääb, läks, ütleb, jäi</em>
+* `3` (21168; 84% of non-empty `Person`): <em>tuleb, on, ütles, sai, tuli, saab, jääb, läks, ütleb, jäi</em>
 * `EMPTY` (22736): <em>teha, saada, saanud, teada, võtta, näha, öelda, minna, jäänud, pole</em>
 
 <table>
@@ -43,15 +43,15 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `AUX`
 
-14515 <tt><a href="et_edt-pos-AUX.html">AUX</a></tt> tokens (65% of all `AUX` tokens) have a non-empty value of `Person`.
+14514 <tt><a href="et_edt-pos-AUX.html">AUX</a></tt> tokens (65% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="et_edt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (14515; 100%), <tt><a href="et_edt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (14509; 100%), <tt><a href="et_edt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (14477; 100%), <tt><a href="et_edt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (14233; 98%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11454; 79%), <tt><a href="et_edt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (11426; 79%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="et_edt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (14514; 100%), <tt><a href="et_edt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (14508; 100%), <tt><a href="et_edt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (14476; 100%), <tt><a href="et_edt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (14232; 98%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11453; 79%), <tt><a href="et_edt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (11425; 79%).
 
 `AUX` tokens may have the following values of `Person`:
 
 * `1` (700; 5% of non-empty `Person`): <em>olen, oleme, olin, pean, peame, olime, võime, saame, peaksime, oleksin</em>
 * `2` (265; 2% of non-empty `Person`): <em>oled, olete, olid, ära, võid, ole, pead, ärge, võite, peate</em>
-* `3` (13550; 93% of non-empty `Person`): <em>on, oli, võib, olid, saab, peab, võivad, ongi, pidi, võis</em>
+* `3` (13549; 93% of non-empty `Person`): <em>on, oli, võib, olid, saab, peab, võivad, ongi, pidi, võis</em>
 * `EMPTY` (7937): <em>ei, pole, ole, oleks, olnud, olla, peaks, saa, olema, polnud</em>
 
 <table>
@@ -78,7 +78,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (3287; 36% of non-empty `Person`): <em>ma, meie, me, minu, mul, meil, mind, mina, mulle, mu</em>
 * `2` (832; 9% of non-empty `Person`): <em>sa, te, teie, sinu, sul, sulle, sind, sina, teil, su</em>
 * `3` (4932; 54% of non-empty `Person`): <em>ta, tema, nad, nende, talle, tal, teda, neid, neil, neile</em>
-* `EMPTY` (13747): <em>see, oma, mis, kes, seda, mida, selle, midagi, mille, sellest</em>
+* `EMPTY` (13718): <em>see, oma, mis, kes, seda, mida, selle, midagi, mille, sellest</em>
 
 `Person` seems to be **lexical feature** of `PRON`. 100% lemmas (13) occur only with one value of `Person`.
 
@@ -91,7 +91,7 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 `DET` tokens may have the following values of `Person`:
 
 * `3` (5; 100% of non-empty `Person`): <em>nende, neist</em>
-* `EMPTY` (7209): <em>see, kõik, kogu, selle, üks, iga, need, seda, sel, nende</em>
+* `EMPTY` (7243): <em>see, kõik, kogu, selle, üks, iga, need, seda, sel, nende</em>
 
 ### `PROPN`
 

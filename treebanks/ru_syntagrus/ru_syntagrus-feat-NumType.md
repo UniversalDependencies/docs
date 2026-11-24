@@ -9,20 +9,20 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Card`, `Frac`, `Ord`, `Sets`.
 
-23522 tokens (2%) have a non-empty value of `NumType`.
-1925 types (1%) occur at least once with a non-empty value of `NumType`.
-1637 lemmas (3%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt> (17915; 1% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt> (5607; 0% instances).
+23523 tokens (2%) have a non-empty value of `NumType`.
+1927 types (1%) occur at least once with a non-empty value of `NumType`.
+1639 lemmas (3%) occur at least once with a non-empty value of `NumType`.
+The feature is used with 2 part-of-speech tags: <tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt> (17917; 1% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt> (5606; 0% instances).
 
 ### `NUM`
 
-17915 <tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
+17917 <tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="ru_syntagrus-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (15892; 89%), <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (15209; 85%), <tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (13324; 74%), <tt><a href="ru_syntagrus-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (9408; 53%).
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="ru_syntagrus-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (15894; 89%), <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (15211; 85%), <tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (13326; 74%), <tt><a href="ru_syntagrus-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (9408; 53%).
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (17739; 99% of non-empty `NumType`): <em>один, несколько, два, три, одной, 1, 10, двух, две, 20</em>
+* `Card` (17741; 99% of non-empty `NumType`): <em>один, несколько, два, три, одной, 1, 10, двух, две, 20</em>
 * `Frac` (102; 1% of non-empty `NumType`): <em>пол, полтора, полторы</em>
 * `Sets` (74; 0% of non-empty `NumType`): <em>оба, обе, обеих, обоих, обеим, обеими, обоим</em>
 * `EMPTY` (1): <em>169-О</em>
@@ -49,17 +49,17 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
   <tr><td><tt><tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>оба</em></td><td><em>оба</em></td></tr>
 </table>
 
-`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (1018) occur only with one value of `NumType`.
+`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (1020) occur only with one value of `NumType`.
 
 ### `ADJ`
 
-5607 <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt> tokens (4% of all `ADJ` tokens) have a non-empty value of `NumType`.
+5606 <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt> tokens (4% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="ru_syntagrus-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (5607; 100%), <tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (5085; 91%), <tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4603; 82%), <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4603; 82%).
+The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="ru_syntagrus-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (5606; 100%), <tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (5084; 91%), <tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4602; 82%), <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4602; 82%).
 
 `ADJ` tokens may have the following values of `NumType`:
 
-* `Ord` (5607; 100% of non-empty `NumType`): <em>XX, XIX, 2003, 2004, 2008, 2001, 2002, 2010, 2000, 2007</em>
+* `Ord` (5606; 100% of non-empty `NumType`): <em>XX, XIX, 2003, 2004, 2008, 2001, 2002, 2010, 2000, 2007</em>
 * `EMPTY` (136054): <em>нужно, должны, должен, первый, второй, новые, российской, последние, должна, большой</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (707) occur only with one value of `NumType`.
@@ -67,14 +67,14 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 ## Relations with Agreement in `NumType`
 
 The 10 most frequent relations where parent and child node agree in `NumType`:
-<tt>NUM --[<tt><a href="ru_syntagrus-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (869; 100%),
+<tt>NUM --[<tt><a href="ru_syntagrus-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (870; 100%),
 <tt>ADJ --[<tt><a href="ru_syntagrus-dep-nmod.html">nmod</a></tt>]--> ADJ</tt> (317; 100%),
 <tt>NUM --[<tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt>]--> NUM</tt> (196; 100%),
 <tt>NUM --[<tt><a href="ru_syntagrus-dep-compound.html">compound</a></tt>]--> NUM</tt> (116; 100%),
 <tt>ADJ --[<tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt>]--> ADJ</tt> (69; 91%),
 <tt>NUM --[<tt><a href="ru_syntagrus-dep-parataxis.html">parataxis</a></tt>]--> NUM</tt> (14; 100%),
-<tt>NUM --[<tt><a href="ru_syntagrus-dep-appos.html">appos</a></tt>]--> NUM</tt> (11; 100%),
 <tt>NUM --[<tt><a href="ru_syntagrus-dep-list.html">list</a></tt>]--> NUM</tt> (11; 100%),
+<tt>NUM --[<tt><a href="ru_syntagrus-dep-appos.html">appos</a></tt>]--> NUM</tt> (10; 100%),
 <tt>NUM --[<tt><a href="ru_syntagrus-dep-advcl.html">advcl</a></tt>]--> NUM</tt> (4; 100%),
 <tt>NUM --[<tt><a href="ru_syntagrus-dep-flat.html">flat</a></tt>]--> NUM</tt> (4; 100%).
 

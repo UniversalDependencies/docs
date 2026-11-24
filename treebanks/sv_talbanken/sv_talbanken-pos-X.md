@@ -15,20 +15,20 @@ The 10 most frequent `X` types:  <em>som</em>
 
 The 10 most frequent ambiguous lemmas: 
 
-The 10 most frequent ambiguous types:  <em>som</em> (<tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> 1117, <tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> 370, <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> 60, <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 28, <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> 19, <tt><a href="sv_talbanken-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>som</em> (<tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> 1117, <tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> 358, <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> 75, <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 28, <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> 16, <tt><a href="sv_talbanken-pos-X.html">X</a></tt> 1)
 
 
 * <em>som</em>
   * <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> 1117: <em>Två huvudfaktorer kan urskiljas <b>som</b> förklarar men inte ursäktar :</em>
-  * <tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> 370: <em>Den olika könsrollen <b>som</b> barnavårdare och uppfostrare .</em>
-  * <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> 60: <em>De som vill det är säkert lika lämpliga <b>som</b> kvinnorna .</em>
+  * <tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> 358: <em>Den olika könsrollen <b>som</b> barnavårdare och uppfostrare .</em>
+  * <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> 75: <em>De som vill det är säkert lika lämpliga <b>som</b> kvinnorna .</em>
   * <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 28: <em>Det är i detta sammanhang <b>som</b> aposteln Paulus yttrar sitt berömda :</em>
-  * <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> 19: <em>Såväl folkpensioneringen <b>som</b> ATP ger möjligheter till följande förmåner :</em>
+  * <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> 16: <em>Såväl folkpensioneringen <b>som</b> ATP ger möjligheter till följande förmåner :</em>
   * <tt><a href="sv_talbanken-pos-X.html">X</a></tt> 1: <em>Allt efter <b>som</b> prisläget förändras , ändras också basbeloppet .</em>
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.424934).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.425064).
 
 The 1st highest number of forms (1) was observed with the lemma “_”: <em>som</em>.
 

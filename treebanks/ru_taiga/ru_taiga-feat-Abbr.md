@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-20571 tokens (1%) have a non-empty value of `Abbr`.
-705 types (0%) occur at least once with a non-empty value of `Abbr`.
-648 lemmas (1%) occur at least once with a non-empty value of `Abbr`.
-The feature is used with 13 part-of-speech tags: <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (12570; 1% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (4087; 0% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (871; 0% instances), <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> (845; 0% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (750; 0% instances), <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (745; 0% instances), <tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (587; 0% instances), <tt><a href="ru_taiga-pos-ADP.html">ADP</a></tt> (54; 0% instances), <tt><a href="ru_taiga-pos-X.html">X</a></tt> (38; 0% instances), <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> (14; 0% instances), <tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (6; 0% instances), <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="ru_taiga-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
+20549 tokens (1%) have a non-empty value of `Abbr`.
+690 types (0%) occur at least once with a non-empty value of `Abbr`.
+635 lemmas (1%) occur at least once with a non-empty value of `Abbr`.
+The feature is used with 13 part-of-speech tags: <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (12569; 1% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (4087; 0% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (871; 0% instances), <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> (845; 0% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (750; 0% instances), <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (745; 0% instances), <tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (587; 0% instances), <tt><a href="ru_taiga-pos-ADP.html">ADP</a></tt> (54; 0% instances), <tt><a href="ru_taiga-pos-X.html">X</a></tt> (18; 0% instances), <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> (14; 0% instances), <tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (5; 0% instances), <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="ru_taiga-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
 
 ### `PROPN`
 
-12570 <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> tokens (19% of all `PROPN` tokens) have a non-empty value of `Abbr`.
+12569 <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> tokens (19% of all `PROPN` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `PROPN` and `Abbr` co-occurred: <tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (12559; 100%), <tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (12559; 100%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (12559; 100%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (12559; 100%), <tt><a href="ru_taiga-feat-NameType.html">NameType</a></tt><tt>=Giv</tt> (6956; 55%).
+The most frequent other feature values with which `PROPN` and `Abbr` co-occurred: <tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (12558; 100%), <tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (12558; 100%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (12558; 100%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (12558; 100%), <tt><a href="ru_taiga-feat-NameType.html">NameType</a></tt><tt>=Giv</tt> (6956; 55%).
 
 `PROPN` tokens may have the following values of `Abbr`:
 
-* `Yes` (12570; 100% of non-empty `Abbr`): <em>А., В., И., Н., М., С., П., Ф., Г., К.</em>
-* `EMPTY` (54837): <em>Толик, россии, Алёна, Лиза, Мишка, Кузька, Пушкина, Анна, Сибирочка, Мэри</em>
+* `Yes` (12569; 100% of non-empty `Abbr`): <em>А., В., И., Н., М., С., П., Ф., Г., К.</em>
+* `EMPTY` (54826): <em>Толик, россии, Алёна, Лиза, Мишка, Кузька, Пушкина, Анна, Сибирочка, Мэри</em>
 
-`Abbr` seems to be **lexical feature** of `PROPN`. 100% lemmas (210) occur only with one value of `Abbr`.
+`Abbr` seems to be **lexical feature** of `PROPN`. 100% lemmas (209) occur only with one value of `Abbr`.
 
 ### `NOUN`
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (4087; 100% of non-empty `Abbr`): <em>в., г., гг., э., вв., с., т., тыс., ч., см</em>
-* `EMPTY` (374035): <em>слова, время, слово, языка, раз, жизни, слов, человек, языке, язык</em>
+* `EMPTY` (374020): <em>слова, время, слово, языка, раз, жизни, слов, человек, языке, язык</em>
 
 `Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (285) occur only with one value of `Abbr`.
 
@@ -49,7 +49,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (871; 100% of non-empty `Abbr`): <em>п., греч., лат., ед., мн., им., св., вин., под., род.</em>
-* `EMPTY` (154204): <em>русского, XIX, нужно, большой, русской, первый, русском, разных, хорошо, хороший</em>
+* `EMPTY` (154202): <em>русского, XIX, нужно, большой, русской, первый, русском, разных, хорошо, хороший</em>
 
 `Abbr` seems to be **lexical feature** of `ADJ`. 100% lemmas (113) occur only with one value of `Abbr`.
 
@@ -62,7 +62,7 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (845; 100% of non-empty `Abbr`): <em>д., т., оч., к., тд, д, оч, Крч, в/м, к</em>
-* `EMPTY` (83160): <em>так, как, уже, очень, еще, где, например, там, теперь, здесь</em>
+* `EMPTY` (83159): <em>так, как, уже, очень, еще, где, например, там, теперь, здесь</em>
 
 ### `VERB`
 
@@ -108,16 +108,16 @@ The most frequent other feature values with which `DET` and `Abbr` co-occurred: 
 
 ### `X`
 
-38 <tt><a href="ru_taiga-pos-X.html">X</a></tt> tokens (1% of all `X` tokens) have a non-empty value of `Abbr`.
+18 <tt><a href="ru_taiga-pos-X.html">X</a></tt> tokens (0% of all `X` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `X` and `Abbr` co-occurred: <tt><a href="ru_taiga-feat-Foreign.html">Foreign</a></tt><tt>=Yes</tt> (27; 71%).
+The most frequent other feature values with which `X` and `Abbr` co-occurred: <tt><a href="ru_taiga-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (11; 61%).
 
 `X` tokens may have the following values of `Abbr`:
 
-* `Yes` (38; 100% of non-empty `Abbr`): <em>P., С, хз, s., с., s, Соп., ТТГ, Ы., п.</em>
-* `EMPTY` (5784): <em>то, mademoiselle, а, о, maman, m-lle, у, с, RT, mesdames</em>
+* `Yes` (18; 100% of non-empty `Abbr`): <em>С, хз, с., Соп., ТТГ, Ы., п., P.P.S., P.S., ВТА</em>
+* `EMPTY` (5835): <em>то, mademoiselle, а, о, maman, m-lle, у, с, RT, mesdames</em>
 
-`Abbr` seems to be **lexical feature** of `X`. 100% lemmas (26) occur only with one value of `Abbr`.
+`Abbr` seems to be **lexical feature** of `X`. 100% lemmas (14) occur only with one value of `Abbr`.
 
 ### `SCONJ`
 
@@ -130,14 +130,14 @@ The most frequent other feature values with which `X` and `Abbr` co-occurred: <t
 
 ### `PART`
 
-6 <tt><a href="ru_taiga-pos-PART.html">PART</a></tt> tokens (0% of all `PART` tokens) have a non-empty value of `Abbr`.
+5 <tt><a href="ru_taiga-pos-PART.html">PART</a></tt> tokens (0% of all `PART` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `PART` and `Abbr` co-occurred: <tt><a href="ru_taiga-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (6; 100%).
+The most frequent other feature values with which `PART` and `Abbr` co-occurred: <tt><a href="ru_taiga-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (5; 100%).
 
 `PART` tokens may have the following values of `Abbr`:
 
-* `Yes` (6; 100% of non-empty `Abbr`): <em>пж, плз, мб, пжж</em>
-* `EMPTY` (53487): <em>не, и, же, только, вот, даже, ли, ну, это, ни</em>
+* `Yes` (5; 100% of non-empty `Abbr`): <em>пж, ПЛЗ, мб, пжж</em>
+* `EMPTY` (53488): <em>не, и, же, только, вот, даже, ли, ну, это, ни</em>
 
 ### `NUM`
 
@@ -157,7 +157,7 @@ The most frequent other feature values with which `NUM` and `Abbr` co-occurred: 
 `INTJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): <em>пздц</em>
-* `EMPTY` (2129): <em>о, ах, ой, а, ха, ай, эх, ага, увы, ох</em>
+* `EMPTY` (2128): <em>о, ах, ой, а, ха, ай, эх, ага, увы, ох</em>
 
 ## Relations with Agreement in `Abbr`
 
@@ -167,9 +167,9 @@ The 10 most frequent relations where parent and child node agree in `Abbr`:
 <tt>PRON --[<tt><a href="ru_taiga-dep-fixed.html">fixed</a></tt>]--> ADJ</tt> (399; 100%),
 <tt>PRON --[<tt><a href="ru_taiga-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (326; 100%),
 <tt>NOUN --[<tt><a href="ru_taiga-dep-det.html">det</a></tt>]--> DET</tt> (275; 92%),
-<tt>NOUN --[<tt><a href="ru_taiga-dep-list.html">list</a></tt>]--> NOUN</tt> (38; 51%),
+<tt>NOUN --[<tt><a href="ru_taiga-dep-list.html">list</a></tt>]--> NOUN</tt> (38; 53%),
 <tt>ADJ --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> ADJ</tt> (14; 78%),
-<tt>X --[<tt><a href="ru_taiga-dep-flat-foreign.html">flat:foreign</a></tt>]--> X</tt> (12; 100%),
 <tt>DET --[<tt><a href="ru_taiga-dep-fixed.html">fixed</a></tt>]--> DET</tt> (4; 100%),
-<tt>X --[<tt><a href="ru_taiga-dep-fixed.html">fixed</a></tt>]--> X</tt> (4; 100%).
+<tt>X --[<tt><a href="ru_taiga-dep-fixed.html">fixed</a></tt>]--> X</tt> (4; 100%),
+<tt>ADV --[<tt><a href="ru_taiga-dep-fixed.html">fixed</a></tt>]--> SCONJ</tt> (2; 100%).
 

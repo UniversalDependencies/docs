@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-548 nodes (1%) are attached to their parents as `amod`.
+549 nodes (1%) are attached to their parents as `amod`.
 
 307 instances of `amod` (56%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.70620437956204.
+Average distance between parent and child is 1.70491803278689.
 
-The following 9 pairs of parts of speech are connected with `amod`: <tt><a href="grc_ptnk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_ptnk-pos-ADJ.html">ADJ</a></tt> (453; 83% instances), <tt><a href="grc_ptnk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="grc_ptnk-pos-ADJ.html">ADJ</a></tt> (33; 6% instances), <tt><a href="grc_ptnk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="grc_ptnk-pos-PROPN.html">PROPN</a></tt> (22; 4% instances), <tt><a href="grc_ptnk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_ptnk-pos-PROPN.html">PROPN</a></tt> (13; 2% instances), <tt><a href="grc_ptnk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="grc_ptnk-pos-ADJ.html">ADJ</a></tt> (9; 2% instances), <tt><a href="grc_ptnk-pos-PRON.html">PRON</a></tt>-<tt><a href="grc_ptnk-pos-ADJ.html">ADJ</a></tt> (8; 1% instances), <tt><a href="grc_ptnk-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_ptnk-pos-ADJ.html">ADJ</a></tt> (8; 1% instances), <tt><a href="grc_ptnk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_ptnk-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="grc_ptnk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_ptnk-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `amod`: <tt><a href="grc_ptnk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_ptnk-pos-ADJ.html">ADJ</a></tt> (454; 83% instances), <tt><a href="grc_ptnk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="grc_ptnk-pos-ADJ.html">ADJ</a></tt> (33; 6% instances), <tt><a href="grc_ptnk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="grc_ptnk-pos-PROPN.html">PROPN</a></tt> (22; 4% instances), <tt><a href="grc_ptnk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_ptnk-pos-PROPN.html">PROPN</a></tt> (13; 2% instances), <tt><a href="grc_ptnk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="grc_ptnk-pos-ADJ.html">ADJ</a></tt> (9; 2% instances), <tt><a href="grc_ptnk-pos-PRON.html">PRON</a></tt>-<tt><a href="grc_ptnk-pos-ADJ.html">ADJ</a></tt> (8; 1% instances), <tt><a href="grc_ptnk-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_ptnk-pos-ADJ.html">ADJ</a></tt> (8; 1% instances), <tt><a href="grc_ptnk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_ptnk-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="grc_ptnk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_ptnk-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

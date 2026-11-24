@@ -35,4 +35,4 @@ A coordinating conjunction may also occur at the beginning of a sentence, linkin
 7	յաջողութիւնը	յաջողութիւն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	4	nsubj	_	Translit=yaǰoġowt’iwnë|LTranslit=yaǰoġowt’iwn|SpaceAfter=No
 8	։	։	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:46 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:26 CET -->

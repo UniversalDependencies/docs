@@ -23,7 +23,7 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 `DET` tokens may have the following values of `NumType`:
 
 * `Card` (2312; 100% of non-empty `NumType`): <em>unum, una, unus, uno, unius, unam, plures, multa, pluribus, plura</em>
-* `EMPTY` (26370): <em>hoc, omnia, huiusmodi, ipsum, alia, aliqua, suam, sua, haec, illud</em>
+* `EMPTY` (26369): <em>hoc, omnia, huiusmodi, ipsum, alia, aliqua, suam, sua, haec, illud</em>
 
 ### `ADJ`
 
@@ -62,7 +62,7 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 
 * `Card` (443; 100% of non-empty `NumType`): <em>tantum, multo, multum, plus, intantum, quantum</em>
 * `Ord` (1; 0% of non-empty `NumType`): <em>primo</em>
-* `EMPTY` (22236): <em>etiam, unde, sic, ergo, tamen, uero, ita, supra, magis, solum</em>
+* `EMPTY` (22237): <em>etiam, unde, sic, ergo, tamen, uero, ita, supra, magis, solum</em>
 
 ## Relations with Agreement in `NumType`
 

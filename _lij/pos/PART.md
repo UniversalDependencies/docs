@@ -21,3 +21,4 @@ In _l’arriva_, _l’_ and _arriva_ are separate syntactic words.
 5	arriva	arrivâ	VERB	_	_	0	root	_	Gloss=arrives
 
 ~~~
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:28 CET -->

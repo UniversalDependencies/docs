@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-201 nodes (14%) are attached to their parents as `case`.
+219 nodes (14%) are attached to their parents as `case`.
 
-201 instances of `case` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.48258706467662.
+219 instances of `case` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.49771689497717.
 
-The following 8 pairs of parts of speech are connected with `case`: <tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> (127; 63% instances), <tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> (54; 27% instances), <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> (11; 5% instances), <tt><a href="ceb_gja-pos-ADV.html">ADV</a></tt>-<tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ceb_gja-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt>-<tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="ceb_gja-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ceb_gja-pos-NUM.html">NUM</a></tt>-<tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `case`: <tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> (136; 62% instances), <tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> (61; 28% instances), <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> (12; 5% instances), <tt><a href="ceb_gja-pos-ADV.html">ADV</a></tt>-<tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt>-<tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ceb_gja-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="ceb_gja-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ceb_gja-pos-NUM.html">NUM</a></tt>-<tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -42,7 +42,7 @@ The following 8 pairs of parts of speech are connected with `case`: <tt><a href=
 3	Cebu	Cebu	PROPN	_	_	1	obl	_	Gloss=Cebu
 4	ang	ang	ADP	_	Case=Nom	7	case	_	_
 5	ako	ako	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nmod	_	Gloss=my
-6	-ng	nga	PART	_	_	5	fixed	_	Gloss=LINK
+6	-ng	nga	PART	_	_	5	mark	_	Gloss=LINK
 7	ginikanan	ginikanan	NOUN	_	_	1	nsubj	_	Gloss=parents|SpaceAfter=No
 8	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
@@ -56,7 +56,7 @@ The following 8 pairs of parts of speech are connected with `case`: <tt><a href=
 # visual-style 6	fgColor:white
 # visual-style 6 5 case	color:blue
 1	Ang	ang	ADP	_	Case=Nom	3	case	_	Gloss=The
-2	mga	mga	DET	_	Number=Plur	3	det	_	Gloss=PLUR
+2	mga	mga	DET	_	Number=Plur|PronType=Ind	3	det	_	Gloss=PLUR
 3	bata	bata	NOUN	_	_	6	csubj	_	Gloss=children
 4	niya	siya	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	3	nmod	_	Gloss=his
 5	ang	ang	ADP	_	Case=Nom	6	case	_	_

@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="uk_parlamint-dep-flat.html">flat</a></tt>.
 There are also 4 other language-specific subtypes of `flat`: <tt><a href="uk_parlamint-dep-flat-foreign.html">flat:foreign</a></tt>, <tt><a href="uk_parlamint-dep-flat-name.html">flat:name</a></tt>, <tt><a href="uk_parlamint-dep-flat-range.html">flat:range</a></tt>, <tt><a href="uk_parlamint-dep-flat-repeat.html">flat:repeat</a></tt>.
 
-11 nodes (0%) are attached to their parents as `flat:title`.
+5 nodes (0%) are attached to their parents as `flat:title`.
 
-11 instances of `flat:title` (100%) are left-to-right (parent precedes child).
+5 instances of `flat:title` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 4 pairs of parts of speech are connected with `flat:title`: <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-PROPN.html">PROPN</a></tt> (8; 73% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (1; 9% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-NUM.html">NUM</a></tt> (1; 9% instances), <tt><a href="uk_parlamint-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uk_parlamint-pos-PROPN.html">PROPN</a></tt> (1; 9% instances).
+The following 3 pairs of parts of speech are connected with `flat:title`: <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-PROPN.html">PROPN</a></tt> (3; 60% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-NUM.html">NUM</a></tt> (1; 20% instances), <tt><a href="uk_parlamint-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uk_parlamint-pos-PROPN.html">PROPN</a></tt> (1; 20% instances).
 
 
 ~~~ conllu
@@ -23,33 +23,24 @@ The following 4 pairs of parts of speech are connected with `flat:title`: <tt><a
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 flat:title	color:blue
-1	Пане	пан	NOUN	NOUN	Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing	7	vocative	_	_
-2	В'ячеславе	В'ячеслав	PROPN	PROPN	Animacy=Anim|Case=Voc|Gender=Masc|NameType=Giv|Number=Sing	1	flat:title	_	SpaceAfter=No
-3	,	,	PUNCT	PUNCT	_	1	punct	_	_
-4	я	я	PRON	PRON	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
-5	прошу	просити	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	parataxis	_	SpaceAfter=No
-6	,	,	PUNCT	PUNCT	_	7	punct	_	_
-7	відповідайте	відповідати	VERB	VERB	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	_
-8	на	на	ADP	ADP	Case=Acc	9	case	_	_
-9	питання	питання	NOUN	NOUN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	7	obl	_	SpaceAfter=No
-10	.	.	PUNCT	PUNCT	_	7	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 flat:title	color:blue
-1	Шановний	шановний	ADJ	ADJ	Case=Voc|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
-2	пане	пан	NOUN	NOUN	Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing	0	root	_	_
-3	Голово	голова	NOUN	PROPN	Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing	2	flat:title	_	SpaceAfter=No
-4	,	,	PUNCT	PUNCT	_	6	punct	_	_
-5	шановні	шановний	ADJ	ADJ	Case=Voc|Degree=Pos|Number=Plur	6	amod	_	_
-6	колеги	колега	NOUN	NOUN	Animacy=Anim|Case=Voc|Gender=Fem,Masc|Number=Plur	2	conj	_	SpaceAfter=No
-7	!	!	PUNCT	PUNCT	_	2	punct	_	_
+1	Коса	коса	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj:pass	_	_
+2	Тузла	Тузла	PROPN	PROPN	Animacy=Inan|Case=Nom|Gender=Fem|NameType=Geo|Number=Sing	1	flat:title	_	_
+3	розташована	розташований	ADJ	ADJ	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	_
+4	в	в	ADP	ADP	Case=Loc	6	case	_	_
+5	Керченській	керченський	ADJ	ADJ	Case=Loc|Gender=Fem|Number=Sing	6	amod	_	_
+6	протоці	протока	NOUN	NOUN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No
+7	,	,	PUNCT	PUNCT	_	11	punct	_	_
+8	раніше	раніше	ADV	ADV	Degree=Cmp	11	advmod	_	_
+9	вона	вона	PRON	PRON	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	nsubj:pass	_	_
+10	була	бути	AUX	AUX	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	11	cop	_	_
+11	з'єднана	з'єднаний	ADJ	ADJ	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	3	parataxis	_	_
+12	з	з	ADP	ADP	Case=Ins	13	case	_	_
+13	суходолом	суходіл	NOUN	NOUN	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	11	obl	_	SpaceAfter=No
+14	,	,	PUNCT	PUNCT	_	17	punct	_	_
+15	з	з	ADP	ADP	Case=Ins	17	case	_	_
+16	Таманським	таманський	ADJ	ADJ	Case=Ins|Gender=Masc|Number=Sing	17	amod	_	_
+17	півостровом	півострів	NOUN	NOUN	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	13	appos	_	SpaceAfter=No
+18	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 ~~~
 
@@ -81,6 +72,22 @@ The following 4 pairs of parts of speech are connected with `flat:title`: <tt><a
 19	65	65	NUM	NUM	Case=Gen|NumType=Card	20	nummod	_	_
 20	років	рік	NOUN	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	18	nmod	_	SpaceAfter=No
 21	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 flat:title	color:blue
+1	Нестор	Нестор	PROPN	PROPN	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	0	root	_	_
+2	Шуфрич	Шуфрич	PROPN	PROPN	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	1	flat:title	_	SpaceAfter=No
+3	,	,	PUNCT	PUNCT	_	4	punct	_	_
+4	будь	бути	VERB	VERB	Aspect=Imp|ExtPos=INTJ|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	1	parataxis	_	_
+5	ласка	ласка	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	fixed	_	SpaceAfter=No
+6	.	.	PUNCT	PUNCT	_	1	punct	_	_
 
 ~~~
 

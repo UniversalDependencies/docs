@@ -18,13 +18,13 @@ The feature is used with 2 part-of-speech tags: <tt><a href="lv_lvtb-pos-VERB.ht
 
 24144 <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> tokens (49% of all `VERB` tokens) have a non-empty value of `Evident`.
 
-The most frequent other feature values with which `VERB` and `Evident` co-occurred: <tt><a href="lv_lvtb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (24144; 100%), <tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (24144; 100%), <tt><a href="lv_lvtb-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (24144; 100%), <tt><a href="lv_lvtb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (24144; 100%), <tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (24144; 100%), <tt><a href="lv_lvtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (24144; 100%), <tt><a href="lv_lvtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (24144; 100%), <tt><a href="lv_lvtb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (23934; 99%), <tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (21727; 90%), <tt><a href="lv_lvtb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (20154; 83%).
+The most frequent other feature values with which `VERB` and `Evident` co-occurred: <tt><a href="lv_lvtb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (24144; 100%), <tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (24144; 100%), <tt><a href="lv_lvtb-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (24144; 100%), <tt><a href="lv_lvtb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (24144; 100%), <tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (24144; 100%), <tt><a href="lv_lvtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (24144; 100%), <tt><a href="lv_lvtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (24144; 100%), <tt><a href="lv_lvtb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (23934; 99%), <tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (21727; 90%), <tt><a href="lv_lvtb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (20155; 83%).
 
 `VERB` tokens may have the following values of `Evident`:
 
 * `Fh` (23934; 99% of non-empty `Evident`): <em>ir, var, nav, bija, nevar, būs, teica, notiek, sāka, saka</em>
 * `Nfh` (210; 1% of non-empty `Evident`): <em>esot, neesot, nevarot, varot, gribot, mīlot, varēšot, iekarot, nezinot, būšot</em>
-* `EMPTY` (25582): <em>varētu, izmantot, strādāt, darīt, būt, atrast, izmantojot, runāt, teikt, dzīvot</em>
+* `EMPTY` (25562): <em>varētu, izmantot, strādāt, darīt, būt, atrast, izmantojot, runāt, teikt, dzīvot</em>
 
 <table>
   <tr><th>Paradigm <i>būt</i></th><th><tt>Nfh</tt></th><th><tt>Fh</tt></th></tr>

@@ -25,7 +25,7 @@ The following 4 pairs of parts of speech are connected with `expl`: <tt><a href=
 1	Ведь	ведь	PART	UH	_	6	discourse	_	_
 2	интернет	интернет	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
 3	—	—	PUNCT	-	_	2	punct	_	_
-4	это	это	PRON	DT	Case=Nom|Gender=Neut|Number=Sing	6	expl	_	_
+4	это	это	PRON	DT	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	expl	_	_
 5	не	не	PART	NEG	Polarity=Neg	6	advmod	_	_
 6	роскошь	роскошь	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 7	,	,	PUNCT	,	_	10	punct	_	_
@@ -48,8 +48,8 @@ The following 4 pairs of parts of speech are connected with `expl`: <tt><a href=
 3	Эндрю	Эндрю	PROPN	NNP	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
 4	Марра	Марр	PROPN	NNP	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	3	flat:name	_	_
 5	на	на	ADP	IN	_	6	case	_	_
-6	BBC	BBC	PROPN	NNP	Abbr=Yes|Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
-7	он	он	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	nsubj	_	_
+6	BBC	BBC	X	NNP	Foreign=Yes	2	nmod	_	_
+7	он	он	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
 8	заявил	заявить	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 9	следующее	следующее	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	8	obj	_	SpaceAfter=No
 10	:	:	PUNCT	:	_	8	punct	_	_
@@ -60,10 +60,10 @@ The following 4 pairs of parts of speech are connected with `expl`: <tt><a href=
 15	всеобщие	всеобщий	ADJ	JJ	Case=Nom|Degree=Pos|Number=Plur	16	amod	_	_
 16	выборы	выборы	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	19	nsubj	_	_
 17	—	—	PUNCT	-	_	16	punct	_	_
-18	это	это	PRON	DT	Case=Nom|Gender=Neut|Number=Sing	19	expl	_	_
+18	это	это	PRON	DT	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	19	expl	_	_
 19	последнее	последний	ADJ	JJ	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	8	parataxis	_	SpaceAfter=No
 20	,	,	PUNCT	,	_	22	punct	_	_
-21	чего	что	PRON	WP	Case=Gen	22	obj	_	_
+21	чего	что	PRON	WP	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Rel	22	obj	_	_
 22	хочет	хотеть	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	acl:relcl	_	_
 23	правительство	правительство	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	22	nsubj	_	SpaceAfter=No
 24	»	»	PUNCT	'	_	19	punct	_	SpaceAfter=No
@@ -79,11 +79,11 @@ The following 4 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 7	fgColor:white
 # visual-style 7 6 expl	color:blue
 1	Сегодня	сегодня	ADV	RB	Degree=Pos	7	advmod	_	_
-2	наши	наш	DET	PRP$	Case=Nom|Number=Plur	4	det	_	_
+2	наши	наш	DET	PRP$	Case=Nom|Number=Plur|Poss=Yes|PronType=Prs	4	det	_	_
 3	мобильные	мобильный	ADJ	JJ	Case=Nom|Degree=Pos|Number=Plur	4	amod	_	_
 4	телефоны	телефон	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	_
 5	—	—	PUNCT	-	_	4	punct	_	_
-6	это	это	PRON	DT	Case=Nom|Gender=Neut|Number=Sing	7	expl	_	_
+6	это	это	PRON	DT	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	7	expl	_	_
 7	больше	больше	ADV	RBR	Degree=Cmp	0	root	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	10	punct	_	_
 9	чем	чем	SCONJ	IN	_	10	case	_	_

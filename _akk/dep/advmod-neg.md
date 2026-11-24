@@ -30,4 +30,4 @@ Used for adverbials being modified by the negative particle *lā*.
 18	šu	_	PRON	_	Gender=Masc|Number=Sing|Person=3	17	det:poss	_	_
 19	addi	nadû	VERB	V	Gender=Com|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|VerbStem=G	0	root	_	ad-di
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:36 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:18 CET -->

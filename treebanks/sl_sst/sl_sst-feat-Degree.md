@@ -72,7 +72,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
   <tr><td><tt><tt><a href="sl_sst-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sl_sst-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="sl_sst-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>dobro</em></td><td><em>boljše</em></td><td><em>najboljše</em></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADJ`. 98% lemmas (1392) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADJ`. 98% lemmas (1390) occur only with one value of `Degree`.
 
 ### `DET`
 

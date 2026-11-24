@@ -3,6 +3,9 @@ udver: '2'
 layout: relation
 title: 'aux'
 shortdef: 'auxiliary'
+# The filename "aux" is not allowed on Windows, so we redirect instead
+# (see https://github.com/UniversalDependencies/docs/issues/20)
+redirect_from: "qpm/dep/aux.html"
 ---
 
 
@@ -52,4 +55,4 @@ ja še tí dam halvá
 I will give you halva (a kind of a candy)
 aux (še, dam)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:43 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:24 CET -->

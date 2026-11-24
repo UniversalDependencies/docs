@@ -117,7 +117,7 @@ The most frequent other feature values with which `PART` and `Person` co-occurre
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>PRON --[<tt><a href="pcm_nsc-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (134; 92%),
+<tt>PRON --[<tt><a href="pcm_nsc-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (133; 92%),
 <tt>PRON --[<tt><a href="pcm_nsc-dep-parataxis-conj.html">parataxis:conj</a></tt>]--> PRON</tt> (10; 83%),
 <tt>ADJ --[<tt><a href="pcm_nsc-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (3; 100%),
 <tt>PRON --[<tt><a href="pcm_nsc-dep-appos.html">appos</a></tt>]--> PRON</tt> (3; 100%),

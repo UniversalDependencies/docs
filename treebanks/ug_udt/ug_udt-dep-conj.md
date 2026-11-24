@@ -25,7 +25,7 @@ The following 35 pairs of parts of speech are connected with `conj`: <tt><a href
 1	ئاچاڭ	ئاچا	NOUN	N	Case=Nom|Number[psor]=Sing|Person[psor]=2	5	nsubj	_	Translit=achang|LTranslit=acha
 2	بىلەن	بىلەن	ADP	R	_	3	cc	_	Translit=bilen|LTranslit=bilen
 3	سىڭىللىرىڭ	_	NOUN	N	_	1	conj	_	Morf=Unknown|Translit=singilliring
-4	ئۆز	ئۆز	PRON	P	Case=Nom|Reflex=Yes	5	det	_	Translit=öz|LTranslit=öz
+4	ئۆز	ئۆز	PRON	P	Case=Nom|PronType=Prs|Reflex=Yes	5	det	_	Translit=öz|LTranslit=öz
 5	ئۆيىدە	ئۆي	NOUN	N	Case=Loc|Number[psor]=Plur,Sing|Person[psor]=3	0	root	_	SpaceAfter=No|Translit=öyide|LTranslit=öy
 6	،	،	PUNCT	Y	_	5	punct	_	Translit=,|LTranslit=,
 

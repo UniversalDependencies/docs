@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fut`, `Past`, `Pres`.
 
-45019 tokens (14%) have a non-empty value of `Tense`.
-14439 types (26%) occur at least once with a non-empty value of `Tense`.
+44999 tokens (14%) have a non-empty value of `Tense`.
+14438 types (26%) occur at least once with a non-empty value of `Tense`.
 3881 lemmas (17%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (36717; 11% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (8302; 3% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (36697; 11% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (8302; 3% instances).
 
 ### `VERB`
 
-36717 <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> tokens (74% of all `VERB` tokens) have a non-empty value of `Tense`.
+36697 <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> tokens (74% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (33918; 92%), <tt><a href="lv_lvtb-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (31295; 85%), <tt><a href="lv_lvtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (29120; 79%), <tt><a href="lv_lvtb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (25418; 69%), <tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (24145; 66%), <tt><a href="lv_lvtb-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (24145; 66%), <tt><a href="lv_lvtb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (24145; 66%), <tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (24145; 66%), <tt><a href="lv_lvtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (24145; 66%), <tt><a href="lv_lvtb-feat-Evident.html">Evident</a></tt><tt>=Fh</tt> (23934; 65%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (33894; 92%), <tt><a href="lv_lvtb-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (31271; 85%), <tt><a href="lv_lvtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (29120; 79%), <tt><a href="lv_lvtb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (25397; 69%), <tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (24145; 66%), <tt><a href="lv_lvtb-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (24145; 66%), <tt><a href="lv_lvtb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (24145; 66%), <tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (24145; 66%), <tt><a href="lv_lvtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (24145; 66%), <tt><a href="lv_lvtb-feat-Evident.html">Evident</a></tt><tt>=Fh</tt> (23934; 65%).
 
 `VERB` tokens may have the following values of `Tense`:
 
-* `Fut` (1971; 5% of non-empty `Tense`): <em>būs, varēs, notiks, nebūs, turpinās, izdosies, dosies, kļūs, saņems, spēs</em>
-* `Past` (18858; 51% of non-empty `Tense`): <em>bija, teica, sāka, varēja, nebija, sacīja, notika, norādīja, gāja, kļuva</em>
-* `Pres` (15888; 43% of non-empty `Tense`): <em>ir, var, nav, nevar, notiek, saka, uzskata, stāsta, atrodas, liecina</em>
+* `Fut` (1967; 5% of non-empty `Tense`): <em>būs, varēs, notiks, nebūs, turpinās, izdosies, dosies, kļūs, saņems, spēs</em>
+* `Past` (18859; 51% of non-empty `Tense`): <em>bija, teica, sāka, varēja, nebija, sacīja, notika, norādīja, gāja, kļuva</em>
+* `Pres` (15871; 43% of non-empty `Tense`): <em>ir, var, nav, nevar, notiek, saka, uzskata, stāsta, atrodas, liecina</em>
 * `EMPTY` (13009): <em>varētu, izmantot, strādāt, darīt, būt, atrast, izmantojot, runāt, teikt, dzīvot</em>
 
 <table>

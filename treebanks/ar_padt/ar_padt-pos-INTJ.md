@@ -34,7 +34,7 @@ The 10 most frequent ambiguous types:  بلاش (<tt><a href="ar_padt-pos-INTJ.h
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.250000 (the average of all parts of speech is 1.761981).
+The form / lemma ratio of `INTJ` is 1.250000 (the average of all parts of speech is 1.762127).
 
 The 1st highest number of forms (2) was observed with the lemma “مَرحَبًا”: مرحبا, مرحباً.
 

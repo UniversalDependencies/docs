@@ -9,24 +9,24 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Fut`, `Imp`, `Past`, `Pres`.
 
-12369 tokens (7%) have a non-empty value of `Tense`.
-5447 types (17%) occur at least once with a non-empty value of `Tense`.
+12370 tokens (7%) have a non-empty value of `Tense`.
+5448 types (17%) occur at least once with a non-empty value of `Tense`.
 1954 lemmas (16%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (11262; 7% instances), <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (1107; 1% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (11264; 7% instances), <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (1106; 1% instances).
 
 ### `VERB`
 
-11262 <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> tokens (76% of all `VERB` tokens) have a non-empty value of `Tense`.
+11264 <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> tokens (76% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="orv_rnc-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (9556; 85%), <tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (9078; 81%), <tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (8477; 75%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7115; 63%), <tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6864; 61%), <tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (6853; 61%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6228; 55%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="orv_rnc-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (9558; 85%), <tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (9079; 81%), <tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (8479; 75%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7117; 63%), <tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6866; 61%), <tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (6855; 61%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6228; 55%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Fut` (953; 8% of non-empty `Tense`): <em>будет, будетъ, станутъ, учнутъ, станет, учнут, ѡтдасть, придет, укажешь, возмет</em>
 * `Imp` (149; 1% of non-empty `Tense`): <em>живяху, глаголаху, живяше, творяху, имаху, имяху, бываху, бяше, бѣаху, держаху</em>
-* `Past` (7478; 66% of non-empty `Tense`): <em>смерено, взято, велел, пожаловал, дал, писал, сказал, велѣлъ, принето, написано</em>
+* `Past` (7480; 66% of non-empty `Tense`): <em>смерено, взято, велел, пожаловал, дал, писал, сказал, велѣлъ, принето, написано</em>
 * `Pres` (2682; 24% of non-empty `Tense`): <em>бью, бьет, есть, стоитъ, прошу, бьетъ, живут, сказывают, называют, емлют</em>
-* `EMPTY` (3591): <em>имати, дати, нет, взять, пожалуй, вели, ѣхати, быть, писать, дать</em>
+* `EMPTY` (3593): <em>имати, дати, нет, взять, пожалуй, вели, быть, ѣхати, писать, дать</em>
 
 <table>
   <tr><th>Paradigm <i>велѣти</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th><th><tt>Imp</tt></th></tr>
@@ -48,17 +48,17 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-1107 <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> tokens (75% of all `AUX` tokens) have a non-empty value of `Tense`.
+1106 <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> tokens (75% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1107; 100%), <tt><a href="orv_rnc-feat-Analyt.html">Analyt</a></tt><tt>=EMPTY</tt> (1089; 98%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (844; 76%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (827; 75%), <tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (744; 67%), <tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (742; 67%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1106; 100%), <tt><a href="orv_rnc-feat-Analyt.html">Analyt</a></tt><tt>=EMPTY</tt> (1088; 98%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (844; 76%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (826; 75%), <tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (744; 67%), <tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (742; 67%).
 
 `AUX` tokens may have the following values of `Tense`:
 
 * `Fut` (246; 22% of non-empty `Tense`): <em>будет, будетъ, бꙋдет, будут, буду, будутъ, будете, будеть, будемъ, бꙋдетъ</em>
 * `Imp` (11; 1% of non-empty `Tense`): <em>бяше, бяху</em>
-* `Past` (472; 43% of non-empty `Tense`): <em>было, были, бысть, былъ, была, был, бы, бѣ, быша, бы[ша]</em>
+* `Past` (471; 43% of non-empty `Tense`): <em>было, были, бысть, былъ, была, был, бы, бѣ, быша, бы[ша]</em>
 * `Pres` (378; 34% of non-empty `Tense`): <em>есть, есми, есмь, суть, еси, есмя, есте, єсми, будучи, есмы</em>
-* `EMPTY` (365): <em>бы, б, быти, быть, бъ, буди, еси, быт(ь), быт[и], [б]</em>
+* `EMPTY` (363): <em>бы, б, быти, быть, бъ, буди, еси, быт(ь), быт[и], [б]</em>
 
 <table>
   <tr><th>Paradigm <i>быти</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th><th><tt>Imp</tt></th></tr>

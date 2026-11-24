@@ -6,20 +6,20 @@ udver: '2'
 
 ## Treebank Statistics: UD_Italian-PUD: POS Tags: `ADP`
 
-There are 44 `ADP` lemmas (1%), 61 `ADP` types (1%) and 3808 `ADP` tokens (16%).
-Out of 16 observed tags, the rank of `ADP` is: 7 in number of lemmas, 9 in number of types and 2 in number of tokens.
+There are 44 `ADP` lemmas (1%), 46 `ADP` types (1%) and 3808 `ADP` tokens (16%).
+Out of 16 observed tags, the rank of `ADP` is: 7 in number of lemmas, 10 in number of types and 3 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>di, in, a, da, per, con, su, come, tra, dopo</em>
 
-The 10 most frequent `ADP` types:  <em>di, in, a, per, da, con, su, come, tra, dopo</em>
+The 10 most frequent `ADP` types:  <em>di, in, a, da, per, con, su, come, tra, dopo</em>
 
 The 10 most frequent ambiguous lemmas: <em>di</em> (<tt><a href="it_pud-pos-ADP.html">ADP</a></tt> 1523, <tt><a href="it_pud-pos-DET.html">DET</a></tt> 6), <em>a</em> (<tt><a href="it_pud-pos-ADP.html">ADP</a></tt> 576, <tt><a href="it_pud-pos-PROPN.html">PROPN</a></tt> 3), <em>per</em> (<tt><a href="it_pud-pos-ADP.html">ADP</a></tt> 225, <tt><a href="it_pud-pos-ADV.html">ADV</a></tt> 1), <em>come</em> (<tt><a href="it_pud-pos-ADP.html">ADP</a></tt> 89, <tt><a href="it_pud-pos-SCONJ.html">SCONJ</a></tt> 6, <tt><a href="it_pud-pos-ADV.html">ADV</a></tt> 3), <em>dopo</em> (<tt><a href="it_pud-pos-ADP.html">ADP</a></tt> 40, <tt><a href="it_pud-pos-ADV.html">ADV</a></tt> 9), <em>fino</em> (<tt><a href="it_pud-pos-ADP.html">ADP</a></tt> 22, <tt><a href="it_pud-pos-ADV.html">ADV</a></tt> 1), <em>se</em> (<tt><a href="it_pud-pos-ADP.html">ADP</a></tt> 14, <tt><a href="it_pud-pos-SCONJ.html">SCONJ</a></tt> 12, <tt><a href="it_pud-pos-PRON.html">PRON</a></tt> 4), <em>che</em> (<tt><a href="it_pud-pos-PRON.html">PRON</a></tt> 173, <tt><a href="it_pud-pos-SCONJ.html">SCONJ</a></tt> 143, <tt><a href="it_pud-pos-ADP.html">ADP</a></tt> 13, <tt><a href="it_pud-pos-CCONJ.html">CCONJ</a></tt> 10, <tt><a href="it_pud-pos-DET.html">DET</a></tt> 1), <em>secondo</em> (<tt><a href="it_pud-pos-ADP.html">ADP</a></tt> 12, <tt><a href="it_pud-pos-ADJ.html">ADJ</a></tt> 8, <tt><a href="it_pud-pos-NOUN.html">NOUN</a></tt> 2), <em>sotto</em> (<tt><a href="it_pud-pos-ADP.html">ADP</a></tt> 11, <tt><a href="it_pud-pos-ADV.html">ADV</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="it_pud-pos-ADP.html">ADP</a></tt> 517, <tt><a href="it_pud-pos-PROPN.html">PROPN</a></tt> 2), <em>per</em> (<tt><a href="it_pud-pos-ADP.html">ADP</a></tt> 210, <tt><a href="it_pud-pos-ADV.html">ADV</a></tt> 1), <em>come</em> (<tt><a href="it_pud-pos-ADP.html">ADP</a></tt> 86, <tt><a href="it_pud-pos-SCONJ.html">SCONJ</a></tt> 5, <tt><a href="it_pud-pos-ADV.html">ADV</a></tt> 3), <em>dopo</em> (<tt><a href="it_pud-pos-ADP.html">ADP</a></tt> 26, <tt><a href="it_pud-pos-ADV.html">ADV</a></tt> 7), <em>al</em> (<tt><a href="it_pud-pos-ADP.html">ADP</a></tt> 20, <tt><a href="it_pud-pos-PROPN.html">PROPN</a></tt> 1), <em>se</em> (<tt><a href="it_pud-pos-ADP.html">ADP</a></tt> 13, <tt><a href="it_pud-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="it_pud-pos-PRON.html">PRON</a></tt> 4), <em>che</em> (<tt><a href="it_pud-pos-PRON.html">PRON</a></tt> 173, <tt><a href="it_pud-pos-SCONJ.html">SCONJ</a></tt> 143, <tt><a href="it_pud-pos-ADP.html">ADP</a></tt> 13, <tt><a href="it_pud-pos-CCONJ.html">CCONJ</a></tt> 10, <tt><a href="it_pud-pos-DET.html">DET</a></tt> 1), <em>secondo</em> (<tt><a href="it_pud-pos-ADP.html">ADP</a></tt> 5, <tt><a href="it_pud-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="it_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>sotto</em> (<tt><a href="it_pud-pos-ADP.html">ADP</a></tt> 11, <tt><a href="it_pud-pos-ADV.html">ADV</a></tt> 1), <em>dell'</em> (<tt><a href="it_pud-pos-ADP.html">ADP</a></tt> 5, <tt><a href="it_pud-pos-DET.html">DET</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="it_pud-pos-ADP.html">ADP</a></tt> 550, <tt><a href="it_pud-pos-PROPN.html">PROPN</a></tt> 2), <em>per</em> (<tt><a href="it_pud-pos-ADP.html">ADP</a></tt> 210, <tt><a href="it_pud-pos-ADV.html">ADV</a></tt> 1), <em>come</em> (<tt><a href="it_pud-pos-ADP.html">ADP</a></tt> 86, <tt><a href="it_pud-pos-SCONJ.html">SCONJ</a></tt> 5, <tt><a href="it_pud-pos-ADV.html">ADV</a></tt> 3), <em>dopo</em> (<tt><a href="it_pud-pos-ADP.html">ADP</a></tt> 26, <tt><a href="it_pud-pos-ADV.html">ADV</a></tt> 7), <em>se</em> (<tt><a href="it_pud-pos-ADP.html">ADP</a></tt> 13, <tt><a href="it_pud-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="it_pud-pos-PRON.html">PRON</a></tt> 4), <em>che</em> (<tt><a href="it_pud-pos-PRON.html">PRON</a></tt> 173, <tt><a href="it_pud-pos-SCONJ.html">SCONJ</a></tt> 143, <tt><a href="it_pud-pos-ADP.html">ADP</a></tt> 13, <tt><a href="it_pud-pos-CCONJ.html">CCONJ</a></tt> 10, <tt><a href="it_pud-pos-DET.html">DET</a></tt> 1), <em>secondo</em> (<tt><a href="it_pud-pos-ADP.html">ADP</a></tt> 5, <tt><a href="it_pud-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="it_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>sotto</em> (<tt><a href="it_pud-pos-ADP.html">ADP</a></tt> 11, <tt><a href="it_pud-pos-ADV.html">ADV</a></tt> 1), <em>circa</em> (<tt><a href="it_pud-pos-ADV.html">ADV</a></tt> 14, <tt><a href="it_pud-pos-ADP.html">ADP</a></tt> 4), <em>rispetto</em> (<tt><a href="it_pud-pos-ADP.html">ADP</a></tt> 3, <tt><a href="it_pud-pos-NOUN.html">NOUN</a></tt> 1)
 
 
 * <em>a</em>
-  * <tt><a href="it_pud-pos-ADP.html">ADP</a></tt> 517: <em>La cifra massima consentita è 5.000 dollari <b>a</b> persona .</em>
+  * <tt><a href="it_pud-pos-ADP.html">ADP</a></tt> 550: <em>La cifra massima consentita è 5.000 dollari <b>a</b> persona .</em>
   * <tt><a href="it_pud-pos-PROPN.html">PROPN</a></tt> 2: <em>On <b>a</b> Wing and <b>a</b> Prayer ( 1992 ) lo riunì per diverse canzoni con Egan , suo partner di gli Stealers Wheel .</em>
 * <em>per</em>
   * <tt><a href="it_pud-pos-ADP.html">ADP</a></tt> 210: <em>Stanotte useremo gli abbaglianti <b>per</b> le punizioni , si legge su il post .</em>
@@ -31,9 +31,6 @@ The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="it_pud-pos-ADP.h
 * <em>dopo</em>
   * <tt><a href="it_pud-pos-ADP.html">ADP</a></tt> 26: <em>Gli Stati Uniti liberarono Cuba ( <b>dopo</b> un' occupazione di l' esercito statunitense ) .</em>
   * <tt><a href="it_pud-pos-ADV.html">ADV</a></tt> 7: <em>A l' Alta Corte di Hong Kong , due anni <b>dopo</b> , Jutting è apparso prevalentemente calmo .</em>
-* <em>al</em>
-  * <tt><a href="it_pud-pos-ADP.html">ADP</a></tt> 20: <em>Tuttavia , vennero bloccati e dovettero combattere a Freeman , vicino <b>al</b> fiume Hudson .</em>
-  * <tt><a href="it_pud-pos-PROPN.html">PROPN</a></tt> 1: <em>Il re Salaman rimpiazzò il veterano politico con il capo di la supervisione finanziaria , Mohammed <b>al</b> - Jadaan .</em>
 * <em>se</em>
   * <tt><a href="it_pud-pos-ADP.html">ADP</a></tt> 13: <em>Mi chiedo anche <b>se</b> la Coppa Davis abbia svolto un ruolo .</em>
   * <tt><a href="it_pud-pos-SCONJ.html">SCONJ</a></tt> 10: <em>Valuteremo <b>se</b> e come proseguire anche per la tratta successiva .</em>
@@ -51,27 +48,30 @@ The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="it_pud-pos-ADP.h
 * <em>sotto</em>
   * <tt><a href="it_pud-pos-ADP.html">ADP</a></tt> 11: <em>In un' occasione , si lascia intendere che è un agente <b>sotto</b> copertura il cui bersaglio è Homer .</em>
   * <tt><a href="it_pud-pos-ADV.html">ADV</a></tt> 1: <em>Poi vengono postate le cosiddette storie vere , in una serie di foto significative e frasi che scorrono a il di <b>sotto</b> di esse .</em>
-* <em>dell'</em>
-  * <tt><a href="it_pud-pos-ADP.html">ADP</a></tt> 5: <em>Numerosi popoli indigeni hanno abitato l' Alaska per migliaia di anni prima <b>dell'</b> arrivo di gli Europei in la zona .</em>
-  * <tt><a href="it_pud-pos-DET.html">DET</a></tt> 1: <em>La storia di Doss ha anche <b>dell'</b> incredibile e ciò la rende ancora più attraente .</em>
+* <em>circa</em>
+  * <tt><a href="it_pud-pos-ADV.html">ADV</a></tt> 14: <em>In il 1563 la popolazione di Venezia era scesa a <b>circa</b> 168.000 persone .</em>
+  * <tt><a href="it_pud-pos-ADP.html">ADP</a></tt> 4: <em>Ci sono differenti teorie <b>circa</b> le ragioni di l' abbandono di il luogo .</em>
+* <em>rispetto</em>
+  * <tt><a href="it_pud-pos-ADP.html">ADP</a></tt> 3: <em>Per la prima volta in gli ultimi sei anni il tasso di disoccupazione è sceso sotto il 20 % e ci sono già 60.0000 persone impiegate in più <b>rispetto</b> a un anno fa .</em>
+  * <tt><a href="it_pud-pos-NOUN.html">NOUN</a></tt> 1: <em>Dopo tutto , la nostra performance organizzativa raramente è misurata in termini di sicurezza o di <b>rispetto</b> di le regole .</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.386364 (the average of all parts of speech is 1.285855).
+The form / lemma ratio of `ADP` is 1.045455 (the average of all parts of speech is 1.282892).
 
-The 1st highest number of forms (7) was observed with the lemma “a”: <em>a, ai, al, all', alla, alle, allo</em>.
+The 1st highest number of forms (3) was observed with the lemma “di”: <em>d', del, di</em>.
 
-The 2nd highest number of forms (6) was observed with the lemma “da”: <em>da, dagli, dai, dal, dall', dalla</em>.
+The 2nd highest number of forms (1) was observed with the lemma “De”: <em>De</em>.
 
-The 3rd highest number of forms (6) was observed with the lemma “di”: <em>d', del, dell', della, dello, di</em>.
+The 3rd highest number of forms (1) was observed with the lemma “Sulla”: <em>Sulla</em>.
 
-`ADP` occurs with 2 features: <tt><a href="it_pud-feat-Gender.html">Gender</a></tt> (54; 1% instances), <tt><a href="it_pud-feat-Number.html">Number</a></tt> (54; 1% instances)
+`ADP` occurs with 2 features: <tt><a href="it_pud-feat-Gender.html">Gender</a></tt> (3; 0% instances), <tt><a href="it_pud-feat-Number.html">Number</a></tt> (3; 0% instances)
 
-`ADP` occurs with 4 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`
+`ADP` occurs with 3 feature-value pairs: `Gender=Masc`, `Number=Plur`, `Number=Sing`
 
-`ADP` occurs with 5 feature combinations.
-The most frequent feature combination is `_` (3754 tokens).
-Examples: <em>di, in, a, per, da, con, su, come, tra, dopo</em>
+`ADP` occurs with 3 feature combinations.
+The most frequent feature combination is `_` (3805 tokens).
+Examples: <em>di, in, a, da, per, con, su, come, tra, dopo</em>
 
 
 ## Relations

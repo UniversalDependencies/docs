@@ -10,10 +10,10 @@ This feature is universal but the values `Emp` are language-specific.
 It occurs with 8 different values: `Dem`, `Emp`, `Ind`, `Int`, `Neg`, `Prs`, `Rel`, `Tot`.
 Some words have combined values of the feature; 2 combinations have been observed: `Dem|Ind`, `Int|Rel`.
 
-25194 tokens (15%) have a non-empty value of `PronType`.
+25439 tokens (15%) have a non-empty value of `PronType`.
 653 types (2%) occur at least once with a non-empty value of `PronType`.
 138 lemmas (1%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (14087; 8% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (8435; 5% instances), <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (2672; 2% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (14087; 8% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (8431; 5% instances), <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (2921; 2% instances).
 
 ### `PRON`
 
@@ -51,15 +51,15 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 ### `DET`
 
-8435 <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+8431 <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="cs_fictree-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (7039; 83%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (7039; 83%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6651; 79%), <tt><a href="cs_fictree-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (6291; 75%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (5742; 68%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="cs_fictree-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (7035; 83%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (7035; 83%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6651; 79%), <tt><a href="cs_fictree-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (6287; 75%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (5738; 68%).
 
 `DET` tokens may have the following values of `PronType`:
 
 * `Dem` (3688; 44% of non-empty `PronType`): <em>to, ten, tom, toho, tím, té, ta, tu, tomu, tohle</em>
 * `Emp` (235; 3% of non-empty `PronType`): <em>sám, sama, sami, samo, samy, samé, samá, samého, samu, samých</em>
-* `Ind` (476; 6% of non-empty `PronType`): <em>několik, nějaký, nějaké, nějakou, několika, mnoho, hodně, moc, víc, málo</em>
+* `Ind` (472; 6% of non-empty `PronType`): <em>několik, nějaký, nějaké, nějakou, několika, mnoho, hodně, moc, víc, málo</em>
 * `Int,Rel` (1117; 13% of non-empty `PronType`): <em>který, které, která, kterou, kteří, kolik, jaké, kterého, kterým, jakou</em>
 * `Neg` (98; 1% of non-empty `PronType`): <em>žádný, žádné, žádnou, žádná, žádném, žádného, žádnej, nijaké, pražádný, žádnému</em>
 * `Prs` (2116; 25% of non-empty `PronType`): <em>jeho, své, její, jejich, moje, svou, svého, můj, svým, svůj</em>
@@ -70,20 +70,20 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 ### `ADV`
 
-2672 <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> tokens (24% of all `ADV` tokens) have a non-empty value of `PronType`.
+2921 <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> tokens (26% of all `ADV` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="cs_fictree-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (2639; 99%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (2639; 99%).
+The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="cs_fictree-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (2888; 99%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (2888; 99%).
 
 `ADV` tokens may have the following values of `PronType`:
 
-* `Dem` (1325; 50% of non-empty `PronType`): <em>tak, tam, teď, tu, tady, tehdy, proto, nyní, dosud, tentokrát</em>
+* `Dem` (1571; 54% of non-empty `PronType`): <em>tak, tam, teď, tu, tady, tehdy, proto, nyní, dosud, tentokrát</em>
 * `Dem,Ind` (1; 0% of non-empty `PronType`): <em>nesčetněkrát</em>
-* `Ind` (217; 8% of non-empty `PronType`): <em>někdy, nějak, kdysi, někde, někam, jaksi, několikrát, málokdy, kdykoli, mnohokrát</em>
-* `Int,Rel` (852; 32% of non-empty `PronType`): <em>jak, proč, kde, kdy, kam, odkud, kolikrát, kudy, Jaks</em>
-* `Neg` (205; 8% of non-empty `PronType`): <em>nikdy, nijak, nikde, nikam</em>
+* `Ind` (217; 7% of non-empty `PronType`): <em>někdy, nějak, kdysi, někde, někam, jaksi, několikrát, málokdy, kdykoli, mnohokrát</em>
+* `Int,Rel` (855; 29% of non-empty `PronType`): <em>jak, proč, kde, kdy, kam, odkud, kolikrát, kudy, Jaks</em>
+* `Neg` (205; 7% of non-empty `PronType`): <em>nikdy, nijak, nikde, nikam</em>
 * `Rel` (10; 0% of non-empty `PronType`): <em>jak</em>
 * `Tot` (62; 2% of non-empty `PronType`): <em>všude, vždy, navždy, odevšad, odjakživa</em>
-* `EMPTY` (8280): <em>už, ještě, pak, jednou, zase, dál, také, hned, taky, dobře</em>
+* `EMPTY` (8297): <em>už, ještě, pak, jednou, zase, dál, také, hned, taky, dobře</em>
 
 <table>
   <tr><th>Paradigm <i>jak</i></th><th><tt>Int,Rel</tt></th><th><tt>Rel</tt></th></tr>
@@ -95,14 +95,14 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 ## Relations with Agreement in `PronType`
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
-<tt>ADV --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> ADV</tt> (23; 51%),
 <tt>PRON --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> PRON</tt> (18; 82%),
 <tt>DET --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> DET</tt> (11; 100%),
 <tt>PRON --[<tt><a href="cs_fictree-dep-appos.html">appos</a></tt>]--> PRON</tt> (4; 100%),
+<tt>ADV --[<tt><a href="cs_fictree-dep-discourse.html">discourse</a></tt>]--> ADV</tt> (2; 100%),
 <tt>DET --[<tt><a href="cs_fictree-dep-appos.html">appos</a></tt>]--> DET</tt> (2; 100%),
-<tt>PRON --[<tt><a href="cs_fictree-dep-advcl.html">advcl</a></tt>]--> PRON</tt> (2; 100%),
 <tt>PRON --[<tt><a href="cs_fictree-dep-orphan.html">orphan</a></tt>]--> DET</tt> (2; 67%),
 <tt>PRON --[<tt><a href="cs_fictree-dep-orphan.html">orphan</a></tt>]--> PRON</tt> (2; 67%),
 <tt>ADV --[<tt><a href="cs_fictree-dep-orphan.html">orphan</a></tt>]--> ADV</tt> (1; 100%),
-<tt>DET --[<tt><a href="cs_fictree-dep-det-nummod.html">det:nummod</a></tt>]--> DET</tt> (1; 100%).
+<tt>DET --[<tt><a href="cs_fictree-dep-det-nummod.html">det:nummod</a></tt>]--> DET</tt> (1; 100%),
+<tt>PRON --[<tt><a href="cs_fictree-dep-amod.html">amod</a></tt>]--> DET</tt> (1; 100%).
 

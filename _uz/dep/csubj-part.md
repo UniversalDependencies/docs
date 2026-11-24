@@ -24,4 +24,4 @@ csubj:pass(aylanadi,bilinadiki(ma’lumki))
 
 
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:57 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:36 CET -->

@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Anim`, `Inan`.
 
-38364 tokens (39%) have a non-empty value of `Animacy`.
-19388 types (65%) occur at least once with a non-empty value of `Animacy`.
-12194 lemmas (65%) occur at least once with a non-empty value of `Animacy`.
-The feature is used with 8 part-of-speech tags: <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (26754; 27% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (6585; 7% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> (2040; 2% instances), <tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt> (1014; 1% instances), <tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> (939; 1% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (850; 1% instances), <tt><a href="ru_gsd-pos-DET.html">DET</a></tt> (179; 0% instances), <tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt> (3; 0% instances).
+38365 tokens (39%) have a non-empty value of `Animacy`.
+19389 types (65%) occur at least once with a non-empty value of `Animacy`.
+12195 lemmas (65%) occur at least once with a non-empty value of `Animacy`.
+The feature is used with 8 part-of-speech tags: <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (26754; 27% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (6586; 7% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> (2040; 2% instances), <tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt> (1014; 1% instances), <tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> (939; 1% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (850; 1% instances), <tt><a href="ru_gsd-pos-DET.html">DET</a></tt> (179; 0% instances), <tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt> (3; 0% instances).
 
 ### `NOUN`
 
@@ -47,15 +47,15 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
 
 ### `PROPN`
 
-6585 <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Animacy`.
+6586 <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `PROPN` and `Animacy` co-occurred: <tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6382; 97%), <tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (4523; 69%).
+The most frequent other feature values with which `PROPN` and `Animacy` co-occurred: <tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6383; 97%), <tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (4524; 69%).
 
 `PROPN` tokens may have the following values of `Animacy`:
 
-* `Anim` (3299; 50% of non-empty `Animacy`): <em>Александра, Владимир, Александр, Джон, Карл, Михаил, Сергей, Юрий, Алексей, Виктор</em>
+* `Anim` (3300; 50% of non-empty `Animacy`): <em>Александра, Владимир, Александр, Джон, Карл, Михаил, Сергей, Юрий, Алексей, Виктор</em>
 * `Inan` (3286; 50% of non-empty `Animacy`): <em>России, США, СССР, Украины, Франции, Германии, Европы, Испании, РФ, Москве</em>
-* `EMPTY` (32): <em>НЧ, В., 154М, 22М, 22Р, 25С, 3О, 400Т, 60К, 60Н</em>
+* `EMPTY` (31): <em>НЧ, В., 154М, 22М, 22Р, 25С, 3О, 400Т, 60К, 60Н</em>
 
 <table>
   <tr><th>Paradigm <i>Дон</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -64,19 +64,19 @@ The most frequent other feature values with which `PROPN` and `Animacy` co-occur
   <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>дон</em></td><td><em>Дон</em></td></tr>
 </table>
 
-`Animacy` seems to be **lexical feature** of `PROPN`. 99% lemmas (4425) occur only with one value of `Animacy`.
+`Animacy` seems to be **lexical feature** of `PROPN`. 99% lemmas (4426) occur only with one value of `Animacy`.
 
 ### `VERB`
 
 2040 <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> tokens (24% of all `VERB` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `VERB` and `Animacy` co-occurred: <tt><a href="ru_gsd-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2040; 100%), <tt><a href="ru_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (2040; 100%), <tt><a href="ru_gsd-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2039; 100%), <tt><a href="ru_gsd-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1644; 81%), <tt><a href="ru_gsd-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (1547; 76%), <tt><a href="ru_gsd-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (1463; 72%), <tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1405; 69%), <tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1348; 66%), <tt><a href="ru_gsd-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (1096; 54%).
+The most frequent other feature values with which `VERB` and `Animacy` co-occurred: <tt><a href="ru_gsd-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2040; 100%), <tt><a href="ru_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (2040; 100%), <tt><a href="ru_gsd-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2039; 100%), <tt><a href="ru_gsd-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1644; 81%), <tt><a href="ru_gsd-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (1546; 76%), <tt><a href="ru_gsd-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (1463; 72%), <tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1405; 69%), <tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1348; 66%), <tt><a href="ru_gsd-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (1096; 54%).
 
 `VERB` tokens may have the following values of `Animacy`:
 
 * `Anim` (434; 21% of non-empty `Animacy`): <em>назначен, награждён, избран, вынужден, похоронен, произведён, ранен, убит, арестован, арестованы</em>
 * `Inan` (1606; 79% of non-empty `Animacy`): <em>расположен, основана, основан, расположена, принято, создана, расположено, назван, проведены, расположены</em>
-* `EMPTY` (6454): <em>является, стал, составляет, может, находится, входит, получил, можно, родился, имеет</em>
+* `EMPTY` (6455): <em>является, стал, составляет, может, находится, входит, получил, можно, родился, имеет</em>
 
 <table>
   <tr><th>Paradigm <i>стать</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -222,10 +222,10 @@ The most frequent other feature values with which `AUX` and `Animacy` co-occurre
 ## Relations with Agreement in `Animacy`
 
 The 10 most frequent relations where parent and child node agree in `Animacy`:
-<tt>NOUN --[<tt><a href="ru_gsd-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (6865; 81%),
+<tt>NOUN --[<tt><a href="ru_gsd-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (6876; 81%),
 <tt>NOUN --[<tt><a href="ru_gsd-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1943; 96%),
-<tt>NOUN --[<tt><a href="ru_gsd-dep-appos.html">appos</a></tt>]--> PROPN</tt> (1086; 95%),
-<tt>NOUN --[<tt><a href="ru_gsd-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (1000; 64%),
+<tt>NOUN --[<tt><a href="ru_gsd-dep-appos.html">appos</a></tt>]--> PROPN</tt> (1087; 95%),
+<tt>NOUN --[<tt><a href="ru_gsd-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (1001; 64%),
 <tt>PROPN --[<tt><a href="ru_gsd-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (963; 99%),
 <tt>NOUN --[<tt><a href="ru_gsd-dep-acl.html">acl</a></tt>]--> VERB</tt> (891; 92%),
 <tt>NOUN --[<tt><a href="ru_gsd-dep-appos.html">appos</a></tt>]--> NOUN</tt> (650; 84%),

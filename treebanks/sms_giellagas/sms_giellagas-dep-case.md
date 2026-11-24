@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-27 nodes (1%) are attached to their parents as `case`.
+29 nodes (1%) are attached to their parents as `case`.
 
-21 instances of `case` (78%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.07407407407407.
+23 instances of `case` (79%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.06896551724138.
 
-The following 3 pairs of parts of speech are connected with `case`: <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-ADP.html">ADP</a></tt> (21; 78% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt>-<tt><a href="sms_giellagas-pos-ADP.html">ADP</a></tt> (5; 19% instances), <tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sms_giellagas-pos-ADP.html">ADP</a></tt> (1; 4% instances).
+The following 4 pairs of parts of speech are connected with `case`: <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-ADP.html">ADP</a></tt> (22; 76% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt>-<tt><a href="sms_giellagas-pos-ADP.html">ADP</a></tt> (5; 17% instances), <tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sms_giellagas-pos-ADP.html">ADP</a></tt> (1; 3% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-ADP.html">ADP</a></tt> (1; 3% instances).
 
 
 ~~~ conllu

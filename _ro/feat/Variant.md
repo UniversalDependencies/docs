@@ -34,4 +34,4 @@ the same as [Strength]()`=Weak`, although the two features interact.
 * _se_ “oneself” `Case=Acc|Strength=Weak` (weak but full form of the reflexive pronoun)
 * _<b>s-, -se, se-</b>_ “oneself” `Case=Acc|Strength=Weak|Variant=Short`
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:22 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:06 CET -->

@@ -18,4 +18,4 @@ Particles are function words that must be associated with another word or phrase
 The aspect markers _be_ and _hamē_ derive from [adverbs](ADV): _be_ from _bē_ "out, away", _hamē_ "continuously". The adverbial interpretation is the preferred option in case of doubt.
 <br>If _=iz_ is used as additive marker "also", we take it as an adverb.
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:37 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:28 CET -->

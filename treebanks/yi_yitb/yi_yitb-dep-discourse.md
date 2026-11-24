@@ -22,17 +22,17 @@ The following 9 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 10 discourse	color:blue
-1	מיר	מיר	PRON	_	_	2	obl:arg	_	Translit=mir|Translit_Lemma=mir
-2	געפֿעלן	געפֿעלן	VERB	_	_	0	root	_	Translit=gefeln|Translit_Lemma=gefeln
-3	מענטשן	מענטשן	NOUN	_	_	2	nsubj	_	Translit=mentshn|Translit_Lemma=mentshn
-4	וואָס	וואָס	SCONJ	_	_	7	mark	_	Translit=vos|Translit_Lemma=vos
-5	זענען	זײַן	AUX	_	_	7	aux	_	Translit=zenen|Translit_Lemma=zayn
-6	נישט	נישט	PART	_	_	7	advmod	_	Translit=nisht|Translit_Lemma=nisht
-7	געפֿאַנגען	פֿאַנגען	VERB	_	_	3	acl:relcl	_	Translit=gefangen|Translit_Lemma=fangen
-8	געוואָרן	װערן	AUX	_	_	7	aux:pass	_	SpaceAfter=No|Translit=gevorn|Translit_Lemma=vern
-9	,	,	PUNCT	_	_	10	punct	_	Translit=,|Translit_Lemma=,
-10	אָקיי	אָקײ	INTJ	_	_	2	discourse	_	SpaceAfter=No|Translit=okey|Translit_Lemma=okey
-11	?	?	PUNCT	_	_	2	punct	_	Translit=?|Translit_Lemma=?
+1	מיר	מיר	PRON	_	_	2	obl:arg	_	Translit=mir|LTranslit=mir
+2	געפֿעלן	געפֿעלן	VERB	_	_	0	root	_	Translit=gefeln|LTranslit=gefeln
+3	מענטשן	מענטש	NOUN	_	_	2	nsubj	_	Translit=mentshn|LTranslit=mentsh
+4	וואָס	וואָס	SCONJ	_	_	7	mark	_	Translit=vos|LTranslit=vos
+5	זענען	זײַן	AUX	_	_	7	aux	_	Translit=zenen|LTranslit=zayn
+6	נישט	נישט	PART	_	_	7	advmod	_	Translit=nisht|LTranslit=nisht
+7	געפֿאַנגען	פֿאַנגען	VERB	_	_	3	acl:relcl	_	Translit=gefangen|LTranslit=fangen
+8	געוואָרן	װערן	AUX	_	_	7	aux:pass	_	SpaceAfter=No|Translit=gevorn|LTranslit=vern
+9	,	,	PUNCT	_	_	10	punct	_	Translit=,|LTranslit=,
+10	אָקיי	אָקײ	INTJ	_	_	2	discourse	_	SpaceAfter=No|Translit=okey|LTranslit=okey
+11	?	?	PUNCT	_	_	2	punct	_	Translit=?|LTranslit=?
 
 ~~~
 
@@ -43,12 +43,12 @@ The following 9 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 1 discourse	color:blue
-1	נו	נוען	INTJ	_	_	5	discourse	_	SpaceAfter=No|Translit=nu|Translit_Lemma=nuen
-2	,	,	PUNCT	_	_	1	punct	_	Translit=,|Translit_Lemma=,
-3	איר	איר	PRON	_	_	5	nsubj	_	Translit=ir|Translit_Lemma=ir
-4	זײַט	זײַן	AUX	_	_	5	cop	_	Translit=zayt|Translit_Lemma=zayn
-5	גרײט	גרייט	ADJ	_	_	0	root	_	SpaceAfter=No|Translit=greyt|Translit_Lemma=greyt
-6	?	?	PUNCT	_	_	5	punct	_	Translit=?|Translit_Lemma=?
+1	נו	נוען	INTJ	_	_	5	discourse	_	SpaceAfter=No|Translit=nu|LTranslit=nuen
+2	,	,	PUNCT	_	_	1	punct	_	Translit=,|LTranslit=,
+3	איר	איר	PRON	_	_	5	nsubj	_	Translit=ir|LTranslit=ir
+4	זײַט	זײַן	AUX	_	_	5	cop	_	Translit=zayt|LTranslit=zayn
+5	גרײט	גרייט	ADJ	_	_	0	root	_	SpaceAfter=No|Translit=greyt|LTranslit=greyt
+6	?	?	PUNCT	_	_	5	punct	_	Translit=?|LTranslit=?
 
 ~~~
 
@@ -59,14 +59,14 @@ The following 9 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 1 discourse	color:blue
-1	הלוואַי	הלוואַי	PART	_	_	7	discourse	_	Translit=halevay|Translit_Lemma=halevay
-2	וואָלט	װאָלט	AUX	_	_	7	aux	_	Translit=volt|Translit_Lemma=volt-
-3	וואַגנער	װאַגנע	PROPN	_	_	7	nsubj	_	Translit=vagner|Translit_Lemma=vagne
-4	נישט	נישט	PART	_	_	7	advmod	_	Translit=nisht|Translit_Lemma=nisht
-5	געווען	זײַן	AUX	_	_	7	cop	_	Translit=geven|Translit_Lemma=zayn
-6	אַזאַ	אַזאַ	DET	_	_	7	det	_	Translit=aza|Translit_Lemma=aza
-7	אַנטיסעמיט	אַנטיסעמיט	NOUN	_	_	0	root	_	SpaceAfter=No|Translit=antisemit|Translit_Lemma=antisemit
-8	.	.	PUNCT	_	_	7	punct	_	Translit=.|Translit_Lemma=.
+1	הלוואַי	הלוואַי	PART	_	_	7	discourse	_	Translit=halevay|LTranslit=halevay
+2	וואָלט	װאָלט	AUX	_	_	7	aux	_	Translit=volt|LTranslit=volt-
+3	וואַגנער	װאַגנע	PROPN	_	_	7	nsubj	_	Translit=vagner|LTranslit=vagne
+4	נישט	נישט	PART	_	_	7	advmod	_	Translit=nisht|LTranslit=nisht
+5	געווען	זײַן	AUX	_	_	7	cop	_	Translit=geven|LTranslit=zayn
+6	אַזאַ	אַזאַ	DET	_	_	7	det	_	Translit=aza|LTranslit=aza
+7	אַנטיסעמיט	אַנטיסעמיט	NOUN	_	_	0	root	_	SpaceAfter=No|Translit=antisemit|LTranslit=antisemit
+8	.	.	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

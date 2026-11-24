@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Olga Lyashevskaya, Olga Rudina, Natalia Vlasova, Anna Zhuravleva.
 
 Repository: [UD_Russian-Taiga](https://github.com/UniversalDependencies/UD_Russian-Taiga)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udru_taiga218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udru_taiga219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 
@@ -82,7 +82,7 @@ Text collections for evaluation of Russian morphological taggers. Jazykovedny Ca
 
 ## Relations
 
-[acl](ru_taiga-dep-acl.html) – [acl:relcl](ru_taiga-dep-acl-relcl.html) – [advcl](ru_taiga-dep-advcl.html) – [advmod](ru_taiga-dep-advmod.html) – [amod](ru_taiga-dep-amod.html) – [appos](ru_taiga-dep-appos.html) – [aux](ru_taiga-dep-aux.html) – [aux:pass](ru_taiga-dep-aux-pass.html) – [case](ru_taiga-dep-case.html) – [cc](ru_taiga-dep-cc.html) – [ccomp](ru_taiga-dep-ccomp.html) – [compound](ru_taiga-dep-compound.html) – [conj](ru_taiga-dep-conj.html) – [cop](ru_taiga-dep-cop.html) – [csubj](ru_taiga-dep-csubj.html) – [csubj:outer](ru_taiga-dep-csubj-outer.html) – [csubj:pass](ru_taiga-dep-csubj-pass.html) – [dep](ru_taiga-dep-dep.html) – [det](ru_taiga-dep-det.html) – [discourse](ru_taiga-dep-discourse.html) – [dislocated](ru_taiga-dep-dislocated.html) – [expl](ru_taiga-dep-expl.html) – [fixed](ru_taiga-dep-fixed.html) – [flat](ru_taiga-dep-flat.html) – [flat:foreign](ru_taiga-dep-flat-foreign.html) – [flat:goeswith](ru_taiga-dep-flat-goeswith.html) – [flat:name](ru_taiga-dep-flat-name.html) – [goeswith](ru_taiga-dep-goeswith.html) – [iobj](ru_taiga-dep-iobj.html) – [list](ru_taiga-dep-list.html) – [mark](ru_taiga-dep-mark.html) – [nmod](ru_taiga-dep-nmod.html) – [nsubj](ru_taiga-dep-nsubj.html) – [nsubj:outer](ru_taiga-dep-nsubj-outer.html) – [nsubj:pass](ru_taiga-dep-nsubj-pass.html) – [nummod](ru_taiga-dep-nummod.html) – [nummod:gov](ru_taiga-dep-nummod-gov.html) – [obj](ru_taiga-dep-obj.html) – [obl](ru_taiga-dep-obl.html) – [obl:agent](ru_taiga-dep-obl-agent.html) – [obl:depict](ru_taiga-dep-obl-depict.html) – [obl:float](ru_taiga-dep-obl-float.html) – [obl:pronmod](ru_taiga-dep-obl-pronmod.html) – [obl:tmod](ru_taiga-dep-obl-tmod.html) – [orphan](ru_taiga-dep-orphan.html) – [parataxis](ru_taiga-dep-parataxis.html) – [parataxis:discourse](ru_taiga-dep-parataxis-discourse.html) – [punct](ru_taiga-dep-punct.html) – [reparandum](ru_taiga-dep-reparandum.html) – [root](ru_taiga-dep-root.html) – [vocative](ru_taiga-dep-vocative.html) – [xcomp](ru_taiga-dep-xcomp.html)
+[acl](ru_taiga-dep-acl.html) – [acl:relcl](ru_taiga-dep-acl-relcl.html) – [advcl](ru_taiga-dep-advcl.html) – [advmod](ru_taiga-dep-advmod.html) – [amod](ru_taiga-dep-amod.html) – [appos](ru_taiga-dep-appos.html) – [aux](ru_taiga-dep-aux.html) – [aux:pass](ru_taiga-dep-aux-pass.html) – [case](ru_taiga-dep-case.html) – [cc](ru_taiga-dep-cc.html) – [ccomp](ru_taiga-dep-ccomp.html) – [compound](ru_taiga-dep-compound.html) – [conj](ru_taiga-dep-conj.html) – [cop](ru_taiga-dep-cop.html) – [csubj](ru_taiga-dep-csubj.html) – [csubj:outer](ru_taiga-dep-csubj-outer.html) – [csubj:pass](ru_taiga-dep-csubj-pass.html) – [dep](ru_taiga-dep-dep.html) – [det](ru_taiga-dep-det.html) – [discourse](ru_taiga-dep-discourse.html) – [dislocated](ru_taiga-dep-dislocated.html) – [expl](ru_taiga-dep-expl.html) – [fixed](ru_taiga-dep-fixed.html) – [flat](ru_taiga-dep-flat.html) – [flat:foreign](ru_taiga-dep-flat-foreign.html) – [flat:goeswith](ru_taiga-dep-flat-goeswith.html) – [flat:name](ru_taiga-dep-flat-name.html) – [goeswith](ru_taiga-dep-goeswith.html) – [iobj](ru_taiga-dep-iobj.html) – [list](ru_taiga-dep-list.html) – [mark](ru_taiga-dep-mark.html) – [nmod](ru_taiga-dep-nmod.html) – [nmod:float](ru_taiga-dep-nmod-float.html) – [nmod:pronmod](ru_taiga-dep-nmod-pronmod.html) – [nsubj](ru_taiga-dep-nsubj.html) – [nsubj:outer](ru_taiga-dep-nsubj-outer.html) – [nsubj:pass](ru_taiga-dep-nsubj-pass.html) – [nummod](ru_taiga-dep-nummod.html) – [nummod:gov](ru_taiga-dep-nummod-gov.html) – [obj](ru_taiga-dep-obj.html) – [obl](ru_taiga-dep-obl.html) – [obl:agent](ru_taiga-dep-obl-agent.html) – [obl:depict](ru_taiga-dep-obl-depict.html) – [obl:float](ru_taiga-dep-obl-float.html) – [obl:tmod](ru_taiga-dep-obl-tmod.html) – [orphan](ru_taiga-dep-orphan.html) – [parataxis](ru_taiga-dep-parataxis.html) – [parataxis:discourse](ru_taiga-dep-parataxis-discourse.html) – [punct](ru_taiga-dep-punct.html) – [reparandum](ru_taiga-dep-reparandum.html) – [root](ru_taiga-dep-root.html) – [vocative](ru_taiga-dep-vocative.html) – [xcomp](ru_taiga-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -115,7 +115,7 @@ Text collections for evaluation of Russian morphological taggers. Jazykovedny Ca
 </ul>
 
 <ul>
-<li>This corpus contains 214 word types tagged as particles (PART): -таки, Ай, Але, Ать, Во-о-от, Воот, Вуаля, Д, Д-да, Да-а, Даа, Давай, Давайте, Ещё, Идааа, Ле, Мерси, Мож, Н-нет, Не-а, Не-ет, Неееее, Неужель, Неужли, Нешто, Никак, Ничего, Ну-с, О., Пожалоста, Пожалуйстаааа, Полноте, Профто, Спасиииибо, Т-а-а-к, Только-то, Ужо, ХАЙ, Ч-е-е-го, Чего-о, Эдак, Эк, Эка, а, авось, ага, аж, ажжжж, аль, ар, ась, б, бишь, бо, буд, будто, бы, было, ван, ведь, верно, вишь, во, во-он, вон, вот, вроде, все, все-таки, всего, всеж, всеже, всё, всё-таки, глядь, да, даааа, даже, дай, дак, де, делла, дель, дер, дескать, ди, дю, е, еле, еще, ж, же, жеш, жи, зато, здорово, здрасте, и, ибн, именно, ишь, ка, ка-а-а-ак, кабы, как, как-никак, кась, ко, кое, конечно, конешно, кось, ла, ладно, ли, либо, лии, лиш, лишь, ль, мб, можно, мол, н-не, на, нате, не, не-е-е-т, небось, неее, нет, нето, неужели, неужто, ни, ни-ни, нибудь, норм, нп, ну, ну-ка, о, от, пж, пжж, плз, подалуйста, поди, пожалуйста, пожалуйстааа, пожалюйста, посквй, прост, просто, прям, прямо, пускай, пусть, пущай, разве, ровно, с, се, себе, словно, сорри, спасибо, спасибочки, су, супер, таже, так, так-таки, также, таки, там, те, тже, ти-по, тип, типа, типо, тко, то, то-то, тово, того, тоже, ток, тока, токмо, только, только-только, точно, уж, уже, ужели, ужель, ужли, фон, хорошо, хоть, хотя, че, чето, что, что-ли, что-то, чуть, ь, эль, эн, это, якобы</li>
+<li>This corpus contains 214 word types tagged as particles (PART): -таки, Ай, Але, Ать, Во-о-от, Воот, Вуаля, Д, Д-да, Да-а, Даа, Давай, Давайте, Ещё, Идааа, Ле, Мерси, Мож, Н-нет, Не-а, Не-ет, Неееее, Неужель, Неужли, Нешто, Никак, Ничего, Ну-с, О., ПЛЗ, Пожалоста, Пожалуйстаааа, Полноте, Профто, Спасиииибо, Т-а-а-к, Только-то, Ужо, ХАЙ, Ч-е-е-го, Чего-о, Эдак, Эк, Эка, а, авось, ага, аж, ажжжж, аль, ар, ась, б, бишь, бо, буд, будто, бы, было, ван, ведь, верно, вишь, во, во-он, вон, вот, вроде, все, все-таки, всего, всеж, всеже, всё, всё-таки, глядь, да, даааа, даже, дай, дак, де, делла, дель, дер, дескать, ди, дю, е, еле, еще, ж, же, жеш, жи, зато, здорово, здрасте, и, ибн, именно, ишь, ка, ка-а-а-ак, кабы, как, как-никак, кась, ко, кое, конечно, конешно, кось, ла, ладно, ли, либо, лии, лиш, лишь, ль, мб, можно, мол, н-не, на, нате, не, не-е-е-т, небось, неее, нет, нето, неужели, неужто, ни, ни-ни, нибудь, норм, нп, ну, ну-ка, о, от, пж, пжж, подалуйста, поди, пожалуйста, пожалуйстааа, пожалюйста, посквй, прост, просто, прям, прямо, пускай, пусть, пущай, разве, ровно, с, се, себе, словно, сорри, спасибо, спасибочки, су, супер, таже, так, так-таки, также, таки, там, те, тже, ти-по, тип, типа, типо, тко, то, то-то, тово, того, тоже, ток, тока, токмо, только, только-только, точно, уж, уже, ужели, ужель, ужли, фон, хорошо, хоть, хотя, че, чето, что, что-ли, что-то, чуть, ь, эль, эн, это, якобы</li>
 </ul>
 
 <ul>
@@ -860,12 +860,12 @@ Text collections for evaluation of Russian morphological taggers. Jazykovedny Ca
           <li>INTJ: пздц</li>
           <li>NOUN: в., г., гг., э., вв., с., т., тыс., ч., см</li>
           <li>NUM: неск, неск.</li>
-          <li>PART: пж, плз, мб, пжж</li>
+          <li>PART: пж, ПЛЗ, мб, пжж</li>
           <li>PRON: т., пр., др., чего-л.</li>
           <li>PROPN: А., В., И., Н., М., С., П., Ф., Г., К.</li>
           <li>SCONJ: тк, к.</li>
           <li>VERB: см., е., ср., е, и., н., нрав, см, созд, ум.</li>
-          <li>X: P., С, хз, s., с., s, Соп., ТТГ, Ы., п.</li>
+          <li>X: С, хз, с., Соп., ТТГ, Ы., п., P.P.S., P.S., ВТА</li>
         </ul>
       </li>
     </ul>
@@ -1019,14 +1019,9 @@ Text collections for evaluation of Russian morphological taggers. Jazykovedny Ca
     <ul>
       <li>Yes
         <ul>
-          <li>ADJ: романтик, стронг</li>
-          <li>ADV: мах</li>
-          <li>INTJ: Хэллоу</li>
-          <li>NOUN: блю, дор, А, U, f, r, Ремо, С, ая, е</li>
-          <li>PART: де, ван, да, фон, Ле, дер, делла, дю, эль, ди</li>
-          <li>PROPN: джо, PS4, М, Эль, тикетс, EF1057, F, G, NS3FB, Алегре</li>
+          <li>PART: де, ван, да, фон, Ле, дер, делла, эль, дю, ди</li>
           <li>VERB: МАНДРУЕ</li>
-          <li>X: mademoiselle, maman, m-lle, RT, mesdames, a, b, picture, i, la</li>
+          <li>X: mademoiselle, maman, m-lle, RT, mesdames, a, b, picture, а, i</li>
         </ul>
       </li>
     </ul>
@@ -1067,7 +1062,7 @@ Text collections for evaluation of Russian morphological taggers. Jazykovedny Ca
       </li>
       <li>Oth
         <ul>
-          <li>PROPN: Возрождения, Просвещения, Ренессанса, E, Возрождение, М, Стереолето, Хаджи-Мухаммед, инете, 0А</li>
+          <li>PROPN: Возрождения, Просвещения, Ренессанса, E, Возрождение, Стереолето, Хаджи-Мухаммед, инете, 0А, А</li>
         </ul>
       </li>
       <li>Pat
@@ -1200,7 +1195,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Acc-ADP(под) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(с) (1)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(по) (5)</li>
-      <li>VERB-Fin--NOUN-Gen (1594)</li>
+      <li>VERB-Fin--NOUN-Gen (1596)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(во) (1)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(до) (4)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(около) (26)</li>
@@ -1263,13 +1258,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--PRON-Ins (7)</li>
       <li>VERB-Conv--PRON-Nom (17)</li>
       <li>VERB-Fin--NOUN (52)</li>
-      <li>VERB-Fin--NOUN-Acc (25512)</li>
+      <li>VERB-Fin--NOUN-Acc (25513)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(в) (2)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(из) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(к) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(как) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(на) (1)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(от) (2)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(от) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(по) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(ради) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(типа) (1)</li>
@@ -1404,6 +1399,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 16 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>csubj:outer</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>flat:goeswith</a>, <a>flat:name</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:depict</a>, <a>obl:float</a>, <a>obl:pronmod</a>, <a>obl:tmod</a>, <a>parataxis:discourse</a></li>
+<li>This corpus uses 17 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>csubj:outer</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>flat:goeswith</a>, <a>flat:name</a>, <a>nmod:float</a>, <a>nmod:pronmod</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:depict</a>, <a>obl:float</a>, <a>obl:tmod</a>, <a>parataxis:discourse</a></li>
 <li>The following 1 relation types are not used in this corpus at all: <a>clf</a></li>
 </ul>

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-65 nodes (0%) are attached to their parents as `cc`.
+88 nodes (0%) are attached to their parents as `cc`.
 
-44 instances of `cc` (68%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.47692307692308.
+66 instances of `cc` (75%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.375.
 
-The following 3 pairs of parts of speech are connected with `cc`: <tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="egy_pc-pos-CCONJ.html">CCONJ</a></tt> (34; 52% instances), <tt><a href="egy_pc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="egy_pc-pos-CCONJ.html">CCONJ</a></tt> (28; 43% instances), <tt><a href="egy_pc-pos-VERB.html">VERB</a></tt>-<tt><a href="egy_pc-pos-CCONJ.html">CCONJ</a></tt> (3; 5% instances).
+The following 4 pairs of parts of speech are connected with `cc`: <tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="egy_pc-pos-CCONJ.html">CCONJ</a></tt> (44; 50% instances), <tt><a href="egy_pc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="egy_pc-pos-CCONJ.html">CCONJ</a></tt> (38; 43% instances), <tt><a href="egy_pc-pos-VERB.html">VERB</a></tt>-<tt><a href="egy_pc-pos-CCONJ.html">CCONJ</a></tt> (5; 6% instances), <tt><a href="egy_pc-pos-PRON.html">PRON</a></tt>-<tt><a href="egy_pc-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -22,8 +22,8 @@ The following 3 pairs of parts of speech are connected with `cc`: <tt><a href="e
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 cc	color:blue
-1	sꞽ	sꞽ	VERB	_	Aspect=Perf|Conjug=Suffix|Mood=Ind|Tense=Past|VerbClass=2lit|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓊄|ID=127740
-2	sꞽ	sꞽ	VERB	_	Gender=Masc|Nominal=Yes|Number=Sing|Tense=Past|VerbClass=2lit|VerbForm=Part|Voice=Act	1	nsubj	_	Hiero=𓊄|ID=127740
+1	sꞽ	sꞽ	VERB	_	Conjug=Suffix|Mood=Ind|SubForm=No|Tense=Past|VerbClass=2lit|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓊄|ID=127740|Trans=No
+2	sꞽ	sꞽ	VERB	_	Gender=Masc|Nominal=Yes|Number=Sing|Tense=Past|VerbClass=2lit|VerbForm=Part|Voice=Act	1	nsubj	_	Hiero=𓊄|ID=127740|Trans=No
 3	ḥnꜥ	ḥnꜥ	CCONJ	_	StatPrep=Cons	4	cc	_	Hiero=𓎛(𓈖:𓂝)|ID=550300
 4	kꜣ	kꜣ	NOUN	_	Gender=Masc|Number=Sing	2	conj	_	Hiero=𓂓|ID=162870
 5	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronClass=Suffix|PronType=Prs	4	nmod	_	Hiero=𓆑|ID=10050
@@ -37,7 +37,7 @@ The following 3 pairs of parts of speech are connected with `cc`: <tt><a href="e
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 10 cc	color:blue
-1	ꞽw.n	ꞽwi̯	VERB	_	Conjug=Suffix|Mood=Ind|SubForm=AbstRel|Tense=Past|VerbClass=Anom|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓇋𓂻𓅱𓈖|Hierocl=𓂻|ID=21930
+1	ꞽw.n	ꞽwi̯	VERB	_	Conjug=Suffix|Mood=Ind|SubForm=AbstRel|Tense=Past|VerbClass=Anom|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓇋𓂻𓅱𓈖|Hierocl=𓂻|ID=21930|Trans=No
 2	⸗śn	śn	PRON	_	Gender=Com|Number=Plur|Person=3|PronClass=Suffix|PronType=Prs	1	nsubj	_	Hiero=𓋴𓈖|ID=10100
 3	n	n	ADP	_	Case=Lat|StatPrep=Cons	4	case	_	Hiero=𓈖|ID=78873
 4	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc|NameType=God	1	obl	_	Hiero=(𓊨:𓁹)|ID=49460
@@ -59,10 +59,10 @@ The following 3 pairs of parts of speech are connected with `cc`: <tt><a href="e
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 cc	color:blue
-1	ḥmś	ḥmśi̯	VERB	_	Conjug=Suffix|Mood=Sub|VerbClass=4aeinf|VerbForm=Fin	0	root	_	Hiero=𓈟𓋴|ID=105780
+1	ḥmś	ḥmśi̯	VERB	_	Conjug=Suffix|Mood=Sub|SubForm=No|VerbClass=4aeinf|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓈟𓋴|ID=105780|Trans=No
 2	Wnꞽś	Wnꞽś	PROPN	_	Gender=Masc|NameType=King	1	nsubj	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺|ID=800001
 3	ḥnꜥ	ḥnꜥ	CCONJ	_	StatPrep=Cons	4	cc	_	Hiero=𓎛(𓈖:𓂝)|ID=550300
-4	ẖnn.w	ẖni̯	VERB	_	Gender=Masc|Nominal=Yes|Number=Plur|Tense=Pres|VerbClass=3aeinf|VerbForm=Part|Voice=Act	2	conj	_	Hiero=𓂙(𓈖:𓈖)𓏌𓅱|ID=123230
+4	ẖnn.w	ẖni̯	VERB	_	Gender=Masc|Nominal=Yes|Number=Plur|Tense=Pres|VerbClass=3aeinf|VerbForm=Part|Voice=Act	2	conj	_	Hiero=𓂙(𓈖:𓈖)𓏌𓅱|ID=123230|Trans=Yes
 5	Rꜥw	Rꜥw	PROPN	_	Gender=Masc|NameType=God	4	nmod	_	Hiero=𓇳|ID=400015
 
 ~~~

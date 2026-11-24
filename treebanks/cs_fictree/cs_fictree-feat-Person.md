@@ -18,7 +18,7 @@ The feature is used with 4 part-of-speech tags: <tt><a href="cs_fictree-pos-VERB
 
 6800 <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> tokens (28% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (6800; 100%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6800; 100%), <tt><a href="cs_fictree-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (6800; 100%), <tt><a href="cs_fictree-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (6323; 93%), <tt><a href="cs_fictree-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (6323; 93%), <tt><a href="cs_fictree-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (6280; 92%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (5766; 85%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5300; 78%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (6800; 100%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6800; 100%), <tt><a href="cs_fictree-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (6800; 100%), <tt><a href="cs_fictree-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (6323; 93%), <tt><a href="cs_fictree-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (6323; 93%), <tt><a href="cs_fictree-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (6280; 92%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (5766; 85%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5300; 78%), <tt><a href="cs_fictree-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (4789; 70%).
 
 `VERB` tokens may have the following values of `Person`:
 
@@ -94,7 +94,7 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 * `1` (550; 39% of non-empty `Person`): <em>moje, můj, naše, mého, náš, mé, mých, mým, mojí, moji</em>
 * `2` (138; 10% of non-empty `Person`): <em>vaše, tvůj, tvoje, tvé, váš, vaší, tvou, tvá, tvojí, tvého</em>
 * `3` (708; 51% of non-empty `Person`): <em>jeho, její, jejich, jejím, jejího, jejích, jehož, jejímu, jejichž, jejíž</em>
-* `EMPTY` (7039): <em>to, který, ten, které, která, tom, všechno, toho, své, tím</em>
+* `EMPTY` (7035): <em>to, který, ten, které, která, tom, všechno, toho, své, tím</em>
 
 ## Relations with Agreement in `Person`
 

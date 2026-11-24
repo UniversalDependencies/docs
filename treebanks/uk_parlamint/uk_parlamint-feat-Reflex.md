@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-2120 tokens (2%) have a non-empty value of `Reflex`.
+2117 tokens (2%) have a non-empty value of `Reflex`.
 847 types (6%) occur at least once with a non-empty value of `Reflex`.
 418 lemmas (6%) occur at least once with a non-empty value of `Reflex`.
-The feature is used with 3 part-of-speech tags: <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt> (1815; 2% instances), <tt><a href="uk_parlamint-pos-DET.html">DET</a></tt> (231; 0% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (74; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt> (1815; 2% instances), <tt><a href="uk_parlamint-pos-DET.html">DET</a></tt> (231; 0% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (71; 0% instances).
 
 ### `VERB`
 
@@ -36,18 +36,18 @@ The most frequent other feature values with which `DET` and `Reflex` co-occurred
 `DET` tokens may have the following values of `Reflex`:
 
 * `Yes` (231; 100% of non-empty `Reflex`): <em>свої, свою, своїх, свого, своє, своєму, свій, своїми, своїй, своєї</em>
-* `EMPTY` (4038): <em>які, цього, який, всі, цей, яка, всіх, цю, ці, це</em>
+* `EMPTY` (4039): <em>які, цього, який, всі, цей, яка, всіх, цю, ці, це</em>
 
 ### `PRON`
 
-74 <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Reflex`.
+71 <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="uk_parlamint-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (74; 100%), <tt><a href="uk_parlamint-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (74; 100%), <tt><a href="uk_parlamint-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (74; 100%), <tt><a href="uk_parlamint-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (74; 100%), <tt><a href="uk_parlamint-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (74; 100%).
+The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="uk_parlamint-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (71; 100%), <tt><a href="uk_parlamint-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (71; 100%), <tt><a href="uk_parlamint-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (71; 100%), <tt><a href="uk_parlamint-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (71; 100%), <tt><a href="uk_parlamint-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (71; 100%).
 
 `PRON` tokens may have the following values of `Reflex`:
 
-* `Yes` (74; 100% of non-empty `Reflex`): <em>себе, собі, собою</em>
-* `EMPTY` (5935): <em>ми, я, це, ви, нас, того, вони, те, що, вас</em>
+* `Yes` (71; 100% of non-empty `Reflex`): <em>себе, собі, собою</em>
+* `EMPTY` (5936): <em>ми, я, це, ви, нас, того, вони, те, що, вас</em>
 
 ## Relations with Agreement in `Reflex`
 

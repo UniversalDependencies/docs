@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="pay_chibergis-dep-compound.html">compound</a></tt>.
 There are also 1 other language-specific subtypes of `compound`: <tt><a href="pay_chibergis-dep-compound-lvc.html">compound:lvc</a></tt>.
 
-80 nodes (2%) are attached to their parents as `compound:svc`.
+81 nodes (2%) are attached to their parents as `compound:svc`.
 
-79 instances of `compound:svc` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.05.
+80 instances of `compound:svc` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.04938271604938.
 
-The following 4 pairs of parts of speech are connected with `compound:svc`: <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (77; 96% instances), <tt><a href="pay_chibergis-pos-AUX.html">AUX</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-X.html">X</a></tt> (1; 1% instances).
+The following 5 pairs of parts of speech are connected with `compound:svc`: <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (77; 95% instances), <tt><a href="pay_chibergis-pos-AUX.html">AUX</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-X.html">X</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

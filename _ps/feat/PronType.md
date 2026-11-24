@@ -11,7 +11,6 @@ udver: '2'
   <td><a href="#Prs">Prs</a></td>
   <td><a href="#Dem">Dem</a></td>
   <td><a href="#Int">Int</a></td>
-  <td><a href="#Rel">Rel</a></td>
   <td><a href="#Rcp">Rcp</a></td>
   <td><a href="#Ind">Ind</a></td>
   <td><a href="#Tot">Tot</a></td>
@@ -25,7 +24,9 @@ Following eight values of pronoun types are used in Pashto:
 
 ### <a name="Prs">`Prs`</a>: personal
 
-Personal pronouns for the first and the second person and reflexive personal pronouns:
+**Personal pronouns for the first and the second person and reflexive personal pronouns**:
+
+#### Examples
 
 <table class="typeindex" border="1">
 <tr>
@@ -72,30 +73,15 @@ Personal pronouns for the first and the second person and reflexive personal pro
   <td align="middle" style="background-color:lightblue">ځانه żấna</td>
   <td align="middle" style="background-color:yellow"></td>
 </tr>
-<tr>
-  <td align="left"><b>Genitive</b></td>
-  <td align="middle">زما zmâ</td>
-  <td align="middle">زموږ zmuǧ<br/>زمونږ zmunǧ</td>
-  <td align="middle">ستا stâ</td>
-  <td align="middle">ستاسو stấso<br/>ستاسې stấse</td>
-  <td align="middle">(خپل xpël) **</td>
-  <td align="middle">⇐</td>
-</tr>
 </table>
 
-** Instead of a genitive form of the reflexive pronouns ځان <i>żân</i> / ځانونه <i>żânúna</i>, the reflexive possessive خپل <i>xpël</i> is used, which declines like common adjectives in agreement with the possessed object.
-
-The reflexive pronouns ځان _żân_ and ځانونه _żânúna_ are used for refering to the subject regardless of the person (i.e. it is used for all three persons).
-
-Instead of the genitive forms, the preposition د <i>dë</i> followed by the oblique case can be used, although the genitive forms are more frequent.
-The genitive forms have actually developed from the prepositional construction.
-
-#### Examples
-
+NOTE: The reflexive pronouns ځان _żân_ and ځانونه _żânúna_ are used for refering to the subject regardless of the person (i.e. it is used for all three persons).
 
 ------------
 
-Personal pronouns for the third person vary depending on deixis:
+**Personal pronouns for the third person** vary depending on deixis: 
+
+#### Examples
 
 <table class="typeindex" border="1">
 <tr>
@@ -159,31 +145,72 @@ Personal pronouns for the third person vary depending on deixis:
   <td align="middle" style="background-color:pink">دې de</td>
   <td align="middle" style="background-color:yellow"></td>
 </tr>
-<tr>
-  <td align="left"><b>Genitive</b></td>
-  <td align="middle"></td>
-  <td align="middle"></td>
-  <td align="middle"></td>
-  <td align="middle"></td>
-  <td align="middle"></td>
-  <td align="middle">ددۀ dadë́</td>
-  <td align="middle">ددې dëdé</td>
-  <td align="middle">ددوی dëdúy</td>
-</tr>
 </table>
-Unlike for the first and the second person, the genitive forms are less frequent than the construction with the preposition د <i>dë</i> followed by the oblique case.
-The remote series lacks separate genitive forms at all, using only the prepositional construction for expressing possession.
 
-Unlike demonstrative pronouns, the personal third person pronouns lack the long variant of proximate series (see below).
-The remote series is stressed on the second syllable, not on the first one like its demonstrative counterpart.
-
-#### Examples
+NOTES:
+* Unlike demonstrative pronouns, the personal third person pronouns lack the long variant of the proximate series (see below).
+* The remote series is stressed on the second syllable, not on the first one like its demonstrative counterpart.
 
 
 ------------
 
-Weak personal pronouns are used as unstressed predicate arguments or unstressed possessive pronouns.
+**Possessive personal pronouns** for the first and the second person are multi-word tokens consisting of the oblique case of the pronoun preceded by the preposition د _dë_ “of”, which has undergone a phonological change. Separate use of the separate original preposition
+with the oblique case is possible, but rare or dialectal.
+
+For the third person, the variant with the separated preposition is more frequent, although it is possible to express the possession also with
+the multi-word token with little or no phonological change.
+The remote series lacks separate genitive forms at all, using only the prepositional construction for expressing possession.
+
+The possessive counterpart of the both reflexive pronouns is the determiner **خپل _xpël_** which declines like common adjectives in agreement with the possessed object. Only this pronoun bears the `Poss=Yes` feature (alongside with the weak pronouns in the possessive meaning - see below or [Poss]())
+
+#### Examples
+
+<table class="typeindex" border="1">
+<tr>
+  <td align="middle"></td>
+  <td align="middle"><b>SG</b></td>
+  <td align="middle"><b>PL</b></td>
+</tr>
+<tr>
+  <td align="middle">
+    <b>1</b>
+  </td>
+  <td align="middle">زما zmâ</td>
+  <td align="middle">زموږ zmuǧ<br/>زمونږ zmunǧ</td>
+</tr>
+<tr>
+  <td align="middle">
+    <b>2</b>
+  </td>
+  <td align="middle">ستا stâ</td>
+  <td align="middle">ستاسو stấso<br/>ستاسې stấse</td>
+</tr>
+<tr>
+  <td align="middle">
+    <b>3 M</b>
+  </td>
+  <td align="middle">ددۀ dadë́</td>
+  <td align="middle" style="background-color:lightgray">ددوی dëdúy</td>
+</tr>
+<tr>
+  <td align="middle">
+    <b>3 F</b>
+  </td>
+  <td align="middle">ددې dëdé</td>
+  <td align="middle" style="background-color:lightgray"></td>
+</tr>
+</table>
+
+
+------------
+
+**Weak personal pronouns** are used as unstressed predicate arguments or unstressed possessive pronouns.
 They are also used in contracted forms (which are separeted in UD annotation) with several prepositions.
+When used in the possessive meaning, they are marked with `Poss=Yes` feature (see also [Poss]().
+The weak pronouns bear the special `Variant=Weak` feature (see [Variant]()).
+
+#### Examples
+
 <table class="typeindex" border="1">
 <tr>
   <td align="middle"></td>
@@ -207,13 +234,12 @@ They are also used in contracted forms (which are separeted in UD annotation) wi
 </tr>
 </table>
 
-#### Examples
-
 
 ------------
 
-Directional personal pronouns are used in contracted forms (which are separeted in UD annotation) with several postpositions.
-They are also used as prefixes of many motion verbs, where they express the direction of the motion (but in those cases they are not annotated at all).
+**Directional personal pronouns** are used in two multi-word tokens, wither with several postpositions or as prefixes of many motion verbs, where they express the direction of the motion. They are marked with `Variant=Dir` feature (see [Variant]()).
+
+#### Examples
 
 <table class="typeindex" border="1">
 <tr>
@@ -230,14 +256,22 @@ They are also used as prefixes of many motion verbs, where they express the dire
 </tr>
 </table>
 
-#### Examples
 
 ### <a name="Dem">`Dem`</a>: demonstrative
 
 The demonstrative pronouns distinguish the deixis, like the third person personal pronouns.
 However, there are two series of proximate pronouns: long and short.
 The short one is the obvious counterpart of the personal series, while the long series is unique to demonstrative pronouns.
-The long proximate pronouns bear the feature `Variant=Long`.
+The long proximate pronouns bear the feature `Variant=Long` (see [Variant]()).
+
+The prefix -همـ _ham-_ provides the meaning of identity “same”.
+
+The suffix ـسې- _-se_ provides the meaning of comparison “like this/these/that/those”.
+It can be combined also with the prefix -همـ _ham-_ “same”.
+These forms are indeclinable.
+
+
+#### Examples
 
 <table class="typeindex" border="1">
 <tr>
@@ -327,9 +361,7 @@ The long proximate pronouns bear the feature `Variant=Long`.
 </tr>
 </table>
 
-The remote series is stressed on the first syllable, not on the second one like its demonstrative counterpart.
-
-The prefix -همـ _ham-_ provides the meaning of identity “same”:
+NOTE: The remote series is stressed on the first syllable, not on the second one like its demonstrative counterpart.
 
 <table class="typeindex" border="1">
 <tr>
@@ -419,9 +451,6 @@ The prefix -همـ _ham-_ provides the meaning of identity “same”:
 </tr>
 </table>
 
-The suffix ـسې- _-se_ provides the meaning of comparison “like this/these/that/those”.
-It can be combined also with the prefix -همـ _ham-_ “same”.
-These forms are indeclinable.
 
 <table class="typeindex" border="1">
 <tr>
@@ -453,8 +482,6 @@ These forms are indeclinable.
   <td align="middle">همداسې hamdấse</td>
 </tr>
 </table>
-
-#### Examples
 
 
 ### <a name="Int">`Int`</a>: interrogative
@@ -503,17 +530,12 @@ It can mean also “any” in negative sentences (marked as indefinite - see bel
 * (f) **څۀ** رنګه کتاب په مېز دی؟ _**cë** ránga kitấb pë mez dëy?_ “What kind of book is on the table?” (= what is it like, asking about the quality)
 * (g) **کوم** کتاب په میز دی؟ _**kum** kitấb pë mez dëy?_ “Which book is on the table?” (= which one, asking about the identity)
 
-### <a name="Rel">`Rel`</a>: relative
-
-The only relative pronoun in Pashto is indeclinable چې <i>če</i> “that”, “which”, “who” etc.
-
-#### Examples
-
 ### <a name="Rcp">`Rcp`</a>: reciprocal
 
-The only reciprocal pronoun in Pashto is indeclinable یوبل <i>yë́wbël</i> “each other”.
-
 #### Examples
+
+* (a) یوبل <i>yë́wbël</i> “each other” (indeclinable)
+
 
 ### <a name="Ind">`Ind`</a>: indefinite
 
@@ -621,4 +643,4 @@ The determiner هیڅ _hic_ “no” is used only in singular.
 
 
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:14 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:00 CET -->

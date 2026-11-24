@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  बा (<tt><a href="bho_bhtb-pos-AUX.htm
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 1.090615 (the average of all parts of speech is 1.035079).
+The form / lemma ratio of `VERB` is 1.090615 (the average of all parts of speech is 1.035097).
 
 The 1st highest number of forms (11) was observed with the lemma “कर”: क, कइल, कइला, कइलीं, कइले, कर, करके, करी, करीं, करे, किया.
 

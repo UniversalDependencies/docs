@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-762 nodes (0%) are attached to their parents as `ccomp`.
+773 nodes (0%) are attached to their parents as `ccomp`.
 
-762 instances of `ccomp` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 14.8293963254593.
+772 instances of `ccomp` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 14.7723156532988.
 
-The following 2 pairs of parts of speech are connected with `ccomp`: <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (759; 100% instances), <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (3; 0% instances).
+The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (767; 99% instances), <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -62,6 +62,33 @@ The following 2 pairs of parts of speech are connected with `ccomp`: <tt><a href
 16	श्रद्घांजलि	श्रद्घांजलि	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	17	obj	_	ChunkId=NP6|ChunkType=head|LTranslit=śradghāṁjali|Tam=0|Translit=śradghāṁjali|Vib=0
 17	देते	देना	VERB	VM	Gender=Masc|Mood=Sub|Number=Sing|Person=3|Polite=Form|VerbForm=Fin|Voice=Act	11	ccomp	_	ChunkId=VGF3|ChunkType=head|LTranslit=denā|Stype=declarative|Tam=eM|Translit=dete|Vib=एं
 18	।	।	PUNCT	SYM	_	7	punct	_	ChunkId=BLK|ChunkType=head|LTranslit=.|Translit=.
+
+~~~
+
+
+~~~ conllu
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 15 ccomp	color:blue
+1	हमें	हम	PRON	PRP	Case=Acc,Dat|Number=Plur|Person=1|PronType=Prs	2	iobj	_	ChunkId=NP|ChunkType=head|LTranslit=hama|Tam=ko|Translit=hameṁ|Vib=को
+2	मालूम	मालूम	ADJ	JJ	_	0	root	_	ChunkId=JJP|ChunkType=head|LTranslit=mālūma|Translit=mālūma
+3	है	है	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	ChunkId=VGF|ChunkType=head|LTranslit=hai|Stype=declarative|Tam=hE|Translit=hai|Vib=है
+4	कि	कि	SCONJ	CC	_	15	mark	_	AltTag=SCONJ-CONJ|ChunkId=CCP|ChunkType=head|LTranslit=ki|Translit=ki
+5	लोग	लोग	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	10	nsubj	_	ChunkId=NP2|ChunkType=head|LTranslit=loga|Tam=0|Translit=loga|Vib=0
+6	इस	यह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	7	det	_	ChunkId=NP3|ChunkType=child|LTranslit=yaha|Translit=isa
+7	नदी	नदी	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	10	obl	_	ChunkId=NP3|ChunkType=head|LTranslit=nadī|Tam=0|Translit=nadī|Vib=0_में
+8	में	में	ADP	PSP	AdpType=Post	7	case	_	ChunkId=NP3|ChunkType=child|LTranslit=meṁ|Translit=meṁ
+9	डुबकी	डुबकी	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	10	obj	_	ChunkId=NP4|ChunkType=head|LTranslit=ḍubakī|Tam=0|Translit=ḍubakī|Vib=0
+10	लगा	लगाना	VERB	VM	_	15	advcl	_	ChunkId=VGNF|ChunkType=head|LTranslit=lagānā|Tam=0|Translit=lagā|Vib=0_कर
+11	कर	करना	AUX	VAUX	_	10	aux	_	ChunkId=VGNF|ChunkType=child|LTranslit=karanā|Tam=0|Translit=kara|Vib=0
+12	खुद	खुद	PRON	PRP	Case=Acc|PronType=Prs	15	nsubj	_	ChunkId=NP5|ChunkType=head|LTranslit=khuda|Translit=khuda|Vib=0_को
+13	को	को	ADP	PSP	AdpType=Post	12	case	_	ChunkId=NP5|ChunkType=child|LTranslit=ko|Translit=ko
+14	धन्य	धन्य	ADJ	JJ	_	15	compound	_	ChunkId=JJP2|ChunkType=head|LTranslit=dhanya|Translit=dhanya
+15	समझते	समझना	VERB	VM	Aspect=Imp|Gender=Masc|Number=Plur|Person=3|VerbForm=Part|Voice=Act	2	ccomp	_	ChunkId=VGF2|ChunkType=head|LTranslit=samajhanā|Stype=declarative|Tam=wA|Translit=samajhate|Vib=ता_है
+16	हैं	है	AUX	VAUX	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	ChunkId=VGF2|ChunkType=child|LTranslit=hai|Tam=hE|Translit=haiṁ|Vib=है
+17	।	।	PUNCT	SYM	_	2	punct	_	ChunkId=BLK|ChunkType=head|LTranslit=.|Translit=.
 
 ~~~
 

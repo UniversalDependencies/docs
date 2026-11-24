@@ -8,41 +8,28 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="es_gsd-dep-csubj.html">csubj</a></tt>.
 
-8 nodes (0%) are attached to their parents as `csubj:pass`.
+11 nodes (0%) are attached to their parents as `csubj:pass`.
 
-7 instances of `csubj:pass` (88%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.5.
+10 instances of `csubj:pass` (91%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.27272727272727.
 
-The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (7; 88% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (1; 13% instances).
+The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (10; 91% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (1; 9% instances).
 
 
 ~~~ conllu
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 17 csubj:pass	color:blue
-1	En	en	ADP	_	ExtPos=ADP	5	case	_	_
-2	cuanto	cuanto	ADV	_	_	1	fixed	_	_
-3	a	a	ADP	_	_	1	fixed	_	_
-4	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
-5	yázigas	yáziga	NOUN	_	Number=Plur	11	obl	_	SpaceAfter=No
-6	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
-7	como	como	ADP	_	_	9	case	_	_
-8	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
-9	kumanos	kumano	NOUN	_	Gender=Masc|Number=Plur	5	nmod	_	SpaceAfter=No
-10	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
-11	hace	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-12	aproximadamente	aproximadamente	ADV	_	_	11	advmod	_	_
-13	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
-14	siglo	siglo	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	_
-15	que	que	SCONJ	_	_	17	mark	_	_
-16	están	estar	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	aux:pass	_	_
-17	aculturados	aculturar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	11	csubj:pass	_	_
-18	con	con	ADP	_	_	20	case	_	_
-19	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
-20	magiares	magiar	NOUN	_	Gender=Masc|Number=Plur	17	obl	_	SpaceAfter=No
-21	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 6 csubj:pass	color:blue
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	_
+2	probablemente	probablemente	ADV	_	_	3	advmod	_	_
+3	cazada	cazar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+4	donde	donde	ADV	_	PronType=Rel	6	advmod	_	_
+5	sea	ser	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	dep	_	_
+6	haya	haber	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	csubj:pass	_	_
+7	humanos	humano	NOUN	_	VerbForm=Inf	6	obj	_	SpaceAfter=No
+8	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
 
 ~~~
 
@@ -73,8 +60,8 @@ The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 18	,	,	PUNCT	_	PunctType=Comm	25	punct	_	_
 19	de	de	ADP	_	_	21	case	_	_
 20	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	21	det	_	_
-21	único	único	NOUN	_	Gender=Masc|Number=Sing	25	obl	_	_
-22	que	que	SCONJ	_	_	24	mark	_	_
+21	único	único	ADJ	_	Gender=Masc|Number=Sing	25	obl	_	_
+22	que	que	PRON	_	PronType=Rel	24	obj	_	_
 23	podrán	poder	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	24	aux	_	_
 24	opinar	opinar	VERB	_	VerbForm=Inf	21	acl:relcl	_	_
 25	es	ser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	parataxis	_	_

@@ -43,7 +43,7 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 7	fgColor:white
 # visual-style 7 6 nummod	color:blue
 1	Ciudades	ciudad	NOUN	NN	Gender=Fem|Number=Plur	4	nsubj	_	_
-2	como	como	ADP	IN	_	3	case	_	_
+2	como	como	SCONJ	IN	_	3	case	_	_
 3	Milán	Milán	PROPN	NNP	Number=Sing	1	nmod	_	_
 4	dependían	depender	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 5	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_

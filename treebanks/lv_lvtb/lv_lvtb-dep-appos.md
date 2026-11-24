@@ -39,20 +39,19 @@ The following 14 pairs of parts of speech are connected with `appos`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 4 appos	color:blue
-1	Mana	mana	DET	ps0fsnn	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	2	det	2:det	LvtbNodeId=a-d77-p16s1w1
-2	māte	māte	NOUN	ncfsn5	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	8:nsubj	LvtbNodeId=a-d77-p16s1w2|SpaceAfter=No
-3	,	,	PUNCT	zc	_	4	punct	4:punct	LvtbNodeId=a-d77-p16s1w3
-4	Annamare	Annamare	PROPN	npfsn5	Case=Nom|Gender=Fem|Number=Sing	2	appos	2:appos	LvtbNodeId=a-d77-p16s1w4|SpaceAfter=No
-5	,	,	PUNCT	zc	_	4	punct	4:punct	LvtbNodeId=a-d77-p16s1w5
-6	Mindaugam	Mindaugs	PROPN	npmsd1	Case=Dat|Gender=Masc|Number=Sing	8	obl	8:obl:dat	LvtbNodeId=a-d77-p16s1w6
-7	bija	būt	AUX	vcnisii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	8	cop	8:cop	LvtbNodeId=a-d77-p16s1w7
-8	pēdējā	pēdējais	ADJ	arfsnyp	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	0	root	0:root	LvtbNodeId=a-d77-p16s1w8|SpaceAfter=No
-9	.	.	PUNCT	zs	_	8	punct	8:punct	LvtbNodeId=a-d77-p16s1w9
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 7 appos	color:blue
+1	Tā	tā	DET	pd3fsnn	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	5	nsubj	5:nsubj	LvtbNodeId=a-s25-p8s8w1
+2	bija	būt	AUX	vcnisii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	5:cop	LvtbNodeId=a-s25-p8s8w2
+3	viņa	viņš	PRON	pp3msgn	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	5:nmod	LvtbNodeId=a-s25-p8s8w3
+4	mūža	mūžs	NOUN	ncmsg1	Case=Gen|Gender=Masc|Number=Sing	5	nmod	5:nmod:gen	LvtbNodeId=a-s25-p8s8w4
+5	mīlestība	mīlestība	NOUN	ncfsn4	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	LvtbNodeId=a-s25-p8s8w5|SpaceAfter=No
+6	,	,	PUNCT	zc	_	7	punct	7:punct	LvtbNodeId=a-s25-p8s8w6
+7	Sāra	Sāra	PROPN	npfsn4	Case=Nom|Gender=Fem|Number=Sing	5	appos	5:appos	LvtbNodeId=a-s25-p8s8w7|SpaceAfter=No
+8	.	.	PUNCT	zs	_	5	punct	5:punct	LvtbNodeId=a-s25-p8s8w8
 
 ~~~
 

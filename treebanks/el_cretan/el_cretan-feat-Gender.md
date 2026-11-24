@@ -43,7 +43,7 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 601 <tt><a href="el_cretan-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="el_cretan-feat-Number.html">Number</a></tt><tt>=Sing</tt> (430; 72%), <tt><a href="el_cretan-feat-Case.html">Case</a></tt><tt>=Acc</tt> (358; 60%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="el_cretan-feat-Number.html">Number</a></tt><tt>=Sing</tt> (431; 72%), <tt><a href="el_cretan-feat-Case.html">Case</a></tt><tt>=Acc</tt> (358; 60%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
@@ -193,10 +193,10 @@ The most frequent other feature values with which `INTJ` and `Gender` co-occurre
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="el_cretan-dep-det.html">det</a></tt>]--> DET</tt> (403; 98%),
+<tt>NOUN --[<tt><a href="el_cretan-dep-det.html">det</a></tt>]--> DET</tt> (404; 98%),
 <tt>PROPN --[<tt><a href="el_cretan-dep-det.html">det</a></tt>]--> DET</tt> (135; 99%),
 <tt>NOUN --[<tt><a href="el_cretan-dep-amod.html">amod</a></tt>]--> ADJ</tt> (39; 100%),
-<tt>ADJ --[<tt><a href="el_cretan-dep-det.html">det</a></tt>]--> DET</tt> (29; 100%),
+<tt>ADJ --[<tt><a href="el_cretan-dep-det.html">det</a></tt>]--> DET</tt> (28; 100%),
 <tt>NOUN --[<tt><a href="el_cretan-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (12; 92%),
 <tt>ADJ --[<tt><a href="el_cretan-dep-conj.html">conj</a></tt>]--> ADJ</tt> (9; 100%),
 <tt>PROPN --[<tt><a href="el_cretan-dep-compound.html">compound</a></tt>]--> NOUN</tt> (8; 100%),

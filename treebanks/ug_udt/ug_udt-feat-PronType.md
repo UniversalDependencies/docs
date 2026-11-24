@@ -9,25 +9,25 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Dem`, `Int`, `Prs`.
 
-2033 tokens (5%) have a non-empty value of `PronType`.
-60 types (0%) occur at least once with a non-empty value of `PronType`.
-21 lemmas (1%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> (1950; 5% instances), <tt><a href="ug_udt-pos-ADV.html">ADV</a></tt> (48; 0% instances), <tt><a href="ug_udt-pos-DET.html">DET</a></tt> (35; 0% instances).
+2216 tokens (6%) have a non-empty value of `PronType`.
+82 types (1%) occur at least once with a non-empty value of `PronType`.
+23 lemmas (1%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 3 part-of-speech tags: <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> (2133; 5% instances), <tt><a href="ug_udt-pos-ADV.html">ADV</a></tt> (48; 0% instances), <tt><a href="ug_udt-pos-DET.html">DET</a></tt> (35; 0% instances).
 
 ### `PRON`
 
-1950 <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> tokens (72% of all `PRON` tokens) have a non-empty value of `PronType`.
+2133 <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> tokens (79% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="ug_udt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1408; 72%), <tt><a href="ug_udt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1041; 53%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="ug_udt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1481; 69%), <tt><a href="ug_udt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1076; 50%).
 
 `PRON` tokens may have the following values of `PronType`:
 
-* `Dem` (590; 30% of non-empty `PronType`): بۇ، شۇ، ئاشۇ، مۇشۇ، شۇنىڭ، بۇنىڭ، ماۋۇ، ئاۋۇ، بۇلارنىڭ، بۇلار
+* `Dem` (590; 28% of non-empty `PronType`): بۇ، شۇ، ئاشۇ، مۇشۇ، شۇنىڭ، بۇنىڭ، ماۋۇ، ئاۋۇ، بۇلارنىڭ، بۇلار
 * `Int` (2; 0% of non-empty `PronType`): نېمىلا، نېمە
-* `Prs` (1358; 70% of non-empty `PronType`): ئۇ، مەن، ئۇنىڭ، سەن، ئۇلار، ئۇنى، بىز، ئۇنىڭغا، ئۇلارنىڭ، ماڭا
-* `EMPTY` (746): ئەڭ، ئۆز، سېنىڭ، مېنى، ئۆزىنى، ھېلىقى، بۇنى، بىزگە، ئۆزىنىڭ، ئۆزى
+* `Prs` (1541; 72% of non-empty `PronType`): ئۇ، مەن، ئۇنىڭ، سەن، ئۇلار، ئۇنى، بىز، ئۇنىڭغا، ئۇلارنىڭ، ماڭا
+* `EMPTY` (563): ئەڭ، سېنىڭ، ھېلىقى، بۇنى، بىزگە، ئۇنىڭدىن، مەنمۇ، ئۆزىگە، سىزگە، مۇشۇنداق
 
-`PronType` seems to be **lexical feature** of `PRON`. 100% lemmas (16) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `PRON`. 100% lemmas (18) occur only with one value of `PronType`.
 
 ### `ADV`
 

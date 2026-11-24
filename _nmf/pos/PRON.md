@@ -18,4 +18,4 @@ Pronouns under this definition function like nouns. Note that some languages tra
 * Interrogative pronouns: _mwethe_, _mwa_ "what", _thuza_ "who" 
 * Indefinite pronouns: _chatha_ "others"
 * Total pronouns: _mazohn_ "all"
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:37 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:28 CET -->

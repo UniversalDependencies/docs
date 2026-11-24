@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.11 release
 The following people have contributed to making this treebank part of UD: Robert Pugh, Marivel Huerta Mendez, Mitsuya Sasaki, Francis Tyers, María Ximena Juarez Huerta, Ángeles Márquez Hernández.
 
 Repository: [UD_Western_Sierra_Puebla_Nahuatl-MesoTree](https://github.com/UniversalDependencies/UD_Western_Sierra_Puebla_Nahuatl-MesoTree)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udnhi_mesotree218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udnhi_mesotree219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 

@@ -18,7 +18,7 @@ The feature is used with 6 part-of-speech tags: <tt><a href="en_pud-pos-ADJ.html
 
 33 <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> tokens (2% of all `ADJ` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `ADJ` and `ExtPos` co-occurred: <tt><a href="en_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (25; 76%).
+The most frequent other feature values with which `ADJ` and `ExtPos` co-occurred: <tt><a href="en_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (26; 79%).
 
 `ADJ` tokens may have the following values of `ExtPos`:
 
@@ -29,7 +29,7 @@ The most frequent other feature values with which `ADJ` and `ExtPos` co-occurred
 
 14 <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> tokens (2% of all `ADV` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `ADV` and `ExtPos` co-occurred: <tt><a href="en_pud-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (14; 100%).
+The most frequent other feature values with which `ADV` and `ExtPos` co-occurred: <tt><a href="en_pud-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (14; 100%), <tt><a href="en_pud-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (14; 100%).
 
 `ADV` tokens may have the following values of `ExtPos`:
 
@@ -57,7 +57,7 @@ The most frequent other feature values with which `ADV` and `ExtPos` co-occurred
 
 11 <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `VERB` and `ExtPos` co-occurred: <tt><a href="en_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="en_pud-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="en_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt> (11; 100%).
+The most frequent other feature values with which `VERB` and `ExtPos` co-occurred: <tt><a href="en_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="en_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="en_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="en_pud-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="en_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt> (11; 100%), <tt><a href="en_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (11; 100%).
 
 `VERB` tokens may have the following values of `ExtPos`:
 

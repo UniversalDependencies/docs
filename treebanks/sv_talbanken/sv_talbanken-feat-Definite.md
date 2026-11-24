@@ -9,16 +9,16 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Def`, `Ind`.
 
-39740 tokens (41%) have a non-empty value of `Definite`.
-11281 types (75%) occur at least once with a non-empty value of `Definite`.
-7351 lemmas (69%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 6 part-of-speech tags: <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (22430; 23% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (6841; 7% instances), <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (5634; 6% instances), <tt><a href="sv_talbanken-pos-DET.html">DET</a></tt> (4716; 5% instances), <tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (92; 0% instances), <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (27; 0% instances).
+39734 tokens (41%) have a non-empty value of `Definite`.
+11280 types (75%) occur at least once with a non-empty value of `Definite`.
+7350 lemmas (69%) occur at least once with a non-empty value of `Definite`.
+The feature is used with 6 part-of-speech tags: <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (22430; 23% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (6835; 7% instances), <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (5634; 6% instances), <tt><a href="sv_talbanken-pos-DET.html">DET</a></tt> (4716; 5% instances), <tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (92; 0% instances), <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (27; 0% instances).
 
 ### `NOUN`
 
 22430 <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `NOUN` and `Definite` co-occurred: <tt><a href="sv_talbanken-feat-Case.html">Case</a></tt><tt>=Nom</tt> (21445; 96%), <tt><a href="sv_talbanken-feat-Gender.html">Gender</a></tt><tt>=Com</tt> (15646; 70%), <tt><a href="sv_talbanken-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15351; 68%).
+The most frequent other feature values with which `NOUN` and `Definite` co-occurred: <tt><a href="sv_talbanken-feat-Case.html">Case</a></tt><tt>=Nom</tt> (21445; 96%), <tt><a href="sv_talbanken-feat-Gender.html">Gender</a></tt><tt>=Com</tt> (15646; 70%), <tt><a href="sv_talbanken-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15352; 68%).
 
 `NOUN` tokens may have the following values of `Definite`:
 
@@ -36,15 +36,15 @@ The most frequent other feature values with which `NOUN` and `Definite` co-occur
 
 ### `ADJ`
 
-6841 <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> tokens (80% of all `ADJ` tokens) have a non-empty value of `Definite`.
+6835 <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> tokens (80% of all `ADJ` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `ADJ` and `Definite` co-occurred: <tt><a href="sv_talbanken-feat-Case.html">Case</a></tt><tt>=Nom</tt> (6827; 100%), <tt><a href="sv_talbanken-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (6578; 96%), <tt><a href="sv_talbanken-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (5990; 88%), <tt><a href="sv_talbanken-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (5990; 88%), <tt><a href="sv_talbanken-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3902; 57%).
+The most frequent other feature values with which `ADJ` and `Definite` co-occurred: <tt><a href="sv_talbanken-feat-Case.html">Case</a></tt><tt>=Nom</tt> (6821; 100%), <tt><a href="sv_talbanken-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (6572; 96%), <tt><a href="sv_talbanken-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (5984; 88%), <tt><a href="sv_talbanken-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (5984; 88%), <tt><a href="sv_talbanken-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3905; 57%).
 
 `ADJ` tokens may have the following values of `Definite`:
 
-* `Def` (1722; 25% of non-empty `Definite`): <em>hela, nya, svenska, flesta, stora, andra, bästa, ekonomiska, sociala, kristna</em>
-* `Ind` (5119; 75% of non-empty `Definite`): <em>olika, andra, stor, samma, vissa, stora, annan, själv, sådan, viss</em>
-* `EMPTY` (1712): <em>många, större, första, flera, högre, bättre, s k, mindre, fler, följande</em>
+* `Def` (1727; 25% of non-empty `Definite`): <em>hela, nya, svenska, flesta, andra, stora, bästa, ekonomiska, sociala, kristna</em>
+* `Ind` (5108; 75% of non-empty `Definite`): <em>olika, andra, stor, samma, vissa, stora, annan, själv, sådan, viss</em>
+* `EMPTY` (1715): <em>många, större, första, flera, högre, bättre, s k, mindre, fler, följande</em>
 
 <table>
   <tr><th>Paradigm <i>stor</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
@@ -125,14 +125,14 @@ The most frequent other feature values with which `VERB` and `Definite` co-occur
 ## Relations with Agreement in `Definite`
 
 The 10 most frequent relations where parent and child node agree in `Definite`:
-<tt>NOUN --[<tt><a href="sv_talbanken-dep-amod.html">amod</a></tt>]--> ADJ</tt> (4358; 73%),
+<tt>NOUN --[<tt><a href="sv_talbanken-dep-amod.html">amod</a></tt>]--> ADJ</tt> (4353; 73%),
 <tt>NOUN --[<tt><a href="sv_talbanken-dep-det.html">det</a></tt>]--> DET</tt> (3689; 81%),
 <tt>NOUN --[<tt><a href="sv_talbanken-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1910; 60%),
-<tt>NOUN --[<tt><a href="sv_talbanken-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1832; 88%),
+<tt>NOUN --[<tt><a href="sv_talbanken-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1833; 88%),
 <tt>ADJ --[<tt><a href="sv_talbanken-dep-obl.html">obl</a></tt>]--> NOUN</tt> (298; 53%),
 <tt>ADJ --[<tt><a href="sv_talbanken-dep-conj.html">conj</a></tt>]--> ADJ</tt> (268; 81%),
-<tt>ADJ --[<tt><a href="sv_talbanken-dep-det.html">det</a></tt>]--> DET</tt> (200; 75%),
+<tt>ADJ --[<tt><a href="sv_talbanken-dep-det.html">det</a></tt>]--> DET</tt> (201; 75%),
 <tt>NOUN --[<tt><a href="sv_talbanken-dep-appos.html">appos</a></tt>]--> NOUN</tt> (183; 67%),
-<tt>NOUN --[<tt><a href="sv_talbanken-dep-obl.html">obl</a></tt>]--> NOUN</tt> (133; 56%),
+<tt>NOUN --[<tt><a href="sv_talbanken-dep-obl.html">obl</a></tt>]--> NOUN</tt> (132; 55%),
 <tt>NOUN --[<tt><a href="sv_talbanken-dep-acl.html">acl</a></tt>]--> ADJ</tt> (76; 63%).
 

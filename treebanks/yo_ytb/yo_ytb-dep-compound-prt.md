@@ -66,20 +66,20 @@ The following 4 pairs of parts of speech are connected with `compound:prt`: <tt>
 # visual-style 20	bgColor:blue
 # visual-style 20	fgColor:white
 # visual-style 20 23 compound:prt	color:blue
-1	Nígbà	nígbà	ADV	_	_	5	advmod	_	Gloss=then|Ref=JOHN_11.41
+1	Nígbà	nígbà	ADV	_	ExtPos=ADV	5	advmod	_	Gloss=then|Ref=JOHN_11.41
 2	náà	náà	ADV	_	_	1	fixed	_	Gloss=|Ref=JOHN_11.41
 3	ni	ni	PART	_	_	4	case	_	Gloss=is|Ref=JOHN_11.41
 4	wọ́n	wọ́n	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	Gloss=they|Ref=JOHN_11.41
 5	gbé	gbé	VERB	_	_	0	root	_	Gloss=carry|Ref=JOHN_11.41
 6	òkúta	òkúta	NOUN	_	_	5	obj	_	Gloss=stone|Ref=JOHN_11.41
-7	náà	náà	DET	_	_	6	det	_	Gloss=the|Ref=JOHN_11.41
+7	náà	náà	DET	_	PronType=Dem	6	det	_	Gloss=the|Ref=JOHN_11.41
 8	kúrò	kúrò	ADP	_	_	5	compound:prt	_	Gloss=remove|Ref=JOHN_11.41
 9	(	(	PUNCT	_	_	13	punct	_	Gloss=(|Ref=JOHN_11.41|SpaceAfter=No
-10	níbi	níbi	ADV	_	_	13	advmod	_	Gloss=where|Ref=JOHN_11.41
+10	níbi	níbi	ADV	_	ExtPos=ADV	13	advmod	_	Gloss=where|Ref=JOHN_11.41
 11	tí	tí	PRON	_	PronType=Rel	10	fixed	_	Gloss=that|Ref=JOHN_11.41
 12	a	a	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	13	nsubj	_	Gloss=he|Ref=JOHN_11.41
 13	tẹ́	tẹ́	VERB	_	_	5	advcl	_	Gloss=laid|Ref=JOHN_11.41
-14	ẹ	ẹ	PRON	_	_	13	obj	_	Gloss=him|Ref=JOHN_11.41
+14	ẹ	ẹ	PRON	_	Person=2|PronType=Prs	13	obj	_	Gloss=him|Ref=JOHN_11.41
 15	sí	sí	ADP	_	_	10	case	_	Gloss=to|Ref=JOHN_11.41|SpaceAfter=No
 16	)	)	PUNCT	_	_	13	punct	_	Gloss=)|Ref=JOHN_11.41|SpaceAfter=No
 17	.	.	PUNCT	_	_	5	punct	_	Gloss=.|Ref=JOHN_11.41
@@ -96,13 +96,13 @@ The following 4 pairs of parts of speech are connected with `compound:prt`: <tt>
 28	pé	pé	SCONJ	_	_	27	compound	_	Gloss=that|Ref=JOHN_11.41|SpaceAfter=No
 29	,	,	PUNCT	_	_	34	punct	_	Gloss=,|Ref=JOHN_11.41
 30	“	“	PUNCT	_	_	34	punct	_	Gloss=“|Ref=JOHN_11.41|SpaceAfter=No
-31	Baba	Baba	NOUN	_	_	34	vocative	_	Gloss=father|Ref=JOHN_11.41|SpaceAfter=No
+31	Baba	baba	NOUN	_	_	34	vocative	_	Gloss=father|Ref=JOHN_11.41|SpaceAfter=No
 32	,	,	PUNCT	_	_	31	punct	_	Gloss=,|Ref=JOHN_11.41
 33	mo	mo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	34	nsubj	_	Gloss=i|Ref=JOHN_11.41
 34	dúpẹ́	dúpẹ́	VERB	_	_	27	ccomp	_	Gloss=thank|Ref=JOHN_11.41
 35	lọ́wọ́	lọ́wọ́	ADP	_	_	36	case	_	Gloss=from|Ref=JOHN_11.41
 36	rẹ	rẹ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	34	obl	_	Gloss=thy|Ref=JOHN_11.41
-37	nítorí	nítorí	SCONJ	_	_	40	mark	_	Gloss=for|Ref=JOHN_11.41
+37	nítorí	nítorí	SCONJ	_	ExtPos=SCONJ	40	mark	_	Gloss=for|Ref=JOHN_11.41
 38	tí	tí	PRON	_	PronType=Rel	37	fixed	_	Gloss=that|Ref=JOHN_11.41
 39	ìwọ	ìwọ	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	40	nsubj	_	Gloss=thou|Ref=JOHN_11.41
 40	gbọ́	gbọ́	VERB	_	_	34	advcl	_	Gloss=heard|Ref=JOHN_11.41
@@ -118,8 +118,8 @@ The following 4 pairs of parts of speech are connected with `compound:prt`: <tt>
 # visual-style 17	bgColor:blue
 # visual-style 17	fgColor:white
 # visual-style 17 9 compound:prt	color:blue
-1	Nítorí	nítorí	SCONJ	_	_	6	mark	_	Gloss=for|Ref=MATT_5.48
-2	náà	náà	PRON	_	_	1	fixed	_	Gloss=that|Ref=MATT_5.48|SpaceAfter=No
+1	Nítorí	nítorí	SCONJ	_	ExtPos=SCONJ	6	mark	_	Gloss=for|Ref=MATT_5.48
+2	náà	náà	PRON	_	PronType=Dem	1	fixed	_	Gloss=that|Ref=MATT_5.48|SpaceAfter=No
 3	,	,	PUNCT	_	_	6	punct	_	Gloss=,|Ref=MATT_5.48
 4	ẹ	ẹ	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	6	nsubj	_	Gloss=ye|Ref=MATT_5.48
 5	jẹ́	jẹ́	AUX	_	_	6	aux	_	Gloss=be|Ref=MATT_5.48
@@ -127,7 +127,7 @@ The following 4 pairs of parts of speech are connected with `compound:prt`: <tt>
 7	,	,	PUNCT	_	_	17	punct	_	Gloss=,|Ref=MATT_5.48
 8	gẹ́gẹ́	gẹ́gẹ́	ADV	_	_	17	advmod	_	Gloss=exactly|Ref=MATT_5.48
 9	bí	bí	ADV	_	_	17	compound:prt	_	Gloss=as|Ref=MATT_5.48
-10	Baba	Baba	NOUN	_	_	17	nsubj	_	Gloss=father|Ref=MATT_5.48
+10	Baba	baba	NOUN	_	_	17	nsubj	_	Gloss=father|Ref=MATT_5.48
 11	yín	yín	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	10	nmod	_	Gloss=your|Ref=MATT_5.48
 12	tí	tí	PRON	_	PronType=Rel	14	nsubj	_	Gloss=that|Ref=MATT_5.48
 13	ń	ń	AUX	_	_	14	aux	_	Gloss=is|Ref=MATT_5.48

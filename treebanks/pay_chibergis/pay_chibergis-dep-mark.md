@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-152 nodes (4%) are attached to their parents as `mark`.
+166 nodes (4%) are attached to their parents as `mark`.
 
-152 instances of `mark` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.36842105263158.
+166 instances of `mark` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.39156626506024.
 
-The following 10 pairs of parts of speech are connected with `mark`: <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-SCONJ.html">SCONJ</a></tt> (91; 60% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> (37; 24% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-SCONJ.html">SCONJ</a></tt> (7; 5% instances), <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt>-<tt><a href="pay_chibergis-pos-ADP.html">ADP</a></tt> (4; 3% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-ADP.html">ADP</a></tt> (4; 3% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> (3; 2% instances), <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt>-<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> (3; 2% instances), <tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt>-<tt><a href="pay_chibergis-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="pay_chibergis-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-X.html">X</a></tt>-<tt><a href="pay_chibergis-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances).
+The following 12 pairs of parts of speech are connected with `mark`: <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-SCONJ.html">SCONJ</a></tt> (100; 60% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> (37; 22% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-SCONJ.html">SCONJ</a></tt> (9; 5% instances), <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt>-<tt><a href="pay_chibergis-pos-ADP.html">ADP</a></tt> (4; 2% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-ADP.html">ADP</a></tt> (4; 2% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> (3; 2% instances), <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt>-<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> (3; 2% instances), <tt><a href="pay_chibergis-pos-AUX.html">AUX</a></tt>-<tt><a href="pay_chibergis-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt>-<tt><a href="pay_chibergis-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-NUM.html">NUM</a></tt>-<tt><a href="pay_chibergis-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="pay_chibergis-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-X.html">X</a></tt>-<tt><a href="pay_chibergis-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -51,18 +51,22 @@ The following 10 pairs of parts of speech are connected with `mark`: <tt><a href
 ~~~ conllu
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 4 mark	color:blue
-1	tas	tas	PRON	PRO	_	2	nsubj	_	AlignBegin=27840|AlignEnd=28721|Gloss=PRO1|MGloss=PRO1|MSeg=tas|nWord=1|RX=[PRO]|TokenType=Root|Word=tas
-2	ye	ye	NOUN	N	_	7	obl:tmod	_	AlignBegin=28721|AlignEnd=29602|Gloss=small|MGloss=small|MSeg=ye|nWord=2|RX=[N]|TokenType=Root|Word=ye
-3	=rira	r	AUX	COP	_	2	cop	_	AlignBegin=29602|AlignEnd=30483|Gloss==COP:S1SG:PST|MGloss==COP:S1SG:PST|MSeg==rira|nWord=3|RX=[COP]|TokenType=Clit|Word=rira
-4	=mã	=mã	SCONJ	PRT	_	2	mark	_	AlignBegin=30483|AlignEnd=31364|Gloss==when|MGloss==when|MSeg==mã|nWord=4|RX=[PRT]|TokenType=Clit|Word=mã
-5	tasuwa	suwa	NOUN	N	_	7	obl:arg	_	AlignBegin=31364|AlignEnd=32245|Gloss=grandmother|MGloss=POSS1- grandmother|MSeg=ta-suwa|nWord=5|RX=[N]|TokenType=Root|Word=tasuwa|wordform=ta-suwa
-6	=yo	=yo	ADP	POST	_	5	case	_	AlignBegin=32245|AlignEnd=33126|Gloss==COM|MGloss==COM|MSeg==yo|nWord=6|RX=[POST]|TokenType=Clit|Word=yo
-7	tʃaari	tʃa	VERB	V:ANY	_	0	root	_	AlignBegin=33126|AlignEnd=34007|Gloss=be.there|MGloss=be.there -S1SG -PST|MSeg=tʃa-a-ri|nWord=7|RX=[VI]|TokenType=Root|Word=tʃaari|wordform=tʃa-a-ri
-8	takaki	kaki	NOUN	N	_	5	conj	_	AlignBegin=34007|AlignEnd=34888|Gloss=mother|MGloss=POSS1- mother|MSeg=ta-kaki|nWord=8|RX=[N]|TokenType=Root|Word=takaki|wordform=ta-kaki
-9	=ri	=ri	CCONJ	PRT	_	8	cc	_	AlignBegin=34888|AlignEnd=35773|Gloss==COORD|MGloss==COORD|MSeg==ri|nWord=9|RX=[PRT]|TokenType=Clit|Word=ri
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 4 mark	color:blue
+1	peʃ	peʃ	NOUN	_	_	5	acl	_	AlignBegin=114510|AlignEnd=114884|Gloss=people|MGloss=people|MSeg=peʃ|nWord=1|RX=[N]|TokenType=Root
+2	akwa	akwa	NOUN	_	_	1	nmod	_	AlignBegin=114884|AlignEnd=115071|Gloss=other|MGloss=other|MSeg=akwa|nWord=2|RX=[N]|TokenType=Root
+3	=ler	_	AUX	_	_	1	cop	_	AlignBegin=115071|AlignEnd=115258|Gloss==COP:S3PL:PFV|MGloss==COP:S3PL:PFV|MSeg==ler|nWord=2|RX=[N:ANY]|TokenType=Root
+4	=kan	_	SCONJ	_	_	1	mark	_	AlignBegin=115258|AlignEnd=115632|Gloss==SIM|MGloss==SIM|MSeg==kan|nWord=3|RX=[PRT]|TokenType=Clit
+5	tokkeri	tokk	PRON	_	_	0	root	_	AlignBegin=115632|AlignEnd=116006|Gloss=O3SG-|MGloss=O3SG- drink -S3PL -PST|MSeg=Ø-tokk-er-i|nWord=4|RX=[VT:ANY]|TokenType=Root|wordform=Ø-tokk-er-i
+6	wula	wula	NOUN	_	_	7	nsubj	_	AlignBegin=116006|AlignEnd=116380|Gloss=foreign|MGloss=foreign|MSeg=wula|nWord=5|RX=[N]|TokenType=Root
+7	tokkeri	tokk	PRON	_	_	5	nmod	_	AlignBegin=116380|AlignEnd=116754|Gloss=O3SG-|MGloss=O3SG- drink -S3PL -PST|MSeg=Ø-tokk-er-i|nWord=6|RX=[VT:ANY]|TokenType=Root|wordform=Ø-tokk-er-i
+8	=kan	_	PART	_	_	7	case	_	AlignBegin=116754|AlignEnd=117128|Gloss==SIM|MGloss==SIM|MSeg==kan|nWord=7|RX=[PRT]|TokenType=Clit
+9	=hãʔ	_	PART	_	_	7	advmod	_	AlignBegin=117128|AlignEnd=117502|Gloss==FOC|MGloss==FOC|MSeg==hãʔ|nWord=8|RX=[PRT]|TokenType=Clit
+10	ã	ã	PRON	_	_	7	nmod	_	AlignBegin=117502|AlignEnd=117876|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=9|RX=[PRO]|TokenType=Root
+11	=yã	_	ADP	_	_	10	case	_	AlignBegin=117876|AlignEnd=118250|Gloss==LOC|MGloss==LOC|MSeg==yã|nWord=10|RX=[POST]|TokenType=Clit
+12	ĩ	ĩ	PRON	_	_	7	nmod	_	AlignBegin=118250|AlignEnd=118624|Gloss=PROX.DEM|MGloss=PROX.DEM|MSeg=ĩ|nWord=11|RX=[PRO]|TokenType=Root
+13	=kan	_	PART	_	_	12	case	_	AlignBegin=118624|AlignEnd=119000|Gloss==SIM|MGloss==SIM|MSeg==kan|nWord=12|RX=[PRT]|TokenType=Clit
 
 ~~~
 

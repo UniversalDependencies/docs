@@ -38,4 +38,4 @@ We use the `advmod` relation for the particles _չի_/_či_ (_չ-_/_č-_) and _�
 
 We use a special label, [advmod:emph]() for adverbial modifiers that are used for emphasis.
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:33 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:15 CET -->

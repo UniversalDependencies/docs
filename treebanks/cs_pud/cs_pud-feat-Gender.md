@@ -50,7 +50,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 2229 <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> tokens (98% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (2060; 92%), <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1969; 88%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1813; 81%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1813; 81%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1460; 66%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1362; 61%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (2060; 92%), <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1969; 88%), <tt><a href="cs_pud-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (1842; 83%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1813; 81%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1813; 81%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1460; 66%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1362; 61%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
@@ -100,7 +100,7 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 
 879 <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> tokens (51% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (879; 100%), <tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (879; 100%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (879; 100%), <tt><a href="cs_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (878; 100%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (877; 100%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (843; 96%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (692; 79%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (492; 56%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (879; 100%), <tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (879; 100%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (879; 100%), <tt><a href="cs_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (878; 100%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (877; 100%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (843; 96%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (692; 79%), <tt><a href="cs_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (520; 59%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (492; 56%).
 
 `VERB` tokens may have the following values of `Gender`:
 

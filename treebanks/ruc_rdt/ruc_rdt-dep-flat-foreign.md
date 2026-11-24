@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ruc_rdt-dep-flat.html">flat</a></tt>.
 There are also 2 other language-specific subtypes of `flat`: <tt><a href="ruc_rdt-dep-flat-name.html">flat:name</a></tt>, <tt><a href="ruc_rdt-dep-flat-num.html">flat:num</a></tt>.
 
-1 nodes (0%) are attached to their parents as `flat:foreign`.
+3 nodes (0%) are attached to their parents as `flat:foreign`.
 
-1 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
+3 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 1 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="ruc_rdt-pos-X.html">X</a></tt>-<tt><a href="ruc_rdt-pos-X.html">X</a></tt> (1; 100% instances).
+The following 1 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="ruc_rdt-pos-X.html">X</a></tt>-<tt><a href="ruc_rdt-pos-X.html">X</a></tt> (3; 100% instances).
 
 
 ~~~ conllu

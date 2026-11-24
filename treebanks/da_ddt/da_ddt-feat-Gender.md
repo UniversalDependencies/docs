@@ -123,11 +123,11 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="da_ddt-dep-det.html">det</a></tt>]--> DET</tt> (3743; 75%),
-<tt>NOUN --[<tt><a href="da_ddt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1852; 57%),
+<tt>NOUN --[<tt><a href="da_ddt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1860; 57%),
 <tt>NOUN --[<tt><a href="da_ddt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (628; 64%),
 <tt>NOUN --[<tt><a href="da_ddt-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (340; 55%),
 <tt>ADJ --[<tt><a href="da_ddt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (177; 57%),
-<tt>NOUN --[<tt><a href="da_ddt-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (93; 52%),
+<tt>NOUN --[<tt><a href="da_ddt-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (94; 52%),
 <tt>NOUN --[<tt><a href="da_ddt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (91; 57%),
 <tt>PRON --[<tt><a href="da_ddt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (78; 58%),
 <tt>NOUN --[<tt><a href="da_ddt-dep-appos.html">appos</a></tt>]--> NOUN</tt> (33; 59%),

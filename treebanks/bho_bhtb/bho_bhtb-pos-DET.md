@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  ओह (<tt><a href="bho_bhtb-pos-DET.htm
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.035079).
+The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.035097).
 
 The 1st highest number of forms (3) was observed with the lemma “आजु”: आजु, आजुए, आजुओ.
 
@@ -71,7 +71,7 @@ Examples: कवनो, एह, अइसन, जवन, ई, ओह, घरे,
 
 ## Relations
 
-`DET` nodes are attached to their parents using 12 different relations: <tt><a href="bho_bhtb-dep-det.html">det</a></tt> (174; 49% instances), <tt><a href="bho_bhtb-dep-compound.html">compound</a></tt> (140; 40% instances), <tt><a href="bho_bhtb-dep-obl.html">obl</a></tt> (18; 5% instances), <tt><a href="bho_bhtb-dep-nmod.html">nmod</a></tt> (7; 2% instances), <tt><a href="bho_bhtb-dep-nsubj.html">nsubj</a></tt> (5; 1% instances), <tt><a href="bho_bhtb-dep-acl.html">acl</a></tt> (3; 1% instances), <tt><a href="bho_bhtb-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="bho_bhtb-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="bho_bhtb-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="bho_bhtb-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="bho_bhtb-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="bho_bhtb-dep-root.html">root</a></tt> (1; 0% instances)
+`DET` nodes are attached to their parents using 12 different relations: <tt><a href="bho_bhtb-dep-det.html">det</a></tt> (174; 49% instances), <tt><a href="bho_bhtb-dep-compound.html">compound</a></tt> (140; 40% instances), <tt><a href="bho_bhtb-dep-obl.html">obl</a></tt> (15; 4% instances), <tt><a href="bho_bhtb-dep-nmod.html">nmod</a></tt> (10; 3% instances), <tt><a href="bho_bhtb-dep-nsubj.html">nsubj</a></tt> (5; 1% instances), <tt><a href="bho_bhtb-dep-acl.html">acl</a></tt> (3; 1% instances), <tt><a href="bho_bhtb-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="bho_bhtb-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="bho_bhtb-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="bho_bhtb-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="bho_bhtb-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="bho_bhtb-dep-root.html">root</a></tt> (1; 0% instances)
 
 Parents of `DET` nodes belong to 12 different parts of speech: <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (232; 66% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> (82; 23% instances), <tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt> (9; 3% instances), <tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> (7; 2% instances), <tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> (6; 2% instances), <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt> (5; 1% instances), <tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="bho_bhtb-pos-AUX.html">AUX</a></tt> (1; 0% instances),  (1; 0% instances)
 

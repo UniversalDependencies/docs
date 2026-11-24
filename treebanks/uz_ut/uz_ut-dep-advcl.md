@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-106 nodes (2%) are attached to their parents as `advcl`.
+108 nodes (2%) are attached to their parents as `advcl`.
 
-104 instances of `advcl` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.20754716981132.
+106 instances of `advcl` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.17592592592593.
 
-The following 8 pairs of parts of speech are connected with `advcl`: <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-VERB.html">VERB</a></tt> (87; 82% instances), <tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uz_ut-pos-VERB.html">VERB</a></tt> (8; 8% instances), <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uz_ut-pos-VERB.html">VERB</a></tt> (6; 6% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 8 pairs of parts of speech are connected with `advcl`: <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-VERB.html">VERB</a></tt> (87; 81% instances), <tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uz_ut-pos-VERB.html">VERB</a></tt> (8; 7% instances), <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uz_ut-pos-VERB.html">VERB</a></tt> (8; 7% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

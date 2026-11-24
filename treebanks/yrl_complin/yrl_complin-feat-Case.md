@@ -23,9 +23,9 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Acc,Nom` (1134; 43% of non-empty `Case`): <em>aé, aintá, ixé, indé, ta, penhẽ, yandé, iné, yané, aúna</em>
+* `Acc,Nom` (1136; 43% of non-empty `Case`): <em>aé, aintá, ixé, indé, ta, penhẽ, yandé, iné, yané, aúna</em>
 * `Dat` (28; 1% of non-empty `Case`): <em>ixéu, inéu, yanéu, indéu</em>
-* `Gen` (1505; 56% of non-empty `Case`): <em>i, se, ne, yané, aintá, pe, ta, xe, yandé, U</em>
+* `Gen` (1503; 56% of non-empty `Case`): <em>i, se, ne, yané, aintá, pe, ta, xe, yandé, U</em>
 * `EMPTY` (856): <em>waá, maã, awá, waá-itá, nhaã, kwá, amú, aité, amú-itá, kwá-itá</em>
 
 <table>

@@ -1,0 +1,43 @@
+---
+layout: base
+title:  'Statistics of INTJ in UD_Daur-GDUD'
+udver: '2'
+---
+
+## Treebank Statistics: UD_Daur-GDUD: POS Tags: `INTJ`
+
+There are 1 `INTJ` lemmas (0%), 1 `INTJ` types (0%) and 1 `INTJ` tokens (0%).
+Out of 15 observed tags, the rank of `INTJ` is: 14 in number of lemmas, 14 in number of types and 14 in number of tokens.
+
+The 10 most frequent `INTJ` lemmas: <em>uwəi</em>
+
+The 10 most frequent `INTJ` types:  <em>uwəi</em>
+
+The 10 most frequent ambiguous lemmas: <em>uwəi</em> (<tt><a href="dta_gdud-pos-AUX.html">AUX</a></tt> 1, <tt><a href="dta_gdud-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="dta_gdud-pos-VERB.html">VERB</a></tt> 1)
+
+The 10 most frequent ambiguous types:  <em>uwəi</em> (<tt><a href="dta_gdud-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="dta_gdud-pos-VERB.html">VERB</a></tt> 1)
+
+
+* <em>uwəi</em>
+  * <tt><a href="dta_gdud-pos-INTJ.html">INTJ</a></tt> 1: <em><b>uwəi</b> , xoir ərin kur-ɣu udeːn .</em>
+  * <tt><a href="dta_gdud-pos-VERB.html">VERB</a></tt> 1: <em>naːd xar satən <b>uwəi</b> , tʃiɣaːn satən bəi</em>
+
+## Morphology
+
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.252874).
+
+The 1st highest number of forms (1) was observed with the lemma “uwəi”: <em>uwəi</em>.
+
+`INTJ` does not occur with any features.
+
+
+## Relations
+
+`INTJ` nodes are attached to their parents using 1 different relations: <tt><a href="dta_gdud-dep-discourse.html">discourse</a></tt> (1; 100% instances)
+
+Parents of `INTJ` nodes belong to 1 different parts of speech: <tt><a href="dta_gdud-pos-NOUN.html">NOUN</a></tt> (1; 100% instances)
+
+1 (100%) `INTJ` nodes are leaves.
+
+The highest child degree of a `INTJ` node is 0.
+

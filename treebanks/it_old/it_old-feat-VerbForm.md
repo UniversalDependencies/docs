@@ -18,14 +18,14 @@ The feature is used with 4 part-of-speech tags: <tt><a href="it_old-pos-VERB.htm
 
 16789 <tt><a href="it_old-pos-VERB.html">VERB</a></tt> tokens (99% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="it_old-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (14391; 86%), <tt><a href="it_old-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12002; 71%), <tt><a href="it_old-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (10187; 61%), <tt><a href="it_old-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (9944; 59%), <tt><a href="it_old-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9761; 58%), <tt><a href="it_old-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (8602; 51%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="it_old-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (14391; 86%), <tt><a href="it_old-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12002; 71%), <tt><a href="it_old-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (10187; 61%), <tt><a href="it_old-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (9945; 59%), <tt><a href="it_old-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9761; 58%), <tt><a href="it_old-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (8602; 51%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Conv` (674; 4% of non-empty `VerbForm`): <em>dicendo, cantando, veggendo, parlando, piangendo, andando, guardando, gridando, venendo, pensando</em>
-* `Fin` (11392; 68% of non-empty `VerbForm`): <em>disse, fa, vidi, vedi, ha, fece, fé, va, rispuose, convien</em>
+* `Fin` (11391; 68% of non-empty `VerbForm`): <em>disse, fa, vidi, vedi, ha, fece, fé, va, rispuose, convien</em>
 * `Inf` (2320; 14% of non-empty `VerbForm`): <em>veder, far, dir, fare, parlar, vedere, voler, aver, dire, andar</em>
-* `Part` (2403; 14% of non-empty `VerbForm`): <em>fatto, fatta, detto, tratto, messo, giunto, vòlto, morta, venuto, volta</em>
+* `Part` (2404; 14% of non-empty `VerbForm`): <em>fatto, fatta, detto, tratto, messo, giunto, vòlto, morta, venuto, volta</em>
 * `EMPTY` (151): <em>parrebbe, avria, saprei, direi, vei, avrebbe, crederebbe, farebbe, faria, rammarca</em>
 
 <table>
@@ -175,7 +175,7 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 `ADJ` tokens may have the following values of `VerbForm`:
 
 * `Part` (1; 100% of non-empty `VerbForm`): <em>disdegnoso</em>
-* `EMPTY` (5198): <em>gran, dolce, alto, primo, prima, buon, bella, maggior, grande, alta</em>
+* `EMPTY` (5202): <em>gran, dolce, alto, primo, prima, buon, bella, maggior, grande, alta</em>
 
 ### `NOUN`
 
@@ -186,12 +186,12 @@ The most frequent other feature values with which `NOUN` and `VerbForm` co-occur
 `NOUN` tokens may have the following values of `VerbForm`:
 
 * `Fin` (1; 100% of non-empty `VerbForm`): <em>luce</em>
-* `EMPTY` (15952): <em>occhi, mondo, terra, gente, maestro, parte, ciel, mente, viso, loco</em>
+* `EMPTY` (15954): <em>occhi, mondo, terra, gente, maestro, parte, ciel, mente, viso, loco</em>
 
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="it_old-dep-conj.html">conj</a></tt>]--> VERB</tt> (1465; 90%),
+<tt>VERB --[<tt><a href="it_old-dep-conj.html">conj</a></tt>]--> VERB</tt> (1463; 90%),
 <tt>VERB --[<tt><a href="it_old-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (1071; 83%),
 <tt>VERB --[<tt><a href="it_old-dep-ccomp-reported.html">ccomp:reported</a></tt>]--> VERB</tt> (415; 76%),
 <tt>VERB --[<tt><a href="it_old-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (340; 61%),

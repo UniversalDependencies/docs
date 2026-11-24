@@ -9,145 +9,124 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Dual`, `Plur`, `Sing`.
 
-38135 tokens (54%) have a non-empty value of `Number`.
-16208 types (91%) occur at least once with a non-empty value of `Number`.
-6919 lemmas (80%) occur at least once with a non-empty value of `Number`.
-The feature is used with 9 part-of-speech tags: <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (21106; 30% instances), <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (6831; 10% instances), <tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt> (4443; 6% instances), <tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt> (1890; 3% instances), <tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt> (1573; 2% instances), <tt><a href="lt_alksnis-pos-DET.html">DET</a></tt> (1568; 2% instances), <tt><a href="lt_alksnis-pos-AUX.html">AUX</a></tt> (521; 1% instances), <tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt> (201; 0% instances), <tt><a href="lt_alksnis-pos-X.html">X</a></tt> (2; 0% instances).
+28019 tokens (49%) have a non-empty value of `Number`.
+13155 types (81%) occur at least once with a non-empty value of `Number`.
+5939 lemmas (74%) occur at least once with a non-empty value of `Number`.
+The feature is used with 8 part-of-speech tags: <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (16626; 29% instances), <tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt> (3556; 6% instances), <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (3248; 6% instances), <tt><a href="lt_alksnis-pos-DET.html">DET</a></tt> (1707; 3% instances), <tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt> (1325; 2% instances), <tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt> (1313; 2% instances), <tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt> (174; 0% instances), <tt><a href="lt_alksnis-pos-AUX.html">AUX</a></tt> (70; 0% instances).
 
 ### `NOUN`
 
-21106 <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Number`.
+16626 <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (11998; 57%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (9615; 58%).
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (7472; 35% of non-empty `Number`): <em>duomenų, metų, tyrimų, litų, inovacijų, autorių, namuose, žmonės, sąlygas, žmonių</em>
-* `Sing` (13634; 65% of non-empty `Number`): <em>pašto, kultūros, valstybės, apsaugos, paslaugos, darbo, asmens, įmonės, politikos, verslo</em>
-* `EMPTY` (171): <em>m, interviu, Ego, EGO, Madam, fiasko, lego, meniu, straipsnio</em>
+* `Plur` (5721; 34% of non-empty `Number`): <em>duomenų, metų, autorių, namuose, tyrimų, litų, žmonės, žmonių, gyventojų, metais</em>
+* `Sing` (10905; 66% of non-empty `Number`): <em>pašto, kultūros, paslaugos, valstybės, apsaugos, asmens, darbo, politikos, knygos, šeimos</em>
+* `EMPTY` (381): <em>m., proc., d., p., Nr., interviu, a., GMO, Žin., BVP</em>
 
 <table>
-  <tr><th>Paradigm <i>valstybė</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>valstybę</em></td><td><em>valstybes</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>valstybei</em></td><td><em>valstybėms</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>valstybės</em></td><td><em>valstybių</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Ins</tt></tt></td><td><em>valstybe</em></td><td><em>valstybėmis</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Loc</tt></tt></td><td><em>valstybėje</em></td><td><em>valstybėse</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>valstybė</em></td><td><em>valstybės</em></td></tr>
-</table>
-
-### `VERB`
-
-6831 <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> tokens (67% of all `VERB` tokens) have a non-empty value of `Number`.
-
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="lt_alksnis-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (6176; 90%), <tt><a href="lt_alksnis-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (6055; 89%), <tt><a href="lt_alksnis-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (5292; 77%), <tt><a href="lt_alksnis-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (3996; 58%), <tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (3979; 58%), <tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3978; 58%), <tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3774; 55%), <tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3774; 55%).
-
-`VERB` tokens may have the following values of `Number`:
-
-* `Plur` (3066; 45% of non-empty `Number`): <em>gali, turi, yra, nėra, galite, aptariami, galime, turite, rodo, susiję</em>
-* `Sing` (3765; 55% of non-empty `Number`): <em>gali, turi, yra, nustatyta, nėra, sakė, buvo, nebuvo, rodo, nurodyto</em>
-* `EMPTY` (3349): <em>galima, reikia, siekiant, teikti, pateikti, užtikrinti, būti, sukurti, dirbti, kurti</em>
-
-<table>
-  <tr><th>Paradigm <i>galėti</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="lt_alksnis-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="lt_alksnis-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>galėjęs</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="lt_alksnis-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="lt_alksnis-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>galėjau</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="lt_alksnis-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="lt_alksnis-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>galėjai</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="lt_alksnis-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="lt_alksnis-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>galėjo</em></td><td><em>galėjo</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="lt_alksnis-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="lt_alksnis-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td><em>galimus</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="lt_alksnis-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="lt_alksnis-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>galinčias</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="lt_alksnis-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="lt_alksnis-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>galinčių</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="lt_alksnis-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="lt_alksnis-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>galima</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="lt_alksnis-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="lt_alksnis-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>galimas</em></td><td><em>galimi</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>galėčiau</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>GALĖTUMĖTE</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>galėtų</em></td><td><em>galėtų</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="lt_alksnis-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>galėsime</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="lt_alksnis-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>galiu</em></td><td><em>galime</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="lt_alksnis-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>galėsi</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="lt_alksnis-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>gali</em></td><td><em>galite</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="lt_alksnis-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>galės</em></td><td><em>galės</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="lt_alksnis-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>gali</em></td><td><em>gali</em></td></tr>
+  <tr><th>Paradigm <i>kultūra</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>kultūrą</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>kultūrai</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>kultūros</em></td><td><em>kultūrų</em></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Ins</tt></tt></td><td><em>kultūra</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Loc</tt></tt></td><td><em>kultūroje</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>kultūra</em></td><td></td></tr>
 </table>
 
 ### `ADJ`
 
-4443 <tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt> tokens (96% of all `ADJ` tokens) have a non-empty value of `Number`.
+3556 <tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt> tokens (92% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="lt_alksnis-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (4161; 94%), <tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (4095; 92%), <tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2523; 57%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="lt_alksnis-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (3247; 91%), <tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2025; 57%).
 
 `ADJ` tokens may have the following values of `Number`:
 
-* `Plur` (1816; 41% of non-empty `Number`): <em>mokslinių, naujų, socialinių, įvairių, skirtingų, politinių, viešųjų, finansiniai, metinės, gretutinių</em>
-* `Sing` (2627; 59% of non-empty `Number`): <em>socialinės, vidutinio, smulkiojo, geros, pagrindinis, viešojo, viešosios, didelis, svarbi, teisinės</em>
-* `EMPTY` (208): <em>būtina, svarbu, sunku, sveika, nesvarbu, tikėtina, verta, aišku, keista, tikslinga</em>
+* `Plur` (1376; 39% of non-empty `Number`): <em>naujų, įvairių, socialinių, skirtingų, gretutinių, politinių, pagrindiniai, teorinių, įvairios, atskirų</em>
+* `Sing` (2180; 61% of non-empty `Number`): <em>socialinės, geros, pagrindinis, viešosios, atominės, didelis, pirmoji, svarbi, aukšto, jungtinės</em>
+* `EMPTY` (294): <em>galima, būtina, svarbu, sunku, neįmanoma, žinoma, sveika, įmanoma, nesvarbu, tikėtina</em>
 
 <table>
-  <tr><th>Paradigm <i>naujas</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="lt_alksnis-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>naująją</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>naują</em></td><td><em>naujus</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>naują</em></td><td><em>naujas</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td></td><td><em>naujausias</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td><em>naujiems</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>naujai</em></td><td><em>naujoms</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="lt_alksnis-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>naujojo</em></td><td><em>naujųjų</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="lt_alksnis-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>naujosios</em></td><td><em>naujųjų</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>naujo</em></td><td><em>naujų</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>naujos</em></td><td><em>naujų</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td></td><td><em>naujausių</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="lt_alksnis-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>naujuoju</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>nauju</em></td><td><em>naujais</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>nauja</em></td><td><em>naujomis</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td><em>Naujausiais</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td></td><td><em>naujausiomis</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>naujame</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="lt_alksnis-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>naujasis</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="lt_alksnis-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>naujoji</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>naujas</em></td><td><em>nauji</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>nauja</em></td><td><em>naujos</em></td></tr>
+  <tr><th>Paradigm <i>socialinis</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>socialinį</em></td><td><em>socialinius</em></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>socialinę</em></td><td><em>socialines</em></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>socialiniam</em></td><td><em>socialiniams</em></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>socialinio</em></td><td><em>socialinių</em></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>socialinės</em></td><td><em>socialinių</em></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>socialiniu</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td></td><td><em>socialinėmis</em></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td><em>socialiniai</em></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>socialinė</em></td><td><em>socialinės</em></td></tr>
 </table>
 
-### `PRON`
+### `VERB`
 
-1890 <tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt> tokens (78% of all `PRON` tokens) have a non-empty value of `Number`.
+3248 <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> tokens (39% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (1884; 100%), <tt><a href="lt_alksnis-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1366; 72%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="lt_alksnis-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (2894; 89%), <tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2307; 71%), <tt><a href="lt_alksnis-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2291; 71%), <tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (2124; 65%).
 
-`PRON` tokens may have the following values of `Number`:
+`VERB` tokens may have the following values of `Number`:
 
-* `Dual` (11; 1% of non-empty `Number`): <em>abi, mudu, mudviejų, Jiedu, abiejų, abiem</em>
-* `Plur` (858; 45% of non-empty `Number`): <em>jų, jie, kitų, juos, mūsų, kai, mes, jos, jiems, kiti</em>
-* `Sing` (1021; 54% of non-empty `Number`): <em>jis, jos, jo, aš, mano, man, ji, jį, jam, vienas</em>
-* `EMPTY` (529): <em>savo, kas, ką, nieko, niekas, save, viskas, visa, viską, sau</em>
+* `Plur` (1553; 48% of non-empty `Number`): <em>galite, turite, turime, galime, pateikti, susiję, aptariami, pateikiamos, aptariamos, atminkite</em>
+* `Sing` (1695; 52% of non-empty `Number`): <em>manau, nustatyta, nežinau, suteiktą, įgyvendindama, tiriamojo, analizuojama, dirbdamas, gali, grįžtamosios</em>
+* `EMPTY` (5010): <em>gali, turi, reikia, yra, turėtų, pateikti, rodo, sakė, dirbti, nėra</em>
 
 <table>
-  <tr><th>Paradigm <i>jis</i></th><th><tt>Sing</tt></th><th><tt>Dual</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>jį</em></td><td></td><td><em>juos</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>ją</em></td><td></td><td><em>jas</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>jam</em></td><td></td><td><em>jiems</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>jai</em></td><td></td><td><em>joms</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>jo</em></td><td></td><td><em>jų</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>jos</em></td><td></td><td><em>jų</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>juo</em></td><td></td><td><em>jais</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>ja</em></td><td></td><td><em>jomis</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>jame</em></td><td></td><td><em>juose</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>joje</em></td><td></td><td><em>jose</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>jinai</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>jis</em></td><td><em>Jiedu</em></td><td><em>jie</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>ji</em></td><td></td><td><em>jos</em></td></tr>
+  <tr><th>Paradigm <i>galėti</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="lt_alksnis-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="lt_alksnis-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>galinčių</em></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="lt_alksnis-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="lt_alksnis-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>galėjęs</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>galėčiau</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>GALĖTUMĖTE</em></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="lt_alksnis-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>galėsime</em></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="lt_alksnis-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>galėjau</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="lt_alksnis-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>galiu</em></td><td><em>galime</em></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="lt_alksnis-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>galėsi</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="lt_alksnis-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>galėjai</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="lt_alksnis-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>gali</em></td><td><em>galite</em></td></tr>
+</table>
+
+### `DET`
+
+1707 <tt><a href="lt_alksnis-pos-DET.html">DET</a></tt> tokens (99% of all `DET` tokens) have a non-empty value of `Number`.
+
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1107; 65%).
+
+`DET` tokens may have the following values of `Number`:
+
+* `Plur` (700; 41% of non-empty `Number`): <em>kurie, kitų, kurių, visus, visi, kitus, kurios, tokių, kiti, kai kurie</em>
+* `Sing` (1007; 59% of non-empty `Number`): <em>to, kuris, toks, vienas, visą, ši, šio, šis, kuri, pats</em>
+* `EMPTY` (20): <em>tai, visa, kas, viena, abiejų, kas nors, kelerius, kita, Šitai</em>
+
+<table>
+  <tr><th>Paradigm <i>kuris</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>kurį</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>kurį</em></td><td><em>kuriuos</em></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>kurią</em></td><td><em>kurias</em></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>kuriam</em></td><td><em>kuriems</em></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>kuriai</em></td><td><em>kurioms</em></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>kurio</em></td><td><em>kurių</em></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>kurios</em></td><td><em>kurių</em></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>kuriuo</em></td><td><em>kuriais</em></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>kuria</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>kuriame</em></td><td><em>kuriuose</em></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>kurioje</em></td><td><em>kuriose, kur</em></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>kuris</em></td><td><em>kurie</em></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>kuri</em></td><td><em>kurios</em></td></tr>
 </table>
 
 ### `PROPN`
 
-1573 <tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt> tokens (99% of all `PROPN` tokens) have a non-empty value of `Number`.
+1325 <tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt> tokens (79% of all `PROPN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (900; 57%).
+The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="lt_alksnis-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (1325; 100%), <tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (725; 55%).
 
 `PROPN` tokens may have the following values of `Number`:
 
-* `Plur` (33; 2% of non-empty `Number`): <em>Kalėdų, Kalėdos, Turkevičiai, Balkanų, Maximose, Babtų, Kalvelių, Kalėdas, Karibų, Karoliniškių</em>
-* `Sing` (1540; 98% of non-empty `Number`): <em>Lietuvos, Europos, Lietuvoje, Kauno, Vilniaus, Lietuva, Šengeno, Lietuvai, Vilnius, LIETUVOS</em>
-* `EMPTY` (20): <em>Čornij, Chaime, Golf, Vilmorus, Achenbach, Ford, Garbo, Kahkonen, Laozi, Pjer-Luji</em>
+* `Plur` (31; 2% of non-empty `Number`): <em>Kalėdų, Kalėdos, Turkevičiai, Balkanų, Maximose, Babtų, Kalėdas, Karibų, Karoliniškių, Kėdainiuose</em>
+* `Sing` (1294; 98% of non-empty `Number`): <em>Lietuvos, Europos, Lietuvoje, Kauno, Vilniaus, Šengeno, Lietuvai, Lietuva, Mažuolis, Glaveckas</em>
+* `EMPTY` (358): <em>ES, R., A., V., K., LKP, G., ADTAĮ, JAV, SSRS</em>
 
 <table>
   <tr><th>Paradigm <i>Maxima</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -156,136 +135,119 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
   <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>Maxima</em></td><td></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `PROPN`. 100% lemmas (543) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `PROPN`. 100% lemmas (474) occur only with one value of `Number`.
 
-### `DET`
+### `PRON`
 
-1568 <tt><a href="lt_alksnis-pos-DET.html">DET</a></tt> tokens (88% of all `DET` tokens) have a non-empty value of `Number`.
+1313 <tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt> tokens (66% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (1563; 100%), <tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (995; 63%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="lt_alksnis-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1265; 96%), <tt><a href="lt_alksnis-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1239; 94%).
 
-`DET` tokens may have the following values of `Number`:
+`PRON` tokens may have the following values of `Number`:
 
-* `Plur` (573; 37% of non-empty `Number`): <em>kurie, kurių, visų, šių, visus, kurios, visi, tokių, tie, šie</em>
-* `Sing` (995; 63% of non-empty `Number`): <em>to, šio, kuris, toks, visą, šios, kurios, šį, ši, šiame</em>
-* `EMPTY` (212): <em>tai, visa, tatai, Šitai</em>
-
-<table>
-  <tr><th>Paradigm <i>tas</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="lt_alksnis-feat-Hyph.html">Hyph</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>tuos</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>tą</em></td><td><em>tuos</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="lt_alksnis-feat-Hyph.html">Hyph</a></tt><tt>=Yes</tt></tt></td><td><em>tą</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>tą</em></td><td><em>tas</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="lt_alksnis-feat-Hyph.html">Hyph</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>tiems</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>tam, tuo</em></td><td><em>tiems</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="lt_alksnis-feat-Hyph.html">Hyph</a></tt><tt>=Yes</tt></tt></td><td><em>to</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>to</em></td><td><em>tų</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>tos</em></td><td><em>tų</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="lt_alksnis-feat-Hyph.html">Hyph</a></tt><tt>=Yes</tt></tt></td><td><em>tuo</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>tuo</em></td><td><em>tais</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="lt_alksnis-feat-Hyph.html">Hyph</a></tt><tt>=Yes</tt></tt></td><td><em>ta</em></td><td><em>tomis</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>ta</em></td><td><em>tomis</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>tame</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="lt_alksnis-feat-Hyph.html">Hyph</a></tt><tt>=Yes</tt></tt></td><td><em>toje</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>toje</em></td><td><em>tose</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>Tasai</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>toji</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="lt_alksnis-feat-Hyph.html">Hyph</a></tt><tt>=Yes</tt></tt></td><td><em>tas</em></td><td><em>tie</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>tas</em></td><td><em>tie</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="lt_alksnis-feat-Hyph.html">Hyph</a></tt><tt>=Yes</tt></tt></td><td><em>ta</em></td><td><em>tos</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>ta</em></td><td><em>tos</em></td></tr>
-</table>
-
-### `AUX`
-
-521 <tt><a href="lt_alksnis-pos-AUX.html">AUX</a></tt> tokens (76% of all `AUX` tokens) have a non-empty value of `Number`.
-
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="lt_alksnis-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (521; 100%), <tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (512; 98%), <tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=3</tt> (467; 90%), <tt><a href="lt_alksnis-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (463; 89%), <tt><a href="lt_alksnis-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (384; 74%), <tt><a href="lt_alksnis-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (288; 55%).
-
-`AUX` tokens may have the following values of `Number`:
-
-* `Plur` (207; 40% of non-empty `Number`): <em>yra, buvo, bus, būtų, esate, būdavo, būna, esame, Būsime, buvome</em>
-* `Sing` (314; 60% of non-empty `Number`): <em>yra, buvo, būtų, bus, esu, buvau, esi, esąs, būna, būsi</em>
-* `EMPTY` (163): <em>būti, buvo, būtų, yra, bus, buvus, buvę, būdavo, esant</em>
+* `Dual` (6; 0% of non-empty `Number`): <em>mudu, mudviejų, Jiedu</em>
+* `Plur` (540; 41% of non-empty `Number`): <em>jų, jie, juos, mūsų, mes, jos, jiems, mums, jūsų, jums</em>
+* `Sing` (767; 58% of non-empty `Number`): <em>jis, jo, jos, aš, mano, man, jį, ji, jam, tu</em>
+* `EMPTY` (680): <em>tai, savo, kas, ką, nieko, niekas, save, viskas, viską, visa</em>
 
 <table>
-  <tr><th>Paradigm <i>būti</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt>|<tt><a href="lt_alksnis-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="lt_alksnis-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>būdavo</em></td><td><em>būdavo</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="lt_alksnis-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="lt_alksnis-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>buvęs</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="lt_alksnis-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="lt_alksnis-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>buvusi</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="lt_alksnis-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="lt_alksnis-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>buvau</em></td><td><em>buvome</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="lt_alksnis-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="lt_alksnis-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>buvo</em></td><td><em>buvo</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="lt_alksnis-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="lt_alksnis-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>esąs</em></td><td><em>esą</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Conv</tt></tt></td><td><em>būdama</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>būčiau</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>būtum</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>būtų</em></td><td><em>būtų</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>būkite</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>būtų</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="lt_alksnis-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>būsiu</em></td><td><em>Būsime, būsim</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="lt_alksnis-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>esu, Esmi</em></td><td><em>esame</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="lt_alksnis-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>būsi</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="lt_alksnis-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>esi</em></td><td><em>esate</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="lt_alksnis-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>bus</em></td><td><em>bus</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="lt_alksnis-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>yra, būna</em></td><td><em>yra, būna</em></td></tr>
+  <tr><th>Paradigm <i>jis</i></th><th><tt>Sing</tt></th><th><tt>Dual</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>jį</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>jį</em></td><td></td><td><em>juos</em></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>ją</em></td><td></td><td><em>jas</em></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>jam</em></td><td></td><td><em>jiems</em></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>jai</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>jai</em></td><td></td><td><em>joms</em></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td></td><td><em>jų</em></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>jos</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>jo</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>jo</em></td><td></td><td><em>jų</em></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>jos</em></td><td></td><td><em>jų</em></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>juo</em></td><td></td><td><em>jais</em></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>ja</em></td><td></td><td><em>jomis</em></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>jame</em></td><td></td><td><em>juose</em></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>joje</em></td><td></td><td><em>jose</em></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>jinai</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td></td><td><em>Jie</em></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>jis</em></td><td><em>Jiedu</em></td><td><em>jie</em></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>ji</em></td><td></td><td><em>jos</em></td></tr>
 </table>
 
 ### `NUM`
 
-201 <tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt> tokens (12% of all `NUM` tokens) have a non-empty value of `Number`.
+174 <tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt> tokens (16% of all `NUM` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="lt_alksnis-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (183; 91%), <tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (127; 63%), <tt><a href="lt_alksnis-feat-NumType.html">NumType</a></tt><tt>=Ord</tt> (118; 59%).
+The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="lt_alksnis-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (169; 97%), <tt><a href="lt_alksnis-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (167; 96%), <tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (108; 62%).
 
 `NUM` tokens may have the following values of `Number`:
 
-* `Plur` (52; 26% of non-empty `Number`): <em>milijonų, tūkstančių, pirmųjų, tūkstančiai, šimtai, milijardų, milijonai, milijonus, pirmaisiais, pirmieji</em>
-* `Sing` (149; 74% of non-empty `Number`): <em>vieną, pirmoji, pirmą, antroji, viena, vieno, pirmas, 15-oji, Antrame, antroje</em>
-* `EMPTY` (1498): <em>1, 2, 3, 2006, 4, 5, 6, 25, 7, 10</em>
+* `Plur` (134; 77% of non-empty `Number`): <em>du, milijonų, trijų, dvi, dviejų, tris, tūkstančių, dviem, dešimt, trys</em>
+* `Sing` (40; 23% of non-empty `Number`): <em>vieną, vienas, vieno, milijono, tūkstantį, dešimties, tūkstančio, vienos, dešimčia, dvidešimtį</em>
+* `EMPTY` (946): <em>2006, 1, 2, 3, 4, 5, tūkst., 2004, 30, 6</em>
 
 <table>
-  <tr><th>Paradigm <i>pirmas</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="lt_alksnis-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt></tt></td><td><em>pirmąjį</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="lt_alksnis-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt></tt></td><td><em>pirmąją</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="lt_alksnis-feat-Hyph.html">Hyph</a></tt><tt>=Yes</tt>|<tt><a href="lt_alksnis-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt></tt></td><td><em>pirmą</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="lt_alksnis-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt></tt></td><td><em>pirmą</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="lt_alksnis-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt></tt></td><td><em>Pirmajai</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="lt_alksnis-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt></tt></td><td><em>pirmojo</em></td><td><em>pirmųjų</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="lt_alksnis-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt></tt></td><td><em>pirmo</em></td><td><em>pirmo, pirmųjų</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="lt_alksnis-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt></tt></td><td><em>pirmos</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="lt_alksnis-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt></tt></td><td></td><td><em>pirmaisiais</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="lt_alksnis-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt></tt></td><td><em>pirmajame</em></td><td><em>pirmuosiuose</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="lt_alksnis-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt></tt></td><td><em>pirmojoje</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="lt_alksnis-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt></tt></td><td><em>pirmame</em></td><td><em>Pirmuose</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="lt_alksnis-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt></tt></td><td><em>pirmasis</em></td><td><em>pirmieji</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="lt_alksnis-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt></tt></td><td><em>pirmoji</em></td><td><em>pirmosios</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>pirmoji</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="lt_alksnis-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt></tt></td><td><em>pirmas</em></td><td><em>pirmi</em></td></tr>
-  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="lt_alksnis-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt></tt></td><td><em>pirmoji</em></td><td></td></tr>
+  <tr><th>Paradigm <i>vienas</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="lt_alksnis-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt>|<tt><a href="lt_alksnis-feat-NumType.html">NumType</a></tt><tt>=Card</tt></tt></td><td><em>vieną</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="lt_alksnis-feat-NumType.html">NumType</a></tt><tt>=Card</tt></tt></td><td><em>vieną</em></td><td><em>vienus</em></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="lt_alksnis-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt></tt></td><td><em>vieną</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="lt_alksnis-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt>|<tt><a href="lt_alksnis-feat-NumType.html">NumType</a></tt><tt>=Card</tt></tt></td><td><em>vieną</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="lt_alksnis-feat-NumType.html">NumType</a></tt><tt>=Card</tt></tt></td><td><em>vieną</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="lt_alksnis-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt>|<tt><a href="lt_alksnis-feat-NumType.html">NumType</a></tt><tt>=Card</tt></tt></td><td><em>vienai</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="lt_alksnis-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt>|<tt><a href="lt_alksnis-feat-NumType.html">NumType</a></tt><tt>=Card</tt></tt></td><td><em>vieno</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="lt_alksnis-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt>|<tt><a href="lt_alksnis-feat-NumType.html">NumType</a></tt><tt>=Card</tt></tt></td><td><em>vienos</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="lt_alksnis-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt>|<tt><a href="lt_alksnis-feat-NumType.html">NumType</a></tt><tt>=Card</tt></tt></td><td><em>viename</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="lt_alksnis-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt>|<tt><a href="lt_alksnis-feat-NumType.html">NumType</a></tt><tt>=Card</tt></tt></td><td><em>vienas</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="lt_alksnis-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt>|<tt><a href="lt_alksnis-feat-NumType.html">NumType</a></tt><tt>=Card</tt></tt></td><td><em>viena</em></td><td></td></tr>
 </table>
 
-### `X`
+### `AUX`
 
-2 <tt><a href="lt_alksnis-pos-X.html">X</a></tt> tokens (0% of all `X` tokens) have a non-empty value of `Number`.
+70 <tt><a href="lt_alksnis-pos-AUX.html">AUX</a></tt> tokens (9% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `X` and `Number` co-occurred: <tt><a href="lt_alksnis-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="lt_alksnis-feat-Hyph.html">Hyph</a></tt><tt>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="lt_alksnis-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (62; 89%), <tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (58; 83%), <tt><a href="lt_alksnis-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (50; 71%), <tt><a href="lt_alksnis-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (39; 56%).
 
-`X` tokens may have the following values of `Number`:
+`AUX` tokens may have the following values of `Number`:
 
-* `Plur` (1; 50% of non-empty `Number`): <em>jaunųjų</em>
-* `Sing` (1; 50% of non-empty `Number`): <em>naudos</em>
-* `EMPTY` (1569): <em>pat, ES, d, proc, Nr, nors, a, p, to, tūkst</em>
+* `Plur` (17; 24% of non-empty `Number`): <em>esate, būkite, esame, Būsime, buvome, būsim, būsite, esą, nebūsite, nebūtumėte</em>
+* `Sing` (53; 76% of non-empty `Number`): <em>esi, esu, buvau, esąs, būsi, buvęs, būčiau, nebūčiau, Esmi, bus</em>
+* `EMPTY` (697): <em>yra, buvo, būtų, būti, nėra, bus, nebuvo, būna, nebus, nebūtų</em>
+
+<table>
+  <tr><th>Paradigm <i>būti</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="lt_alksnis-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="lt_alksnis-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>buvęs</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="lt_alksnis-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="lt_alksnis-feat-Variant.html">Variant</a></tt><tt>=Short</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="lt_alksnis-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>esąs</em></td><td><em>esą</em></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="lt_alksnis-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="lt_alksnis-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>buvusi</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Conv</tt></tt></td><td><em>būdamas</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Conv</tt></tt></td><td><em>būdama</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="lt_alksnis-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>nebūčiau</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>būčiau</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="lt_alksnis-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>nebūtumėte</em></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>būtum</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>būkite</em></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="lt_alksnis-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="lt_alksnis-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>Būsime</em></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="lt_alksnis-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="lt_alksnis-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>esu</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="lt_alksnis-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="lt_alksnis-feat-Variant.html">Variant</a></tt><tt>=Short</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>būsim</em></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="lt_alksnis-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>būsiu</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="lt_alksnis-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>buvau</em></td><td><em>buvome</em></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="lt_alksnis-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>esu, Esmi, būnu</em></td><td><em>esame</em></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="lt_alksnis-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="lt_alksnis-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>nebūsite</em></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="lt_alksnis-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="lt_alksnis-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>būsi</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="lt_alksnis-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>būsi</em></td><td><em>būsite</em></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="lt_alksnis-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>esi</em></td><td><em>esate</em></td></tr>
+  <tr><td><tt><tt><a href="lt_alksnis-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="lt_alksnis-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="lt_alksnis-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>bus</em></td><td></td></tr>
+</table>
 
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="lt_alksnis-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (4279; 56%),
-<tt>NOUN --[<tt><a href="lt_alksnis-dep-amod.html">amod</a></tt>]--> ADJ</tt> (3641; 99%),
-<tt>VERB --[<tt><a href="lt_alksnis-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1812; 95%),
-<tt>NOUN --[<tt><a href="lt_alksnis-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1590; 74%),
-<tt>NOUN --[<tt><a href="lt_alksnis-dep-acl.html">acl</a></tt>]--> VERB</tt> (1571; 87%),
-<tt>NOUN --[<tt><a href="lt_alksnis-dep-det.html">det</a></tt>]--> DET</tt> (842; 100%),
-<tt>VERB --[<tt><a href="lt_alksnis-dep-conj.html">conj</a></tt>]--> VERB</tt> (766; 70%),
-<tt>NOUN --[<tt><a href="lt_alksnis-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (633; 78%),
-<tt>NOUN --[<tt><a href="lt_alksnis-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (563; 60%),
-<tt>VERB --[<tt><a href="lt_alksnis-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (391; 95%).
+<tt>NOUN --[<tt><a href="lt_alksnis-dep-amod.html">amod</a></tt>]--> ADJ</tt> (2892; 100%),
+<tt>NOUN --[<tt><a href="lt_alksnis-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2795; 56%),
+<tt>NOUN --[<tt><a href="lt_alksnis-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1258; 74%),
+<tt>NOUN --[<tt><a href="lt_alksnis-dep-amod.html">amod</a></tt>]--> VERB</tt> (1099; 99%),
+<tt>NOUN --[<tt><a href="lt_alksnis-dep-det.html">det</a></tt>]--> DET</tt> (988; 99%),
+<tt>VERB --[<tt><a href="lt_alksnis-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (427; 91%),
+<tt>NOUN --[<tt><a href="lt_alksnis-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (377; 58%),
+<tt>NOUN --[<tt><a href="lt_alksnis-dep-nmod-arg.html">nmod:arg</a></tt>]--> NOUN</tt> (329; 56%),
+<tt>VERB --[<tt><a href="lt_alksnis-dep-conj.html">conj</a></tt>]--> VERB</tt> (292; 52%),
+<tt>ADJ --[<tt><a href="lt_alksnis-dep-conj.html">conj</a></tt>]--> ADJ</tt> (194; 97%).
 

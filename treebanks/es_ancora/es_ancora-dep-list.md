@@ -30,7 +30,7 @@ The following 5 pairs of parts of speech are connected with `list`: <tt><a href=
 6	2do	2do	ADJ	_	NumForm=Digit|NumType=Ord	5	list	5:list	Entity=(NOCOREF:Spec.number-number-1-gstype:spec)
 7	3ro	3ro	ADJ	_	NumForm=Digit|NumType=Ord	5	list	5:list	Entity=(NOCOREF:Spec.number-number-1-gstype:spec)
 8	4to	4to	ADJ	_	NumForm=Digit|NumType=Ord	5	list	5:list	Entity=(NOCOREF:Spec.number-number-1-gstype:spec)
-9	PO	PO	NOUN	np00000	_	5	list	5:list	MWE=PO_Total|MWEPOS=PROPN|Entity=(NOCOREF:Spec.other-other-1-gstype:spec
+9	PO	PO	NOUN	np00000	_	5	list	5:list	Entity=(NOCOREF:Spec.other-other-1-gstype:spec|MWE=PO_Total|MWEPOS=PROPN
 10	Total	Total	NOUN	_	_	5	list	5:list	Entity=NOCOREF:Spec.other)
 11	-	-	PUNCT	fg	PunctType=Dash	13	punct	13:punct	_
 12	Los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	13:det	Entity=(CESSCASTAA200012074633c9-organization-2-CorefType:ident,gstype:spec
@@ -42,7 +42,7 @@ The following 5 pairs of parts of speech are connected with `list`: <tt><a href=
 18	15	15	NUM	_	NumForm=Digit|NumType=Card	15	list	15:list	Entity=(NOCOREF:Spec.number-number-1-gstype:spec)
 19	15	15	NUM	_	NumForm=Digit|NumType=Card	15	list	15:list	Entity=(NOCOREF:Spec.number-number-1-gstype:spec)
 20	122	122	NUM	_	NumForm=Digit|NumType=Card	15	list	15:list	Entity=(NOCOREF:Spec.number-number-1-gstype:spec)
-21	Golden	Golden	PROPN	np00000	_	13	list	13:list	MWE=Golden_State|MWEPOS=PROPN|Entity=(CESSCASTAA200012074633c7-organization-1-CorefType:ident,gstype:spec
+21	Golden	Golden	PROPN	np00000	_	13	list	13:list	Entity=(CESSCASTAA200012074633c7-organization-1-CorefType:ident,gstype:spec|MWE=Golden_State|MWEPOS=PROPN
 22	State	State	PROPN	_	_	21	flat	21:flat	Entity=CESSCASTAA200012074633c7)
 23	31	31	NUM	_	NumForm=Digit|NumType=Card	21	appos	21:appos	Entity=(NOCOREF:Spec.number-number-1-gstype:spec)
 24	32	32	NUM	_	NumForm=Digit|NumType=Card	23	list	23:list	Entity=(NOCOREF:Spec.number-number-1-gstype:spec)
@@ -72,7 +72,7 @@ The following 5 pairs of parts of speech are connected with `list`: <tt><a href=
 9	Mamet	Mamet	PROPN	_	_	8	flat	8:flat	Entity=CESSCASTP1999110181c2)NOCOREF:Gen)
 10	Intérpretes	intérprete	NOUN	nccp000	Number=Plur	3	list	3:list	SpaceAfter=No
 11	:	:	PUNCT	fd	PunctType=Colo	12	punct	12:punct	_
-12	Nigel	Nigel	PROPN	np00000	_	10	appos	10:appos	MWE=Nigel_Hawthorne|MWEPOS=PROPN|Entity=(CESSCASTP1999110181c17--1
+12	Nigel	Nigel	PROPN	np00000	_	10	appos	10:appos	Entity=(CESSCASTP1999110181c17--1|MWE=Nigel_Hawthorne|MWEPOS=PROPN
 13	Hawthorne	Hawthorne	PROPN	_	_	12	flat	12:flat	Entity=CESSCASTP1999110181c17)|SpaceAfter=No
 14	,	,	PUNCT	fc	PunctType=Comm	15	punct	15:punct	_
 15	Rebecca	Rebecca	PROPN	np00000	_	12	conj	12:conj	MWE=Rebecca_Pidgeon|MWEPOS=PROPN
@@ -115,7 +115,7 @@ The following 5 pairs of parts of speech are connected with `list`: <tt><a href=
 6	2do	2do	ADJ	_	NumForm=Digit|NumType=Ord	5	list	5:list	Entity=(NOCOREF:Spec.number-number-1-gstype:spec)
 7	3ro	3ro	ADJ	_	NumForm=Digit|NumType=Ord	5	list	5:list	Entity=(NOCOREF:Spec.number-number-1-gstype:spec)
 8	4to	4to	ADJ	_	NumForm=Digit|NumType=Ord	5	list	5:list	Entity=(NOCOREF:Spec.number-number-1-gstype:spec)
-9	PO	PO	NOUN	np00000	_	5	list	5:list	MWE=PO_Total|MWEPOS=PROPN|Entity=(NOCOREF:Spec.other-other-1-gstype:spec
+9	PO	PO	NOUN	np00000	_	5	list	5:list	Entity=(NOCOREF:Spec.other-other-1-gstype:spec|MWE=PO_Total|MWEPOS=PROPN
 10	Total	Total	NOUN	_	_	5	list	5:list	Entity=NOCOREF:Spec.other)
 11	-	-	PUNCT	fg	PunctType=Dash	13	punct	13:punct	_
 12	Los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	13:det	Entity=(CESSCASTAA200012074633c9-organization-2-CorefType:ident,gstype:spec
@@ -127,7 +127,7 @@ The following 5 pairs of parts of speech are connected with `list`: <tt><a href=
 18	15	15	NUM	_	NumForm=Digit|NumType=Card	15	list	15:list	Entity=(NOCOREF:Spec.number-number-1-gstype:spec)
 19	15	15	NUM	_	NumForm=Digit|NumType=Card	15	list	15:list	Entity=(NOCOREF:Spec.number-number-1-gstype:spec)
 20	122	122	NUM	_	NumForm=Digit|NumType=Card	15	list	15:list	Entity=(NOCOREF:Spec.number-number-1-gstype:spec)
-21	Golden	Golden	PROPN	np00000	_	13	list	13:list	MWE=Golden_State|MWEPOS=PROPN|Entity=(CESSCASTAA200012074633c7-organization-1-CorefType:ident,gstype:spec
+21	Golden	Golden	PROPN	np00000	_	13	list	13:list	Entity=(CESSCASTAA200012074633c7-organization-1-CorefType:ident,gstype:spec|MWE=Golden_State|MWEPOS=PROPN
 22	State	State	PROPN	_	_	21	flat	21:flat	Entity=CESSCASTAA200012074633c7)
 23	31	31	NUM	_	NumForm=Digit|NumType=Card	21	appos	21:appos	Entity=(NOCOREF:Spec.number-number-1-gstype:spec)
 24	32	32	NUM	_	NumForm=Digit|NumType=Card	23	list	23:list	Entity=(NOCOREF:Spec.number-number-1-gstype:spec)

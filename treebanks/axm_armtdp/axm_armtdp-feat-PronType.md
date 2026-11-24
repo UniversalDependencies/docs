@@ -7,26 +7,28 @@ udver: '2'
 ## Treebank Statistics: UD_Middle_Armenian-ArmTDP: Features: `PronType`
 
 This feature is universal but the values `Poss` are language-specific.
-It occurs with 7 different values: `Art`, `Dem`, `Ind`, `Poss`, `Prs`, `Rel`, `Tot`.
+It occurs with 8 different values: `Art`, `Dem`, `Ind`, `Poss`, `Prs`, `Rcp`, `Rel`, `Tot`.
 
-85 tokens (8%) have a non-empty value of `PronType`.
-35 types (9%) occur at least once with a non-empty value of `PronType`.
-25 lemmas (8%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="axm_armtdp-pos-PRON.html">PRON</a></tt> (41; 4% instances), <tt><a href="axm_armtdp-pos-DET.html">DET</a></tt> (37; 3% instances), <tt><a href="axm_armtdp-pos-ADV.html">ADV</a></tt> (7; 1% instances).
+380 tokens (7%) have a non-empty value of `PronType`.
+75 types (5%) occur at least once with a non-empty value of `PronType`.
+40 lemmas (4%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 3 part-of-speech tags: <tt><a href="axm_armtdp-pos-PRON.html">PRON</a></tt> (192; 3% instances), <tt><a href="axm_armtdp-pos-DET.html">DET</a></tt> (172; 3% instances), <tt><a href="axm_armtdp-pos-ADV.html">ADV</a></tt> (16; 0% instances).
 
 ### `PRON`
 
-41 <tt><a href="axm_armtdp-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+192 <tt><a href="axm_armtdp-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="axm_armtdp-feat-Deixis-psor.html">Deixis[psor]</a></tt><tt>=EMPTY</tt> (35; 85%), <tt><a href="axm_armtdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (32; 78%), <tt><a href="axm_armtdp-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (28; 68%), <tt><a href="axm_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (28; 68%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="axm_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (166; 86%), <tt><a href="axm_armtdp-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (147; 77%), <tt><a href="axm_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (136; 71%), <tt><a href="axm_armtdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (124; 65%).
 
 `PRON` tokens may have the following values of `PronType`:
 
-* `Dem` (14; 34% of non-empty `PronType`): <em>այս, այսոր, այն, այնոր, այնոք, այնպիսիքն, նմայ, նմանէ, նորա</em>
-* `Ind` (8; 20% of non-empty `PronType`): <em>զինչ, ինչ, իրք, այլն, մէկն, ոմանք, ոք</em>
-* `Prs` (9; 22% of non-empty `PronType`): <em>ինքն, իւրմէն, ինքս, իւրն, նոքա</em>
-* `Rel` (9; 22% of non-empty `PronType`): <em>որ, ինչ</em>
-* `Tot` (1; 2% of non-empty `PronType`): <em>ամէնն</em>
+* `Dem` (45; 23% of non-empty `PronType`): <em>այս, այնոր, այսոր, այն, այնոք, սա, նմայ, նորա, այնպիսիքն, նա</em>
+* `Ind` (4; 2% of non-empty `PronType`): <em>ինչ, այլն, ոմանք, ոք</em>
+* `Poss` (2; 1% of non-empty `PronType`): <em>իրովն</em>
+* `Prs` (66; 34% of non-empty `PronType`): <em>ինք, դու, ես, ինքն, իրմէ, իր, ինձ, ինքս, իս, իւրմէն</em>
+* `Rcp` (6; 3% of non-empty `PronType`): <em>իրար, իրաց</em>
+* `Rel` (67; 35% of non-empty `PronType`): <em>որ, զինչ, զինչն, ինչ, որոյ, որոց, որու, որում, որտեղ, որք</em>
+* `Tot` (2; 1% of non-empty `PronType`): <em>ամենեսեան, ամէնն</em>
 
 <table>
   <tr><th>Paradigm <i>ինչ</i></th><th><tt>Rel</tt></th><th><tt>Ind</tt></th></tr>
@@ -34,37 +36,46 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
   <tr><td><tt><tt><a href="axm_armtdp-feat-ExtPos.html">ExtPos</a></tt><tt>=PRON</tt></tt></td><td><em>ինչ</em></td><td></td></tr>
 </table>
 
-`PronType` seems to be **lexical feature** of `PRON`. 94% lemmas (15) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `PRON`. 95% lemmas (20) occur only with one value of `PronType`.
 
 ### `DET`
 
-37 <tt><a href="axm_armtdp-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+172 <tt><a href="axm_armtdp-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="axm_armtdp-feat-Style.html">Style</a></tt><tt>=EMPTY</tt> (31; 84%), <tt><a href="axm_armtdp-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (27; 73%), <tt><a href="axm_armtdp-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (26; 70%), <tt><a href="axm_armtdp-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (26; 70%), <tt><a href="axm_armtdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (26; 70%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="axm_armtdp-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (142; 83%), <tt><a href="axm_armtdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (142; 83%), <tt><a href="axm_armtdp-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (122; 71%).
 
 `DET` tokens may have the following values of `PronType`:
 
-* `Art` (1; 3% of non-empty `PronType`): <em>մի</em>
-* `Dem` (11; 30% of non-empty `PronType`): <em>այս, այն, հայնց</em>
-* `Ind` (12; 32% of non-empty `PronType`): <em>այլ</em>
-* `Poss` (11; 30% of non-empty `PronType`): <em>իւր, իր, իրենց</em>
-* `Tot` (2; 5% of non-empty `PronType`): <em>ամենայն, ամէն</em>
+* `Art` (38; 22% of non-empty `PronType`): <em>մի, ն, մը, մն</em>
+* `Dem` (44; 26% of non-empty `PronType`): <em>այս, այն, հայնց, նոյն</em>
+* `Ind` (44; 26% of non-empty `PronType`): <em>այլ, քանի, ինչ, մէկ</em>
+* `Poss` (26; 15% of non-empty `PronType`): <em>իւր, իր, իմ, իրենց</em>
+* `Prs` (4; 2% of non-empty `PronType`): <em>իմոյ, իմոց, մերոց</em>
+* `Tot` (16; 9% of non-empty `PronType`): <em>ամէն, ամենայն</em>
+
+<table>
+  <tr><th>Paradigm <i>իմ</i></th><th><tt>Prs</tt></th><th><tt>Poss</tt></th></tr>
+  <tr><td><tt><tt><a href="axm_armtdp-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="axm_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="axm_armtdp-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td><em>իմոյ</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="axm_armtdp-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="axm_armtdp-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="axm_armtdp-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td><em>իմոց</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="axm_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>իմ</em></td></tr>
+</table>
+
+`PronType` seems to be **lexical feature** of `DET`. 94% lemmas (17) occur only with one value of `PronType`.
 
 ### `ADV`
 
-7 <tt><a href="axm_armtdp-pos-ADV.html">ADV</a></tt> tokens (24% of all `ADV` tokens) have a non-empty value of `PronType`.
+16 <tt><a href="axm_armtdp-pos-ADV.html">ADV</a></tt> tokens (11% of all `ADV` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="axm_armtdp-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="axm_armtdp-feat-Style.html">Style</a></tt><tt>=EMPTY</tt> (7; 100%).
+The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="axm_armtdp-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (13; 81%).
 
 `ADV` tokens may have the following values of `PronType`:
 
-* `Dem` (4; 57% of non-empty `PronType`): <em>անդ, աստ</em>
-* `Rel` (3; 43% of non-empty `PronType`): <em>երբ, ուր</em>
-* `EMPTY` (22): <em>այլ, անհնար, խիստ, յերբ, յորժամ, ազգեւազգ, աւրինաւոր, ըղորդ, հանապազ, հանց</em>
+* `Dem` (8; 50% of non-empty `PronType`): <em>աստ, հայնց, անդ, ինչվայն</em>
+* `Rel` (8; 50% of non-empty `PronType`): <em>երբ, եբ, ուր, յերբ</em>
+* `EMPTY` (136): <em>վայր, այլ, քիչ, ապա, խիստ, աղէկ, շատ, արդ, յորժամ, շող</em>
 
 ## Relations with Agreement in `PronType`
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
-<tt>ADV --[<tt><a href="axm_armtdp-dep-conj.html">conj</a></tt>]--> ADV</tt> (2; 100%),
-<tt>PRON --[<tt><a href="axm_armtdp-dep-det.html">det</a></tt>]--> DET</tt> (2; 100%).
+<tt>ADV --[<tt><a href="axm_armtdp-dep-fixed.html">fixed</a></tt>]--> ADV</tt> (2; 100%).
 

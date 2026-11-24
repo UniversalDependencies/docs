@@ -10,10 +10,10 @@ This feature is universal.
 It occurs with 6 different values: `Acc`, `Dat`, `Erg`, `Gen`, `Ins`, `Nom`.
 Some words have combined values of the feature; 4 combinations have been observed: `Acc|Dat`, `Acc|Erg`, `Acc|Gen`, `Acc|Ins`.
 
-75764 tokens (55%) have a non-empty value of `Case`.
+75763 tokens (55%) have a non-empty value of `Case`.
 9226 types (85%) occur at least once with a non-empty value of `Case`.
 8530 lemmas (89%) occur at least once with a non-empty value of `Case`.
-The feature is used with 14 part-of-speech tags: <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (32674; 24% instances), <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> (17052; 12% instances), <tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt> (10578; 8% instances), <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt> (5933; 4% instances), <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> (5187; 4% instances), <tt><a href="ur_udtb-pos-DET.html">DET</a></tt> (1954; 1% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (1611; 1% instances), <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> (475; 0% instances), <tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt> (135; 0% instances), <tt><a href="ur_udtb-pos-NUM.html">NUM</a></tt> (94; 0% instances), <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> (55; 0% instances), <tt><a href="ur_udtb-pos-SCONJ.html">SCONJ</a></tt> (7; 0% instances), <tt><a href="ur_udtb-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), <tt><a href="ur_udtb-pos-X.html">X</a></tt> (4; 0% instances).
+The feature is used with 14 part-of-speech tags: <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (32674; 24% instances), <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> (17051; 12% instances), <tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt> (10578; 8% instances), <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt> (5933; 4% instances), <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> (5187; 4% instances), <tt><a href="ur_udtb-pos-DET.html">DET</a></tt> (1954; 1% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (1611; 1% instances), <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> (475; 0% instances), <tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt> (135; 0% instances), <tt><a href="ur_udtb-pos-NUM.html">NUM</a></tt> (94; 0% instances), <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> (55; 0% instances), <tt><a href="ur_udtb-pos-SCONJ.html">SCONJ</a></tt> (7; 0% instances), <tt><a href="ur_udtb-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), <tt><a href="ur_udtb-pos-X.html">X</a></tt> (4; 0% instances).
 
 ### `NOUN`
 
@@ -37,15 +37,15 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `PROPN`
 
-17052 <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Case`.
+17051 <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt> (17025; 100%), <tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (16974; 100%), <tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (16235; 95%).
+The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt> (17024; 100%), <tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (16973; 100%), <tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (16234; 95%).
 
 `PROPN` tokens may have the following values of `Case`:
 
 * `Acc` (7128; 42% of non-empty `Case`): کانگریس، ہندوستان، ریڈی، سنگھ، پاکستان، پی، امریکہ، آئی، مئی، اپریل
-* `Nom` (9924; 58% of non-empty `Case`): پی، سی، بی، ایس، آئی، ٹی، ڈی، محمد، آر، جے
-* `EMPTY` (83): برائے، و، -، 27، ایک، 09، 2009، 25، 28، 29
+* `Nom` (9923; 58% of non-empty `Case`): پی، سی، بی، ایس، آئی، ٹی، ڈی، محمد، آر، جے
+* `EMPTY` (80): برائے، و، -، 27، ایک، 09، 2009، 25، 28، 29
 
 <table>
   <tr><th>Paradigm <i>پی</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>
@@ -113,7 +113,7 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 5187 <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> tokens (93% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="ur_udtb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (5102; 98%), <tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4591; 89%), <tt><a href="ur_udtb-feat-Polite.html">Polite</a></tt><tt>=EMPTY</tt> (4433; 85%), <tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt> (3742; 72%), <tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3505; 68%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="ur_udtb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (5149; 99%), <tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4591; 89%), <tt><a href="ur_udtb-feat-Polite.html">Polite</a></tt><tt>=EMPTY</tt> (4433; 85%), <tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt> (3742; 72%), <tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3505; 68%).
 
 `PRON` tokens may have the following values of `Case`:
 
@@ -121,7 +121,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 * `Acc,Dat` (365; 7% of non-empty `Case`): انہیں، اسے، انھیں، جسے، انہوں، ہمیں، مجھے، جنہیں، میرے، اُنھیں
 * `Acc,Gen` (35; 1% of non-empty `Case`): ان، ہم، میری، میرا، اس، جس، میرے، ہمارے
 * `Acc,Ins` (3; 0% of non-empty `Case`): ازیں
-* `Nom` (2128; 41% of non-empty `Case`): وہ، جو، یہ، کوئی، اب، یہاں، اپنے، جب، اپنی، جہاں
+* `Nom` (2128; 41% of non-empty `Case`): وہ، جو، یہ، کوئی، اب، یہاں، اپنے، جب، اپنی، اپنا
 * `EMPTY` (410): سب، جو، خود، تو، کیا، اب، جب، کچھ، کیوں، انہوں
 
 <table>
@@ -152,11 +152,11 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 1954 <tt><a href="ur_udtb-pos-DET.html">DET</a></tt> tokens (78% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="ur_udtb-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (1867; 96%), <tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt> (1775; 91%), <tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1671; 86%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="ur_udtb-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (1883; 96%), <tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt> (1775; 91%), <tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1671; 86%).
 
 `DET` tokens may have the following values of `Case`:
 
-* `Acc` (1045; 53% of non-empty `Case`): اس، ان، ایسے، اسی، دیگر، کسی، جن، جس، ایسی، اُس
+* `Acc` (1045; 53% of non-empty `Case`): اس، ان، ایسے، اسی، کسی، جن، دیگر، جس، ایسی، اُس
 * `Acc,Dat` (1; 0% of non-empty `Case`): ہم
 * `Nom` (908; 46% of non-empty `Case`): یہ، اس، اسی، کوئی، جو، وہ، ان، ایسے، ایسا، یہی
 * `EMPTY` (542): کئی، تمام، کچھ، ہر، چند، بعض، زیادہ، کم، بہت، کیا
@@ -184,7 +184,7 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 
 * `Acc` (1521; 94% of non-empty `Case`): کرنے، ہونے، دینے، رکھنے، بنانے، لینے، آنے، رہنے، جانے، لگانے
 * `Nom` (90; 6% of non-empty `Case`): کی، دیا، کرنے، کرنا، جانا، پڑھنا، کر، کھیل، گھرے، آنے
-* `EMPTY` (11084): کیا، کہا، کر، کی، ہو، دیا، کرتے، ہے، دی، بتایا
+* `EMPTY` (11082): کیا، کہا، کر، کی، ہو، دیا، کرتے، ہے، دی، بتایا
 
 <table>
   <tr><th>Paradigm <i>کرنا</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>
@@ -239,7 +239,7 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 * `Acc` (128; 95% of non-empty `Case`): جانے، کرنے، پڑنے، پڑا، کے، جانا، رہنے، پانے
 * `Acc,Erg` (1; 1% of non-empty `Case`): جانے
 * `Nom` (6; 4% of non-empty `Case`): جا، تھا، کی، ہیں
-* `EMPTY` (8986): ہے، ہیں، ہوئے، گیا، تھا، ہےں، جا، گئی، گئے، تھی
+* `EMPTY` (8988): ہے، ہیں، ہوئے، گیا، تھا، ہےں، جا، گئی، گئے، تھی
 
 <table>
   <tr><th>Paradigm <i>جانا</i></th><th><tt>Acc,Erg</tt></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>
@@ -265,7 +265,7 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 * `Acc` (66; 70% of non-empty `Case`): اےک، دونوں، تین، تینوں، کروڑ، ہزار، 30، ایک، لاکھ، چار
 * `Nom` (28; 30% of non-empty `Case`): دونوں، ایک، لاکھ، 02، 4، 50، آدھ، ارب، اےک، تین
-* `EMPTY` (2367): اےک، ایک، دو، تین، دونوں، لاکھ، پانچ، ہزار، چار، کروڑ
+* `EMPTY` (2369): اےک، ایک، دو، تین، دونوں، لاکھ، پانچ، ہزار، چار، کروڑ
 
 <table>
   <tr><th>Paradigm <i>اےک</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>
@@ -312,7 +312,7 @@ The most frequent other feature values with which `PART` and `Case` co-occurred:
 
 * `Acc` (2; 40% of non-empty `Case`): اور، و
 * `Nom` (3; 60% of non-empty `Case`): و، تاہم
-* `EMPTY` (3243): اور، و، لیکن، جبکہ، تاہم، یا، مگر، نیز، لہذا، آیا
+* `EMPTY` (3244): اور، و، لیکن، جبکہ، تاہم، یا، مگر، نیز، لہذا، آیا
 
 ### `X`
 
@@ -335,13 +335,13 @@ The most frequent other feature values with which `X` and `Case` co-occurred: <t
 
 The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="ur_udtb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (4460; 74%),
-<tt>NOUN --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (3364; 53%),
-<tt>NOUN --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (1903; 65%),
+<tt>NOUN --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (3383; 53%),
+<tt>NOUN --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (1912; 65%),
 <tt>NOUN --[<tt><a href="ur_udtb-dep-det.html">det</a></tt>]--> DET</tt> (1624; 69%),
 <tt>NOUN --[<tt><a href="ur_udtb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (808; 74%),
-<tt>PROPN --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (728; 55%),
-<tt>NOUN --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (718; 58%),
+<tt>NOUN --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (744; 59%),
+<tt>PROPN --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (730; 55%),
 <tt>PROPN --[<tt><a href="ur_udtb-dep-conj.html">conj</a></tt>]--> PROPN</tt> (661; 88%),
-<tt>PROPN --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (480; 65%),
-<tt>NOUN --[<tt><a href="ur_udtb-dep-det.html">det</a></tt>]--> PRON</tt> (188; 77%).
+<tt>PROPN --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (481; 65%),
+<tt>NOUN --[<tt><a href="ur_udtb-dep-det.html">det</a></tt>]--> PRON</tt> (191; 77%).
 

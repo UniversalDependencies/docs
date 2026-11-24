@@ -58,7 +58,7 @@ The following 7 pairs of parts of speech are connected with `obl:arg`: <tt><a hr
 10	Großteil	Großteil	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	6	obj	_	_
 11	des	der	DET	DT	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	Sommers	Sommer	NOUN	NN	Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
-13	1947	1947	NUM	CD	NumType=Card	12	obl:tmod	_	_
+13	1947	1947	NUM	CD	NumType=Card	12	nmod:tmod	_	_
 14	in	in	ADP	IN	_	16	case	_	_
 15	der	der	DET	DT	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
 16	Schweiz	Schweiz	PROPN	NNP	Case=Dat|Gender=Fem|Number=Sing	6	obl	_	SpaceAfter=No

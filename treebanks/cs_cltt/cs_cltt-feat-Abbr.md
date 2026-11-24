@@ -18,7 +18,7 @@ The feature is used with 4 part-of-speech tags: <tt><a href="cs_cltt-pos-NOUN.ht
 
 27 <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (27; 100%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (27; 100%), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (20; 74%), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (20; 74%).
+The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (27; 100%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (27; 100%), <tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (27; 100%), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (20; 74%), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (20; 74%).
 
 `NOUN` tokens may have the following values of `Abbr`:
 
@@ -29,7 +29,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 
 4 <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="cs_cltt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (4; 100%), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (4; 100%).
+The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="cs_cltt-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="cs_cltt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (4; 100%), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (4; 100%).
 
 `ADJ` tokens may have the following values of `Abbr`:
 
@@ -45,7 +45,7 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (3; 100% of non-empty `Abbr`): <em>něm</em>
-* `EMPTY` (772): <em>dále, zejména, popřípadě, jinak, pouze, kdy, též, například, tak, více</em>
+* `EMPTY` (774): <em>dále, zejména, popřípadě, jinak, pouze, kdy, též, tak, například, více</em>
 
 ### `DET`
 

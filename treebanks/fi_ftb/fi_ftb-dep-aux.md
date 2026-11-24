@@ -10,10 +10,10 @@ This relation is universal.
 
 6842 nodes (4%) are attached to their parents as `aux`.
 
-6760 instances of `aux` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.76132709733996.
+6673 instances of `aux` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.75153463899445.
 
-The following 8 pairs of parts of speech are connected with `aux`: <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (6201; 91% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (302; 4% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (263; 4% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt>-<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (53; 1% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (10; 0% instances), <tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt>-<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (7; 0% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt>-<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="fi_ftb-pos-X.html">X</a></tt>-<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (2; 0% instances).
+The following 8 pairs of parts of speech are connected with `aux`: <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (6085; 89% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (299; 4% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (279; 4% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt>-<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (153; 2% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (13; 0% instances), <tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt>-<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (7; 0% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt>-<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="fi_ftb-pos-X.html">X</a></tt>-<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -31,7 +31,7 @@ The following 8 pairs of parts of speech are connected with `aux`: <tt><a href="
 7	ikinä	ikinä	ADV	Adv	_	9	advmod	_	_
 8	olis	olla	AUX	V,Act,Cond,Sg3	Mood=Cnd|Number=Sing|Person=3|Style=Coll|VerbForm=Fin|Voice=Act	9	cop	_	_
 9	vakinaisia	vakinainen	ADJ	A,Pl,Par	Case=Par|Number=Plur	3	ccomp	_	_
-10	.	.	PUNCT	Pun	_	9	punct	_	_
+10	.	.	PUNCT	Pun	_	3	punct	_	_
 
 ~~~
 
@@ -46,12 +46,12 @@ The following 8 pairs of parts of speech are connected with `aux`: <tt><a href="
 2	kuohunta	kuohunta	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	4	nsubj:cop	_	_
 3	olisi	olla	AUX	V,Act,Cond,Sg3	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	4	cop	_	_
 4	kiusallista	kiusallinen	ADJ	A,Sg,Par	Case=Par|Number=Sing	0	root	_	_
-5	,	,	PUNCT	Pun	_	4	punct	_	_
+5	,	,	PUNCT	Pun	_	9	punct	_	_
 6	mutta	mutta	CCONJ	Pcle,CC	_	9	cc	_	_
 7	ei	ei	AUX	V,Neg,Act,Sg3	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	9	aux	_	_
 8	vielä	vielä	ADV	Adv,Pcle	_	9	advmod	_	_
 9	vaarallista	vaarallinen	ADJ	A,Sg,Par	Case=Par|Number=Sing	4	conj	_	_
-10	.	.	PUNCT	Pun	_	9	punct	_	_
+10	.	.	PUNCT	Pun	_	4	punct	_	_
 
 ~~~
 
@@ -67,10 +67,10 @@ The following 8 pairs of parts of speech are connected with `aux`: <tt><a href="
 3	ollut	olla	VERB	V,Act,Ind,Past,Sg,ConNeg	Connegative=Yes|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 4	yhtään	yhtään	ADV	Adv	_	5	advmod	_	_
 5	aggressiivisuutta	aggressiivisuus	NOUN	N,Sg,Par	Case=Par|Number=Sing	3	nsubj	_	_
-6	,	,	PUNCT	Pun	_	5	punct	_	_
+6	,	,	PUNCT	Pun	_	8	punct	_	_
 7	eikä	ei	AUX	V,Neg,Act,Sg3,Ka	Clitic=Ka|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	8	aux	_	_
 8	taklauksia	taklaus	NOUN	N,Pl,Par	Case=Par|Number=Plur	5	conj	_	_
-9	.	.	PUNCT	Pun	_	8	punct	_	_
+9	.	.	PUNCT	Pun	_	3	punct	_	_
 
 ~~~
 

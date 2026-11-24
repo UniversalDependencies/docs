@@ -9,33 +9,34 @@ udver: '2'
 This feature is universal but the values `Ifoc`, `Lfoc` are language-specific.
 It occurs with 4 different values: `Act`, `Ifoc`, `Lfoc`, `Pass`.
 
-150 tokens (11%) have a non-empty value of `Voice`.
-138 types (28%) occur at least once with a non-empty value of `Voice`.
-111 lemmas (27%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 1 part-of-speech tags: <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt> (150; 11% instances).
+172 tokens (11%) have a non-empty value of `Voice`.
+159 types (30%) occur at least once with a non-empty value of `Voice`.
+123 lemmas (29%) occur at least once with a non-empty value of `Voice`.
+The feature is used with 1 part-of-speech tags: <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt> (172; 11% instances).
 
 ### `VERB`
 
-150 <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt> tokens (80% of all `VERB` tokens) have a non-empty value of `Voice`.
+172 <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt> tokens (84% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="ceb_gja-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (125; 83%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="ceb_gja-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (145; 84%).
 
 `VERB` tokens may have the following values of `Voice`:
 
-* `Act` (72; 48% of non-empty `Voice`): <em>moadto, masayod, Mag-unsa, Magpabilin, Magtigom, Maka-iningles, Mamalit, Moabot, Mobalik, Mohulat</em>
-* `Ifoc` (3; 2% of non-empty `Voice`): <em>Ipalit, Pakitaa, ipasa</em>
+* `Act` (86; 50% of non-empty `Voice`): <em>moadto, masayod, nagsulat, Mag-unsa, Magpabilin, Magtigom, Maka-iningles, Mamalit, Moabot, Mobalik</em>
+* `Ifoc` (4; 2% of non-empty `Voice`): <em>Ipalit, Pakitaa, abrihi, ipasa</em>
 * `Lfoc` (3; 2% of non-empty `Voice`): <em>Limpyohan, himo-an, paliti</em>
-* `Pass` (72; 48% of non-empty `Voice`): <em>ganahan, gibuhat, tabangan, Gitawag, Kinahanglan, Liguon, Silhigan, gihigugma, kasabot, Gi-hold</em>
-* `EMPTY` (38): <em>wala, gusto, may, Aduna, Adunay, Buot, Duna, Gipinturahan, Gisugo, Gisulayan</em>
+* `Pass` (79; 46% of non-empty `Voice`): <em>ganahan, gibuhat, tabangan, Gisulayan, Gitawag, Kinahanglan, Liguon, Silhigan, gihigugma, kasabot</em>
+* `EMPTY` (32): <em>wala, gusto, may, Aduna, Adunay, Buot, Duna, Paingon, ayo, buhat</em>
 
 <table>
   <tr><th>Paradigm <i>palit</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th><th><tt>Ifoc</tt></th><th><tt>Lfoc</tt></th></tr>
   <tr><td><tt><tt><a href="ceb_gja-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="ceb_gja-feat-Mood.html">Mood</a></tt><tt>=Ind</tt></tt></td><td></td><td><em>Paliton</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ceb_gja-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ceb_gja-feat-Mood.html">Mood</a></tt><tt>=Ind</tt></tt></td><td><em>Nagpalit</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ceb_gja-feat-Aspect.html">Aspect</a></tt><tt>=Prosp</tt>|<tt><a href="ceb_gja-feat-Mood.html">Mood</a></tt><tt>=Ind</tt></tt></td><td><em>Mamalit</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ceb_gja-feat-Mood.html">Mood</a></tt><tt>=Imp</tt></tt></td><td></td><td></td><td><em>Ipalit</em></td><td><em>paliti</em></td></tr>
 </table>
 
-`Voice` seems to be **lexical feature** of `VERB`. 94% lemmas (104) occur only with one value of `Voice`.
+`Voice` seems to be **lexical feature** of `VERB`. 93% lemmas (114) occur only with one value of `Voice`.
 
 ## Relations with Agreement in `Voice`
 

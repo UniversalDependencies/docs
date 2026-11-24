@@ -12,7 +12,7 @@ It occurs with 3 different values: `Plur`, `Ptan`, `Sing`.
 61044 tokens (56%) have a non-empty value of `Number`.
 13426 types (91%) occur at least once with a non-empty value of `Number`.
 6296 lemmas (83%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (26803; 25% instances), <tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt> (10910; 10% instances), <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt> (8254; 8% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (5775; 5% instances), <tt><a href="uk_parlamint-pos-DET.html">DET</a></tt> (4200; 4% instances), <tt><a href="uk_parlamint-pos-PROPN.html">PROPN</a></tt> (4084; 4% instances), <tt><a href="uk_parlamint-pos-AUX.html">AUX</a></tt> (843; 1% instances), <tt><a href="uk_parlamint-pos-NUM.html">NUM</a></tt> (175; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (26803; 25% instances), <tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt> (10910; 10% instances), <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt> (8254; 8% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (5776; 5% instances), <tt><a href="uk_parlamint-pos-DET.html">DET</a></tt> (4199; 4% instances), <tt><a href="uk_parlamint-pos-PROPN.html">PROPN</a></tt> (4084; 4% instances), <tt><a href="uk_parlamint-pos-AUX.html">AUX</a></tt> (843; 1% instances), <tt><a href="uk_parlamint-pos-NUM.html">NUM</a></tt> (175; 0% instances).
 
 ### `NOUN`
 
@@ -101,16 +101,16 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `PRON`
 
-5775 <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> tokens (96% of all `PRON` tokens) have a non-empty value of `Number`.
+5776 <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> tokens (96% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="uk_parlamint-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3818; 66%), <tt><a href="uk_parlamint-feat-Case.html">Case</a></tt><tt>=Nom</tt> (3612; 63%), <tt><a href="uk_parlamint-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3576; 62%), <tt><a href="uk_parlamint-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (3222; 56%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="uk_parlamint-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3818; 66%), <tt><a href="uk_parlamint-feat-Case.html">Case</a></tt><tt>=Nom</tt> (3613; 63%), <tt><a href="uk_parlamint-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3577; 62%), <tt><a href="uk_parlamint-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (3222; 56%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (2301; 40% of non-empty `Number`): <em>ми, ви, нас, вони, нам, вас, їх, які, вам, вами</em>
+* `Plur` (2302; 40% of non-empty `Number`): <em>ми, ви, нас, вони, нам, вас, їх, які, вам, вами</em>
 * `Ptan` (120; 2% of non-empty `Number`): <em>ви, вас, вам, вами</em>
 * `Sing` (3354; 58% of non-empty `Number`): <em>я, це, того, те, що, він, хто, вона, цього, все</em>
-* `EMPTY` (234): <em>це, себе, собі, ніхто, нічого, хтось, собою, нікому, нікого, хто</em>
+* `EMPTY` (231): <em>це, себе, собі, ніхто, нічого, хтось, собою, нікому, нікого, хто</em>
 
 <table>
   <tr><th>Paradigm <i>ви</i></th><th><tt>Plur</tt></th><th><tt>Ptan</tt></th></tr>
@@ -130,16 +130,16 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `DET`
 
-4200 <tt><a href="uk_parlamint-pos-DET.html">DET</a></tt> tokens (98% of all `DET` tokens) have a non-empty value of `Number`.
+4199 <tt><a href="uk_parlamint-pos-DET.html">DET</a></tt> tokens (98% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="uk_parlamint-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3567; 85%), <tt><a href="uk_parlamint-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3539; 84%), <tt><a href="uk_parlamint-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (3292; 78%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="uk_parlamint-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3566; 85%), <tt><a href="uk_parlamint-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3538; 84%), <tt><a href="uk_parlamint-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (3291; 78%).
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (1610; 38% of non-empty `Number`): <em>які, всі, всіх, ці, тих, ті, наших, свої, інших, цих</em>
+* `Plur` (1609; 38% of non-empty `Number`): <em>які, всі, всіх, ці, тих, ті, наших, свої, інших, цих</em>
 * `Ptan` (1; 0% of non-empty `Number`): <em>будь</em>
 * `Sing` (2589; 62% of non-empty `Number`): <em>цього, який, цей, яка, цю, це, цієї, наша, нашої, цьому</em>
-* `EMPTY` (69): <em>багато, декілька, кілька, багатьох, скільки, декількох, кількох, багатьом, само, скількох</em>
+* `EMPTY` (71): <em>багато, декілька, кілька, багатьох, скільки, декількох, кількох, багатьом, само, скількох</em>
 
 <table>
   <tr><th>Paradigm <i>будь-який</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th><th><tt>Ptan</tt></th></tr>
@@ -243,13 +243,13 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="uk_parlamint-dep-amod.html">amod</a></tt>]--> ADJ</tt> (8874; 99%),
-<tt>NOUN --[<tt><a href="uk_parlamint-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (5534; 62%),
+<tt>NOUN --[<tt><a href="uk_parlamint-dep-amod.html">amod</a></tt>]--> ADJ</tt> (8875; 99%),
+<tt>NOUN --[<tt><a href="uk_parlamint-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (5417; 63%),
 <tt>NOUN --[<tt><a href="uk_parlamint-dep-det.html">det</a></tt>]--> DET</tt> (2965; 99%),
-<tt>VERB --[<tt><a href="uk_parlamint-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (2607; 93%),
-<tt>VERB --[<tt><a href="uk_parlamint-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1839; 89%),
-<tt>NOUN --[<tt><a href="uk_parlamint-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1538; 78%),
-<tt>NOUN --[<tt><a href="uk_parlamint-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (983; 78%),
+<tt>VERB --[<tt><a href="uk_parlamint-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (2605; 92%),
+<tt>VERB --[<tt><a href="uk_parlamint-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1841; 89%),
+<tt>NOUN --[<tt><a href="uk_parlamint-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1536; 78%),
+<tt>NOUN --[<tt><a href="uk_parlamint-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (985; 78%),
 <tt>PROPN --[<tt><a href="uk_parlamint-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (975; 100%),
 <tt>VERB --[<tt><a href="uk_parlamint-dep-conj.html">conj</a></tt>]--> VERB</tt> (649; 77%),
 <tt>NOUN --[<tt><a href="uk_parlamint-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (619; 74%).

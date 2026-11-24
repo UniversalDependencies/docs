@@ -55,7 +55,7 @@ The following 25 pairs of parts of speech are connected with `list`: <tt><a href
 # visual-style 9 11 list	color:blue
 1	В	в	ADP	IN	_	3	case	_	_
 2	1979	1979	ADJ	ORD	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
-3	году	год	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	obl	_	_
+3	году	год	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	obl:tmod	_	_
 4	Франке	Франке	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
 5	основал	основать	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 6	Ars	Ars	X	FW	Foreign=Yes	5	obj	_	_

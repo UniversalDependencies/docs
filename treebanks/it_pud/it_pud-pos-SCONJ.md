@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  <em>che</em> (<tt><a href="it_pud-pos-PRO
   * <tt><a href="it_pud-pos-PRON.html">PRON</a></tt> 1: <em>Tuttavia , ciò causo l' abbandono di importanti pezzi d' artiglieria pesante , e il <b>perché</b> la linea ferroviaria che portava a Flensburg non fu mai utilizzata correttamente per l' evacuazione rimane tuttora motivo di dibattito tra gli storici .</em>
 * <em>mentre</em>
   * <tt><a href="it_pud-pos-CCONJ.html">CCONJ</a></tt> 5: <em>È necessaria una maggioranza di i due terzi , ovvero 367 voti su 550 membri di il parlamento , <b>mentre</b> sono necessari 330 voti per indire il referendum .</em>
-  * <tt><a href="it_pud-pos-SCONJ.html">SCONJ</a></tt> 5: <em>La stessa Wintour appare brevemente ed è filmata <b>mentre</b> indossa i suoi occhiali da sole prima dell' intervista .</em>
+  * <tt><a href="it_pud-pos-SCONJ.html">SCONJ</a></tt> 5: <em>La stessa Wintour appare brevemente ed è filmata <b>mentre</b> indossa i suoi occhiali da sole prima di l' intervista .</em>
   * <tt><a href="it_pud-pos-ADP.html">ADP</a></tt> 2: <em>La porzione settentrionale di il Caucaso è conosciuta con il nome di Ciscaucasia , <b>mentre</b> quella meridionale è chiamata Transcaucasia .</em>
 * <em>come</em>
   * <tt><a href="it_pud-pos-ADP.html">ADP</a></tt> 86: <em>Talvolta è <b>come</b> un super potere .</em>
@@ -45,7 +45,7 @@ The 10 most frequent ambiguous types:  <em>che</em> (<tt><a href="it_pud-pos-PRO
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.285855).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.282892).
 
 The 1st highest number of forms (1) was observed with the lemma “Quando”: <em>Quando</em>.
 

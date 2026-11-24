@@ -138,7 +138,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 * `Neg` (888; 3% of non-empty `PronType`): <em>никогда, никак, ничего, никуда, нигде, нисколько, как, нихера, причем, Нифига</em>
 * `Rel` (3962; 13% of non-empty `PronType`): <em>как, где, куда, когда, почему, откуда, зачем, насколько, сколько, к.</em>
 * `Tot` (5345; 17% of non-empty `PronType`): <em>более, всегда, больше, все, иногда, наиболее, немного, менее, всё, иначе</em>
-* `EMPTY` (52469): <em>уже, очень, еще, например, ещё, совсем, вдруг, снова, конечно, часто</em>
+* `EMPTY` (52468): <em>уже, очень, еще, например, ещё, совсем, вдруг, снова, конечно, часто</em>
 
 <table>
   <tr><th>Paradigm <i>как</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th><th><tt>Neg</tt></th><th><tt>Ind</tt></th><th><tt>Exc</tt></th></tr>

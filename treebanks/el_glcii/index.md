@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.18 release
 The following people have contributed to making this treebank part of UD: Christina Klironomou, Thelka Pasparaki, Arianna Masciolini.
 
 Repository: [UD_Greek-GLCII](https://github.com/UniversalDependencies/UD_Greek-GLCII)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udel_glcii218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udel_glcii219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-NC-SA 4.0
 

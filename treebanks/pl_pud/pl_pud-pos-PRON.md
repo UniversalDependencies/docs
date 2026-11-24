@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Polish-PUD: POS Tags: `PRON`
 
-There are 17 `PRON` lemmas (0%), 49 `PRON` types (1%) and 638 `PRON` tokens (3%).
+There are 17 `PRON` lemmas (0%), 48 `PRON` types (1%) and 638 `PRON` tokens (3%).
 Out of 15 observed tags, the rank of `PRON` is: 13 in number of lemmas, 11 in number of types and 7 in number of tokens.
 
 The 10 most frequent `PRON` lemmas: <em>się, on, to, siebie, co, ja, ktoś, my, coś, kto</em>
@@ -49,9 +49,9 @@ The 10 most frequent ambiguous types:  <em>to</em> (<tt><a href="pl_pud-pos-PRON
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 2.882353 (the average of all parts of speech is 1.436422).
+The form / lemma ratio of `PRON` is 2.823529 (the average of all parts of speech is 1.436234).
 
-The 1st highest number of forms (20) was observed with the lemma “on”: <em>go, ich, im, je, jego, jej, ją, mu, nich, nie, niego, niej, nim, nimi, nią, on, ona, one, oni, ń</em>.
+The 1st highest number of forms (19) was observed with the lemma “on”: <em>go, ich, im, je, jego, jej, ją, mu, nich, nie, niego, niej, nim, nimi, nią, on, ona, one, oni</em>.
 
 The 2nd highest number of forms (4) was observed with the lemma “ja”: <em>ja, mi, mnie, mną</em>.
 

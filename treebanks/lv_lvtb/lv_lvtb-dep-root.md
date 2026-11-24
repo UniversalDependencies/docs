@@ -17,22 +17,37 @@ The following 16 pairs of parts of speech are connected with `root`: -<tt><a hre
 
 
 ~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 0	bgColor:blue
+# visual-style 0	fgColor:white
+# visual-style 0 3 root	color:blue
+1	Pēc	pēc	ADP	sppd	_	2	case	2:case	LvtbNodeId=a-p10011-p70s5w1
+2	tam	tas	DET	pd3msdn	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	obl	3:obl:pēc	LvtbNodeId=a-p10011-p70s5w2
+3	varēs	varēt	VERB	vonifi330an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-p10011-p70s5w3
+4	izstaigāt	izstaigāt	VERB	vmnn0t2000n	Polarity=Pos|VerbForm=Inf	3	xcomp	3:xcomp	LvtbNodeId=a-p10011-p70s5w4
+5	pils	pils	NOUN	ncfsg6	Case=Gen|Gender=Fem|Number=Sing	6	nmod	6:nmod:gen	LvtbNodeId=a-p10011-p70s5w5
+6	parku	parks	NOUN	ncmsa1	Case=Acc|Gender=Masc|Number=Sing	4	obj	4:obj	LvtbNodeId=a-p10011-p70s5w6
+7	un	un	CCONJ	cc	_	8	cc	8:cc	LvtbNodeId=a-p10011-p70s5w7
+8	apskatīt	apskatīt	VERB	vmnn0t3000n	Polarity=Pos|VerbForm=Inf	4	conj	3:xcomp|4:conj	LvtbNodeId=a-p10011-p70s5w8
+9	Romanovas	Romanova	PROPN	npfsg4	Case=Gen|Gender=Fem|Number=Sing	10	nmod	10:nmod:gen	LvtbNodeId=a-p10011-p70s5w9
+10	šķirnes	šķirne	NOUN	ncfsg5	Case=Gen|Gender=Fem|Number=Sing	11	nmod	11:nmod:gen	LvtbNodeId=a-p10011-p70s5w10
+11	aitas	aita	NOUN	ncfpa4	Case=Acc|Gender=Fem|Number=Plur	8	obj	8:obj	LvtbNodeId=a-p10011-p70s5w11|SpaceAfter=No
+12	.	.	PUNCT	zs	_	3	punct	3:punct	LvtbNodeId=a-p10011-p70s5w12
+
+~~~
+
+
+~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 2 root	color:blue
-1	Zinātnieki	zinātnieks	NOUN	ncmpn1	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	2:nsubj	LvtbNodeId=a-c12-p51s2w1
-2	atzīst	atzīt	VERB	vmnipt130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-c12-p51s2w2|SpaceAfter=No
-3	,	,	PUNCT	zc	_	8	punct	8:punct	LvtbNodeId=a-c12-p51s2w3
-4	ka	ka	SCONJ	cs	_	8	mark	8:mark	LvtbNodeId=a-c12-p51s2w4
-5	šāds	šāds	DET	pd0msnn	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	6	det	6:det	LvtbNodeId=a-c12-p51s2w5
-6	uzturs	uzturs	NOUN	ncmsn1	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	8:nsubj	LvtbNodeId=a-c12-p51s2w6
-7	visiem	viss	DET	pg0mpdn	Case=Dat|Gender=Masc|Number=Plur|PronType=Tot	8	iobj	8:iobj	LvtbNodeId=a-c12-p51s2w7
-8	nāks	nākt	VERB	vmnifi130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	2	ccomp	2:ccomp	LvtbNodeId=a-c12-p51s2w8
-9	tikai	tikai	PART	q	_	11	discourse	11:discourse	LvtbNodeId=a-c12-p51s2w9
-10	par	par	ADP	spsa	_	11	case	11:case	LvtbNodeId=a-c12-p51s2w10
-11	labu	labs	ADJ	afmsanp	Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	8	obl	8:obl:par	LvtbNodeId=a-c12-p51s2w11
+1	Sīkāka	sīks	ADJ	affsnnc	Case=Nom|Definite=Ind|Degree=Cmp|Gender=Fem|Number=Sing	2	amod	2:amod	LvtbNodeId=a-p10011-p70s6w1
+2	informācija	informācija	NOUN	ncfsn4	Case=Nom|Gender=Fem|Number=Sing	0	root	2.1:nsubj	LvtbNodeId=a-p10011-p70s6w2
+3	http://biblio.kuldiga.lv/	http://biblio.kuldiga.lv/	PROPN	xu	_	2	dep	2.1:dep	LvtbNodeId=a-p10011-p70s6w3|SpaceAfter=No
+4	.	.	PUNCT	zs	_	2	punct	2.1:punct	LvtbNodeId=a-p10011-p70s6w4
 
 ~~~
 
@@ -43,30 +58,16 @@ The following 16 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 4 root	color:blue
-1	Viņi	viņš	PRON	pp3mpnn	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	nsubj	4:nsubj|6:nsubj|8:nsubj	LvtbNodeId=a-c13-p43s2w1
-2	ir	būt	AUX	vcnipii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	4:cop	LvtbNodeId=a-c13-p43s2w2
-3	lieli	liels	ADJ	afmpnnp	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	4	amod	4:amod	LvtbNodeId=a-c13-p43s2w3
-4	diplomāti	diplomāts	NOUN	ncmpn1	Case=Nom|Gender=Masc|Number=Plur	0	root	0:root	LvtbNodeId=a-c13-p43s2w4|SpaceAfter=No
-5	,	,	PUNCT	zc	_	6	punct	6:punct	LvtbNodeId=a-c13-p43s2w5
-6	prot	prast	VERB	vonipi130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	4:conj	LvtbNodeId=a-c13-p43s2w6
-7	būt	būt	AUX	vcnn0ii000n	Polarity=Pos|VerbForm=Inf	8	cop	8:cop	LvtbNodeId=a-c13-p43s2w7
-8	plastiski	plastisks	ADJ	afmpnnp	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	6	xcomp	6:xcomp	LvtbNodeId=a-c13-p43s2w8|SpaceAfter=No
-9	.	.	PUNCT	zs	_	4	punct	4:punct	LvtbNodeId=a-c13-p43s2w9
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 0	bgColor:blue
-# visual-style 0	fgColor:white
-# visual-style 0 2 root	color:blue
-1	[	[	PUNCT	zb	_	2	punct	2:punct	LvtbNodeId=a-c13-p43s7w1|SpaceAfter=No
-2	8.	8.	ADJ	xo	NumType=Ord	0	root	0:root	LvtbNodeId=a-c13-p43s7w2|SpaceAfter=No
-3	,	,	PUNCT	zc	_	4	punct	4:punct	LvtbNodeId=a-c13-p43s7w3|SpaceAfter=No
-4	103	103	NUM	xn	NumType=Card	2	dep	2:dep	LvtbNodeId=a-c13-p43s7w4|SpaceAfter=No
-5	]	]	PUNCT	zb	_	2	punct	2:punct	LvtbNodeId=a-c13-p43s7w5
+1	Grīda	grīda	NOUN	ncfsn4	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	4:nsubj	LvtbNodeId=a-d87-p475s2w1
+2	bija	būt	AUX	vcnisii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	4:cop	LvtbNodeId=a-d87-p475s2w2
+3	patīkami	patīkami	ADV	rpn	Degree=Pos	4	advmod	4:advmod	LvtbNodeId=a-d87-p475s2w3
+4	vēsa	vēss	ADJ	affsnnp	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	0	root	0:root	LvtbNodeId=a-d87-p475s2w4|SpaceAfter=No
+5	,	,	PUNCT	zc	_	7	punct	7:punct	LvtbNodeId=a-d87-p475s2w5
+6	to	tas	DET	pd3msan	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	obj	7:obj	LvtbNodeId=a-d87-p475s2w6
+7	skarot	skart	VERB	vmnpu0000000n	Polarity=Pos|VerbForm=Conv	4	advcl	4:advcl	LvtbNodeId=a-d87-p475s2w7
+8	ar	ar	ADP	sppd	_	9	case	9:case	LvtbNodeId=a-d87-p475s2w8
+9	pēdām	pēda	NOUN	ncfpd4	Case=Dat|Gender=Fem|Number=Plur	7	iobj	7:iobj	LvtbNodeId=a-d87-p475s2w9|SpaceAfter=No
+10	.	.	PUNCT	zs	_	4	punct	4:punct	LvtbNodeId=a-d87-p475s2w10
 
 ~~~
 

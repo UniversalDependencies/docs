@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>veni</em> (<tt><a href="ro_nonstandar
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.041667 (the average of all parts of speech is 2.492163).
+The form / lemma ratio of `PUNCT` is 1.041667 (the average of all parts of speech is 2.492271).
 
 The 1st highest number of forms (4) was observed with the lemma “.”: <em>,, ., :, ;</em>.
 
@@ -39,7 +39,7 @@ The 3rd highest number of forms (3) was observed with the lemma “””: <em>�
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="ro_nonstandard-dep-punct.html">punct</a></tt> (83976; 100% instances)
 
-Parents of `PUNCT` nodes belong to 15 different parts of speech: <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (54040; 64% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (18581; 22% instances), <tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt> (2743; 3% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (2392; 3% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (2308; 3% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt> (2183; 3% instances), <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (711; 1% instances), <tt><a href="ro_nonstandard-pos-INTJ.html">INTJ</a></tt> (551; 1% instances), <tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (273; 0% instances), <tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt> (64; 0% instances), <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> (51; 0% instances), <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> (33; 0% instances), <tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> (33; 0% instances), <tt><a href="ro_nonstandard-pos-X.html">X</a></tt> (10; 0% instances), <tt><a href="ro_nonstandard-pos-PART.html">PART</a></tt> (3; 0% instances)
+Parents of `PUNCT` nodes belong to 15 different parts of speech: <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (54010; 64% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (18587; 22% instances), <tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt> (2744; 3% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (2393; 3% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (2309; 3% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt> (2180; 3% instances), <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (711; 1% instances), <tt><a href="ro_nonstandard-pos-INTJ.html">INTJ</a></tt> (551; 1% instances), <tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (298; 0% instances), <tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt> (64; 0% instances), <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> (50; 0% instances), <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> (33; 0% instances), <tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> (33; 0% instances), <tt><a href="ro_nonstandard-pos-X.html">X</a></tt> (10; 0% instances), <tt><a href="ro_nonstandard-pos-PART.html">PART</a></tt> (3; 0% instances)
 
 83976 (100%) `PUNCT` nodes are leaves.
 

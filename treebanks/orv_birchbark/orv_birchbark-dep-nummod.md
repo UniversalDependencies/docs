@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `nummod`: <tt><a href="orv_birchbark-dep-nummod-gov.html">nummod:gov</a></tt>.
 
-76 nodes (0%) are attached to their parents as `nummod`.
+115 nodes (0%) are attached to their parents as `nummod`.
 
-66 instances of `nummod` (87%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.23684210526316.
+104 instances of `nummod` (90%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.2.
 
-The following 4 pairs of parts of speech are connected with `nummod`: <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt> (72; 95% instances), <tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt> (2; 3% instances), <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="orv_birchbark-pos-X.html">X</a></tt>-<tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `nummod`: <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt> (101; 88% instances), <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (8; 7% instances), <tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt> (2; 2% instances), <tt><a href="orv_birchbark-pos-X.html">X</a></tt>-<tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt> (2; 2% instances), <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -23,14 +23,34 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 nummod	color:blue
-1	и	и	CCONJ	_	_	2	cc	_	wf="и"|addr="096:3"|_
-2	ѧ	ꙗзъ	PRON	_	Case=Nom|Number=Sing|Person=1	0	root	_	wf="ѧ"|addr="096:3"|_
-3	ѡмеши	омеши	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	2	orphan	_	wf="ѡмеши"|comment=pl_tant|meaning="лемеха́"|addr="096:3"|_
-4	двои	двои	NUM	_	Case=Acc|Number=Plur	3	nummod	_	wf="двои"|meaning="двукратный,_двойной"|addr="096:3"|_
-5	за	за	ADP	_	_	6	case	_	wf="за"|addr="096:3"|_
-6	ѳедора	Федоръ	PROPN	_	Case=Acc|Gender=Masc|NameType=Giv|Number=Sing	2	orphan	_	wf="ѳедора"|addr="096:3"|_
-7	з	съ	ADP	_	_	8	case	_	wf="з"|addr="096:3"|_
-8	бра<lbr/>(т)…	братьꙗ	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	6	nmod	_	wf="брат…"|comment="aggr"|comment=lemma_unsure|addr="096:3"|after:line_id=4|_
+1	и	и	CCONJ	CONJ	_	2	cc	_	wf="и"|addr="096:3"
+2	ѧ	ꙗзъ	PRON	SPRO,sg,1p,nom	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	root	_	wf="я"|addr="096:3"
+3	ѡмеши	омеши	NOUN	S,pl,pl_tant,acc	Case=Acc|Gender=Fem|Number=Plur	2	orphan	_	wf="омеши"|comment="pl_tant"|meaning="лемеха́"|addr="096:3"
+4	двои	двои	NUM	A,pl,acc	Case=Acc|Number=Plur|NumForm=Word|NumType=Sets	3	nummod	_	wf="двои"|meaning="двукратный, двойной"|comment="alt_ana:lemma=двои:gr=A,f,pl,acc"|addr="096:3"
+5	за	за	ADP	PR,gvrn:acc	_	6	case	_	wf="за"|comment="gvrn:acc"|addr="096:3"
+6	ѳедора	Федоръ	PROPN	S,persn,m,sg,acc-gen	Case=Acc|Gender=Masc|NameType=Giv|Number=Sing	2	orphan	_	wf="федора"|addr="096:3"
+7	з	съ	ADP	PR,gvrn:ins	_	8	case	_	wf="з"|comment="gvrn:ins"|addr="096:3"
+8	бра<lbr/>(т)…	братьꙗ	NOUN	S,coll,f,sg,ins,fragment,lemma_unsure	Case=Ins|Fragment=Yes|Gender=Fem|Number=Sing	6	nmod	_	wf="брат…"|comment="coll,lemma_unsure"|after:line_id=4|comment="alt_ana:lemma=братъ:gr=S,coll,m,sg,ins,fragment,lemma_unsure"|addr="096:3"
+
+~~~
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 9 nummod	color:blue
+1	…тѹ	ту	ADV	ADV,fragment,lemma_unsure	Fragment=Yes	0	root	_	wf="…ту"|comment="lemma_unsure"|line_id="1"|addr="322:1"
+2	и	и	CCONJ	CONJ	_	7	cc	_	wf="и"|addr="322:1"
+3	на	на	ADP	PR,gvrn:acc,fragment	Fragment=Yes	7	case	_	wf="на"|comment="gvrn:acc"|comment="alt_ana:lemma=на:gr=PR,gvrn:loc,fragment"|addr="322:1"
+4	…	…	PUNCT	_	_	7	punct	_	wf="…"|line_id="2"|addr="322:2"
+5	безо	безъ	ADP	PR,gvrn:gen	_	6	case	_	wf="безо"|comment="gvrn:gen"|addr="322:2"
+6	пѧти	пѧть	NUM	NUM,card,gen	Case=Gen|NumForm=Word|NumType=Card	9	nmod	_	wf="пяти"|addr="322:2"
+7	д[ежь]	дѣжа	NOUN	S,f,pl,gen	Case=Gen|Gender=Fem|Number=Plur	1	conj	_	wf="дежь"|meaning="как мера количества зерна."|addr="322:2"
+8	пѧти	пѧть	NUM	NUM,card,gen?	Case=Gen|NumForm=Word|NumType=Card	9	nummod:gov	_	wf="пяти"|comment="gen?,case_unsure"|addr="322:2"
+9	сотъ	сто	NOUN	S,n,pl,gen	Case=Gen|Gender=Neut|Number=Plur	7	nummod	_	wf="сотъ"|addr="322:2"
+10	·	·	PUNCT	_	_	1	punct	_	wf="·"|addr="322:2"
 
 ~~~
 
@@ -41,51 +61,25 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 11 nummod	color:blue
-1	а	а	CCONJ	_	_	4	cc	_	wf="а"|addr="Мос._3:51"|line_id=51|_
-2	что	что	PRON	_	Case=Acc|PronType=Rel	4	obj	_	wf="что"|addr="Мос._3:51"|_
-3	ѧзъ	ꙗзъ	PRON	_	Case=Nom|Number=Sing|Person=1	4	nsubj	_	wf="ѧзъ"|addr="Мос._3:51"|_
-4	ѻтдал	отдати	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	8	dislocated	_	wf="ѻтдал"|tense=perf|addr="Мос._3:51"|_
-5	-----------------	-----------------	X	_	_	4	dep	_	wf="-----------------"|addr="Мос._3:51"|_
-6	(за	за	ADP	_	_	7	case	_	wf="за"|comment=reconstr|comment=lemma_unsure|addr="Мос._3:52"|line_id=52|_
-7	м)ною	ꙗзъ	DET	_	Case=Ins|Number=Sing	8	obl	_	wf="мною"|comment=lemma_unsure|addr="Мос._3:52"|_
-8	пошло	поити	VERB	_	Gender=Neut|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	wf="пошло"|tense=perf|meaning="пойти"|addr="Мос._3:52"|_
-9	·ѯ҃·	·ѯ҃·	NUM	_	NumForm=Digit|NumType=Card	12	nummod:gov	_	wf="·ѯ҃·"|addr="Мос._3:52"|_
-10	и	и	CCONJ	_	_	11	cc	_	wf="и"|addr="Мос._3:52"|_
-11	двоѥ	двоѥ	NUM	_	Case=Nom|NumType=Card	9	nummod	_	wf="двоѥ"|addr="Мос._3:52"|_
-12	лошад	лошадь	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	8	nsubj	_	wf="лошад"|addr="Мос._3:52"|_
-13	а	а	CCONJ	_	_	16	cc	_	wf="а"|addr="Мос._3:52"|_
-14	за	за	ADP	_	_	15	case	_	wf="за"|addr="Мос._3:52"|_
-15	мене	ꙗзъ	DET	_	Case=Acc	16	obl	_	wf="мене"|comment="clitic_ton"|addr="Мос._3:52"|_
-16	дашь	дати	VERB	_	Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	wf="дашь"|addr="Мос._3:52"|_
-17	·л҃·ро	·л҃·	NUM	_	Case=Acc|NumForm=Digit|NumType=Card	16	obj	_	wf="·л҃·ро"|addr="Мос._3:53"|line_id=53|_
-18	и	и	CCONJ	_	_	19	cc	_	wf="и"|addr="Мос._3:53"|_
-19	двоѥ	двоѥ	NUM	_	Case=Acc|NumType=Card	17	conj	_	wf="двоѥ"|addr="Мос._3:53"|_
-
-~~~
-
-
-~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 11 nummod	color:blue
-1	послало	послати	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	wf="послало"|tense=perf|comment=number_unsure|comment=person_unsure|addr="133:2"|_
-2	[ѥ](см-	быти	AUX	_	Analyt=Yes|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	aux	_	wf="ѥсм-"|addr="133:2"|_
-3	с)	съ	ADP	_	_	4	case	_	wf="с"|comment=reconstr|addr="133:2"|_
-4	--<lbr/>аномо	…анъ	PROPN	_	Case=Ins|Gender=Masc|NameType=Giv|Number=Sing	1	obl	_	wf="--аномо"|addr="133:2"|_
-5	со	съ	ADP	_	_	7	case	_	wf="со"|addr="133:3"|line_id=3|_
-6	своимо	свои	DET	_	Case=Ins|Gender=Masc|Number=Sing	7	det	_	wf="своимо"|addr="133:3"|_
-7	су[к]ладн(икомо)	сукладникъ	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	4	appos	_	wf="сукладникомо"|meaning="компаньон"|addr="133:3"|_
-8	кипу	кипа	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	1	obj	_	wf="кипу"|addr="133:4"|line_id=4|_
-9	непрѣ	непрѧ	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	wf="непрѣ"|meaning="знач.?"|addr="133:4"|_
-10	:ѳ҃:	·ѳ҃·	NUM	_	NumForm=Digit|NumType=Card	11	nummod:gov	_	wf=":ѳ҃:"|addr="133:4"|_
-11	сото	сто	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	9	nummod	_	wf="сото"|addr="133:4"|_
-12	и	и	CCONJ	_	_	14	cc	_	wf="и"|addr="133:4"|_
-13	:г҃	·г҃·	NUM	_	NumForm=Digit|NumType=Card	14	nummod:gov	_	wf=":г҃"|addr="133:4"|_
-14	в------	в------	X	_	_	8	conj	_	wf="в------"|addr="133:4"|_
-15	вѣревки	вервка	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	wf="вѣревки"|addr="133:5"|line_id=5|_
-16	узкои	узкыи	ADJ	_	Case=Gen|Gender=Fem|Number=Sing	15	amod	_	wf="узкои"|addr="133:5"|_
+1	а	а	CCONJ	CONJ	_	4	cc	_	wf="а"|line_id="51"|addr="Мос._3:51"
+2	что	что	PRON	APRO,rel,acc	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	4	obj	_	wf="что"|addr="Мос._3:51"
+3	ѧзъ	ꙗзъ	PRON	SPRO,sg,1p,nom	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	wf="язъ"|addr="Мос._3:51"
+4	ѻтдал	отдати	VERB	V,l-partcp,perf,sg,1p,m,without_copula	Gender=Masc|Number=Sing|Person=1|Tense=Past|VerbForm=PartRes|Voice=Act	8	dislocated	_	wf="отдал"|tense=perf|comment="without_copula"|addr="Мос._3:51"
+5	-----------------	_	X	NONLEX	_	4	dep	_	wf="-----------------"|addr="Мос._3:51"
+6	(за	за	ADP	PR,gvrn:ins,reconstr,lemma_unsure	_	7	case	_	wf="за"|comment="gvrn:ins,reconstr,lemma_unsure"|line_id="52"|addr="Мос._3:52"
+7	м)ною	ꙗзъ	PRON	SPRO,sg,ins,lemma_unsure	Case=Ins|Number=Sing|Person=1|PronType=Prs	8	obl	_	wf="мною"|comment="lemma_unsure"|addr="Мос._3:52"
+8	пошло	поити	VERB	V,l-partcp,perf,sg,3p,n,without_copula	Gender=Neut|Number=Sing|Person=3|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	wf="пошло"|tense=perf|meaning="пойти, поехать"|comment="without_copula"|addr="Мос._3:52"
+9	·ѯ҃·	·ѯ҃·	NUM	NUM,card,digit	NumForm=Cyril|NumType=Card	12	nummod:gov	_	wf="ѯ"|addr="Мос._3:52"
+10	и	и	CCONJ	CONJ	_	11	cc	_	wf="и"|addr="Мос._3:52"
+11	двоѥ	двоѥ	NUM	NUM,card,nom	Case=Nom|NumForm=Word|NumType=Sets	9	nummod	_	wf="двое"|addr="Мос._3:52"
+12	лошад	лошадь	NOUN	S,f,pl,gen	Case=Gen|Gender=Fem|Number=Plur	8	nsubj	_	wf="лошад"|addr="Мос._3:52"
+13	а	а	CCONJ	CONJ	_	16	cc	_	wf="а"|addr="Мос._3:52"
+14	за	за	ADP	PR,gvrn:acc	_	15	case	_	wf="за"|comment="gvrn:acc"|addr="Мос._3:52"
+15	мене	ꙗзъ	PRON	SPRO,acc-gen,ton	Case=Acc|PronType=Prs	16	obl	_	wf="мене"|comment="clitic_ton"|addr="Мос._3:52"
+16	дашь	дати	VERB	V,nonpast,sg,2p	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	wf="дашь"|comment="tense_nonpast"|addr="Мос._3:52"
+17	·л҃·ро	·л҃·	NUM	NUM,card,acc,digit	Case=Acc|NumForm=Combi|NumType=Sets	16	obj	_	wf="л-ро"|comment="alt_ana:lemma=тридьсѧтеро:gr=NUM,card,acc,digit"|line_id="53"|addr="Мос._3:53"
+18	и	и	CCONJ	CONJ	_	19	cc	_	wf="и"|addr="Мос._3:53"
+19	двоѥ	двоѥ	NUM	NUM,card,acc	Case=Acc|NumForm=Word|NumType=Sets	17	conj	_	wf="двое"|addr="Мос._3:53"
 
 ~~~
 

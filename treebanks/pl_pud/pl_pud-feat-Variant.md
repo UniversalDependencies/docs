@@ -10,7 +10,7 @@ This feature is language-specific.
 It occurs with 2 different values: `Long`, `Short`.
 
 1429 tokens (8%) have a non-empty value of `Variant`.
-53 types (1%) occur at least once with a non-empty value of `Variant`.
+52 types (1%) occur at least once with a non-empty value of `Variant`.
 15 lemmas (0%) occur at least once with a non-empty value of `Variant`.
 The feature is used with 4 part-of-speech tags: <tt><a href="pl_pud-pos-ADP.html">ADP</a></tt> (1188; 6% instances), <tt><a href="pl_pud-pos-PRON.html">PRON</a></tt> (213; 1% instances), <tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> (26; 0% instances), <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> (2; 0% instances).
 
@@ -43,7 +43,7 @@ The most frequent other feature values with which `PRON` and `Variant` co-occurr
 `PRON` tokens may have the following values of `Variant`:
 
 * `Long` (190; 89% of non-empty `Variant`): <em>jego, jej, ich, ją, nich, im, je, niego, ona, niej</em>
-* `Short` (23; 11% of non-empty `Variant`): <em>go, mu, mi, ń</em>
+* `Short` (23; 11% of non-empty `Variant`): <em>go, mu, mi, niego</em>
 
 <table>
   <tr><th>Paradigm <i>on</i></th><th><tt>Long</tt></th><th><tt>Short</tt></th></tr>
@@ -66,7 +66,7 @@ The most frequent other feature values with which `PRON` and `Variant` co-occurr
   <tr><td><tt><tt><a href="pl_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="pl_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="pl_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pud-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt></tt></td><td><em>niego</em></td><td></td></tr>
   <tr><td><tt><tt><a href="pl_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="pl_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="pl_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pl_pud-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt></tt></td><td><em>ich, je</em></td><td></td></tr>
   <tr><td><tt><tt><a href="pl_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="pl_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="pl_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pud-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt></tt></td><td><em>jego</em></td><td><em>go</em></td></tr>
-  <tr><td><tt><tt><a href="pl_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="pl_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="pl_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pud-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt></tt></td><td><em>niego</em></td><td><em>ń</em></td></tr>
+  <tr><td><tt><tt><a href="pl_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="pl_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="pl_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pud-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt></tt></td><td><em>niego</em></td><td><em>niego</em></td></tr>
   <tr><td><tt><tt><a href="pl_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="pl_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="pl_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pl_pud-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt></tt></td><td><em>ich</em></td><td></td></tr>
   <tr><td><tt><tt><a href="pl_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="pl_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="pl_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pud-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt></tt></td><td><em>on</em></td><td></td></tr>
   <tr><td><tt><tt><a href="pl_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="pl_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="pl_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pl_pud-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt></tt></td><td><em>one</em></td><td></td></tr>

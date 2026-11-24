@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal but the values `Cmp`, `Prl` are language-specific.
 It occurs with 15 different values: `Abe`, `Abl`, `Cmp`, `Com`, `Dat`, `Ela`, `Gen`, `Ill`, `Ine`, `Lat`, `Loc`, `Nom`, `Prl`, `Tem`, `Tra`.
 
-8830 tokens (42%) have a non-empty value of `Case`.
-4484 types (67%) occur at least once with a non-empty value of `Case`.
+8835 tokens (42%) have a non-empty value of `Case`.
+4488 types (67%) occur at least once with a non-empty value of `Case`.
 2112 lemmas (68%) occur at least once with a non-empty value of `Case`.
-The feature is used with 13 part-of-speech tags: <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (5103; 25% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (1167; 6% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (707; 3% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (522; 3% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (414; 2% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (372; 2% instances), <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (248; 1% instances), <tt><a href="myv_jr-pos-DET.html">DET</a></tt> (155; 1% instances), <tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (126; 1% instances), <tt><a href="myv_jr-pos-PART.html">PART</a></tt> (11; 0% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="myv_jr-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The feature is used with 13 part-of-speech tags: <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (5103; 25% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (1167; 6% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (707; 3% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (527; 3% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (414; 2% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (372; 2% instances), <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (248; 1% instances), <tt><a href="myv_jr-pos-DET.html">DET</a></tt> (155; 1% instances), <tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (126; 1% instances), <tt><a href="myv_jr-pos-PART.html">PART</a></tt> (11; 0% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="myv_jr-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -127,9 +127,9 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 ### `VERB`
 
-522 <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> tokens (14% of all `VERB` tokens) have a non-empty value of `Case`.
+527 <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> tokens (14% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (522; 100%), <tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (522; 100%), <tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (522; 100%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (519; 99%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (519; 99%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (500; 96%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (527; 100%), <tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (527; 100%), <tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (527; 100%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (524; 99%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (524; 99%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (505; 96%).
 
 `VERB` tokens may have the following values of `Case`:
 
@@ -139,11 +139,11 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 * `Gen` (25; 5% of non-empty `Case`): <em>молицятнень, сыцятнень, Ацирьгадоманть, видематнень, дивсематнень, жалямонь, кундынь, ледицятнень, максыцянь, мизолдыцянть</em>
 * `Ill` (4; 1% of non-empty `Case`): <em>куломс, печтемс, пувамс, сыредемезэть</em>
 * `Ine` (4; 1% of non-empty `Case`): <em>самосонзо, сёрмадомасонтькак, туремасо, цяхамосост</em>
-* `Loc` (243; 47% of non-empty `Case`): <em>кортамо, оймсеме, тееме, сёрмадомо, ледеме, леднеме, эрямо, ярсамо, анокстамо, аштеме</em>
-* `Nom` (155; 30% of non-empty `Case`): <em>сэредиця, касыця, молиця, аштиця, валгиця, вечкема, кадовозь, солавтозь, эждязь, ютыця</em>
+* `Loc` (243; 46% of non-empty `Case`): <em>кортамо, оймсеме, тееме, сёрмадомо, ледеме, леднеме, эрямо, ярсамо, анокстамо, аштеме</em>
+* `Nom` (160; 30% of non-empty `Case`): <em>сэредиця, касыця, молиця, аштиця, валгиця, вечкема, кадовозь, менчевиця, солавтозь, эждязь</em>
 * `Prl` (4; 1% of non-empty `Case`): <em>марямга, пансемга, таргамга</em>
 * `Tra` (10; 2% of non-empty `Case`): <em>вечкевикс, Мелявтыцякс, ваныцякс, гайгицякс, кулозекс, молицякс, пшкадицякс, талныцякс, ёвтнемакс</em>
-* `EMPTY` (3239): <em>мерсь, лиссь, мольсь, ютась, ашти, маряви, неяви, совась, лоткась, саизе</em>
+* `EMPTY` (3234): <em>мерсь, лиссь, мольсь, ютась, ашти, маряви, неяви, совась, лоткась, саизе</em>
 
 <table>
   <tr><th>Paradigm <i>самс</i></th><th><tt>Nom</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ine</tt></th><th><tt>Abl</tt></th></tr>
@@ -327,7 +327,7 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 
 1 <tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> tokens (2% of all `SCONJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `SCONJ` and `Case` co-occurred: <tt><a href="myv_jr-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `SCONJ` and `Case` co-occurred: <tt><a href="myv_jr-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="myv_jr-feat-ConjType.html">ConjType</a></tt><tt>=EMPTY</tt> (1; 100%).
 
 `SCONJ` tokens may have the following values of `Case`:
 
@@ -346,5 +346,5 @@ The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="myv_jr-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (14; 52%),
 <tt>PROPN --[<tt><a href="myv_jr-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (14; 78%),
 <tt>PROPN --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> PROPN</tt> (13; 100%),
-<tt>PRON --[<tt><a href="myv_jr-dep-appos.html">appos</a></tt>]--> PROPN</tt> (12; 92%).
+<tt>NOUN --[<tt><a href="myv_jr-dep-amod.html">amod</a></tt>]--> VERB</tt> (12; 71%).
 

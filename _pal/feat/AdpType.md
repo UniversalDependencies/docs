@@ -36,4 +36,4 @@ This is only used together with `Prep` or `Post` to mark a circumposition.
 - _<b>pad</b> čē kār <b>rāy</b>_ "**for** what task" (lit. at what task for)
 
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:41 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:32 CET -->

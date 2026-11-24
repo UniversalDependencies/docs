@@ -36,7 +36,7 @@ The 10 most frequent ambiguous types:  <em>Пашуть</em> (<tt><a href="mdf_j
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.082192 (the average of all parts of speech is 1.563574).
+The form / lemma ratio of `PROPN` is 1.082192 (the average of all parts of speech is 1.563961).
 
 The 1st highest number of forms (2) was observed with the lemma “Василий”: <em>Васильевичекс, Васильевна</em>.
 

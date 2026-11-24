@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Korean-Kaist: POS Tags: `PRON`
 
-There are 391 `PRON` lemmas (0%), 387 `PRON` types (0%) and 7712 `PRON` tokens (2%).
+There are 356 `PRON` lemmas (0%), 352 `PRON` types (0%) and 7673 `PRON` tokens (2%).
 Out of 17 observed tags, the rank of `PRON` is: 10 in number of lemmas, 11 in number of types and 10 in number of tokens.
 
 The 10 most frequent `PRON` lemmas: 그+는, 우리, 그+의, 그것+은, 우리+는, 나+는, 이, 이것+은, 그+들+은, 이+는
@@ -66,7 +66,7 @@ The 10 most frequent ambiguous types:  우리 (<tt><a href="ko_kaist-pos-PRON.ht
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 0.989770 (the average of all parts of speech is 0.998034).
+The form / lemma ratio of `PRON` is 0.988764 (the average of all parts of speech is 0.998024).
 
 The 1st highest number of forms (3) was observed with the lemma “그것+은”: 그건, 그것은, 그럿은.
 
@@ -74,18 +74,24 @@ The 2nd highest number of forms (3) was observed with the lemma “무엇+을”
 
 The 3rd highest number of forms (2) was observed with the lemma “그+들+의”: 그들은, 그들의.
 
-`PRON` does not occur with any features.
+`PRON` occurs with 1 features: <tt><a href="ko_kaist-feat-PronType.html">PronType</a></tt> (7673; 100% instances)
+
+`PRON` occurs with 3 feature-value pairs: `PronType=Dem`, `PronType=Int`, `PronType=Prs`
+
+`PRON` occurs with 3 feature combinations.
+The most frequent feature combination is `PronType=Prs` (4951 tokens).
+Examples: 그는, 우리, 그의, 우리는, 나는, 그들은, 우리가, 우리의, 그가, 자기
 
 
 ## Relations
 
-`PRON` nodes are attached to their parents using 11 different relations: <tt><a href="ko_kaist-dep-dislocated.html">dislocated</a></tt> (2947; 38% instances), <tt><a href="ko_kaist-dep-nsubj.html">nsubj</a></tt> (1283; 17% instances), <tt><a href="ko_kaist-dep-compound.html">compound</a></tt> (1199; 16% instances), <tt><a href="ko_kaist-dep-nmod.html">nmod</a></tt> (1129; 15% instances), <tt><a href="ko_kaist-dep-obj.html">obj</a></tt> (824; 11% instances), <tt><a href="ko_kaist-dep-dep.html">dep</a></tt> (211; 3% instances), <tt><a href="ko_kaist-dep-obl.html">obl</a></tt> (47; 1% instances), <tt><a href="ko_kaist-dep-root.html">root</a></tt> (32; 0% instances), <tt><a href="ko_kaist-dep-conj.html">conj</a></tt> (22; 0% instances), <tt><a href="ko_kaist-dep-csubj.html">csubj</a></tt> (12; 0% instances), <tt><a href="ko_kaist-dep-acl.html">acl</a></tt> (6; 0% instances)
+`PRON` nodes are attached to their parents using 14 different relations: <tt><a href="ko_kaist-dep-dislocated.html">dislocated</a></tt> (2925; 38% instances), <tt><a href="ko_kaist-dep-nsubj.html">nsubj</a></tt> (1261; 16% instances), <tt><a href="ko_kaist-dep-compound.html">compound</a></tt> (1191; 16% instances), <tt><a href="ko_kaist-dep-nmod.html">nmod</a></tt> (1127; 15% instances), <tt><a href="ko_kaist-dep-obj.html">obj</a></tt> (821; 11% instances), <tt><a href="ko_kaist-dep-dep.html">dep</a></tt> (210; 3% instances), <tt><a href="ko_kaist-dep-obl.html">obl</a></tt> (49; 1% instances), <tt><a href="ko_kaist-dep-root.html">root</a></tt> (32; 0% instances), <tt><a href="ko_kaist-dep-conj.html">conj</a></tt> (21; 0% instances), <tt><a href="ko_kaist-dep-nsubj-outer.html">nsubj:outer</a></tt> (16; 0% instances), <tt><a href="ko_kaist-dep-csubj.html">csubj</a></tt> (10; 0% instances), <tt><a href="ko_kaist-dep-acl.html">acl</a></tt> (6; 0% instances), <tt><a href="ko_kaist-dep-det.html">det</a></tt> (3; 0% instances), <tt><a href="ko_kaist-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
 
-Parents of `PRON` nodes belong to 12 different parts of speech: <tt><a href="ko_kaist-pos-VERB.html">VERB</a></tt> (4130; 54% instances), <tt><a href="ko_kaist-pos-NOUN.html">NOUN</a></tt> (1701; 22% instances), <tt><a href="ko_kaist-pos-ADV.html">ADV</a></tt> (696; 9% instances), <tt><a href="ko_kaist-pos-SCONJ.html">SCONJ</a></tt> (467; 6% instances), <tt><a href="ko_kaist-pos-ADJ.html">ADJ</a></tt> (438; 6% instances), <tt><a href="ko_kaist-pos-CCONJ.html">CCONJ</a></tt> (215; 3% instances),  (32; 0% instances), <tt><a href="ko_kaist-pos-PROPN.html">PROPN</a></tt> (15; 0% instances), <tt><a href="ko_kaist-pos-PRON.html">PRON</a></tt> (9; 0% instances), <tt><a href="ko_kaist-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="ko_kaist-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="ko_kaist-pos-PART.html">PART</a></tt> (1; 0% instances)
+Parents of `PRON` nodes belong to 12 different parts of speech: <tt><a href="ko_kaist-pos-VERB.html">VERB</a></tt> (4110; 54% instances), <tt><a href="ko_kaist-pos-NOUN.html">NOUN</a></tt> (1699; 22% instances), <tt><a href="ko_kaist-pos-ADV.html">ADV</a></tt> (692; 9% instances), <tt><a href="ko_kaist-pos-SCONJ.html">SCONJ</a></tt> (464; 6% instances), <tt><a href="ko_kaist-pos-ADJ.html">ADJ</a></tt> (433; 6% instances), <tt><a href="ko_kaist-pos-CCONJ.html">CCONJ</a></tt> (210; 3% instances),  (32; 0% instances), <tt><a href="ko_kaist-pos-PROPN.html">PROPN</a></tt> (15; 0% instances), <tt><a href="ko_kaist-pos-PRON.html">PRON</a></tt> (9; 0% instances), <tt><a href="ko_kaist-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="ko_kaist-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="ko_kaist-pos-PART.html">PART</a></tt> (1; 0% instances)
 
-7401 (96%) `PRON` nodes are leaves.
+7366 (96%) `PRON` nodes are leaves.
 
-238 (3%) `PRON` nodes have one child.
+234 (3%) `PRON` nodes have one child.
 
 27 (0%) `PRON` nodes have two children.
 
@@ -93,7 +99,7 @@ Parents of `PRON` nodes belong to 12 different parts of speech: <tt><a href="ko_
 
 The highest child degree of a `PRON` node is 5.
 
-Children of `PRON` nodes are attached using 16 different relations: <tt><a href="ko_kaist-dep-acl.html">acl</a></tt> (141; 32% instances), <tt><a href="ko_kaist-dep-compound.html">compound</a></tt> (93; 21% instances), <tt><a href="ko_kaist-dep-punct.html">punct</a></tt> (86; 20% instances), <tt><a href="ko_kaist-dep-amod.html">amod</a></tt> (34; 8% instances), <tt><a href="ko_kaist-dep-nmod.html">nmod</a></tt> (21; 5% instances), <tt><a href="ko_kaist-dep-case.html">case</a></tt> (14; 3% instances), <tt><a href="ko_kaist-dep-advmod.html">advmod</a></tt> (12; 3% instances), <tt><a href="ko_kaist-dep-det.html">det</a></tt> (10; 2% instances), <tt><a href="ko_kaist-dep-nsubj.html">nsubj</a></tt> (9; 2% instances), <tt><a href="ko_kaist-dep-cop.html">cop</a></tt> (5; 1% instances), <tt><a href="ko_kaist-dep-conj.html">conj</a></tt> (4; 1% instances), <tt><a href="ko_kaist-dep-cc.html">cc</a></tt> (3; 1% instances), <tt><a href="ko_kaist-dep-dep.html">dep</a></tt> (3; 1% instances), <tt><a href="ko_kaist-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="ko_kaist-dep-dislocated.html">dislocated</a></tt> (2; 0% instances), <tt><a href="ko_kaist-dep-obl.html">obl</a></tt> (1; 0% instances)
+Children of `PRON` nodes are attached using 15 different relations: <tt><a href="ko_kaist-dep-acl.html">acl</a></tt> (140; 32% instances), <tt><a href="ko_kaist-dep-compound.html">compound</a></tt> (91; 21% instances), <tt><a href="ko_kaist-dep-punct.html">punct</a></tt> (86; 20% instances), <tt><a href="ko_kaist-dep-amod.html">amod</a></tt> (33; 8% instances), <tt><a href="ko_kaist-dep-nmod.html">nmod</a></tt> (22; 5% instances), <tt><a href="ko_kaist-dep-case.html">case</a></tt> (14; 3% instances), <tt><a href="ko_kaist-dep-advmod.html">advmod</a></tt> (12; 3% instances), <tt><a href="ko_kaist-dep-det.html">det</a></tt> (10; 2% instances), <tt><a href="ko_kaist-dep-nsubj.html">nsubj</a></tt> (9; 2% instances), <tt><a href="ko_kaist-dep-cop.html">cop</a></tt> (5; 1% instances), <tt><a href="ko_kaist-dep-conj.html">conj</a></tt> (4; 1% instances), <tt><a href="ko_kaist-dep-cc.html">cc</a></tt> (3; 1% instances), <tt><a href="ko_kaist-dep-dep.html">dep</a></tt> (3; 1% instances), <tt><a href="ko_kaist-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="ko_kaist-dep-dislocated.html">dislocated</a></tt> (2; 0% instances)
 
-Children of `PRON` nodes belong to 13 different parts of speech: <tt><a href="ko_kaist-pos-VERB.html">VERB</a></tt> (147; 33% instances), <tt><a href="ko_kaist-pos-NOUN.html">NOUN</a></tt> (111; 25% instances), <tt><a href="ko_kaist-pos-PUNCT.html">PUNCT</a></tt> (86; 20% instances), <tt><a href="ko_kaist-pos-CCONJ.html">CCONJ</a></tt> (24; 5% instances), <tt><a href="ko_kaist-pos-ADV.html">ADV</a></tt> (15; 3% instances), <tt><a href="ko_kaist-pos-ADJ.html">ADJ</a></tt> (14; 3% instances), <tt><a href="ko_kaist-pos-ADP.html">ADP</a></tt> (13; 3% instances), <tt><a href="ko_kaist-pos-DET.html">DET</a></tt> (10; 2% instances), <tt><a href="ko_kaist-pos-PRON.html">PRON</a></tt> (9; 2% instances), <tt><a href="ko_kaist-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="ko_kaist-pos-PROPN.html">PROPN</a></tt> (4; 1% instances), <tt><a href="ko_kaist-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ko_kaist-pos-X.html">X</a></tt> (1; 0% instances)
+Children of `PRON` nodes belong to 12 different parts of speech: <tt><a href="ko_kaist-pos-VERB.html">VERB</a></tt> (146; 33% instances), <tt><a href="ko_kaist-pos-NOUN.html">NOUN</a></tt> (110; 25% instances), <tt><a href="ko_kaist-pos-PUNCT.html">PUNCT</a></tt> (86; 20% instances), <tt><a href="ko_kaist-pos-CCONJ.html">CCONJ</a></tt> (24; 6% instances), <tt><a href="ko_kaist-pos-ADV.html">ADV</a></tt> (15; 3% instances), <tt><a href="ko_kaist-pos-ADJ.html">ADJ</a></tt> (13; 3% instances), <tt><a href="ko_kaist-pos-ADP.html">ADP</a></tt> (13; 3% instances), <tt><a href="ko_kaist-pos-DET.html">DET</a></tt> (10; 2% instances), <tt><a href="ko_kaist-pos-PRON.html">PRON</a></tt> (9; 2% instances), <tt><a href="ko_kaist-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="ko_kaist-pos-PROPN.html">PROPN</a></tt> (4; 1% instances), <tt><a href="ko_kaist-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 

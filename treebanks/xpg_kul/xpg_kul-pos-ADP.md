@@ -6,12 +6,12 @@ udver: '2'
 
 ## Treebank Statistics: UD_Phrygian-KUL: POS Tags: `ADP`
 
-There are 10 `ADP` lemmas (3%), 23 `ADP` types (3%) and 70 `ADP` tokens (4%).
-Out of 16 observed tags, the rank of `ADP` is: 8 in number of lemmas, 11 in number of types and 12 in number of tokens.
+There are 11 `ADP` lemmas (3%), 25 `ADP` types (3%) and 73 `ADP` tokens (4%).
+Out of 16 observed tags, the rank of `ADP` is: 7 in number of lemmas, 11 in number of types and 12 in number of tokens.
 
-The 10 most frequent `ADP` lemmas: <em>ad, με1, as, εν, aey, p?os, por, με, οτ, πορ</em>
+The 10 most frequent `ADP` lemmas: <em>ad, με1, as, por, εν, aey, p?os, per, με, οτ</em>
 
-The 10 most frequent `ADP` types:  <em>ατ, με, ας, α, [ατ, α]τ, αδ, μ̣ε̣, [ατ], α]</em>
+The 10 most frequent `ADP` types:  <em>ατ, με, ας, α, [ατ, por, α]τ, αδ, μ̣ε̣, [ατ]</em>
 
 The 10 most frequent ambiguous lemmas: 
 
@@ -28,7 +28,7 @@ The 10 most frequent ambiguous types:  <em>με</em> (<tt><a href="xpg_kul-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 2.300000 (the average of all parts of speech is 2.442308).
+The form / lemma ratio of `ADP` is 2.272727 (the average of all parts of speech is 2.307512).
 
 The 1st highest number of forms (10) was observed with the lemma “ad”: <em>[ατ, [ατ], α, α], α]τ, α̣τ, α̣τ̣, αδ, ας, ατ</em>.
 
@@ -41,17 +41,17 @@ The 3rd highest number of forms (4) was observed with the lemma “με1”: <em
 `ADP` occurs with 1 feature-value pairs: `ExtPos=ADP`
 
 `ADP` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (69 tokens).
-Examples: <em>ατ, με, ας, α, [ατ, α]τ, αδ, μ̣ε̣, [ατ], α]</em>
+The most frequent feature combination is `_` (72 tokens).
+Examples: <em>ατ, με, ας, α, [ατ, por, α]τ, αδ, μ̣ε̣, [ατ]</em>
 
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 2 different relations: <tt><a href="xpg_kul-dep-case.html">case</a></tt> (67; 96% instances), <tt><a href="xpg_kul-dep-dep.html">dep</a></tt> (3; 4% instances)
+`ADP` nodes are attached to their parents using 2 different relations: <tt><a href="xpg_kul-dep-case.html">case</a></tt> (70; 96% instances), <tt><a href="xpg_kul-dep-dep.html">dep</a></tt> (3; 4% instances)
 
-Parents of `ADP` nodes belong to 3 different parts of speech: <tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt> (41; 59% instances), <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (28; 40% instances), <tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt> (1; 1% instances)
+Parents of `ADP` nodes belong to 3 different parts of speech: <tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt> (42; 58% instances), <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (29; 40% instances), <tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt> (2; 3% instances)
 
-67 (96%) `ADP` nodes are leaves.
+70 (96%) `ADP` nodes are leaves.
 
 3 (4%) `ADP` nodes have one child.
 

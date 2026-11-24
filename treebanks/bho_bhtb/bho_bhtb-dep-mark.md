@@ -28,7 +28,7 @@ The following 14 pairs of parts of speech are connected with `mark`: <tt><a href
 4	छुआइल	छुआइल	VERB	V_VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	Translit=chuāila|LTranslit=chuāila
 5	कि	कि	SCONJ	CC_CCS	_	13	mark	_	Translit=ki|LTranslit=ki
 6	ओकरा	ओकरा	PRON	PR_PRP	Aspect=Perf|Number=Plur|VerbForm=Part	13	advcl	_	Translit=okarā|LTranslit=okarā
-7	मुँह	मुँह	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	11	obl	_	Translit=mum̃ha|LTranslit=mum̃ha
+7	मुँह	मुँह	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	11	nmod	_	Translit=mum̃ha|LTranslit=mum̃ha
 8	से	से	ADP	PSP	AdpType=Post	7	case	_	Translit=se|LTranslit=se
 9	निकलल	निकलल	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	compound	_	Translit=nikalala|LTranslit=nikalala
 10	-	-	PUNCT	RD_PUNC	_	11	punct	_	Translit=-|LTranslit=-

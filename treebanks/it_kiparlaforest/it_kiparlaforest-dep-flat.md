@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `flat`: <tt><a href="it_kiparlaforest-dep-flat-foreign.html">flat:foreign</a></tt>, <tt><a href="it_kiparlaforest-dep-flat-name.html">flat:name</a></tt>.
 
-54 nodes (0%) are attached to their parents as `flat`.
+24 nodes (0%) are attached to their parents as `flat`.
 
-54 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.77777777777778.
+24 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.95833333333333.
 
-The following 9 pairs of parts of speech are connected with `flat`: <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt>-<tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> (44; 81% instances), <tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_kiparlaforest-pos-DET.html">DET</a></tt> (2; 4% instances), <tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
+The following 4 pairs of parts of speech are connected with `flat`: <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt>-<tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> (12; 50% instances), <tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> (6; 25% instances), <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> (4; 17% instances), <tt><a href="it_kiparlaforest-pos-X.html">X</a></tt>-<tt><a href="it_kiparlaforest-pos-X.html">X</a></tt> (2; 8% instances).
 
 
 ~~~ conllu
@@ -30,17 +30,18 @@ The following 9 pairs of parts of speech are connected with `flat`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 1 4 flat	color:blue
-1	gialli	gialle	ADJ	_	Number=Plur	0	root	_	Begin=305.496|KID=126-0
-2	gi	gio	NOUN	_	Gender=Masc|Number=Plur	1	flat	_	KID=126-1
-3	a	a	ADP	_	_	1	flat	_	KID=126-2
-4	elle	ello	DET	_	Gender=Fem|Number=Plur|PronType=Dem	1	flat	_	KID=126-3
-5	elle	ella	NOUN	_	Gender=Fem|Number=Plur	1	flat	_	KID=126-4
-6	i	i	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	1	flat	_	End=307.185|KID=126-5
+# visual-style 1 2 flat	color:blue
+1	gialli	Gialli	PROPN	_	_	0	root	_	Begin=305.496|KID=126-0
+2	gi	G	NOUN	_	_	1	flat	_	KID=126-1
+3	i	I	NOUN	_	_	1	flat	_	KID=126-6
+4	a	A	NOUN	_	_	1	flat	_	KID=126-2
+5	elle	L	NOUN	_	_	1	flat	_	KID=126-3
+6	elle	L	NOUN	_	_	1	flat	_	KID=126-4
+7	i	I	NOUN	_	_	1	flat	_	End=307.185|KID=126-5
 
 ~~~
 
@@ -51,12 +52,10 @@ The following 9 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 flat	color:blue
-1	gialli	gialle	ADJ	_	Number=Plur	0	root	_	Begin=305.496|KID=126-0
-2	gi	gio	NOUN	_	Gender=Masc|Number=Plur	1	flat	_	KID=126-1
-3	a	a	ADP	_	_	1	flat	_	KID=126-2
-4	elle	ello	DET	_	Gender=Fem|Number=Plur|PronType=Dem	1	flat	_	KID=126-3
-5	elle	ella	NOUN	_	Gender=Fem|Number=Plur	1	flat	_	KID=126-4
-6	i	i	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	1	flat	_	End=307.185|KID=126-5
+1	gi	G	NOUN	_	_	0	root	_	Begin=307.581|KID=127-0
+2	i	I	NOUN	_	_	1	flat	_	KID=127-3
+3	a	A	NOUN	_	_	1	flat	_	KID=127-1
+4	elle	L	NOUN	_	_	1	flat	_	End=309.031|KID=127-2|OverlappingGroup=64
 
 ~~~
 

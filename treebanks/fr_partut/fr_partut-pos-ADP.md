@@ -60,7 +60,7 @@ The 10 most frequent ambiguous types:  <em>de</em> (<tt><a href="fr_partut-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.108108 (the average of all parts of speech is 1.464850).
+The form / lemma ratio of `ADP` is 1.108108 (the average of all parts of speech is 1.465007).
 
 The 1st highest number of forms (2) was observed with the lemma “de”: <em>d', de</em>.
 
@@ -68,32 +68,32 @@ The 2nd highest number of forms (2) was observed with the lemma “entre”: <em
 
 The 3rd highest number of forms (2) was observed with the lemma “que”: <em>qu', que</em>.
 
-`ADP` occurs with 3 features: <tt><a href="fr_partut-feat-ExtPos.html">ExtPos</a></tt> (59; 1% instances), <tt><a href="fr_partut-feat-Gender.html">Gender</a></tt> (1; 0% instances), <tt><a href="fr_partut-feat-Number.html">Number</a></tt> (1; 0% instances)
+`ADP` occurs with 3 features: <tt><a href="fr_partut-feat-ExtPos.html">ExtPos</a></tt> (60; 1% instances), <tt><a href="fr_partut-feat-Gender.html">Gender</a></tt> (1; 0% instances), <tt><a href="fr_partut-feat-Number.html">Number</a></tt> (1; 0% instances)
 
 `ADP` occurs with 6 feature-value pairs: `ExtPos=ADJ`, `ExtPos=ADP`, `ExtPos=ADV`, `ExtPos=PRON`, `Gender=Fem`, `Number=Sing`
 
 `ADP` occurs with 6 feature combinations.
-The most frequent feature combination is `_` (4587 tokens).
+The most frequent feature combination is `_` (4586 tokens).
 Examples: <em>de, à, d', en, dans, pour, sur, par, avec, entre</em>
 
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 16 different relations: <tt><a href="fr_partut-dep-case.html">case</a></tt> (4103; 88% instances), <tt><a href="fr_partut-dep-mark.html">mark</a></tt> (452; 10% instances), <tt><a href="fr_partut-dep-advmod.html">advmod</a></tt> (38; 1% instances), <tt><a href="fr_partut-dep-fixed.html">fixed</a></tt> (31; 1% instances), <tt><a href="fr_partut-dep-discourse.html">discourse</a></tt> (8; 0% instances), <tt><a href="fr_partut-dep-acl-relcl.html">acl:relcl</a></tt> (2; 0% instances), <tt><a href="fr_partut-dep-amod.html">amod</a></tt> (2; 0% instances), <tt><a href="fr_partut-dep-obl.html">obl</a></tt> (2; 0% instances), <tt><a href="fr_partut-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="fr_partut-dep-flat.html">flat</a></tt> (1; 0% instances), <tt><a href="fr_partut-dep-flat-name.html">flat:name</a></tt> (1; 0% instances), <tt><a href="fr_partut-dep-iobj.html">iobj</a></tt> (1; 0% instances), <tt><a href="fr_partut-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="fr_partut-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="fr_partut-dep-reparandum.html">reparandum</a></tt> (1; 0% instances), <tt><a href="fr_partut-dep-root.html">root</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 16 different relations: <tt><a href="fr_partut-dep-case.html">case</a></tt> (4102; 88% instances), <tt><a href="fr_partut-dep-mark.html">mark</a></tt> (452; 10% instances), <tt><a href="fr_partut-dep-advmod.html">advmod</a></tt> (39; 1% instances), <tt><a href="fr_partut-dep-fixed.html">fixed</a></tt> (31; 1% instances), <tt><a href="fr_partut-dep-discourse.html">discourse</a></tt> (8; 0% instances), <tt><a href="fr_partut-dep-acl-relcl.html">acl:relcl</a></tt> (2; 0% instances), <tt><a href="fr_partut-dep-amod.html">amod</a></tt> (2; 0% instances), <tt><a href="fr_partut-dep-obl.html">obl</a></tt> (2; 0% instances), <tt><a href="fr_partut-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="fr_partut-dep-flat.html">flat</a></tt> (1; 0% instances), <tt><a href="fr_partut-dep-flat-name.html">flat:name</a></tt> (1; 0% instances), <tt><a href="fr_partut-dep-iobj.html">iobj</a></tt> (1; 0% instances), <tt><a href="fr_partut-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="fr_partut-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="fr_partut-dep-reparandum.html">reparandum</a></tt> (1; 0% instances), <tt><a href="fr_partut-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 12 different parts of speech: <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (3702; 80% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (481; 10% instances), <tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> (175; 4% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (123; 3% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (49; 1% instances), <tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> (48; 1% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (46; 1% instances), <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> (9; 0% instances), <tt><a href="fr_partut-pos-SYM.html">SYM</a></tt> (7; 0% instances), <tt><a href="fr_partut-pos-DET.html">DET</a></tt> (4; 0% instances),  (1; 0% instances), <tt><a href="fr_partut-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `ADP` nodes belong to 12 different parts of speech: <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (3701; 80% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (482; 10% instances), <tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> (175; 4% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (123; 3% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (49; 1% instances), <tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> (48; 1% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (46; 1% instances), <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> (9; 0% instances), <tt><a href="fr_partut-pos-SYM.html">SYM</a></tt> (7; 0% instances), <tt><a href="fr_partut-pos-DET.html">DET</a></tt> (4; 0% instances),  (1; 0% instances), <tt><a href="fr_partut-pos-X.html">X</a></tt> (1; 0% instances)
 
-4584 (99%) `ADP` nodes are leaves.
+4583 (99%) `ADP` nodes are leaves.
 
 32 (1%) `ADP` nodes have one child.
 
-23 (0%) `ADP` nodes have two children.
+24 (1%) `ADP` nodes have two children.
 
 7 (0%) `ADP` nodes have three or more children.
 
 The highest child degree of a `ADP` node is 4.
 
-Children of `ADP` nodes are attached using 10 different relations: <tt><a href="fr_partut-dep-fixed.html">fixed</a></tt> (69; 68% instances), <tt><a href="fr_partut-dep-ccomp.html">ccomp</a></tt> (11; 11% instances), <tt><a href="fr_partut-dep-punct.html">punct</a></tt> (8; 8% instances), <tt><a href="fr_partut-dep-xcomp.html">xcomp</a></tt> (4; 4% instances), <tt><a href="fr_partut-dep-advmod.html">advmod</a></tt> (2; 2% instances), <tt><a href="fr_partut-dep-cop.html">cop</a></tt> (2; 2% instances), <tt><a href="fr_partut-dep-nsubj.html">nsubj</a></tt> (2; 2% instances), <tt><a href="fr_partut-dep-cc.html">cc</a></tt> (1; 1% instances), <tt><a href="fr_partut-dep-obl.html">obl</a></tt> (1; 1% instances), <tt><a href="fr_partut-dep-obl-arg.html">obl:arg</a></tt> (1; 1% instances)
+Children of `ADP` nodes are attached using 10 different relations: <tt><a href="fr_partut-dep-fixed.html">fixed</a></tt> (70; 68% instances), <tt><a href="fr_partut-dep-ccomp.html">ccomp</a></tt> (11; 11% instances), <tt><a href="fr_partut-dep-punct.html">punct</a></tt> (9; 9% instances), <tt><a href="fr_partut-dep-xcomp.html">xcomp</a></tt> (4; 4% instances), <tt><a href="fr_partut-dep-advmod.html">advmod</a></tt> (2; 2% instances), <tt><a href="fr_partut-dep-cop.html">cop</a></tt> (2; 2% instances), <tt><a href="fr_partut-dep-nsubj.html">nsubj</a></tt> (2; 2% instances), <tt><a href="fr_partut-dep-cc.html">cc</a></tt> (1; 1% instances), <tt><a href="fr_partut-dep-obl.html">obl</a></tt> (1; 1% instances), <tt><a href="fr_partut-dep-obl-arg.html">obl:arg</a></tt> (1; 1% instances)
 
-Children of `ADP` nodes belong to 10 different parts of speech: <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (30; 30% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (21; 21% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (15; 15% instances), <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> (9; 9% instances), <tt><a href="fr_partut-pos-PUNCT.html">PUNCT</a></tt> (8; 8% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (7; 7% instances), <tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> (6; 6% instances), <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (2; 2% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="fr_partut-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances)
+Children of `ADP` nodes belong to 10 different parts of speech: <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (30; 29% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (21; 20% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (16; 16% instances), <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> (9; 9% instances), <tt><a href="fr_partut-pos-PUNCT.html">PUNCT</a></tt> (9; 9% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (7; 7% instances), <tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> (6; 6% instances), <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (2; 2% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="fr_partut-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances)
 

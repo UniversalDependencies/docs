@@ -127,10 +127,10 @@ The following 17 pairs of parts of speech are connected with `cc`: <tt><a href="
 25	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	cop	28:cop	Lem=be|Len=2
 26	_	_	DET	DT	Definite=Ind|PronType=Art	27	det	27:det	Lem=_|Len=1
 27	_	_	NOUN	NN	Number=Sing	28	obl:unmarked	28:obl:unmarked	Lem=_|Len=3
-28	_	_	ADJ	JJR	Degree=Cmp	15	conj	15:conj:and	Lem=easy|Len=6|MSeg=easi-er
+28	_	_	ADJ	JJR	Degree=Cmp	15	conj	15:conj:and	Lem=easy|Len=6|MSeg=eas-i-er
 29	_	_	PART	TO	_	30	mark	30:mark	Lem=_|Len=2
 30	_	_	VERB	VB	VerbForm=Inf	28	xcomp	28:xcomp	Lem=_|Len=4
-31	_	_	ADV	RB	Degree=Pos	28	advmod	28:advmod	Entity=139)|Lem=_|Len=3|SpaceAfter=No
+31	_	_	ADV	RB	_	28	advmod	28:advmod	Entity=139)|Lem=_|Len=3|SpaceAfter=No
 32	_	_	PUNCT	.	_	15	punct	15:punct	Lem=_|Len=1
 
 ~~~

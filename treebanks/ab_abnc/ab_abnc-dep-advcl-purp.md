@@ -28,7 +28,7 @@ The following 1 pairs of parts of speech are connected with `advcl:purp`: <tt><a
 3	бхәыҷы	а-хәыҷы́	ADJ	Adj_Sg_Poss:2SgF	Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=2	4	nmod:poss	_	LMSeg:а-хәыҷы́
 4	ихш	а́-хш	NOUN	Noun_NH_Sg_Poss:3SgM	Animacy=Nhum|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3	7	nsubj	_	LMSeg:а́-хш
 5	бгәы	а-гәы́	NOUN	Noun_NH_Sg_Poss:2SgF	Animacy=Nhum|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=2	6	iobj:lo	_	LMSeg:а-гәы́
-6	иҭашны	а-ҭашра́	VERB	V_Dyn_Intr_NonFin_Cnv_Abs_Aor_S:3	Dyn=Yes|Person[subj]=3|Subcat=Intr|Tense=Aor|VerbForm=NonFin	7	advcl:conv	_	LMSeg:а-ҭа·ш-ра́
+6	иҭашны	а-ҭашра́	VERB	V_Dyn_Intr_NonFin_Cnv_Abs_Aor_S:3_[LO:3SgNH]	Dyn=Yes|Gender[lo]=Neut|Number[lo]=Sing|Person[lo]=3|Person[subj]=3|Subcat=Intr|Tense=Aor|VerbForm=NonFin	7	advcl:conv	_	LMSeg:а-ҭа·ш-ра́
 7	баблырц	а-былра́	VERB	V_Dyn_Tr_NonFin_Purp_S:3SgNH_DO:2SgF	Dyn=Yes|Gender[obj]=Fem|Gender[subj]=Neut|Mood=Prp|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=2|Person[subj]=3|Subcat=Tran|VerbForm=NonFin	8	advcl:purp	_	LMSeg:а-был-ра́
 8	иҟоуп	а́-ҟазаара	VERB	V_Stat_Fin_Pres_S:3	Dyn=No|Mood=Ind|Person[subj]=3|Tense=Pres|VerbForm=Fin	0	root	_	LMSeg:а́-ҟа-заа-ра|SpaceAfter=No
 9	.	.	PUNCT	Punct_Period	_	8	punct	_	LMSeg:.

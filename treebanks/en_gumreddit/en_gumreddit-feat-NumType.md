@@ -33,7 +33,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (16; 100% of non-empty `NumType`): <em>_</em>
-* `EMPTY` (982): <em>_</em>
+* `EMPTY` (983): <em>_</em>
 
 ### `ADV`
 
@@ -45,7 +45,7 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 
 * `Mult` (4; 40% of non-empty `NumType`): <em>_</em>
 * `Ord` (6; 60% of non-empty `NumType`): <em>_</em>
-* `EMPTY` (1095): <em>_</em>
+* `EMPTY` (1094): <em>_</em>
 
 ### `NOUN`
 
@@ -57,7 +57,7 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 
 * `Card` (3; 75% of non-empty `NumType`): <em>_</em>
 * `Frac` (1; 25% of non-empty `NumType`): <em>_</em>
-* `EMPTY` (2652): <em>_</em>
+* `EMPTY` (2651): <em>_</em>
 
 ### `PROPN`
 

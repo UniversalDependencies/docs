@@ -161,5 +161,6 @@ _ʼaḥar  hadbarim haʼeleh hayah devar yehṿah ʼel ʼavram bamaḥazeh leʼm
 
 _After these things, the word of The LORD came to Abram in a vision saying "Do not fear, Abram; I am a sheild for you; your reward is very great."._
 
-This construction is discussed in [Issue #1059](https://github.com/UniversalDependencies/docs/issues/1059).
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:01 CEST -->
+This construction is discussed in [Issue #1059](https://github.com/UniversalDependencies/docs/issues/1059) and [Issue #1185](https://github.com/UniversalDependencies/docs/issues/1185).
+
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:39 CET -->

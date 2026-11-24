@@ -31,4 +31,4 @@ Word operators are treated as a special subtype of coordinating conjunctions and
 #### Examples
 
 * _<b>x</b>_, _<b>անգամ</b>_/_angam_ “times”
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:47 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:37 CET -->

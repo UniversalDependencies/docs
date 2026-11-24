@@ -26,7 +26,7 @@ The following 3 pairs of parts of speech are connected with `det:nummod`: <tt><a
 1	Hlavní	hlavní	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	2	amod	2:amod	_
 2	sestra	sestra	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	4:nsubj	_
 3	se	se	PRON	P7--4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	4	expl:pv	4:expl:pv	_
-4	dostavila	dostavit	VERB	VpFS----R-AA---	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
+4	dostavila	dostavit	VERB	VpFS----R-AA---	Aspect=Perf|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
 5	během	během	ADP	RR--2----------	AdpType=Prep|Case=Gen	7	case	7:case	_
 6	několika	několik	DET	Ca--2----------	Case=Gen|NumType=Card|PronType=Ind	7	det:nummod	7:det:nummod	_
 7	minut	minuta	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur	4	obl	4:obl:během:gen	SpaceAfter=No
@@ -42,11 +42,11 @@ The following 3 pairs of parts of speech are connected with `det:nummod`: <tt><a
 # visual-style 3	fgColor:white
 # visual-style 3 4 det:nummod	color:blue
 1	Nebylo	být	AUX	VpNS----R-NA---	Aspect=Imp|Gender=Neut|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
-2	slyšet	slyšet	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	1	ccomp	1:ccomp	_
+2	slyšet	slyšet	VERB	Vf--------A----	Aspect=Imp|Polarity=Pos|VerbForm=Inf	1	ccomp	1:ccomp	_
 3	nic	nic	PRON	PW--1----------	Case=Nom|PronType=Neg	2	obj	2:obj	_
 4	víc	víc	DET	Ca--1----------	Case=Nom|NumType=Card|PronType=Ind	3	det:nummod	3:det:nummod	_
 5	než	než	SCONJ	J,-------------	_	6	mark	6:mark	_
-6	vrčení	vrčení	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing	3	advcl	3:advcl:než	_
+6	vrčení	vrčení	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Vnoun	3	nmod	3:nmod:než	_
 7	mašiny	mašina	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing	6	nmod	6:nmod:gen	_
 8	odkudsi	odkudsi	ADV	Db-------------	PronType=Ind	9	advmod	9:advmod	_
 9	zezadu	zezadu	ADV	Db-------------	_	6	advmod	6:advmod	SpaceAfter=No
@@ -63,9 +63,9 @@ The following 3 pairs of parts of speech are connected with `det:nummod`: <tt><a
 # visual-style 11 10 det:nummod	color:blue
 1	Potom	potom	ADV	Db-------------	_	3	advmod	3:advmod	_
 2	dlaň	dlaň	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing	3	obj	3:obj	_
-3	otevřela	otevřít	VERB	VpFS----R-AA---	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	SpaceAfter=No
+3	otevřela	otevřít	VERB	VpFS----R-AA---	Aspect=Perf|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	SpaceAfter=No
 4	,	,	PUNCT	Z:-------------	_	5	punct	5:punct	_
-5	leželo	ležet	VERB	VpNS----R-AA---	Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	3	conj	0:root|3:conj	_
+5	leželo	ležet	VERB	VpNS----R-AA---	Aspect=Imp|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	3	conj	0:root|3:conj	_
 6	na	na	ADP	RR--6----------	AdpType=Prep|Case=Loc	7	case	7:case	_
 7	ní	on	PRON	P5FS6--3-------	Case=Loc|Gender=Fem|Number=Sing|Person=3|PrepCase=Pre|PronType=Prs	5	obl	5:obl:na:loc	_
 8	už	už	PART	TT-------------	_	5	advmod	5:advmod	_
@@ -78,7 +78,7 @@ The following 3 pairs of parts of speech are connected with `det:nummod`: <tt><a
 15	její	jeho	DET	PSFS6FS3-------	Case=Loc|Gender=Fem|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	16	det	16:det	_
 16	pokožce	pokožka	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing	18	obl	18:obl:na:loc	_
 17	se	se	PRON	P7--4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	18	expl:pv	18:expl:pv	_
-18	ukázaly	ukázat	VERB	VpIP----R-AA---	Animacy=Inan|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	3	conj	0:root|3:conj	_
+18	ukázaly	ukázat	VERB	VpIP----R-AA---	Animacy=Inan|Aspect=Perf|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	3	conj	0:root|3:conj	_
 19	jeho	jeho	DET	PSIP1IS3-------	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	20	det	20:det	_
 20	otisky	otisk	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	18	nsubj	18:nsubj	_
 21	jako	jako	SCONJ	J,-------------	_	22	mark	22:mark	_

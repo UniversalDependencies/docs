@@ -45,7 +45,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): <em>UU</em>
-* `EMPTY` (1484): <em>gran, primera, mayor, nueva, nacional, grandes, primer, últimos, británica, nuevos</em>
+* `EMPTY` (1486): <em>gran, primera, mayor, nueva, nacional, grandes, primer, últimos, británica, nuevos</em>
 
 ### `NOUN`
 
@@ -56,7 +56,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): <em>EE.</em>
-* `EMPTY` (4806): <em>años, año, guerra, lugar, parte, gobierno, ciudad, mar, estado, millones</em>
+* `EMPTY` (4797): <em>años, año, guerra, lugar, parte, gobierno, ciudad, mar, estado, millones</em>
 
 ## Relations with Agreement in `Abbr`
 

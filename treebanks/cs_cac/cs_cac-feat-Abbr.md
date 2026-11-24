@@ -44,7 +44,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (982; 100% of non-empty `Abbr`): <em>ÚV, ZV, ZO, JZD, Kčs, ONV, ÚR, MěstNV, BSP, BP</em>
-* `EMPTY` (135200): <em>práce, roce, let, práci, roku, oblasti, době, společnosti, hlediska, činnosti</em>
+* `EMPTY` (135260): <em>práce, roce, let, práci, roku, oblasti, době, společnosti, hlediska, činnosti</em>
 
 `Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (160) occur only with one value of `Abbr`.
 
@@ -66,13 +66,13 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (10; 100% of non-empty `Abbr`): <em>kt</em>
-* `EMPTY` (28065): <em>tak, také, jak, proto, již, už, ještě, pak, kde, tedy</em>
+* `EMPTY` (28284): <em>tak, také, jak, proto, již, už, ještě, pak, kde, tedy</em>
 
 ### `ADJ`
 
 9 <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (9; 100%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (9; 100%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (9; 100%).
+The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="cs_cac-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (9; 100%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (9; 100%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (9; 100%).
 
 `ADJ` tokens may have the following values of `Abbr`:
 

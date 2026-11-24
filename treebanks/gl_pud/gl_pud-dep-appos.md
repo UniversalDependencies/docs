@@ -29,7 +29,7 @@ The following 19 pairs of parts of speech are connected with `appos`: <tt><a hre
 5	e	e	CCONJ	CC	_	6	cc	_	_
 6	meteron	meter	VERB	VMIS3P0	Mood=Ind|Number=Plur|Person=3|Tense=Past	1	conj	_	_
 7	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
-8	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	9	det	_	_
+8	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	det	_	_
 9	seguidor	seguidor	NOUN	NCMS000	Gender=Masc|Number=Sing	6	obj	_	_
 10	en	en	ADP	SP	AdpType=Prep	12	case	_	_
 11	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_

@@ -31,4 +31,4 @@ There is a small set of verbs, such as the verbs denoting "training", that admit
 
 See the [expl]()  relation for cases of clitic doubling.
 
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:27 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:39:01 CET -->

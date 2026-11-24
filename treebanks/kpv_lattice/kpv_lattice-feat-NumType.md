@@ -42,7 +42,7 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 * `Dist` (3; 23% of non-empty `NumType`): <em>кыкӧныс, Унаӧнӧсь, быдсӧн</em>
 * `Mult` (8; 62% of non-empty `NumType`): <em>унаысь, ӧтчыд, Гоз-мӧдысь, выльысь, кыкысь, мӧдысь</em>
 * `Mult,Ord` (2; 15% of non-empty `NumType`): <em>гоз-мӧдысь, мӧдысь</em>
-* `EMPTY` (875): <em>нин, жӧ, на, и, сӧмын, сэсся, зэв, кыдзи, пыр, бара</em>
+* `EMPTY` (878): <em>нин, жӧ, на, и, сӧмын, сэсся, зэв, кыдзи, пыр, бара</em>
 
 <table>
   <tr><th>Paradigm <i>гоз-мӧдысь</i></th><th><tt>Mult,Ord</tt></th><th><tt>Mult</tt></th></tr>
@@ -84,7 +84,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (1; 100% of non-empty `NumType`): <em>татшӧм</em>
-* `EMPTY` (498): <em>ыджыд, кодь, бур, важ, мича, еджыд, ичӧтик, сэтшӧм, том, выль</em>
+* `EMPTY` (499): <em>ыджыд, кодь, бур, важ, мича, еджыд, ичӧтик, сэтшӧм, том, выль</em>
 
 ## Relations with Agreement in `NumType`
 

@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="es_gsd-dep-expl.html">expl</a></tt>.
 There are also 2 other language-specific subtypes of `expl`: <tt><a href="es_gsd-dep-expl-impers.html">expl:impers</a></tt>, <tt><a href="es_gsd-dep-expl-pass.html">expl:pass</a></tt>.
 
-5332 nodes (1%) are attached to their parents as `expl:pv`.
+5334 nodes (1%) are attached to their parents as `expl:pv`.
 
-4609 instances of `expl:pv` (86%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.13372093023256.
+4610 instances of `expl:pv` (86%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.13367079115111.
 
-The following 5 pairs of parts of speech are connected with `expl:pv`: <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (5313; 100% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (10; 0% instances), <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="es_gsd-pos-X.html">X</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `expl:pv`: <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (5315; 100% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (10; 0% instances), <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="es_gsd-pos-X.html">X</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -52,7 +52,7 @@ The following 5 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 1	Les	él	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	2	obl:arg	_	_
 2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	2	nsubj	_	_
-4	que	que	SCONJ	_	_	5	mark	_	_
+4	que	que	PRON	_	PronType=Rel	5	obj	_	_
 5	hacen	hacer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_
 6	y	y	CCONJ	_	_	8	cc	_	_
 7	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	expl:pv	_	_

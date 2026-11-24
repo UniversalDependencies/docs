@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `nmod`: <tt><a href="swl_sslc-dep-nmod-poss.html">nmod:poss</a></tt>.
 
-13 nodes (1%) are attached to their parents as `nmod`.
+14 nodes (1%) are attached to their parents as `nmod`.
 
-7 instances of `nmod` (54%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.84615384615385.
+8 instances of `nmod` (57%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.28571428571429.
 
-The following 4 pairs of parts of speech are connected with `nmod`: <tt><a href="swl_sslc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="swl_sslc-pos-PRON.html">PRON</a></tt> (6; 46% instances), <tt><a href="swl_sslc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="swl_sslc-pos-NOUN.html">NOUN</a></tt> (4; 31% instances), <tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt>-<tt><a href="swl_sslc-pos-NOUN.html">NOUN</a></tt> (2; 15% instances), <tt><a href="swl_sslc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt> (1; 8% instances).
+The following 4 pairs of parts of speech are connected with `nmod`: <tt><a href="swl_sslc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="swl_sslc-pos-PRON.html">PRON</a></tt> (6; 43% instances), <tt><a href="swl_sslc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="swl_sslc-pos-NOUN.html">NOUN</a></tt> (5; 36% instances), <tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt>-<tt><a href="swl_sslc-pos-NOUN.html">NOUN</a></tt> (2; 14% instances), <tt><a href="swl_sslc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt> (1; 7% instances).
 
 
 ~~~ conllu

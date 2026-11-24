@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="gsw_divital-dep-nmod.html">nmod</a></tt>.
 There are also 2 other language-specific subtypes of `nmod`: <tt><a href="gsw_divital-dep-nmod-poss.html">nmod:poss</a></tt>, <tt><a href="gsw_divital-dep-nmod-tmod.html">nmod:tmod</a></tt>.
 
-66 nodes (0%) are attached to their parents as `nmod:lmod`.
+67 nodes (0%) are attached to their parents as `nmod:lmod`.
 
-65 instances of `nmod:lmod` (98%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.34848484848485.
+66 instances of `nmod:lmod` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.35820895522388.
 
-The following 7 pairs of parts of speech are connected with `nmod:lmod`: <tt><a href="gsw_divital-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gsw_divital-pos-PROPN.html">PROPN</a></tt> (38; 58% instances), <tt><a href="gsw_divital-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gsw_divital-pos-NOUN.html">NOUN</a></tt> (18; 27% instances), <tt><a href="gsw_divital-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gsw_divital-pos-PROPN.html">PROPN</a></tt> (3; 5% instances), <tt><a href="gsw_divital-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gsw_divital-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="gsw_divital-pos-ADV.html">ADV</a></tt>-<tt><a href="gsw_divital-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="gsw_divital-pos-SYM.html">SYM</a></tt>-<tt><a href="gsw_divital-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="gsw_divital-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="gsw_divital-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
+The following 7 pairs of parts of speech are connected with `nmod:lmod`: <tt><a href="gsw_divital-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gsw_divital-pos-PROPN.html">PROPN</a></tt> (38; 57% instances), <tt><a href="gsw_divital-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gsw_divital-pos-NOUN.html">NOUN</a></tt> (19; 28% instances), <tt><a href="gsw_divital-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gsw_divital-pos-PROPN.html">PROPN</a></tt> (3; 4% instances), <tt><a href="gsw_divital-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gsw_divital-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="gsw_divital-pos-ADV.html">ADV</a></tt>-<tt><a href="gsw_divital-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="gsw_divital-pos-SYM.html">SYM</a></tt>-<tt><a href="gsw_divital-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="gsw_divital-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="gsw_divital-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -80,13 +80,13 @@ The following 7 pairs of parts of speech are connected with `nmod:lmod`: <tt><a 
 15	Adour	_	PROPN	_	Foreign=Yes	12	nmod:poss	_	Gloss[fr]=Adour|Lang=fr
 16	bezeichnet	_	VERB	_	_	2	ccomp	_	Gloss[fr]=désigne|Lemma[de]=bezeichnen
 17	(	_	PUNCT	_	_	18	punct	_	Gloss[fr]=(|Lemma[de]=(|SpaceAfter=No
-18	boca	_	NOUN	_	Foreign=Yes	16	parataxis	_	Gloss[fr]=bouche|Lang=oci|SpaceAfter=No
+18	boca	_	NOUN	_	Foreign=Yes	16	parataxis	_	Gloss[fr]=bouche|Lang=oc|SpaceAfter=No
 19	:	_	PUNCT	_	_	21	punct	_	Gloss[fr]=:|Lemma[de]=:
 20	"	_	PUNCT	_	_	21	punct	_	Gloss[fr]="|Lemma[de]="|SpaceAfter=No
 21	Mül	_	NOUN	_	_	18	obj	_	Gloss[fr]=bouche|Lemma[de]=Maul/Mund|SpaceAfter=No
 22	"	_	PUNCT	_	_	21	punct	_	Gloss[fr]="|Lemma[de]="|SpaceAfter=No
 23	;	_	PUNCT	_	_	21	punct	_	Gloss[fr]=;|Lemma[de]=;
-24	bocau	_	NOUN	_	Foreign=Yes	18	conj	_	Gloss[fr]=embouchure|Lang=oci
+24	bocau	_	NOUN	_	Foreign=Yes	18	conj	_	Gloss[fr]=embouchure|Lang=oc
 25	:	_	PUNCT	_	_	27	punct	_	Gloss[fr]=:|Lemma[de]=:
 26	"	_	PUNCT	_	_	27	punct	_	Gloss[fr]="|Lemma[de]="|SpaceAfter=No
 27	Mindung	_	NOUN	_	_	24	obj	_	Gloss[fr]=embouchure|Lemma[de]=Mündung|SpaceAfter=No

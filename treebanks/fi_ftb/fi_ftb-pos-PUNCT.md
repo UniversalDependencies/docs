@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 2.049638).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 2.049502).
 
 The 1st highest number of forms (1) was observed with the lemma “!”: <em>!</em>.
 
@@ -42,7 +42,7 @@ Examples: <em>., ,, ?, !, -, :, ..., --, ;, ´</em>
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="fi_ftb-dep-punct.html">punct</a></tt> (22565; 100% instances)
 
-Parents of `PUNCT` nodes belong to 16 different parts of speech: <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (10606; 47% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (4793; 21% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> (2195; 10% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (1833; 8% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (1270; 6% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (1001; 4% instances), <tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (314; 1% instances), <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> (182; 1% instances), <tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> (98; 0% instances), <tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (88; 0% instances), <tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt> (83; 0% instances), <tt><a href="fi_ftb-pos-X.html">X</a></tt> (52; 0% instances), <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> (25; 0% instances), <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (15; 0% instances), <tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="fi_ftb-pos-SYM.html">SYM</a></tt> (4; 0% instances)
+Parents of `PUNCT` nodes belong to 16 different parts of speech: <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (16335; 72% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (2514; 11% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (1830; 8% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (734; 3% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (305; 1% instances), <tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt> (287; 1% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> (219; 1% instances), <tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (95; 0% instances), <tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> (67; 0% instances), <tt><a href="fi_ftb-pos-X.html">X</a></tt> (59; 0% instances), <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> (48; 0% instances), <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (31; 0% instances), <tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (22; 0% instances), <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> (14; 0% instances), <tt><a href="fi_ftb-pos-SYM.html">SYM</a></tt> (4; 0% instances), <tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (1; 0% instances)
 
 22565 (100%) `PUNCT` nodes are leaves.
 

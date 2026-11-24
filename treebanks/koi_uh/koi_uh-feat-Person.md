@@ -12,7 +12,7 @@ It occurs with 3 different values: `1`, `2`, `3`.
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="koi_uh-feat-Person.html">Person</a></tt>, <tt><a href="koi_uh-feat-Person-psor.html">Person[psor]</a></tt>.
 
 279 tokens (24%) have a non-empty value of `Person`.
-186 types (30%) occur at least once with a non-empty value of `Person`.
+183 types (30%) occur at least once with a non-empty value of `Person`.
 119 lemmas (25%) occur at least once with a non-empty value of `Person`.
 The feature is used with 4 part-of-speech tags: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (153; 13% instances), <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (93; 8% instances), <tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> (32; 3% instances), <tt><a href="koi_uh-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
@@ -24,15 +24,15 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 `VERB` tokens may have the following values of `Person`:
 
-* `1` (18; 12% of non-empty `Person`): <em>Висьтала, Пукси, адзза, вежӧрті, ветлӧті, видзлывламö, видзӧті, вуграся, вуджим, дугда</em>
-* `2` (15; 10% of non-empty `Person`): <em>локтін, осьт, Мунан, веритан, видзöтлы, видзӧтан, висьö, вожгайтчан, думайтан, кольччы</em>
-* `3` (120; 78% of non-empty `Person`): <em>зэрӧ, быдмис, босьтіс, вашöтö, велалас, высьтіс, гижис, котӧртіс, краситӧм, краситӧма</em>
-* `EMPTY` (53): <em>вӧтны, керны, öшöтöмöн, адззавлыны, адззыв, аркмы, артав, артась, боньгыныт, бырӧм</em>
+* `1` (18; 12% of non-empty `Person`): <em>Висьтала, Пукси, адзза, вежӧрті, ветлӧті, видзлывламӧ, видзӧті, вуграся, вуджим, дугда</em>
+* `2` (15; 10% of non-empty `Person`): <em>локтін, осьт, Мунан, веритан, видзӧтан, видзӧтлы, висьӧ, вожгайтчан, думайтан, кольччы</em>
+* `3` (120; 78% of non-empty `Person`): <em>зэрӧ, быдмис, юаліс, босьтіс, вашӧтӧ, велалас, высьтіс, гижис, котӧртіс, краситӧм</em>
+* `EMPTY` (53): <em>вӧтны, керны, адззавлыны, адззыв, аркмы, артав, артась, боньгыныт, бырӧм, бӧрйыны</em>
 
 <table>
   <tr><th>Paradigm <i>мунны</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
   <tr><td><tt><tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>муніс</em></td></tr>
-  <tr><td><tt><tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>муна</em></td><td><em>Мунан</em></td><td><em>мунö</em></td></tr>
+  <tr><td><tt><tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>муна</em></td><td><em>Мунан</em></td><td><em>мунӧ</em></td></tr>
   <tr><td><tt><tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>мунісӧ</em></td></tr>
 </table>
 
@@ -46,10 +46,10 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (26; 28% of non-empty `Person`): <em>ме, менам, меным, Ми, Мийö, аскöттям, мекӧт, мелань, менӧ, миянöс</em>
-* `2` (19; 20% of non-empty `Person`): <em>тэ, тэнат, ачыт, Аскöттят, Тэнö, ті</em>
-* `3` (48; 52% of non-empty `Person`): <em>сія, сійӧ, Сiя, нія, сылӧ, сылӧн, Сы, Сылöн, аскöттяс, кыкнаннысӧ</em>
-* `EMPTY` (28): <em>мый, ас, мыйкӧ, эна, этӧ, öтамöдныскöт, Кытшӧм, Мӧдыс, Эта, быд</em>
+* `1` (26; 28% of non-empty `Person`): <em>ме, менам, меным, Ми, Мийӧ, аскӧттям, мекӧт, мелань, менӧ, миянӧс</em>
+* `2` (19; 20% of non-empty `Person`): <em>тэ, тэнат, ачыт, Аскӧттят, Тэнӧ, ті</em>
+* `3` (48; 52% of non-empty `Person`): <em>сія, сылӧн, сійӧ, нія, сылӧ, Сы, аскӧттяс, кыкнаннысӧ, ны, сыкӧт</em>
+* `EMPTY` (28): <em>мый, этӧ, ас, мыйкӧ, эна, Кытшӧм, Мӧдыс, Эта, быд, кин</em>
 
 ### `AUX`
 
@@ -59,10 +59,10 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 `AUX` tokens may have the following values of `Person`:
 
-* `1` (6; 19% of non-empty `Person`): <em>эг, вӧлі, ог, эгö</em>
+* `1` (6; 19% of non-empty `Person`): <em>эг, вӧлі, ог, эгӧ</em>
 * `2` (5; 16% of non-empty `Person`): <em>эн, верман, он, эд</em>
 * `3` (21; 66% of non-empty `Person`): <em>оз, эз, озӧ, Вӧлі, коліс, овлӧ</em>
-* `EMPTY` (13): <em>абу, вермы, не, абуöсь, бы, вӧв, овны, позь</em>
+* `EMPTY` (13): <em>абу, вермы, не, абуӧсь, бы, вӧв, овны, позь</em>
 
 <table>
   <tr><th>Paradigm <i>оз</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -70,7 +70,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
   <tr><td><tt><tt><a href="koi_uh-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="koi_uh-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>эг</em></td><td><em>эн</em></td><td><em>эз</em></td></tr>
   <tr><td><tt><tt><a href="koi_uh-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>оз</em></td></tr>
   <tr><td><tt><tt><a href="koi_uh-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="koi_uh-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>ог</em></td><td><em>он</em></td><td><em>оз</em></td></tr>
-  <tr><td><tt><tt><a href="koi_uh-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="koi_uh-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>эг, эгö</em></td><td><em>эд</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="koi_uh-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="koi_uh-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>эг, эгӧ</em></td><td><em>эд</em></td><td></td></tr>
   <tr><td><tt><tt><a href="koi_uh-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="koi_uh-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td></td><td><em>озӧ</em></td></tr>
   <tr><td><tt><tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="koi_uh-feat-VerbType.html">VerbType</a></tt><tt>=Aux</tt></tt></td><td></td><td></td><td><em>эз</em></td></tr>
 </table>
@@ -84,7 +84,7 @@ The most frequent other feature values with which `NUM` and `Person` co-occurred
 `NUM` tokens may have the following values of `Person`:
 
 * `3` (1; 100% of non-empty `Person`): <em>кыкӧнӧсь</em>
-* `EMPTY` (8): <em>кык, öтiк, Кыкӧн, куим, кыка, нёляӧсь</em>
+* `EMPTY` (8): <em>кык, Кыкӧн, куим, кыка, нёляӧсь, ӧтік</em>
 
 ## Relations with Agreement in `Person`
 

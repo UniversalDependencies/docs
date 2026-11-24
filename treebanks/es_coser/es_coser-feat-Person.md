@@ -47,7 +47,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (132; 23% of non-empty `Person`): <em>yo, me, nos, nosotros, mí, m, mos, mío</em>
 * `2` (67; 12% of non-empty `Person`): <em>te, usted, tú, ustedes, os, sos, uste, usté</em>
 * `3` (369; 65% of non-empty `Person`): <em>se, lo, le, los, la, las, les, él, ellas, ella</em>
-* `EMPTY` (336): <em>que, eso, cómo, qué, todo, esto, todos, dónde, otro, algo</em>
+* `EMPTY` (338): <em>que, eso, cómo, qué, todo, esto, todos, dónde, otro, algo</em>
 
 ### `AUX`
 
@@ -91,8 +91,8 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="es_coser-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (100; 50%),
-<tt>VERB --[<tt><a href="es_coser-dep-conj.html">conj</a></tt>]--> VERB</tt> (86; 59%),
+<tt>VERB --[<tt><a href="es_coser-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (100; 51%),
+<tt>VERB --[<tt><a href="es_coser-dep-conj.html">conj</a></tt>]--> VERB</tt> (86; 58%),
 <tt>VERB --[<tt><a href="es_coser-dep-expl-pv.html">expl:pv</a></tt>]--> PRON</tt> (70; 83%),
 <tt>VERB --[<tt><a href="es_coser-dep-expl-pass.html">expl:pass</a></tt>]--> PRON</tt> (50; 98%),
 <tt>VERB --[<tt><a href="es_coser-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (12; 86%),

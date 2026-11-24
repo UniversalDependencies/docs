@@ -45,4 +45,4 @@ Note that the feature `Abbr=Yes` is also used for foreign acronyms written in Ar
   _զագս_/_zags_ (ЗАГС / загс, запись актов гражданского состояния)_ “registry office”,
   _սովխոզ_/_sovxoz_ (совхоз, советское хозяйство)_ “state farm, sovkhoz”.
   
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:40 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:32 CET -->

@@ -22,7 +22,7 @@ The following 4 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 3 vocative	color:blue
-1	Mia	miâ	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+1	Mia	miâ	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	3	punct	_	_
 3	Cisa	Cisa	PROPN	_	Gender=Fem|Number=Sing	1	vocative	_	SpaceAfter=No
 4	!	!	PUNCT	_	_	1	punct	_	_
@@ -50,8 +50,8 @@ The following 4 pairs of parts of speech are connected with `vocative`: <tt><a h
 12	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	14	nsubj	_	_
 13	ò	avei	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	aux	_	_
 14	dito	dî	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	parataxis	_	_
-15	San	santo	ADJ	_	Gender=Masc|Number=Sing	14	obj	_	_
-16	Frutoso	Frutoso	PROPN	_	Gender=Masc|Number=Sing	15	flat	_	SpaceAfter=No
+15	San	santo	ADJ	_	Gender=Masc|Number=Sing	16	amod	_	_
+16	Frutoso	Frutoso	PROPN	_	Gender=Masc|Number=Sing	14	obj	_	SpaceAfter=No
 17	!	!	PUNCT	_	_	14	punct	_	SpacesAfter=\n
 
 ~~~
@@ -64,9 +64,9 @@ The following 4 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 2	fgColor:white
 # visual-style 2 6 vocative	color:blue
 1	Ma	ma	CCONJ	_	_	2	cc	_	_
-2	vanni	anâ	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	vanni	anâ	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 3	te	te	PRON	_	Number=Sing|Person=2|PronType=Prs	2	expl:pv	_	_
-4	ne	ne	PRON	_	_	2	expl:pv	_	_
+4	ne	ne	PRON	_	PronType=Dem	2	expl	_	_
 5	,	,	PUNCT	_	_	6	punct	_	_
 6	cheuga	cheuga	NOUN	_	Gender=Fem|Number=Sing	2	vocative	_	SpaceAfter=No
 7	!	!	PUNCT	_	_	2	punct	_	_

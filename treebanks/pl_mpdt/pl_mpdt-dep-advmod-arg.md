@@ -11,10 +11,10 @@ There are also 2 other language-specific subtypes of `advmod`: <tt><a href="pl_m
 
 18 nodes (0%) are attached to their parents as `advmod:arg`.
 
-9 instances of `advmod:arg` (50%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.61111111111111.
+10 instances of `advmod:arg` (56%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.61111111111111.
 
-The following 3 pairs of parts of speech are connected with `advmod:arg`: <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt> (16; 89% instances), <tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt> (1; 6% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt> (1; 6% instances).
+The following 2 pairs of parts of speech are connected with `advmod:arg`: <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt> (17; 94% instances), <tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
@@ -34,7 +34,7 @@ The following 3 pairs of parts of speech are connected with `advmod:arg`: <tt><a
 9	,	,	PUNCT	interp	PunctType=Comm	12	punct	12:punct	Translit=,
 10	ile	ile	ADV	adv	PronType=Int	12	orphan	12:orphan	Translit=ile
 11	tylko	tylko	PART	part	_	12	advmod:emph	12:advmod:emph	Translit=tylko
-12	mógł	móc	VERB	praet:sg:m:imperf:nagl	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	advcl	7:advcl	SpaceAfter=No|Translit=mogł
+12	mógł	móc	VERB	praet:sg:m:imperf:nagl	Agglutination=Nagl|Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	advcl	7:advcl	SpaceAfter=No|Translit=mogł
 13	.	.	PUNCT	interp	PunctType=Peri	5	punct	5:punct	Translit=.
 
 ~~~
@@ -74,38 +74,6 @@ The following 3 pairs of parts of speech are connected with `advmod:arg`: <tt><a
 26	jako	jako	ADV	adv	_	25	obl:cmp	25:obl:cmp	Translit=iáko
 27	zawsze	zawsze	ADV	adv	PronType=Tot	26	advmod:arg	26:advmod:arg	SpaceAfter=No|Translit=zawsze
 28	:	:	PUNCT	interp	PunctType=Colo	14	punct	14:punct	Translit=:
-
-~~~
-
-
-~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 12 advmod:arg	color:blue
-1	Samotrzeć	samotrzeć	ADV	advnum	_	6	advmod	6:advmod	Translit=Samotrzeć
-2	tedy	tedy	CCONJ	conj	_	6	cc	6:cc	Translit=tedy
-3	będąc	być	AUX	pcon:imperf	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	1	cop	1:cop	Translit=będąc
-4	tylko	tylko	PART	part	_	1	advmod:emph	1:advmod:emph	SpaceAfter=No|Translit=tylko
-5	,	,	PUNCT	interp	PunctType=Comm	4	punct	4:punct	Translit=,
-6	czynił	czynić	VERB	praet:sg:m:imperf	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Translit=czynił
-7	zupełną	zupełny	ADJ	adj:sg:acc:f:pos	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	8	amod	8:amod	Translit=zupełną
-8	relacją	relacja	NOUN	subst:sg:acc:f	Case=Acc|Gender=Fem|Number=Sing	6	obj	6:obj	Translit=relacyją
-9	widzenia	widzieć	NOUN	ger:sg:gen:n:imperf:aff	Aspect=Imp|Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	8	nmod:arg	8:nmod:arg	Translit=widzenia
-10	się	się	PRON	part	PronType=Prs|Reflex=Yes	9	expl:pv	9:expl:pv	Translit=się
-11	z	z	ADP	prep:inst:nwok	AdpType=Prep|Variant=Short	12	case	12:case	Case=Ins|Translit=z
-12	w	wasz	ADV	brev:pun	Abbr=Yes	9	advmod:arg	9:advmod:arg	SpaceAfter=No|Translit=w
-13	.	.	PUNCT	interp	PunctType=Peri	12	punct	12:punct	SpaceAfter=No|Translit=.
-14	ks	książęcy	ADV	brev:pun	Abbr=Yes	12	flat	12:flat	SpaceAfter=No|Translit=ks
-15	.	.	PUNCT	interp	PunctType=Peri	14	punct	14:punct	SpaceAfter=No|Translit=.
-16	m	mość	ADV	brev:pun	Abbr=Yes	12	flat	12:flat	SpaceAfter=No|Translit=m
-17	.	.	PUNCT	interp	PunctType=Peri	16	punct	16:punct	Translit=.
-18	dobrodziejem	dobrodziej	NOUN	subst:sg:inst:m	Case=Ins|Gender=Masc|Number=Sing	12	appos	12:appos	Translit=dobrodziejem
-19	blisko	blisko	PART	part	_	20	advmod:emph	20:advmod:emph	Translit=blisko
-20	trzech	trzy	NUM	num:pl:gen:f	Case=Gen|Gender=Fem|Number=Plur|NumForm=Word	21	nummod	21:nummod	SpaceAfter=No|Translit=trzech
-21	godzin	godzina	NOUN	subst:pl:gen:f	Case=Gen|Gender=Fem|Number=Plur	9	nmod	9:nmod	SpaceAfter=No|Translit=godzin
-22	.	.	PUNCT	interp	PunctType=Peri	6	punct	6:punct	Translit=.
 
 ~~~
 

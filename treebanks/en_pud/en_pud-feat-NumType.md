@@ -36,7 +36,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (61; 100% of non-empty `NumType`): <em>first, second, third, 8th, 16th, 20th, 3rd, 5th, 13th, 14th</em>
-* `EMPTY` (1505): <em>new, many, more, other, such, last, great, high, own, several</em>
+* `EMPTY` (1507): <em>new, many, more, other, such, last, great, high, own, several</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (18) occur only with one value of `NumType`.
 
@@ -49,7 +49,7 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 `NOUN` tokens may have the following values of `NumType`:
 
 * `Card` (14; 100% of non-empty `NumType`): <em>1960s, 1970s, 1990s, 1350s, 1950s, 1980s, 2000s, 60s, mid-1970s, mid-1980s</em>
-* `EMPTY` (4001): <em>time, people, years, year, government, city, state, century, world, day</em>
+* `EMPTY` (3998): <em>time, people, years, year, government, city, state, century, world, day</em>
 
 `NumType` seems to be **lexical feature** of `NOUN`. 100% lemmas (10) occur only with one value of `NumType`.
 
@@ -57,12 +57,12 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 
 4 <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADV` and `NumType` co-occurred: <tt><a href="en_pud-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (4; 100%).
+The most frequent other feature values with which `ADV` and `NumType` co-occurred: <tt><a href="en_pud-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="en_pud-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (4; 100%).
 
 `ADV` tokens may have the following values of `NumType`:
 
 * `Mult` (4; 100% of non-empty `NumType`): <em>once, twice</em>
-* `EMPTY` (809): <em>also, when, so, only, more, where, however, well, most, as</em>
+* `EMPTY` (810): <em>also, when, so, only, more, where, however, well, most, as</em>
 
 ### `DET`
 

@@ -12,4 +12,4 @@ They are tagged as `PART` and annotated with the relation `discourse:sp` (sp for
 Wàntò péí ɗòŋ wó \\ Wanto comes back
 discourse:sp (péí, wó)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:05 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:42 CET -->

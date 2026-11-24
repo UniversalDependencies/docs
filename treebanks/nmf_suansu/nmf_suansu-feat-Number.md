@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-1219 tokens (39%) have a non-empty value of `Number`.
-563 types (50%) occur at least once with a non-empty value of `Number`.
-370 lemmas (46%) occur at least once with a non-empty value of `Number`.
-The feature is used with 4 part-of-speech tags: <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> (658; 21% instances), <tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> (304; 10% instances), <tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt> (256; 8% instances), <tt><a href="nmf_suansu-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+1208 tokens (39%) have a non-empty value of `Number`.
+559 types (50%) occur at least once with a non-empty value of `Number`.
+368 lemmas (46%) occur at least once with a non-empty value of `Number`.
+The feature is used with 4 part-of-speech tags: <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> (655; 21% instances), <tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> (298; 10% instances), <tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt> (254; 8% instances), <tt><a href="nmf_suansu-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-658 <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Number`.
+655 <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="nmf_suansu-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (389; 59%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="nmf_suansu-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (387; 59%).
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (29; 4% of non-empty `Number`): <em>trahnpha, baneopha, neopha, thathokpha, Duhpha, Katrahnpha, Offerpha, Russianla, bikpha, chokeypha</em>
-* `Sing` (629; 96% of non-empty `Number`): <em>miszu, neo, baneo, insurance, leneo, rhui, puirawi, Szukhyate, bya, sir</em>
+* `Plur` (28; 4% of non-empty `Number`): <em>trahnpha, baneopha, neopha, thathokpha, Duhpha, Katrahnpha, Offerpha, Russianla, bikpha, chokeypha</em>
+* `Sing` (627; 96% of non-empty `Number`): <em>miszu, neo, baneo, insurance, leneo, rhui, puirawi, Szukhyate, bya, Mr.</em>
 * `EMPTY` (12): <em>mugali, Asza, Rigatratrahn, Tuesday, duh, holiday, kwehn, mathet, miszu, miszuma</em>
 
 <table>
@@ -36,18 +36,18 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
   <tr><td><tt><tt><a href="nmf_suansu-feat-Case.html">Case</a></tt><tt>=Top</tt></tt></td><td><em>neodi</em></td><td></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `NOUN`. 97% lemmas (295) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `NOUN`. 97% lemmas (293) occur only with one value of `Number`.
 
 ### `PRON`
 
-304 <tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> tokens (98% of all `PRON` tokens) have a non-empty value of `Number`.
+298 <tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> tokens (98% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="nmf_suansu-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (263; 87%), <tt><a href="nmf_suansu-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (170; 56%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="nmf_suansu-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (258; 87%), <tt><a href="nmf_suansu-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (168; 56%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (35; 12% of non-empty `Number`): <em>hai, bu, Bunan, Na, banan, haidi, hainan, Budi, buva, haibyahn</em>
-* `Sing` (269; 88% of non-empty `Number`): <em>a, nahn, ba, bava, ava, Anan, badi, didi, adi, nahndi</em>
+* `Plur` (34; 11% of non-empty `Number`): <em>hai, bu, Bunan, Na, banan, haidi, hainan, Budi, buva, haibyahn</em>
+* `Sing` (264; 89% of non-empty `Number`): <em>a, nahn, ba, bava, ava, badi, didi, Anan, adi, nahndi</em>
 * `EMPTY` (7): <em>mazohn, mazohnnan, Mwetheda, didinan, mazohndi</em>
 
 <table>
@@ -63,17 +63,17 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `PROPN`
 
-256 <tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt> tokens (98% of all `PROPN` tokens) have a non-empty value of `Number`.
+254 <tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt> tokens (98% of all `PROPN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="nmf_suansu-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (184; 72%).
+The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="nmf_suansu-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (183; 72%).
 
 `PROPN` tokens may have the following values of `Number`:
 
 * `Plur` (1; 0% of non-empty `Number`): <em>Rosenbergwidi</em>
-* `Sing` (255; 100% of non-empty `Number`): <em>Peter, Mariadi, Jim, Maria, Peternan, Donovan, Mary, Bar, Bob, Doug</em>
+* `Sing` (253; 100% of non-empty `Number`): <em>Peter, Mariadi, Jim, Maria, Peternan, Donovan, Mary, Bar, Bob, Lieutenant</em>
 * `EMPTY` (4): <em>Earlnahn, Gary, Jason, Mary</em>
 
-`Number` seems to be **lexical feature** of `PROPN`. 100% lemmas (63) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `PROPN`. 100% lemmas (62) occur only with one value of `Number`.
 
 ### `ADJ`
 
@@ -92,8 +92,8 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="nmf_suansu-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (66; 90%),
 <tt>NOUN --[<tt><a href="nmf_suansu-dep-flat.html">flat</a></tt>]--> NOUN</tt> (28; 100%),
 <tt>PROPN --[<tt><a href="nmf_suansu-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (22; 96%),
-<tt>NOUN --[<tt><a href="nmf_suansu-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (12; 86%),
 <tt>NOUN --[<tt><a href="nmf_suansu-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (11; 100%),
+<tt>NOUN --[<tt><a href="nmf_suansu-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (11; 85%),
 <tt>NOUN --[<tt><a href="nmf_suansu-dep-compound.html">compound</a></tt>]--> NOUN</tt> (10; 83%),
 <tt>NOUN --[<tt><a href="nmf_suansu-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (9; 53%),
 <tt>NOUN --[<tt><a href="nmf_suansu-dep-conj.html">conj</a></tt>]--> NOUN</tt> (7; 88%),

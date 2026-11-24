@@ -62,7 +62,7 @@ The 10 most frequent ambiguous types:  के (<tt><a href="hi_hdtb-pos-ADP.html
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 0.993289 (the average of all parts of speech is 1.200484).
+The form / lemma ratio of `ADP` is 0.993289 (the average of all parts of speech is 1.200418).
 
 The 1st highest number of forms (4) was observed with the lemma “का”: का, की, के, को.
 

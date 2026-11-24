@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.17 release
 The following people have contributed to making this treebank part of UD: Kirk Andrews.
 
 Repository: [UD_Yiddish-YiTB](https://github.com/UniversalDependencies/UD_Yiddish-YiTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udyi_yitb218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udyi_yitb219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 
@@ -42,13 +42,13 @@ Development of the treebank happens directly in the UD repository, so you may su
 
 ## Description
 
-YiTB is a treebank of linguistically annotated Yiddish data in the Universal Dependencies framework, created via a bootstraping machine learning method. A total of 27,872 tokens are currently in the treebank from a variety of sources and textual genres.
+YiTB is a treebank of linguistically annotated Yiddish data in the Universal Dependencies framework, created via a bootstraping machine learning method. A total of 29,500 tokens are currently in the treebank from a variety of sources and textual genres.
 
 
 
 Yiddish is classified as a West Germanic language, although it includes many elements from Semitic and Slavic languages as well. It is written in a modified Hebrew alphabet. Yiddish is structurally similiar to German, but it also consists of many interesting structures not found in other Germanic languages, such as periphrastic verbs.
 
-There are a total of 27,872 tokens in the treebank. Roughly 60% of these stem from the Tatoeba source and consist of short sentences provided by both native and non-native speakers of Yiddish. It must be noted that there are occasional grammatical errors in these sentences, such as the use of the auxiliary _zayn_ 'be' instead of _hobn_ 'have' in past tense constructions of periphrastic verbs formed with the verb _zayn_, as well as incorrect syntax of periphrastic verbs which have an underlying complement-head (OV) order and do not follow the typical order expected of an SVO language like Yiddish. This appears to be a common mistake of intermediate L2 Yiddish speakers. The remainder 40% of tokens stem from a variety of native speaker texts and genres. The various source texts and genres are shown below.
+There are a total of 29,500 tokens in the treebank. Roughly 57% of these stem from the Tatoeba source and consist of short sentences provided by both native and non-native speakers of Yiddish. It must be noted that there are occasional grammatical errors in these sentences, such as the use of the auxiliary _zayn_ 'be' instead of _hobn_ 'have' in past tense constructions of periphrastic verbs formed with the verb _zayn_, as well as incorrect syntax of periphrastic verbs which have an underlying complement-head (OV) order and do not follow the typical order expected of an SVO language like Yiddish. This appears to be a common mistake of intermediate L2 Yiddish speakers. The remaining 43% of tokens stem from a variety of native speaker texts and genres. The various source texts and genres are shown below.
 
 Lemmas and transliterations into Latin script are provided as well by self-made models but are not 100% accurate. The transliteration model, which can be accessed [here](https://huggingface.co/shoowadoo/galkhesnet), was trained on wiktionary and transliterated Bible data. The lemmatization model was trained on wiktionary data and can be found [here](https://huggingface.co/shoowadoo/yiddish-lemmas). Rough translations have been provided using a model trained on Tatoeba sentences and parallel Bible verses that is accessible [here](https://huggingface.co/shoowadoo/m2m100-finetuned-yi-to-en_418M_2). Many of these translations need manual correction, and that process is underway. Morphological features are also not included at this time.
 
@@ -74,7 +74,7 @@ Lemmas and transliterations into Latin script are provided as well by self-made 
 | The Four Questions | Traditional | liturgical | 2.17 | test |
 | A Bit of Clarity and Simplicity Regarding the Language Question | Hillel Zeitlin | nonfiction | 2.17 | train |
 | Song of Songs | Yehoyesh translation | bible | 2.17 | train |
-| Yiddish: Volume 1 | Sheva Zucker | grammar | 2.18 | train |
+| Yiddish grammar books | Various | grammar | 2.18, 2.19 | train |
 
 
 ## Acknowledgments
@@ -90,7 +90,7 @@ To the best of our knowledge, the source texts used for the creation of this tre
 
 ## Features
 
-[ExtPos](yi_yitb-feat-ExtPos.html) – [Typo](yi_yitb-feat-Typo.html)
+[ExtPos](yi_yitb-feat-ExtPos.html) – [Foreign](yi_yitb-feat-Foreign.html) – [Typo](yi_yitb-feat-Typo.html)
 
 ## Relations
 
@@ -100,11 +100,11 @@ To the best of our knowledge, the source texts used for the creation of this tre
 
 
 <ul>
-<li>This corpus contains 3113 sentences, 27954 tokens and 28348 syntactic words.</li>
+<li>This corpus contains 3309 sentences, 29500 tokens and 29904 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 4448 tokens (16%) that are not followed by a space.</li>
+<li>This corpus contains 4665 tokens (16%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -112,12 +112,12 @@ To the best of our knowledge, the source texts used for the creation of this tre
 </ul>
 
 <ul>
-<li>This corpus contains 196 types of words that contain both letters and punctuation. Examples: מדינת־ישׂראל, שלום־עליכם, ניו־יאָרק, שלום־עליכמען, ארץ־ישׂראל, באָבע־זיידע, מאַמע־לשון, בני־ישׂראל, ד״ר, הר־הבית, חיי־שעה, יונגער־מאַן, לשון־קודש, עם־ישׂראל, אַלף־בית, אַריכת־ימים, געשטאַפּאָ־מאַן, גרויס־עלטערן, ד“ר, חיי־עולם, טאַטע־מאַמע, טעלעפֿאָן־נומער, ייִדיש־גריכיש, ייִדיש־קינד, ייִדיש־שפּאַניש, ישו־הנוצרי, יש״ו, כּישוף־מאַכערין, לבֿנה־ליכט, לבֿנה־סאָנאַטע, מזרח־סלאַווישע, מלוכה־שפּראַך, מלחמה־העלד, מערבֿ־ייִדישע, משה־רבינו, קריפּטאָ־מזומנים, שומר־מיצוות, תּרגום־לשון, 15־יעריקער, 8–טן, prosteyiddish@gmail.com, א"ב, אַזכּרה־אַקטן, אַל־אַקסאַ־פּלאַץ, אַלף־בת, אַנטי־ייִדישע, אַנטי־פֿאַשיסטישן, אַרבעטס־פּלאַץ, אאַז"װ, אויגן־דאָקטער</li>
+<li>This corpus contains 201 types of words that contain both letters and punctuation. Examples: מדינת־ישׂראל, ניו־יאָרק, שלום־עליכם, שלום־עליכמען, ארץ־ישׂראל, באָבע־זיידע, מאַמע־לשון, בני־ישׂראל, ד״ר, הר־הבית, חיי־שעה, יונגער־מאַן, לשון־קודש, עם־ישׂראל, אַלף־בית, אַריכת־ימים, געשטאַפּאָ־מאַן, גרויס־עלטערן, ד“ר, חיי־עולם, טאַטע־מאַמע, טעלעפֿאָן־נומער, יום־טובֿ, ייִדיש־גריכיש, ייִדיש־קינד, ייִדיש־שפּאַניש, ישו־הנוצרי, יש״ו, כּישוף־מאַכערין, לבֿנה־ליכט, לבֿנה־סאָנאַטע, מזרח־סלאַווישע, מלוכה־שפּראַך, מלחמה־העלד, מערבֿ־ייִדישע, משה־רבינו, קריפּטאָ־מזומנים, שומר־מיצוות, תּרגום־לשון, 15־יעריקער, 8–טן, prosteyiddish@gmail.com, א"ב, אַזכּרה־אַקטן, אַל־אַקסאַ־פּלאַץ, אַלף־בת, אַנטי־ייִדישע, אַנטי־פֿאַשיסטישן, אַרבעטס־פּלאַץ, אאַז"װ</li>
 </ul>
 
 <ul>
-<li>This corpus contains 394 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 73 types of multi-word tokens. Examples: ס׳איז, כ׳בין, פֿונעם, צום, כ׳האָב, האָסטו, אויפֿן, ביסטו, נישטאָ, מיטן, בײַם, ס׳זענען, ס'איז, אינעם, אױפֿן, זאָלסטו, לאָמיר, ס׳רובֿ, קענסטו, כ'בין, לאָמיך, מ׳האָט, ס׳וועט, רעדסטו, ווילסטו, וועסטו, כ'האָב, כ׳וועל, כ׳לערן, װעסטו, וואָלטסטו, כ׳הייס, כ׳וויל, ס'װעט, ס′איז, פֿאַרשטײסטו, אַם, אויפען, אונטערן, איבערן, ביזן, בלייבסטו, בײַן, גלייבסטו, געדענקסטו, ווייסטו, זעסטו, כ'וועל, כ'לעב, כ'פֿײַף.</li>
+<li>This corpus contains 404 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 74 types of multi-word tokens. Examples: ס׳איז, כ׳בין, פֿונעם, צום, כ׳האָב, האָסטו, אויפֿן, ביסטו, נישטאָ, מיטן, בײַם, ס׳זענען, לאָמיר, ס'איז, אינעם, אױפֿן, זאָלסטו, ס׳רובֿ, קענסטו, כ'בין, לאָמיך, מ׳האָט, ס׳וועט, רעדסטו, ווילסטו, וועסטו, כ'האָב, כ׳וועל, כ׳לערן, װעסטו, אונטערן, וואָלטסטו, כ׳הייס, כ׳וויל, ס'װעט, ס′איז, פֿאַרשטײסטו, אַם, אויפען, איבערן, ביזן, בלייבסטו, בײַן, גלייבסטו, געדענקסטו, ווייסטו, זעסטו, כ'וועל, כ'לעב, כ'פֿײַף.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -134,11 +134,11 @@ To the best of our knowledge, the source texts used for the creation of this tre
 </ul>
 
 <ul>
-<li>This corpus contains 26 lemmas tagged as pronouns (PRON): אַלעמען, אַלץ, אַנאַנד, איך, איר, אײַער, גאָרנישט, דו, דון, וואָס, וואס, זי, זיי, זיך, זײ, זײַניק, מיר, מען, עמעץ, עמעצער, עס, עפּעס, ער, װאָס, װעלך, װער</li>
+<li>This corpus contains 27 lemmas tagged as pronouns (PRON): אַלעמען, אַלץ, אַנאַנד, איך, איר, אײַער, גאָרנישט, דו, דון, וואָס, וואס, זי, זיי, זיך, זײ, זײַניק, מיר, מען, עמעץ, עמעצער, עס, עפּעס, ער, ערגעץ, װאָס, װעלך, װער</li>
 </ul>
 
 <ul>
-<li>This corpus contains 64 lemmas tagged as determiners (DET): אַ, אַזאַ, אַזעלכע, אַל, אַלדי, אַלע, אַלערלײ, אַלערלײן, אַנדער, אונדזער, אונדזערע, איטלעך, איין, איר, אירגנד, אירן, אירע, אײַער, אײַרע, אײנער, בײדע, גאָרנישט, דאָזיק, דיין, דיינען, דער, דערדאָזיקער, דײַן, דײן, וועמע, וועמען, ווײניק, זייער, זעלביק, זײַן, זײַער, זײער, טײל, יעדן, יעדע, יעדער, יעדערער, יעטװעד, יענע, יענער, מיינע, מיינען, מער, מערער, מײַן, מײַנע, סאַמע, עטלעך, עפּע, פּילן, פֿיל, פֿילן, קײַן, קײן, קײנער, רובֿ, װאָס, װיפֿל, װעלך</li>
+<li>This corpus contains 66 lemmas tagged as determiners (DET): אַ, אַזאַ, אַזעלכע, אַל, אַלדי, אַלע, אַלערלײ, אַלערלײן, אַנדער, אונדזער, אונדזערע, איטלעך, איין, איר, אירגנד, אירן, אירע, אײַער, אײַרע, אײנער, בײדע, גאָרנישט, דאָזיק, דיין, דעמ, דער, דערדאָזיקער, דײַן, וועמע, וועמען, ווײניק, זייער, זעלביק, זײַן, זײַער, זײער, טײל, ידער, יעדן, יעדע, יעדער, יעדערער, יעטװעד, יעטװעדער, יענע, יענער, מיינע, מיינען, מער, מערער, מײַן, מײַנע, סאַמע, עטלעך, עפּע, פּילן, פֿיל, פֿילן, קיין, קײַן, קײן, קײנער, רובֿ, װאָס, װיפֿל, װעלך</li>
 </ul>
 
 <ul>
@@ -212,6 +212,18 @@ To the best of our knowledge, the source texts used for the creation of this tre
 </ul>
 
 <ul>
+  <li><a>Foreign</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>NOUN: אוהר</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Typo</a>
     <ul>
       <li>Yes
@@ -233,7 +245,7 @@ To the best of our knowledge, the source texts used for the creation of this tre
 </ul>
 
 <ul>
-<li>This corpus uses 13 lemmas as auxiliaries (<a>aux</a>). Examples: האָבן, זײַן, װעלן, זאָלן, קענען, וועלן, דאַרפֿן, װאָלט, מוזן, טאָרן, מעגן, פֿלעגן, קערן.</li>
+<li>This corpus uses 13 lemmas as auxiliaries (<a>aux</a>). Examples: האָבן, זײַן, װעלן, קענען, זאָלן, וועלן, דאַרפֿן, װאָלט, מוזן, טאָרן, מעגן, פֿלעגן, קערן.</li>
 <li>This corpus uses 3 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: װערן, זײַן, ווערן.</li>
 </ul>
 
@@ -243,8 +255,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (483)</li>
-      <li>VERB--PRON (1379)</li>
+      <li>VERB--NOUN (557)</li>
+      <li>VERB--PRON (1460)</li>
     </ul>
   </li>
 </ul>
@@ -252,8 +264,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (859)</li>
-      <li>VERB--PRON (276)</li>
+      <li>VERB--NOUN (923)</li>
+      <li>VERB--PRON (297)</li>
     </ul>
   </li>
 </ul>
@@ -269,7 +281,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Reflexive Verbs</h3>
 
 <ul>
-  <li>This corpus contains 148 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: לערנען זיך, פֿילן זיך, טאָן זיך, טרעפֿן זיך, באַטראַכטן זיך, אַנטוויקלען זיך, באַזעצן זיך, דערהערן זיך, הײבן זיך, זעצן זיך, לייגן זיך, נעמען זיך, פֿאַרשטיין זיך, שפּילן זיך, אָנהײבן זיך, באַוויז זיך, באַקענען זיך, בײַטן זיך, דערוויסן זיך, דערנענטערן זיך, האַלטן זיך, וואַשן זיך, לאָזן זיך, לײגן זיך, מאַכן זיך, מערן זיך, ענדערן זיך, פֿאַראינטערעסירן זיך, פֿאַרקילן זיך, פֿירן זיך, פֿרעגן זיך, צוהערן זיך, קוקן זיך, שטעל זיך, שטעלן זיך, אַוועקלײַגן זיך, אַוועקצוזעצן זיך, אַוועקשטעלן זיך, אַראַביש זיך, אַראָפּלאָזן זיך, אַראָפּנידערן זיך, אַרויסרײַסן זיך, אַרײַנגיסן זיך, אַרײַנקוועטש זיך, אָנלען זיך, אָננעמען זיך, אָפּוואַשן זיך, אָפּטײלן זיך, אָפּלאָזן זיך, אָפּצוגעבן זיך</li>
+  <li>This corpus contains 155 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: לערנען זיך, פֿילן זיך, טאָן זיך, אַרײַנגנבֿענען זיך, טרעפֿן זיך, באַטראַכטן זיך, אַנטוויקלען זיך, באַזעצן זיך, באַװײַזן זיך, דערהערן זיך, הײבן זיך, זעצן זיך, לייגן זיך, נעמען זיך, פֿאַרשטיין זיך, שפּילן זיך, אָנהײבן זיך, אָפּשטעלן זיך, באַקענען זיך, בײַטן זיך, דערוויסן זיך, דערנענטערן זיך, האַלטן זיך, הערן זיך, וואַשן זיך, זאָרגן זיך, לאָזן זיך, לײגן זיך, מאַכן זיך, מערן זיך, ענדערן זיך, פֿאַראינטערעסירן זיך, פֿאַרקילן זיך, פֿירן זיך, פֿרעגן זיך, צוהערן זיך, קוקן זיך, שטעל זיך, שטעלן זיך, אַוועקלײַגן זיך, אַוועקצוזעצן זיך, אַוועקשטעלן זיך, אַראַביש זיך, אַראָפּלאָזן זיך, אַראָפּנידערן זיך, אַרויסרײַסן זיך, אַרײַנגיסן זיך, אַרײַנקוועטש זיך, אָנלען זיך, אָננעמען זיך</li>
 </ul>
 
 

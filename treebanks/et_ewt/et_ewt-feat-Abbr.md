@@ -60,7 +60,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (21; 100% of non-empty `Abbr`): <em>nn, nn., prof., h., lp., orig.</em>
-* `EMPTY` (5235): <em>hea, suur, võimalik, õige, huvitav, head, parem, vana, uus, esimene</em>
+* `EMPTY` (5227): <em>hea, suur, võimalik, õige, huvitav, head, parem, vana, uus, esimene</em>
 
 ### `CCONJ`
 
@@ -109,7 +109,7 @@ The most frequent other feature values with which `PRON` and `Abbr` co-occurred:
 `PRON` tokens may have the following values of `Abbr`:
 
 * `Yes` (4; 100% of non-empty `Abbr`): <em>smth, smth.</em>
-* `EMPTY` (6585): <em>ma, see, mis, seda, oma, kes, ta, sa, midagi, mida</em>
+* `EMPTY` (6583): <em>ma, see, mis, seda, oma, kes, ta, sa, midagi, mida</em>
 
 ### `VERB`
 
@@ -120,7 +120,7 @@ The most frequent other feature values with which `VERB` and `Abbr` co-occurred:
 `VERB` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): <em>Vt</em>
-* `EMPTY` (10880): <em>on, tuleb, teha, saada, saab, tea, läheb, pole, minna, saa</em>
+* `EMPTY` (10881): <em>on, tuleb, teha, saada, saab, tea, läheb, pole, minna, saa</em>
 
 ## Relations with Agreement in `Abbr`
 

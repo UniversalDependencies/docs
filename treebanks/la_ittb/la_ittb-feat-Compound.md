@@ -80,7 +80,7 @@ The most frequent other feature values with which `VERB` and `Compound` co-occur
 
 `CCONJ` tokens may have the following values of `Compound`:
 
-* `Yes` (611; 100% of non-empty `Compound`): <em>scilicet, idest, utpote, uidelicet, necnon, sicut, uelut</em>
+* `Yes` (611; 100% of non-empty `Compound`): <em>scilicet, idest, uidelicet, utpote, necnon, sicut, uelut</em>
 
 ### `ADJ`
 

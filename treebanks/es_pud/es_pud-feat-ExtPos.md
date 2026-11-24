@@ -9,20 +9,20 @@ udver: '2'
 This feature is language-specific.
 It occurs with 4 different values: `ADP`, `ADV`, `CCONJ`, `SCONJ`.
 
-167 tokens (1%) have a non-empty value of `ExtPos`.
-39 types (1%) occur at least once with a non-empty value of `ExtPos`.
-29 lemmas (1%) occur at least once with a non-empty value of `ExtPos`.
-The feature is used with 8 part-of-speech tags: <tt><a href="es_pud-pos-ADP.html">ADP</a></tt> (88; 0% instances), <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (35; 0% instances), <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> (25; 0% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (13; 0% instances), <tt><a href="es_pud-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+119 tokens (1%) have a non-empty value of `ExtPos`.
+36 types (1%) occur at least once with a non-empty value of `ExtPos`.
+28 lemmas (1%) occur at least once with a non-empty value of `ExtPos`.
+The feature is used with 8 part-of-speech tags: <tt><a href="es_pud-pos-ADP.html">ADP</a></tt> (45; 0% instances), <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (35; 0% instances), <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> (20; 0% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (13; 0% instances), <tt><a href="es_pud-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 ### `ADP`
 
-88 <tt><a href="es_pud-pos-ADP.html">ADP</a></tt> tokens (2% of all `ADP` tokens) have a non-empty value of `ExtPos`.
+45 <tt><a href="es_pud-pos-ADP.html">ADP</a></tt> tokens (1% of all `ADP` tokens) have a non-empty value of `ExtPos`.
 
 `ADP` tokens may have the following values of `ExtPos`:
 
-* `ADP` (57; 65% of non-empty `ExtPos`): <em>a, en, por, De, con, para</em>
-* `ADV` (28; 32% of non-empty `ExtPos`): <em>a, en, por, sobre, de, per</em>
-* `CCONJ` (3; 3% of non-empty `ExtPos`): <em>a</em>
+* `ADP` (16; 36% of non-empty `ExtPos`): <em>a, en, De, para</em>
+* `ADV` (26; 58% of non-empty `ExtPos`): <em>a, por, sobre, de, en, per</em>
+* `CCONJ` (3; 7% of non-empty `ExtPos`): <em>a</em>
 
 <table>
   <tr><th>Paradigm <i>a</i></th><th><tt>ADP</tt></th><th><tt>ADV</tt></th><th><tt>CCONJ</tt></th></tr>
@@ -49,12 +49,12 @@ The most frequent other feature values with which `ADV` and `ExtPos` co-occurred
 
 ### `SCONJ`
 
-25 <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> tokens (9% of all `SCONJ` tokens) have a non-empty value of `ExtPos`.
+20 <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> tokens (5% of all `SCONJ` tokens) have a non-empty value of `ExtPos`.
 
 `SCONJ` tokens may have the following values of `ExtPos`:
 
-* `ADV` (6; 24% of non-empty `ExtPos`): <em>Mientras</em>
-* `SCONJ` (19; 76% of non-empty `ExtPos`): <em>a, mientras, hasta, como, de, para, En, sin</em>
+* `ADV` (6; 30% of non-empty `ExtPos`): <em>Mientras</em>
+* `SCONJ` (14; 70% of non-empty `ExtPos`): <em>mientras, hasta, como, para, En, a, sin</em>
 
 <table>
   <tr><th>Paradigm <i>mientras</i></th><th><tt>ADV</tt></th><th><tt>SCONJ</tt></th></tr>

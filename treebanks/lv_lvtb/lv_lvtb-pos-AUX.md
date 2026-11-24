@@ -19,28 +19,28 @@ The 10 most frequent ambiguous types:  <em>ir</em> (<tt><a href="lv_lvtb-pos-AUX
 
 
 * <em>ir</em>
-  * <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> 3781: <em>Viņi <b>ir</b> lieli diplomāti , prot būt plastiski .</em>
-  * <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> 861: <em>" Tur kāds <b>ir</b> un nāk tieši šurp , " viņa satraukti iesaucās .</em>
+  * <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> 3781: <em>Kāpēc viņi nestrādā – tas <b>ir</b> interesants jautājums .</em>
+  * <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> 861: <em>" Tās <b>ir</b> ceļā . "</em>
 * <em>bija</em>
-  * <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> 1128: <em>Tomēr sirds <b>bija</b> nemierīga .</em>
+  * <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> 1128: <em>Tieši šorīt viņš sevī <b>bija</b> sajutis uzmanības nepieciešamību .</em>
   * <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> 272: <em>Nr. 1 joprojām <b>bija</b> priekšgalā .</em>
 * <em>nav</em>
-  * <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> 819: <em>Slēpties vai bēgt <b>nav</b> vērts .</em>
-  * <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> 264: <em>Neaizstājamu cilvēku uz zemes <b>nav</b> .</em>
+  * <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> 819: <em>Vai tas <b>nav</b> īpaši pētāms jautājums ?</em>
+  * <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> 264: <em>" Mūs nelaidīs tur iekšā , mums <b>nav</b> tik smalkas atslēdziņas ! "</em>
 * <em>tiek</em>
-  * <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> 457: <em>LMT droši vien <b>tiek</b> uzturēts par Danielas un Kristera kaislību cenu .</em>
-  * <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> 5: <em>Lai viņiem <b>tiek</b> !</em>
+  * <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> 457: <em>Pašlaik visa saražotā elektrība 100 % <b>tiek</b> pārdota AS „ Latvenergo " .</em>
+  * <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> 5: <em>Citās pilsētās ar šo jautājumu <b>tiek</b> galā .</em>
 * <em>tika</em>
-  * <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> 364: <em>To kopējā vērtība <b>tika</b> lēsta ap 3000 sterliņu mārciņu ( 3550 eiro ) .</em>
+  * <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> 364: <em>17. gadsimtā tā bija Kurzemes kolonija un <b>tika</b> saukta par Jaunkurzemi .</em>
   * <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> 12: <em>Kad ceļinieki <b>tika</b> strādāt Strenčos , tad arī <b>tika</b> .</em>
 * <em>būtu</em>
   * <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> 309: <em>Ja <b>būtu</b> kameņu tūkstošu tūkstošiem , Vida visas tās pazītu un atšķirtu .</em>
-  * <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> 46: <em>Lai <b>būtu</b> ko ēst , viņš saka .</em>
+  * <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> 46: <em>— " Ja <b>būtu</b> spēks , jā ! "</em>
 * <em>būs</em>
   * <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> 282: <em>Putniņi <b>būs</b> beigti !</em>
-  * <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> 112: <em>Miers pasaulē <b>būs</b> tad , kad nebūs vairs neviena suņa un nevienas nātres .</em>
+  * <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> 112: <em>Ja jauna gada dienā vējš ābeles purina , tad vasarā <b>būs</b> labi augļi .</em>
 * <em>būt</em>
-  * <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> 186: <em>Viņi ir lieli diplomāti , prot <b>būt</b> plastiski .</em>
+  * <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> 186: <em>Un mēs gribam <b>būt</b> tikpat smaidīgi un laimīgi .</em>
   * <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> 59: <em>Nevar taču <b>būt</b> , ka nevar kļūt vesels un laimīgs !</em>
   * <tt><a href="lv_lvtb-pos-X.html">X</a></tt> 1: <em>Savukārt , ja laika ir par maz , tad samazinās izvēles iespējas attiecībā uz norises vietu , aktivitātēm , kā arī potenciālie dalībnieki jau var <b>būt</b> ir ieplānojuši kaut ko citu .</em>
 * <em>esmu</em>
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>ir</em> (<tt><a href="lv_lvtb-pos-AUX
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 27.000000 (the average of all parts of speech is 2.342815).
+The form / lemma ratio of `AUX` is 27.000000 (the average of all parts of speech is 2.343431).
 
 The 1st highest number of forms (56) was observed with the lemma “būt”: <em>bij, bij', bija, bijis, biju, bijusi, bijušajos, bijušajām, bijušas, bijuši, bijušo, bijām, bijāt, būdama, būdami, būdams, būs, būsi, būsiet, būsim, būt, būti, būtu, būšot, būšu, esam, esat, esi, esiet, esmu, esot, esoša, esošās, esu, ir, jābūt, jābūtot, nav, nebija, nebiju, nebijām, nebijāt, nebūdams, nebūs, nebūsi, nebūsiet, nebūsim, nebūt, nebūtu, nebūšot, nebūšu, neesam, neesat, neesi, neesmu, neesot</em>.
 

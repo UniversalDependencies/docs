@@ -92,10 +92,10 @@ The following 5 pairs of parts of speech are connected with `reparandum`: <tt><a
 # visual-style 10	fgColor:white
 # visual-style 10 8 reparandum	color:blue
 1	_	_	PRON	NN	Number=Sing|PronType=Ind	16	nsubj	3:nsubj|16:nsubj	Discourse=attribution-positive:22->25:0:sem-atsrc-201-214-_+lex-indwd-214-_+lex-indwd-216-_|Entity=(39-person-new-nnnnn-cf4-1-sgl|Lem=*LOWER*|Len=6|MSeg=Any-one
-2	_	_	PRON	WP	PronType=Rel	3	nsubj	1:ref	Discourse=elaboration-attribute:23->22:0:syn-mdf-201-_+syn-relcl-202-203-_|Lem=_|Len=3
+2	_	_	PRON	WP	Case=Nom|PronType=Rel	3	nsubj	1:ref	Discourse=elaboration-attribute:23->22:0:syn-mdf-201-_+syn-relcl-202-203-_|Lem=_|Len=3
 3	_	_	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	1:acl:relcl	Lem=bother|Len=7|MSeg=bother-s
 4	_	_	PART	TO	_	6	mark	6:mark	Lem=_|Len=2
-5	_	_	ADV	RB	Degree=Pos	6	advmod	6:advmod	Lem=_|Len=8|MSeg=act-ual-ly
+5	_	_	ADV	RB	_	6	advmod	6:advmod	Lem=_|Len=8|MSeg=act-ual-ly
 6	_	_	VERB	VB	VerbForm=Inf	3	xcomp	3:xcomp	Lem=_|Len=4
 7	_	_	ADP	IN	_	10	case	10:case	Lem=_|Len=4|MSeg=in-to|XML=<w>
 8	_	_	PART	POS	_	10	reparandum	10:reparandum	CorrectForm=_|Lem=_|Len=2|XML=<sic ana:::""></sic></w>
@@ -108,7 +108,7 @@ The following 5 pairs of parts of speech are connected with `reparandum`: <tt><a
 15	_	_	AUX	MD	VerbForm=Fin	16	aux	16:aux	Discourse=same-unit_m:24->22:1:_|Lem=_|Len=4
 16	_	_	VERB	VB	VerbForm=Inf	0	root	0:root	Lem=_|Len=7|MSeg=real-ize
 17	_	_	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	19	nsubj	19:nsubj	Discourse=joint-other_m:25->14:1:_|Entity=(8-organization-giv:act-sssss-cf1-1-ana-NASA)|Lem=_|Len=4
-18	_	_	ADV	RB	_	19	advmod	19:advmod	Lem=_|Len=5|Negation=Yes
+18	_	_	ADV	RB	PronType=Neg	19	advmod	19:advmod	Lem=_|Len=5|Negation=Yes
 19	_	_	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	16	ccomp	16:ccomp	Lem=go|Len=4
 20	_	_	ADP	IN	_	22	case	22:case	Lem=_|Len=2
 21	_	_	DET	DT	Definite=Def|PronType=Art	22	det	22:det	Entity=(40-place-acc:com-sssnn-cf3-2-sgl|Lem=_|Len=3

@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="en_gumreddit-pos-PR
 
 273 <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> tokens (14% of all `PRON` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="en_gumreddit-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (272; 100%), <tt><a href="en_gumreddit-feat-Case.html">Case</a></tt><tt>=Gen</tt> (268; 98%), <tt><a href="en_gumreddit-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (229; 84%), <tt><a href="en_gumreddit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (207; 76%).
+The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="en_gumreddit-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (272; 100%), <tt><a href="en_gumreddit-feat-Case.html">Case</a></tt><tt>=Gen</tt> (269; 99%), <tt><a href="en_gumreddit-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (229; 84%), <tt><a href="en_gumreddit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (207; 76%).
 
 `PRON` tokens may have the following values of `Poss`:
 

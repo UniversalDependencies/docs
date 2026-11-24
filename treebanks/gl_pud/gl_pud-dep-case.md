@@ -67,7 +67,7 @@ The following 21 pairs of parts of speech are connected with `case`: <tt><a href
 7	matar	matar	VERB	VMN0000	VerbForm=Inf	6	xcomp	_	_
 8	a	a	ADP	SP	AdpType=Prep	11	case	_	_
 9	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
-10	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	11	det	_	_
+10	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	det	_	_
 11	filla	fillo	NOUN	NCFS000	Gender=Fem|Number=Sing	7	obj	_	_
 12	de	de	ADP	SP	AdpType=Prep	14	case	_	_
 13	dous	2	NUM	Z	NumType=Card	14	nummod	_	_

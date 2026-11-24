@@ -25,12 +25,12 @@ The following 2 pairs of parts of speech are connected with `reparandum`: <tt><a
 1	സഹകരണ	സഹകരണം	ADJ	_	_	2	amod	_	Translit=sahakaraṇa|LTranslit=sahakaraṇaṁ
 2	ആസ്പത്രിയിലെ	ആസ്പത്രി	NOUN	_	Animacy=Inan|Case=Loc|Number=Sing	6	obl	_	Translit=āspatriyile|LTranslit=āspatri
 3	ജീവനക്കാരുടെ	ജീവനക്കാര്	NOUN	_	Animacy=Anim|Case=Gen|Number=Sing	4	nmod:poss	_	Translit=jīvanakkāruṭe|LTranslit=jīvanakkār
-4	സേവന	സേവനം	ADJ	_	_	5	amod	_	Translit=sēvana|LTranslit=sēvanaṁ
-5	വ്യവസ്ഥ	വ്യവസ്ഥ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	6	obj	_	Translit=vyavastha|LTranslit=vyavastha
+4	സേവന	സേവനം	ADJ	_	_	5	amod	_	LTranslit=sēvanaṁ|Translit=sēvana
+5	വ്യവസ്ഥ	വ്യവസ്ഥ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	6	obj	_	LTranslit=vyavastha|Translit=vyavastha
 6	പരിഷ്‌കരിക്കാൻ	പരിഷ്‌കരിക്കക	VERB	_	Polarity=Pos|VerbForm=Inf	14	xcomp	_	Translit=pariṣkarikkān̕|LTranslit=pariṣkarikkaka
 7	സർക്കാർ	സർക്കാർ	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	14	nsubj	_	Translit=saṟ̕kkāṟ̕|LTranslit=saṟ̕kkāṟ̕
-8	2004	2004	NUM	_	NumForm=Digit|NumType=Card	14	obl	_	Translit=2004|LTranslit=2004
-9	ൽ	ൽ	ADP	_	Case=Loc	8	case	_	Translit=l̕|LTranslit=l̕
+8	2004	2004	NUM	_	NumForm=Digit|NumType=Card	14	obl	_	LTranslit=2004|Translit=2004
+9	ൽ	ൽ	ADP	_	Case=Loc	8	case	_	LTranslit=l̕|Translit=l̕
 10	ഇ	ഇ	PART	_	_	12	reparandum	_	SpaceAfter=No|Translit=i|LTranslit=i
 11	.	.	PUNCT	_	_	10	punct	_	Translit=.|LTranslit=.
 12	നാരായണൻ	നാരായണൻ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	13	nmod	_	Translit=nārāyaṇan̕|LTranslit=nārāyaṇan̕

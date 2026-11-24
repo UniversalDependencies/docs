@@ -65,7 +65,7 @@ The following 11 pairs of parts of speech are connected with `parataxis`: <tt><a
 17	pro	pro	ADP	RR--4----------	AdpType=Prep|Case=Acc	18	case	18:case	LId=pro-1
 18	bohaté	bohatý	ADJ	AANS4----1A----	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	21	parataxis	21:parataxis	_
 19	–	-	PUNCT	Z:-------------	_	18	punct	18:punct	_
-20	dovážené	dovážený	ADJ	AANS1----1A----	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	21	amod	21:amod	LGloss=(z_ciziny)|LDeriv=dovážet
+20	dovážené	dovážený	ADJ	AANS1----1A----	Aspect=Imp|Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	21	amod	21:amod	LGloss=(z_ciziny)|LDeriv=dovážet
 21	víno	víno	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing	7	conj	4:appos|7:conj	SpaceAfter=No
 22	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	_
 
@@ -92,7 +92,7 @@ The following 11 pairs of parts of speech are connected with `parataxis`: <tt><a
 12	Murphym	Murphy	PROPN	NNMS7-----A----	Animacy=Anim|Case=Ins|Gender=Masc|NameType=Sur|Number=Sing	11	flat	11:flat	SpaceAfter=No
 13	,	,	PUNCT	Z:-------------	_	15	punct	15:punct	_
 14	ten	ten	DET	PDYS1----------	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	15	nsubj	15:nsubj	_
-15	zemřel	zemřít	VERB	VpYS---XR-AA---	Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	11	parataxis	11:parataxis	_
+15	zemřel	zemřít	VERB	VpYS---XR-AA---	Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	11	parataxis	11:parataxis	_
 16	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	17	case	17:case	LId=v-1
 17	roce	rok	NOUN	NNIS6-----A---1	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	15	obl	15:obl:v:loc	_
 18	1998	1998	NUM	C=-------------	NumForm=Digit|NumType=Card	17	nummod	17:nummod	SpaceAfter=No

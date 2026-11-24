@@ -20,4 +20,4 @@ u =š pad gāh ī harwisppēsīd abar nišānēd \n and it in throne EZ all_ador
 advmod:lmod(nišānēd, abar)
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:36 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:17 CET -->

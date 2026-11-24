@@ -13,4 +13,4 @@ Susirinko dauguma gyventojų . \n The-majority-of the-residents gathered .
 nmod:gov(dauguma, gyventojų)
 nmod:gov(The-majority-of, the-residents)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:18 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:54 CET -->

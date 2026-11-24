@@ -54,7 +54,7 @@ The following 16 pairs of parts of speech are connected with `cop`: <tt><a href=
 9	you	you	PRON	PRP	_	10	nsubj	10:nsubj	_
 10	want	want	VERB	VB	_	5	parataxis	5:parataxis	_
 11	avocado	avocado	NOUN	NN	_	10	obj	10:obj	SpaceAfter=No
-12	?	?	PUNCT	?	_	5	punct	5:punct	_
+12	?	?	PUNCT	.	_	5	punct	5:punct	_
 
 ~~~
 
@@ -72,7 +72,7 @@ The following 16 pairs of parts of speech are connected with `cop`: <tt><a href=
 5	be	be	AUX	VB	_	6	cop	6:cop	_
 6	yours	yours	PRON	PRP	_	0	root	0:root	_
 7	huh	huh	INTJ	UH	_	6	discourse	6:discourse	SpaceAfter=No
-8	?	?	PUNCT	?	_	6	punct	6:punct	_
+8	?	?	PUNCT	.	_	6	punct	6:punct	_
 
 ~~~
 

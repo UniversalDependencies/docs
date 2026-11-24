@@ -58,4 +58,4 @@ We also analyze the nominal predicates with clausal subjects formed by subordina
 7	որոշված	որոշել	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Pass	1	csubj	_	Translit=orošvaç|LTranslit=orošel
 8	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	aux	_	Translit=ē|LTranslit=em
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:56 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:35 CET -->

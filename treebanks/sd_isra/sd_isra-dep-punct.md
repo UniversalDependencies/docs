@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-8071 nodes (8%) are attached to their parents as `punct`.
+8078 nodes (8%) are attached to their parents as `punct`.
 
-7295 instances of `punct` (90%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.10630652955024.
+7303 instances of `punct` (90%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.10633820252538.
 
-The following 13 pairs of parts of speech are connected with `punct`: <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-PUNCT.html">PUNCT</a></tt> (5132; 64% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-PUNCT.html">PUNCT</a></tt> (1922; 24% instances), <tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sd_isra-pos-PUNCT.html">PUNCT</a></tt> (356; 4% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sd_isra-pos-PUNCT.html">PUNCT</a></tt> (355; 4% instances), <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt>-<tt><a href="sd_isra-pos-PUNCT.html">PUNCT</a></tt> (108; 1% instances), <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt>-<tt><a href="sd_isra-pos-PUNCT.html">PUNCT</a></tt> (50; 1% instances), <tt><a href="sd_isra-pos-INTJ.html">INTJ</a></tt>-<tt><a href="sd_isra-pos-PUNCT.html">PUNCT</a></tt> (39; 0% instances), <tt><a href="sd_isra-pos-ADV.html">ADV</a></tt>-<tt><a href="sd_isra-pos-PUNCT.html">PUNCT</a></tt> (36; 0% instances), <tt><a href="sd_isra-pos-DET.html">DET</a></tt>-<tt><a href="sd_isra-pos-PUNCT.html">PUNCT</a></tt> (32; 0% instances), <tt><a href="sd_isra-pos-NUM.html">NUM</a></tt>-<tt><a href="sd_isra-pos-PUNCT.html">PUNCT</a></tt> (29; 0% instances), <tt><a href="sd_isra-pos-PART.html">PART</a></tt>-<tt><a href="sd_isra-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="sd_isra-pos-ADP.html">ADP</a></tt>-<tt><a href="sd_isra-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="sd_isra-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="sd_isra-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances).
+The following 13 pairs of parts of speech are connected with `punct`: <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-PUNCT.html">PUNCT</a></tt> (5134; 64% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-PUNCT.html">PUNCT</a></tt> (1924; 24% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sd_isra-pos-PUNCT.html">PUNCT</a></tt> (357; 4% instances), <tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sd_isra-pos-PUNCT.html">PUNCT</a></tt> (356; 4% instances), <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt>-<tt><a href="sd_isra-pos-PUNCT.html">PUNCT</a></tt> (108; 1% instances), <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt>-<tt><a href="sd_isra-pos-PUNCT.html">PUNCT</a></tt> (51; 1% instances), <tt><a href="sd_isra-pos-INTJ.html">INTJ</a></tt>-<tt><a href="sd_isra-pos-PUNCT.html">PUNCT</a></tt> (39; 0% instances), <tt><a href="sd_isra-pos-ADV.html">ADV</a></tt>-<tt><a href="sd_isra-pos-PUNCT.html">PUNCT</a></tt> (36; 0% instances), <tt><a href="sd_isra-pos-DET.html">DET</a></tt>-<tt><a href="sd_isra-pos-PUNCT.html">PUNCT</a></tt> (33; 0% instances), <tt><a href="sd_isra-pos-NUM.html">NUM</a></tt>-<tt><a href="sd_isra-pos-PUNCT.html">PUNCT</a></tt> (29; 0% instances), <tt><a href="sd_isra-pos-PART.html">PART</a></tt>-<tt><a href="sd_isra-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="sd_isra-pos-ADP.html">ADP</a></tt>-<tt><a href="sd_isra-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="sd_isra-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="sd_isra-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -64,16 +64,21 @@ The following 13 pairs of parts of speech are connected with `punct`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 punct	color:blue
-1	ماليڪٽ	ماليڪٽ	PROPN	NNP	Case=Voc|Gender=Masc|Number=Sing	3	nsubj	_	SpaceAfter=No
-2	!	!	PUNCT	PUNCT	_	1	punct	_	_
-3	ڊڄ	ڊڄ	VERB	VM	Aspect=Imp|Number=Sing|Person=2	0	root	_	_
-4	نه	نه	PART	PART	_	3	dep	_	SpaceAfter=No
-5	.	.	PUNCT	PUNCT	_	3	punct	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 10 punct	color:blue
+1	گدڙ	گدڙ	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+2	پنهنجي	پنهنجي	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=1	3	nmod	_	_
+3	بدن	بدن	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	5	nmod	_	_
+4	جو	جو	ADP	PSPG	Case=Nom|Gender=Masc|Number=Sing	3	case	_	_
+5	رنگ	رنگ	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	6	obj	_	_
+6	مٽيل	مٽيو	VERB	VM	Aspect=Perf	8	advcl	_	_
+7	ڏسي	ڏس	VERB	VM	Aspect=Perf|VerbForm=Conv	6	compound	_	_
+8	سرهو	سرهو	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+9	ٿيو	آهي	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	8	cop	_	_
+10	.	.	PUNCT	PUNCT	_	8	punct	_	_
 
 ~~~
 

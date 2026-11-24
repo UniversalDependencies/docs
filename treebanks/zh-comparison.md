@@ -2321,7 +2321,7 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB--NOUN (185)</li>
+            <li>VERB--NOUN (184)</li>
           </ul>
         </li>
       </ul>
@@ -2332,10 +2332,10 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB--NOUN (1292)</li>
-            <li>VERB--NOUN-ADP(的) (2)</li>
+            <li>VERB--NOUN (1281)</li>
+            <li>VERB--NOUN-ADP(的) (1)</li>
             <li>VERB--NOUN-ADP(通过) (1)</li>
-            <li>VERB--PRON (172)</li>
+            <li>VERB--PRON (148)</li>
             <li>VERB--PRON-ADP(的) (6)</li>
           </ul>
         </li>
@@ -2525,9 +2525,8 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB--NOUN (229)</li>
-            <li>VERB--NOUN-ADP(_) (35)</li>
-            <li>VERB--PRON-ADP(_) (1)</li>
+            <li>VERB--NOUN (253)</li>
+            <li>VERB--NOUN-ADP(_) (2)</li>
           </ul>
         </li>
       </ul>
@@ -2722,7 +2721,7 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 12 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>case:loc</a>, <a>discourse:sp</a>, <a>flat:name</a>, <a>mark:adv</a>, <a>mark:prt</a>, <a>mark:rel</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:patient</a>, <a>obl:tmod</a></li>
+      <li>This corpus uses 13 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>case:loc</a>, <a>discourse:sp</a>, <a>flat:name</a>, <a>mark:adv</a>, <a>mark:prt</a>, <a>mark:rel</a>, <a>nmod:tmod</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:patient</a>, <a>obl:tmod</a></li>
       <li>The following 5 relation types are not used in this corpus at all: <a>expl</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
     </td>

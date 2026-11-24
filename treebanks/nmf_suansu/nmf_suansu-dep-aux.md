@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-156 nodes (5%) are attached to their parents as `aux`.
+149 nodes (5%) are attached to their parents as `aux`.
 
-156 instances of `aux` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.30128205128205.
+149 instances of `aux` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.26845637583893.
 
-The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt>-<tt><a href="nmf_suansu-pos-AUX.html">AUX</a></tt> (138; 88% instances), <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nmf_suansu-pos-AUX.html">AUX</a></tt> (8; 5% instances), <tt><a href="nmf_suansu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nmf_suansu-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt>-<tt><a href="nmf_suansu-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="nmf_suansu-pos-AUX.html">AUX</a></tt>-<tt><a href="nmf_suansu-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="nmf_suansu-pos-INTJ.html">INTJ</a></tt>-<tt><a href="nmf_suansu-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="nmf_suansu-pos-PART.html">PART</a></tt>-<tt><a href="nmf_suansu-pos-AUX.html">AUX</a></tt> (2; 1% instances).
+The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt>-<tt><a href="nmf_suansu-pos-AUX.html">AUX</a></tt> (132; 89% instances), <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nmf_suansu-pos-AUX.html">AUX</a></tt> (7; 5% instances), <tt><a href="nmf_suansu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nmf_suansu-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt>-<tt><a href="nmf_suansu-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="nmf_suansu-pos-AUX.html">AUX</a></tt>-<tt><a href="nmf_suansu-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="nmf_suansu-pos-INTJ.html">INTJ</a></tt>-<tt><a href="nmf_suansu-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="nmf_suansu-pos-PART.html">PART</a></tt>-<tt><a href="nmf_suansu-pos-AUX.html">AUX</a></tt> (2; 1% instances).
 
 
 ~~~ conllu

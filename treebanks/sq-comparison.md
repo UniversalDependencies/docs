@@ -1383,6 +1383,24 @@ udver: '2'
     </td>
     <td width="50%" valign="top">
       <ul>
+        <li><a>ExtPos</a>
+          <ul>
+            <li>ADV
+              <ul>
+                <li>ADP: për</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+    </td>
+    <td width="50%" valign="top">
+      <ul>
         <li><a>NounType</a>
           <ul>
             <li>Het

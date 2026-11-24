@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="pl_mpdt-dep-aux.html">aux</a></tt>.
 There are also 3 other language-specific subtypes of `aux`: <tt><a href="pl_mpdt-dep-aux-cnd.html">aux:cnd</a></tt>, <tt><a href="pl_mpdt-dep-aux-imp.html">aux:imp</a></tt>, <tt><a href="pl_mpdt-dep-aux-pass.html">aux:pass</a></tt>.
 
-245 nodes (1%) are attached to their parents as `aux:clitic`.
+310 nodes (1%) are attached to their parents as `aux:clitic`.
 
-124 instances of `aux:clitic` (51%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.24489795918367.
+155 instances of `aux:clitic` (50%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.2258064516129.
 
-The following 6 pairs of parts of speech are connected with `aux:clitic`: <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-AUX.html">AUX</a></tt> (227; 93% instances), <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-AUX.html">AUX</a></tt> (11; 4% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="pl_mpdt-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_mpdt-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="pl_mpdt-pos-AUX.html">AUX</a></tt>-<tt><a href="pl_mpdt-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="pl_mpdt-pos-PART.html">PART</a></tt>-<tt><a href="pl_mpdt-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `aux:clitic`: <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-AUX.html">AUX</a></tt> (284; 92% instances), <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-AUX.html">AUX</a></tt> (14; 5% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-AUX.html">AUX</a></tt> (7; 2% instances), <tt><a href="pl_mpdt-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_mpdt-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="pl_mpdt-pos-AUX.html">AUX</a></tt>-<tt><a href="pl_mpdt-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="pl_mpdt-pos-PART.html">PART</a></tt>-<tt><a href="pl_mpdt-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -65,27 +65,24 @@ The following 6 pairs of parts of speech are connected with `aux:clitic`: <tt><a
 ~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 2 aux:clitic	color:blue
-1	Była	być	AUX	praet:sg:f:imperf	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	6:cop	Translit=Była
-2	m	być	AUX	aglt:sg:pri:imperf:nwok	Aspect=Imp|Number=Sing|Person=1|Variant=Short	6	aux:clitic	6:aux:clitic	Translit=m
-3	ubogą	ubogi	ADJ	adj:sg:inst:f:pos	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	6	amod	6:amod	Translit=ubogą
-4	w	w	ADP	prep:acc:nwok	AdpType=Prep|Variant=Short	5	case	5:case	Case=Acc|Translit=w
-5	posag	posag	NOUN	subst:sg:acc:m	Case=Acc|Gender=Masc|Number=Sing	3	obl:arg	3:obl:arg	Translit=posag
-6	Panienką	panienka	NOUN	subst:sg:inst:f	Case=Ins|Gender=Fem|Number=Sing	0	root	0:root	SpaceAfter=No|Translit=Panienką
-7	,	,	PUNCT	interp	PunctType=Comm	16	punct	16:punct	Translit=,
-8	skądże	skądże	ADV	adv	PronType=Int	16	advmod	16:advmod	Translit=zkądże
-9	by	by	AUX	part	_	16	aux:cnd	16:aux:cnd	Translit=by
-10	m	być	AUX	aglt:sg:pri:imperf:nwok	Aspect=Imp|Number=Sing|Person=1|Variant=Short	16	aux:clitic	16:aux:clitic	Translit=m
-11	się	się	PRON	part	PronType=Prs|Reflex=Yes	17	expl:pv	17:expl:pv	Translit=śię
-12	tedy	tedy	CCONJ	conj	_	16	cc	16:cc	Translit=tedy
-13	tą	ten	DET	adj:sg:inst:f:pos	Case=Ins|Gender=Fem|Number=Sing|PronType=Dem	15	det	15:det	Translit=tą
-14	płonną	płonny	ADJ	adj:sg:inst:f:pos	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	15	amod	15:amod	Translit=płonną
-15	myślą	myśl	NOUN	subst:sg:inst:f	Case=Ins|Gender=Fem|Number=Sing	17	iobj	17:iobj	Translit=myślą
-16	miała	mieć	VERB	praet:sg:f:imperf	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	6:conj	Translit=miała
-17	zatrudnić	zatrudnić	VERB	inf:perf	Aspect=Perf|VerbForm=Inf|Voice=Act	16	xcomp	16:xcomp	SpaceAfter=No|Translit=zatrudnić
-18	?	?	PUNCT	interp	PunctType=Qest	6	punct	6:punct	Translit=?
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 aux:clitic	color:blue
+1	To	to	SCONJ	comp	_	3	mark	3:mark	Translit=To
+2	m	być	AUX	aglt:sg:pri:imperf:nwok	Aspect=Imp|Number=Sing|Person=1|Variant=Short	3	aux:clitic	3:aux:clitic	Translit=m
+3	dzieło	dzieło	NOUN	subst:sg:nom:n	Case=Nom|Gender=Neut|Number=Sing	0	root	0:root	Translit=dźieło
+4	Rąk	ręka	NOUN	subst:pl:gen:f	Case=Gen|Gender=Fem|Number=Plur	3	nmod:arg	3:nmod:arg	Translit=Rąk
+5	Boskich	boski	ADJ	adj:pl:gen:f:pos	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	4	amod	4:amod	SpaceAfter=No|Translit=Boskich
+6	,	,	PUNCT	interp	PunctType=Comm	8	punct	8:punct	Translit=,
+7	to	to	SCONJ	comp	_	8	mark	8:mark	Translit=to
+8	wolno	wolno	VERB	pred	Mood=Ind|Tense=Pres|VerbForm=Fin|VerbType=Quasi	3	conj	3:conj	Translit=wolno
+9	Bogu	Bóg	PROPN	subst:sg:dat:m	Case=Dat|Gender=Masc|Number=Sing	8	iobj	8:iobj	Translit=Bogu
+10	ze	z	ADP	prep:inst:wok	AdpType=Prep|Variant=Long	11	case	11:case	Case=Ins|Translit=ze
+11	mną	ja	PRON	ppron12:sg:inst:pri	Case=Ins|Number=Sing|Person=1|PronType=Prs	12	obl:arg	12:obl:arg	Translit=mną
+12	czynić	czynić	VERB	inf:imperf	Aspect=Imp|VerbForm=Inf|Voice=Act	8	xcomp	8:xcomp	Translit=czynić
+13	co	co	PRON	subst:sg:acc:n	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	14	obj	14:obj	Translit=co
+14	chce	chcieć	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	ccomp:obj	12:ccomp:obj	SpaceAfter=No|Translit=chce
+15	.	.	PUNCT	interp	PunctType=Peri	3	punct	3:punct	Translit=.
 
 ~~~
 

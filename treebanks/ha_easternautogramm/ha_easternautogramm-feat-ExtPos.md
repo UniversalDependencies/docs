@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 4 different values: `ADP`, `ADV`, `NOUN`, `SCONJ`.
 
-391 tokens (4%) have a non-empty value of `ExtPos`.
-150 types (8%) occur at least once with a non-empty value of `ExtPos`.
-120 lemmas (9%) occur at least once with a non-empty value of `ExtPos`.
-The feature is used with 5 part-of-speech tags: <tt><a href="ha_easternautogramm-pos-VERB.html">VERB</a></tt> (353; 4% instances), <tt><a href="ha_easternautogramm-pos-ADP.html">ADP</a></tt> (17; 0% instances), <tt><a href="ha_easternautogramm-pos-SCONJ.html">SCONJ</a></tt> (10; 0% instances), <tt><a href="ha_easternautogramm-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="ha_easternautogramm-pos-ADV.html">ADV</a></tt> (5; 0% instances).
+392 tokens (4%) have a non-empty value of `ExtPos`.
+151 types (8%) occur at least once with a non-empty value of `ExtPos`.
+121 lemmas (9%) occur at least once with a non-empty value of `ExtPos`.
+The feature is used with 5 part-of-speech tags: <tt><a href="ha_easternautogramm-pos-VERB.html">VERB</a></tt> (353; 4% instances), <tt><a href="ha_easternautogramm-pos-ADP.html">ADP</a></tt> (18; 0% instances), <tt><a href="ha_easternautogramm-pos-SCONJ.html">SCONJ</a></tt> (10; 0% instances), <tt><a href="ha_easternautogramm-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="ha_easternautogramm-pos-ADV.html">ADV</a></tt> (5; 0% instances).
 
 ### `VERB`
 
@@ -36,13 +36,13 @@ The most frequent other feature values with which `VERB` and `ExtPos` co-occurre
 
 ### `ADP`
 
-17 <tt><a href="ha_easternautogramm-pos-ADP.html">ADP</a></tt> tokens (2% of all `ADP` tokens) have a non-empty value of `ExtPos`.
+18 <tt><a href="ha_easternautogramm-pos-ADP.html">ADP</a></tt> tokens (2% of all `ADP` tokens) have a non-empty value of `ExtPos`.
 
 `ADP` tokens may have the following values of `ExtPos`:
 
-* `ADP` (10; 59% of non-empty `ExtPos`): <em>à, dàgà</em>
-* `ADV` (5; 29% of non-empty `ExtPos`): <em>har̃, dà, koː, à</em>
-* `SCONJ` (2; 12% of non-empty `ExtPos`): <em>baːyân, dà</em>
+* `ADP` (11; 61% of non-empty `ExtPos`): <em>à, dàgà, gab</em>
+* `ADV` (5; 28% of non-empty `ExtPos`): <em>har̃, dà, koː, à</em>
+* `SCONJ` (2; 11% of non-empty `ExtPos`): <em>baːyân, dà</em>
 
 <table>
   <tr><th>Paradigm <i>à</i></th><th><tt>ADP</tt></th><th><tt>ADV</tt></th></tr>

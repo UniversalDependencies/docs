@@ -22,7 +22,7 @@ The following 9 pairs of parts of speech are connected with `punct`: <tt><a href
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 punct	color:blue
-1	yãhpa	yãh	VERB	_	Person=1	3	dep	_	AlignBegin=6929|AlignEnd=7303|Gloss=say|MGloss=O3SG- say -S1SG:FUT|MSeg=Ø-yãh-pa|nWord=1|RX=[VT]|TokenType=Root|wordform=Ø-yãh-pa
+1	yãhpa	yãh	VERB	_	Person=1	3	ccomp	_	AlignBegin=6929|AlignEnd=7303|Gloss=say|MGloss=O3SG- say -S1SG:FUT|MSeg=Ø-yãh-pa|nWord=1|RX=[VT]|TokenType=Root|wordform=Ø-yãh-pa
 2	=pra	_	PART	_	_	1	advmod	_	AlignBegin=7303|AlignEnd=7677|Gloss==EMPH|MGloss==EMPH|MSeg==pra|nWord=2|RX=[PRT]|TokenType=Clit
 3	tVkkaaʃi	tVka-	VERB	_	_	0	root	_	AlignBegin=7677|AlignEnd=8051|Gloss=say|MGloss=say O3PL- -S1SG -PROX.PST|MSeg=tVk-ka-a-ʃi|nWord=3|RX=[VT]|TokenType=Root|wordform=tVkka--a-ʃi
 4	.	_	PUNCT	_	_	3	punct	_	AlignBegin=8051|AlignEnd=8423|Gloss=.|MGloss=.|MSeg=.|nWord=4

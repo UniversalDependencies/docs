@@ -9,17 +9,17 @@ udver: '2'
 There are 17 `INTJ` lemmas (0%), 16 `INTJ` types (0%) and 30 `INTJ` tokens (0%).
 Out of 16 observed tags, the rank of `INTJ` is: 12 in number of lemmas, 13 in number of types and 16 in number of tokens.
 
-The 10 most frequent `INTJ` lemmas: <em>אַיאָ, נוען, יאָ, אַנטשולדיקן, אָ, הײ, אָקײ, אָװאַ, ברוך־השם, גוט</em>
+The 10 most frequent `INTJ` lemmas: <em>אַיאָ, נוען, יאָ, אַנטשולדיקן, אָ, הײ, נו, אָקײ, אָװאַ, ברוך־השם</em>
 
 The 10 most frequent `INTJ` types:  <em>נו, אַיאָ, יאָ, אַנטשולדיקט, אָ, היי, אָוואַ, אָקיי, ברוך־השם, גוט</em>
 
-The 10 most frequent ambiguous lemmas: <em>יאָ</em> (<tt><a href="yi_yitb-pos-ADV.html">ADV</a></tt> 4, <tt><a href="yi_yitb-pos-INTJ.html">INTJ</a></tt> 3), <em>אַנטשולדיקן</em> (<tt><a href="yi_yitb-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="yi_yitb-pos-VERB.html">VERB</a></tt> 1), <em>אָ</em> (<tt><a href="yi_yitb-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="yi_yitb-pos-PROPN.html">PROPN</a></tt> 1), <em>גוט</em> (<tt><a href="yi_yitb-pos-ADJ.html">ADJ</a></tt> 63, <tt><a href="yi_yitb-pos-ADV.html">ADV</a></tt> 2, <tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="yi_yitb-pos-INTJ.html">INTJ</a></tt> 1), <em>נײן</em> (<tt><a href="yi_yitb-pos-ADV.html">ADV</a></tt> 1, <tt><a href="yi_yitb-pos-INTJ.html">INTJ</a></tt> 1), <em>שלום־עליכם</em> (<tt><a href="yi_yitb-pos-PROPN.html">PROPN</a></tt> 13, <tt><a href="yi_yitb-pos-INTJ.html">INTJ</a></tt> 1), <em>שלומען</em> (<tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="yi_yitb-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>יאָ</em> (<tt><a href="yi_yitb-pos-ADV.html">ADV</a></tt> 5, <tt><a href="yi_yitb-pos-INTJ.html">INTJ</a></tt> 3), <em>אַנטשולדיקן</em> (<tt><a href="yi_yitb-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="yi_yitb-pos-VERB.html">VERB</a></tt> 1), <em>אָ</em> (<tt><a href="yi_yitb-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="yi_yitb-pos-PROPN.html">PROPN</a></tt> 1), <em>גוט</em> (<tt><a href="yi_yitb-pos-ADJ.html">ADJ</a></tt> 68, <tt><a href="yi_yitb-pos-ADV.html">ADV</a></tt> 2, <tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="yi_yitb-pos-INTJ.html">INTJ</a></tt> 1), <em>נײן</em> (<tt><a href="yi_yitb-pos-ADV.html">ADV</a></tt> 1, <tt><a href="yi_yitb-pos-INTJ.html">INTJ</a></tt> 1), <em>שלום־עליכם</em> (<tt><a href="yi_yitb-pos-PROPN.html">PROPN</a></tt> 13, <tt><a href="yi_yitb-pos-INTJ.html">INTJ</a></tt> 1), <em>שלומען</em> (<tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="yi_yitb-pos-INTJ.html">INTJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>יאָ</em> (<tt><a href="yi_yitb-pos-ADV.html">ADV</a></tt> 4, <tt><a href="yi_yitb-pos-INTJ.html">INTJ</a></tt> 3), <em>אַנטשולדיקט</em> (<tt><a href="yi_yitb-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="yi_yitb-pos-VERB.html">VERB</a></tt> 1), <em>אָ</em> (<tt><a href="yi_yitb-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="yi_yitb-pos-PROPN.html">PROPN</a></tt> 1), <em>גוט</em> (<tt><a href="yi_yitb-pos-ADJ.html">ADJ</a></tt> 28, <tt><a href="yi_yitb-pos-ADV.html">ADV</a></tt> 2, <tt><a href="yi_yitb-pos-INTJ.html">INTJ</a></tt> 1), <em>שלום</em> (<tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="yi_yitb-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="yi_yitb-pos-PROPN.html">PROPN</a></tt> 1), <em>שלום־עליכם</em> (<tt><a href="yi_yitb-pos-PROPN.html">PROPN</a></tt> 7, <tt><a href="yi_yitb-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>יאָ</em> (<tt><a href="yi_yitb-pos-ADV.html">ADV</a></tt> 5, <tt><a href="yi_yitb-pos-INTJ.html">INTJ</a></tt> 3), <em>אַנטשולדיקט</em> (<tt><a href="yi_yitb-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="yi_yitb-pos-VERB.html">VERB</a></tt> 1), <em>אָ</em> (<tt><a href="yi_yitb-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="yi_yitb-pos-PROPN.html">PROPN</a></tt> 1), <em>גוט</em> (<tt><a href="yi_yitb-pos-ADJ.html">ADJ</a></tt> 28, <tt><a href="yi_yitb-pos-ADV.html">ADV</a></tt> 2, <tt><a href="yi_yitb-pos-INTJ.html">INTJ</a></tt> 1), <em>שלום</em> (<tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="yi_yitb-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="yi_yitb-pos-PROPN.html">PROPN</a></tt> 1), <em>שלום־עליכם</em> (<tt><a href="yi_yitb-pos-PROPN.html">PROPN</a></tt> 7, <tt><a href="yi_yitb-pos-INTJ.html">INTJ</a></tt> 1)
 
 
 * <em>יאָ</em>
-  * <tt><a href="yi_yitb-pos-ADV.html">ADV</a></tt> 4: <em>שומרונים זענען נישט קיין ייִדן , אָבער <b>יאָ</b> בני־ישׂראל .</em>
+  * <tt><a href="yi_yitb-pos-ADV.html">ADV</a></tt> 5: <em>שומרונים זענען נישט קיין ייִדן , אָבער <b>יאָ</b> בני־ישׂראל .</em>
   * <tt><a href="yi_yitb-pos-INTJ.html">INTJ</a></tt> 3: <em><b>יאָ</b> , עס איז אַבסאָלוט מעגלעך אַז דו טראָגסט .</em>
 * <em>אַנטשולדיקט</em>
   * <tt><a href="yi_yitb-pos-INTJ.html">INTJ</a></tt> 2: <em>– <b>אַנטשולדיקט</b> – האָט געזאָגט בעטהאָװען – איך האָב געהערט דאָ שפּילן , זײַנען מיר אַרײַנגעקומען …</em>
@@ -41,7 +41,7 @@ The 10 most frequent ambiguous types:  <em>יאָ</em> (<tt><a href="yi_yitb-pos
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 0.941176 (the average of all parts of speech is 1.222136).
+The form / lemma ratio of `INTJ` is 0.941176 (the average of all parts of speech is 1.227854).
 
 The 1st highest number of forms (1) was observed with the lemma “אַיאָ”: <em>אַיאָ</em>.
 

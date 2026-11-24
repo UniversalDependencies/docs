@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `nmod`: <tt><a href="bm_crb-dep-nmod-poss.html">nmod:poss</a></tt>.
 
-3 nodes (0%) are attached to their parents as `nmod`.
+4 nodes (0%) are attached to their parents as `nmod`.
 
-2 instances of `nmod` (67%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.
+2 instances of `nmod` (50%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.75.
 
-The following 2 pairs of parts of speech are connected with `nmod`: <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bm_crb-pos-PRON.html">PRON</a></tt> (2; 67% instances), <tt><a href="bm_crb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bm_crb-pos-PRON.html">PRON</a></tt> (1; 33% instances).
+The following 3 pairs of parts of speech are connected with `nmod`: <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bm_crb-pos-PRON.html">PRON</a></tt> (2; 50% instances), <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bm_crb-pos-ADP.html">ADP</a></tt> (1; 25% instances), <tt><a href="bm_crb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bm_crb-pos-PRON.html">PRON</a></tt> (1; 25% instances).
 
 
 ~~~ conllu
@@ -31,6 +31,41 @@ The following 2 pairs of parts of speech are connected with `nmod`: <tt><a href=
 6	nana	nana	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=venir|Morf=venir,PFV.INTR
 7	tuguni	túguni	ADV	adv	_	6	obl	_	Gloss=encore|Morf=encore,et|SpaceAfter=No
 8	.	.	PUNCT	_	_	6	punct	_	Gloss=.
+
+~~~
+
+
+~~~ conllu
+# visual-style 24	bgColor:blue
+# visual-style 24	fgColor:white
+# visual-style 22	bgColor:blue
+# visual-style 22	fgColor:white
+# visual-style 22 24 nmod	color:blue
+1	subagamuso	subagamuso	NOUN	n	_	4	nsubj	_	Gloss=sorcier|Morf=sorcier,inciter,AG.OCC,femme
+2	nin	nìn	DET	prn/dtm	Definite=Def|PronType=Dem	1	det	_	Gloss=DEM
+3	ma	ma	AUX	pm	Aspect=Perf|Polarity=Neg	4	aux	_	Gloss=PFV.NEG
+4	don	dɔ́n	VERB	v	_	0	root	_	Gloss=connaître
+5	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	9	nsubj	_	Gloss=3SG
+6	bè	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	9	aux	_	Gloss=IPFV.AFF
+7	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	8	nmod:poss	_	Gloss=3SG
+8	ta	tá	NOUN	n	_	9	obj	_	Gloss=propriété
+9	sara	sàra	VERB	v	_	17	acl	_	Gloss=payer
+10	cogo	cógo	NOUN	n	_	9	obl	_	Gloss=manière
+11	min	mín	DET	prn	PronType=Rel	10	det:rel	_	Gloss=REL|SpaceAfter=No
+12	,	,	PUNCT	_	_	9	punct	_	Gloss=,
+13	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	17	nsubj	_	Gloss=3SG
+14	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	17	aux	_	Gloss=PFV.TR
+15	i	í	PRON	pers	PronType=Prs	17	obj	_	Gloss=REFL
+16	yèrè	yɛ̀rɛ	DET	dtm	_	15	det	_	Gloss=même
+17	kè	kɛ́	VERB	v	_	4	parataxis	_	Gloss=faire
+18	Dawuda	Dáwuda	PROPN	n.prop	_	20	nmod:poss	_	Gloss=NOM.M
+19	ka	ká	ADP	conj	_	18	case	_	Gloss=POSS
+20	kòròkè	kɔ̀rɔ.kɛ	NOUN	n	_	22	nmod:poss	_	Gloss=frère.aîné|Morf=frère.aîné,aîné,mâle
+21	ka	ká	ADP	conj	_	20	case	_	Gloss=POSS
+22	sungurun	súngurun	NOUN	n	_	17	obl	_	Gloss=jeune.fille
+23	nyumannin	ɲumannin	ADJ	adj	_	22	amod	_	Gloss=bon|Morf=bon,DIM
+24	ye	yé	ADP	pp	_	22	nmod	_	Gloss=PP|SpaceAfter=No
+25	.	.	PUNCT	_	_	4	punct	_	Gloss=.
 
 ~~~
 

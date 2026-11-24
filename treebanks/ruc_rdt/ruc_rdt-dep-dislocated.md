@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-21 nodes (0%) are attached to their parents as `dislocated`.
+29 nodes (0%) are attached to their parents as `dislocated`.
 
-20 instances of `dislocated` (95%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.52380952380952.
+27 instances of `dislocated` (93%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.10344827586207.
 
-The following 4 pairs of parts of speech are connected with `dislocated`: <tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt>-<tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt> (11; 52% instances), <tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt>-<tt><a href="ruc_rdt-pos-PRON.html">PRON</a></tt> (7; 33% instances), <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt> (2; 10% instances), <tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt>-<tt><a href="ruc_rdt-pos-PROPN.html">PROPN</a></tt> (1; 5% instances).
+The following 6 pairs of parts of speech are connected with `dislocated`: <tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt>-<tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt> (14; 48% instances), <tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt>-<tt><a href="ruc_rdt-pos-PRON.html">PRON</a></tt> (9; 31% instances), <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt> (2; 7% instances), <tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt>-<tt><a href="ruc_rdt-pos-PROPN.html">PROPN</a></tt> (2; 7% instances), <tt><a href="ruc_rdt-pos-AUX.html">AUX</a></tt>-<tt><a href="ruc_rdt-pos-PROPN.html">PROPN</a></tt> (1; 3% instances), <tt><a href="ruc_rdt-pos-PRON.html">PRON</a></tt>-<tt><a href="ruc_rdt-pos-PRON.html">PRON</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -33,22 +33,20 @@ The following 4 pairs of parts of speech are connected with `dislocated`: <tt><a
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 10 dislocated	color:blue
-1	era	era	CCONJ	_	_	4	cc	4:cc	Gloss=and|MSeg=era
-2	awo	awo	ADV	_	Deixis=Med|NounClass=Bantu16|PronType=Dem	4	advmod	4:advmod	Gloss=16.MED|MSeg=awo
-3	ataata	taata	NOUN	_	NounClass=Bantu1|Referent=Yes	4	nsubj	4:nsubj	Gloss=AUG-1.father|MSeg=a-taata
-4	nakoba	koba	VERB	_	Mood=Ind|NounClass=Bantu1|Person=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-say-FV|MSeg=ni-a-kob-a
-5	"	"	PUNCT	_	_	9	punct	9:punct	SpaceAfter=No
-6	ngye	nje	PRON	_	Number=Sing|Person=1|PronType=Prs	9	nsubj	9:nsubj	Gloss=1sg|MSeg=nje
-7	na	na	PART	ADD.FOC	InfStruct=Foc	6	advmod:emph	6:advmod:emph	Gloss=ADD.FOC|MSeg=na
-8	esente	sente	NOUN	_	NounClass=Bantu10|Referent=Yes	9	obj	9:obj	Gloss=AUG-10.money|MSeg=e-sente
-9	tindina	lina	VERB	_	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	4	ccomp	4:ccomp	Gloss=NEG-1sgS-have-FV|MSeg=ti-n-lin-a
-10	zo	zo	PRON	_	NounClass=Bantu10|Person=3|PronType=Prs	9	dislocated	9:dislocated	Gloss=10|MSeg=zo|SpaceAfter=No
-11	,	,	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 5 dislocated	color:blue
+1	nibamutaaku	taakua	VERB	_	Mood=Ind|NounClass=Bantu2|NounClass[obj]=Bantu1|Person=3|Person[obj]=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-2S-1O-add|MSeg=ni-ba-mu-taaku
+2	erya	a	PART	GEN	NounClass=Bantu5|Referent=Yes	3	case	3:case	Gloss=AUG-5.GEN|MSeg=e-rya
+3	Kakooza	Kakooza	PROPN	_	NounClass=Bantu1	1	obj	1:obj	Gloss=1.Kakooza|MSeg=Kakooza|SpaceAfter=No
+4	,	,	PUNCT	_	_	8	punct	8:punct	_
+5	ye	ye	PRON	_	NounClass=Bantu1|Person=3|PronType=Prs	8	dislocated	8:dislocated	Gloss=1|MSeg=ye
+6	oByekwaso	Byekwaso	PROPN	_	NounClass=Bantu1|Referent=Yes	8	nsubj	8:nsubj	Gloss=AUG-1.Byekwaso|MSeg=o-Byekwaso
+7	lye	e	PRON	_	NounClass=Bantu5|PronType=Rel	8	obj	8:obj	Gloss=5.REL|MSeg=lye
+8	yagaine	gaana	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu1|Person=3|Tense=Past|VerbForm=Fin	3	acl:relcl	3:acl:relcl	Gloss=1S-PST-stop:PFV|MSeg=a-a-gaine|SpaceAfter=No
+9	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
 
 ~~~
 

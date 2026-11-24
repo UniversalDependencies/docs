@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-281 nodes (0%) are attached to their parents as `ccomp`.
+283 nodes (0%) are attached to their parents as `ccomp`.
 
-281 instances of `ccomp` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 13.846975088968.
+283 instances of `ccomp` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 13.8409893992933.
 
-The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt>-<tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (270; 96% instances), <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (8; 3% instances), <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt>-<tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt>-<tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (271; 96% instances), <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (8; 3% instances), <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt>-<tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (2; 1% instances).
 
 
 ~~~ conllu

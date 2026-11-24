@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 * `Act` (7485; 86% of non-empty `Voice`): کر، ہو، کہا، کیا، کی، ہے، بتایا، دیا، دی، ہوا
 * `Pass` (1226; 14% of non-empty `Voice`): کیا، کر، کی، ہو، کریں، کیے، دی، دیا، کہا، کئے
-* `EMPTY` (3984): کرنے، کرتے، دیا، ہونے، لیا، دینے، دی، کر، رکھنے، دیتے
+* `EMPTY` (3982): کرنے، کرتے، دیا، ہونے، لیا، دینے، دی، کر، رکھنے، دیتے
 
 <table>
   <tr><th>Paradigm <i>کرنا</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th></tr>
@@ -124,7 +124,7 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 
 * `Act` (1162; 99% of non-empty `Voice`): ہے، ہیں، ہےں، تھا، تھے، تھی، ہوں، تھیں، ہوں_گے، ہو
 * `Pass` (6; 1% of non-empty `Voice`): ہے
-* `EMPTY` (7953): ہے، ہوئے، گیا، ہیں، تھا، جا، ہےں، گئی، گئے، کر
+* `EMPTY` (7955): ہے، ہوئے، گیا، ہیں، تھا، جا، ہےں، گئی، گئے، کر
 
 <table>
   <tr><th>Paradigm <i>ہے</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th></tr>
@@ -210,14 +210,14 @@ The most frequent other feature values with which `PRON` and `Voice` co-occurred
 `PUNCT` tokens may have the following values of `Voice`:
 
 * `Act` (1; 100% of non-empty `Voice`): ۔
-* `EMPTY` (6910): ۔، ,، ،، -، ''، )، (، "، '، ؟
+* `EMPTY` (6911): ۔، ,، ،، -، ''، )، (، "، '، ؟
 
 ## Relations with Agreement in `Voice`
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
 <tt>VERB --[<tt><a href="ur_udtb-dep-conj.html">conj</a></tt>]--> VERB</tt> (883; 82%),
-<tt>VERB --[<tt><a href="ur_udtb-dep-obj.html">obj</a></tt>]--> VERB</tt> (755; 68%),
-<tt>VERB --[<tt><a href="ur_udtb-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (220; 82%),
+<tt>VERB --[<tt><a href="ur_udtb-dep-obj.html">obj</a></tt>]--> VERB</tt> (755; 67%),
+<tt>VERB --[<tt><a href="ur_udtb-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (221; 82%),
 <tt>VERB --[<tt><a href="ur_udtb-dep-acl.html">acl</a></tt>]--> VERB</tt> (39; 71%),
 <tt>VERB --[<tt><a href="ur_udtb-dep-advcl.html">advcl</a></tt>]--> NOUN</tt> (2; 100%),
 <tt>VERB --[<tt><a href="ur_udtb-dep-obj.html">obj</a></tt>]--> PART</tt> (2; 67%),

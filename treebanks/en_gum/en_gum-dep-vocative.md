@@ -22,7 +22,7 @@ The following 22 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 vocative	color:blue
-1	What	what	PRON	WP	PronType=Int	4	obj	4:obj	CxnElt=4:Interrogative-WHInfo-Direct.WHWord|Discourse=topic-question:1->2:1:lex-indwd-1-_+syn-sbinv-2-_+grf-qst-6-_|XML=<w>
+1	What	what	PRON	WP	Case=Acc|PronType=Int	4	obj	4:obj	CxnElt=4:Interrogative-WHInfo-Direct.WHWord|Discourse=topic-question:1->2:1:lex-indwd-1-_+syn-sbinv-2-_+grf-qst-6-_|XML=<w>
 2	'd	do	AUX	VBD	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	4	aux	4:aux	XML=</w>
 3	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	4:nsubj	Entity=(1-person-acc:com-nnsnn-cf1-1-ana)
 4	do	do	VERB	VB	VerbForm=Inf	0	root	0:root	Cxn=Interrogative-WHInfo-Direct|CxnElt=4:Interrogative-WHInfo-Direct.Clause

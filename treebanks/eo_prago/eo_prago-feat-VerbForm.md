@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Fin`, `Ger`, `Inf`, `Part`.
 
-343 tokens (11%) have a non-empty value of `VerbForm`.
-205 types (21%) occur at least once with a non-empty value of `VerbForm`.
-157 lemmas (20%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> (271; 9% instances), <tt><a href="eo_prago-pos-AUX.html">AUX</a></tt> (72; 2% instances).
+420 tokens (11%) have a non-empty value of `VerbForm`.
+243 types (21%) occur at least once with a non-empty value of `VerbForm`.
+177 lemmas (19%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 2 part-of-speech tags: <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> (327; 9% instances), <tt><a href="eo_prago-pos-AUX.html">AUX</a></tt> (93; 2% instances).
 
 ### `VERB`
 
-271 <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> tokens (98% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+327 <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> tokens (98% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="eo_prago-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (242; 89%), <tt><a href="eo_prago-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (242; 89%), <tt><a href="eo_prago-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (235; 87%), <tt><a href="eo_prago-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (150; 55%), <tt><a href="eo_prago-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (150; 55%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="eo_prago-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (281; 86%), <tt><a href="eo_prago-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (281; 86%), <tt><a href="eo_prago-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (274; 84%), <tt><a href="eo_prago-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (180; 55%), <tt><a href="eo_prago-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (177; 54%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (161; 59% of non-empty `VerbForm`): <em>estas, konscias, asertas, havas, nomas, rigardas, demandas, devas, naskiĝis, prezentas</em>
+* `Fin` (189; 58% of non-empty `VerbForm`): <em>havas, estas, konscias, asertas, nomas, rigardas, prezentas, demandas, devas, deziras</em>
 * `Ger` (1; 0% of non-empty `VerbForm`): <em>parolantoj</em>
-* `Inf` (72; 27% of non-empty `VerbForm`): <em>akcepti, aliĝi, nomi, fari, ludi, publikigi, resti, rigardi, akceladi, aldoni</em>
-* `Part` (37; 14% of non-empty `VerbForm`): <em>Konsciante, aranĝita, ligita, supozata, Lanĉita, Planita, alskribita, barante, difinita, donante</em>
+* `Inf` (83; 25% of non-empty `VerbForm`): <em>akcepti, aliĝi, fari, nomi, doni, ludi, publikigi, resti, rigardi, servi</em>
+* `Part` (54; 17% of non-empty `VerbForm`): <em>Konsciante, aranĝita, ligita, publikigataj, supozata, Akceptita, Lanĉita, Planita, alskribita, atingata</em>
 * `EMPTY` (5): <em>konu, mirigu, naskas, sciu, volas</em>
 
 <table>
@@ -37,14 +37,14 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-72 <tt><a href="eo_prago-pos-AUX.html">AUX</a></tt> tokens (99% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+93 <tt><a href="eo_prago-pos-AUX.html">AUX</a></tt> tokens (99% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="eo_prago-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (63; 88%), <tt><a href="eo_prago-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (58; 81%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="eo_prago-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (78; 84%), <tt><a href="eo_prago-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (70; 75%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Fin` (69; 96% of non-empty `VerbForm`): <em>estas, devas, povas, estos, estus, bezonu, ekzistu, estu, povos, povu</em>
-* `Inf` (3; 4% of non-empty `VerbForm`): <em>esti</em>
+* `Fin` (86; 92% of non-empty `VerbForm`): <em>estas, devas, povas, estos, estus, povus, bezonu, ekzistu, estu, povos</em>
+* `Inf` (7; 8% of non-empty `VerbForm`): <em>esti</em>
 * `EMPTY` (1): <em>estas</em>
 
 <table>
@@ -59,7 +59,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="eo_prago-dep-conj.html">conj</a></tt>]--> VERB</tt> (37; 88%),
+<tt>VERB --[<tt><a href="eo_prago-dep-conj.html">conj</a></tt>]--> VERB</tt> (45; 88%),
 <tt>VERB --[<tt><a href="eo_prago-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (16; 73%),
 <tt>VERB --[<tt><a href="eo_prago-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (5; 71%),
 <tt>AUX --[<tt><a href="eo_prago-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1; 100%).

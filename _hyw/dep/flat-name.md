@@ -61,5 +61,5 @@ The titles/honorifics, when immediately following the first noun, are analyzed u
 1	Վարդան	Վարդան	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	0	root	_	Translit=Vardan|LTranslit=Vardan
 2	էֆենտի	էֆենտի	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	1	flat:name	_	Translit=ēfenti|LTranslit=ēfenti
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:10 CEST -->
 
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:47 CET -->

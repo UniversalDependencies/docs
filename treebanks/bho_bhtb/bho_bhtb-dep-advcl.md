@@ -28,7 +28,7 @@ The following 18 pairs of parts of speech are connected with `advcl`: <tt><a hre
 4	ना	ना	PART	RP_NEG	_	5	compound	_	Translit=nā|LTranslit=nā
 5	चाहते	चाहते	VERB	V_VM	_	12	xcomp	_	Translit=cāhate|LTranslit=cāhate
 6	हुए	हो	AUX	V_VAUX	_	5	aux	_	Translit=hue|LTranslit=ho
-7	भी	भी	PART	RP_RPD	_	8	obl	_	Translit=bhī|LTranslit=bhī
+7	भी	भी	PART	RP_RPD	_	8	nmod	_	Translit=bhī|LTranslit=bhī
 8	हमहूँ	हमहूँ	PRON	PR_PRQ	_	9	nmod	_	Translit=hamahūm̃|LTranslit=hamahūm̃
 9	लिखलीं	लिख	VERB	V_VM	_	5	acl	_	Translit=likhalīṁ|LTranslit=likha
 10	आ	आ	CCONJ	CC_CCD	_	12	advcl	_	Translit=ā|LTranslit=ā

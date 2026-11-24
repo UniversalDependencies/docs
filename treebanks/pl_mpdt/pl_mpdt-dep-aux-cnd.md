@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="pl_mpdt-dep-aux.html">aux</a></tt>.
 There are also 3 other language-specific subtypes of `aux`: <tt><a href="pl_mpdt-dep-aux-clitic.html">aux:clitic</a></tt>, <tt><a href="pl_mpdt-dep-aux-imp.html">aux:imp</a></tt>, <tt><a href="pl_mpdt-dep-aux-pass.html">aux:pass</a></tt>.
 
-148 nodes (0%) are attached to their parents as `aux:cnd`.
+179 nodes (0%) are attached to their parents as `aux:cnd`.
 
-107 instances of `aux:cnd` (72%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.23648648648649.
+129 instances of `aux:cnd` (72%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.2122905027933.
 
-The following 6 pairs of parts of speech are connected with `aux:cnd`: <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-AUX.html">AUX</a></tt> (131; 89% instances), <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-AUX.html">AUX</a></tt> (9; 6% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-AUX.html">AUX</a></tt> (4; 3% instances), <tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_mpdt-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="pl_mpdt-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_mpdt-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_mpdt-pos-AUX.html">AUX</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `aux:cnd`: <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-AUX.html">AUX</a></tt> (158; 88% instances), <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-AUX.html">AUX</a></tt> (11; 6% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-AUX.html">AUX</a></tt> (6; 3% instances), <tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_mpdt-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="pl_mpdt-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_mpdt-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_mpdt-pos-AUX.html">AUX</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -65,30 +65,26 @@ The following 6 pairs of parts of speech are connected with `aux:cnd`: <tt><a hr
 
 
 ~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 18	bgColor:blue
-# visual-style 18	fgColor:white
-# visual-style 18 6 aux:cnd	color:blue
-1	i	i	CCONJ	conj	_	3	cc	3:cc	Translit=y
-2	zaraz	zaraz	ADV	adv	_	3	advmod	3:advmod	Translit=záraz
-3	Konkludujesz	konkludować	VERB	fin:sg:sec:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=Concuduiesz
-4	:	:	PUNCT	interp	PunctType=Colo	3	punct	3:punct	Translit=:
-5	jako	jako	SCONJ	comp	_	3	dep	3:dep	Translit=iáko
-6	by	by	AUX	part	_	18	aux:cnd	18:aux:cnd	Translit=by
-7	nie	nie	PART	part	Polarity=Neg	9	advmod:neg	9:advmod:neg	Translit=nie
-8	z	z	ADP	prep:inst:nwok	AdpType=Prep|Variant=Short	9	case	9:case	Case=Ins|SpaceAfter=No|Translit=z
-9	strachem	strach	NOUN	subst:sg:inst:m	Case=Ins|Gender=Masc|Number=Sing	17	obl	17:obl	Translit=stráchem
-10	Bożym	boży	ADJ	adj:sg:inst:m:pos	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	9	amod	9:amod	Translit=Bożym
-11	i	i	CCONJ	conj	_	13	cc	13:cc	Translit=y
-12	bez	bez	ADP	prep:gen:nwok	AdpType=Prep|Variant=Short	13	case	13:case	Case=Gen|Translit=bez
-13	wiary	wiara	NOUN	subst:sg:gen:f	Case=Gen|Gender=Fem|Number=Sing	9	conj	9:conj|17:obl	Translit=wiáry
-14	do	do	ADP	prep:gen	AdpType=Prep	16	case	16:case	Case=Gen|Translit=do
-15	tego	ten	DET	adj:sg:gen:m:pos	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	16	det	16:det	Translit=tego
-16	SAKRAMENTU	sakrament	NOUN	subst:sg:gen:m	Case=Gen|Gender=Masc|Number=Sing	17	obl:arg	17:obl:arg	Translit=SAKRAMENTV
-17	przystępować	przystępować	VERB	inf:imperf	Aspect=Imp|VerbForm=Inf|Voice=Act	18	xcomp	18:xcomp	Translit=przystępowáć
-18	potrzeba	potrzeba	NOUN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	5	ccomp	5:ccomp	SpaceAfter=No|Translit=potrzebá
-19	.	.	PUNCT	interp	PunctType=Peri	3	punct	3:punct	Translit=.
+# visual-style 6 2 aux:cnd	color:blue
+1	Niemałą	niemały	ADJ	adj:sg:inst:f:pos	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	6	amod	6:amod	Translit=Nie małą
+2	by	by	AUX	part	_	6	aux:cnd	6:aux:cnd	Translit=by
+3	dla	dla	ADP	prep:gen	AdpType=Prep	4	case	4:case	Case=Gen|Translit=dla
+4	WMĆ	wmć	NOUN	subst:sg:gen:f	Case=Gen|Gender=Fem|Number=Sing	6	obl	6:obl	Translit=WMC
+5	Pani	pani	NOUN	subst:sg:gen:f	Case=Gen|Gender=Fem|Number=Sing	4	appos	4:appos	Translit=Pani
+6	zaletą	zaleta	NOUN	subst:sg:inst:f	Case=Ins|Gender=Fem|Number=Sing	0	root	0:root	Translit=zaletą
+7	było	być	AUX	praet:sg:n:imperf	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	6:cop	SpaceAfter=No|Translit=było
+8	,	,	PUNCT	interp	PunctType=Comm	9	punct	9:punct	Translit=,
+9	znać	znać	VERB	inf:imperf	Aspect=Imp|VerbForm=Inf|Voice=Act	6	xcomp:subj	6:xcomp:subj	Translit=znać
+10	dobrze	dobrze	ADV	adv:pos	Degree=Pos	9	advmod	9:advmod	Translit=dobrze
+11	styl	styl	NOUN	subst:sg:acc:m	Case=Acc|Gender=Masc|Number=Sing	9	obj	9:obj	Translit=styl
+12	i	i	CCONJ	conj	_	13	cc	13:cc	Translit=i
+13	język	język	NOUN	subst:sg:acc:m	Case=Acc|Gender=Masc|Number=Sing	11	conj	9:obj|11:conj	Translit=ięzyk
+14	Polski	polski	ADJ	adj:sg:acc:m:pos	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	13	amod	13:amod	SpaceAfter=No|Translit=Polski
+15	.	.	PUNCT	interp	PunctType=Peri	6	punct	6:punct	Translit=.
 
 ~~~
 

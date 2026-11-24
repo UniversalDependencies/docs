@@ -26,9 +26,9 @@ The following 3 pairs of parts of speech are connected with `compound:prt`: <tt>
 2	,	,	PUNCT	,	_	3	punct	3:punct	_
 3	please	please	INTJ	UH	_	1	discourse	1:discourse	SpaceAfter=No
 4	,	,	PUNCT	,	_	7	punct	7:punct	_
-5	do	do	AUX	VB	VerbForm=Inf	7	aux	7:aux	Discourse=joint-list_m:131->130:0:_
+5	do	do	AUX	VB	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	7	aux	7:aux	Discourse=joint-list_m:131->130:0:_
 6	n't	not	PART	RB	Polarity=Neg	7	advmod	7:advmod	Negation=Yes
-7	hold	hold	VERB	VB	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	1	parataxis	1:parataxis	_
+7	hold	hold	VERB	VB	VerbForm=Inf	1	parataxis	1:parataxis	_
 8	up	up	ADP	RP	_	7	compound:prt	7:compound:prt	_
 9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	Entity=(170-abstract-acc:com-nnnnn-cf1-2-sgl
 10	queue	queue	NOUN	NN	Number=Sing	7	obj	7:obj	Entity=170)|SpaceAfter=No

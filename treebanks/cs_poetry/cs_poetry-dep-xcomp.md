@@ -59,7 +59,7 @@ The following 7 pairs of parts of speech are connected with `xcomp`: <tt><a href
 11	božství	božství	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing	8	obj	_	_
 12	nad	nad	ADP	RR--7----------	AdpType=Prep|Case=Ins	13	case	_	_
 13	vším	všechen	DET	PLZS7----------	Case=Ins|Gender=Neut|Number=Sing|PronType=Tot	14	det	_	_
-14	skryté	skrytý	ADJ	AANS4----1A----	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	8	xcomp	_	SpaceAfter=No
+14	skryté	skrytý	ADJ	AANS4----1A----	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	8	xcomp	_	SpaceAfter=No
 15	.	.	PUNCT	Z:-------------	_	8	punct	_	_
 
 ~~~

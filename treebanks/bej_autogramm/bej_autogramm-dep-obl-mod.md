@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="bej_autogramm-dep-obl.html">obl</a></tt>.
 There are also 1 other language-specific subtypes of `obl`: <tt><a href="bej_autogramm-dep-obl-arg.html">obl:arg</a></tt>.
 
-116 nodes (1%) are attached to their parents as `obl:mod`.
+134 nodes (1%) are attached to their parents as `obl:mod`.
 
-115 instances of `obl:mod` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.70689655172414.
+133 instances of `obl:mod` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.56716417910448.
 
-The following 9 pairs of parts of speech are connected with `obl:mod`: <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt> (99; 85% instances), <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_autogramm-pos-PRON.html">PRON</a></tt> (9; 8% instances), <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_autogramm-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="bej_autogramm-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bej_autogramm-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="bej_autogramm-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bej_autogramm-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_autogramm-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_autogramm-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_autogramm-pos-X.html">X</a></tt> (1; 1% instances).
+The following 9 pairs of parts of speech are connected with `obl:mod`: <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt> (112; 84% instances), <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_autogramm-pos-PRON.html">PRON</a></tt> (9; 7% instances), <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_autogramm-pos-ADJ.html">ADJ</a></tt> (5; 4% instances), <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_autogramm-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_autogramm-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="bej_autogramm-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bej_autogramm-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="bej_autogramm-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bej_autogramm-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_autogramm-pos-NUM.html">NUM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -23,14 +23,14 @@ The following 9 pairs of parts of speech are connected with `obl:mod`: <tt><a hr
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 3 obl:mod	color:blue
-1	da	_	NOUN	N	Gender=Masc|Number=Plur	5	nsubj	_	AlignBegin=52560|AlignEnd=52754|Gloss=man\PL|RX=[SBJ].[N].[M]|TokenType=Root
-2	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=52754|AlignEnd=53717|TokenType=Break
-3	bʔeː	_	NOUN	N	Gender=Masc	5	obl:mod	_	AlignBegin=53717|AlignEnd=53884|Gloss=day|RX=[N].[M]|TokenType=Root
-4	=b	_	DET	DET	Case=Acc|Definite=Ind|Gender=Masc	3	det	_	AlignBegin=53884|AlignEnd=54051|Gloss==INDF.M.ACC|RX==[DET]|TokenType=Clit
-5	eːjaːn	_	VERB	V2,IRG	Aspect=Perf|Number=Plur|VerbClass=2	7	ccomp	_	AlignBegin=54051|AlignEnd=54273|Gloss=come\PFV|MGloss=come\PFV-3PL|MSeg=eːjaː-n|Reported=Yes|RX=[V2].[IRG]-[PNG]|TokenType=Root
-6	=heːb	_	PRON	PRO	Number=Sing|Person=1	5	obj	_	AlignBegin=54273|AlignEnd=54385|Gloss==OBJ.1SG|RX==[PRO]|TokenType=Clit
-7	ini	_	VERB	V1,IRG	Aspect=Perf|Gender=Masc|Number=Sing|VerbClass=1	0	root	_	AlignBegin=54385|AlignEnd=54719|Gloss=say\PFV|MGloss=3SG.M-say\PFV|MSeg=i-ni|RX=[PNG]-[V1].[IRG]|TokenType=Root
-8	//	_	PUNCT	PUNCT	_	7	punct	_	AlignBegin=54719|AlignEnd=55636|TokenType=Break
+1	da	_	NOUN	N	Gender=Masc|Number=Plur	5	nsubj	_	Gloss=man|RX=[SBJ].[N].[M]|TokenType=Root|WordAlignmentBegin=52560|WordAlignmentEnd=52754
+2	/	_	PUNCT	PUNCT	_	1	punct	_	TokenType=Break|WordAlignmentBegin=52754|WordAlignmentEnd=53717
+3	bʔeː	_	NOUN	N	Gender=Masc	5	obl:mod	_	Gloss=day|RX=[N].[M]|TokenType=Root|WordAlignmentBegin=53717|WordAlignmentEnd=53884
+4	=b	_	DET	DET	Case=Acc|Definite=Ind|Gender=Masc	3	det	_	Gloss=INDF|RX==[DET]|TokenType=Clit|WordAlignmentBegin=53884|WordAlignmentEnd=54051
+5	eːjaːn	_	VERB	V2,IRG	Aspect=Perf|Number=Plur|VerbClass=2	7	ccomp	_	Gloss=come|MGloss=come\PFV-3PL|MSeg=eːjaː-n|Reported=Yes|RX=[V2].[IRG]-[PNG]|TokenType=Root|WordAlignmentBegin=54051|WordAlignmentEnd=54273
+6	=heːb	_	PRON	PRO	Number=Sing|Person=1	5	obj	_	Gloss=OBJ|RX==[PRO]|TokenType=Clit|WordAlignmentBegin=54273|WordAlignmentEnd=54385
+7	ini	_	VERB	V1,IRG	Aspect=Perf|Gender=Masc|Number=Sing|VerbClass=1	0	root	_	Gloss=say|MGloss=3SG.M-say\PFV|MSeg=i-ni|RX=[PNG]-[V1].[IRG]|TokenType=Root|WordAlignmentBegin=54385|WordAlignmentEnd=54719
+8	//	_	PUNCT	PUNCT	_	7	punct	_	TokenType=Break|WordAlignmentBegin=54719|WordAlignmentEnd=55636
 
 ~~~
 
@@ -41,38 +41,41 @@ The following 9 pairs of parts of speech are connected with `obl:mod`: <tt><a hr
 # visual-style 14	bgColor:blue
 # visual-style 14	fgColor:white
 # visual-style 14 11 obl:mod	color:blue
-1	uːn	_	DET	DEM	Case=Nom|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	2	det	_	AlignBegin=111498|AlignEnd=111703|Gloss=PROX.SG.M.NOM|RX=[DEM]|TokenType=Root
-2	ani	_	PRON	PRO	Case=Nom|Number=Sing|Person=1	8	nsubj	_	AlignBegin=111703|AlignEnd=111909|Gloss=1SG.NOM|RX=[SBJ].[PRO]|TokenType=Root
-3	eːt	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Fem|Number=Plur|PronType=Dem	5	det	_	AlignBegin=111909|AlignEnd=112114|Gloss=PROX.PL.F.ACC|RX=[DEM]|TokenType=Root
-4	t=	_	DET	DET	Definite=Def|Gender=Fem	5	det	_	AlignBegin=112114|AlignEnd=112165|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
-5	ʔar	_	NOUN	N	Gender=Masc|Number=Plur	8	obj	_	AlignBegin=112165|AlignEnd=112217|Gloss=child\M.PL|RX=[N]|TokenType=Root
-6	=t	_	DET	DET	Gender=Fem	5	det	_	AlignBegin=112217|AlignEnd=112268|Gloss==INDF.F|RX==[DET]|TokenType=Clit
-7	=i	_	PRON	PRO	Case=Acc|Number=Sing|Person=1|Poss=Yes	5	nmod:poss	_	AlignBegin=112268|AlignEnd=112320|Gloss==POSS.1SG.ACC|RX==[PRO]|TokenType=Clit
-8	eːbi	_	VERB	V1	Aspect=Imp|Number=Sing|VerbClass=1	9	dep:comp	_	AlignBegin=112320|AlignEnd=112456|Gloss=go\INT.IPFV|MGloss=1SG-go\INT.IPFV|MSeg=eː-bi|RX=[PNG]-[V1].[DER].[IRG]|TokenType=Root
-9	=hoːb	_	SCONJ	CONJ	_	14	dep	_	AlignBegin=112456|AlignEnd=112525|Gloss==when|RX==[CONJ]|TokenType=Clit
-10	/	_	PUNCT	PUNCT	_	9	punct	_	AlignBegin=112525|AlignEnd=113086|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
-11	naː	_	PRON	PRO	PronType=Int	14	obl:mod	_	AlignBegin=113086|AlignEnd=113447|Gloss=which|RX=[PRO].[Q]|TokenType=Root
-12	fiːr	_	NOUN	N	Gender=Masc|Number=Plur	13	dep:comp	_	AlignBegin=113447|AlignEnd=113627|Gloss=face|RX=[N].[PL].[M]|TokenType=Root
-13	=eː	_	ADP	POSTP	Case=Abl|Number=Plur	14	obl:arg	_	AlignBegin=113627|AlignEnd=113808|Gloss==ABL.PL|RX==[POSTP]|TokenType=Clit
-14	amnfariːd	_	VERB	V1	Aspect=Imp|Number=Sing|VerbClass=1	0	root	_	AlignBegin=113808|AlignEnd=114169|Gloss=talk\IPFV|MGloss=1SG-RECP-talk\IPFV|MSeg=a-m-nfariːd|RX=[PNG]-[DER].[V1]-[V1]|TokenType=Root
-15	?	_	PUNCT	PUNCT	_	14	punct	_	AlignBegin=114169|AlignEnd=114693|Gloss=PUNCT|RX=[PUNCT]|TokenType=Root
+1	uːn	_	DET	DEM	Case=Nom|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	2	det	_	Gloss=PROX|RX=[DEM]|TokenType=Root|WordAlignmentBegin=111498|WordAlignmentEnd=111703
+2	ani	_	PRON	PRO	Case=Nom|Number=Sing|Person=1	8	nsubj	_	Gloss=1SG|RX=[SBJ].[PRO]|TokenType=Root|WordAlignmentBegin=111703|WordAlignmentEnd=111909
+3	eːt	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Fem|Number=Plur|PronType=Dem	5	det	_	Gloss=PROX|RX=[DEM]|TokenType=Root|WordAlignmentBegin=111909|WordAlignmentEnd=112114
+4	t=	_	DET	DET	Definite=Def|Gender=Fem	5	det	_	Gloss=DEF|RX=[DET]=|TokenType=Clit|WordAlignmentBegin=112114|WordAlignmentEnd=112165
+5	ʔar	_	NOUN	N	Gender=Masc|Number=Plur	8	obj	_	Gloss=child|RX=[N]|TokenType=Root|WordAlignmentBegin=112165|WordAlignmentEnd=112217
+6	=t	_	DET	DET	Gender=Fem	5	det	_	Gloss=INDF|RX==[DET]|TokenType=Clit|WordAlignmentBegin=112217|WordAlignmentEnd=112268
+7	=i	_	PRON	PRO	Case=Acc|Number=Sing|Person=1|Poss=Yes	5	nmod:poss	_	Gloss=POSS|RX==[PRO]|TokenType=Clit|WordAlignmentBegin=112268|WordAlignmentEnd=112320
+8	eːbi	_	VERB	V1	Aspect=Imp|Number=Sing|VerbClass=1	14	advcl	_	Gloss=go|MGloss=1SG-go\INT.IPFV|MSeg=eː-bi|RX=[PNG]-[V1].[DER].[IRG]|TokenType=Root|WordAlignmentBegin=112320|WordAlignmentEnd=112456
+9	=hoːb	_	SCONJ	CONJ	_	8	mark	_	Gloss=when|RX==[CONJ]|TokenType=Clit|WordAlignmentBegin=112456|WordAlignmentEnd=112525
+10	/	_	PUNCT	PUNCT	_	8	punct	_	Gloss=PUNCT|RX=[PUNCT]|TokenType=Break|WordAlignmentBegin=112525|WordAlignmentEnd=113086
+11	naː	_	PRON	PRO	PronType=Int	14	obl:mod	_	Gloss=which|RX=[PRO].[Q]|TokenType=Root|WordAlignmentBegin=113086|WordAlignmentEnd=113447
+12	fiːr	_	NOUN	N	Gender=Masc|Number=Plur	14	obl:arg	_	Gloss=face|RX=[N].[PL].[M]|TokenType=Root|WordAlignmentBegin=113447|WordAlignmentEnd=113627
+13	=eː	_	ADP	POSTP	Case=Abl|Number=Plur	12	case	_	Gloss=ABL|RX==[POSTP]|TokenType=Clit|WordAlignmentBegin=113627|WordAlignmentEnd=113808
+14	amnfariːd	_	VERB	V1	Aspect=Imp|Number=Sing|VerbClass=1	0	root	_	Gloss=RECP.talk|MGloss=1SG-RECP-talk\IPFV|MSeg=a-m-nfariːd|RX=[PNG]-[DER].[V1]-[V1]|TokenType=Root|WordAlignmentBegin=113808|WordAlignmentEnd=114169
+15	?	_	PUNCT	PUNCT	_	14	punct	_	Gloss=PUNCT|RX=[PUNCT]|TokenType=Root|WordAlignmentBegin=114169|WordAlignmentEnd=114693
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 4 obl:mod	color:blue
-1	malia	_	ADJ	NUM	_	3	advcl	_	AlignBegin=185933|AlignEnd=186197|Gloss=two|MGloss=two-ORD|MSeg=mali-a|RX=[NUM]-[NUM]|TokenType=Root
-2	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=186197|AlignEnd=186462|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
-3	kaɖawiːni	_	VERB	V2	Gender=Masc|Number=Sing|VerbClass=2	6	dep:conj	_	AlignBegin=186462|AlignEnd=186833|Gloss=make_noise|MGloss=make_noise-IPFV.3SG.M|MSeg=kaɖaw-iːni|RX=[V2]-[TAM].[PNG]|TokenType=Root
-4	malia	_	ADJ	NUM	_	6	obl:mod	_	AlignBegin=186833|AlignEnd=187081|Gloss=two|MGloss=two-ORD|MSeg=mali-a|RX=[SBJ].[NUM]-[NUM]|TokenType=Root
-5	=t	_	DET	DET	Gender=Fem	4	det	_	AlignBegin=187081|AlignEnd=187205|Gloss==INDF.F|RX==[DET]|TokenType=Clit
-6	ʃuːmtini	_	VERB	V2	Gender=Fem|Number=Sing|VerbClass=2	0	root	_	AlignBegin=187205|AlignEnd=187576|Gloss=go_in|MGloss=go_in-IPFV.3SG.F|MSeg=ʃuːm-tini|RX=[V2]-[TAM].[PNG]|TokenType=Root
-7	/	_	PUNCT	PUNCT	_	6	punct	_	AlignBegin=187576|AlignEnd=187948|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 7 obl:mod	color:blue
+1	ba=	_	PART	PTCL	Mood=Opt	2	advmod	_	Gloss=OPT|RX=[PTCL]=|TokenType=Clit|WordAlignmentBegin=64599|WordAlignmentEnd=64697
+2	akʷinhaj	_	VERB	V2	Number=Sing|VerbClass=2	3	ccomp	_	Gloss=shout|MGloss=1SG-shout-NEG.OPT|MSeg=a-kʷinh-aj|RX=[PNG]-[V2]-[TAM]|TokenType=Root|WordAlignmentBegin=64697|WordAlignmentEnd=64992
+3	akaːb	_	VERB	V1	Gender=Masc|VerbClass=1	9	dep:conj	_	Gloss=become.CVB.MNR|MGloss=become-CVB.MNR-INDF.M.ACC|MSeg=ak-aː-b|RX=[V1].[IRG]-[PRF]-[DET]|TokenType=Root|WordAlignmentBegin=64992|WordAlignmentEnd=65229
+4	=u	_	AUX	N.COP	Number=Sing|Person=1|VerbType=Cop	3	cop	_	Gloss=COP|RX==[PRED].[N]|TokenType=Clit|WordAlignmentBegin=65229|WordAlignmentEnd=65308
+5	=it	_	CCONJ	CONJ	_	3	cc	_	Gloss=COORD|RX==[CONJ]|TokenType=Clit|WordAlignmentBegin=65308|WordAlignmentEnd=65385
+6	/	_	PUNCT	_	_	3	punct	_	Gloss=/|TokenType=Break|WordAlignmentBegin=65385|WordAlignmentEnd=65779
+7	dabal	_	ADJ	ADJ	_	9	obl:mod	_	Gloss=small|RX=[ADJ]|TokenType=Root|WordAlignmentBegin=65779|WordAlignmentEnd=65919
+8	=had	_	ADP	POSTP	_	7	case	_	Gloss=until|RX==[POSTP]|TokenType=Clit|WordAlignmentBegin=65919|WordAlignmentEnd=66059
+9	hagit	_	VERB	V1	Aspect=Perf|Number=Sing|Person=1|VerbClass=1	0	root	_	Gloss=wait|RX=[V1]|TokenType=Root|WordAlignmentBegin=66059|WordAlignmentEnd=66339
+10	//	_	PUNCT	_	_	9	punct	_	Gloss=//|TokenType=Break|WordAlignmentBegin=66339|WordAlignmentEnd=66619
 
 ~~~
 

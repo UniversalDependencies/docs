@@ -12,7 +12,7 @@ There are 3 language-specific subtypes of `obl`: <tt><a href="fr_gsd-dep-obl-age
 20 nodes (0%) are attached to their parents as `obl`.
 
 20 instances of `obl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.45.
+Average distance between parent and child is 6.4.
 
 The following 5 pairs of parts of speech are connected with `obl`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (9; 45% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (5; 25% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (4; 20% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (1; 5% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (1; 5% instances).
 
@@ -57,9 +57,9 @@ The following 5 pairs of parts of speech are connected with `obl`: <tt><a href="
 14	de	de	ADP	_	_	15	case	_	_
 15	Paris	Paris	PROPN	_	_	12	nmod	_	_
 16	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
-17	28	28	NUM	_	Number=Sing	8	obl:mod	_	Exponence[Number]=Inherent
+17	28	28	NUM	_	ExtPos=PROPN|Number=Sing	8	obl:mod	_	Exponence[Number]=Inherent
 18	mars	mars	NOUN	_	Gender=Masc|Number=Sing	17	nmod	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent
-19	2011	2011	NUM	_	Number=Sing	18	nmod	_	Exponence[Number]=Inherent|SpaceAfter=No
+19	2011	2011	NUM	_	ExtPos=PROPN|Number=Sing	18	nmod	_	Exponence[Number]=Inherent|SpaceAfter=No
 20	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~

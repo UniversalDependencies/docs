@@ -23,7 +23,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="en_lines-pos-ADJ.ht
 * `Cmp` (191; 3% of non-empty `Degree`): <em>more, better, older, most, worse, lower, easier, greater, higher, younger</em>
 * `Pos` (6445; 96% of non-empty `Degree`): <em>other, white, old, own, new, good, long, same, little, black</em>
 * `Sup` (85; 1% of non-empty `Degree`): <em>best, nearest, greatest, least, biggest, worst, largest, closest, commonest, deepest</em>
-* `EMPTY` (49): <em>else, such, another, Much, aghast, bevelled, clogged, juddering, left, less</em>
+* `EMPTY` (50): <em>else, such, another, Much, aghast, bevelled, clogged, juddering, left, less</em>
 
 <table>
   <tr><th>Paradigm <i>good</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -43,7 +43,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 * `Cmp` (49; 22% of non-empty `Degree`): <em>longer, farther, more, nearer, sooner, closer, faster, harder, higher</em>
 * `Pos` (160; 71% of non-empty `Degree`): <em>well, far, long, soon, close, hard, early, little, badly, fast</em>
 * `Sup` (17; 8% of non-empty `Degree`): <em>least, Whilst, best</em>
-* `EMPTY` (5465): <em>out, up, so, then, now, back, very, just, there, again</em>
+* `EMPTY` (5429): <em>up, out, so, then, now, back, very, just, there, again</em>
 
 <table>
   <tr><th>Paradigm <i>well</i></th><th><tt>Pos</tt></th><th><tt>Sup</tt></th></tr>

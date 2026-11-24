@@ -40,7 +40,7 @@ The following 1 pairs of parts of speech are connected with `expl:impers`: <tt><
 15	nosotros	yo	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	20	obl:arg	_	_
 16	no	no	ADV	_	Polarity=Neg	20	advmod	_	_
 17	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	20	expl:impers	_	_
-18	nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	20	obl:arg	_	_
+18	nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	20	expl	_	_
 19	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux	_	_
 20	notificado	notificar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	parataxis	_	_
 21	nada	nada	PRON	_	Number=Sing|PronType=Neg	20	obj	_	SpaceAfter=No

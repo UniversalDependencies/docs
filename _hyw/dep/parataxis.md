@@ -122,4 +122,4 @@ We also use the parataxis relation for tag questions such as _այնպէս չէ�
 11	՞	՞	PUNCT	_	_	10	punct	_	Translit=?|LTranslit=?
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:38 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:39:10 CET -->

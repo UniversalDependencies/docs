@@ -49,7 +49,7 @@ The following 4 pairs of parts of speech are connected with `mark`: <tt><a href=
 6	Tahvillerin	Tahviller	NOUN	NN	Case=Gen|Number=Plur	10	nmod:poss	_	_
 7	normal	normal	ADJ	JJ	Number=Sing	9	amod	_	_
 8	tasarruf	tasarruf	NOUN	NN	Number=Sing	9	nmod:poss	_	_
-9	hesaplarından	hesap	NOUN	NN	Case=Abl|Number=Sing|Polarity=Pos	10	obl	_	_
+9	hesaplarından	hesap	NOUN	NN	Case=Abl|Number=Sing|Polarity=Pos	10	nmod	_	_
 10	farkı	farkı	NOUN	NN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	11	nsubj	_	_
 11	olmazdı	ol	VERB	VB	Aspect=Hab|Mood=Gen|Number=Sing|Person=3|Polarity=Neg|Tense=Past	0	root	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	11	punct	_	_

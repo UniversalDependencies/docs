@@ -45,7 +45,7 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 # visual-style 7 6 obl:agent	color:blue
 1	Die	der	DET	DT	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	Winteruniversiade	Winteruniversiade	PROPN	NNP	Case=Nom|Gender=Fem|Number=Sing	7	nsubj:pass	_	_
-3	2019	2019	NUM	CD	NumType=Card	2	obl:tmod	_	Proper=True
+3	2019	2019	NUM	CD	NumType=Card	2	nmod:tmod	_	Proper=True
 4	wird	werden	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	7	aux:pass	_	_
 5	von	von	ADP	IN	_	6	case	_	_
 6	Krasnojarsk	Krasnojarsk	PROPN	NNP	Case=Dat|Gender=Neut|Number=Sing	7	obl:agent	_	_

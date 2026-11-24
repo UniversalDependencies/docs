@@ -16,11 +16,11 @@ Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.9 release.
 
-The following people have contributed to making this treebank part of UD: Kim Gerdes, Sylvain Kahane, Menel Mahamdi.
+The following people have contributed to making this treebank part of UD: Kim Gerdes, Sylvain Kahane, Menel Mahamdi, Bruno Guillaume.
 
 Repository: [UD_French-ParisStories](https://github.com/UniversalDependencies/UD_French-ParisStories)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_parisstories218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_parisstories219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 
@@ -54,7 +54,7 @@ For an assignment, students had to record a friend or a relative sharing an anec
 The corpus was created for the study of contemporary spoken French and to train a syntactic parser for spoken French.
 All data has been morpho-syntactically annotated following the SUD (Surface Syntactic Universal Dependencies) guidelines.
 
-See SUD Guidelines: https://surfacesyntacticud.github.io/guidelines/u/
+See SUD Guidelines: https://docs.surfacesyntacticud.org/guidelines/universal/
 
 The Treebank can be found here: http://match.grew.fr/?corpus=SUD_French-ParisStories@latest
 
@@ -110,7 +110,7 @@ Topics : first encounters, funny/unusual stories
 
 ## Development
 
-The corpus is maintained [here](https://github.com/surfacesyntacticud/SUD_French-ParisStories) in the [SUD](https://surfacesyntacticud.github.io/) framework and automatically converter into UD using the [Grew](https://grew.fr) software with the conversions rules described [here](https://github.com/surfacesyntacticud/tools/tree/master/converter).
+The corpus is maintained [here](https://github.com/surfacesyntacticud/SUD_French-ParisStories) in the [SUD](https://surfacesyntacticud.org/) framework and automatically converter into UD using the [Grew](https://grew.fr) software with the conversions rules described [here](https://github.com/surfacesyntacticud/conversions).
 
 ## Data Split
 
@@ -203,13 +203,13 @@ An article about the annotation of spoken French will soon be released (Kahane e
 
 ## Relations
 
-[acl](fr_parisstories-dep-acl.html) – [acl:relcl](fr_parisstories-dep-acl-relcl.html) – [advcl](fr_parisstories-dep-advcl.html) – [advcl:cleft](fr_parisstories-dep-advcl-cleft.html) – [advmod](fr_parisstories-dep-advmod.html) – [amod](fr_parisstories-dep-amod.html) – [appos](fr_parisstories-dep-appos.html) – [aux:caus](fr_parisstories-dep-aux-caus.html) – [aux:pass](fr_parisstories-dep-aux-pass.html) – [aux:tense](fr_parisstories-dep-aux-tense.html) – [case](fr_parisstories-dep-case.html) – [cc](fr_parisstories-dep-cc.html) – [ccomp](fr_parisstories-dep-ccomp.html) – [compound](fr_parisstories-dep-compound.html) – [conj](fr_parisstories-dep-conj.html) – [cop](fr_parisstories-dep-cop.html) – [csubj](fr_parisstories-dep-csubj.html) – [dep](fr_parisstories-dep-dep.html) – [dep:comp](fr_parisstories-dep-dep-comp.html) – [det](fr_parisstories-dep-det.html) – [discourse](fr_parisstories-dep-discourse.html) – [dislocated](fr_parisstories-dep-dislocated.html) – [dislocated:mod](fr_parisstories-dep-dislocated-mod.html) – [dislocated:obj](fr_parisstories-dep-dislocated-obj.html) – [dislocated:obl](fr_parisstories-dep-dislocated-obl.html) – [dislocated:subj](fr_parisstories-dep-dislocated-subj.html) – [expl:comp](fr_parisstories-dep-expl-comp.html) – [expl:pass](fr_parisstories-dep-expl-pass.html) – [expl:pv](fr_parisstories-dep-expl-pv.html) – [expl:subj](fr_parisstories-dep-expl-subj.html) – [fixed](fr_parisstories-dep-fixed.html) – [flat](fr_parisstories-dep-flat.html) – [flat:foreign](fr_parisstories-dep-flat-foreign.html) – [flat:name](fr_parisstories-dep-flat-name.html) – [iobj](fr_parisstories-dep-iobj.html) – [iobj:agent](fr_parisstories-dep-iobj-agent.html) – [mark](fr_parisstories-dep-mark.html) – [nmod](fr_parisstories-dep-nmod.html) – [nmod:appos](fr_parisstories-dep-nmod-appos.html) – [nsubj](fr_parisstories-dep-nsubj.html) – [nsubj:caus](fr_parisstories-dep-nsubj-caus.html) – [nsubj:outer](fr_parisstories-dep-nsubj-outer.html) – [nsubj:pass](fr_parisstories-dep-nsubj-pass.html) – [nummod](fr_parisstories-dep-nummod.html) – [obj](fr_parisstories-dep-obj.html) – [obj:agent](fr_parisstories-dep-obj-agent.html) – [obj:lvc](fr_parisstories-dep-obj-lvc.html) – [obl](fr_parisstories-dep-obl.html) – [obl:agent](fr_parisstories-dep-obl-agent.html) – [obl:arg](fr_parisstories-dep-obl-arg.html) – [obl:mod](fr_parisstories-dep-obl-mod.html) – [parataxis](fr_parisstories-dep-parataxis.html) – [parataxis:parenth](fr_parisstories-dep-parataxis-parenth.html) – [punct](fr_parisstories-dep-punct.html) – [reparandum](fr_parisstories-dep-reparandum.html) – [root](fr_parisstories-dep-root.html) – [vocative](fr_parisstories-dep-vocative.html) – [xcomp](fr_parisstories-dep-xcomp.html)
+[acl](fr_parisstories-dep-acl.html) – [acl:relcl](fr_parisstories-dep-acl-relcl.html) – [advcl](fr_parisstories-dep-advcl.html) – [advcl:cleft](fr_parisstories-dep-advcl-cleft.html) – [advmod](fr_parisstories-dep-advmod.html) – [amod](fr_parisstories-dep-amod.html) – [appos](fr_parisstories-dep-appos.html) – [aux:caus](fr_parisstories-dep-aux-caus.html) – [aux:pass](fr_parisstories-dep-aux-pass.html) – [aux:tense](fr_parisstories-dep-aux-tense.html) – [case](fr_parisstories-dep-case.html) – [cc](fr_parisstories-dep-cc.html) – [ccomp](fr_parisstories-dep-ccomp.html) – [compound](fr_parisstories-dep-compound.html) – [conj](fr_parisstories-dep-conj.html) – [conj:reform](fr_parisstories-dep-conj-reform.html) – [cop](fr_parisstories-dep-cop.html) – [csubj](fr_parisstories-dep-csubj.html) – [dep](fr_parisstories-dep-dep.html) – [dep:comp](fr_parisstories-dep-dep-comp.html) – [det](fr_parisstories-dep-det.html) – [discourse](fr_parisstories-dep-discourse.html) – [discourse:filler](fr_parisstories-dep-discourse-filler.html) – [discourse:tag](fr_parisstories-dep-discourse-tag.html) – [dislocated](fr_parisstories-dep-dislocated.html) – [dislocated:mod](fr_parisstories-dep-dislocated-mod.html) – [dislocated:obj](fr_parisstories-dep-dislocated-obj.html) – [dislocated:obl](fr_parisstories-dep-dislocated-obl.html) – [dislocated:subj](fr_parisstories-dep-dislocated-subj.html) – [expl:comp](fr_parisstories-dep-expl-comp.html) – [expl:pass](fr_parisstories-dep-expl-pass.html) – [expl:pv](fr_parisstories-dep-expl-pv.html) – [expl:subj](fr_parisstories-dep-expl-subj.html) – [fixed](fr_parisstories-dep-fixed.html) – [flat](fr_parisstories-dep-flat.html) – [flat:foreign](fr_parisstories-dep-flat-foreign.html) – [flat:name](fr_parisstories-dep-flat-name.html) – [iobj](fr_parisstories-dep-iobj.html) – [iobj:agent](fr_parisstories-dep-iobj-agent.html) – [mark](fr_parisstories-dep-mark.html) – [nmod](fr_parisstories-dep-nmod.html) – [nsubj](fr_parisstories-dep-nsubj.html) – [nsubj:caus](fr_parisstories-dep-nsubj-caus.html) – [nsubj:outer](fr_parisstories-dep-nsubj-outer.html) – [nsubj:pass](fr_parisstories-dep-nsubj-pass.html) – [nummod](fr_parisstories-dep-nummod.html) – [obj](fr_parisstories-dep-obj.html) – [obj:agent](fr_parisstories-dep-obj-agent.html) – [obj:lvc](fr_parisstories-dep-obj-lvc.html) – [obl](fr_parisstories-dep-obl.html) – [obl:agent](fr_parisstories-dep-obl-agent.html) – [obl:arg](fr_parisstories-dep-obl-arg.html) – [obl:mod](fr_parisstories-dep-obl-mod.html) – [parataxis](fr_parisstories-dep-parataxis.html) – [parataxis:parenth](fr_parisstories-dep-parataxis-parenth.html) – [punct](fr_parisstories-dep-punct.html) – [reparandum](fr_parisstories-dep-reparandum.html) – [root](fr_parisstories-dep-root.html) – [vocative](fr_parisstories-dep-vocative.html) – [xcomp](fr_parisstories-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 2776 sentences, 42257 tokens and 42789 syntactic words.</li>
+<li>This corpus contains 2776 sentences, 42251 tokens and 42775 syntactic words.</li>
 </ul>
 
 <ul>
@@ -221,11 +221,11 @@ An article about the annotation of spoken French will soon be released (Kahane e
 </ul>
 
 <ul>
-<li>This corpus contains 91 types of words that contain both letters and punctuation. Examples: c', j', l', qu', d', s', m', n', -ce, t', là-bas, -là, peut-être, quelqu'un, jusqu', grands-parents, -y, après-midi, aujourd'hui, demi-tour, haut-parleur, puisqu', -moi, celui-là, dix-neuf, quarante-sept, rendez-vous, vingt-deux, vingt-six, Français-Chinois, c'est-à-dire, centre-ville, demi-heure, demi-soeur, dix-huit, dix-sept, franco-allemand, grand-mère, là-haut, quarante-deux, quatre-vingt, soixante-quinze, trente-cinq, vingt-cinq, vingt-et-un, -Alpes, -on, Marie-Paul, Mitry-Claye, O'Takey</li>
+<li>This corpus contains 91 types of words that contain both letters and punctuation. Examples: c', j', l', qu', d', s', m', n', -ce, t', là-bas, -là, peut-être, quelqu'un, jusqu', grands-parents, -y, après-midi, aujourd'hui, demi-tour, haut-parleur, puisqu', -moi, c'est-à-dire, celui-là, dix-neuf, quarante-sept, rendez-vous, vingt-deux, vingt-six, Français-Chinois, centre-ville, demi-heure, demi-soeur, dix-huit, dix-sept, franco-allemand, grand-mère, là-haut, quarante-deux, quatre-vingt, soixante-quinze, trente-cinq, vingt-cinq, vingt-et-un, -Alpes, -on, Marie-Paul, Mitry-Claye, O'Takey</li>
 </ul>
 
 <ul>
-<li>This corpus contains 532 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>This corpus contains 524 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
 <li>There are 5 types of multi-word tokens. Examples: du, au, des, aux, auxquelles.</li>
 </ul>
 
@@ -242,7 +242,7 @@ An article about the annotation of spoken French will soon be released (Kahane e
 </ul>
 
 <ul>
-<li>This corpus contains 34 lemmas tagged as pronouns (PRON): aucun, autre, autrui, ce, cela, celui, celui-là, chacun, dont, en, eux-mêmes, lequel, lui, lui-même, moi, moi-même, nous, on, personne, que, quelqu'un, qui, quoi, rien, sien, soi, tien, toi, tous, tout, un, vous, y, ça</li>
+<li>This corpus contains 34 lemmas tagged as pronouns (PRON): aucun, autre, autrui, ce, cela, celui, celui-là, chacun, dont, en, eux-mêmes, lequel, lui, lui-même, mien, moi, moi-même, nous, on, personne, que, quelqu'un, qui, quoi, rien, soi, tien, toi, tous, tout, un, vous, y, ça</li>
 </ul>
 
 <ul>
@@ -269,7 +269,7 @@ An article about the annotation of spoken French will soon be released (Kahane e
   <li>Fin
   <ul>
     <li>AUX: est, était, a, ai, suis, étais, avait, sont, avais, étaient</li>
-    <li>VERB: avait, a, sais, fait, dit, va, avais, vois, ai, faisait</li>
+    <li>VERB: avait, a, sais, fait, dit, va, vois, avais, faisait, ai</li>
   </ul>
   </li>
 </ul>
@@ -278,7 +278,7 @@ An article about the annotation of spoken French will soon be released (Kahane e
   <li>Inf
   <ul>
     <li>AUX: être, faire, avoir, refaire</li>
-    <li>VERB: faire, aller, dire, voir, parler, prendre, avoir, manger, rentrer, passer</li>
+    <li>VERB: faire, aller, voir, dire, parler, prendre, avoir, manger, rentrer, passer</li>
   </ul>
   </li>
 </ul>
@@ -309,7 +309,7 @@ An article about the annotation of spoken French will soon be released (Kahane e
       <li>DET: la, une, l', ma, cette, sa, mon, ta, aucune, quelle</li>
       <li>NOUN: fois, maison, mère, heures, année, chose, vie, peur, ville, heure</li>
       <li>NUM: une</li>
-      <li>PRON: elle, elles, la, une, lesquelles, toutes, elle-même</li>
+      <li>PRON: elle, elles, la, une, lesquelles, toutes, elle-même, personne</li>
       <li>PROPN: Flora, Caraïbes, Ecosse, Île, GoPro, Latine, Terres</li>
       <li>VERB-Fin: avance</li>
       <li>VERB-Part: allée, rencontrée, vue, arrivée, partie, venue, accompagnée, rentrée, mise, devenue</li>
@@ -351,7 +351,7 @@ An article about the annotation of spoken French will soon be released (Kahane e
       <li>AUX-Fin: sont, étaient, ont, avaient, êtes, étiez, avez, avons, seraient, soient</li>
       <li>DET: les, des, mes, ses, nos, quelques, leurs, d', tes, ces</li>
       <li>NOUN: ans, gens, heures, parents, jours, potes, choses, activités, cours, enfants</li>
-      <li>NUM: deux, trois, dix, six, quatre, cinq, quatorze, sept, douze, huit</li>
+      <li>NUM: deux, trois, dix, quatre, six, cinq, quatorze, sept, douze, huit</li>
       <li>PRON: nous, ils, vous, les, tous, elles, leur, eux, ceux, autres</li>
       <li>PROPN: Anglais, Caraïbes, Cinq, Terres</li>
       <li>VERB-Fin: avaient, ont, avez, disent, disaient, voulez, étaient, allez, arrivent, faisaient</li>
@@ -373,7 +373,7 @@ An article about the annotation of spoken French will soon be released (Kahane e
       <li>NUM: deux, dix-neuf, quarante-sept, quinze, vingt, quarante, six, trente-cinq, vingt-deux, 3</li>
       <li>PRON: on, je, c', il, j', ça, elle, tu, me, moi</li>
       <li>PROPN: Flora, PSG, GoPro, Latine, M</li>
-      <li>VERB-Fin: avait, a, sais, fait, dit, va, avais, vois, ai, faisait</li>
+      <li>VERB-Fin: avait, a, sais, fait, dit, va, vois, avais, faisait, ai</li>
       <li>VERB-Inf: revoir</li>
       <li>VERB-Part: fait, dit, vu, eu, passé, allée, allé, parlé, commencé, rencontré</li>
       <li>X: re~, a~, dispro~, d~, fa~, frig~, fr~, hu~, ju~, mid~</li>
@@ -426,7 +426,7 @@ An article about the annotation of spoken French will soon be released (Kahane e
 <ul>
   <li>Ind
     <ul>
-      <li>DET: un, une, des, du, d', de, le, les</li>
+      <li>DET: un, une, des, du, d', de</li>
     </ul>
   </li>
 </ul>
@@ -479,7 +479,7 @@ An article about the annotation of spoken French will soon be released (Kahane e
   <li>Ind
     <ul>
       <li>AUX-Fin: est, était, a, ai, suis, étais, avait, sont, avais, étaient</li>
-      <li>VERB-Fin: avait, a, sais, fait, dit, va, avais, vois, ai, faisait</li>
+      <li>VERB-Fin: avait, a, sais, fait, dit, va, vois, avais, faisait, ai</li>
     </ul>
   </li>
 </ul>
@@ -510,7 +510,7 @@ An article about the annotation of spoken French will soon be released (Kahane e
   <li>Imp
     <ul>
       <li>AUX-Fin: était, étais, avait, avais, étaient, avaient, étiez</li>
-      <li>VERB-Fin: avait, avais, faisait, était, allait, voulait, fallait, savais, devait, voulais</li>
+      <li>VERB-Fin: avait, avais, faisait, allait, était, voulait, fallait, savais, devait, voulais</li>
     </ul>
   </li>
 </ul>
@@ -520,6 +520,7 @@ An article about the annotation of spoken French will soon be released (Kahane e
     <ul>
       <li>ADJ-Part: specialisée, spécialisée</li>
       <li>AUX-Part: été, fait, eu</li>
+      <li>VERB-Part: fait, dit, vu, eu, passé, allée, mis, pris, allé, parlé</li>
       <li>X-Part: re~, dispro~, fa~</li>
     </ul>
   </li>
@@ -530,6 +531,7 @@ An article about the annotation of spoken French will soon be released (Kahane e
     <ul>
       <li>AUX-Fin: est, a, ai, suis, sont, as, ont, serait, soit, es</li>
       <li>VERB-Fin: a, sais, fait, dit, va, vois, ai, souviens, faut, pense</li>
+      <li>VERB-Part: sachant, demandant, indiquant, arrivant, attendant, ayant, connaissant, courant, croyant, descendant</li>
     </ul>
   </li>
 </ul>
@@ -595,7 +597,7 @@ An article about the annotation of spoken French will soon be released (Kahane e
     <ul>
       <li>ADV: où</li>
       <li>DET: quelle</li>
-      <li>PRON: quoi, qu'</li>
+      <li>PRON: quoi, qu', qui</li>
     </ul>
   </li>
 </ul>
@@ -660,7 +662,7 @@ An article about the annotation of spoken French will soon be released (Kahane e
 <ul>
   <li>1
     <ul>
-      <li>AUX-Fin: ai, suis, étais, avais, aurais, fais, avait, avons, sommes</li>
+      <li>AUX-Fin: ai, suis, étais, avais, aurais, avons, fais, avait, sommes</li>
       <li>PRON: je, j', me, moi, nous, m', toi, -moi, moi-même</li>
       <li>VERB-Fin: sais, ai, avais, pense, souviens, crois, dis, vais, vois, fais</li>
       <li>VERB-Part: revenue, expliquant</li>
@@ -683,8 +685,9 @@ An article about the annotation of spoken French will soon be released (Kahane e
     <ul>
       <li>AUX-Fin: est, était, a, avait, sont, étaient, ont, avaient, serait, soit</li>
       <li>AUX-Part: fait</li>
+      <li>DET: ce</li>
       <li>PRON: on, c', il, ça, y, elle, s', se, lui, ils</li>
-      <li>VERB-Fin: avait, a, fait, dit, va, faisait, faut, était, est, allait</li>
+      <li>VERB-Fin: avait, a, fait, dit, va, faisait, faut, allait, était, voulait</li>
       <li>VERB-Part: fait, passé</li>
       <li>X: a~, d~, s~, é~</li>
     </ul>
@@ -738,7 +741,7 @@ An article about the annotation of spoken French will soon be released (Kahane e
     <ul>
       <li>ADJ
         <ul>
-          <li>ADP: en, à</li>
+          <li>ADP: d', en, à</li>
           <li>X: ferm~, jus~, ty~</li>
         </ul>
       </li>
@@ -752,14 +755,14 @@ An article about the annotation of spoken French will soon be released (Kahane e
       </li>
       <li>ADV
         <ul>
-          <li>ADP: en, de, à, d', par, pour, pendant, dès, a, sauf</li>
+          <li>ADP: en, du, d', à, par, de, pour, pendant, a, sauf</li>
           <li>ADV: pas, bien, quand, non, pourquoi, bel, que</li>
           <li>CCONJ: et</li>
           <li>DET: un, une, des</li>
           <li>INTJ: oh</li>
           <li>NOUN: grâce, pile</li>
           <li>SCONJ: quand</li>
-          <li>X: aus~, préci~, vraim~</li>
+          <li>X: aus~, pl~, préci~, vraim~</li>
         </ul>
       </li>
       <li>CCONJ
@@ -776,7 +779,7 @@ An article about the annotation of spoken French will soon be released (Kahane e
       <li>INTJ
         <ul>
           <li>ADJ: génial, normal, sympa</li>
-          <li>ADV: enfin, non, ~enfin, alors, clairement, effectivement, franchement, là, vraiment</li>
+          <li>ADV: enfin, non, franchement, ~enfin, alors, clairement, effectivement, là, vraiment</li>
           <li>INTJ: ah, quoi</li>
           <li>NOUN: genre, dieu, machin, pardon, patati, bonjour, nana, patacaisse</li>
           <li>VERB: voilà</li>
@@ -785,18 +788,21 @@ An article about the annotation of spoken French will soon be released (Kahane e
       </li>
       <li>NOUN
         <ul>
-          <li>ADP: à</li>
+          <li>ADP: au</li>
           <li>NOUN: drag, bac, road, tote</li>
           <li>X: an~, clip~, d~, fai~, indé~, mob~, pers~, zom~, frig~, fr~</li>
         </ul>
       </li>
       <li>PRON
         <ul>
-          <li>X: j~, i~</li>
+          <li>NUM: deux, trois, cinq, six, quatre, vingt-et-un</li>
+          <li>X: j~, i~, s~</li>
         </ul>
       </li>
       <li>PROPN
         <ul>
+          <li>NOUN: Pirates, Métaphysique, rues</li>
+          <li>NUM: deux, dix-neuf, quarante-sept, quinze, vingt, quarante, quatre-vingt, quatre-vingt-quinze, quatre-vingt-seize, six</li>
           <li>X: XXX, Céc~, Re~</li>
         </ul>
       </li>
@@ -804,7 +810,6 @@ An article about the annotation of spoken French will soon be released (Kahane e
         <ul>
           <li>ADP: sauf</li>
           <li>ADV: parce, alors, surtout, déjà, même, peut-être</li>
-          <li>SCONJ: parce</li>
           <li>X: qu~</li>
         </ul>
       </li>
@@ -874,15 +879,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (56)</li>
-      <li>VERB-Fin--PRON (315)</li>
-      <li>VERB-Fin--PRON-Nom (1574)</li>
+      <li>VERB-Fin--NOUN (55)</li>
+      <li>VERB-Fin--PRON (306)</li>
+      <li>VERB-Fin--PRON-Nom (1558)</li>
       <li>VERB-Inf--NOUN (2)</li>
-      <li>VERB-Inf--PRON (8)</li>
+      <li>VERB-Inf--PRON (7)</li>
       <li>VERB-Inf--PRON-Nom (6)</li>
-      <li>VERB-Part--NOUN (33)</li>
-      <li>VERB-Part--PRON (89)</li>
-      <li>VERB-Part--PRON-Nom (843)</li>
+      <li>VERB-Part--NOUN (34)</li>
+      <li>VERB-Part--PRON (90)</li>
+      <li>VERB-Part--PRON-Nom (842)</li>
     </ul>
   </li>
 </ul>
@@ -891,27 +896,27 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB--NOUN (3)</li>
-      <li>VERB-Fin--NOUN (517)</li>
-      <li>VERB-Fin--NOUN-ADP(de) (6)</li>
+      <li>VERB-Fin--NOUN (522)</li>
+      <li>VERB-Fin--NOUN-ADP(de) (5)</li>
       <li>VERB-Fin--NOUN-ADP(par) (1)</li>
       <li>VERB-Fin--NOUN-ADP(que) (2)</li>
-      <li>VERB-Fin--PRON (170)</li>
+      <li>VERB-Fin--PRON (171)</li>
       <li>VERB-Fin--PRON-ADP(de) (1)</li>
       <li>VERB-Fin--PRON-ADP(que) (1)</li>
-      <li>VERB-Fin--PRON-Acc (125)</li>
-      <li>VERB-Fin--PRON-Nom (2)</li>
-      <li>VERB-Inf--NOUN (189)</li>
+      <li>VERB-Fin--PRON-Acc (124)</li>
+      <li>VERB-Fin--PRON-Nom (1)</li>
+      <li>VERB-Inf--NOUN (190)</li>
       <li>VERB-Inf--NOUN-ADP(de) (2)</li>
       <li>VERB-Inf--PRON (59)</li>
       <li>VERB-Inf--PRON-ADP(de) (1)</li>
       <li>VERB-Inf--PRON-Acc (83)</li>
       <li>VERB-Inf--PRON-Nom (1)</li>
-      <li>VERB-Part--NOUN (218)</li>
+      <li>VERB-Part--NOUN (220)</li>
       <li>VERB-Part--NOUN-ADP(dans) (1)</li>
       <li>VERB-Part--NOUN-ADP(de) (1)</li>
-      <li>VERB-Part--NOUN-ADP(à) (1)</li>
-      <li>VERB-Part--PRON (86)</li>
+      <li>VERB-Part--PRON (85)</li>
       <li>VERB-Part--PRON-Acc (114)</li>
+      <li>VERB-Part--PRON-Nom (1)</li>
     </ul>
   </li>
 </ul>
@@ -956,7 +961,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 27 relation subtypes: <a>acl:relcl</a>, <a>advcl:cleft</a>, <a>aux:caus</a>, <a>aux:pass</a>, <a>aux:tense</a>, <a>dep:comp</a>, <a>dislocated:mod</a>, <a>dislocated:obj</a>, <a>dislocated:obl</a>, <a>dislocated:subj</a>, <a>expl:comp</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>expl:subj</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>iobj:agent</a>, <a>nmod:appos</a>, <a>nsubj:caus</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obj:agent</a>, <a>obj:lvc</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:mod</a>, <a>parataxis:parenth</a></li>
+<li>This corpus uses 29 relation subtypes: <a>acl:relcl</a>, <a>advcl:cleft</a>, <a>aux:caus</a>, <a>aux:pass</a>, <a>aux:tense</a>, <a>conj:reform</a>, <a>dep:comp</a>, <a>discourse:filler</a>, <a>discourse:tag</a>, <a>dislocated:mod</a>, <a>dislocated:obj</a>, <a>dislocated:obl</a>, <a>dislocated:subj</a>, <a>expl:comp</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>expl:subj</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>iobj:agent</a>, <a>nsubj:caus</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obj:agent</a>, <a>obj:lvc</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:mod</a>, <a>parataxis:parenth</a></li>
 <li>The following 2 main types are not used alone, they are always subtyped: <a>aux</a>, <a>expl</a></li>
 <li>The following 4 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a></li>
 </ul>

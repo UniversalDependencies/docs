@@ -24,9 +24,9 @@ The following 5 pairs of parts of speech are connected with `aux:neg`: <tt><a hr
 # visual-style 4	fgColor:white
 # visual-style 4 3 aux:neg	color:blue
 1	Сія	сія	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	GTtags=Pers,Sg3,Nom
-2	кöркö	кӧркӧ	ADV	Adv	AdvType=Tim	4	advmod	_	_
+2	кӧркӧ	кӧркӧ	ADV	Adv	AdvType=Tim	4	advmod	_	_
 3	абу	абу	AUX	_	Polarity=Neg	4	aux:neg	_	GTtags=CC,Neg
-4	велöтчылöма	велӧтчывны	VERB	_	Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=Ind,Prt2,Sg3|SpaceAfter=No
+4	велӧтчылӧма	велӧтчывны	VERB	_	Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=Ind,Prt2,Sg3|SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
@@ -54,9 +54,9 @@ The following 5 pairs of parts of speech are connected with `aux:neg`: <tt><a hr
 # visual-style 4	fgColor:white
 # visual-style 4 3 aux:neg	color:blue
 1	Менам	ме	PRON	Pron	Case=Gen|Number=Sing|Person=1|PronType=Prs	2	nmod:poss	_	GTtags=Pers,Sg1,Gen
-2	йöрнöс	йӧрнӧс	NOUN	N	Case=Nom|Number=Sing	4	nsubj:cop	_	GTtags=Sg,Nom
+2	йӧрнӧс	йӧрнӧс	NOUN	N	Case=Nom|Number=Sing	4	nsubj:cop	_	GTtags=Sg,Nom
 3	не	не	AUX	Pcle	Polarity=Neg	4	aux:neg	_	GTtags=Neg
-4	сэтшöм	сэтшӧм	ADJ	A	Case=Nom|Number=Sing|PronType=Dem	0	root	_	GTtags=Adn,Dem,Der/MWN,Sg,Nom
+4	сэтшӧм	сэтшӧм	ADJ	A	Case=Nom|Number=Sing|PronType=Dem	0	root	_	GTtags=Adn,Dem,Der/MWN,Sg,Nom
 5	кыдз	кыдз	ADV	Adv	_	6	mark	_	_
 6	тэнат	тэ	PRON	Pron	Case=Gen|Number=Sing|Person=2|PronType=Prs	2	conj	_	GTtags=Pers,Sg2,Gen|SpaceAfter=No
 7	.	.	PUNCT	CLB	_	4	punct	_	_

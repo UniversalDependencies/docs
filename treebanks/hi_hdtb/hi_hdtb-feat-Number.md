@@ -12,7 +12,7 @@ It occurs with 2 different values: `Plur`, `Sing`.
 217739 tokens (62%) have a non-empty value of `Number`.
 16026 types (84%) occur at least once with a non-empty value of `Number`.
 12922 lemmas (83%) occur at least once with a non-empty value of `Number`.
-The feature is used with 14 part-of-speech tags: <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (77436; 22% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (41554; 12% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (30368; 9% instances), <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> (24354; 7% instances), <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (21959; 6% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (10898; 3% instances), <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (4883; 1% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (4349; 1% instances), <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> (1384; 0% instances), <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> (513; 0% instances), <tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (32; 0% instances), <tt><a href="hi_hdtb-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="hi_hdtb-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="hi_hdtb-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The feature is used with 14 part-of-speech tags: <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (77436; 22% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (41554; 12% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (30368; 9% instances), <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> (24354; 7% instances), <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (21959; 6% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (10898; 3% instances), <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (4873; 1% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (4359; 1% instances), <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> (1384; 0% instances), <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> (513; 0% instances), <tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (32; 0% instances), <tt><a href="hi_hdtb-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="hi_hdtb-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="hi_hdtb-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -304,14 +304,14 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `DET`
 
-4883 <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> tokens (65% of all `DET` tokens) have a non-empty value of `Number`.
+4873 <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> tokens (65% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="hi_hdtb-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (4670; 96%), <tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt> (4537; 93%), <tt><a href="hi_hdtb-feat-Case.html">Case</a></tt><tt>=Acc</tt> (3475; 71%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="hi_hdtb-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (4718; 97%), <tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt> (4537; 93%), <tt><a href="hi_hdtb-feat-Case.html">Case</a></tt><tt>=Acc</tt> (3473; 71%).
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (887; 18% of non-empty `Number`): इन, ये, उन, ऐसे, जिन, हम, जो, इन्हीं, वे, सारी
-* `Sing` (3996; 82% of non-empty `Number`): इस, यह, उस, इसी, जिस, जो, ऐसा, उसी, यही, ऐसी
+* `Plur` (883; 18% of non-empty `Number`): इन, ये, उन, ऐसे, जिन, हम, जो, इन्हीं, वे, सारी
+* `Sing` (3990; 82% of non-empty `Number`): इस, यह, उस, इसी, जिस, जो, ऐसा, उसी, यही, ऐसी
 * `EMPTY` (2642): कुछ, कई, सभी, कम, ज्यादा, काफी, अधिक, और, हर, बहुत
 
 <table>
@@ -330,14 +330,14 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 ### `ADJ`
 
-4349 <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> tokens (20% of all `ADJ` tokens) have a non-empty value of `Number`.
+4359 <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> tokens (20% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2948; 68%), <tt><a href="hi_hdtb-feat-Case.html">Case</a></tt><tt>=Acc</tt> (2359; 54%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2954; 68%), <tt><a href="hi_hdtb-feat-Case.html">Case</a></tt><tt>=Acc</tt> (2361; 54%).
 
 `ADJ` tokens may have the following values of `Number`:
 
-* `Plur` (915; 21% of non-empty `Number`): वाले, पिछले, वाली, वालों, बड़े, नए, अगले, दूसरे, अच्छे, छोटे
-* `Sing` (3434; 79% of non-empty `Number`): वाले, वाली, पिछले, पूरी, पूरा, अगले, पहली, पूरे, नए, नई
+* `Plur` (919; 21% of non-empty `Number`): वाले, पिछले, वाली, वालों, बड़े, नए, अगले, दूसरे, अच्छे, छोटे
+* `Sing` (3440; 79% of non-empty `Number`): वाले, वाली, पिछले, पूरी, पूरा, अगले, पहली, पूरे, नए, नई
 * `EMPTY` (17296): शामिल, अन्य, जारी, पूर्व, भारतीय, तैयार, स्थित, वरिष्ठ, पेश, दर्ज
 
 <table>
@@ -456,14 +456,14 @@ The most frequent other feature values with which `X` and `Number` co-occurred: 
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>PROPN --[<tt><a href="hi_hdtb-dep-compound.html">compound</a></tt>]--> PROPN</tt> (13480; 90%),
+<tt>PROPN --[<tt><a href="hi_hdtb-dep-compound.html">compound</a></tt>]--> PROPN</tt> (13479; 90%),
 <tt>VERB --[<tt><a href="hi_hdtb-dep-obl.html">obl</a></tt>]--> NOUN</tt> (11869; 66%),
 <tt>VERB --[<tt><a href="hi_hdtb-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (9296; 89%),
-<tt>NOUN --[<tt><a href="hi_hdtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (9073; 68%),
+<tt>NOUN --[<tt><a href="hi_hdtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (9076; 68%),
 <tt>VERB --[<tt><a href="hi_hdtb-dep-aux.html">aux</a></tt>]--> AUX</tt> (8982; 98%),
-<tt>NOUN --[<tt><a href="hi_hdtb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (7013; 84%),
-<tt>VERB --[<tt><a href="hi_hdtb-dep-compound.html">compound</a></tt>]--> NOUN</tt> (6621; 78%),
-<tt>VERB --[<tt><a href="hi_hdtb-dep-obj.html">obj</a></tt>]--> NOUN</tt> (6562; 63%),
-<tt>VERB --[<tt><a href="hi_hdtb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (6398; 76%),
-<tt>VERB --[<tt><a href="hi_hdtb-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (5087; 90%).
+<tt>NOUN --[<tt><a href="hi_hdtb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (7016; 84%),
+<tt>VERB --[<tt><a href="hi_hdtb-dep-compound.html">compound</a></tt>]--> NOUN</tt> (6624; 78%),
+<tt>VERB --[<tt><a href="hi_hdtb-dep-obj.html">obj</a></tt>]--> NOUN</tt> (6564; 63%),
+<tt>VERB --[<tt><a href="hi_hdtb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (6360; 76%),
+<tt>VERB --[<tt><a href="hi_hdtb-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (5059; 90%).
 

@@ -86,6 +86,22 @@ perl docs-automation\ghapi\ghapi.pl --finalize UD_Ancient_Greek-PROIEL
 
 
 
+# How to find garbage for cleanup
+
+Sometimes a person asked for a repository and then never put anything in it, so we may want to remove it again.
+The following script finds such repositories (assuming you have clones of all UD repositories on your disk).
+
+In addition, it identifies repositories whose treebank code is impractically long (in the guidelines we
+explicitly ask for this to be _short_ but some authors do not understand what the word means).
+
+Note: The script only works in Linux-style shell, as it calls the `tail` command.
+
+```Shell
+perl tools/find_old_empty_repos.pl
+```
+
+
+
 # How to rename a treebank in UD
 
 **NOTE: It may be better to require that LEGACY treebanks are fully VALID before they can be renamed (see below).**

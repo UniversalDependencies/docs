@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  <em>-</em> (<tt><a href="pl_pdb-pos-PUNCT
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.031250 (the average of all parts of speech is 1.965463).
+The form / lemma ratio of `PUNCT` is 1.031250 (the average of all parts of speech is 1.965431).
 
 The 1st highest number of forms (3) was observed with the lemma “"”: <em>", '', ’’</em>.
 
@@ -54,7 +54,7 @@ Examples: <em>.</em>
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="pl_pdb-dep-punct.html">punct</a></tt> (57873; 100% instances)
 
-Parents of `PUNCT` nodes belong to 16 different parts of speech: <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt> (36614; 63% instances), <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt> (10604; 18% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> (5227; 9% instances), <tt><a href="pl_pdb-pos-PROPN.html">PROPN</a></tt> (1897; 3% instances), <tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt> (1010; 2% instances), <tt><a href="pl_pdb-pos-PUNCT.html">PUNCT</a></tt> (876; 2% instances), <tt><a href="pl_pdb-pos-X.html">X</a></tt> (550; 1% instances), <tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt> (337; 1% instances), <tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (229; 0% instances), <tt><a href="pl_pdb-pos-DET.html">DET</a></tt> (212; 0% instances), <tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (134; 0% instances), <tt><a href="pl_pdb-pos-NUM.html">NUM</a></tt> (105; 0% instances), <tt><a href="pl_pdb-pos-ADP.html">ADP</a></tt> (57; 0% instances), <tt><a href="pl_pdb-pos-SYM.html">SYM</a></tt> (19; 0% instances), <tt><a href="pl_pdb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="pl_pdb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Parents of `PUNCT` nodes belong to 16 different parts of speech: <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt> (36614; 63% instances), <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt> (10606; 18% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> (5255; 9% instances), <tt><a href="pl_pdb-pos-PROPN.html">PROPN</a></tt> (1897; 3% instances), <tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt> (973; 2% instances), <tt><a href="pl_pdb-pos-PUNCT.html">PUNCT</a></tt> (876; 2% instances), <tt><a href="pl_pdb-pos-X.html">X</a></tt> (550; 1% instances), <tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt> (337; 1% instances), <tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (229; 0% instances), <tt><a href="pl_pdb-pos-DET.html">DET</a></tt> (212; 0% instances), <tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (134; 0% instances), <tt><a href="pl_pdb-pos-NUM.html">NUM</a></tt> (105; 0% instances), <tt><a href="pl_pdb-pos-ADP.html">ADP</a></tt> (64; 0% instances), <tt><a href="pl_pdb-pos-SYM.html">SYM</a></tt> (19; 0% instances), <tt><a href="pl_pdb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="pl_pdb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
 57005 (99%) `PUNCT` nodes are leaves.
 

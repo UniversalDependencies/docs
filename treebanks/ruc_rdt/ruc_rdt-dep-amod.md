@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-45 nodes (1%) are attached to their parents as `amod`.
+58 nodes (1%) are attached to their parents as `amod`.
 
-43 instances of `amod` (96%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.17777777777778.
+56 instances of `amod` (97%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.20689655172414.
 
-The following 9 pairs of parts of speech are connected with `amod`: <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-ADJ.html">ADJ</a></tt> (35; 78% instances), <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt> (3; 7% instances), <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="ruc_rdt-pos-PRON.html">PRON</a></tt>-<tt><a href="ruc_rdt-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="ruc_rdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ruc_rdt-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt>-<tt><a href="ruc_rdt-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt>-<tt><a href="ruc_rdt-pos-AUX.html">AUX</a></tt> (1; 2% instances).
+The following 9 pairs of parts of speech are connected with `amod`: <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-ADJ.html">ADJ</a></tt> (47; 81% instances), <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt> (3; 5% instances), <tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt>-<tt><a href="ruc_rdt-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="ruc_rdt-pos-PRON.html">PRON</a></tt>-<tt><a href="ruc_rdt-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="ruc_rdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ruc_rdt-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt>-<tt><a href="ruc_rdt-pos-AUX.html">AUX</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -48,19 +48,17 @@ The following 9 pairs of parts of speech are connected with `amod`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 7 amod	color:blue
-1	Ale	ale	ADV	_	_	2	advmod	2:advmod	Gloss=then|MSeg=ale
-2	nibakinga	kinga	VERB	_	Mood=Ind|NounClass=Bantu2|Person=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-2S-prevent-FV|MSeg=ni-ba-king-a
-3	ennyanja	nnyanja	NOUN	_	NounClass=Bantu9|Referent=Yes	2	obj	2:obj	Gloss=AUG-9.lake|MSeg=e-nnyanja|SpacesAfter=\n
-4	nituswaga	swaga	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Nar|VerbForm=Fin	2	advcl	2:advcl	Gloss=NAR-1plS-look_for-FV|MSeg=ni-tu-swag-a
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 amod	color:blue
+1	olwakubba	olwakubba	SCONJ	_	_	4	mark	4:mark	Gloss=because|MSeg=olwakubba
+2	ebikusiinga	singa	VERB	REL	Aspect=Prog|Mood=Ind|NounClass=Bantu8|Person=3|Referent=Yes|Tense=Pres|VerbForm=Fin	4	csubj	4:csubj	Gloss=S.REL-8S-PROG-be_more_than-FV|MSeg=e-bi-ku-sing-a
+3	obwingi	ingi	ADJ	_	NounClass=Bantu14|Referent=Yes	2	amod	2:amod	Gloss=AUG-14-numerous|MSeg=o-bu-ingi
+4	byatwakaire	akala	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu8|Number=Plur|Person=3|Person[obj]=1|Tense=Past|VerbForm=Fin	0	root	0:root	Gloss=8S-PST-1plO-pass_by:PFV|MSeg=bi-a-tu-akaire
 5	ku	ku	ADV	LOC	NounClass=Bantu17	4	advmod:loc	4:advmod:loc	Gloss=17.LOC|MSeg=ku
-6	omukubi	mukubi	NOUN	_	NounClass=Bantu3|Referent=Yes	4	obj	4:obj	Gloss=AUG-3.sauce|MSeg=o-mukubi
-7	gwonkai	nkai	ADV	_	NounClass=Bantu3|Person=3	6	amod	6:amod	Gloss=3-only|MSeg=gu-nkai|SpaceAfter=No
-8	.	.	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+6	.	.	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
 
 ~~~
 

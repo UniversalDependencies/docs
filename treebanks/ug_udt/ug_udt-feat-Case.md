@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 6 different values: `Abl`, `Acc`, `Dat`, `Gen`, `Loc`, `Nom`.
 
-14523 tokens (36%) have a non-empty value of `Case`.
-4795 types (40%) occur at least once with a non-empty value of `Case`.
+14558 tokens (36%) have a non-empty value of `Case`.
+4799 types (40%) occur at least once with a non-empty value of `Case`.
 2330 lemmas (80%) occur at least once with a non-empty value of `Case`.
-The feature is used with 8 part-of-speech tags: <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (9500; 24% instances), <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> (2218; 6% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> (1430; 4% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (952; 2% instances), <tt><a href="ug_udt-pos-NUM.html">NUM</a></tt> (207; 1% instances), <tt><a href="ug_udt-pos-DET.html">DET</a></tt> (112; 0% instances), <tt><a href="ug_udt-pos-PROPN.html">PROPN</a></tt> (79; 0% instances), <tt><a href="ug_udt-pos-AUX.html">AUX</a></tt> (25; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (9500; 24% instances), <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> (2253; 6% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> (1430; 4% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (952; 2% instances), <tt><a href="ug_udt-pos-NUM.html">NUM</a></tt> (207; 1% instances), <tt><a href="ug_udt-pos-DET.html">DET</a></tt> (112; 0% instances), <tt><a href="ug_udt-pos-PROPN.html">PROPN</a></tt> (79; 0% instances), <tt><a href="ug_udt-pos-AUX.html">AUX</a></tt> (25; 0% instances).
 
 ### `NOUN`
 
@@ -39,23 +39,23 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `PRON`
 
-2218 <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> tokens (82% of all `PRON` tokens) have a non-empty value of `Case`.
+2253 <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> tokens (84% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="ug_udt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1358; 61%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="ug_udt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1540; 68%).
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Abl` (23; 1% of non-empty `Case`): ئۇلاردىن، بىزدىن، سەندىن، مەندىن، ئۆزۈمدىن، ھېلىقى، ئۆزىدىن، سىزدىن، سىلىدىن، مەن
-* `Acc` (145; 7% of non-empty `Case`): ئۇنى، ئۆزىنى، ئۇلارنى، بىزنى، ئۆزۈمنى، سىزنى، ئۆزۈڭنى، سىلىنى، سىلەرنى، سىنى
+* `Abl` (25; 1% of non-empty `Case`): ئۇلاردىن، بىزدىن، سەندىن، مەندىن، ئۆزۈمدىن، ئۇنىڭدىنمۇ، ھېلىقى، ئۆزىدىن، سىزدىن، سىلىدىن
+* `Acc` (178; 8% of non-empty `Case`): ئۇنى، مېنى، ئۆزىنى، ئۇلارنى، بىزنى، ئۆزۈمنى، سىزنى، ئۆزۈڭنى، سىلىنى، سىلەرنى
 * `Dat` (135; 6% of non-empty `Case`): ئۇنىڭغا، ماڭا، ئۇلارغا، ساڭا، سىلەرگە، ئۆزۈمگە
 * `Gen` (306; 14% of non-empty `Case`): ئۇنىڭ، ئۇلارنىڭ، مېنىڭ، بىزنىڭ، ئۆزىنىڭ، شۇنىڭ، بۇنىڭ، ئۆزۈمنىڭ، سىزنىڭ، بۇلارنىڭ
 * `Loc` (8; 0% of non-empty `Case`): ئۇنىڭدا، سەندە، مەندە، ئۆزىدە، ئۇلاردا
-* `Nom` (1601; 72% of non-empty `Case`): بۇ، ئۇ، مەن، ئەڭ، سەن، ئۇلار، شۇ، بىز، ئۆز، ئاشۇ
-* `EMPTY` (478): سېنىڭ، مېنى، ھېلىقى، بۇنى، بىزگە، ئۇنىڭدىن، مەنمۇ، ئۆزىگە، سىزگە، مۇشۇنداق
+* `Nom` (1601; 71% of non-empty `Case`): بۇ، ئۇ، مەن، ئەڭ، سەن، ئۇلار، شۇ، بىز، ئۆز، ئاشۇ
+* `EMPTY` (443): سېنىڭ، ھېلىقى، بۇنى، بىزگە، ئۇنىڭدىن، مەنمۇ، ئۆزىگە، سىزگە، مۇشۇنداق، ھەممىسى
 
 <table>
-  <tr><th>Paradigm <i>مەن</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Abl</tt></th></tr>
-  <tr><td><tt></tt></td><td>مەن</td><td>مىنى</td><td>ماڭا</td><td>مېنىڭ</td><td>مەندە</td><td>مەندىن, مەن</td></tr>
+  <tr><th>Paradigm <i>ئۇ</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Abl</tt></th></tr>
+  <tr><td><tt></tt></td><td>ئۇ</td><td>ئۇنى</td><td>ئۇنىڭغا</td><td>ئۇنىڭ</td><td>ئۇنىڭدا</td><td>ئۇنىڭدىنمۇ</td></tr>
 </table>
 
 ### `ADJ`

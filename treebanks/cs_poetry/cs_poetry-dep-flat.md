@@ -46,7 +46,7 @@ The following 5 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 flat	color:blue
-1	Tak	tak	CCONJ	Db-------------	_	6	advmod	_	_
+1	Tak	tak	ADV	Db-------------	PronType=Dem	6	advmod	_	_
 2	kdys	kdysi	ADV	Db-------------	PronType=Ind	6	advmod	_	_
 3	předek	předek	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
 4	pohan	pohan	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	flat	_	_

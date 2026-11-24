@@ -64,7 +64,7 @@ The following 6 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
 # visual-style 13 15 compound	color:blue
-1	Чи	чи	PART	PART	_	4	discourse	_	_
+1	Чи	чи	PART	PART	_	4	advmod	_	_
 2	ще	ще	ADV	ADV	_	4	advmod	_	_
 3	не	не	PART	PART	Polarity=Neg	4	advmod:neg	_	_
 4	прийшов	прийти	VERB	VERB	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	_

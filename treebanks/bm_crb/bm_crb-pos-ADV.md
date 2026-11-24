@@ -74,7 +74,7 @@ Examples: <em>yen, dòròn, yan, sisan, ten, ti, tugun, kosèbè, tuguni, bada</
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 7 different relations: <tt><a href="bm_crb-dep-obl.html">obl</a></tt> (154; 85% instances), <tt><a href="bm_crb-dep-advmod.html">advmod</a></tt> (23; 13% instances), <tt><a href="bm_crb-dep-advcl.html">advcl</a></tt> (1; 1% instances), <tt><a href="bm_crb-dep-compound-redup.html">compound:redup</a></tt> (1; 1% instances), <tt><a href="bm_crb-dep-discourse.html">discourse</a></tt> (1; 1% instances), <tt><a href="bm_crb-dep-mark.html">mark</a></tt> (1; 1% instances), <tt><a href="bm_crb-dep-obj.html">obj</a></tt> (1; 1% instances)
+`ADV` nodes are attached to their parents using 7 different relations: <tt><a href="bm_crb-dep-obl.html">obl</a></tt> (152; 84% instances), <tt><a href="bm_crb-dep-advmod.html">advmod</a></tt> (25; 14% instances), <tt><a href="bm_crb-dep-advcl.html">advcl</a></tt> (1; 1% instances), <tt><a href="bm_crb-dep-compound-redup.html">compound:redup</a></tt> (1; 1% instances), <tt><a href="bm_crb-dep-discourse.html">discourse</a></tt> (1; 1% instances), <tt><a href="bm_crb-dep-mark.html">mark</a></tt> (1; 1% instances), <tt><a href="bm_crb-dep-obj.html">obj</a></tt> (1; 1% instances)
 
 Parents of `ADV` nodes belong to 3 different parts of speech: <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> (179; 98% instances), <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> (1; 1% instances)
 

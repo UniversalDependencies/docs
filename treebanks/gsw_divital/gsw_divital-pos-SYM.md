@@ -13,7 +13,7 @@ The 10 most frequent `SYM` lemmas: <em>_</em>
 
 The 10 most frequent `SYM` types:  <em>%, *, †, &, n°</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="gsw_divital-pos-PUNCT.html">PUNCT</a></tt> 3196, <tt><a href="gsw_divital-pos-NOUN.html">NOUN</a></tt> 2914, <tt><a href="gsw_divital-pos-DET.html">DET</a></tt> 2712, <tt><a href="gsw_divital-pos-VERB.html">VERB</a></tt> 1796, <tt><a href="gsw_divital-pos-ADP.html">ADP</a></tt> 1640, <tt><a href="gsw_divital-pos-PRON.html">PRON</a></tt> 1458, <tt><a href="gsw_divital-pos-ADV.html">ADV</a></tt> 1365, <tt><a href="gsw_divital-pos-AUX.html">AUX</a></tt> 1350, <tt><a href="gsw_divital-pos-ADJ.html">ADJ</a></tt> 1096, <tt><a href="gsw_divital-pos-CCONJ.html">CCONJ</a></tt> 729, <tt><a href="gsw_divital-pos-PROPN.html">PROPN</a></tt> 413, <tt><a href="gsw_divital-pos-PART.html">PART</a></tt> 313, <tt><a href="gsw_divital-pos-SCONJ.html">SCONJ</a></tt> 313, <tt><a href="gsw_divital-pos-NUM.html">NUM</a></tt> 222, <tt><a href="gsw_divital-pos-INTJ.html">INTJ</a></tt> 169, <tt><a href="gsw_divital-pos-X.html">X</a></tt> 46, <tt><a href="gsw_divital-pos-SYM.html">SYM</a></tt> 11)
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="gsw_divital-pos-PUNCT.html">PUNCT</a></tt> 3196, <tt><a href="gsw_divital-pos-NOUN.html">NOUN</a></tt> 2914, <tt><a href="gsw_divital-pos-DET.html">DET</a></tt> 2712, <tt><a href="gsw_divital-pos-VERB.html">VERB</a></tt> 1796, <tt><a href="gsw_divital-pos-ADP.html">ADP</a></tt> 1639, <tt><a href="gsw_divital-pos-PRON.html">PRON</a></tt> 1458, <tt><a href="gsw_divital-pos-ADV.html">ADV</a></tt> 1365, <tt><a href="gsw_divital-pos-AUX.html">AUX</a></tt> 1350, <tt><a href="gsw_divital-pos-ADJ.html">ADJ</a></tt> 1096, <tt><a href="gsw_divital-pos-CCONJ.html">CCONJ</a></tt> 730, <tt><a href="gsw_divital-pos-PROPN.html">PROPN</a></tt> 413, <tt><a href="gsw_divital-pos-PART.html">PART</a></tt> 313, <tt><a href="gsw_divital-pos-SCONJ.html">SCONJ</a></tt> 313, <tt><a href="gsw_divital-pos-NUM.html">NUM</a></tt> 222, <tt><a href="gsw_divital-pos-INTJ.html">INTJ</a></tt> 169, <tt><a href="gsw_divital-pos-X.html">X</a></tt> 46, <tt><a href="gsw_divital-pos-SYM.html">SYM</a></tt> 11)
 
 The 10 most frequent ambiguous types:  <em>*</em> (<tt><a href="gsw_divital-pos-SYM.html">SYM</a></tt> 2, <tt><a href="gsw_divital-pos-ADV.html">ADV</a></tt> 1), <em>†</em> (<tt><a href="gsw_divital-pos-SYM.html">SYM</a></tt> 2, <tt><a href="gsw_divital-pos-CCONJ.html">CCONJ</a></tt> 1)
 
@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>*</em> (<tt><a href="gsw_divital-pos-
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 5.000000 (the average of all parts of speech is 312.588235).
+The form / lemma ratio of `SYM` is 5.000000 (the average of all parts of speech is 312.529412).
 
 The 1st highest number of forms (5) was observed with the lemma “_”: <em>%, &, *, n°, †</em>.
 

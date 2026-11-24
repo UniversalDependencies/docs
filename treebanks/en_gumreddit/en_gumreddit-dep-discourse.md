@@ -23,7 +23,7 @@ The following 18 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 6	fgColor:white
 # visual-style 6 1 discourse	color:blue
 1	_	_	INTJ	UH	_	6	discourse	6:discourse	Discourse=topic-question:90->92:0:lex-indwd-561-_+syn-sbinv-562-_+grf-qst-567-_|Lem=*LOWER*|Len=4
-2	_	_	PRON	WP	PronType=Int	6	obj	6:obj	CxnElt=6:Interrogative-WHInfo-Direct.WHWord|Lem=_|Len=4
+2	_	_	PRON	WP	Case=Acc|PronType=Int	6	obj	6:obj	CxnElt=6:Interrogative-WHInfo-Direct.WHWord|Lem=_|Len=4
 3	_	_	AUX	MD	VerbForm=Fin	6	aux	6:aux	Lem=_|Len=5
 4	_	_	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj	6:nsubj	Entity=(23-organization-giv:act-nnsss-cf1*-1-ana)|Lem=_|Len=4
 5	_	_	AUX	VB	VerbForm=Inf	6	aux	6:aux	Lem=_|Len=2
@@ -57,7 +57,7 @@ The following 18 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 5 4 discourse	color:blue
 1	_	_	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	5:nsubj	Discourse=joint-other_m:63->59:2:lex-indwd-383-_|Entity=(2-person-giv:inact-sssss-cf1-1-ana)|Lem=*LOWER*|Len=2
 2	_	_	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	cop	5:cop	Lem=be|Len=3
-3	_	_	ADV	RB	Degree=Pos	5	advmod	5:advmod	Lem=_|Len=3
+3	_	_	ADV	RB	_	5	advmod	5:advmod	Lem=_|Len=3
 4	_	_	INTJ	UH	_	5	discourse	5:discourse	Lem=_|Len=7|MSeg=fuck-ing
 5	_	_	ADJ	JJ	Degree=Pos	0	root	0:root	Lem=_|Len=4
 6	_	_	ADP	IN	_	7	case	7:case	Lem=_|Len=2

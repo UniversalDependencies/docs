@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-55 nodes (0%) are attached to their parents as `dislocated`.
+54 nodes (0%) are attached to their parents as `dislocated`.
 
-48 instances of `dislocated` (87%) are right-to-left (child precedes parent).
-Average distance between parent and child is 12.3636363636364.
+47 instances of `dislocated` (87%) are right-to-left (child precedes parent).
+Average distance between parent and child is 12.3148148148148.
 
-The following 11 pairs of parts of speech are connected with `dislocated`: <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (25; 45% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt> (11; 20% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (6; 11% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-PRON.html">PRON</a></tt> (4; 7% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt> (2; 4% instances), <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt>-<tt><a href="sd_isra-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> (1; 2% instances).
+The following 11 pairs of parts of speech are connected with `dislocated`: <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (24; 44% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt> (11; 20% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (6; 11% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-PRON.html">PRON</a></tt> (4; 7% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt> (2; 4% instances), <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt>-<tt><a href="sd_isra-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -46,9 +46,9 @@ The following 11 pairs of parts of speech are connected with `dislocated`: <tt><
 # visual-style 14 1 dislocated	color:blue
 1	سيارو	_	PROPN	NNP	Case=Nom|Gender=Masc	14	dislocated	_	SpaceAfter=No
 2	،	،	PUNCT	PUNCT	_	3	punct	_	_
-3	اونهارو	_	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	SpaceAfter=No
+3	اونهارو	اونهارو	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	SpaceAfter=No
 4	،	،	PUNCT	PUNCT	_	3	punct	_	_
-5	بهار	_	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	SpaceAfter=No
+5	بهار	بهار	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	SpaceAfter=No
 6	،	،	PUNCT	PUNCT	_	5	punct	_	_
 7	خزان	_	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	SpaceAfter=No
 8	،	،	PUNCT	PUNCT	_	7	punct	_	_

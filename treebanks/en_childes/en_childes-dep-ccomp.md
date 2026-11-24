@@ -30,7 +30,7 @@ The following 39 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 6	played	play	VERB	VBD	_	3	ccomp	3:ccomp	_
 7	with	with	ADP	IN	_	8	case	8:case	_
 8	them	they	PRON	PRP	_	6	obl	6:obl:with	SpaceAfter=No
-9	?	?	PUNCT	?	_	3	punct	3:punct	_
+9	?	?	PUNCT	.	_	3	punct	3:punct	_
 
 ~~~
 

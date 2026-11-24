@@ -12,27 +12,27 @@ It occurs with 3 different values: `Fin`, `Inf`, `Part`.
 5748 tokens (13%) have a non-empty value of `VerbForm`.
 1365 types (30%) occur at least once with a non-empty value of `VerbForm`.
 601 lemmas (18%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 3 part-of-speech tags: <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt> (4080; 9% instances), <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> (1666; 4% instances), <tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt> (2; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt> (4068; 9% instances), <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> (1678; 4% instances), <tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt> (2; 0% instances).
 
 ### `VERB`
 
-4080 <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt> tokens (98% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+4068 <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt> tokens (98% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="fr_rhapsodie-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (3499; 86%), <tt><a href="fr_rhapsodie-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3376; 83%), <tt><a href="fr_rhapsodie-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2518; 62%), <tt><a href="fr_rhapsodie-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2355; 58%), <tt><a href="fr_rhapsodie-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2170; 53%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="fr_rhapsodie-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (3487; 86%), <tt><a href="fr_rhapsodie-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3364; 83%), <tt><a href="fr_rhapsodie-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2508; 62%), <tt><a href="fr_rhapsodie-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2343; 58%), <tt><a href="fr_rhapsodie-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2216; 54%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (2525; 62% of non-empty `VerbForm`): <em>a, est, va, faut, allez, ai, peut, avait, crois, sais</em>
+* `Fin` (2513; 62% of non-empty `VerbForm`): <em>a, est, va, faut, allez, peut, ai, avait, crois, sais</em>
 * `Inf` (792; 19% of non-empty `VerbForm`): <em>dire, faire, avoir, aller, voir, passer, travailler, arriver, mettre, apprendre</em>
 * `Part` (763; 19% of non-empty `VerbForm`): <em>dit, fait, eu, pu, travaillé, vu, arrivé, compris, vécu, été</em>
 * `EMPTY` (69): <em>voilà, voici</em>
 
 <table>
   <tr><th>Paradigm <i>avoir</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>
-  <tr><td><tt>_</tt></td><td></td><td><em>avoir</em></td><td><em>ayant</em></td></tr>
-  <tr><td><tt><tt><a href="fr_rhapsodie-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_rhapsodie-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>eu</em></td></tr>
-  <tr><td><tt><tt><a href="fr_rhapsodie-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_rhapsodie-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_rhapsodie-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>eu</em></td></tr>
-  <tr><td><tt><tt><a href="fr_rhapsodie-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_rhapsodie-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_rhapsodie-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>eus</em></td></tr>
+  <tr><td><tt>_</tt></td><td></td><td><em>avoir</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="fr_rhapsodie-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_rhapsodie-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_rhapsodie-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>eu</em></td></tr>
+  <tr><td><tt><tt><a href="fr_rhapsodie-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_rhapsodie-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_rhapsodie-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="fr_rhapsodie-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>eu</em></td></tr>
+  <tr><td><tt><tt><a href="fr_rhapsodie-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_rhapsodie-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_rhapsodie-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="fr_rhapsodie-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>eus</em></td></tr>
   <tr><td><tt><tt><a href="fr_rhapsodie-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fr_rhapsodie-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_rhapsodie-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="fr_rhapsodie-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>aurai</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fr_rhapsodie-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fr_rhapsodie-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_rhapsodie-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="fr_rhapsodie-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>avais</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fr_rhapsodie-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fr_rhapsodie-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_rhapsodie-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="fr_rhapsodie-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>ai</em></td><td></td><td></td></tr>
@@ -49,17 +49,18 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
   <tr><td><tt><tt><a href="fr_rhapsodie-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="fr_rhapsodie-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_rhapsodie-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="fr_rhapsodie-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>aie</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fr_rhapsodie-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="fr_rhapsodie-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_rhapsodie-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fr_rhapsodie-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>ait</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fr_rhapsodie-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="fr_rhapsodie-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_rhapsodie-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="fr_rhapsodie-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>ayez</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="fr_rhapsodie-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>ayant</em></td></tr>
 </table>
 
 ### `AUX`
 
-1666 <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+1678 <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="fr_rhapsodie-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1507; 90%), <tt><a href="fr_rhapsodie-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1369; 82%), <tt><a href="fr_rhapsodie-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1357; 81%), <tt><a href="fr_rhapsodie-feat-Person.html">Person</a></tt><tt>=3</tt> (1242; 75%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="fr_rhapsodie-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1519; 91%), <tt><a href="fr_rhapsodie-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1380; 82%), <tt><a href="fr_rhapsodie-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1367; 81%), <tt><a href="fr_rhapsodie-feat-Person.html">Person</a></tt><tt>=3</tt> (1246; 74%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Fin` (1549; 93% of non-empty `VerbForm`): <em>est, a, ai, était, sont, suis, ont, avez, êtes, avait</em>
+* `Fin` (1561; 93% of non-empty `VerbForm`): <em>est, a, ai, était, sont, suis, ont, avez, êtes, avait</em>
 * `Inf` (68; 4% of non-empty `VerbForm`): <em>être, faire, avoir</em>
 * `Part` (49; 3% of non-empty `VerbForm`): <em>été, fait, ayant, faisant, étant</em>
 
@@ -106,19 +107,19 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 `ADJ` tokens may have the following values of `VerbForm`:
 
 * `Part` (2; 100% of non-empty `VerbForm`): <em>entendu, étonnée</em>
-* `EMPTY` (1559): <em>tout, petit, tous, jeune, autre, grande, vrai, droit, même, premier</em>
+* `EMPTY` (1560): <em>tout, petit, tous, jeune, autre, grande, vrai, droit, même, premier</em>
 
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="fr_rhapsodie-dep-conj.html">conj</a></tt>]--> VERB</tt> (111; 83%),
-<tt>VERB --[<tt><a href="fr_rhapsodie-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (111; 81%),
-<tt>VERB --[<tt><a href="fr_rhapsodie-dep-discourse.html">discourse</a></tt>]--> VERB</tt> (16; 52%),
-<tt>VERB --[<tt><a href="fr_rhapsodie-dep-reparandum.html">reparandum</a></tt>]--> AUX</tt> (14; 70%),
+<tt>VERB --[<tt><a href="fr_rhapsodie-dep-conj.html">conj</a></tt>]--> VERB</tt> (119; 83%),
+<tt>VERB --[<tt><a href="fr_rhapsodie-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (68; 96%),
+<tt>VERB --[<tt><a href="fr_rhapsodie-dep-conj-reform.html">conj:reform</a></tt>]--> VERB</tt> (41; 91%),
 <tt>VERB --[<tt><a href="fr_rhapsodie-dep-parataxis-insert.html">parataxis:insert</a></tt>]--> VERB</tt> (7; 70%),
 <tt>VERB --[<tt><a href="fr_rhapsodie-dep-parataxis-parenth.html">parataxis:parenth</a></tt>]--> VERB</tt> (7; 70%),
-<tt>AUX --[<tt><a href="fr_rhapsodie-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (5; 83%),
-<tt>AUX --[<tt><a href="fr_rhapsodie-dep-reparandum.html">reparandum</a></tt>]--> AUX</tt> (5; 100%),
-<tt>AUX --[<tt><a href="fr_rhapsodie-dep-discourse.html">discourse</a></tt>]--> VERB</tt> (4; 80%),
-<tt>VERB --[<tt><a href="fr_rhapsodie-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (3; 75%).
+<tt>AUX --[<tt><a href="fr_rhapsodie-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (4; 80%),
+<tt>AUX --[<tt><a href="fr_rhapsodie-dep-reparandum.html">reparandum</a></tt>]--> AUX</tt> (4; 100%),
+<tt>VERB --[<tt><a href="fr_rhapsodie-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (3; 75%),
+<tt>AUX --[<tt><a href="fr_rhapsodie-dep-discourse.html">discourse</a></tt>]--> VERB</tt> (2; 67%),
+<tt>VERB --[<tt><a href="fr_rhapsodie-dep-appos.html">appos</a></tt>]--> VERB</tt> (2; 100%).
 

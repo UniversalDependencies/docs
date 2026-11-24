@@ -31,7 +31,7 @@ The following 13 pairs of parts of speech are connected with `advcl:cleft`: <tt>
 7	audace	audace	NOUN	_	Gender=Fem|Number=Sing	2	conj	_	Exponence[Gender]=Inherent
 8	qui	qui	PRON	_	PronType=Rel	10	nsubj:pass	_	_
 9	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux:pass	_	Filler=subj
-10	récompensée	récompenser	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	7	advcl:cleft	_	SpaceAfter=No|Tense[denom]=Past
+10	récompensée	récompenser	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	7	advcl:cleft	_	SpaceAfter=No|Status[Tense]=Denom
 11	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~

@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 3 language-specific subtypes of `obl`: <tt><a href="fr_parisstories-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="fr_parisstories-dep-obl-arg.html">obl:arg</a></tt>, <tt><a href="fr_parisstories-dep-obl-mod.html">obl:mod</a></tt>.
 
-11 nodes (0%) are attached to their parents as `obl`.
+12 nodes (0%) are attached to their parents as `obl`.
 
-10 instances of `obl` (91%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.
+11 instances of `obl` (92%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.91666666666667.
 
-The following 4 pairs of parts of speech are connected with `obl`: <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (6; 55% instances), <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (3; 27% instances), <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (1; 9% instances), <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (1; 9% instances).
+The following 4 pairs of parts of speech are connected with `obl`: <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (7; 58% instances), <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (3; 25% instances), <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (1; 8% instances), <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (1; 8% instances).
 
 
 ~~~ conllu
@@ -51,7 +51,7 @@ The following 4 pairs of parts of speech are connected with `obl`: <tt><a href="
 # visual-style 11 7 obl	color:blue
 1	hein	hein	INTJ	_	_	11	discourse	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	_
-3	euh	euh	INTJ	_	_	11	discourse	_	SpaceAfter=No
+3	euh	euh	INTJ	_	_	11	discourse:filler	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_
 5	comme	comme	ADP	_	_	7	case	_	_
 6	d'	de	ADP	_	_	7	case	_	SpaceAfter=No
@@ -74,11 +74,11 @@ The following 4 pairs of parts of speech are connected with `obl`: <tt><a href="
 1	donc	donc	ADV	_	_	6	advmod	_	_
 2	que	que	SCONJ	_	_	1	dep	_	Scrap=Yes
 3	ouais	ouais	INTJ	_	_	6	discourse	_	_
-4	euh	euh	INTJ	_	_	6	discourse	_	_
+4	euh	euh	INTJ	_	_	6	discourse:filler	_	_
 5	je	moi	PRON	_	Case=Nom|Emph=No|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	Exponence[Number]=Inherent|Exponence[Person]=Inherent
 6	pense	penser	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Exponence[Person]=Absent
 7	que	que	SCONJ	_	_	12	mark	_	_
-8	euh	euh	INTJ	_	_	12	discourse	_	_
+8	euh	euh	INTJ	_	_	12	discourse:filler	_	_
 9	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	12	nsubj	_	Exponence[Gender]=Inherent|Exponence[Number]=Inherent|Exponence[Person]=Inherent|SpaceAfter=No
 10	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
 11	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_

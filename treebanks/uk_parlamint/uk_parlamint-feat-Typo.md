@@ -9,22 +9,22 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-104 tokens (0%) have a non-empty value of `Typo`.
-86 types (1%) occur at least once with a non-empty value of `Typo`.
-90 lemmas (1%) occur at least once with a non-empty value of `Typo`.
-The feature is used with 11 part-of-speech tags: <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (36; 0% instances), <tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt> (13; 0% instances), <tt><a href="uk_parlamint-pos-DET.html">DET</a></tt> (12; 0% instances), <tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt> (10; 0% instances), <tt><a href="uk_parlamint-pos-PROPN.html">PROPN</a></tt> (10; 0% instances), <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt> (7; 0% instances), <tt><a href="uk_parlamint-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="uk_parlamint-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="uk_parlamint-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-X.html">X</a></tt> (1; 0% instances).
+105 tokens (0%) have a non-empty value of `Typo`.
+88 types (1%) occur at least once with a non-empty value of `Typo`.
+92 lemmas (1%) occur at least once with a non-empty value of `Typo`.
+The feature is used with 11 part-of-speech tags: <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (38; 0% instances), <tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt> (13; 0% instances), <tt><a href="uk_parlamint-pos-DET.html">DET</a></tt> (12; 0% instances), <tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt> (10; 0% instances), <tt><a href="uk_parlamint-pos-PROPN.html">PROPN</a></tt> (10; 0% instances), <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt> (7; 0% instances), <tt><a href="uk_parlamint-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="uk_parlamint-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="uk_parlamint-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-36 <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Typo`.
+38 <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="uk_parlamint-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (28; 78%), <tt><a href="uk_parlamint-feat-Number.html">Number</a></tt><tt>=Sing</tt> (24; 67%).
+The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="uk_parlamint-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (29; 76%), <tt><a href="uk_parlamint-feat-Number.html">Number</a></tt><tt>=Sing</tt> (25; 66%).
 
 `NOUN` tokens may have the following values of `Typo`:
 
-* `Yes` (36; 100% of non-empty `Typo`): <em>напрямкам, не, уособлення, Голову, Держжитлокомунгос, Мінюсті, НКРЄ, Стрижнем, депутати, категоріям</em>
+* `Yes` (38; 100% of non-empty `Typo`): <em>напрямкам, не, уособлення, Голову, Держжитлокомунгос, Мінюсті, НКРЄ, Стрижнем, виконання, депутати</em>
 
-`Typo` seems to be **lexical feature** of `NOUN`. 100% lemmas (34) occur only with one value of `Typo`.
+`Typo` seems to be **lexical feature** of `NOUN`. 100% lemmas (36) occur only with one value of `Typo`.
 
 ### `ADJ`
 
@@ -94,11 +94,11 @@ The most frequent other feature values with which `ADP` and `Typo` co-occurred: 
 
 ### `PUNCT`
 
-6 <tt><a href="uk_parlamint-pos-PUNCT.html">PUNCT</a></tt> tokens (0% of all `PUNCT` tokens) have a non-empty value of `Typo`.
+5 <tt><a href="uk_parlamint-pos-PUNCT.html">PUNCT</a></tt> tokens (0% of all `PUNCT` tokens) have a non-empty value of `Typo`.
 
 `PUNCT` tokens may have the following values of `Typo`:
 
-* `Yes` (6; 100% of non-empty `Typo`): <em>., ...</em>
+* `Yes` (5; 100% of non-empty `Typo`): <em>., ...</em>
 
 ### `PRON`
 
@@ -131,6 +131,6 @@ The most frequent other feature values with which `X` and `Typo` co-occurred: <t
 ## Relations with Agreement in `Typo`
 
 The 10 most frequent relations where parent and child node agree in `Typo`:
-<tt>NOUN --[<tt><a href="uk_parlamint-dep-appos.html">appos</a></tt>]--> NOUN</tt> (1; 100%),
-<tt>NOUN --[<tt><a href="uk_parlamint-dep-det-nummod.html">det:nummod</a></tt>]--> DET</tt> (1; 100%).
+<tt>NOUN --[<tt><a href="uk_parlamint-dep-det-nummod.html">det:nummod</a></tt>]--> DET</tt> (1; 100%),
+<tt>NOUN --[<tt><a href="uk_parlamint-dep-flat.html">flat</a></tt>]--> PROPN</tt> (1; 100%).
 

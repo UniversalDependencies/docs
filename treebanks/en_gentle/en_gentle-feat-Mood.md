@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Imp`, `Ind`.
 
-1033 tokens (6%) have a non-empty value of `Mood`.
-339 types (9%) occur at least once with a non-empty value of `Mood`.
-239 lemmas (8%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (570; 3% instances), <tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> (463; 3% instances).
+1035 tokens (6%) have a non-empty value of `Mood`.
+337 types (9%) occur at least once with a non-empty value of `Mood`.
+238 lemmas (8%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 2 part-of-speech tags: <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (568; 3% instances), <tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> (467; 3% instances).
 
 ### `VERB`
 
-570 <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> tokens (34% of all `VERB` tokens) have a non-empty value of `Mood`.
+568 <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> tokens (34% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="en_gentle-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (570; 100%), <tt><a href="en_gentle-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (570; 100%), <tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=Sing</tt> (448; 79%), <tt><a href="en_gentle-feat-Person.html">Person</a></tt><tt>=3</tt> (332; 58%), <tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (289; 51%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="en_gentle-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (568; 100%), <tt><a href="en_gentle-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (568; 100%), <tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=Sing</tt> (445; 78%), <tt><a href="en_gentle-feat-Person.html">Person</a></tt><tt>=3</tt> (333; 59%), <tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (289; 51%).
 
 `VERB` tokens may have the following values of `Mood`:
 
-* `Imp` (84; 15% of non-empty `Mood`): <em>let, Suppose, see, tell, consider, take, Call, get, Install, Leave</em>
-* `Ind` (486; 85% of non-empty `Mood`): <em>has, have, said, follows, is, know, had, took, think, Quoth</em>
-* `EMPTY` (1083): <em>gon, have, do, get, see, make, following, become, take, try</em>
+* `Imp` (81; 14% of non-empty `Mood`): <em>let, Suppose, see, tell, consider, Call, get, take, Install, Leave</em>
+* `Ind` (487; 86% of non-empty `Mood`): <em>has, have, said, follows, is, know, had, took, think, Quoth</em>
+* `EMPTY` (1088): <em>gon, have, do, get, see, make, following, take, become, try</em>
 
 <table>
   <tr><th>Paradigm <i>do</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th></tr>
@@ -41,15 +41,15 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 ### `AUX`
 
-463 <tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> tokens (61% of all `AUX` tokens) have a non-empty value of `Mood`.
+467 <tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> tokens (62% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="en_gentle-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (463; 100%), <tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (385; 83%), <tt><a href="en_gentle-feat-Person.html">Person</a></tt><tt>=3</tt> (383; 83%), <tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=Sing</tt> (382; 83%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="en_gentle-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (467; 100%), <tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=Sing</tt> (386; 83%), <tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (385; 82%), <tt><a href="en_gentle-feat-Person.html">Person</a></tt><tt>=3</tt> (383; 82%).
 
 `AUX` tokens may have the following values of `Mood`:
 
-* `Imp` (1; 0% of non-empty `Mood`): <em>be</em>
-* `Ind` (462; 100% of non-empty `Mood`): <em>is, was, are, 's, has, do, 'm, 're, 've, have</em>
-* `EMPTY` (290): <em>be, will, can, been, may, would, should, could, shall, must</em>
+* `Imp` (5; 1% of non-empty `Mood`): <em>do, be</em>
+* `Ind` (462; 99% of non-empty `Mood`): <em>is, was, are, 's, has, do, 'm, 're, 've, have</em>
+* `EMPTY` (286): <em>be, will, can, been, may, would, should, could, shall, must</em>
 
 <table>
   <tr><th>Paradigm <i>be</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th></tr>

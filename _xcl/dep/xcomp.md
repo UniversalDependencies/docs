@@ -16,4 +16,4 @@ xcomp(cannot, hid)
 Contrast `xcomp` with other complement clauses where there is an overt subject or no obligatory control, which use [ccomp]().
 
 Note that `xcomp` is used for core arguments of predicates so it will not be used for non-core instances of secondary predication with the relation [advcl]().
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:45 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:39:14 CET -->

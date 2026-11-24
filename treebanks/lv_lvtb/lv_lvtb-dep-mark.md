@@ -11,7 +11,7 @@ This relation is universal.
 7028 nodes (2%) are attached to their parents as `mark`.
 
 7025 instances of `mark` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.50241889584519.
+Average distance between parent and child is 3.50256118383608.
 
 The following 28 pairs of parts of speech are connected with `mark`: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (5305; 75% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (879; 13% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (419; 6% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (176; 3% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (43; 1% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt>-<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (36; 1% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (36; 1% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (20; 0% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (18; 0% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (18; 0% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (16; 0% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (10; 0% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt>-<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (9; 0% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt>-<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt>-<tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt>-<tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt>-<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
@@ -40,44 +40,38 @@ The following 28 pairs of parts of speech are connected with `mark`: <tt><a href
 ~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 mark	color:blue
-1	Sēdēja	sēdēt	VERB	vmnisi330an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-d197-p23s2w1
-2	liels	liels	ADJ	afmsnnp	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	1	xcomp	1:xcomp	LvtbNodeId=a-d197-p23s2w2
-3	kā	kā	SCONJ	cs	_	4	mark	4:mark	LvtbNodeId=a-d197-p23s2w3
-4	māja	māja	NOUN	ncfsn4	Case=Nom|Gender=Fem|Number=Sing	2	advcl	2:advcl:kā	LvtbNodeId=a-d197-p23s2w4
-5	un	un	CCONJ	cc	_	7	cc	7:cc	LvtbNodeId=a-d197-p23s2w5
-6	tikai	tikai	PART	q	_	7	discourse	7:discourse	LvtbNodeId=a-d197-p23s2w6
-7	skatījās	skatīties	VERB	vmyisi330an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Reflex=Yes|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	1:conj	LvtbNodeId=a-d197-p23s2w7|SpaceAfter=No
-8	.	.	PUNCT	zs	_	1	punct	1:punct	LvtbNodeId=a-d197-p23s2w8
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 3 mark	color:blue
+1	Ilze	Ilze	PROPN	npfsn5	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	2:nsubj	LvtbNodeId=a-d87-p507s3w1
+2	brēc	brēkt	VERB	vmnipt130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-d87-p507s3w2
+3	kā	kā	SCONJ	cs	_	6	mark	6:mark	LvtbNodeId=a-d87-p507s3w3
+4	vārtrūmē	vārtrūme	NOUN	ncfsl5	Case=Loc|Gender=Fem|Number=Sing	5	obl	5:obl:loc	LvtbNodeId=a-d87-p507s3w4
+5	pamests	pamest	VERB	vmnpdmsnpsnpn	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	6	amod	6:amod	LvtbNodeId=a-d87-p507s3w5
+6	kaķēns	kaķēns	NOUN	ncmsn1	Case=Nom|Gender=Masc|Number=Sing	2	advcl	2:advcl:kā	LvtbNodeId=a-d87-p507s3w6|SpaceAfter=No
+7	.	.	PUNCT	zs	_	2	punct	2:punct	LvtbNodeId=a-d87-p507s3w7
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 16 13 mark	color:blue
-1	Vai	vai	CCONJ	cc	ExtPos=CCONJ	4	cc	4:cc	LvtbNodeId=a-d197-p89s4w1
-2	arī	arī	PART	q	_	1	fixed	1:fixed	LvtbNodeId=a-d197-p89s4w2
-3	no	no	ADP	spsg	_	4	case	4:case	LvtbNodeId=a-d197-p89s4w3
-4	zelta	zelts	NOUN	ncmvg1	Case=Gen|Gender=Masc|Number=Coll	0	root	0:root	LvtbNodeId=a-d197-p89s4w4|SpaceAfter=No
-5	,	,	PUNCT	zc	_	11	punct	11:punct	LvtbNodeId=a-d197-p89s4w5
-6	jā	jā	PART	q	Polarity=Pos	11	discourse	11:discourse	LvtbNodeId=a-d197-p89s4w6|SpaceAfter=No
-7	,	,	PUNCT	zc	_	6	punct	6:punct	LvtbNodeId=a-d197-p89s4w7
-8	droši	droši	PART	q	ExtPos=PART	11	advmod:emph	11:advmod:emph	LvtbNodeId=a-d197-p89s4w8
-9	vien	vien	PART	q	_	8	fixed	8:fixed	LvtbNodeId=a-d197-p89s4w9
-10	no	no	ADP	spsg	_	11	case	11:case	LvtbNodeId=a-d197-p89s4w10
-11	zelta	zelts	NOUN	ncmvg1	Case=Gen|Gender=Masc|Number=Coll	4	conj	4:conj	LvtbNodeId=a-d197-p89s4w11|SpaceAfter=No
-12	,	,	PUNCT	zc	_	16	punct	16:punct	LvtbNodeId=a-d197-p89s4w12
-13	ja	ja	SCONJ	cs	_	16	mark	16:mark	LvtbNodeId=a-d197-p89s4w13
-14	jau	jau	PART	q	_	16	discourse	16:discourse	LvtbNodeId=a-d197-p89s4w14
-15	tik	tik	ADV	r0n	PronType=Dem	16	advmod	16:advmod	LvtbNodeId=a-d197-p89s4w15
-16	sīka	sīks	ADJ	affsnnp	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	11	advcl	11:advcl	LvtbNodeId=a-d197-p89s4w16|SpaceAfter=No
-17	.	.	PUNCT	zs	_	4	punct	4:punct	LvtbNodeId=a-d197-p89s4w17
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 9 mark	color:blue
+1	Kamēr	kamēr	SCONJ	cs	_	3	mark	3:mark	LvtbNodeId=a-p9308-p45s1w1
+2	gaļa	gaļa	NOUN	ncfsn4	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	3:nsubj	LvtbNodeId=a-p9308-p45s1w2
+3	cepas	cepties	VERB	vmyipi130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Reflex=Yes|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	6:advcl	LvtbNodeId=a-p9308-p45s1w3|SpaceAfter=No
+4	,	,	PUNCT	zc	_	3	punct	3:punct	LvtbNodeId=a-p9308-p45s1w4
+5	sālsūdenī	sālsūdens	NOUN	ncmsl2	Case=Loc|Gender=Masc|Number=Sing	6	obl	6:obl:loc	LvtbNodeId=a-p9308-p45s1w5
+6	vāra	vārīt	VERB	vmnipt330an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-p9308-p45s1w6
+7	grūbas	grūba	NOUN	ncfpa4	Case=Acc|Gender=Fem|Number=Plur	6	obj	6:obj	LvtbNodeId=a-p9308-p45s1w7|SpaceAfter=No
+8	,	,	PUNCT	zc	_	11	punct	11:punct	LvtbNodeId=a-p9308-p45s1w8
+9	kamēr	kamēr	SCONJ	cs	_	11	mark	11:mark	LvtbNodeId=a-p9308-p45s1w9
+10	tās	tā	DET	pd3fpnn	Case=Nom|Gender=Fem|Number=Plur|Person=3|PronType=Dem	11	nsubj	11:nsubj	LvtbNodeId=a-p9308-p45s1w10
+11	mīkstas	mīksts	ADJ	affpnnp	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	6	advcl	6:advcl	LvtbNodeId=a-p9308-p45s1w11|SpaceAfter=No
+12	.	.	PUNCT	zs	_	6	punct	6:punct	LvtbNodeId=a-p9308-p45s1w12
 
 ~~~
 

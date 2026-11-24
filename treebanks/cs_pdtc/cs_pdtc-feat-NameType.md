@@ -50,7 +50,7 @@ The most frequent other feature values with which `PROPN` and `NameType` co-occu
 
 4113 <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `NameType`.
 
-The most frequent other feature values with which `ADJ` and `NameType` co-occurred: <tt><a href="cs_pdtc-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (4113; 100%), <tt><a href="cs_pdtc-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (4113; 100%), <tt><a href="cs_pdtc-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (4113; 100%), <tt><a href="cs_pdtc-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (4113; 100%), <tt><a href="cs_pdtc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3213; 78%), <tt><a href="cs_pdtc-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2188; 53%).
+The most frequent other feature values with which `ADJ` and `NameType` co-occurred: <tt><a href="cs_pdtc-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (4113; 100%), <tt><a href="cs_pdtc-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (4113; 100%), <tt><a href="cs_pdtc-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (4113; 100%), <tt><a href="cs_pdtc-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (4113; 100%), <tt><a href="cs_pdtc-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (4113; 100%), <tt><a href="cs_pdtc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3213; 78%), <tt><a href="cs_pdtc-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2188; 53%).
 
 `ADJ` tokens may have the following values of `NameType`:
 
@@ -74,5 +74,5 @@ The 10 most frequent relations where parent and child node agree in `NameType`:
 <tt>PROPN --[<tt><a href="cs_pdtc-dep-appos.html">appos</a></tt>]--> PROPN</tt> (49; 60%),
 <tt>ADJ --[<tt><a href="cs_pdtc-dep-flat.html">flat</a></tt>]--> PROPN</tt> (34; 97%),
 <tt>PROPN --[<tt><a href="cs_pdtc-dep-obl.html">obl</a></tt>]--> PROPN</tt> (34; 74%),
-<tt>ADJ --[<tt><a href="cs_pdtc-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (32; 56%).
+<tt>ADJ --[<tt><a href="cs_pdtc-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (32; 55%).
 

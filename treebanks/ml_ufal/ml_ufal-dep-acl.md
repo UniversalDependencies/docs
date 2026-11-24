@@ -40,9 +40,9 @@ The following 4 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 17	bgColor:blue
 # visual-style 17	fgColor:white
 # visual-style 17 13 acl	color:blue
-1	2014	2014	NUM	_	NumForm=Digit|NumType=Card	13	obl	_	Translit=2014|LTranslit=2014
-2	-	-	PUNCT	_	_	3	punct	_	Translit=-|LTranslit=-
-3	ൽ	ൽ	ADP	_	Case=Loc	1	case	_	Translit=l̕|LTranslit=l̕
+1	2014	2014	NUM	_	NumForm=Digit|NumType=Card	13	obl	_	LTranslit=2014|Translit=2014
+2	-	-	PUNCT	_	_	3	punct	_	LTranslit=-|Translit=-
+3	ൽ	ൽ	ADP	_	Case=Loc	1	case	_	LTranslit=l̕|Translit=l̕
 4	ബി	ബി	PROPN	_	Animacy=Inan|Case=Nom|Number=Sing	10	nmod	_	SpaceAfter=No|Translit=bi|LTranslit=bi
 5	.	.	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
 6	ജെ	ജെ	PROPN	_	Animacy=Inan|Case=Nom|Number=Sing	4	flat	_	SpaceAfter=No|Translit=je|LTranslit=je
@@ -52,8 +52,8 @@ The following 4 pairs of parts of speech are connected with `acl`: <tt><a href="
 10	പ്രകടന	പ്രകടന	ADJ	_	_	11	amod	_	Translit=prakaṭana|LTranslit=prakaṭana
 11	പത്രികയിലെ	പത്രികയിലെ	NOUN	_	Animacy=Inan|Case=Loc|Number=Sing	13	obl	_	Translit=patrikayile|LTranslit=patrikayile
 12	പ്രധാന	പ്രധാനം	ADJ	_	_	13	amod	_	Translit=pradhāna|LTranslit=pradhānaṁ
-13	വാഗ്‌ദാനം	വാഗ്‌ദാനം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	17	acl	_	Translit=vāgdānaṁ|LTranslit=vāgdānaṁ
-14	ആയിരുന്നു	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin	13	cop	_	Translit=āyirunnu|LTranslit=āk
+13	വാഗ്‌ദാനം	വാഗ്‌ദാനം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	17	acl	_	LTranslit=vāgdānaṁ|Translit=vāgdānaṁ
+14	ആയിരുന്നു	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin	13	cop	_	LTranslit=āk|Translit=āyirunnu
 15	പൗരത്വ	പൗരത്വം	ADJ	_	_	16	amod	_	Translit=pauratva|LTranslit=pauratvaṁ
 16	ഭേദഗതി	ഭേദഗതി	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	17	compound	_	Translit=bhēdagati|LTranslit=bhēdagati
 17	ബിൽ	ബിൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	SpaceAfter=No|Translit=bil̕|LTranslit=bil̕

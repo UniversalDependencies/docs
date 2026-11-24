@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>har</em> (<tt><a href="sv_pud-pos-AUX
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 1.734597 (the average of all parts of speech is 1.245113).
+The form / lemma ratio of `VERB` is 1.734597 (the average of all parts of speech is 1.244870).
 
 The 1st highest number of forms (8) was observed with the lemma “göra”: <em>gjorde, gjordes, gjort, gjorts, gör, göra, göras, görs</em>.
 

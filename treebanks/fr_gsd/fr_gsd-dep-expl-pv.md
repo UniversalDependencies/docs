@@ -12,7 +12,7 @@ There are also 3 other language-specific subtypes of `expl`: <tt><a href="fr_gsd
 1017 nodes (0%) are attached to their parents as `expl:pv`.
 
 1016 instances of `expl:pv` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.19272369714848.
+Average distance between parent and child is 1.19174041297935.
 
 The following 1 pairs of parts of speech are connected with `expl:pv`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (1017; 100% instances).
 

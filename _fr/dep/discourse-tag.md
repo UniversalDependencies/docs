@@ -20,3 +20,4 @@ But more complex phrases can also be used as a question tag:
 mais elle avait beaucoup peur de beaucoup de trucs, tu t'en souviens ? \n but she was really scared of a lot of things—do you remember that?
 discourse:tag(avait,souviens)
 ~~~
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:42 CET -->

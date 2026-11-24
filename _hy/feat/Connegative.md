@@ -27,4 +27,4 @@ Note that there is no `No` value. If the word is not connegative, the
 * _չէի, չէիր, չէր, չէինք, չէիք, չէին <b>ասի</b>_՞ _čēi, čēir, čēr, čēink’, čēik’, čēin <b>asi</b>_ “I, you, he/she/it, we, you, they would not <b>say</b>”,
 * _չեմ, չես, չի, չենք, չեք, չեն <b>կարդա</b>_/_čem, čes, či, čenk’, ček’, čen <b>karda</b>_ “I, you, he/she/it, we, you, they will not <b>read</b>”,
 * _չէի, չէիր, չէր, չէինք, չէիք, չէին <b>մոտենա</b>_/_čēi, čēir, čēr, čēink’, čēik’, čēin <b>motena</b>_ “I, you, he/she/it, we, you, they would not <b>approach</b>”
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:48 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:37 CET -->

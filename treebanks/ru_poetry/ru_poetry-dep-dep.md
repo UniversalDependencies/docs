@@ -74,7 +74,7 @@ The following 2 pairs of parts of speech are connected with `dep`: <tt><a href="
 16	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	17	nsubj	_	_
 17	отвечают	отвечать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	advcl	_	before=<rhyme-zone/>|after=<br/>
 18	не	не	PART	_	Polarity=Neg	19	advmod	_	before=<line_meter="Аф4ж 1*2*2*2*1"/>
-19	сами	сам	DET	_	Case=Nom|Number=Plur|PronType=Emp	17	iobj	_	_
+19	сами	сам	DET	_	Case=Nom|ExtPos=PRON|Number=Plur|PronType=Emp	17	iobj	_	_
 20	себе	себя	PRON	_	Case=Dat|PronType=Prs|Reflex=Yes	19	fixed	_	SpaceAfter=No
 21	,	,	PUNCT	_	_	23	punct	_	_
 22	а	а	CCONJ	_	_	23	cc	_	_

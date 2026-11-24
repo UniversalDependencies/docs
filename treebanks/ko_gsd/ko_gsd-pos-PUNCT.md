@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  % (<tt><a href="ko_gsd-pos-PUNCT.html">PU
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.029412 (the average of all parts of speech is 1.001499).
+The form / lemma ratio of `PUNCT` is 1.029412 (the average of all parts of speech is 1.001527).
 
 The 1st highest number of forms (2) was observed with the lemma “<”: &lt;, <.
 
@@ -75,7 +75,7 @@ Examples: ., ,, ', (, ), ", %, ?, !, •
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="ko_gsd-dep-punct.html">punct</a></tt> (10411; 100% instances)
 
-Parents of `PUNCT` nodes belong to 15 different parts of speech: <tt><a href="ko_gsd-pos-VERB.html">VERB</a></tt> (4842; 47% instances), <tt><a href="ko_gsd-pos-NOUN.html">NOUN</a></tt> (3093; 30% instances), <tt><a href="ko_gsd-pos-ADJ.html">ADJ</a></tt> (824; 8% instances), <tt><a href="ko_gsd-pos-SYM.html">SYM</a></tt> (428; 4% instances), <tt><a href="ko_gsd-pos-NUM.html">NUM</a></tt> (371; 4% instances), <tt><a href="ko_gsd-pos-PROPN.html">PROPN</a></tt> (371; 4% instances), <tt><a href="ko_gsd-pos-ADV.html">ADV</a></tt> (251; 2% instances), <tt><a href="ko_gsd-pos-ADP.html">ADP</a></tt> (144; 1% instances), <tt><a href="ko_gsd-pos-AUX.html">AUX</a></tt> (25; 0% instances), <tt><a href="ko_gsd-pos-DET.html">DET</a></tt> (22; 0% instances), <tt><a href="ko_gsd-pos-PRON.html">PRON</a></tt> (18; 0% instances), <tt><a href="ko_gsd-pos-PUNCT.html">PUNCT</a></tt> (8; 0% instances), <tt><a href="ko_gsd-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="ko_gsd-pos-INTJ.html">INTJ</a></tt> (6; 0% instances), <tt><a href="ko_gsd-pos-PART.html">PART</a></tt> (2; 0% instances)
+Parents of `PUNCT` nodes belong to 15 different parts of speech: <tt><a href="ko_gsd-pos-VERB.html">VERB</a></tt> (4842; 47% instances), <tt><a href="ko_gsd-pos-NOUN.html">NOUN</a></tt> (3094; 30% instances), <tt><a href="ko_gsd-pos-ADJ.html">ADJ</a></tt> (826; 8% instances), <tt><a href="ko_gsd-pos-SYM.html">SYM</a></tt> (428; 4% instances), <tt><a href="ko_gsd-pos-NUM.html">NUM</a></tt> (372; 4% instances), <tt><a href="ko_gsd-pos-PROPN.html">PROPN</a></tt> (371; 4% instances), <tt><a href="ko_gsd-pos-ADV.html">ADV</a></tt> (254; 2% instances), <tt><a href="ko_gsd-pos-ADP.html">ADP</a></tt> (144; 1% instances), <tt><a href="ko_gsd-pos-AUX.html">AUX</a></tt> (25; 0% instances), <tt><a href="ko_gsd-pos-PRON.html">PRON</a></tt> (18; 0% instances), <tt><a href="ko_gsd-pos-DET.html">DET</a></tt> (15; 0% instances), <tt><a href="ko_gsd-pos-PUNCT.html">PUNCT</a></tt> (8; 0% instances), <tt><a href="ko_gsd-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="ko_gsd-pos-INTJ.html">INTJ</a></tt> (6; 0% instances), <tt><a href="ko_gsd-pos-PART.html">PART</a></tt> (2; 0% instances)
 
 10407 (100%) `PUNCT` nodes are leaves.
 

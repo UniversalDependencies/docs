@@ -28,4 +28,4 @@ nmod(ⲡⲁ-17, ⲁⲡⲟⲗⲗⲱ)
 The second 'says' is missing, meaning the subject 'another one' will be promoted to take its place. However attaching the complement clause of the missing 'say' as `ccomp` to 'another one' would be misleading. We therefore use the `orphan` relation.
 
 
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:37 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:39:09 CET -->

@@ -3239,6 +3239,7 @@ udver: '2'
         <li><a>nsubj</a>
           <ul>
             <li>VERB--NOUN (963)</li>
+            <li>VERB--NOUN-ADP(את) (12)</li>
             <li>VERB--NOUN-ADP(מ) (1)</li>
             <li>VERB--NOUN-ADP(מן) (1)</li>
             <li>VERB--NOUN-ADP(מעל) (1)</li>
@@ -3321,7 +3322,7 @@ udver: '2'
         <li><a>obj</a>
           <ul>
             <li>VERB--NOUN (248)</li>
-            <li>VERB--NOUN-ADP(את) (236)</li>
+            <li>VERB--NOUN-ADP(את) (224)</li>
             <li>VERB--PRON (23)</li>
             <li>VERB--PRON-ADP(את) (114)</li>
             <li>VERB--PRON-Acc (3)</li>

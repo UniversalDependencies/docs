@@ -58,7 +58,7 @@ The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="
 6	крио-камере	крио-камера	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	obl	_	_
 7	до	до	ADP	IN	_	9	case	_	_
 8	тех	тот	DET	DT	Case=Gen|Number=Plur	9	det	_	_
-9	пор	пора	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	4	obl	_	SpaceAfter=No
+9	пор	пора	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	4	obl:tmod	_	SpaceAfter=No
 10	,	,	PUNCT	,	_	13	punct	_	_
 11	пока	пока	SCONJ	IN	_	13	mark	_	_
 12	не	не	PART	NEG	Polarity=Neg	13	advmod	_	_
@@ -78,7 +78,7 @@ The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="
 1	Выбор	выбор	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
 2	данного	данный	ADJ	JJL	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
 3	имени	имя	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
-4	Дональдом	Дональд	PROPN	NNP	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	1	obl:agent	_	_
+4	Дональдом	Дональд	PROPN	NNP	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	1	nmod	_	_
 5	не	не	PART	NEG	Polarity=Neg	8	advmod	_	_
 6	в	в	ADP	IN	_	8	case	_	_
 7	последнюю	последний	ADJ	JJL	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_

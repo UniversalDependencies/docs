@@ -57,7 +57,7 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 `ADV` tokens may have the following values of `NumType`:
 
 * `Mult` (3; 100% of non-empty `NumType`): <em>stokrát</em>
-* `EMPTY` (400): <em>jak, kde, tak, tam, ještě, vždy, zas, tu, teď, zde</em>
+* `EMPTY` (402): <em>jak, tak, kde, tam, ještě, vždy, zas, tu, teď, zde</em>
 
 ## Relations with Agreement in `NumType`
 

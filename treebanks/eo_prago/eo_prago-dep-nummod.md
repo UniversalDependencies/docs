@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-15 nodes (0%) are attached to their parents as `nummod`.
+25 nodes (1%) are attached to their parents as `nummod`.
 
-14 instances of `nummod` (93%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.73333333333333.
+22 instances of `nummod` (88%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.2.
 
-The following 2 pairs of parts of speech are connected with `nummod`: <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-NUM.html">NUM</a></tt> (10; 67% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-NUM.html">NUM</a></tt> (5; 33% instances).
+The following 2 pairs of parts of speech are connected with `nummod`: <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-NUM.html">NUM</a></tt> (13; 52% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-NUM.html">NUM</a></tt> (12; 48% instances).
 
 
 ~~~ conllu

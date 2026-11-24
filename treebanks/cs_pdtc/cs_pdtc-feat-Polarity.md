@@ -18,7 +18,7 @@ The feature is used with 5 part-of-speech tags: <tt><a href="cs_pdtc-pos-ADJ.htm
 
 346146 <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt> tokens (96% of all `ADJ` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `ADJ` and `Polarity` co-occurred: <tt><a href="cs_pdtc-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (321443; 93%), <tt><a href="cs_pdtc-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (290534; 84%), <tt><a href="cs_pdtc-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (290534; 84%), <tt><a href="cs_pdtc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (223402; 65%), <tt><a href="cs_pdtc-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (200079; 58%).
+The most frequent other feature values with which `ADJ` and `Polarity` co-occurred: <tt><a href="cs_pdtc-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (321443; 93%), <tt><a href="cs_pdtc-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (294649; 85%), <tt><a href="cs_pdtc-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (290534; 84%), <tt><a href="cs_pdtc-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (290534; 84%), <tt><a href="cs_pdtc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (223402; 65%), <tt><a href="cs_pdtc-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (200079; 58%).
 
 `ADJ` tokens may have the following values of `Polarity`:
 
@@ -264,7 +264,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 
 * `Neg` (1426; 3% of non-empty `Polarity`): <em>nedávno, nezávisle, nesprávně, nepřímo, neobyčejně, nesmírně, neúspěšně, neúměrně, neuvěřitelně, nevyhnutelně</em>
 * `Pos` (48760; 97% of non-empty `Polarity`): <em>více, stále, dobře, často, dost, méně, dlouho, stejně, víc, později</em>
-* `EMPTY` (115007): <em>tam, už, tak, jak, kde, pak, kdy, ještě, včera, potom</em>
+* `EMPTY` (119893): <em>tam, tak, už, jak, kde, pak, kdy, ještě, včera, potom</em>
 
 <table>
   <tr><th>Paradigm <i>dobře</i></th><th><tt>Pos</tt></th><th><tt>Neg</tt></th></tr>

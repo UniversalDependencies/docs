@@ -24,7 +24,7 @@ The most frequent other feature values with which `ADJ` and `Polarity` co-occurr
 
 * `Neg` (90; 1% of non-empty `Polarity`): <em>niepotwierdzonych, niewykorzystane, niewyprawione, niezrealizowane, NIEPOCHODZĄCYCH, Nieleczona, Nieprzejawionego, Nieprzeznaczony, niebędący, niebędących</em>
 * `Pos` (6672; 99% of non-empty `Polarity`): <em>dotyczące, dotyczących, związane, ubrany, określonych, związanych, przeznaczone, przedstawione, ubrana, dotyczącego</em>
-* `EMPTY` (29164): <em>innych, jeden, sam, inne, europejskiej, pierwszy, różnych, jednym, cały, 1</em>
+* `EMPTY` (29192): <em>innych, jeden, sam, inne, europejskiej, pierwszy, różnych, jednym, cały, 1</em>
 
 <table>
   <tr><th>Paradigm <i>związać</i></th><th><tt>Pos</tt></th><th><tt>Neg</tt></th></tr>

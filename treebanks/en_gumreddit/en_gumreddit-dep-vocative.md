@@ -27,7 +27,7 @@ The following 3 pairs of parts of speech are connected with `vocative`: <tt><a h
 3	_	_	NOUN	NN	Number=Sing	1	obj	1:obj	Entity=3)2)|Lem=*LOWER*|Len=4
 4	_	_	NOUN	NNS	Number=Plur	10	vocative	10:vocative	Entity=1)|Lem=employee|Len=9|MSeg=Employ-ee-s|SpaceAfter=No
 5	_	_	PUNCT	,	_	4	punct	4:punct	Lem=_|Len=1
-6	_	_	PRON	WP	PronType=Int	10	nsubj	10:nsubj	CxnElt=10:Interrogative-WHInfo-Direct.WHWord|Lem=_|Len=4
+6	_	_	PRON	WP	Case=Nom|PronType=Int	10	nsubj	10:nsubj	CxnElt=10:Interrogative-WHInfo-Direct.WHWord|Lem=_|Len=4
 7	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	10:cop	Lem=be|Len=2
 8	_	_	DET	DT	Definite=Def|PronType=Art	10	det	10:det	Entity=(4-abstract-new-sssss-cf6-3-coref|Lem=_|Len=3
 9	_	_	ADJ	JJS	Degree=Sup	10	amod	10:amod	Lem=weird|Len=8|MSeg=weird-est
@@ -90,7 +90,7 @@ The following 3 pairs of parts of speech are connected with `vocative`: <tt><a h
 12	_	_	NOUN	NN	Number=Sing	10	iobj	10:iobj	Entity=7)|Lem=_|Len=4|SpaceAfter=No
 13	_	_	PUNCT	,	_	18	punct	18:punct	Lem=_|Len=1
 14	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	18	nsubj	18:nsubj	Discourse=restatement-partial:72->67:1:ref-prs-565,592-_+sem-lxchn-569,599-_|Entity=(3-person-giv:act-sssss-cf1*-1-ana)|Lem=_|Len=1
-15	_	_	ADV	RB	Degree=Pos	18	advmod	18:advmod	Lem=_|Len=6|MSeg=real-ly
+15	_	_	ADV	RB	_	18	advmod	18:advmod	Lem=_|Len=6|MSeg=real-ly
 16	_	_	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	18	cop	18:cop	Lem=be|Len=2
 17	_	_	DET	DT	Definite=Ind|PronType=Art	18	det	18:det	Entity=(3-person-giv:act-sssss-cf1*-2-pred|Lem=_|Len=1
 18	_	_	NOUN	NN	Number=Sing	10	parataxis	10:parataxis	Entity=3)|Lem=_|Len=5

@@ -7,14 +7,46 @@ udver: '2'
 ## Treebank Statistics: UD_Pashto-Sikaram: Relations: `compound`
 
 This relation is universal.
-There are 2 language-specific subtypes of `compound`: <tt><a href="ps_sikaram-dep-compound-lvc.html">compound:lvc</a></tt>, <tt><a href="ps_sikaram-dep-compound-prt.html">compound:prt</a></tt>.
+There are 3 language-specific subtypes of `compound`: <tt><a href="ps_sikaram-dep-compound-lvc.html">compound:lvc</a></tt>, <tt><a href="ps_sikaram-dep-compound-preverb.html">compound:preverb</a></tt>, <tt><a href="ps_sikaram-dep-compound-prt.html">compound:prt</a></tt>.
 
-21 nodes (0%) are attached to their parents as `compound`.
+28 nodes (0%) are attached to their parents as `compound`.
 
-11 instances of `compound` (52%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.38095238095238.
+15 instances of `compound` (54%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.28571428571429.
 
-The following 4 pairs of parts of speech are connected with `compound`: <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (11; 52% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (8; 38% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (1; 5% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (1; 5% instances).
+The following 5 pairs of parts of speech are connected with `compound`: <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (12; 43% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (12; 43% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (2; 7% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt> (1; 4% instances).
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 9 compound	color:blue
+1	دغه	دغه	DET	_	Case=Nom|Deixis=Prox|PronType=Dem|Variant=Long	2	det	_	Translit=dáġa|LTranslit=dáġa|Gloss=this
+2	وزارت	وزارت	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	Translit=wazârát|LTranslit=wazârát|Gloss=ministry
+3	په	پۀ	ADP	_	Case=Loc	5	case	_	Translit=pë|LTranslit=pë|Gloss=at
+4	دې	دا	DET	_	Case=Loc|Deixis=Prox|PronType=Dem	5	det	_	Translit=de|LTranslit=dâ|Gloss=this
+5	ډول	ډول	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	6	obl	_	Translit=ḍawl|LTranslit=ḍawl|Gloss=manner
+6	غواړي	غوښتل	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=ġwâṛí|LTranslit=ġux̌të́l|Gloss=wants|SpaceAfter=No
+7	،	،	PUNCT	_	_	21	punct	_	Translit=,|LTranslit=,|Gloss=,
+8	د	د	ADP	_	Case=Acc	10	case	_	Translit=dë|LTranslit=dë|Gloss=of
+9	زده	زده	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	10	compound	_	Translit=zda|LTranslit=zda|Gloss=learn
+10	کوونکو	کوونکی	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	12	nmod	_	Translit=kawúnko|LTranslit=kawúnkay|Gloss=doing
+11	په	پۀ	ADP	_	Case=Loc	12	case	_	Translit=pë|LTranslit=pë|Gloss=at
+12	ذهنونو	ذهن	NOUN	_	Case=Loc|Gender=Masc|Number=Plur	19	obl	_	Translit=zihnúno|LTranslit=zihn|Gloss=minds
+13	کې	کې	ADP	_	Case=Loc	12	case	_	Translit=ke|LTranslit=ke|Gloss=in
+14	د	د	ADP	_	Case=Acc	17	case	_	Translit=dë|LTranslit=dë|Gloss=of
+15	وېشل	وېشل	VERB	_	Aspect=Imp|Case=Nom|VerbForm=Inf	17	xcomp	_	Translit=wešë́l|LTranslit=wešë́l|Gloss=divided
+16	شوي	کېدل	AUX	_	Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	15	aux:pass	_	Translit=šë́wi|LTranslit=kedë́l|Gloss=being
+17	افغانستان	افغانستان	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	18	nmod	_	Translit=afġânistấn|LTranslit=afġânistấn|Gloss=Afghanistan
+18	انځور	انځور	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	21	obj	_	Translit=anżúr|LTranslit=anżúr|Gloss=picture
+19	ژوندی	ژوندی	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	21	xcomp	_	Translit=žwandáy|LTranslit=žwandáy|Gloss=alive
+20	و	و	AUX	_	Aspect=Perf	21	aux:preverb	_	Translit=wë|LTranslit=wë|Gloss=_
+21	ساتي	ساتل	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	Translit=sâtí|LTranslit=sâtë́l|Gloss=keep
+22	.	.	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
+
+~~~
 
 
 ~~~ conllu
@@ -33,44 +65,13 @@ The following 4 pairs of parts of speech are connected with `compound`: <tt><a h
 8	د	د	ADP	_	Case=Acc	9	case	_	Translit=dë|LTranslit=dë|Gloss=of
 9	خلکو	خلک	NOUN	_	Case=Acc|Gender=Masc|Number=Coll	10	nmod	_	Translit=xálko|LTranslit=xalk|Gloss=people
 10	ګڼه	ګڼ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	11	compound	_	Translit=gáṇa|LTranslit=gaṇ|Gloss=dense
-11	ګوڼه	ګوڼه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	Translit=gúṇa|LTranslit=gúṇa|Gloss=
+11	ګوڼه	ګوڼه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	Translit=gúṇa|LTranslit=gúṇa|Gloss=dense
 12	زياته	زيات	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	Translit=zyấta|LTranslit=zyât|Gloss=high
 13	وه	ول	AUX	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	cop	_	Translit=wa|LTranslit=wël|Gloss=was|SpaceAfter=No
 14	.	.	PUNCT	_	_	12	punct	_	Translit=.|LTranslit=.|Gloss=.
 15	(	(	PUNCT	_	_	16	punct	_	Translit=(|LTranslit=(|Gloss=(|SpaceAfter=No
 16	سمه	سم	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	12	parataxis	_	Translit=sáma|LTranslit=sam|Gloss=correct|SpaceAfter=No
 17	)	)	PUNCT	_	_	16	punct	_	Translit=)|LTranslit=)|Gloss=)|SpaceAfter=No
-
-~~~
-
-
-~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 9 compound	color:blue
-1	دغه	دغه	DET	_	Case=Nom|Deixis=Prox|PronType=Dem|Variant=Long	2	det	_	Translit=dáġa|LTranslit=dáġa|Gloss=this
-2	وزارت	وزارت	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	Translit=wazârát|LTranslit=wazârát|Gloss=ministry
-3	په	پۀ	ADP	_	Case=Loc	5	case	_	Translit=pë|LTranslit=pë|Gloss=at
-4	دې	دا	DET	_	Case=Loc|Deixis=Prox|PronType=Dem	5	det	_	Translit=de|LTranslit=dâ|Gloss=this
-5	ډول	ډول	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	6	obl	_	Translit=ḍawl|LTranslit=ḍawl|Gloss=manner
-6	غواړي	غوښتل	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=ġwâṛí|LTranslit=ġux̌të́l|Gloss=wants|SpaceAfter=No
-7	،	،	PUNCT	_	_	20	punct	_	Translit=,|LTranslit=,|Gloss=,
-8	د	د	ADP	_	Case=Acc	10	case	_	Translit=dë|LTranslit=dë|Gloss=of
-9	زده	زده	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	10	compound	_	Translit=zda|LTranslit=zda|Gloss=learn
-10	کوونکو	کوونکی	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	12	nmod	_	Translit=kawúnko|LTranslit=kawúnkay|Gloss=doing
-11	په	پۀ	ADP	_	Case=Loc	12	case	_	Translit=pë|LTranslit=pë|Gloss=at
-12	ذهنونو	ذهن	NOUN	_	Case=Loc|Gender=Masc|Number=Plur	19	obl	_	Translit=zihnúno|LTranslit=zihn|Gloss=minds
-13	کې	کې	ADP	_	Case=Loc	12	case	_	Translit=ke|LTranslit=ke|Gloss=in
-14	د	د	ADP	_	Case=Acc	17	case	_	Translit=dë|LTranslit=dë|Gloss=of
-15	وېشل	وېشل	VERB	_	Aspect=Imp|Case=Nom|VerbForm=Inf	17	xcomp	_	Translit=wešë́l|LTranslit=wešë́l|Gloss=divided
-16	شوي	کېدل	AUX	_	Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	15	aux:pass	_	Translit=šë́wi|LTranslit=kedë́l|Gloss=being
-17	افغانستان	افغانستان	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	18	nmod	_	Translit=afġânistấn|LTranslit=afġânistấn|Gloss=Afghanistan
-18	انځور	انځور	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	20	obj	_	Translit=anżúr|LTranslit=anżúr|Gloss=picture
-19	ژوندی	ژوندی	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	20	xcomp	_	Translit=žwandáy|LTranslit=žwandáy|Gloss=alive
-20	وساتي	ساتل	VERB	_	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	6	advcl	_	Translit=wë́sâti|LTranslit=sâtë́l|Gloss=keep|SpaceAfter=No
-21	.	.	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
 
 ~~~
 
@@ -122,7 +123,7 @@ The following 4 pairs of parts of speech are connected with `compound`: <tt><a h
 39	،	،	PUNCT	_	_	48	punct	_	Translit=,|LTranslit=,|Gloss=,
 40	د	د	ADP	_	Case=Acc	41	case	_	Translit=dë|LTranslit=dë|Gloss=of
 41	دوی	دوی	PRON	_	Case=Acc|Deixis=Prox|Number=Plur|Person=3|PronType=Prs	43	nmod	_	Translit=duy|LTranslit=duy|Gloss=they
-42	ټولنیزو	ټولنیز	ADJ	_	Case=Acc|Gender=Masc|Number=Plur|Typo=Yes	43	amod	_	Translit=ṭolanízo|LTranslit=ṭolaníz|Gloss=social|CFTranslit=ṭolaníz|CorrectForm=ټولنیز
+42	ټولنیزو	ټولنیز	ADJ	_	Case=Acc|Gender=Masc|Number=Plur|Typo=Yes	43	amod	_	Translit=ṭolanízo|LTranslit=ṭolaníz|Gloss=social|CorrectForm=ټولنیز|CFTranslit=ṭolaníz
 43	ارزښتونه	ارزښت	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	48	nsubj	_	Translit=arzëx̌túna|LTranslit=arzë́x̌t|Gloss=values
 44	او	او	CCONJ	_	_	45	cc	_	Translit=aw|LTranslit=aw|Gloss=and
 45	دودونه	دود	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	43	conj	_	Translit=dodúna|LTranslit=dod|Gloss=customs

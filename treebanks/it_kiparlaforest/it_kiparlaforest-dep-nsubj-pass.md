@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="it_kiparlaforest-dep-nsubj.html">nsubj</a></tt>.
 
-24 nodes (0%) are attached to their parents as `nsubj:pass`.
+33 nodes (0%) are attached to their parents as `nsubj:pass`.
 
-18 instances of `nsubj:pass` (75%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.79166666666667.
+24 instances of `nsubj:pass` (73%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.90909090909091.
 
-The following 5 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> (12; 50% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-SCONJ.html">SCONJ</a></tt> (7; 29% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> (3; 13% instances), <tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_kiparlaforest-pos-SCONJ.html">SCONJ</a></tt> (1; 4% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt> (1; 4% instances).
+The following 5 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> (15; 45% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> (15; 45% instances), <tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-SCONJ.html">SCONJ</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -32,35 +32,61 @@ The following 5 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 3 nsubj:pass	color:blue
-1	e	e	CCONJ	_	_	5	reparandum	_	Begin=2038.267|KID=796-0|PauseAfter=Yes
-2	e	e	CCONJ	_	_	5	cc	_	KID=796-2
-3	che	che	SCONJ	_	PronType=Rel	5	nsubj:pass	_	KID=796-3
-4	viene	venire	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	KID=796-4
-5	scritta	scrivere	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	End=2039.727|KID=796-5
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 9 nsubj:pass	color:blue
+1	ma	ma	CCONJ	_	_	4	cc	_	Begin=2519.04|KID=985-0
+2	ce	ce	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	4	expl	_	KID=985-1
+3	n'	ne	PRON	_	Clitic=Yes|PronType=Prs	4	expl	_	KID=985-2|SpaceAfter=No
+4	é	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=985-3
+5	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	nsubj	_	KID=985-4
+6	molto	molto	ADV	_	_	8	advmod	_	KID=985-5
+7	più	più	ADV	_	_	8	advmod	_	KID=985-6
+8	vecchia	vecchio	ADJ	_	Gender=Fem|Number=Sing	5	amod	_	KID=985-7
+9	che	che	PRON	_	PronType=Rel	12	nsubj:pass	_	KID=985-8
+10	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	KID=985-9
+11	stata	essere	AUX	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	12	aux:pass	_	KID=985-10
+12	trovata	trovare	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	5	acl:relcl	_	End=2521.654|Intonation=WeaklyRising|KID=985-11
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 4 nsubj:pass	color:blue
-1	quindi	quindi	CCONJ	_	_	3	cc	_	Begin=2589.131|KID=1010-0
-2	questa	questo	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	3	nsubj	_	KID=1010-1|PaceSlow=Yes
-3	potre~	potre~	X	_	_	7	reparandum	_	Interrupted=Yes|KID=1010-2
-4	questa	questo	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	7	nsubj:pass	_	KID=1010-3
-5	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	KID=1010-4
-6	stata	essere	AUX	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	7	aux:pass	_	KID=1010-5
-7	trovata	trovare	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	KID=1010-6
-8	molto	molto	ADV	_	_	9	advmod	_	KID=1010-7|PauseAfter=Yes
-9	recentemente	recentemente	ADV	_	_	7	advmod	_	End=2592.504|KID=1010-9
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 6 nsubj:pass	color:blue
+1	magari	magari	ADV	_	_	5	advmod	_	Begin=457.783|KID=206-0
+2	no	no	ADV	_	PronType=Neg	5	advmod	_	KID=206-1
+3	tutte	tutto	DET	_	Gender=Fem|Number=Plur|PronType=Tot	5	det:predet	_	KID=206-2
+4	queste	questo	DET	_	Gender=Fem|Number=Plur|PronType=Dem	5	det	_	KID=206-3
+5	lingue	lingua	NOUN	_	Gender=Fem|Number=Plur	25	nsubj	_	KID=206-4
+6	che	che	PRON	_	PronType=Rel	9	nsubj:pass	_	KID=206-5
+7	ora	ora	ADV	_	_	9	advmod	_	KID=206-6
+8	sono	essere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	KID=206-7
+9	sparse	sparso	ADJ	_	Gender=Fem|Number=Plur	5	acl:relcl	_	KID=206-8|Prolonged=Yes
+10	su	su	ADP	_	_	12	case	_	KID=206-9
+11	questo	questo	DET	_	Gender=Masc|Number=Sing|PronType=Dem	12	det	_	KID=206-10
+12	territorio	territorio	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	KID=206-11
+13	vastissimo	vasto	ADJ	_	Degree=Abs|Gender=Masc|Number=Sing	12	amod	_	KID=206-12
+14	e	e	CCONJ	_	_	16	cc	_	KID=206-13
+15	che	che	PRON	_	PronType=Rel	16	nsubj	_	KID=206-14
+16	hanno	avere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	conj	_	KID=206-15
+17	tutti	tutto	DET	_	Gender=Masc|Number=Plur|PronType=Tot	19	det:predet	_	KID=206-16|PaceFast=Yes
+18	questi	questo	DET	_	Gender=Masc|Number=Plur|PronType=Dem	19	det	_	KID=206-17|PaceFast=Yes
+19	tratti	tratto	NOUN	_	Gender=Masc|Number=Plur	16	obj	_	KID=206-18
+20	differenti	differente	ADJ	_	Number=Plur	19	amod	_	End=462.668|Intonation=WeaklyRising|KID=206-19
+21	forse	forse	ADV	_	_	25	advmod	_	Begin=462.717|KID=207-0
+22	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	23	det	_	KID=207-1
+23	volta	volta	NOUN	_	Gender=Fem|Number=Sing	25	obl	_	KID=207-2|PauseAfter=Yes|Prolonged=Yes
+24	no	no	ADV	_	PronType=Neg	23	discourse:tag	_	Intonation=WeaklyRising|KID=207-4
+25	hanno	avere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=207-5
+26	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	27	det	_	KID=207-6
+27	discendente	discendente	NOUN	_	Number=Sing	25	obj	_	KID=207-7
+28	comune	comune	ADJ	_	Number=Sing	27	amod	_	End=465.331|KID=207-8
 
 ~~~
 

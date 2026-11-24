@@ -59,7 +59,7 @@ The 10 most frequent ambiguous types:  बाद (<tt><a href="hi_hdtb-pos-ADP.h
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.033333 (the average of all parts of speech is 1.200484).
+The form / lemma ratio of `ADV` is 1.033333 (the average of all parts of speech is 1.200418).
 
 The 1st highest number of forms (3) was observed with the lemma “बड़ा”: बड़ा, बड़ी, बड़े.
 
@@ -80,7 +80,7 @@ Examples: फिर, वहीं, जल्द, लगातार, फिल�
 
 `ADV` nodes are attached to their parents using 15 different relations: <tt><a href="hi_hdtb-dep-advmod.html">advmod</a></tt> (1527; 46% instances), <tt><a href="hi_hdtb-dep-obl.html">obl</a></tt> (877; 27% instances), <tt><a href="hi_hdtb-dep-mark.html">mark</a></tt> (485; 15% instances), <tt><a href="hi_hdtb-dep-compound.html">compound</a></tt> (220; 7% instances), <tt><a href="hi_hdtb-dep-nmod.html">nmod</a></tt> (117; 4% instances), <tt><a href="hi_hdtb-dep-amod.html">amod</a></tt> (25; 1% instances), <tt><a href="hi_hdtb-dep-root.html">root</a></tt> (13; 0% instances), <tt><a href="hi_hdtb-dep-conj.html">conj</a></tt> (12; 0% instances), <tt><a href="hi_hdtb-dep-dislocated.html">dislocated</a></tt> (10; 0% instances), <tt><a href="hi_hdtb-dep-obj.html">obj</a></tt> (8; 0% instances), <tt><a href="hi_hdtb-dep-xcomp.html">xcomp</a></tt> (8; 0% instances), <tt><a href="hi_hdtb-dep-dep.html">dep</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="hi_hdtb-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="hi_hdtb-dep-nsubj.html">nsubj</a></tt> (1; 0% instances)
 
-Parents of `ADV` nodes belong to 10 different parts of speech: <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (2591; 78% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (315; 10% instances), <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (179; 5% instances), <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (106; 3% instances), <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> (71; 2% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (22; 1% instances),  (13; 0% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> (1; 0% instances)
+Parents of `ADV` nodes belong to 10 different parts of speech: <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (2591; 78% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (316; 10% instances), <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (179; 5% instances), <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (105; 3% instances), <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> (71; 2% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (22; 1% instances),  (13; 0% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 
 2383 (72%) `ADV` nodes are leaves.
 

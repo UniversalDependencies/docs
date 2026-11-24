@@ -83,7 +83,7 @@ The most frequent other feature values with which `SCONJ` and `NumType` co-occur
 `SCONJ` tokens may have the following values of `NumType`:
 
 * `Card` (29; 100% of non-empty `NumType`): <em>quantum</em>
-* `EMPTY` (2476): <em>ut, quod, cum, si, quia, quam, sicut, nisi, tanquam, quemadmodum</em>
+* `EMPTY` (2478): <em>ut, quod, cum, si, quia, quam, sicut, nisi, tanquam, quemadmodum</em>
 
 ## Relations with Agreement in `NumType`
 

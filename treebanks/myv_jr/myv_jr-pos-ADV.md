@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Erzya-JR: POS Tags: `ADV`
 
-There are 313 `ADV` lemmas (9%), 329 `ADV` types (5%) and 1678 `ADV` tokens (8%).
+There are 310 `ADV` lemmas (9%), 329 `ADV` types (5%) and 1678 `ADV` tokens (8%).
 Out of 16 observed tags, the rank of `ADV` is: 3 in number of lemmas, 3 in number of types and 4 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: <em>ансяк, кода, пек, истя, ней, седе, мейле, уш, прок, яла</em>
@@ -58,7 +58,7 @@ The 10 most frequent ambiguous types:  <em>ансяк</em> (<tt><a href="myv_jr-
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.051118 (the average of all parts of speech is 2.080836).
+The form / lemma ratio of `ADV` is 1.061290 (the average of all parts of speech is 2.083990).
 
 The 1st highest number of forms (3) was observed with the lemma “аламо”: <em>аламо, аламодо, аламос</em>.
 

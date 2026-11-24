@@ -39,4 +39,4 @@ A coordinating conjunction may also appear at the beginning of a sentence. This 
 
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:45 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:25 CET -->

@@ -60,7 +60,7 @@ The 10 most frequent ambiguous types:  <em>tym</em> (<tt><a href="pl_pdb-pos-PRO
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 5.450980 (the average of all parts of speech is 1.965463).
+The form / lemma ratio of `DET` is 5.450980 (the average of all parts of speech is 1.965431).
 
 The 1st highest number of forms (17) was observed with the lemma “swój”: <em>swe, swego, swej, swemu, swoich, swoim, swoimi, swoje, swojego, swojej, swojemu, swoją, swych, swym, swymi, swój, swą</em>.
 

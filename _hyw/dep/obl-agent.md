@@ -39,4 +39,4 @@ The relation `obl:agent` is used for agents of passive verbs. They are mainly ex
 5	պայմանաւորուի	պայմանաւորել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	Translit=paymanaworowi|LTranslit=paymanaworel
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:31 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:39:04 CET -->

@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Latvian-LVTB: POS Tags: `X`
 
-There are 872 `X` lemmas (4%), 879 `X` types (2%) and 1258 `X` tokens (0%).
+There are 870 `X` lemmas (4%), 877 `X` types (2%) and 1256 `X` tokens (0%).
 Out of 17 observed tags, the rank of `X` is: 6 in number of lemmas, 6 in number of types and 15 in number of tokens.
 
 The 10 most frequent `X` lemmas: <em>the, _, Pillar, Imprimatur, de, of, Capital, fund, Twitter, al</em>
@@ -19,7 +19,7 @@ The 10 most frequent ambiguous types:  <em>to</em> (<tt><a href="lv_lvtb-pos-DET
 
 
 * <em>to</em>
-  * <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> 1289: <em>Viņš par <b>to</b> jau bija iedomājies .</em>
+  * <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> 1289: <em>Grīda bija patīkami vēsa , <b>to</b> skarot ar pēdām .</em>
   * <tt><a href="lv_lvtb-pos-X.html">X</a></tt> 4: <em>Aktrise Keita Hadsone izdevusi grāmatu « Pretty happy : Healthy ways <b>to</b> love your body » .</em>
   * <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 1: <em>A <b>to</b> sanāk , ka tikai tie kādi pieci vai desmit , vai piecdesmit gudrinieki tur , augšā , to jēgu zina .</em>
   * <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> 1: <em>Netīrumus un sakrājušās mirušās ādas šūnas regulāri notīriet no nagu apakšas ar neasu kociņu , <b>to</b> ir jādara ļoti uzmanīgi , lai netraumētu naga iekšpusi .</em>
@@ -38,8 +38,8 @@ The 10 most frequent ambiguous types:  <em>to</em> (<tt><a href="lv_lvtb-pos-DET
   * <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 4: <em>Tas bija latviešu mācītājs Jāzeps Urdze un divi vācbaltieši - Johaness Baumans un Klauss <b>fon</b> Aderkass . "</em>
   * <tt><a href="lv_lvtb-pos-X.html">X</a></tt> 3: <em>Visbeidzot , viņš nevarēja piekrist <b>fon</b> Bīlova argumentiem par savstarpējo konsultāciju nelietderību .</em>
 * <em>ko</em>
-  * <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> 693: <em>" Nu un <b>ko</b> mēs tagad darīsim ?</em>
-  * <tt><a href="lv_lvtb-pos-X.html">X</a></tt> 3: <em>Līdz <b>ko</b> apdzīvojamā teritorija vairs nebūs apbūvējama , tajā iestāsies stagnācija .</em>
+  * <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> 693: <em>Žana Pjēra kājas stinga pie katra soļa , <b>ko</b> viņš spēra , ejot pa kuģi .</em>
+  * <tt><a href="lv_lvtb-pos-X.html">X</a></tt> 3: <em>Līdz <b>ko</b> to izdara , tā kāds stāvvads sāk nesildīt , kādam ir auksti un ir sūdzības .</em>
 * <em>la</em>
   * <tt><a href="lv_lvtb-pos-X.html">X</a></tt> 2: <em>Lampiņa a <b>la</b> art deco ar plastmasas kupolu .</em>
   * <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 1: <em>Zobs ir līdzens , tāpēc , <b>la</b> kape spētu labi aizķerties un novadīt atbilstošus spēkus , nepieciešamas šīs atslēdziņas .</em>
@@ -50,13 +50,13 @@ The 10 most frequent ambiguous types:  <em>to</em> (<tt><a href="lv_lvtb-pos-DET
   * <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> 7: <em>Kam <b>der</b> ķirurgs , kam trīc rokas ?</em>
   * <tt><a href="lv_lvtb-pos-X.html">X</a></tt> 1: <em>Šo iestudējumu ar Karerasu galvenajā lomā jau tā paša gada augustā izrādīja Tiroles Festivālu namā Erlē , pērn arī Sanktpērterburgas Marijas teātrī , savukārt šā gada 2. jūlijā gaidāma pirmizrāde Vīnē , Theater an <b>der</b> Wien .</em>
 * <em>pat</em>
-  * <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 347: <em>Mātei allaž izdevās tikt viņai klāt līdz <b>pat</b> kaulu smadzenēm .</em>
+  * <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 347: <em>Arī šajā jomā ir poligoni , kuri <b>pat</b> nedomā to darīt .</em>
   * <tt><a href="lv_lvtb-pos-X.html">X</a></tt> 2: <em>Tā <b>pat</b> vien pavērties , bez domas kādas .</em>
   * <tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> 1: <em>Tu vari skaitīt afirmācijas , nēsāt līdzi mantras , kas piesaista naudu , tas palīdz enerģētiskā līmenī , vari izskraidīt visus iespējamos seminārus un izlasīt visas grāmatas , kļūt <b>pat</b> tādu kā staigājošu bibliotēku , zināt dažādas teorijas un prakses , bet nekas nemainās , ja tu dzīvē neesi izpildījis nevienu šo praksi , kas palīdz izmainīt domāšanu un pakāpties vienu solīti tuvāk finansiālai brīvībai , ja turpini negatīvi domāt un negatīvi runāt .</em>
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.008028 (the average of all parts of speech is 2.342815).
+The form / lemma ratio of `X` is 1.008046 (the average of all parts of speech is 2.343431).
 
 The 1st highest number of forms (8) was observed with the lemma “_”: <em>.c, 8, būt, ko, pat, prāt, traumatiskas, vienu</em>.
 
@@ -64,22 +64,22 @@ The 2nd highest number of forms (1) was observed with the lemma “&”: <em>&</
 
 The 3rd highest number of forms (1) was observed with the lemma “A”: <em>A</em>.
 
-`X` occurs with 2 features: <tt><a href="lv_lvtb-feat-Foreign.html">Foreign</a></tt> (1235; 98% instances), <tt><a href="lv_lvtb-feat-Typo.html">Typo</a></tt> (3; 0% instances)
+`X` occurs with 2 features: <tt><a href="lv_lvtb-feat-Foreign.html">Foreign</a></tt> (1234; 98% instances), <tt><a href="lv_lvtb-feat-Typo.html">Typo</a></tt> (3; 0% instances)
 
 `X` occurs with 2 feature-value pairs: `Foreign=Yes`, `Typo=Yes`
 
 `X` occurs with 3 feature combinations.
-The most frequent feature combination is `Foreign=Yes` (1232 tokens).
+The most frequent feature combination is `Foreign=Yes` (1231 tokens).
 Examples: <em>the, Pillar, Imprimatur, de, of, Capital, fund, Twitter, al, Avon</em>
 
 
 ## Relations
 
-`X` nodes are attached to their parents using 20 different relations: <tt><a href="lv_lvtb-dep-flat-name.html">flat:name</a></tt> (460; 37% instances), <tt><a href="lv_lvtb-dep-nmod.html">nmod</a></tt> (229; 18% instances), <tt><a href="lv_lvtb-dep-flat-foreign.html">flat:foreign</a></tt> (126; 10% instances), <tt><a href="lv_lvtb-dep-nsubj.html">nsubj</a></tt> (104; 8% instances), <tt><a href="lv_lvtb-dep-parataxis.html">parataxis</a></tt> (73; 6% instances), <tt><a href="lv_lvtb-dep-conj.html">conj</a></tt> (70; 6% instances), <tt><a href="lv_lvtb-dep-obl.html">obl</a></tt> (51; 4% instances), <tt><a href="lv_lvtb-dep-iobj.html">iobj</a></tt> (42; 3% instances), <tt><a href="lv_lvtb-dep-goeswith.html">goeswith</a></tt> (22; 2% instances), <tt><a href="lv_lvtb-dep-dep.html">dep</a></tt> (20; 2% instances), <tt><a href="lv_lvtb-dep-root.html">root</a></tt> (15; 1% instances), <tt><a href="lv_lvtb-dep-obj.html">obj</a></tt> (14; 1% instances), <tt><a href="lv_lvtb-dep-nsubj-pass.html">nsubj:pass</a></tt> (10; 1% instances), <tt><a href="lv_lvtb-dep-acl.html">acl</a></tt> (6; 0% instances), <tt><a href="lv_lvtb-dep-flat.html">flat</a></tt> (5; 0% instances), <tt><a href="lv_lvtb-dep-appos.html">appos</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-dep-discourse.html">discourse</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-dep-xcomp.html">xcomp</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-dep-ccomp.html">ccomp</a></tt> (1; 0% instances)
+`X` nodes are attached to their parents using 20 different relations: <tt><a href="lv_lvtb-dep-flat-name.html">flat:name</a></tt> (459; 37% instances), <tt><a href="lv_lvtb-dep-nmod.html">nmod</a></tt> (229; 18% instances), <tt><a href="lv_lvtb-dep-flat-foreign.html">flat:foreign</a></tt> (125; 10% instances), <tt><a href="lv_lvtb-dep-nsubj.html">nsubj</a></tt> (104; 8% instances), <tt><a href="lv_lvtb-dep-parataxis.html">parataxis</a></tt> (73; 6% instances), <tt><a href="lv_lvtb-dep-conj.html">conj</a></tt> (70; 6% instances), <tt><a href="lv_lvtb-dep-obl.html">obl</a></tt> (51; 4% instances), <tt><a href="lv_lvtb-dep-iobj.html">iobj</a></tt> (42; 3% instances), <tt><a href="lv_lvtb-dep-goeswith.html">goeswith</a></tt> (22; 2% instances), <tt><a href="lv_lvtb-dep-dep.html">dep</a></tt> (20; 2% instances), <tt><a href="lv_lvtb-dep-root.html">root</a></tt> (15; 1% instances), <tt><a href="lv_lvtb-dep-obj.html">obj</a></tt> (14; 1% instances), <tt><a href="lv_lvtb-dep-nsubj-pass.html">nsubj:pass</a></tt> (10; 1% instances), <tt><a href="lv_lvtb-dep-acl.html">acl</a></tt> (6; 0% instances), <tt><a href="lv_lvtb-dep-flat.html">flat</a></tt> (5; 0% instances), <tt><a href="lv_lvtb-dep-appos.html">appos</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-dep-discourse.html">discourse</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-dep-xcomp.html">xcomp</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-dep-ccomp.html">ccomp</a></tt> (1; 0% instances)
 
-Parents of `X` nodes belong to 12 different parts of speech: <tt><a href="lv_lvtb-pos-X.html">X</a></tt> (543; 43% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (307; 24% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (233; 19% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (113; 9% instances), <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (17; 1% instances),  (15; 1% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (10; 1% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (9; 1% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (1; 0% instances)
+Parents of `X` nodes belong to 12 different parts of speech: <tt><a href="lv_lvtb-pos-X.html">X</a></tt> (542; 43% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (307; 24% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (233; 19% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (112; 9% instances), <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (17; 1% instances),  (15; 1% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (10; 1% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (9; 1% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (1; 0% instances)
 
-661 (53%) `X` nodes are leaves.
+659 (52%) `X` nodes are leaves.
 
 73 (6%) `X` nodes have one child.
 
@@ -91,5 +91,5 @@ The highest child degree of a `X` node is 18.
 
 Children of `X` nodes are attached using 23 different relations: <tt><a href="lv_lvtb-dep-punct.html">punct</a></tt> (919; 47% instances), <tt><a href="lv_lvtb-dep-flat-name.html">flat:name</a></tt> (426; 22% instances), <tt><a href="lv_lvtb-dep-nmod.html">nmod</a></tt> (232; 12% instances), <tt><a href="lv_lvtb-dep-flat-foreign.html">flat:foreign</a></tt> (128; 6% instances), <tt><a href="lv_lvtb-dep-conj.html">conj</a></tt> (66; 3% instances), <tt><a href="lv_lvtb-dep-cc.html">cc</a></tt> (42; 2% instances), <tt><a href="lv_lvtb-dep-case.html">case</a></tt> (37; 2% instances), <tt><a href="lv_lvtb-dep-acl.html">acl</a></tt> (31; 2% instances), <tt><a href="lv_lvtb-dep-dep.html">dep</a></tt> (31; 2% instances), <tt><a href="lv_lvtb-dep-parataxis.html">parataxis</a></tt> (16; 1% instances), <tt><a href="lv_lvtb-dep-amod.html">amod</a></tt> (8; 0% instances), <tt><a href="lv_lvtb-dep-advmod-emph.html">advmod:emph</a></tt> (6; 0% instances), <tt><a href="lv_lvtb-dep-discourse.html">discourse</a></tt> (6; 0% instances), <tt><a href="lv_lvtb-dep-flat.html">flat</a></tt> (6; 0% instances), <tt><a href="lv_lvtb-dep-mark.html">mark</a></tt> (5; 0% instances), <tt><a href="lv_lvtb-dep-orphan.html">orphan</a></tt> (4; 0% instances), <tt><a href="lv_lvtb-dep-appos.html">appos</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-dep-det.html">det</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-dep-nummod.html">nummod</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-dep-cop.html">cop</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-dep-iobj.html">iobj</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-dep-nsubj.html">nsubj</a></tt> (1; 0% instances)
 
-Children of `X` nodes belong to 16 different parts of speech: <tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (919; 47% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt> (543; 27% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (255; 13% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (64; 3% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (50; 3% instances), <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (38; 2% instances), <tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> (36; 2% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (33; 2% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (12; 1% instances), <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (6; 0% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (1; 0% instances)
+Children of `X` nodes belong to 16 different parts of speech: <tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (919; 47% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt> (542; 27% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (255; 13% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (64; 3% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (50; 3% instances), <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (38; 2% instances), <tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> (36; 2% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (33; 2% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (12; 1% instances), <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (7; 0% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (1; 0% instances)
 

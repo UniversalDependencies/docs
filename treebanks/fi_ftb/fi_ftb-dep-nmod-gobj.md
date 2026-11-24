@@ -29,7 +29,7 @@ The following 5 pairs of parts of speech are connected with `nmod:gobj`: <tt><a 
 4	vaati	vaatia	VERB	V,Act,Ind,Past,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 5	kaksi	kaksi	NUM	Num,Card,Sg,Nom	Case=Nom|Number=Sing|NumType=Card	6	nummod	_	_
 6	leikkausta	leikkaus	NOUN	N,Sg,Par	Case=Par|Number=Sing	4	obj	_	_
-7	.	.	PUNCT	Pun	_	6	punct	_	_
+7	.	.	PUNCT	Pun	_	4	punct	_	_
 
 ~~~
 
@@ -41,14 +41,14 @@ The following 5 pairs of parts of speech are connected with `nmod:gobj`: <tt><a 
 # visual-style 5	fgColor:white
 # visual-style 5 4 nmod:gobj	color:blue
 1	Uskon	uskoa	VERB	V,Act,Ind,Pres,Sg1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-2	,	,	PUNCT	Pun	_	1	punct	_	_
+2	,	,	PUNCT	Pun	_	6	punct	_	_
 3	että	että	SCONJ	Pcle,CS	_	6	mark	_	_
 4	sen	se	PRON	Pron,Dem,Sg,Gen	Case=Gen|Number=Sing|PronType=Dem	5	nmod:gobj	_	Alt=nmod:gobj
 5	toteuttaminen	toteuttaminen	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	6	nsubj	_	_
 6	tulisi	tulla	VERB	V,Act,Cond,Sg3	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	1	ccomp	_	_
 7	hyvin	hyvin	ADV	Adv	_	8	advmod	_	_
 8	kalliiksi	kallis	ADJ	A,Sg,Tra	Case=Tra|Number=Sing	6	obl	_	_
-9	.	.	PUNCT	Pun	_	8	punct	_	_
+9	.	.	PUNCT	Pun	_	1	punct	_	_
 
 ~~~
 

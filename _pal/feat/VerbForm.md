@@ -54,4 +54,4 @@ The verbal noun in _-išn_ can be used as a `necessitative`. It can be interpret
 - _rawišn_
 
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:23 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:07 CET -->

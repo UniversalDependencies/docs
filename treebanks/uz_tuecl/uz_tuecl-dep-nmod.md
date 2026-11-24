@@ -9,28 +9,28 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `nmod`: <tt><a href="uz_tuecl-dep-nmod-poss.html">nmod:poss</a></tt>.
 
-15 nodes (2%) are attached to their parents as `nmod`.
+20 nodes (2%) are attached to their parents as `nmod`.
 
-15 instances of `nmod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.33333333333333.
+20 instances of `nmod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.4.
 
-The following 5 pairs of parts of speech are connected with `nmod`: <tt><a href="uz_tuecl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uz_tuecl-pos-NOUN.html">NOUN</a></tt> (8; 53% instances), <tt><a href="uz_tuecl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uz_tuecl-pos-PROPN.html">PROPN</a></tt> (2; 13% instances), <tt><a href="uz_tuecl-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uz_tuecl-pos-NOUN.html">NOUN</a></tt> (2; 13% instances), <tt><a href="uz_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_tuecl-pos-PROPN.html">PROPN</a></tt> (2; 13% instances), <tt><a href="uz_tuecl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uz_tuecl-pos-VERB.html">VERB</a></tt> (1; 7% instances).
+The following 5 pairs of parts of speech are connected with `nmod`: <tt><a href="uz_tuecl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uz_tuecl-pos-NOUN.html">NOUN</a></tt> (13; 65% instances), <tt><a href="uz_tuecl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uz_tuecl-pos-PROPN.html">PROPN</a></tt> (2; 10% instances), <tt><a href="uz_tuecl-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uz_tuecl-pos-NOUN.html">NOUN</a></tt> (2; 10% instances), <tt><a href="uz_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_tuecl-pos-PROPN.html">PROPN</a></tt> (2; 10% instances), <tt><a href="uz_tuecl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uz_tuecl-pos-VERB.html">VERB</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 nmod	color:blue
-1	Onasining	ona	NOUN	_	Case=Gen|Number=Sing|Poss=Yes	2	nmod	_	_
-2	orzusi	orzu	NOUN	_	Case=Nom|Number=Sing|Poss=Yes	6	nsubj	_	_
-3	Denizning	Deniz	PROPN	_	Case=Gen|Number=Sing	6	nmod	_	_
-4	yaxshi	yaxshi	ADJ	_	_	5	amod	_	_
-5	maktabda	maktab	NOUN	_	Case=Loc|Number=Sing	6	obl	_	_
-6	oʻqishi	oʻqi	VERB	_	VerbForm=Vnoun	0	root	_	_
-7	edi	edi	AUX	_	Tense=Past	6	cop	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	6	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 4 nmod	color:blue
+1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	7	nsubj	_	_
+2	doʻsti	doʻst	NOUN	_	Case=Nom|Number=Sing|Poss=Yes	3	nsubj	_	_
+3	tayyorlagan	tayyorla	VERB	_	VerbForm=Part	4	acl	_	_
+4	ovqatdan	ovqat	NOUN	_	Case=Abl|Number=Sing	6	nmod	_	_
+5	ikki	ikki	NUM	_	NumType=Card	6	nummod	_	_
+6	likopcha	likopcha	NOUN	_	Case=Nom|Number=Sing	7	obj	_	_
+7	yedi	ye	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	7	punct	_	_
 
 ~~~
 

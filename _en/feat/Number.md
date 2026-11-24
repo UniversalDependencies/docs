@@ -62,4 +62,4 @@ _linguistics_ and _Xerxes_ are singular, and _species_ and _series_ may be singu
 
 * _<b>clothes</b>, <b>scissors</b>, <b>riches</b>_
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:04 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:51 CET -->

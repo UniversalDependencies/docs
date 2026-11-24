@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-268 nodes (8%) are attached to their parents as `amod`.
+329 nodes (9%) are attached to their parents as `amod`.
 
-232 instances of `amod` (87%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.3544776119403.
+274 instances of `amod` (83%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.40729483282675.
 
-The following 6 pairs of parts of speech are connected with `amod`: <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt> (248; 93% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> (12; 4% instances), <tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt>-<tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="eo_prago-pos-PRON.html">PRON</a></tt>-<tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="eo_prago-pos-ADV.html">ADV</a></tt>-<tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `amod`: <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt> (298; 91% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> (22; 7% instances), <tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt>-<tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="eo_prago-pos-PRON.html">PRON</a></tt>-<tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="eo_prago-pos-ADV.html">ADV</a></tt>-<tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -80,7 +80,7 @@ The following 6 pairs of parts of speech are connected with `amod`: <tt><a href=
 15	disponi	disponi	VERB	_	VerbForm=Inf	14	xcomp	_	_
 16	pri	pri	ADP	_	_	18	case	_	_
 17	reala	reala	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	18	amod	_	_
-18	ŝanco	ŝanco	NOUN	_	Case=Nom|Number=Sing	15	nmod	_	_
+18	ŝanco	ŝanco	NOUN	_	Case=Nom|Number=Sing	15	obl	_	_
 19	por	por	ADP	_	_	20	mark	_	_
 20	alproprigi	alproprigi	VERB	_	VerbForm=Inf	18	acl	_	_
 21	duan	dua	ADJ	_	Case=Acc|Degree=Pos|Number=Sing	22	amod	_	_
@@ -88,7 +88,7 @@ The following 6 pairs of parts of speech are connected with `amod`: <tt><a href=
 23	ĝis	ĝis	ADP	_	_	26	case	_	_
 24	alta	alta	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	26	amod	_	_
 25	komunika	komunika	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	26	amod	_	_
-26	nivelo	nivelo	NOUN	_	Case=Nom|Number=Sing	20	nmod	_	SpaceAfter=No
+26	nivelo	nivelo	NOUN	_	Case=Nom|Number=Sing	20	obl	_	SpaceAfter=No
 27	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~

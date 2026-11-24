@@ -86,7 +86,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 * `Plur` (129; 20% of non-empty `Number`): <em>los, nos, las, les, todos, nosotros, ellas, otros, esos, muchos</em>
 * `Sing` (507; 80% of non-empty `Number`): <em>lo, yo, eso, le, te, me, todo, la, esto, usted</em>
-* `EMPTY` (268): <em>se, que, cómo, qué, dónde, donde, cuándo</em>
+* `EMPTY` (270): <em>se, que, cómo, qué, dónde, donde, cuándo</em>
 
 <table>
   <tr><th>Paradigm <i>él</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -181,13 +181,13 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="es_coser-dep-det.html">det</a></tt>]--> DET</tt> (594; 98%),
-<tt>VERB --[<tt><a href="es_coser-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (116; 57%),
-<tt>VERB --[<tt><a href="es_coser-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (99; 70%),
+<tt>VERB --[<tt><a href="es_coser-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (115; 57%),
+<tt>VERB --[<tt><a href="es_coser-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (99; 69%),
 <tt>VERB --[<tt><a href="es_coser-dep-obl.html">obl</a></tt>]--> NOUN</tt> (98; 51%),
-<tt>VERB --[<tt><a href="es_coser-dep-conj.html">conj</a></tt>]--> VERB</tt> (93; 62%),
+<tt>VERB --[<tt><a href="es_coser-dep-conj.html">conj</a></tt>]--> VERB</tt> (94; 63%),
 <tt>VERB --[<tt><a href="es_coser-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (77; 77%),
 <tt>NOUN --[<tt><a href="es_coser-dep-amod.html">amod</a></tt>]--> ADJ</tt> (60; 97%),
-<tt>NOUN --[<tt><a href="es_coser-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (51; 70%),
+<tt>NOUN --[<tt><a href="es_coser-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (52; 70%),
 <tt>VERB --[<tt><a href="es_coser-dep-obl-arg.html">obl:arg</a></tt>]--> PRON</tt> (47; 59%),
 <tt>ADJ --[<tt><a href="es_coser-dep-cop.html">cop</a></tt>]--> AUX</tt> (46; 92%).
 

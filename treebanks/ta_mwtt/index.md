@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.7 release.
 The following people have contributed to making this treebank part of UD: Sarveswaran Kengatharaiyer, Parameswari Krishnamurthy, Keerthana Balasubramani.
 
 Repository: [UD_Tamil-MWTT](https://github.com/UniversalDependencies/UD_Tamil-MWTT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udta_mwtt218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udta_mwtt219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 
@@ -687,7 +687,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-Acc (22)</li>
       <li>VERB--NOUN-Acc-ADP(குறித்து) (1)</li>
       <li>VERB--NOUN-Acc-ADP(பற்றி) (1)</li>
-      <li>VERB--NOUN-Nom (61)</li>
+      <li>VERB--NOUN-Nom (59)</li>
       <li>VERB--PRON (3)</li>
       <li>VERB--PRON-Acc (17)</li>
       <li>VERB-Conv--NOUN-Acc (8)</li>

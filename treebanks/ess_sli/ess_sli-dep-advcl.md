@@ -8,57 +8,46 @@ udver: '2'
 
 This relation is universal.
 
-73 nodes (3%) are attached to their parents as `advcl`.
+73 nodes (5%) are attached to their parents as `advcl`.
 
 53 instances of `advcl` (73%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.72602739726027.
+Average distance between parent and child is 2.23287671232877.
 
 The following 2 pairs of parts of speech are connected with `advcl`: <tt><a href="ess_sli-pos-VERB.html">VERB</a></tt>-<tt><a href="ess_sli-pos-VERB.html">VERB</a></tt> (72; 99% instances), <tt><a href="ess_sli-pos-VERB.html">VERB</a></tt>-<tt><a href="ess_sli-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 6 advcl	color:blue
+# visual-style 2 5 advcl	color:blue
 1	Sangavek	sangavek	ADV	_	PronType=Int	2	advmod	_	Analysis=sangavek(WH)|Gloss=why
 2	atightugh	atightugh	VERB	_	_	0	root	_	Analysis=atightugh(V)|Gloss=to-read
-3	aq	aq	VERB	_	Aspect=Prog|Tense=Pres	2	dep:aux	_	Analysis=~(g)aqe(V→V)|Gloss=to-be-currently-V-ing
-4	sin	sin	X	_	Mood=Int|Number[subj]=Sing|Person[subj]=2|Subcat=Intr	3	dep:infl	_	Analysis=[Intrg.Intr.2Sg]
-5	ingagh	ingagh	X	_	_	6	dep:pos	_	Analysis=ingagh*(POS)|Gloss=lying-down
-6	nga	nga	VERB	_	_	2	advcl	_	Analysis=~fnga(POS→STATIVE)|Gloss=to-be-in-the-R-posture
-7	gpek	gpek	X	_	Number[subj]=Sing|Person[subj]=2	6	dep:infl	_	Analysis=[2Sg]
-8	efluga	efluga	NOUN	_	_	5	obl	_	Analysis=eflugagh(N)|Gloss=floor
-9	mi	mi	X	_	Case=Loc|Number=Sing	8	dep:infl	_	Analysis=[Loc.Sg]
-10	?	?	PUNCT	_	_	2	punct	_	Analysis=?
+3	aqsin	aq	X	_	Aspect=Prog|Mood=Int|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	2	dep:aux	_	Analysis=~(g)aqe(V→V)^[Intrg.Intr.2Sg]|Gloss=to-be-currently-V-ing|MSeg=aq+sin
+4	ingagh	ingagh	X	_	_	5	dep:pos	_	Analysis=ingagh*(POS)|Gloss=lying-down
+5	ngaghpek	nga	VERB	_	Number[subj]=Sing|Person[subj]=2	2	advcl	_	Analysis=~fnga(POS→STATIVE)^[2Sg]|Gloss=to-be-in-the-R-posture|MSeg=nga+gpek
+6	eflugami	efluga	NOUN	_	Case=Loc|Number=Sing	4	obl	_	Analysis=eflugagh(N)^[Loc.Sg]|Gloss=on-the-floor|MSeg=efluga+mi|SpaceAfter=No
+7	?	?	PUNCT	_	_	2	punct	_	Analysis=?
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 13 advcl	color:blue
-1	Ungipaat	ungipaat	VERB	_	_	0	root	_	Analysis=ungipaate(V)|Gloss=to-tell
-2	a	a	X	_	Mood=Ind|Subcat=Tran	1	dep:infl	_	Analysis=[Ind.Trns]
-3	anga	anga	X	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=1|Person[subj]=3	1	dep:infl	_	Analysis=[3Sg.1Sg]
-4	yug	yug	NOUN	_	_	6	nsubj	_	Analysis=yug(N)|Gloss=man
-5	et	et	X	_	Case=Abs|Number=Plur	4	dep:infl	_	Analysis=[Abs.Pl]
-6	kiyaghh	kiyaghh	VERB	_	_	8	xcomp	_	Analysis=kiyaghte(V)|Gloss=to-live
-7	neghin	neghin	VERB	_	Polarity=Neg	6	dep:aux	_	Analysis=@–nghite(V→V)|Gloss=to-not-V
-8	ni	ni	VERB	_	_	1	advcl	_	Analysis=@~fni(CmpdVbl)|Gloss=to-say-that-one-is-V-ing
-9	lu	lu	X	_	Mood=Sbr|Subcat=Tran	8	dep:infl	_	Analysis=[Sbrd.Trns]
-10	ki	ki	X	_	Number[obj]=Plur|Person[obj]=3	8	dep:infl	_	Analysis=[_.3Pl]
-11	guygu	guygu	NOUN	_	_	6	obl	_	Analysis=guygu(N)|Gloss=summer-house
-12	ni	ni	X	_	Case=Loc|Number=Plur	11	dep:infl	_	Analysis=[Loc.Pl]
-13	taghnughha	taghnughha	NOUN	_	_	8	advcl	_	Analysis=taghnughhagh*(N)|Gloss=child
-14	u	u	VERB	_	_	13	dep:cop	_	Analysis=~:(ng)u(N→V)|Gloss=to-be-N
-15	gaqnga	gaqnga	X	_	Mood=Cn2|Subcat=Intr	14	dep:infl	_	Analysis=[Cnsq2.Intr]
-16	mi	mi	X	_	Number[subj]=Sing|Person[subj]=3|Reflex[subj]=Yes	14	dep:infl	_	Analysis=[4Sg]
-17	.	.	PUNCT	_	_	13	punct	_	Analysis=.
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 7 advcl	color:blue
+1	Ungipaataanga	ungipaat	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=1|Person[subj]=3|Subcat=Tran	0	root	_	Analysis=ungipaate(V)^[Ind.Trns]^[3Sg.1Sg]|Gloss=he-told-me|MSeg=Ungipaat+a+anga
+2	yuget	yug	NOUN	_	Case=Abs|Number=Plur	3	nsubj	_	Analysis=yug(N)^[Abs.Pl]|Gloss=people|MSeg=yug+et
+3	kiyaghh	kiyaghh	VERB	_	_	5	xcomp	_	Analysis=kiyaghte(V)|Gloss=to-live
+4	neghin	neghin	X	_	Polarity=Neg	3	dep:aux	_	Analysis=@–nghite(V→V)|Gloss=to-not-V
+5	niluki	ni	VERB	_	Mood=Sbr|Number[obj]=Plur|Person[obj]=3|Subcat=Tran	1	advcl	_	Analysis=@~fni(CmpdVbl)^[Sbrd.Trns]^[_.3Pl]|Gloss=to-say-that-one-is-V-ing|MSeg=ni+lu+ki
+6	guyguni	guygu	NOUN	_	Case=Loc|Number=Plur	3	obl	_	Analysis=guygu(N)^[Loc.Pl]|Gloss=in-summer-houses|MSeg=guygu+ni
+7	taghnughha	taghnughha	NOUN	_	_	5	advcl	_	Analysis=taghnughhagh*(N)|Gloss=child
+8	awaqngami	u	X	_	Mood=Cn2|Number[subj]=Sing|Person[subj]=3|Reflex[subj]=Yes|Subcat=Intr	7	dep:cop	_	Analysis=~:(ng)u(N→V)^[Cnsq2.Intr]^[4Sg]|Gloss=to-be-N|MSeg=u+gaqnga+mi
+9	.	.	PUNCT	_	_	7	punct	_	Analysis=.
 
 ~~~
 

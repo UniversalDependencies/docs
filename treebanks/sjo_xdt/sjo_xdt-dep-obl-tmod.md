@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="sjo_xdt-dep-obl.html">obl</a></tt>.
 There are also 1 other language-specific subtypes of `obl`: <tt><a href="sjo_xdt-dep-obl-lmod.html">obl:lmod</a></tt>.
 
-132 nodes (1%) are attached to their parents as `obl:tmod`.
+130 nodes (1%) are attached to their parents as `obl:tmod`.
 
-131 instances of `obl:tmod` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 15.1818181818182.
+129 instances of `obl:tmod` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 15.3615384615385.
 
-The following 8 pairs of parts of speech are connected with `obl:tmod`: <tt><a href="sjo_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sjo_xdt-pos-NOUN.html">NOUN</a></tt> (105; 80% instances), <tt><a href="sjo_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sjo_xdt-pos-NUM.html">NUM</a></tt> (11; 8% instances), <tt><a href="sjo_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sjo_xdt-pos-ADJ.html">ADJ</a></tt> (6; 5% instances), <tt><a href="sjo_xdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sjo_xdt-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="sjo_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sjo_xdt-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="sjo_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sjo_xdt-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="sjo_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sjo_xdt-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="sjo_xdt-pos-NUM.html">NUM</a></tt>-<tt><a href="sjo_xdt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 8 pairs of parts of speech are connected with `obl:tmod`: <tt><a href="sjo_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sjo_xdt-pos-NOUN.html">NOUN</a></tt> (105; 81% instances), <tt><a href="sjo_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sjo_xdt-pos-NUM.html">NUM</a></tt> (11; 8% instances), <tt><a href="sjo_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sjo_xdt-pos-ADJ.html">ADJ</a></tt> (6; 5% instances), <tt><a href="sjo_xdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sjo_xdt-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="sjo_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sjo_xdt-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="sjo_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sjo_xdt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="sjo_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sjo_xdt-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="sjo_xdt-pos-NUM.html">NUM</a></tt>-<tt><a href="sjo_xdt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

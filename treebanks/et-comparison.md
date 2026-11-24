@@ -500,7 +500,7 @@ udver: '2'
             <li>ADJ-Part: huvitav, leviv, mõeldav, olevast, vastav, vastava, elavana, erinev, hirmutav, huvitavaks</li>
             <li>AUX: on, oli, olen, võib, saab, peab, oled, ongi, sai, olin</li>
             <li>AUX-Fin: on, oli, olen, võib, saab, peab, oled, ongi, sai, olin</li>
-            <li>DET: see, mingi, selle, seda, iga, üks, selline, sama, mingit, sellest</li>
+            <li>DET: see, mingi, selle, seda, iga, üks, selline, sama, mingit, sellist</li>
             <li>NOUN: asi, aasta, teema, aru, auto, inimene, aastat, raha, aega, osa</li>
             <li>NOUN-Part: nakatunut, nakatunu, nakatunust, surnu, surnut, Kirjapandu, eeltoodu, haigestunut, kirjutatut, lahtiharutatuna</li>
             <li>NUM: kaks, paar, ühe, üks, kahe, kolm, miljonit, paari, poole, miljoni</li>
@@ -705,6 +705,7 @@ udver: '2'
           <ul>
             <li>ADJ: viimasega, 80ndatega, II-ga, IV-ga, Viimastega, abstraktsega, auklikuga, dekoratiivsega, dementsetega, eelmisega</li>
             <li>ADJ-Part: toimuvaga</li>
+            <li>DET: kõigega</li>
             <li>NOUN: aastaga, osaajaga, käega, arhitektuuriga, nimega, punktiga, tööga, häälega, tõenäosusega, pilguga</li>
             <li>NOUN-Part: Eelnevaga, ennustatuga, koondatavaga, olemasolevaga, soovitatuga, tooduga</li>
             <li>NUM: ühega, 2/3ga, 2ga, nulliga, 17.99ga, 3.51,1-ga, 351ga, 49,38ga, 54,68ga, kümnega</li>
@@ -753,7 +754,7 @@ udver: '2'
             <li>ADJ: keskmisest, suurest, esimesest, tavalisest, senisest, vanast, uuest, endisest, mustast, viimasest</li>
             <li>ADJ-Part: toimuvast, erinevatest, loodetust, eelnevast, mõjutavatest, olevast, toimuvatest, ümbritsevast, asuvast, erinevast</li>
             <li>AUX-Sup: olemast</li>
-            <li>DET: sellest, neist, ühest, teistest, teisest, kõigist, mõnest, paljudest, nendest, mitmest</li>
+            <li>DET: sellest, neist, ühest, teistest, teisest, kõigist, mõnest, paljudest, mitmest, nendest</li>
             <li>NOUN: aastast, ajast, aastatest, elust, peast, algusest, uksest, küljest, tervisest, üldlipiididest</li>
             <li>NOUN-Part: hõivatuist, hõivatutest, vastanuist, eeltoodust, toodust, uurituist, uuritutest, vastanutest, Eelöeldust, alustanust</li>
             <li>NUM: kahest, kolmest, kümnest, ühest, neljast, sajast, kuuest, 644-st, viiest, üheksast</li>
@@ -962,7 +963,7 @@ udver: '2'
           <ul>
             <li>ADJ: uusi, esimest, suurt, erinevaid, uut, head, suuri, suuremat, viimast, pikka</li>
             <li>ADJ-Part: erinevaid, erinevat, huvitavaid, toimuvat, vastavat, huvitavat, täiendavaid, täiendavat, vajaminevat, sobivat</li>
-            <li>DET: seda, mingit, neid, kõiki, sellist, mingeid, mitmeid, selliseid, sama, teisi</li>
+            <li>DET: seda, mingit, neid, sellist, kõiki, mingeid, mitmeid, selliseid, sama, teisi</li>
             <li>NOUN: aastat, korda, krooni, aega, raha, tegemist, tööd, aru, inimesi, mõju</li>
             <li>NOUN-Part: uuritavat, olemasolevaid, toimunut, juhtunut, kinnipeetavat, süüdistatavaid, edasijõudnuid, eeltoodut, elusolevat, hõivatuid</li>
             <li>NUM: miljonit, kahte, miljardit, kolme, ühtegi, tuhandeid, üht, ühte, nelja, kaht</li>
@@ -976,7 +977,7 @@ udver: '2'
       <ul>
         <li>Par
           <ul>
-            <li>ADJ: head, sellist, suurt, erinevaid, esimest, häid, uut, uusi, erilist, teist</li>
+            <li>ADJ: head, suurt, erinevaid, esimest, häid, uut, uusi, erilist, sellist, teist</li>
             <li>ADJ-Part: erinevaid, huvitavaid, huvitavat, õitsvat, olevaid, söödavaid, Püsivat, asuvaid, edasiliikuvat, edutatavaid</li>
             <li>DET: seda, mingit, neid, sellist, mingeid, mõnda, selliseid, kõiki, teisi, sama</li>
             <li>NOUN: aru, aastat, aega, inimesi, raha, korda, asju, asja, autot, inimest</li>
@@ -1029,7 +1030,7 @@ udver: '2'
             <li>NOUN: lisaks, põhjuseks, aluseks, aastaks, eesmärgiks, ajaks, lõpuks, kasuks, ülesandeks, saamiseks</li>
             <li>NOUN-Part: viibinuks, väljavalituteks</li>
             <li>NUM: kaheks, kolmeks, üheks, neljaks, viieks, paariks, kuueks, pooleks, 10ks, 51-ks</li>
-            <li>PRON: selleks, omaks, milleks, samaks, nendeks, selliseks, iseendaks, kõigeks, kelleks, paljuks</li>
+            <li>PRON: selleks, omaks, milleks, samaks, nendeks, selliseks, iseendaks, kelleks, kõigeks, paljuks</li>
             <li>PROPN: Arpanetiks, Atriumiks, Cabernet'-veiniks, Chappaquaks, Entente'iks, Franckiks, Francoks, Hitleriks, Indiaks, Iraagiks</li>
             <li>SYM: A-ks</li>
             <li>VERB-Sup: leidmaks, kirjeldamaks, vältimaks, näitamaks, rõhutamaks, selgitamaks, Andmaks, Jõudmaks, Kavandamaks, Saavutamaks</li>
@@ -1573,7 +1574,7 @@ udver: '2'
       <ul>
         <li>Dem
           <ul>
-            <li>ADJ: selline, sama, samasugune, sellised, sellist, selliseid, niisugune, samad, samasugused, sedasama</li>
+            <li>ADJ: selline, sama, samasugune, sellised, selliseid, niisugune, sellist, samad, samasugused, sedasama</li>
             <li>DET: see, selle, need, seda, sel, nende, samal, sama, teiste, selline</li>
             <li>PRON: see, seda, selle, sellest, nende, need, neid, selleks, sellega, sellele</li>
             <li>PROPN: teise</li>
@@ -1586,7 +1587,7 @@ udver: '2'
         <li>Dem
           <ul>
             <li>ADJ: selline, sama, sellist, sellised, samad, samasugune, niisugune, samasugused, sedasama, sellise</li>
-            <li>DET: see, selle, seda, need, selline, sama, neid, sellest, sellist, teine</li>
+            <li>DET: see, selle, seda, need, selline, sama, neid, sellist, sellest, teine</li>
             <li>PRON: see, seda, selle, neid, need, sellest, selles, sellega, selleks, sellele</li>
             <li>PROPN: Sama</li>
           </ul>
@@ -1599,9 +1600,9 @@ udver: '2'
       <ul>
         <li>Ind
           <ul>
-            <li>ADJ: igasuguseid, mingisugust, muu, muud, muul</li>
+            <li>ADJ: igasuguseid, mingisugust, muud, muul</li>
             <li>DET: üks, ühe, mitu, mingi, mingit, mõne, mõni, mõned, paljud, ühel</li>
-            <li>PRON: midagi, keegi, muud, üks, muu, paljud, kedagi, igaüks, kellelegi, miski</li>
+            <li>PRON: midagi, keegi, üks, muud, muu, paljud, kedagi, igaüks, kellelegi, miski</li>
           </ul>
         </li>
       </ul>
@@ -2580,7 +2581,7 @@ udver: '2'
             <li>VERB-Fin--NOUN-Nom (11301)</li>
             <li>VERB-Fin--NOUN-Par (1082)</li>
             <li>VERB-Fin--PRON-Nom (5769)</li>
-            <li>VERB-Fin--PRON-Par (139)</li>
+            <li>VERB-Fin--PRON-Par (140)</li>
             <li>VERB-Inf--NOUN (4)</li>
             <li>VERB-Inf--NOUN-Gen (3)</li>
             <li>VERB-Inf--NOUN-Nom (516)</li>
@@ -2616,7 +2617,7 @@ udver: '2'
             <li>VERB-Fin--NOUN-Par (250)</li>
             <li>VERB-Fin--PRON (1)</li>
             <li>VERB-Fin--PRON-Nom (1715)</li>
-            <li>VERB-Fin--PRON-Par (52)</li>
+            <li>VERB-Fin--PRON-Par (53)</li>
             <li>VERB-Inf--NOUN (3)</li>
             <li>VERB-Inf--NOUN-Gen (2)</li>
             <li>VERB-Inf--NOUN-Nom (77)</li>

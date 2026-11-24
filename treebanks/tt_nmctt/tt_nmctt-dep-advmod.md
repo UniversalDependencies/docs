@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `advmod`: <tt><a href="tt_nmctt-dep-advmod-emph.html">advmod:emph</a></tt>.
 
-77 nodes (3%) are attached to their parents as `advmod`.
+78 nodes (3%) are attached to their parents as `advmod`.
 
 55 instances of `advmod` (71%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.71428571428571.
+Average distance between parent and child is 3.69230769230769.
 
-The following 8 pairs of parts of speech are connected with `advmod`: <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-ADV.html">ADV</a></tt> (37; 48% instances), <tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tt_nmctt-pos-ADV.html">ADV</a></tt> (12; 16% instances), <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-ADV.html">ADV</a></tt> (11; 14% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt> (7; 9% instances), <tt><a href="tt_nmctt-pos-ADV.html">ADV</a></tt>-<tt><a href="tt_nmctt-pos-ADV.html">ADV</a></tt> (4; 5% instances), <tt><a href="tt_nmctt-pos-NUM.html">NUM</a></tt>-<tt><a href="tt_nmctt-pos-ADV.html">ADV</a></tt> (3; 4% instances), <tt><a href="tt_nmctt-pos-PRON.html">PRON</a></tt>-<tt><a href="tt_nmctt-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="tt_nmctt-pos-ADP.html">ADP</a></tt>-<tt><a href="tt_nmctt-pos-ADV.html">ADV</a></tt> (1; 1% instances).
+The following 8 pairs of parts of speech are connected with `advmod`: <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-ADV.html">ADV</a></tt> (37; 47% instances), <tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tt_nmctt-pos-ADV.html">ADV</a></tt> (12; 15% instances), <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-ADV.html">ADV</a></tt> (12; 15% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt> (7; 9% instances), <tt><a href="tt_nmctt-pos-ADV.html">ADV</a></tt>-<tt><a href="tt_nmctt-pos-ADV.html">ADV</a></tt> (4; 5% instances), <tt><a href="tt_nmctt-pos-NUM.html">NUM</a></tt>-<tt><a href="tt_nmctt-pos-ADV.html">ADV</a></tt> (3; 4% instances), <tt><a href="tt_nmctt-pos-PRON.html">PRON</a></tt>-<tt><a href="tt_nmctt-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="tt_nmctt-pos-ADP.html">ADP</a></tt>-<tt><a href="tt_nmctt-pos-ADV.html">ADV</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

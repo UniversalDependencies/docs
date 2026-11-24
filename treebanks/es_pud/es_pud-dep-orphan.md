@@ -82,13 +82,13 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 5	Cáucaso	Cáucaso	PROPN	NNP	Number=Sing	2	nmod	_	_
 6	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	expl:pass	_	_
 7	conoce	conocer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-8	como	como	ADP	IN	_	9	case	_	_
+8	como	como	SCONJ	IN	_	9	case	_	_
 9	Ciscaucasia	Ciscaucasia	PROPN	NNP	Number=Sing	7	obl	_	_
 10	y	y	CCONJ	CC	_	12	cc	_	_
 11	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
 12	parte	parte	NOUN	NN	Gender=Fem|Number=Sing	7	conj	_	_
 13	sur	sur	NOUN	NN	Gender=Masc|Number=Sing	12	appos	_	_
-14	como	como	ADP	IN	_	15	case	_	_
+14	como	como	SCONJ	IN	_	15	case	_	_
 15	Transcaucásica	Transcaucásica	PROPN	NNP	Number=Sing	12	orphan	_	SpaceAfter=No
 16	.	.	PUNCT	.	PunctType=Peri	7	punct	_	_
 

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Siyao Peng, Amir Zeldes.
 
 Repository: [UD_English-GUM](https://github.com/UniversalDependencies/UD_English-GUM)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_gum218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_gum219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -194,12 +194,23 @@ For papers focusing on bridging anaphora, please cite this paper instead:
 
 ```bibtex
 @inproceedings{levine-zeldes-2026-gumbridge,
-title = "{GUMBridge}: a Corpus for Varieties of Bridging Anaphora",
+title = "{GUMB}ridge: A Corpus for Varieties of Bridging Anaphora",
 author = "Levine, Lauren and
 Zeldes, Amir",
-booktitle = "Proceedings of LREC 2026",
+editor = "Piperidis, Stelios and
+Bel, N{\'u}ria and
+van den Heuvel, Henk and
+Ide, Nancy and
+Krek, Simon and
+Toral, Antonio",
+booktitle = "Proceedings of the Fifteenth Language Resources and Evaluation Conference",
+month = may,
 year = "2026",
-address = "Mallorca",
+address = "Palma de Mallorca, Spain",
+publisher = "ELRA Language Resource Association",
+url = "https://aclanthology.org/2026.lrec-1.543/",
+doi = "10.63317/3sf73k63vuww",
+pages = "6823--6837"
 }
 ```
 
@@ -256,11 +267,11 @@ address = "Mallorca",
 </ul>
 
 <ul>
-<li>This corpus contains 47 lemmas tagged as pronouns (PRON): I, anybody, anyone, anything, everybody, everyone, everything, he, her, herself, himself, his, it, its, itself, my, myself, nobody, nothing, one, oneself, our, ourselves, s/he, she, somebody, someone, something, that, their, themselves, there, they, this, we, what, whatever, which, who, whoever, whose, whosoever, ye, you, your, yourself, yourselves</li>
+<li>This corpus contains 48 lemmas tagged as pronouns (PRON): I, anybody, anyone, anything, everybody, everyone, everything, he, her, herself, himself, his, it, its, itself, my, myself, nobody, none, nothing, one, oneself, our, ourselves, s/he, she, somebody, someone, something, that, their, themselves, there, they, this, we, what, whatever, which, who, whoever, whose, whosoever, ye, you, your, yourself, yourselves</li>
 </ul>
 
 <ul>
-<li>This corpus contains 23 lemmas tagged as determiners (DET): Mat, a, all, another, any, both, each, either, every, half, neither, no, quite, some, such, that, the, this, une, what, whatever, which, yonder</li>
+<li>This corpus contains 22 lemmas tagged as determiners (DET): Mat, a, all, another, any, both, each, either, every, half, neither, no, quite, some, such, that, the, this, what, whatever, which, yonder</li>
 </ul>
 
 <ul>
@@ -300,7 +311,7 @@ address = "Mallorca",
 <ul>
   <li>Inf
   <ul>
-    <li>AUX: be, have, do, get, 've, a</li>
+    <li>AUX: be, have, get, do, 've, a</li>
     <li>VERB: have, do, make, get, go, know, see, take, say, find</li>
   </ul>
   </li>
@@ -384,9 +395,8 @@ address = "Mallorca",
 <ul>
   <li>Sing
     <ul>
-      <li>AUX: is, was, 's, has, do, 'm, did, ’s, had, does</li>
-      <li>AUX-Fin: is, was, 's, has, do, 'm, did, ’s, had, does</li>
-      <li>DET: this, that, half</li>
+      <li>AUX-Fin: is, was, 's, do, has, 'm, did, ’s, had, does</li>
+      <li>DET: this, that</li>
       <li>NOUN: time, way, day, year, world, life, today, city, work, lot</li>
       <li>NUM: half</li>
       <li>PRON: i, it, you, he, that, your, his, my, this, she</li>
@@ -405,7 +415,7 @@ address = "Mallorca",
 <ul>
   <li>Acc
     <ul>
-      <li>PRON: it, you, me, them, us, him, her, 's, itself, yourself</li>
+      <li>PRON: it, what, you, me, them, us, him, her, 's, itself</li>
     </ul>
   </li>
 </ul>
@@ -413,7 +423,7 @@ address = "Mallorca",
 <ul>
   <li>Gen
     <ul>
-      <li>PRON: your, his, my, our, their, its, her, it's, he, it</li>
+      <li>PRON: your, his, my, our, their, its, her, whose, it's, he</li>
     </ul>
   </li>
 </ul>
@@ -421,7 +431,7 @@ address = "Mallorca",
 <ul>
   <li>Nom
     <ul>
-      <li>PRON: i, you, it, we, they, he, she, him, me, them</li>
+      <li>PRON: i, you, it, we, they, he, she, who, what, him</li>
     </ul>
   </li>
 </ul>
@@ -467,7 +477,7 @@ address = "Mallorca",
   <li>Pos
     <ul>
       <li>ADJ: other, new, many, good, little, same, first, different, last, own</li>
-      <li>ADV: really, well, back, still, again, too, much, actually, probably, away</li>
+      <li>ADV: well, much, probably, away, right, often, around, far, up, down</li>
     </ul>
   </li>
 </ul>
@@ -488,7 +498,6 @@ address = "Mallorca",
 <ul>
   <li>Neg
     <ul>
-      <li>ADV: no</li>
       <li>CCONJ: nor, neither</li>
       <li>INTJ: no, naw</li>
       <li>PART: not, n't, n’t, n`t</li>
@@ -516,8 +525,8 @@ address = "Mallorca",
 <ul>
   <li>Imp
     <ul>
-      <li>AUX-Fin: be, do</li>
-      <li>VERB-Fin: let, look, see, make, get, try, use, add, place, take</li>
+      <li>AUX-Fin: do, be</li>
+      <li>VERB-Fin: let, look, see, make, get, try, add, use, place, take</li>
     </ul>
   </li>
 </ul>
@@ -597,7 +606,7 @@ address = "Mallorca",
 <ul>
   <li>Dem
     <ul>
-      <li>ADV: then, here, there</li>
+      <li>ADV: then, now, here, there</li>
       <li>DET: this, that, these, those, yonder</li>
       <li>PRON: there, that, this, those, these</li>
     </ul>
@@ -615,8 +624,8 @@ address = "Mallorca",
 <ul>
   <li>Ind
     <ul>
-      <li>DET: some, all, any, every, another, each, such, both, either, quite</li>
-      <li>PRON: something, anything, someone, anyone, somebody, anybody</li>
+      <li>DET: some, all, any, every, another, such, both, either, quite, whatever</li>
+      <li>PRON: something, anything, someone, anyone, somebody, anybody, none</li>
     </ul>
   </li>
 </ul>
@@ -626,7 +635,7 @@ address = "Mallorca",
     <ul>
       <li>ADV: when, how, where, why, whither, whenever, whereupon</li>
       <li>DET: which, what</li>
-      <li>PRON: what, who, which, Whoever, whose</li>
+      <li>PRON: what, which, who, Whoever, whose</li>
     </ul>
   </li>
 </ul>
@@ -634,6 +643,7 @@ address = "Mallorca",
 <ul>
   <li>Neg
     <ul>
+      <li>ADV: never, no, nowhere</li>
       <li>DET: no, neither</li>
       <li>PRON: nothing, one, nobody</li>
     </ul>
@@ -662,7 +672,7 @@ address = "Mallorca",
     <ul>
       <li>ADV: where, how, why, when, whenever, wherever, however, whereby</li>
       <li>DET: what</li>
-      <li>PRON: that, which, what, who, whatever, whom, whose, whoever, Whosoever, wish</li>
+      <li>PRON: that, which, what, who, whatever, whose, whom, whoever, Whosoever, wish</li>
     </ul>
   </li>
 </ul>
@@ -670,7 +680,8 @@ address = "Mallorca",
 <ul>
   <li>Tot
     <ul>
-      <li>DET: all, both, each, every</li>
+      <li>ADV: always, sometimes, ever, somewhere, anywhere, everywhere, sometime</li>
+      <li>DET: all, each, both, every</li>
       <li>PRON: everything, everyone, everybody, ev</li>
     </ul>
   </li>
@@ -759,9 +770,9 @@ address = "Mallorca",
 <ul>
   <li>2
     <ul>
-      <li>AUX-Fin: 're, do, are, have, did, ’re, 've, be, were, ’ve</li>
+      <li>AUX-Fin: do, 're, are, have, did, ’re, 've, were, be, ’ve</li>
       <li>PRON: you, your, yourself, yours, ye, ya, y', yourselves</li>
-      <li>VERB-Fin: know, let, have, get, want, see, look, make, think, put</li>
+      <li>VERB-Fin: know, let, have, get, want, see, look, make, take, think</li>
     </ul>
   </li>
 </ul>
@@ -844,6 +855,7 @@ address = "Mallorca",
       <li>PROPN
         <ul>
           <li>ADJ: Happy, Simple</li>
+          <li>VERB: Hunting, United, Walk, Walks, Wed, Write</li>
           <li>VERB-Fin: Walk, Walks</li>
           <li>VERB-Inf: Write</li>
           <li>VERB-Part: United, Wed</li>
@@ -869,7 +881,6 @@ address = "Mallorca",
           <li>ADJ: National</li>
           <li>ADP: x</li>
           <li>ADV: Ne, pas</li>
-          <li>DET: Une</li>
           <li>INTJ: sh-</li>
           <li>NUM: 62</li>
           <li>PROPN: Shobhajatra, Mangal, de, Cérebro, Escola, do, et, Catarin, Conservatoire, Federal</li>
@@ -949,7 +960,7 @@ address = "Mallorca",
         <ul>
           <li>ADJ: residential, 2D, I.=, Indie, Water, beautiful, completed, crowed, digital, first</li>
           <li>ADP: on, to, of, with, a, as, fro, from, in, is</li>
-          <li>ADV: aka, all, before, Non, a, abaut, ie, p, really, them</li>
+          <li>ADV: aka, all, before, really, Non, a, abaut, ie, p, them</li>
           <li>AUX-Fin: are, is, was, can, will, get, has, have, were, where</li>
           <li>AUX-Inf: be</li>
           <li>AUX-Part: been</li>
@@ -963,10 +974,10 @@ address = "Mallorca",
           <li>PROPN: sea, skittles, #langu, American, Chatnam, Fla., Hutter, JOHN, Misalette, Oija</li>
           <li>PUNCT: ., ", –, -, (, ;, [, |, ’</li>
           <li>SCONJ: cuz, cause, 'til, Altho, despite, that, then, whil, 'cuz, ‘cuz</li>
-          <li>VERB: got, dwibbling, Pre, questi, se, set, under, understand, United, Untied</li>
-          <li>VERB-Fin: got, set, address, ate, begun, belidve, belie-, beraded, cause, construe</li>
+          <li>VERB: got, dwibbling, Pre, questi, se, set, under, understand, S’pose, United</li>
+          <li>VERB-Fin: got, set, S’pose, address, ate, begun, belidve, belie-, beraded, cause</li>
           <li>VERB-Ger: fighting, leading, preceeding, recurring, traightening</li>
-          <li>VERB-Inf: understand, breath, experience, fall, go, happen, loose, makke, r, recieve</li>
+          <li>VERB-Inf: understand, breath, experience, fall, go, happen, loose, makke, r, re-code</li>
           <li>VERB-Part: dwibbling, got, United, Untied, charged, deeping, disappeared, exper-, food, going</li>
         </ul>
       </li>
@@ -994,20 +1005,20 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB--PRON-Nom (3)</li>
-      <li>VERB-Fin--NOUN (2425)</li>
-      <li>VERB-Fin--PRON (925)</li>
-      <li>VERB-Fin--PRON-Nom (4571)</li>
+      <li>VERB-Fin--NOUN (2421)</li>
+      <li>VERB-Fin--PRON (714)</li>
+      <li>VERB-Fin--PRON-Nom (4785)</li>
       <li>VERB-Ger--NOUN (23)</li>
       <li>VERB-Ger--NOUN-ADP(of) (1)</li>
       <li>VERB-Ger--PRON-Gen (1)</li>
       <li>VERB-Ger--PRON-Nom (9)</li>
-      <li>VERB-Inf--NOUN (571)</li>
-      <li>VERB-Inf--PRON (212)</li>
-      <li>VERB-Inf--PRON-Nom (1909)</li>
-      <li>VERB-Part--NOUN (469)</li>
-      <li>VERB-Part--PRON (153)</li>
+      <li>VERB-Inf--NOUN (569)</li>
+      <li>VERB-Inf--PRON (184)</li>
+      <li>VERB-Inf--PRON-Nom (1939)</li>
+      <li>VERB-Part--NOUN (468)</li>
+      <li>VERB-Part--PRON (91)</li>
       <li>VERB-Part--PRON-Gen (1)</li>
-      <li>VERB-Part--PRON-Nom (1261)</li>
+      <li>VERB-Part--PRON-Nom (1325)</li>
     </ul>
   </li>
 </ul>
@@ -1016,19 +1027,19 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB--PRON-Acc (1)</li>
-      <li>VERB-Fin--NOUN (3524)</li>
-      <li>VERB-Fin--PRON (307)</li>
-      <li>VERB-Fin--PRON-Acc (720)</li>
+      <li>VERB-Fin--NOUN (3516)</li>
+      <li>VERB-Fin--PRON (245)</li>
+      <li>VERB-Fin--PRON-Acc (768)</li>
       <li>VERB-Fin--PRON-Gen (3)</li>
       <li>VERB-Ger--NOUN (512)</li>
-      <li>VERB-Ger--PRON (21)</li>
-      <li>VERB-Ger--PRON-Acc (39)</li>
-      <li>VERB-Inf--NOUN (2711)</li>
-      <li>VERB-Inf--PRON (390)</li>
-      <li>VERB-Inf--PRON-Acc (559)</li>
+      <li>VERB-Ger--PRON (16)</li>
+      <li>VERB-Ger--PRON-Acc (44)</li>
+      <li>VERB-Inf--NOUN (2720)</li>
+      <li>VERB-Inf--PRON (284)</li>
+      <li>VERB-Inf--PRON-Acc (679)</li>
       <li>VERB-Part--NOUN (1344)</li>
-      <li>VERB-Part--PRON (152)</li>
-      <li>VERB-Part--PRON-Acc (175)</li>
+      <li>VERB-Part--PRON (124)</li>
+      <li>VERB-Part--PRON-Acc (203)</li>
     </ul>
   </li>
 </ul>
@@ -1037,13 +1048,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>iobj</a>
     <ul>
       <li>VERB-Fin--NOUN (47)</li>
-      <li>VERB-Fin--PRON-Acc (157)</li>
+      <li>VERB-Fin--PRON-Acc (154)</li>
       <li>VERB-Ger--NOUN (5)</li>
       <li>VERB-Ger--PRON (2)</li>
       <li>VERB-Ger--PRON-Acc (5)</li>
       <li>VERB-Inf--NOUN (59)</li>
       <li>VERB-Inf--PRON (1)</li>
-      <li>VERB-Inf--PRON-Acc (109)</li>
+      <li>VERB-Inf--PRON-Acc (112)</li>
       <li>VERB-Part--NOUN (11)</li>
       <li>VERB-Part--PRON (1)</li>
       <li>VERB-Part--PRON-Acc (34)</li>

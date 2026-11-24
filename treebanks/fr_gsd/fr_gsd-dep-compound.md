@@ -24,15 +24,15 @@ The following 1 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 7 6 compound	color:blue
 1	Il	lui	PRON	_	Case=Nom|Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	wordform=il
 2	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:tense	_	_
-3	disputé	disputer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	Tense[denom]=Past
+3	disputé	disputer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	Status[Tense]=Denom
 4	son	son	DET	_	Gender=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	7	det	_	_
 5	premier	premier	ADJ	_	Gender=Masc|Number=Sing	7	amod	_	_
 6	test	test	NOUN	_	Gender=Masc|Number=Sing	7	compound	_	Exponence[Gender]=Inherent
 7	match	match	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	Exponence[Gender]=Inherent
 8	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
-9	16	16	NUM	_	Number=Sing	3	obl:mod	_	Exponence[Number]=Inherent
+9	16	16	NUM	_	ExtPos=PROPN|Number=Sing	3	obl:mod	_	Exponence[Number]=Inherent
 10	janvier	janvier	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	Exponence[Gender]=Inherent
-11	1988	1988	NUM	_	Number=Sing	10	nmod	_	Exponence[Number]=Inherent
+11	1988	1988	NUM	_	ExtPos=PROPN|Number=Sing	10	nmod	_	Exponence[Number]=Inherent
 12	contre	contre	ADP	_	_	14	case	_	_
 13	l'	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	Exponence[Gender]=Absent|SpaceAfter=No
 14	équipe	équipe	NOUN	_	Gender=Fem|Number=Sing	3	obl:mod	_	Exponence[Gender]=Inherent

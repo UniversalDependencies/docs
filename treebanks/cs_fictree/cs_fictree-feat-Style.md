@@ -28,7 +28,7 @@ The most frequent other feature values with which `ADV` and `Style` co-occurred:
 
 26 <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `ADJ` and `Style` co-occurred: <tt><a href="cs_fictree-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (23; 88%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (23; 88%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (20; 77%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (15; 58%), <tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Nom</tt> (15; 58%).
+The most frequent other feature values with which `ADJ` and `Style` co-occurred: <tt><a href="cs_fictree-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (26; 100%), <tt><a href="cs_fictree-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (23; 88%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (23; 88%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (20; 77%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (15; 58%), <tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Nom</tt> (15; 58%).
 
 `ADJ` tokens may have the following values of `Style`:
 
@@ -40,7 +40,7 @@ The most frequent other feature values with which `ADJ` and `Style` co-occurred:
 
 18 <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `VERB` and `Style` co-occurred: <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (16; 89%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (16; 89%), <tt><a href="cs_fictree-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (16; 89%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (16; 89%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (16; 89%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (14; 78%), <tt><a href="cs_fictree-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (14; 78%), <tt><a href="cs_fictree-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt> (14; 78%), <tt><a href="cs_fictree-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (14; 78%).
+The most frequent other feature values with which `VERB` and `Style` co-occurred: <tt><a href="cs_fictree-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (18; 100%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (16; 89%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (16; 89%), <tt><a href="cs_fictree-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (16; 89%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (16; 89%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (16; 89%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (14; 78%), <tt><a href="cs_fictree-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (14; 78%), <tt><a href="cs_fictree-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt> (14; 78%), <tt><a href="cs_fictree-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (14; 78%).
 
 `VERB` tokens may have the following values of `Style`:
 

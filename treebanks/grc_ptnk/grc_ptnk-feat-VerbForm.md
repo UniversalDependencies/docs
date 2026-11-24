@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fin`, `Inf`, `Part`.
 
-5860 tokens (15%) have a non-empty value of `VerbForm`.
+5861 tokens (15%) have a non-empty value of `VerbForm`.
 2368 types (45%) occur at least once with a non-empty value of `VerbForm`.
 711 lemmas (32%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="grc_ptnk-pos-VERB.html">VERB</a></tt> (5325; 13% instances), <tt><a href="grc_ptnk-pos-AUX.html">AUX</a></tt> (535; 1% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="grc_ptnk-pos-VERB.html">VERB</a></tt> (5326; 13% instances), <tt><a href="grc_ptnk-pos-AUX.html">AUX</a></tt> (535; 1% instances).
 
 ### `VERB`
 
-5325 <tt><a href="grc_ptnk-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+5326 <tt><a href="grc_ptnk-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4713; 89%), <tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4712; 88%), <tt><a href="grc_ptnk-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4076; 77%), <tt><a href="grc_ptnk-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (4061; 76%), <tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3999; 75%), <tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3637; 68%), <tt><a href="grc_ptnk-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (3612; 68%), <tt><a href="grc_ptnk-feat-Person.html">Person</a></tt><tt>=3</tt> (3188; 60%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4713; 88%), <tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4712; 88%), <tt><a href="grc_ptnk-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4077; 77%), <tt><a href="grc_ptnk-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (4062; 76%), <tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4000; 75%), <tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3637; 68%), <tt><a href="grc_ptnk-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (3613; 68%), <tt><a href="grc_ptnk-feat-Person.html">Person</a></tt><tt>=3</tt> (3188; 60%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Fin` (4413; 83% of non-empty `VerbForm`): <em>εἶπεν, ἐγένετο, ἐκάλεσεν, ἐγέννησεν, ἔτεκεν, ἐποίησεν, ἔδωκεν, εἶδεν, ἔλαβεν, εἶπαν</em>
 * `Inf` (298; 6% of non-empty `VerbForm`): <em>γεννῆσαι, ἐλθεῖν, ἰδεῖν, φαγεῖν, ἀποθανεῖν, δοῦναι, κοιμηθῆναι, λαβεῖν, τίκτειν, δοῦναί</em>
-* `Part` (614; 12% of non-empty `VerbForm`): <em>λέγων, λέγοντες, ἀναστὰς, λέγουσα, ἀποκριθεὶς, ὑπάρχοντα, ἰδὼν, συλλαβοῦσα, ἀναβλέψας, λαβὼν</em>
+* `Part` (615; 12% of non-empty `VerbForm`): <em>λέγων, λέγοντες, ἀναστὰς, λέγουσα, ἀποκριθεὶς, ὑπάρχοντα, ἰδὼν, συλλαβοῦσα, ἀναβλέψας, λαβὼν</em>
 
 <table>
   <tr><th>Paradigm <i>εἶπον</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>

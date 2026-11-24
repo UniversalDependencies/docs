@@ -9,16 +9,16 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Neg`, `Pos`.
 
-43681 tokens (26%) have a non-empty value of `Polarity`.
+43685 tokens (26%) have a non-empty value of `Polarity`.
 17042 types (63%) occur at least once with a non-empty value of `Polarity`.
-7160 lemmas (52%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 4 part-of-speech tags: <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (23980; 14% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (10316; 6% instances), <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (6258; 4% instances), <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (3127; 2% instances).
+7161 lemmas (52%) occur at least once with a non-empty value of `Polarity`.
+The feature is used with 4 part-of-speech tags: <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (23980; 14% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (10316; 6% instances), <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (6258; 4% instances), <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (3131; 2% instances).
 
 ### `VERB`
 
 23980 <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="cs_fictree-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (20426; 85%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17457; 73%), <tt><a href="cs_fictree-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (17180; 72%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (17180; 72%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (15546; 65%), <tt><a href="cs_fictree-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (14054; 59%), <tt><a href="cs_fictree-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (14051; 59%).
+The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="cs_fictree-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (20426; 85%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17457; 73%), <tt><a href="cs_fictree-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (17180; 72%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (17180; 72%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (15546; 65%), <tt><a href="cs_fictree-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (14054; 59%), <tt><a href="cs_fictree-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (14051; 59%), <tt><a href="cs_fictree-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (12375; 52%).
 
 `VERB` tokens may have the following values of `Polarity`:
 
@@ -49,7 +49,7 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 
 10316 <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> tokens (95% of all `ADJ` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `ADJ` and `Polarity` co-occurred: <tt><a href="cs_fictree-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (9606; 93%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7828; 76%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (5952; 58%).
+The most frequent other feature values with which `ADJ` and `Polarity` co-occurred: <tt><a href="cs_fictree-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (9606; 93%), <tt><a href="cs_fictree-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (9168; 89%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7828; 76%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (5952; 58%).
 
 `ADJ` tokens may have the following values of `Polarity`:
 
@@ -135,15 +135,15 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 
 ### `ADV`
 
-3127 <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> tokens (29% of all `ADV` tokens) have a non-empty value of `Polarity`.
+3131 <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> tokens (28% of all `ADV` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `ADV` and `Polarity` co-occurred: <tt><a href="cs_fictree-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (3094; 99%), <tt><a href="cs_fictree-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (2668; 85%).
+The most frequent other feature values with which `ADV` and `Polarity` co-occurred: <tt><a href="cs_fictree-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (3098; 99%), <tt><a href="cs_fictree-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (2668; 85%).
 
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (116; 4% of non-empty `Polarity`): <em>nenápadně, nechápavě, netrpělivě, nesměle, nejistě, nerozhodně, nebezpečně, neochotně, nedůvěřivě, nevzrušeně</em>
-* `Pos` (3011; 96% of non-empty `Polarity`): <em>vždycky, dobře, často, víc, dlouho, konečně, rychle, brzy, stejně, náhle</em>
-* `EMPTY` (7825): <em>už, tak, jak, ještě, pak, tam, proč, teď, nikdy, kde</em>
+* `Pos` (3015; 96% of non-empty `Polarity`): <em>vždycky, dobře, často, víc, dlouho, konečně, rychle, brzy, stejně, náhle</em>
+* `EMPTY` (8087): <em>tak, už, jak, ještě, pak, tam, proč, teď, nikdy, kde</em>
 
 <table>
   <tr><th>Paradigm <i>dlouho</i></th><th><tt>Pos</tt></th><th><tt>Neg</tt></th></tr>
@@ -153,7 +153,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
   <tr><td><tt><tt><a href="cs_fictree-feat-Degree.html">Degree</a></tt><tt>=Sup</tt></tt></td><td><em>nejdéle</em></td><td></td></tr>
 </table>
 
-`Polarity` seems to be **lexical feature** of `ADV`. 95% lemmas (639) occur only with one value of `Polarity`.
+`Polarity` seems to be **lexical feature** of `ADV`. 95% lemmas (640) occur only with one value of `Polarity`.
 
 ## Relations with Agreement in `Polarity`
 

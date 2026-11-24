@@ -18,4 +18,4 @@ cc(I_continued, And1)
 fixed(Ate, era)
 fixed(And1, and2)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:09 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:46 CET -->

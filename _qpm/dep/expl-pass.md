@@ -17,4 +17,4 @@ counted    REFL all  votes-the in  Xanthi
 expl:pass (prebrajího, só)
 ~~~
          
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:07 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:45 CET -->

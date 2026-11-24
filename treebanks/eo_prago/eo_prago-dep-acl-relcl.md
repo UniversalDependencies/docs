@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="eo_prago-dep-acl.html">acl</a></tt>.
 
-39 nodes (1%) are attached to their parents as `acl:relcl`.
+54 nodes (1%) are attached to their parents as `acl:relcl`.
 
-39 instances of `acl:relcl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.74358974358974.
+54 instances of `acl:relcl` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.51851851851852.
 
-The following 6 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> (29; 74% instances), <tt><a href="eo_prago-pos-PRON.html">PRON</a></tt>-<tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> (4; 10% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt> (2; 5% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (2; 5% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-AUX.html">AUX</a></tt> (1; 3% instances), <tt><a href="eo_prago-pos-PRON.html">PRON</a></tt>-<tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> (1; 3% instances).
+The following 7 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> (43; 80% instances), <tt><a href="eo_prago-pos-PRON.html">PRON</a></tt>-<tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> (4; 7% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt> (2; 4% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="eo_prago-pos-PRON.html">PRON</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="eo_prago-pos-PRON.html">PRON</a></tt>-<tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

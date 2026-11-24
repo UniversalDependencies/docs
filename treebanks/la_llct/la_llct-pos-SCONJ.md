@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>si</em> (<tt><a href="la_llct-pos-SCO
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.761905 (the average of all parts of speech is 2.623423).
+The form / lemma ratio of `SCONJ` is 1.761905 (the average of all parts of speech is 2.623868).
 
 The 1st highest number of forms (5) was observed with the lemma “ut”: <em>aut, u, ud, ut, uti</em>.
 

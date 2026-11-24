@@ -8,31 +8,31 @@ udver: '2'
 
 This relation is universal.
 
-407 nodes (0%) are attached to their parents as `fixed`.
+581 nodes (0%) are attached to their parents as `fixed`.
 
-407 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.05405405405405.
+581 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.04819277108434.
 
-The following 15 pairs of parts of speech are connected with `fixed`: <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-SCONJ.html">SCONJ</a></tt> (257; 63% instances), <tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt>-<tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt> (49; 12% instances), <tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt>-<tt><a href="frm_profiterole-pos-SCONJ.html">SCONJ</a></tt> (38; 9% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt> (13; 3% instances), <tt><a href="frm_profiterole-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (11; 3% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-SCONJ.html">SCONJ</a></tt> (11; 3% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (5; 1% instances), <tt><a href="frm_profiterole-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="frm_profiterole-pos-SCONJ.html">SCONJ</a></tt> (5; 1% instances), <tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="frm_profiterole-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The following 18 pairs of parts of speech are connected with `fixed`: <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-SCONJ.html">SCONJ</a></tt> (364; 63% instances), <tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt>-<tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt> (85; 15% instances), <tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt>-<tt><a href="frm_profiterole-pos-SCONJ.html">SCONJ</a></tt> (52; 9% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt> (16; 3% instances), <tt><a href="frm_profiterole-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (14; 2% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-SCONJ.html">SCONJ</a></tt> (11; 2% instances), <tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (6; 1% instances), <tt><a href="frm_profiterole-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="frm_profiterole-pos-SCONJ.html">SCONJ</a></tt> (6; 1% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (5; 1% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="frm_profiterole-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="frm_profiterole-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 fixed	color:blue
-1	ainsi	ainsi	ADV	ADVgen	_	2	advmod	_	XmlId=w_jouvencel1_6075
-2	seront	être1	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_jouvencel1_6076
-3	avec	avec	ADP	PRE	_	4	case	_	XmlId=w_jouvencel1_6077
-4	eulx	eux	PRON	PROper	PronType=Prs	2	obl	_	XmlId=w_jouvencel1_6078
-5	avant	avant	ADV	ADVgen	_	9	mark	_	XmlId=w_jouvencel1_6079
-6	qu'	que	SCONJ	CONsub	_	5	fixed	_	SpaceAfter=No|XmlId=w_jouvencel1_6080
-7	ilz	il	PRON	PROper	PronType=Prs	9	nsubj	_	XmlId=w_jouvencel1_6081
-8	en	en2	ADV	PROadv	_	10	nmod	_	XmlId=w_jouvencel1_6082
-9	sachent	savoir1	VERB	VERcjg	VerbForm=Fin	2	advcl	_	XmlId=w_jouvencel1_6083
-10	riens	rien	PRON	PROind	PronType=Ind	9	obj	_	XmlId=w_jouvencel1_6084
-11	;	;	PUNCT	PONfbl	_	2	punct	_	XmlId=w_jouvencel1_6085
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 8 fixed	color:blue
+1	et	_	CCONJ	_	_	4	cc:nc	_	XmlId=w_melusine_13388
+2	que	_	PRON	_	_	4	obj	_	XmlId=w_melusine_13389
+3	me	_	PRON	_	_	4	iobj	_	XmlId=w_melusine_13390
+4	coustera	_	VERB	_	_	0	root	_	XmlId=w_melusine_13391
+5	il	_	PRON	_	_	4	nsubj	_	XmlId=w_melusine_13392|SpaceAfter=No
+6	,	_	PUNCT	_	_	4	punct	_	XmlId=w_melusine_13393
+7	ainsi	_	ADV	_	_	10	mark	_	XmlId=w_melusine_13394
+8	qu'	_	SCONJ	_	_	7	fixed	_	XmlId=w_melusine_13395|SpaceAfter=No
+9	il	_	PRON	_	_	10	nsubj	_	XmlId=w_melusine_13396
+10	est	_	VERB	_	_	4	advcl	_	XmlId=w_melusine_13397
+11	?	_	PUNCT	_	_	4	punct	_	XmlId=w_melusine_13398
 
 ~~~
 

@@ -24,7 +24,7 @@ The following 4 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 3 11 csubj:pass	color:blue
 1	Il	lui	PRON	_	Case=Nom|Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl:subj	_	wordform=il
 2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	_
-3	décidé	décider	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	Tense[denom]=Past
+3	décidé	décider	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	Status[Tense]=Denom
 4	que	que	SCONJ	_	_	11	mark	_	_
 5	l'	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	Exponence[Gender]=Absent|SpaceAfter=No
 6	exécution	exécution	NOUN	_	Gender=Fem|Number=Sing	11	nsubj:pass	_	Exponence[Gender]=Inherent
@@ -32,7 +32,7 @@ The following 4 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 8	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	sentence	sentence	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	Exponence[Gender]=Inherent
 10	soit	être	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux:pass	_	_
-11	différé	différer	VERB	_	Gender=Masc|Number=Sing|Typo=Yes|VerbForm=Part|Voice=Pass	3	csubj:pass	_	CorrectForm=différée|CorrectGender=Fem|Tense[denom]=Past
+11	différé	différer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|Typo=Yes|VerbForm=Part|Voice=Pass	3	csubj:pass	_	CorrectForm=différée|CorrectGender=Fem|Status[Tense]=Denom
 12	après	après	ADP	_	_	14	case	_	_
 13	l'	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	Exponence[Gender]=Absent|SpaceAfter=No
 14	ouverture	ouverture	NOUN	_	Gender=Fem|Number=Sing	11	obl:mod	_	Exponence[Gender]=Inherent
@@ -53,7 +53,7 @@ The following 4 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 1	Il	lui	PRON	_	Case=Nom|Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl:subj	_	wordform=il
 2	fut	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux:pass	_	_
 3	alors	alors	ADV	_	_	4	advmod	_	_
-4	décidé	décider	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	Tense[denom]=Past
+4	décidé	décider	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	Status[Tense]=Denom
 5	qu'	que	SCONJ	_	_	13	mark	_	SpaceAfter=No
 6	à	à	ADP	_	_	8	case	_	_
 7	l'	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	Exponence[Gender]=Absent|SpaceAfter=No
@@ -80,8 +80,8 @@ The following 4 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 4 9 csubj:pass	color:blue
 1	Il	lui	PRON	_	Case=Nom|Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl:subj	_	wordform=il
 2	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:tense	_	_
-3	été	être	AUX	_	Gender=Masc|Number=Sing|VerbForm=Part	4	aux:pass	_	Tense[denom]=Past
-4	démontré	démontrer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	Tense[denom]=Past
+3	été	être	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	aux:pass	_	Status[Tense]=Denom
+4	démontré	démontrer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	Status[Tense]=Denom
 5	que	que	SCONJ	_	_	9	mark	_	_
 6	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	centrosaure	centrosaure	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	Exponence[Gender]=Inherent

@@ -24,8 +24,8 @@ The following 1 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 6 7 goeswith	color:blue
 1	New	new	ADJ	JJ	Degree=Pos	2	amod	2:amod	_
 2	episodes	episode	NOUN	NNS	Number=Plur	4	nsubj:pass	4:nsubj:pass	_
-3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux:pass	4:aux:pass	_
-4	followed	follow	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
+3	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	4:aux:pass	_
+4	followed	follow	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
 5	by	by	ADP	IN	_	6	case	6:case	_
 6	after	aftershow	NOUN	GW	Number=Sing|Typo=Yes	4	obl	4:obl:by	_
 7	show	_	X	NN	_	6	goeswith	6:goeswith	SpaceAfter=No

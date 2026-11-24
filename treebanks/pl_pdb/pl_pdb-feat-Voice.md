@@ -37,7 +37,7 @@ The most frequent other feature values with which `ADJ` and `Voice` co-occurred:
 
 * `Act` (1958; 29% of non-empty `Voice`): <em>dotyczące, dotyczących, dotyczącego, dotyczący, stojący, dotyczącej, lecącej, dotyczącymi, mających, trzymający</em>
 * `Pass` (4804; 71% of non-empty `Voice`): <em>związane, ubrany, określonych, związanych, przeznaczone, przedstawione, ubrana, prowadzone, przygotowane, przyjęta</em>
-* `EMPTY` (29164): <em>innych, jeden, sam, inne, europejskiej, pierwszy, różnych, jednym, cały, 1</em>
+* `EMPTY` (29192): <em>innych, jeden, sam, inne, europejskiej, pierwszy, różnych, jednym, cały, 1</em>
 
 <table>
   <tr><th>Paradigm <i>prowadzić</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th></tr>
@@ -92,7 +92,7 @@ The 10 most frequent relations where parent and child node agree in `Voice`:
 <tt>VERB --[<tt><a href="pl_pdb-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (3489; 88%),
 <tt>VERB --[<tt><a href="pl_pdb-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (2850; 97%),
 <tt>VERB --[<tt><a href="pl_pdb-dep-parataxis-obj.html">parataxis:obj</a></tt>]--> VERB</tt> (1256; 95%),
-<tt>VERB --[<tt><a href="pl_pdb-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1240; 93%),
+<tt>VERB --[<tt><a href="pl_pdb-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1239; 93%),
 <tt>VERB --[<tt><a href="pl_pdb-dep-ccomp-obj.html">ccomp:obj</a></tt>]--> VERB</tt> (606; 97%),
 <tt>VERB --[<tt><a href="pl_pdb-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (166; 94%),
 <tt>VERB --[<tt><a href="pl_pdb-dep-parataxis-insert.html">parataxis:insert</a></tt>]--> VERB</tt> (162; 92%),

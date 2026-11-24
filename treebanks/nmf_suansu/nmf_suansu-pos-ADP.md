@@ -13,7 +13,7 @@ The 10 most frequent `ADP` lemmas: <em>thohn, lohnda, maramda, dyenan, gase, ath
 
 The 10 most frequent `ADP` types:  <em>thohn, lohnda, maramda, dyenan, gase, athoongenahn, dhohnte, maka, mathaknahn, nan</em>
 
-The 10 most frequent ambiguous lemmas: <em>gase</em> (<tt><a href="nmf_suansu-pos-SCONJ.html">SCONJ</a></tt> 6, <tt><a href="nmf_suansu-pos-ADP.html">ADP</a></tt> 2), <em>dhohn</em> (<tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt> 10, <tt><a href="nmf_suansu-pos-ADP.html">ADP</a></tt> 1, <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> 1), <em>maka</em> (<tt><a href="nmf_suansu-pos-ADP.html">ADP</a></tt> 1, <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt> 1), <em>tha</em> (<tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt> 9, <tt><a href="nmf_suansu-pos-AUX.html">AUX</a></tt> 3, <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="nmf_suansu-pos-ADP.html">ADP</a></tt> 1, <tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>gase</em> (<tt><a href="nmf_suansu-pos-SCONJ.html">SCONJ</a></tt> 6, <tt><a href="nmf_suansu-pos-ADP.html">ADP</a></tt> 2), <em>dhohn</em> (<tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt> 10, <tt><a href="nmf_suansu-pos-ADP.html">ADP</a></tt> 1), <em>maka</em> (<tt><a href="nmf_suansu-pos-ADP.html">ADP</a></tt> 1, <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt> 1), <em>tha</em> (<tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt> 9, <tt><a href="nmf_suansu-pos-AUX.html">AUX</a></tt> 3, <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="nmf_suansu-pos-ADP.html">ADP</a></tt> 1, <tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>gase</em> (<tt><a href="nmf_suansu-pos-SCONJ.html">SCONJ</a></tt> 6, <tt><a href="nmf_suansu-pos-ADP.html">ADP</a></tt> 2), <em>dhohnte</em> (<tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt> 5, <tt><a href="nmf_suansu-pos-ADP.html">ADP</a></tt> 1), <em>thai</em> (<tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt> 4, <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="nmf_suansu-pos-ADP.html">ADP</a></tt> 1)
 
@@ -31,7 +31,7 @@ The 10 most frequent ambiguous types:  <em>gase</em> (<tt><a href="nmf_suansu-po
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.348066).
+The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.350446).
 
 The 1st highest number of forms (1) was observed with the lemma “athoonge”: <em>athoongenahn</em>.
 

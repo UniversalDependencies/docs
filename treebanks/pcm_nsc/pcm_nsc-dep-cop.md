@@ -22,20 +22,20 @@ The following 14 pairs of parts of speech are connected with `cop`: <tt><a href=
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 7 cop	color:blue
-1	#	#	PUNCT	_	_	3	punct	_	AlignBegin=233359|AlignEnd=233828|Gloss=PUNCT
-2	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	AlignBegin=233828|AlignEnd=233940|Gloss=NOM.SG.1
-3	say	say	VERB	_	_	0	root	_	AlignBegin=233940|AlignEnd=234060|Gloss=say
-4	[	[	PUNCT	_	_	11	punct	_	AlignBegin=234060|AlignEnd=234060|Gloss=PUNCT
-5	okay	OK	INTJ	_	_	11	discourse	_	AlignBegin=234060|AlignEnd=234295|Gloss=OK
-6	if	if	SCONJ	_	_	9	mark	_	AlignBegin=234295|AlignEnd=234500|Gloss=if
-7	na	na	AUX	_	PartType=Cop	9	cop	_	AlignBegin=234500|AlignEnd=234670|Gloss=be
-8	dat	dat	DET	_	Number=Sing	9	det	_	AlignBegin=234670|AlignEnd=234830|Gloss=SG.DEM
-9	one	one	NOUN	_	_	11	advcl	_	AlignBegin=234830|AlignEnd=235139|Gloss=one
-10	<	<	PUNCT	_	_	9	punct	_	AlignBegin=235139|AlignEnd=235139|Gloss=PUNCT
-11	no	no	PART	_	Polarity=Neg	3	parataxis	_	AlignBegin=235139|AlignEnd=235370|Gloss=NEG
-12	problem	problem	NOUN	_	_	11	xcomp	_	AlignBegin=235370|AlignEnd=235755|Gloss=problem
-13	!//]	!//]	PUNCT	_	_	11	punct	_	AlignBegin=235755|AlignEnd=235755|Gloss=PUNCT
-14	//	//	PUNCT	_	_	3	punct	_	AlignBegin=235725|AlignEnd=235755|Gloss=PUNCT
+1	#	#	PUNCT	_	_	3	punct	_	Gloss=PUNCT|WordAlignmentBegin=233359|WordAlignmentEnd=233828
+2	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=NOM.SG.1|WordAlignmentBegin=233828|WordAlignmentEnd=233940
+3	say	say	VERB	_	_	0	root	_	Gloss=say|WordAlignmentBegin=233940|WordAlignmentEnd=234060
+4	[	[	PUNCT	_	_	11	punct	_	Gloss=PUNCT|WordAlignmentBegin=234060|WordAlignmentEnd=234060
+5	okay	OK	INTJ	_	_	11	discourse	_	Gloss=OK|WordAlignmentBegin=234060|WordAlignmentEnd=234295
+6	if	if	SCONJ	_	_	9	mark	_	Gloss=if|WordAlignmentBegin=234295|WordAlignmentEnd=234500
+7	na	na	AUX	_	PartType=Cop	9	cop	_	Gloss=be|WordAlignmentBegin=234500|WordAlignmentEnd=234670
+8	dat	dat	DET	_	Number=Sing	9	det	_	Gloss=SG.DEM|WordAlignmentBegin=234670|WordAlignmentEnd=234830
+9	one	one	NOUN	_	_	11	advcl	_	Gloss=one|WordAlignmentBegin=234830|WordAlignmentEnd=235139
+10	<	<	PUNCT	_	_	9	punct	_	Gloss=PUNCT|WordAlignmentBegin=235139|WordAlignmentEnd=235139
+11	no	no	PART	_	Polarity=Neg	3	parataxis	_	Gloss=NEG|WordAlignmentBegin=235139|WordAlignmentEnd=235370
+12	problem	problem	NOUN	_	_	11	xcomp	_	Gloss=problem|WordAlignmentBegin=235370|WordAlignmentEnd=235755
+13	!//]	!//]	PUNCT	_	_	11	punct	_	Gloss=PUNCT|WordAlignmentBegin=235755|WordAlignmentEnd=235755
+14	//	//	PUNCT	_	_	3	punct	_	Gloss=PUNCT|WordAlignmentBegin=235725|WordAlignmentEnd=235755
 
 ~~~
 
@@ -46,15 +46,15 @@ The following 14 pairs of parts of speech are connected with `cop`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 cop	color:blue
-1	#	#	PUNCT	_	_	3	punct	_	AlignBegin=35489|AlignEnd=36891|Gloss=PUNCT
-2	na	na	AUX	_	PartType=Cop	3	cop	_	AlignBegin=36891|AlignEnd=37052|Gloss=be
-3	wetin	wetin	PRON	_	PronType=Int	0	root	_	AlignBegin=37052|AlignEnd=37270|Gloss=what.Q
-4	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	AlignBegin=37270|AlignEnd=37360|Gloss=NOM.SG.1
-5	do	no	AUX	_	_	8	aux	_	AlignBegin=37360|AlignEnd=37500|Gloss=NEG|SpaceAfter=No
-6	n't	not	PART	_	Polarity=Neg	8	advmod	_	AlignBegin=37500|AlignEnd=37760|Gloss=NEG
-7	just	just	ADV	_	_	8	advmod	_	AlignBegin=37760|AlignEnd=37956|Gloss=just
-8	know	know	VERB	_	_	3	acl:relcl	_	AlignBegin=37760|AlignEnd=37956|Gloss=know
-9	//	//	PUNCT	_	_	3	punct	_	AlignBegin=37956|AlignEnd=37956|Gloss=PUNCT
+1	#	#	PUNCT	_	_	3	punct	_	Gloss=PUNCT|WordAlignmentBegin=35489|WordAlignmentEnd=36891
+2	na	na	AUX	_	PartType=Cop	3	cop	_	Gloss=be|WordAlignmentBegin=36891|WordAlignmentEnd=37052
+3	wetin	wetin	PRON	_	PronType=Int	0	root	_	Gloss=what.Q|WordAlignmentBegin=37052|WordAlignmentEnd=37270
+4	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	Gloss=NOM.SG.1|WordAlignmentBegin=37270|WordAlignmentEnd=37360
+5	do	no	AUX	_	_	8	aux	_	Gloss=NEG|SpaceAfter=No|WordAlignmentBegin=37360|WordAlignmentEnd=37500
+6	n't	not	PART	_	Polarity=Neg	8	advmod	_	Gloss=NEG|WordAlignmentBegin=37500|WordAlignmentEnd=37760
+7	just	just	ADV	_	_	8	advmod	_	Gloss=just|WordAlignmentBegin=37760|WordAlignmentEnd=37956
+8	know	know	VERB	_	_	3	acl:relcl	_	Gloss=know|WordAlignmentBegin=37760|WordAlignmentEnd=37956
+9	//	//	PUNCT	_	_	3	punct	_	Gloss=PUNCT|WordAlignmentBegin=37956|WordAlignmentEnd=37956
 
 ~~~
 
@@ -65,14 +65,14 @@ The following 14 pairs of parts of speech are connected with `cop`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 cop	color:blue
-1	na	na	AUX	_	PartType=Cop	2	cop	_	AlignBegin=94899|AlignEnd=95059|Gloss=be
-2	so	so	ADV	_	_	0	root	_	AlignBegin=95059|AlignEnd=95227|Gloss=so
-3	>+	>+	PUNCT	_	_	6	punct	_	AlignBegin=95227|AlignEnd=95227|Gloss=PUNCT
-4	we	we	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	AlignBegin=95227|AlignEnd=95299|Gloss=NOM.PL.1
-5	con	con	AUX	_	Aspect=Cons	6	aux	_	AlignBegin=95299|AlignEnd=95509|Gloss=CONS
-6	do	do	VERB	_	_	2	advcl:cleft	_	AlignBegin=95509|AlignEnd=95734|Gloss=do
-7	o	o	PART	_	PartType=Disc	2	advmod	_	AlignBegin=95734|AlignEnd=95879|Gloss=EMPH
-8	//	//	PUNCT	_	_	2	punct	_	AlignBegin=95879|AlignEnd=95879|Gloss=PUNCT
+1	na	na	AUX	_	PartType=Cop	2	cop	_	Gloss=be|WordAlignmentBegin=94899|WordAlignmentEnd=95059
+2	so	so	ADV	_	_	0	root	_	Gloss=so|WordAlignmentBegin=95059|WordAlignmentEnd=95227
+3	>+	>+	PUNCT	_	_	6	punct	_	Gloss=PUNCT|WordAlignmentBegin=95227|WordAlignmentEnd=95227
+4	we	we	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	Gloss=NOM.PL.1|WordAlignmentBegin=95227|WordAlignmentEnd=95299
+5	con	con	AUX	_	Aspect=Cons	6	aux	_	Gloss=CONS|WordAlignmentBegin=95299|WordAlignmentEnd=95509
+6	do	do	VERB	_	_	2	advcl:cleft	_	Gloss=do|WordAlignmentBegin=95509|WordAlignmentEnd=95734
+7	o	o	PART	_	PartType=Disc	2	advmod	_	Gloss=EMPH|WordAlignmentBegin=95734|WordAlignmentEnd=95879
+8	//	//	PUNCT	_	_	2	punct	_	Gloss=PUNCT|WordAlignmentBegin=95879|WordAlignmentEnd=95879
 
 ~~~
 

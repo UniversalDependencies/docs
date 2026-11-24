@@ -12,7 +12,7 @@ There are 1 language-specific subtypes of `aux`: <tt><a href="nl_alpino-dep-aux-
 4550 nodes (2%) are attached to their parents as `aux`.
 
 4198 instances of `aux` (92%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.01956043956044.
+Average distance between parent and child is 4.01934065934066.
 
 The following 9 pairs of parts of speech are connected with `aux`: <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (4365; 96% instances), <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (81; 2% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (77; 2% instances), <tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (10; 0% instances), <tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (7; 0% instances), <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="nl_alpino-pos-X.html">X</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
@@ -60,7 +60,7 @@ The following 9 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 4 aux	color:blue
-1	Nee	nee	INTJ	TSW	_	6	parataxis	6:parataxis	SpaceAfter=No
+1	Nee	nee	INTJ	TSW	_	6	discourse	6:discourse	SpaceAfter=No
 2	,	,	PUNCT	LET	_	1	punct	1:punct	_
 3	het	het	PRON	VNW|pers|pron|stan|red|3|ev|onz	Person=3|PronType=Prs	6	nsubj	6:nsubj	_
 4	waren	zijn	AUX	WW|pv|verl|mv	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	6	aux	6:aux	_

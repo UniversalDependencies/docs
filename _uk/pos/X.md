@@ -17,4 +17,4 @@ Even if foreign words are tagged `X`, this usage does not extend to ordinary loa
 
 - _А він тільки <b>xfgh pdl jklw</b>&nbsp;_ “And he just <b>xfgh pdl jklw</b>”
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:40 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:31 CET -->

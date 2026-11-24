@@ -27,7 +27,7 @@ The following 41 pairs of parts of speech are connected with `parataxis`: <tt><a
 3	,	,	PUNCT	Z:-------------	_	2	punct	2:punct	_
 4	to	ten	DET	PDNS1----------	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	nsubj	6:nsubj|8:nsubj:xsubj	_
 5	už	už	ADV	Db-------------	_	6	advmod	6:advmod	_
-6	musí	muset	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+6	musí	muset	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 7	být	být	AUX	Vf--------A----	Aspect=Imp|Polarity=Pos|VerbForm=Inf	8	cop	8:cop	_
 8	dávno	dávno	ADV	Db-------------	_	6	xcomp	6:xcomp	SpaceAfter=No
 9	.	.	PUNCT	Z:-------------	_	6	punct	6:punct	_
@@ -46,7 +46,7 @@ The following 41 pairs of parts of speech are connected with `parataxis`: <tt><a
 3	přicházejí	přicházet	VERB	VB-P---3P-AA---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 4	snímky	snímek	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	3	nsubj	3:nsubj	SpaceAfter=No
 5	,	,	PUNCT	Z:-------------	_	6	punct	6:punct	_
-6	řekl	říci	VERB	VpYS---XR-AA---	Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	4	parataxis	4:parataxis	_
+6	řekl	říci	VERB	VpYS---XR-AA---	Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	4	parataxis	4:parataxis	_
 7	bych	být	AUX	Vc-S---1-------	Aspect=Imp|Mood=Cnd|Number=Sing|Person=1|VerbForm=Fin	6	aux	6:aux	SpaceAfter=No
 8	,	,	PUNCT	Z:-------------	_	6	punct	6:punct	_
 9	objevné	objevný	ADJ	AAIP1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	4	amod	4:amod	SpaceAfter=No

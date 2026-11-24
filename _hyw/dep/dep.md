@@ -50,4 +50,4 @@ Note that we also use this relation to attach inflectional bound morphemes that 
 8	։	։	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:58 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:37 CET -->

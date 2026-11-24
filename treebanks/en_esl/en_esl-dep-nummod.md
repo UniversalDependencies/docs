@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-528 nodes (1%) are attached to their parents as `nummod`.
+529 nodes (1%) are attached to their parents as `nummod`.
 
-485 instances of `nummod` (92%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.14204545454545.
+486 instances of `nummod` (92%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.13988657844991.
 
-The following 12 pairs of parts of speech are connected with `nummod`: <tt><a href="en_esl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_esl-pos-NUM.html">NUM</a></tt> (461; 87% instances), <tt><a href="en_esl-pos-SYM.html">SYM</a></tt>-<tt><a href="en_esl-pos-NUM.html">NUM</a></tt> (35; 7% instances), <tt><a href="en_esl-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_esl-pos-NUM.html">NUM</a></tt> (20; 4% instances), <tt><a href="en_esl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_esl-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="en_esl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_esl-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="en_esl-pos-NUM.html">NUM</a></tt>-<tt><a href="en_esl-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="en_esl-pos-ADV.html">ADV</a></tt>-<tt><a href="en_esl-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="en_esl-pos-PRON.html">PRON</a></tt>-<tt><a href="en_esl-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="en_esl-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_esl-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_esl-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="en_esl-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="en_esl-pos-VERB.html">VERB</a></tt>-<tt><a href="en_esl-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="en_esl-pos-X.html">X</a></tt>-<tt><a href="en_esl-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `nummod`: <tt><a href="en_esl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_esl-pos-NUM.html">NUM</a></tt> (464; 88% instances), <tt><a href="en_esl-pos-SYM.html">SYM</a></tt>-<tt><a href="en_esl-pos-NUM.html">NUM</a></tt> (35; 7% instances), <tt><a href="en_esl-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_esl-pos-NUM.html">NUM</a></tt> (20; 4% instances), <tt><a href="en_esl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_esl-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="en_esl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_esl-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="en_esl-pos-NUM.html">NUM</a></tt>-<tt><a href="en_esl-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="en_esl-pos-ADV.html">ADV</a></tt>-<tt><a href="en_esl-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="en_esl-pos-PRON.html">PRON</a></tt>-<tt><a href="en_esl-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="en_esl-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_esl-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_esl-pos-VERB.html">VERB</a></tt>-<tt><a href="en_esl-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,17 +23,17 @@ The following 12 pairs of parts of speech are connected with `nummod`: <tt><a hr
 # visual-style 10	fgColor:white
 # visual-style 10 9 nummod	color:blue
 1	_	_	ADP	IN	_	2	case	_	_
-2	_	_	PRON	DT	_	4	obl	_	_
-3	_	_	AUX	MD	_	4	aux	_	_
-4	_	_	VERB	VB	_	0	root	_	_
-5	_	_	DET	DT	_	6	det	_	_
-6	_	_	NOUN	NN	_	4	obj	_	_
-7	_	_	DET	WDT	_	8	nsubj	_	_
-8	_	_	VERB	VBZ	_	6	acl:relcl	_	_
+2	_	_	PRON	DT	PronType=Dem	4	obl	_	_
+3	_	_	AUX	MD	Mood=Ind|VerbForm=Fin	4	aux	_	_
+4	_	_	VERB	VB	VerbForm=Inf	0	root	_	_
+5	_	_	DET	DT	PronType=Art	6	det	_	_
+6	_	_	NOUN	NN	Number=Sing	4	obj	_	_
+7	_	_	DET	WDT	PronType=Rel	8	nsubj	_	_
+8	_	_	VERB	VBZ	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
 9	_	_	NUM	CD	_	10	nummod	_	_
-10	_	_	NOUN	NNS	_	8	obj	_	_
+10	_	_	NOUN	NNS	Number=Plur	8	obj	_	_
 11	_	_	ADP	IN	_	12	case	_	_
-12	_	_	NOUN	NN	_	10	nmod	_	_
+12	_	_	NOUN	NN	Number=Sing	10	nmod	_	_
 13	_	_	PUNCT	.	_	4	punct	_	_
 
 ~~~
@@ -47,19 +47,19 @@ The following 12 pairs of parts of speech are connected with `nummod`: <tt><a hr
 # visual-style 16 17 nummod	color:blue
 1	_	_	NUM	CD	_	8	nsubj	_	_
 2	_	_	ADP	IN	_	4	case	_	_
-3	_	_	DET	PRP$	_	4	nmod:poss	_	_
-4	_	_	NOUN	NN	_	1	nmod	_	_
+3	_	_	DET	PRP$	Number=Sing|Poss=Yes|PronType=Prs	4	nmod:poss	_	_
+4	_	_	NOUN	NN	Number=Sing	1	nmod	_	_
 5	_	_	PUNCT	,	_	4	punct	_	_
 6	_	_	PROPN	NNP	_	4	appos	_	_
 7	_	_	PUNCT	,	_	8	punct	_	_
-8	_	_	VERB	VBD	_	0	root	_	_
+8	_	_	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 9	_	_	PART	TO	_	10	mark	_	_
-10	_	_	VERB	VB	_	8	xcomp	_	_
-11	_	_	DET	DT	_	13	det	_	_
-12	_	_	ADJ	JJ	_	13	amod	_	_
-13	_	_	NOUN	NN	_	10	obj	_	_
-14	_	_	DET	WDT	_	15	nsubj	_	_
-15	_	_	VERB	VBZ	_	13	acl:relcl	_	_
+10	_	_	VERB	VB	VerbForm=Inf	8	xcomp	_	_
+11	_	_	DET	DT	PronType=Art	13	det	_	_
+12	_	_	ADJ	JJ	Degree=Pos	13	amod	_	_
+13	_	_	NOUN	NN	Number=Sing	10	obj	_	_
+14	_	_	DET	WDT	PronType=Rel	15	nsubj	_	_
+15	_	_	VERB	VBZ	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	13	acl:relcl	_	_
 16	_	_	SYM	$	_	15	obj	_	_
 17	_	_	NUM	CD	_	16	nummod	_	_
 18	_	_	PUNCT	.	_	8	punct	_	_
@@ -74,17 +74,17 @@ The following 12 pairs of parts of speech are connected with `nummod`: <tt><a hr
 # visual-style 16	fgColor:white
 # visual-style 16 15 nummod	color:blue
 1	_	_	CCONJ	CC	_	10	cc	_	_
-2	_	_	DET	DT	_	4	det	_	_
-3	_	_	ADJ	JJ	_	4	amod	_	_
-4	_	_	NOUN	NN	_	10	nsubj	_	_
+2	_	_	DET	DT	PronType=Art	4	det	_	_
+3	_	_	ADJ	JJ	Degree=Pos	4	amod	_	_
+4	_	_	NOUN	NN	Number=Sing	10	nsubj	_	_
 5	_	_	ADP	IN	_	7	case	_	_
-6	_	_	DET	DT	_	7	det	_	_
-7	_	_	NOUN	NN	_	4	nmod	_	_
-8	_	_	AUX	VBZ	_	10	cop	_	_
-9	_	_	DET	DT	_	10	det	_	_
-10	_	_	NOUN	NN	_	0	root	_	_
-11	_	_	DET	WDT	_	14	nsubj	_	_
-12	_	_	AUX	VBZ	_	14	cop	_	_
+6	_	_	DET	DT	PronType=Art	7	det	_	_
+7	_	_	NOUN	NN	Number=Sing	4	nmod	_	_
+8	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+9	_	_	DET	DT	PronType=Art	10	det	_	_
+10	_	_	NOUN	NN	Number=Sing	0	root	_	_
+11	_	_	DET	WDT	PronType=Rel	14	nsubj	_	_
+12	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
 13	_	_	ADP	IN	_	14	case	_	_
 14	_	_	PROPN	NNP	_	10	acl:relcl	_	_
 15	_	_	NUM	CD	_	16	nummod	_	_

@@ -30,4 +30,4 @@ The governor of the `nsubj` relation might not always be a verb: when the verb i
 5	ինչ	ինչ	PRON	_	Case=Nom|Definite=Ind|Number=Sing|PronType=Ind	4	fixed	_	Translit=inč|LTranslit=inč|SpaceAfter=No
 6	։	։	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:22 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:57 CET -->

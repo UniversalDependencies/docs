@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-43 nodes (2%) are attached to their parents as `amod`.
+46 nodes (2%) are attached to their parents as `amod`.
 
-28 instances of `amod` (65%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.72093023255814.
+29 instances of `amod` (63%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.67391304347826.
 
-The following 12 pairs of parts of speech are connected with `amod`: <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xpg_kul-pos-ADJ.html">ADJ</a></tt> (10; 23% instances), <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt> (9; 21% instances), <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xpg_kul-pos-NUM.html">NUM</a></tt> (7; 16% instances), <tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt>-<tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt> (5; 12% instances), <tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xpg_kul-pos-ADJ.html">ADJ</a></tt> (4; 9% instances), <tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt>-<tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt> (2; 5% instances), <tt><a href="xpg_kul-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xpg_kul-pos-X.html">X</a></tt> (1; 2% instances), <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt>-<tt><a href="xpg_kul-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="xpg_kul-pos-SYM.html">SYM</a></tt>-<tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="xpg_kul-pos-SYM.html">SYM</a></tt>-<tt><a href="xpg_kul-pos-NUM.html">NUM</a></tt> (1; 2% instances).
+The following 13 pairs of parts of speech are connected with `amod`: <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xpg_kul-pos-ADJ.html">ADJ</a></tt> (12; 26% instances), <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt> (9; 20% instances), <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xpg_kul-pos-NUM.html">NUM</a></tt> (7; 15% instances), <tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt>-<tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt> (5; 11% instances), <tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xpg_kul-pos-ADJ.html">ADJ</a></tt> (4; 9% instances), <tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt>-<tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="xpg_kul-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xpg_kul-pos-X.html">X</a></tt> (1; 2% instances), <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xpg_kul-pos-X.html">X</a></tt> (1; 2% instances), <tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt>-<tt><a href="xpg_kul-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="xpg_kul-pos-SYM.html">SYM</a></tt>-<tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="xpg_kul-pos-SYM.html">SYM</a></tt>-<tt><a href="xpg_kul-pos-NUM.html">NUM</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -22,15 +22,9 @@ The following 12 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 amod	color:blue
-1	μανκα	μανκα	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	Ref=TM757243-1-1
-2	μεκας	mekas	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	1	amod	_	Ref=TM757243-1-2
-3	σας	σεμουν	DET	_	Case=Nom|Gender=Masc|PronType=Dem	1	det	_	Ref=TM757243-1-3
-4	κιυιν	κισυις	PRON	_	Gender=Neut|Number=Sing|PronType=Ind	7	det	_	Ref=TM757243-1-4
-5	εν	εν	ADP	_	_	7	case	_	Ref=TM757243-1-5
-6	κε	ke	CCONJ	_	_	5	cc	_	Ref=TM757243-1-6
-7	βιλαταδεναν	βιλαταδεναν	NOUN	_	Case=Acc|Number=Sing	8	obj	_	Ref=TM757243-1-7
-8	νεκοινουν	νεκοινουν	VERB	_	Number=Plur|Person=3	0	root	_	Ref=TM757243-1-8
-9	:	:	PUNCT	_	_	8	punct	_	Ref=TM757243-1-9
+1	matar	matar	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	Ref=TM756925-1-1
+2	kubileya	kubeleya	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	1	amod	_	Ref=TM756925-1-2
+3	[...]toyen	[...]toyen	X	_	_	1	dep	_	Ref=TM756925-1-3
 
 ~~~
 
@@ -63,7 +57,7 @@ The following 12 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 amod	color:blue
-1	30?	30	NUM	_	_	2	amod	_	Ref=TM757270-1-1
+1	30?	30	NUM	_	NumForm=Digit|NumType=Card	2	amod	_	Ref=TM757270-1-1
 2	...ẹkẹs	[---]ekes	NOUN	_	Case=Nom|Number=Plur	0	root	_	Ref=TM757270-1-2
 
 ~~~

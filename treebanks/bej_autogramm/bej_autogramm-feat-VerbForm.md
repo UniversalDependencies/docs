@@ -23,7 +23,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Conv` (11; 100% of non-empty `VerbForm`): <em>diːt, hajiːd, diːtiːt</em>
-* `EMPTY` (2397): <em>eːn, indi, ini, jʔi, tindi, iːfi, jʔeːn, jʔeːtiːt, iːbri, akeːna</em>
+* `EMPTY` (2394): <em>eːn, indi, ini, jʔi, tindi, iːfi, jʔeːn, jʔeːtiːt, iːbri, akeːna</em>
 
 ### `AUX`
 

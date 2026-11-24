@@ -24,9 +24,9 @@ The following 7 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 14 16 orphan	color:blue
 1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	3:nsubj|3.1:nsubj|5:nsubj|14:nsubj	_
 2	also	also	ADV	RB	_	3	advmod	3:advmod	_
-3	built	build	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	built	build	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 4	and	and	CCONJ	CC	_	5	cc	5:cc	_
-5	renovated	renovate	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	conj	3:conj:and	_
+5	renovated	renovate	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	3:conj:and	_
 6	five	five	NUM	CD	NumForm=Word|NumType=Card	8	nummod	8:nummod	_
 7	traditional	traditional	ADJ	JJ	Degree=Pos	8	amod	8:amod	_
 8	markets	market	NOUN	NNS	Number=Plur	3	obj	3:obj|5:obj	_
@@ -56,7 +56,7 @@ The following 7 pairs of parts of speech are connected with `orphan`: <tt><a hre
 5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
 6	Caucasus	Caucasus	PROPN	NNP	Number=Sing	3	nmod	3:nmod:of	_
 7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux:pass	8:aux:pass	_
-8	known	know	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
+8	known	know	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
 9	as	as	ADP	IN	_	11	case	11:case	_
 10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	11:det	_
 11	Ciscaucasus	Ciscaucasus	PROPN	NNP	Number=Sing	8	obl	8:obl:as	_
@@ -85,7 +85,7 @@ The following 7 pairs of parts of speech are connected with `orphan`: <tt><a hre
 5	Marcelle	Marcelle	PROPN	NNP	Number=Sing	8	nsubj:pass	8:nsubj:pass	_
 6	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	aux:pass	8:aux:pass	_
 7	often	often	ADV	RB	_	8	advmod	8:advmod	_
-8	left	leave	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
+8	left	leave	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
 9	alone	alone	ADV	RB	_	8	advmod	8:advmod	_
 10	in	in	ADP	IN	_	12	case	12:case	_
 11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	12:det	_
@@ -94,7 +94,7 @@ The following 7 pairs of parts of speech are connected with `orphan`: <tt><a hre
 14	Piaf	Piaf	PROPN	NNP	Number=Sing	18	nsubj	18:nsubj|25:nsubj	_
 15	and	and	CCONJ	CC	_	16	cc	16:cc	_
 16	Mômone	Mômone	PROPN	NNP	Number=Sing	14	conj	14:conj:and|18:nsubj	_
-17	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	18	cop	18:cop	_
+17	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	18	cop	18:cop	_
 18	out	out	ADV	RB	_	8	advcl	8:advcl:while	_
 19	on	on	ADP	IN	_	21	obj	21:obj	_
 20	the	the	DET	DT	Definite=Def|PronType=Art	21	det	21:det	_

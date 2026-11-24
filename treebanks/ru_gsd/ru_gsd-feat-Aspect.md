@@ -22,9 +22,9 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 `VERB` tokens may have the following values of `Aspect`:
 
-* `Imp` (4357; 52% of non-empty `Aspect`): <em>является, составляет, может, находится, входит, имеет, есть, было, работал, занимает</em>
-* `Perf` (4086; 48% of non-empty `Aspect`): <em>стал, получил, родился, начал, стала, окончил, род., назначен, вышел, получила</em>
-* `EMPTY` (51): <em>можно, надо, жаль</em>
+* `Imp` (4358; 52% of non-empty `Aspect`): <em>является, составляет, может, находится, входит, имеет, есть, было, работал, занимает</em>
+* `Perf` (4085; 48% of non-empty `Aspect`): <em>стал, получил, родился, начал, стала, окончил, род., назначен, вышел, получила</em>
+* `EMPTY` (52): <em>можно, надо, вправе, жаль</em>
 
 <table>
   <tr><th>Paradigm <i>родиться</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th></tr>
@@ -37,7 +37,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
   <tr><td><tt><tt><a href="ru_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ru_gsd-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ru_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ru_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="ru_gsd-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td><em>родится</em></td><td></td></tr>
 </table>
 
-`Aspect` seems to be **lexical feature** of `VERB`. 98% lemmas (2006) occur only with one value of `Aspect`.
+`Aspect` seems to be **lexical feature** of `VERB`. 98% lemmas (2007) occur only with one value of `Aspect`.
 
 ### `AUX`
 

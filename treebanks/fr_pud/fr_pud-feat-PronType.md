@@ -9,20 +9,20 @@ udver: '2'
 This feature is universal.
 It occurs with 7 different values: `Art`, `Dem`, `Ind`, `Int`, `Neg`, `Prs`, `Rel`.
 
-5002 tokens (20%) have a non-empty value of `PronType`.
+5001 tokens (20%) have a non-empty value of `PronType`.
 126 types (2%) occur at least once with a non-empty value of `PronType`.
 38 lemmas (1%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="fr_pud-pos-DET.html">DET</a></tt> (3887; 16% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (1089; 4% instances), <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> (26; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="fr_pud-pos-DET.html">DET</a></tt> (3886; 16% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (1089; 4% instances), <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> (26; 0% instances).
 
 ### `DET`
 
-3887 <tt><a href="fr_pud-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+3886 <tt><a href="fr_pud-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2866; 74%), <tt><a href="fr_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2785; 72%), <tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2022; 52%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2865; 74%), <tt><a href="fr_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2785; 72%), <tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2018; 52%).
 
 `DET` tokens may have the following values of `PronType`:
 
-* `Art` (3456; 89% of non-empty `PronType`): <em>le, la, les, l', un, une, des, de, d', du</em>
+* `Art` (3455; 89% of non-empty `PronType`): <em>le, la, les, l', un, une, des, de, d', du</em>
 * `Dem` (123; 3% of non-empty `PronType`): <em>cette, ce, ces, cet</em>
 * `Ind` (22; 1% of non-empty `PronType`): <em>quelques, toute, quelque, tout, Divers, tous</em>
 * `Int` (3; 0% of non-empty `PronType`): <em>quelle, quel</em>
@@ -73,6 +73,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 ## Relations with Agreement in `PronType`
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
+<tt>PRON --[<tt><a href="fr_pud-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (4; 57%),
 <tt>PRON --[<tt><a href="fr_pud-dep-fixed.html">fixed</a></tt>]--> PRON</tt> (2; 100%),
 <tt>PRON --[<tt><a href="fr_pud-dep-conj.html">conj</a></tt>]--> PRON</tt> (1; 100%).
 

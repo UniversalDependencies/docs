@@ -19,4 +19,4 @@ punct(חיה, .)
 אמא שלהוא עוד חיה.
 
 “His mother is still alive.”
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:45 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:25 CET -->

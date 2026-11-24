@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Latin-UDante: POS Tags: `PART`
 
-There are 21 `PART` lemmas (0%), 22 `PART` types (0%) and 1487 `PART` tokens (3%).
+There are 20 `PART` lemmas (0%), 21 `PART` types (0%) and 1487 `PART` tokens (3%).
 Out of 16 observed tags, the rank of `PART` is: 12 in number of lemmas, 14 in number of types and 12 in number of tokens.
 
 The 10 most frequent `PART` lemmas: <em>non, nam, enim, autem, igitur, quidem, ne, quoque, etenim, itaque</em>
@@ -40,7 +40,7 @@ The 10 most frequent ambiguous types:  <em>non</em> (<tt><a href="la_udante-pos-
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.047619 (the average of all parts of speech is 2.131437).
+The form / lemma ratio of `PART` is 1.050000 (the average of all parts of speech is 2.131634).
 
 The 1st highest number of forms (2) was observed with the lemma “namque”: <em>namque, nanque</em>.
 
@@ -48,11 +48,11 @@ The 2nd highest number of forms (2) was observed with the lemma “ne”: <em>ne
 
 The 3rd highest number of forms (1) was observed with the lemma “an”: <em>an</em>.
 
-`PART` occurs with 5 features: <tt><a href="la_udante-feat-Polarity.html">Polarity</a></tt> (737; 50% instances), <tt><a href="la_udante-feat-Form.html">Form</a></tt> (255; 17% instances), <tt><a href="la_udante-feat-PartType.html">PartType</a></tt> (86; 6% instances), <tt><a href="la_udante-feat-PronType.html">PronType</a></tt> (34; 2% instances), <tt><a href="la_udante-feat-Compound.html">Compound</a></tt> (27; 2% instances)
+`PART` occurs with 5 features: <tt><a href="la_udante-feat-Polarity.html">Polarity</a></tt> (737; 50% instances), <tt><a href="la_udante-feat-Form.html">Form</a></tt> (255; 17% instances), <tt><a href="la_udante-feat-PartType.html">PartType</a></tt> (86; 6% instances), <tt><a href="la_udante-feat-PronType.html">PronType</a></tt> (34; 2% instances), <tt><a href="la_udante-feat-Compound.html">Compound</a></tt> (26; 2% instances)
 
 `PART` occurs with 6 feature-value pairs: `Compound=Yes`, `Form=Emp`, `PartType=Emp`, `PartType=Int`, `Polarity=Neg`, `PronType=Dem`
 
-`PART` occurs with 10 feature combinations.
+`PART` occurs with 9 feature combinations.
 The most frequent feature combination is `Polarity=Neg` (735 tokens).
 Examples: <em>non, ni, ne</em>
 

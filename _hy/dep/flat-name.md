@@ -52,4 +52,4 @@ flat:name(King, Arshak)
 flat:name(Զարեհ, էֆենդի)
 flat:name(Zareh, Efendi)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:10 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:47 CET -->

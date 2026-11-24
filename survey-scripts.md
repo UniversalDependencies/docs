@@ -18,7 +18,7 @@ ignored. The scripts are identified by their
 
 ## Abkhaz: ab_abnc
 
-* `Cyrl` (62005 = 100%), example: а 1072 CYRILLIC SMALL LETTER A (13599)
+* `Cyrl` (68284 = 100%), example: а 1072 CYRILLIC SMALL LETTER A (14967)
 
 ## Afrikaans: af_afribooms
 
@@ -111,6 +111,13 @@ ignored. The scripts are identified by their
 
 * `Syrc` (1305 = 100%), example: ܐ 1808 SYRIAC LETTER ALAPH (215)
 
+## Avestan: ae_old
+
+<span style="color:red">Expected scripts: <tt>Avst</tt></span>
+
+* `Latn` (1700 = 98%), example: a 97 LATIN SMALL LETTER A (224)
+* `Grek` (35 = 2%), example: ϑ 977 GREEK THETA SYMBOL (24)
+
 ## Azerbaijani: az_tuecl
 
 * `Latn` (4181 = 100%), example: a 97 LATIN SMALL LETTER A (402)
@@ -131,8 +138,8 @@ ignored. The scripts are identified by their
 
 ## Beja: bej_autogramm
 
-* `Latn` (31942 = 86%), example: a 97 LATIN SMALL LETTER A (5800)
-* `Zyyy` (5392 = 14%), example: ː 720 MODIFIER LETTER TRIANGULAR COLON (5378)
+* `Latn` (31889 = 86%), example: a 97 LATIN SMALL LETTER A (5788)
+* `Zyyy` (5384 = 14%), example: ː 720 MODIFIER LETTER TRIANGULAR COLON (5370)
 
 ## Belarusian: be_hse
 
@@ -156,6 +163,15 @@ ignored. The scripts are identified by their
 ## Bokota: sab_chibergis
 
 * `Latn` (8690 = 100%), example: e 101 LATIN SMALL LETTER E (1247)
+
+## Bonan: peh_gdud
+
+<span style="color:red">Expected scripts: <tt>Mong</tt></span>
+
+* `Latn` (30360 = 98%), example: a 97 LATIN SMALL LETTER A (4578)
+* `Grek` (565 = 2%), example: χ 967 GREEK SMALL LETTER CHI (565)
+* `Zyyy` (105 = 0%), example: ː 720 MODIFIER LETTER TRIANGULAR COLON (105)
+* `Cyrl` (1 = 0%), example: і 1110 CYRILLIC SMALL LETTER BYELORUSSIAN-UKRAINIAN I (1)
 
 ## Bororo: bor_bdt
 
@@ -202,11 +218,17 @@ ignored. The scripts are identified by their
 
 ## Cebuano: ceb_gja
 
-* `Latn` (4931 = 100%), example: a 97 LATIN SMALL LETTER A (1074)
+* `Latn` (5427 = 100%), example: a 97 LATIN SMALL LETTER A (1173)
 
 ## Central Kurdish: ckb_mukri
 
 * `Latn` (2298 = 100%), example: e 101 LATIN SMALL LETTER E (370)
+
+## Chechen: ce_mottdt
+
+<span style="color:red">Expected scripts: <tt>Cyrl</tt></span>
+
+* `Latn` (13450 = 100%), example: a 97 LATIN SMALL LETTER A (3045)
 
 ## Chinese: zh_beginner
 
@@ -280,6 +302,11 @@ ignored. The scripts are identified by their
 
 * `Latn` (961419 = 100%), example: a 97 LATIN SMALL LETTER A (107016)
 
+## Cuicatec: cux_mesotree
+
+* `Latn` (31550 = 96%), example: a 97 LATIN SMALL LETTER A (4218)
+* `Zyyy` (1442 = 4%), example: ʼ 700 MODIFIER LETTER APOSTROPHE (1442)
+
 ## Czech: cs_cac
 
 * `Latn` (2430965 = 100%), example: o 111 LATIN SMALL LETTER O (208058)
@@ -287,6 +314,11 @@ ignored. The scripts are identified by their
 ## Czech: cs_cltt
 
 * `Latn` (185247 = 100%), example: o 111 LATIN SMALL LETTER O (17064)
+
+## Czech: cs_czesl
+
+* `Latn` (39082 = 100%), example: e 101 LATIN SMALL LETTER E (3290)
+* `Zyyy` (1 = 0%), example: ˇ 711 CARON (1)
 
 ## Czech: cs_fictree
 
@@ -309,6 +341,28 @@ ignored. The scripts are identified by their
 
 * `Latn` (424740 = 100%), example: e 101 LATIN SMALL LETTER E (66206)
 
+## Dargwa: dar_mehweb
+
+<span style="color:red">Expected scripts: <tt>Cyrl</tt></span>
+
+* `Latn` (19055 = 99%), example: a 97 LATIN SMALL LETTER A (3082)
+* `Grek` (132 = 1%), example: χ 967 GREEK SMALL LETTER CHI (132)
+* `Zyyy` (15 = 0%), example: ː 720 MODIFIER LETTER TRIANGULAR COLON (15)
+* `Cyrl` (3 = 0%), example: х 1093 CYRILLIC SMALL LETTER HA (3)
+
+## Daur: dta_gdud
+
+<span style="color:red">Expected scripts: <tt>Mong</tt></span>
+
+* `Latn` (2598 = 90%), example: ə 601 LATIN SMALL LETTER SCHWA (328)
+* `Zyyy` (277 = 10%), example: ː 720 MODIFIER LETTER TRIANGULAR COLON (277)
+
+## Dongxiang: sce_gdud
+
+<span style="color:red">Expected scripts: <tt>Mong</tt></span>
+
+* `Latn` (3366 = 100%), example: i 105 LATIN SMALL LETTER I (562)
+
 ## Dutch: nl_alpino
 
 * `Latn` (950065 = 100%), example: e 101 LATIN SMALL LETTER E (176098)
@@ -320,8 +374,8 @@ ignored. The scripts are identified by their
 
 ## Egyptian: egy_pc
 
-* `Latn` (72196 = 100%), example: w 119 LATIN SMALL LETTER W (9273)
-* `Zyyy` (182 = 0%), example: ʾ 702 MODIFIER LETTER RIGHT HALF RING (182)
+* `Latn` (90899 = 100%), example: w 119 LATIN SMALL LETTER W (11642)
+* `Zyyy` (213 = 0%), example: ʾ 702 MODIFIER LETTER RIGHT HALF RING (213)
 
 ## English: en_atis
 
@@ -389,7 +443,7 @@ ignored. The scripts are identified by their
 
 ## Esperanto: eo_prago
 
-* `Latn` (13485 = 100%), example: a 97 LATIN SMALL LETTER A (1684)
+* `Latn` (16391 = 100%), example: a 97 LATIN SMALL LETTER A (2044)
 
 ## Estonian: et_edt
 
@@ -400,6 +454,22 @@ ignored. The scripts are identified by their
 
 * `Latn` (408641 = 100%), example: a 97 LATIN SMALL LETTER A (50400)
 * `Cyrl` (29 = 0%), example: о 1086 CYRILLIC SMALL LETTER O (3)
+
+## Even: eve_gdud
+
+<span style="color:red">Expected scripts: <tt>Cyrl</tt></span>
+
+* `Latn` (1554 = 97%), example: a 97 LATIN SMALL LETTER A (224)
+* `Zyyy` (46 = 3%), example: ˇ 711 CARON (46)
+
+## Evenki: evn_gdud
+
+<span style="color:red">Expected scripts: <tt>Cyrl</tt></span>
+
+* `Latn` (1208 = 83%), example: a 97 LATIN SMALL LETTER A (144)
+* `Zyyy` (126 = 9%), example: ː 720 MODIFIER LETTER TRIANGULAR COLON (125)
+* `Cyrl` (116 = 8%), example: ә 1241 CYRILLIC SMALL LETTER SCHWA (114)
+* `Grek` (3 = 0%), example: β 946 GREEK SMALL LETTER BETA (3)
 
 ## Faroese: fo_farpahc
 
@@ -453,7 +523,7 @@ ignored. The scripts are identified by their
 
 ## French: fr_parisstories
 
-* `Latn` (127833 = 100%), example: e 101 LATIN SMALL LETTER E (18510)
+* `Latn` (127830 = 100%), example: e 101 LATIN SMALL LETTER E (18509)
 
 ## French: fr_partut
 
@@ -476,6 +546,10 @@ ignored. The scripts are identified by their
 * `Latn` (296148 = 100%), example: e 101 LATIN SMALL LETTER E (40147)
 * `Zyyy` (1 = 0%), example: µ 181 MICRO SIGN (1)
 
+## French Sign Language: fsl_stkautogramm
+
+* `Latn` (4558 = 100%), example: E 69 LATIN CAPITAL LETTER E (434)
+
 ## Frisian Dutch: qfn_fame
 
 * `Latn` (15715 = 100%), example: e 101 LATIN SMALL LETTER E (2527)
@@ -487,11 +561,17 @@ ignored. The scripts are identified by their
 
 ## Galician: gl_pud
 
-* `Latn` (94999 = 100%), example: a 97 LATIN SMALL LETTER A (11121)
+* `Latn` (94997 = 100%), example: a 97 LATIN SMALL LETTER A (11121)
 
 ## Galician: gl_treegal
 
 * `Latn` (103606 = 100%), example: a 97 LATIN SMALL LETTER A (12631)
+
+## Gedeo: drs_gdt
+
+<span style="color:red">Expected scripts: <tt>Ethi</tt></span>
+
+* `Latn` (1760 = 100%), example: a 97 LATIN SMALL LETTER A (254)
 
 ## Georgian: ka_glc
 
@@ -534,6 +614,13 @@ ignored. The scripts are identified by their
 
 * `Latn` (51964 = 100%), example: e 101 LATIN SMALL LETTER E (5607)
 
+## Gorani: hac_hawrami
+
+<span style="color:red">Expected scripts: <tt>Arab</tt></span>
+
+* `Latn` (1948 = 100%), example: e 101 LATIN SMALL LETTER E (292)
+* `Grek` (1 = 0%), example: ε 949 GREEK SMALL LETTER EPSILON (1)
+
 ## Gorontalo: gor_bungololombi
 
 * `Latn` (1035 = 100%), example: o 111 LATIN SMALL LETTER O (160)
@@ -546,6 +633,11 @@ ignored. The scripts are identified by their
 
 * `Grek` (16496 = 100%), example: α 945 GREEK SMALL LETTER ALPHA (1710)
 
+## Greek: el_cypriot
+
+* `Grek` (9096 = 100%), example: ν 957 GREEK SMALL LETTER NU (971)
+* `Latn` (17 = 0%), example: o 111 LATIN SMALL LETTER O (3)
+
 ## Greek: el_gdt
 
 * `Grek` (303706 = 99%), example: α 945 GREEK SMALL LETTER ALPHA (27484)
@@ -556,6 +648,13 @@ ignored. The scripts are identified by their
 * `Grek` (41383 = 100%), example: α 945 GREEK SMALL LETTER ALPHA (4584)
 * `Latn` (127 = 0%), example: e 101 LATIN SMALL LETTER E (10)
 * `Cyrl` (1 = 0%), example: Г 1043 CYRILLIC CAPITAL LETTER GHE (1)
+
+## Greek: el_griko
+
+<span style="color:red">Expected scripts: <tt>Grek</tt></span>
+
+* `Latn` (4091 = 100%), example: a 97 LATIN SMALL LETTER A (480)
+* `Grek` (13 = 0%), example: χ 967 GREEK SMALL LETTER CHI (13)
 
 ## Greek: el_gud
 
@@ -584,6 +683,10 @@ ignored. The scripts are identified by their
 
 * `Gujr` (4205 = 99%), example: ર 2736 GUJARATI LETTER RA (411)
 * `Latn` (26 = 1%), example: I 73 LATIN CAPITAL LETTER I (5)
+
+## Gujarati: gu_shabdasetu
+
+* `Gujr` (760 = 100%), example: ન 2728 GUJARATI LETTER NA (73)
 
 ## Gwichin: gwi_tuecl
 
@@ -731,7 +834,8 @@ ignored. The scripts are identified by their
 
 ## Italian: it_kiparlaforest
 
-* `Latn` (77629 = 100%), example: e 101 LATIN SMALL LETTER E (8445)
+* `Latn` (101832 = 100%), example: a 97 LATIN SMALL LETTER A (11115)
+* `Zyyy` (3 = 0%), example: ʿ 703 MODIFIER LETTER LEFT HALF RING (3)
 
 ## Italian: it_markit
 
@@ -817,7 +921,14 @@ ignored. The scripts are identified by their
 
 ## Kadiweu: kbc_unicamp
 
-* `Latn` (1540 = 100%), example: i 105 LATIN SMALL LETTER I (384)
+* `Latn` (4480 = 100%), example: i 105 LATIN SMALL LETTER I (1088)
+
+## Kalmyk: xal_gdud
+
+<span style="color:red">Expected scripts: <tt>Cyrl</tt></span>
+
+* `Latn` (1705 = 81%), example: a 97 LATIN SMALL LETTER A (179)
+* `Cyrl` (405 = 19%), example: а 1072 CYRILLIC SMALL LETTER A (50)
 
 ## Kangri: xnr_kdtb
 
@@ -830,6 +941,11 @@ ignored. The scripts are identified by their
 ## Karo: arr_tudet
 
 * `Latn` (9469 = 100%), example: a 97 LATIN SMALL LETTER A (1450)
+
+## Kashmiri: ks_zaan
+
+* `Arab` (7200 = 100%), example: ن 1606 ARABIC LETTER NOON (745)
+* `Deva` (6 = 0%), example: ग 2327 DEVANAGARI LETTER GA (1)
 
 ## Kazakh: kk_ktb
 
@@ -847,22 +963,20 @@ ignored. The scripts are identified by their
 
 ## Komi Permyak: koi_uh
 
-* `Cyrl` (4405 = 97%), example: с 1089 CYRILLIC SMALL LETTER ES (371)
-* `Latn` (141 = 3%), example: ö 246 LATIN SMALL LETTER O WITH DIAERESIS (118)
+* `Cyrl` (4546 = 100%), example: ӧ 1255 CYRILLIC SMALL LETTER O WITH DIAERESIS (391)
 
 ## Komi Zyrian: kpv_ikdp
 
-* `Cyrl` (9179 = 100%), example: с 1089 CYRILLIC SMALL LETTER ES (761)
-* `Latn` (2 = 0%), example: x 120 LATIN SMALL LETTER X (2)
+* `Cyrl` (9181 = 100%), example: с 1089 CYRILLIC SMALL LETTER ES (761)
 
 ## Komi Zyrian: kpv_lattice
 
-* `Cyrl` (36832 = 100%), example: с 1089 CYRILLIC SMALL LETTER ES (3260)
-* `Latn` (44 = 0%), example: a 97 LATIN SMALL LETTER A (21)
+* `Cyrl` (36953 = 100%), example: с 1089 CYRILLIC SMALL LETTER ES (3273)
+* `Latn` (41 = 0%), example: a 97 LATIN SMALL LETTER A (21)
 
 ## Korean: ko_gsd
 
-* `Hang` (203616 = 98%), example: 이 51060 HANGUL SYLLABLE I (6540)
+* `Hang` (203614 = 98%), example: 이 51060 HANGUL SYLLABLE I (6540)
 * `Latn` (4567 = 2%), example: e 101 LATIN SMALL LETTER E (242)
 * `Hani` (594 = 0%), example: 子 23376 CJK UNIFIED IDEOGRAPH-5B50 (5)
 * `Zyyy` (4 = 0%), example: ℓ 8467 SCRIPT SMALL L (4)
@@ -889,6 +1003,11 @@ ignored. The scripts are identified by their
 
 * `Hang` (38711 = 97%), example: 이 51060 HANGUL SYLLABLE I (1333)
 * `Latn` (1172 = 3%), example: e 101 LATIN SMALL LETTER E (91)
+
+## Kullvi: kfx_kdtb
+
+* `Deva` (8990 = 100%), example: र 2352 DEVANAGARI LETTER RA (1007)
+* `Latn` (2 = 0%), example: i 105 LATIN SMALL LETTER I (1)
 
 ## Kyrgyz: ky_ktmu
 
@@ -939,13 +1058,18 @@ ignored. The scripts are identified by their
 * `Cyrl` (24 = 0%), example: и 1080 CYRILLIC SMALL LETTER I (4)
 * `Grek` (2 = 0%), example: α 945 GREEK SMALL LETTER ALPHA (1)
 
+## Laz: lzz_boun
+
+* `Latn` (9531 = 99%), example: a 97 LATIN SMALL LETTER A (1203)
+* `Zyyy` (139 = 1%), example: ʼ 700 MODIFIER LETTER APOSTROPHE (139)
+
 ## Ligurian: lij_glt
 
 * `Latn` (21070 = 100%), example: e 101 LATIN SMALL LETTER E (2447)
 
 ## Lithuanian: lt_alksnis
 
-* `Latn` (371954 = 100%), example: i 105 LATIN SMALL LETTER I (50453)
+* `Latn` (300778 = 100%), example: i 105 LATIN SMALL LETTER I (40782)
 
 ## Lithuanian: lt_hse
 
@@ -989,6 +1113,16 @@ ignored. The scripts are identified by their
 
 * `Latn` (188123 = 100%), example: i 105 LATIN SMALL LETTER I (22208)
 
+## Manchu: mnc_gdud
+
+<span style="color:red">Expected scripts: <tt>Mong</tt></span>
+
+* `Latn` (2046 = 100%), example: a 97 LATIN SMALL LETTER A (249)
+
+## Mandyali: mjl_mdtb
+
+* `Deva` (5509 = 100%), example: र 2352 DEVANAGARI LETTER RA (655)
+
 ## Manx: gv_cadhan
 
 * `Latn` (64480 = 100%), example: e 101 LATIN SMALL LETTER E (9622)
@@ -1008,7 +1142,7 @@ ignored. The scripts are identified by their
 
 ## Middle Armenian: axm_armtdp
 
-* `Armn` (3568 = 100%), example: ա 1377 ARMENIAN SMALL LETTER AYB (482)
+* `Armn` (18652 = 100%), example: ա 1377 ARMENIAN SMALL LETTER AYB (2205)
 
 ## Middle French: frm_altm
 
@@ -1016,12 +1150,18 @@ ignored. The scripts are identified by their
 
 ## Middle French: frm_profiterole
 
-* `Latn` (452439 = 100%), example: e 101 LATIN SMALL LETTER E (74639)
+* `Latn` (592189 = 100%), example: e 101 LATIN SMALL LETTER E (98207)
 
 ## Moksha: mdf_jr
 
-* `Cyrl` (21735 = 100%), example: а 1072 CYRILLIC SMALL LETTER A (2670)
-* `Latn` (2 = 0%), example: c 99 LATIN SMALL LETTER C (2)
+* `Cyrl` (21737 = 100%), example: а 1072 CYRILLIC SMALL LETTER A (2670)
+
+## Mongolian: mn_gdud
+
+<span style="color:red">Expected scripts: <tt>Cyrl</tt></span>
+
+* `Latn` (2067 = 100%), example: a 97 LATIN SMALL LETTER A (234)
+* `Cyrl` (9 = 0%), example: а 1072 CYRILLIC SMALL LETTER A (3)
 
 ## Munduruku: myu_tudet
 
@@ -1029,15 +1169,30 @@ ignored. The scripts are identified by their
 
 ## Naga: nmf_suansu
 
-* `Latn` (14447 = 100%), example: a 97 LATIN SMALL LETTER A (2496)
+* `Latn` (14299 = 100%), example: a 97 LATIN SMALL LETTER A (2465)
 
 ## Naija: pcm_nsc
 
 * `Latn` (358447 = 100%), example: e 101 LATIN SMALL LETTER E (48336)
 
+## Nanai: gld_gdud
+
+<span style="color:red">Expected scripts: <tt>Cyrl</tt></span>
+
+* `Latn` (4407 = 96%), example: i 105 LATIN SMALL LETTER I (759)
+* `Cyrl` (169 = 4%), example: а 1072 CYRILLIC SMALL LETTER A (21)
+
 ## Neapolitan: nap_rb
 
 * `Latn` (746 = 100%), example: a 97 LATIN SMALL LETTER A (82)
+
+## Negidal: neg_gdud
+
+<span style="color:red">Expected scripts: <tt>Cyrl</tt></span>
+
+* `Latn` (1638 = 95%), example: a 97 LATIN SMALL LETTER A (230)
+* `Zyyy` (44 = 3%), example: ː 720 MODIFIER LETTER TRIANGULAR COLON (44)
+* `Grek` (43 = 2%), example: β 946 GREEK SMALL LETTER BETA (40)
 
 ## Nenets: yrk_tundra
 
@@ -1065,7 +1220,7 @@ ignored. The scripts are identified by their
 
 ## Northwest Gbaya: gya_autogramm
 
-* `Latn` (8255 = 100%), example: á 225 LATIN SMALL LETTER A WITH ACUTE (796)
+* `Latn` (16074 = 100%), example: n 110 LATIN SMALL LETTER N (1202)
 
 ## Norwegian: no_bokmaal
 
@@ -1093,8 +1248,8 @@ ignored. The scripts are identified by their
 
 ## Old East Slavic: orv_birchbark
 
-* `Cyrl` (95696 = 96%), example: о 1086 CYRILLIC SMALL LETTER O (9706)
-* `Latn` (3894 = 4%), example: b 98 LATIN SMALL LETTER B (1298)
+* `Cyrl` (101173 = 96%), example: о 1086 CYRILLIC SMALL LETTER O (10193)
+* `Latn` (4107 = 4%), example: b 98 LATIN SMALL LETTER B (1369)
 
 ## Old East Slavic: orv_rnc
 
@@ -1131,7 +1286,15 @@ ignored. The scripts are identified by their
 
 ## Old Georgian: oge_glc
 
-* `Geor` (41765 = 100%), example: ა 4304 GEORGIAN LETTER AN (7347)
+* `Geor` (178250 = 100%), example: ა 4304 GEORGIAN LETTER AN (31187)
+
+## Old Georgian: oge_midglauro
+
+* `Geor` (27940 = 100%), example: ა 4304 GEORGIAN LETTER AN (5423)
+
+## Old Georgian: oge_oglauro
+
+* `Geor` (55828 = 100%), example: ა 4304 GEORGIAN LETTER AN (10176)
 
 ## Old Irish: sga_dipsgg
 
@@ -1144,11 +1307,22 @@ ignored. The scripts are identified by their
 
 ## Old Occitan: pro_corag
 
-* `Latn` (193075 = 100%), example: e 101 LATIN SMALL LETTER E (29815)
+* `Latn` (278690 = 100%), example: e 101 LATIN SMALL LETTER E (41368)
+
+## Old Occitan: pro_cronoc
+
+* `Latn` (126635 = 100%), example: a 97 LATIN SMALL LETTER A (16930)
 
 ## Old Turkish: otk_clausal
 
 * `Orkh` (298 = 100%), example: 𐰃 68611 OLD TURKIC LETTER ORKHON I (44)
+
+## Oroch: oac_gdud
+
+<span style="color:red">Expected scripts: <tt>Cyrl</tt></span>
+
+* `Latn` (1186 = 99%), example: i 105 LATIN SMALL LETTER I (200)
+* `Grek` (14 = 1%), example: χ 967 GREEK SMALL LETTER CHI (14)
 
 ## Ottoman Turkish: ota_boun
 
@@ -1156,8 +1330,8 @@ ignored. The scripts are identified by their
 
 ## Ottoman Turkish: ota_dudu
 
-* `Latn` (120230 = 99%), example: e 101 LATIN SMALL LETTER E (12855)
-* `Zyyy` (1563 = 1%), example: ʿ 703 MODIFIER LETTER LEFT HALF RING (1423)
+* `Latn` (135844 = 99%), example: e 101 LATIN SMALL LETTER E (14585)
+* `Zyyy` (1769 = 1%), example: ʿ 703 MODIFIER LETTER LEFT HALF RING (1611)
 
 ## Ottoman Turkish: ota_tuecl
 
@@ -1165,19 +1339,29 @@ ignored. The scripts are identified by their
 * `Zyyy` (35 = 1%), example: ʿ 703 MODIFIER LETTER LEFT HALF RING (26)
 * `Cyrl` (1 = 0%), example: і 1110 CYRILLIC SMALL LETTER BYELORUSSIAN-UKRAINIAN I (1)
 
+## Pali: pi_palicanon
+
+* `Latn` (12797 = 100%), example: a 97 LATIN SMALL LETTER A (2425)
+
 ## Pashto: ps_prince
 
 * `Arab` (3444 = 100%), example: و 1608 ARABIC LETTER WAW (466)
 
 ## Pashto: ps_sikaram
 
-* `Arab` (16302 = 100%), example: و 1608 ARABIC LETTER WAW (1999)
+* `Arab` (20476 = 100%), example: و 1608 ARABIC LETTER WAW (2480)
 * `Latn` (17 = 0%), example: a 97 LATIN SMALL LETTER A (3)
 * `Zyyy` (7 = 0%), example: ـ 1600 ARABIC TATWEEL (7)
 
 ## Paumari: pad_tuecl
 
 * `Latn` (2685 = 100%), example: a 97 LATIN SMALL LETTER A (731)
+
+## Peripheral Mongolian: mvf_ordos
+
+<span style="color:red">Expected scripts: <tt>Mong</tt></span>
+
+* `Latn` (1445 = 100%), example: a 97 LATIN SMALL LETTER A (211)
 
 ## Persian: fa_perdt
 
@@ -1191,13 +1375,15 @@ ignored. The scripts are identified by their
 
 ## Pesh: pay_chibergis
 
-* `Latn` (14062 = 100%), example: a 97 LATIN SMALL LETTER A (2998)
+* `Latn` (14247 = 100%), example: a 97 LATIN SMALL LETTER A (3048)
 
 ## Phrygian: xpg_kul
 
-* `Grek` (7852 = 92%), example: ε 949 GREEK SMALL LETTER EPSILON (971)
-* `Latn` (708 = 8%), example: a 97 LATIN SMALL LETTER A (121)
-* `Cari` (3 = 0%), example: 𐋇 66247 CARIAN LETTER TT (3)
+* `Grek` (7853 = 86%), example: ε 949 GREEK SMALL LETTER EPSILON (971)
+* `Latn` (1266 = 14%), example: a 97 LATIN SMALL LETTER A (213)
+* `Cari` (8 = 0%), example: 𐋇 66247 CARIAN LETTER TT (8)
+* `Lydi` (2 = 0%), example: 𐤶 67894 LYDIAN LETTER EN (2)
+* `Phnx` (1 = 0%), example: 𐤒 67858 PHOENICIAN LETTER QOF (1)
 
 ## Polish: pl_lfg
 
@@ -1205,7 +1391,7 @@ ignored. The scripts are identified by their
 
 ## Polish: pl_mpdt
 
-* `Latn` (207693 = 100%), example: i 105 LATIN SMALL LETTER I (17976)
+* `Latn` (260511 = 100%), example: i 105 LATIN SMALL LETTER I (22571)
 
 ## Polish: pl_pdb
 
@@ -1220,6 +1406,10 @@ ignored. The scripts are identified by their
 ## Pomak: qpm_philotis
 
 * `Latn` (123442 = 100%), example: a 97 LATIN SMALL LETTER A (14349)
+
+## Portuguese: pt_alienista
+
+* `Latn` (76201 = 100%), example: a 97 LATIN SMALL LETTER A (9940)
 
 ## Portuguese: pt_bosque
 
@@ -1249,17 +1439,36 @@ ignored. The scripts are identified by their
 * `Grek` (65 = 0%), example: η 951 GREEK SMALL LETTER ETA (15)
 * `Cyrl` (3 = 0%), example: т 1090 CYRILLIC SMALL LETTER TE (3)
 
+## Portuguese: pt_portjur
+
+* `Latn` (424292 = 100%), example: e 101 LATIN SMALL LETTER E (50150)
+
 ## Portuguese: pt_porttinari
 
 * `Latn` (652044 = 100%), example: a 97 LATIN SMALL LETTER A (79474)
+
+## Portuguese: pt_pprincipe
+
+* `Latn` (57553 = 100%), example: e 101 LATIN SMALL LETTER E (7257)
 
 ## Portuguese: pt_pud
 
 * `Latn` (94869 = 100%), example: a 97 LATIN SMALL LETTER A (11298)
 
+## Prakrit: pra_dipi
+
+<span style="color:red">Expected scripts: <tt>Deva</tt></span>
+
+* `Latn` (5060 = 100%), example: a 97 LATIN SMALL LETTER A (1049)
+
 ## Punjabi: pa_cs
 
 * `Guru` (3693 = 100%), example: ਹ 2617 GURMUKHI LETTER HA (382)
+
+## Punjabi: pa_dyz
+
+* `Guru` (9422 = 99%), example: ਸ 2616 GURMUKHI LETTER SA (758)
+* `Latn` (61 = 1%), example: a 97 LATIN SMALL LETTER A (8)
 
 ## Punjabi: pa_rang
 
@@ -1332,7 +1541,7 @@ ignored. The scripts are identified by their
 
 ## Ruuli: ruc_rdt
 
-* `Latn` (28664 = 100%), example: a 97 LATIN SMALL LETTER A (4993)
+* `Latn` (37967 = 100%), example: a 97 LATIN SMALL LETTER A (6824)
 
 ## Sanskrit: sa_ufal
 
@@ -1343,9 +1552,17 @@ ignored. The scripts are identified by their
 * `Latn` (1161124 = 100%), example: a 97 LATIN SMALL LETTER A (241989)
 * `Hang` (95 = 0%), example: ﾱ 65457 HALFWIDTH HANGUL LETTER MIEUM (95)
 
+## Sardinian: sc_contsar
+
+* `Latn` (32134 = 100%), example: a 97 LATIN SMALL LETTER A (3917)
+
 ## Scottish Gaelic: gd_arcosg
 
 * `Latn` (344892 = 100%), example: a 97 LATIN SMALL LETTER A (62094)
+
+## Serbian: sr_parcolab
+
+* `Latn` (183742 = 100%), example: a 97 LATIN SMALL LETTER A (22220)
 
 ## Serbian: sr_set
 
@@ -1361,7 +1578,7 @@ ignored. The scripts are identified by their
 
 ## Sindhi: sd_isra
 
-* `Arab` (302936 = 100%), example: ي 1610 ARABIC LETTER YEH (41751)
+* `Arab` (303375 = 100%), example: ي 1610 ARABIC LETTER YEH (41805)
 * `Latn` (394 = 0%), example: s 115 LATIN SMALL LETTER S (32)
 * `Zyyy` (262 = 0%), example: ـ 1600 ARABIC TATWEEL (262)
 
@@ -1375,8 +1592,8 @@ ignored. The scripts are identified by their
 
 ## Skolt Sami: sms_giellagas
 
-* `Latn` (11516 = 94%), example: t 116 LATIN SMALL LETTER T (957)
-* `Zyyy` (717 = 6%), example: ʹ 697 MODIFIER LETTER PRIME (715)
+* `Latn` (11975 = 94%), example: t 116 LATIN SMALL LETTER T (1010)
+* `Zyyy` (736 = 6%), example: ʹ 697 MODIFIER LETTER PRIME (734)
 
 ## Slovak: sk_snk
 
@@ -1411,7 +1628,7 @@ ignored. The scripts are identified by their
 
 ## Spanish: es_gsd
 
-* `Latn` (1784275 = 100%), example: e 101 LATIN SMALL LETTER E (225195)
+* `Latn` (1784278 = 100%), example: e 101 LATIN SMALL LETTER E (225195)
 * `Grek` (119 = 0%), example: ο 959 GREEK SMALL LETTER OMICRON (13)
 * `Cyrl` (69 = 0%), example: и 1080 CYRILLIC SMALL LETTER I (8)
 * `Arab` (38 = 0%), example: ا 1575 ARABIC LETTER ALEF (7)
@@ -1434,6 +1651,10 @@ ignored. The scripts are identified by their
 
 * `Latn` (442546 = 100%), example: a 97 LATIN SMALL LETTER A (43245)
 
+## Swedish: sv_modern
+
+* `Latn` (66023 = 100%), example: h 104 LATIN SMALL LETTER H (7118)
+
 ## Swedish: sv_old
 
 * `Latn` (2153 = 100%), example: a 97 LATIN SMALL LETTER A (242)
@@ -1453,6 +1674,10 @@ ignored. The scripts are identified by their
 ## Swedish Sign Language: swl_sslc
 
 * `Latn` (11693 = 100%), example: A 65 LATIN CAPITAL LETTER A (1136)
+
+## Tagabawa: bgs_gja
+
+* `Latn` (3183 = 100%), example: a 97 LATIN SMALL LETTER A (572)
 
 ## Tagalog: tl_trg
 
@@ -1494,14 +1719,30 @@ ignored. The scripts are identified by their
 * `Thai` (74386 = 100%), example: า 3634 THAI CHARACTER SARA AA (6575)
 * `Latn` (181 = 0%), example: o 111 LATIN SMALL LETTER O (13)
 
+## Thai: th_tdt
+
+* `Thai` (18035 = 99%), example: า 3634 THAI CHARACTER SARA AA (1780)
+* `Latn` (123 = 1%), example: o 111 LATIN SMALL LETTER O (10)
+
 ## Thai: th_tud
 
 * `Thai` (237075 = 99%), example: า 3634 THAI CHARACTER SARA AA (21589)
 * `Latn` (1201 = 1%), example: e 101 LATIN SMALL LETTER E (141)
 
+## Tigrinya: ti_titb
+
+* `Ethi` (3329 = 100%), example: እ 4773 ETHIOPIC SYLLABLE GLOTTAL E (193)
+
 ## Tswana: tn_popapolelo
 
-* `Latn` (696 = 100%), example: a 97 LATIN SMALL LETTER A (124)
+* `Latn` (1927 = 100%), example: a 97 LATIN SMALL LETTER A (344)
+
+## Tu: mjg_gdud
+
+<span style="color:red">Expected scripts: <tt>Mong</tt></span>
+
+* `Latn` (2488 = 94%), example: a 97 LATIN SMALL LETTER A (362)
+* `Zyyy` (164 = 6%), example: ː 720 MODIFIER LETTER TRIANGULAR COLON (164)
 
 ## Tupinamba: tpn_tudet
 
@@ -1556,6 +1797,14 @@ ignored. The scripts are identified by their
 
 * `Latn` (162554 = 100%), example: e 101 LATIN SMALL LETTER E (18930)
 
+## Udihe: ude_gdud
+
+<span style="color:red">Expected scripts: <tt>Cyrl</tt></span>
+
+* `Latn` (2580 = 99%), example: i 105 LATIN SMALL LETTER I (521)
+* `Grek` (30 = 1%), example: η 951 GREEK SMALL LETTER ETA (29)
+* `Zyyy` (5 = 0%), example: ː 720 MODIFIER LETTER TRIANGULAR COLON (5)
+
 ## Ukrainian: uk_iu
 
 * `Cyrl` (546493 = 99%), example: о 1086 CYRILLIC SMALL LETTER O (51018)
@@ -1567,6 +1816,19 @@ ignored. The scripts are identified by their
 
 * `Cyrl` (525357 = 100%), example: о 1086 CYRILLIC SMALL LETTER O (52639)
 * `Latn` (255 = 0%), example: I 73 LATIN CAPITAL LETTER I (47)
+
+## Ukrainian: uk_zhelekhivka
+
+* `Cyrl` (40601 = 100%), example: о 1086 CYRILLIC SMALL LETTER O (3813)
+* `Latn` (202 = 0%), example: X 88 LATIN CAPITAL LETTER X (34)
+
+## Ulch: ulc_gdud
+
+<span style="color:red">Expected scripts: <tt>Cyrl</tt></span>
+
+* `Latn` (623 = 60%), example: a 97 LATIN SMALL LETTER A (54)
+* `Cyrl` (410 = 40%), example: и 1080 CYRILLIC SMALL LETTER I (61)
+* `Zyyy` (2 = 0%), example: ʼ 700 MODIFIER LETTER APOSTROPHE (2)
 
 ## Umbrian: xum_ikuvina
 
@@ -1586,6 +1848,11 @@ ignored. The scripts are identified by their
 
 * `Arab` (481665 = 100%), example: ا 1575 ARABIC LETTER ALEF (60102)
 * `Latn` (258 = 0%), example: A 65 LATIN CAPITAL LETTER A (19)
+
+## Uspanteko: usp_mesotree
+
+* `Latn` (47387 = 91%), example: a 97 LATIN SMALL LETTER A (6499)
+* `Zyyy` (4827 = 9%), example: ʼ 700 MODIFIER LETTER APOSTROPHE (4827)
 
 ## Uyghur: ug_udt
 
@@ -1658,7 +1925,7 @@ ignored. The scripts are identified by their
 
 ## Yiddish: yi_yitb
 
-* `Hebr` (97752 = 100%), example: א 1488 HEBREW LETTER ALEF (11934)
+* `Hebr` (103238 = 100%), example: א 1488 HEBREW LETTER ALEF (12528)
 * `Latn` (136 = 0%), example: d 100 LATIN SMALL LETTER D (54)
 
 ## Yoruba: yo_ytb

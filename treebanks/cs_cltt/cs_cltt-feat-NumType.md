@@ -30,7 +30,7 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 
 42 <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="cs_cltt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (42; 100%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (42; 100%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (42; 100%), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (24; 57%).
+The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="cs_cltt-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (42; 100%), <tt><a href="cs_cltt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (42; 100%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (42; 100%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (42; 100%), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (24; 57%).
 
 `ADJ` tokens may have the following values of `NumType`:
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 
 * `Mult` (3; 21% of non-empty `NumType`): <em>jednou</em>
 * `Ord` (11; 79% of non-empty `NumType`): <em>poprvé</em>
-* `EMPTY` (761): <em>dále, zejména, popřípadě, jinak, pouze, kdy, též, například, tak, více</em>
+* `EMPTY` (763): <em>dále, zejména, popřípadě, jinak, pouze, kdy, též, tak, například, více</em>
 
 ### `DET`
 

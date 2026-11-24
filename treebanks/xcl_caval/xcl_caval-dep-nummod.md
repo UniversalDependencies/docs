@@ -10,10 +10,10 @@ This relation is universal.
 
 360 nodes (0%) are attached to their parents as `nummod`.
 
-245 instances of `nummod` (68%) are right-to-left (child precedes parent).
+244 instances of `nummod` (68%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.28611111111111.
 
-The following 7 pairs of parts of speech are connected with `nummod`: <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (303; 84% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (17; 5% instances), <tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (13; 4% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (12; 3% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (11; 3% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (2; 1% instances).
+The following 7 pairs of parts of speech are connected with `nummod`: <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (302; 84% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (18; 5% instances), <tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (13; 4% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (12; 3% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (11; 3% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (2; 1% instances).
 
 
 ~~~ conllu

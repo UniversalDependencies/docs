@@ -9,20 +9,20 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Def`, `Ind`.
 
-183 tokens (6%) have a non-empty value of `Definite`.
+241 tokens (6%) have a non-empty value of `Definite`.
 4 types (0%) occur at least once with a non-empty value of `Definite`.
 4 lemmas (0%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 1 part-of-speech tags: <tt><a href="eo_prago-pos-DET.html">DET</a></tt> (183; 6% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="eo_prago-pos-DET.html">DET</a></tt> (241; 6% instances).
 
 ### `DET`
 
-183 <tt><a href="eo_prago-pos-DET.html">DET</a></tt> tokens (73% of all `DET` tokens) have a non-empty value of `Definite`.
+241 <tt><a href="eo_prago-pos-DET.html">DET</a></tt> tokens (79% of all `DET` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="eo_prago-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (183; 100%), <tt><a href="eo_prago-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (183; 100%), <tt><a href="eo_prago-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (183; 100%).
+The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="eo_prago-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (241; 100%), <tt><a href="eo_prago-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (241; 100%), <tt><a href="eo_prago-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (241; 100%).
 
 `DET` tokens may have the following values of `Definite`:
 
-* `Def` (181; 99% of non-empty `Definite`): <em>la</em>
+* `Def` (239; 99% of non-empty `Definite`): <em>la</em>
 * `Ind` (2; 1% of non-empty `Definite`): <em>iu, kelkaj</em>
 * `EMPTY` (66): <em>ĉiu, tiun, ĉiuj, tiu, ĉiun, ia, tiuj, tiujn, Tia, alia</em>
 

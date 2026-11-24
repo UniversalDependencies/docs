@@ -21,7 +21,7 @@ The feature is used with 4 part-of-speech tags: <tt><a href="de_hdt-pos-X.html">
 `X` tokens may have the following values of `Foreign`:
 
 * `Yes` (53384; 100% of non-empty `Foreign`): <em>of, internet, the, and, digital, mobile, media, for, OS, network</em>
-* `EMPTY` (307): <em>x, D2, G4, ×, 9x, =, ?, ·</em>
+* `EMPTY` (308): <em>x, D2, G4, ×, 9x, =, ?, gehe, ·</em>
 
 `Foreign` seems to be **lexical feature** of `X`. 100% lemmas (10434) occur only with one value of `Foreign`.
 

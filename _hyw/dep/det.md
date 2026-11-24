@@ -56,4 +56,4 @@ Pronominal quantifiers are also tagged `DET` and attached to their nominal head 
 7	։	։	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:01 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:40 CET -->

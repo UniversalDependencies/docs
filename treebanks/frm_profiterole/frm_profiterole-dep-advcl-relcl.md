@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="frm_profiterole-dep-advcl.html">advcl</a></tt>.
 
-25 nodes (0%) are attached to their parents as `advcl:relcl`.
+38 nodes (0%) are attached to their parents as `advcl:relcl`.
 
-25 instances of `advcl:relcl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 12.44.
+38 instances of `advcl:relcl` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 12.8421052631579.
 
-The following 3 pairs of parts of speech are connected with `advcl:relcl`: <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (19; 76% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (4; 16% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (2; 8% instances).
+The following 4 pairs of parts of speech are connected with `advcl:relcl`: <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (27; 71% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (6; 16% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (4; 11% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -39,35 +39,27 @@ The following 3 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 
 
 ~~~ conllu
-# visual-style 23	bgColor:blue
-# visual-style 23	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 23 advcl:relcl	color:blue
-1	et	et	CCONJ	CONcoo	_	3	cc:nc	_	XmlId=w_42_04989
-2	la	le	PRON	PROper	PronType=Prs	3	obj	_	XmlId=w_42_04990
-3	fiença	fiancer	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_42_04991
-4	le	le	DET	DETdef	Definite=Def|PronType=Art	5	det	_	XmlId=w_42_04992
-5	procureur	procureur	NOUN	NOMcom	_	3	nsubj	_	XmlId=w_42_04993
-6	et	et	CCONJ	CONcoo	_	7	cc	_	XmlId=w_42_04994
-7	conte	comte	NOUN	NOMcom	_	5	conj	_	XmlId=w_42_04995
-8	de	de	ADP	PRE	_	9	case	_	XmlId=w_42_04996
-9	Lencastre	Lancaster	PROPN	NOMpro	_	7	nmod	_	XmlId=w_42_04997
-10	pour	pour	ADP	PRE	_	13	case	_	XmlId=w_42_04998
-11	et	et	CCONJ	CONcoo	_	12	cc	_	XmlId=w_42_04999
-12	au	à.le	ADP	PRE.DETdef	_	10	conj	_	XmlId=w_42_05000
-13	nom	nom	NOUN	NOMcom	_	3	obl	_	XmlId=w_42_05001
-14	de	_	ADP	_	_	16	case	_	_
-15	le	_	DET	_	Definite=Def|PronType=Art	16	det	_	_
-16	roy	roi1	NOUN	NOMcom	_	13	nmod	_	SpaceAfter=No|XmlId=w_42_05003
-17	,	,	PUNCT	PONfbl	_	23	punct	_	XmlId=w_42_05004
-18	dont	dont	PRON	PROrel	PronType=Rel	23	obl	_	XmlId=w_42_05005
-19	les	le	DET	DETdef	Definite=Def|PronType=Art	20	det	_	XmlId=w_42_05006
-20	Anglois	anglais	NOUN	NOMpro	_	23	nsubj	_	XmlId=w_42_05007
-21	furent	être	AUX	VERcjg	VerbForm=Fin	23	cop	_	XmlId=w_42_05008
-22	moult	moult	ADV	ADVgen	_	23	advmod	_	XmlId=w_42_05009
-23	joyeulx	joyeux1	ADJ	ADJqua	_	3	advcl:relcl	_	SpaceAfter=No|XmlId=w_42_05010
-24	,	,	PUNCT	PONfbl	_	23	punct	_	XmlId=w_42_05011
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 15 advcl:relcl	color:blue
+1	Mais	_	CCONJ	_	_	4	cc:nc	_	XmlId=w_melusine_5301
+2	elle	_	PRON	_	_	4	nsubj	_	XmlId=w_melusine_5302
+3	se	_	PRON	_	_	4	expl	_	XmlId=w_melusine_5303
+4	party	_	VERB	_	_	0	root	_	XmlId=w_melusine_5304
+5	de	_	ADP	_	_	6	case	_	XmlId=w_melusine_5305
+6	lui	_	PRON	_	_	4	obl	_	XmlId=w_melusine_5306
+7	soubdainement	_	ADV	_	_	4	advmod	_	XmlId=w_melusine_5307|SpaceAfter=No
+8	,	_	PUNCT	_	_	4	punct	_	XmlId=w_melusine_5308
+9	de	_	ADP	_	_	10	case	_	XmlId=w_melusine_5309
+10	quoy	_	PRON	_	_	15	obl	_	XmlId=w_melusine_5310
+11	le	_	DET	_	_	12	det	_	XmlId=w_melusine_5311
+12	chevalier	_	NOUN	_	_	15	nsubj	_	XmlId=w_melusine_5312
+13	fu	_	AUX	_	_	15	cop	_	XmlId=w_melusine_5313
+14	moult	_	ADV	_	_	15	advmod	_	XmlId=w_melusine_5314
+15	doulens	_	ADJ	_	_	4	advcl:relcl	_	XmlId=w_melusine_5315|SpaceAfter=No
+16	.	_	PUNCT	_	_	4	punct	_	XmlId=w_melusine_5316
 
 ~~~
 

@@ -22,16 +22,16 @@ The following 13 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 1 cc	color:blue
-1	ꙇ	и	CCONJ	C-	_	7	cc	_	ref=
-2	вѣра	вѣра	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	ref=
-3	твоѣ	твои	DET	Ps	Case=Nom|Gender=Fem|Number=Sing|Person=2|Poss=Yes	2	det	_	ref=
-4	въ	въ	ADP	R-	_	5	case	_	ref=
-5	насъ	мꙑ	PRON	Pp	Case=Loc|Number=Plur|Person=1|PronType=Prs	7	obl	_	ref=
-6	да	да	ADV	Df	_	7	advmod	_	ref=
-7	въздрастетъ	въздрасти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
-8	г҃мь	господь	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	7	obl	_	ref=
-9	нашімь	нашь	DET	Ps	Case=Ins|Gender=Masc|Number=Sing|Person=1|Poss=Yes	8	det	_	ref=
-10	и҃см	исоусъ	PROPN	Ne	Case=Ins|Gender=Masc|Number=Sing	8	appos	_	ref=
+1	ꙇ	и	CCONJ	C-	_	7	cc	_	_
+2	вѣра	вѣра	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	_
+3	твоѣ	твои	DET	Ps	Case=Nom|Gender=Fem|Number=Sing|Person=2|Poss=Yes	2	det	_	_
+4	въ	въ	ADP	R-	_	5	case	_	_
+5	насъ	мꙑ	PRON	Pp	Case=Loc|Number=Plur|Person=1|PronType=Prs	7	obl	_	_
+6	да	да	ADV	Df	_	7	advmod	_	_
+7	въздрастетъ	въздрасти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	г҃мь	господь	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	7	obl	_	_
+9	нашімь	нашь	DET	Ps	Case=Ins|Gender=Masc|Number=Sing|Person=1|Poss=Yes	8	det	_	_
+10	и҃см	исоусъ	PROPN	Ne	Case=Ins|Gender=Masc|Number=Sing	8	appos	_	_
 
 ~~~
 

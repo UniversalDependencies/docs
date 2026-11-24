@@ -70,4 +70,4 @@ If a clause lacks an absolutive argument, as observed with some types of for- ma
 
 * Michael Daniel, Nina Dobrushina & Dmitry Ganenkov (eds.), The Mehweb language: Essays on phonology, morphology and syntax, 73–115. Berlin: Language Science Press. DOI:10.5281/zenodo.3402060  
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:54 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:43 CET -->

@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>Morze</em> (<tt><a href="pl_pud-pos-P
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.140919 (the average of all parts of speech is 1.436422).
+The form / lemma ratio of `PROPN` is 1.140919 (the average of all parts of speech is 1.436234).
 
 The 1st highest number of forms (5) was observed with the lemma “Stany”: <em>Stanach, Stanami, Stanom, Stany, Stanów</em>.
 

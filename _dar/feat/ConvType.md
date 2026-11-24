@@ -111,4 +111,4 @@ Second concessive converb is used when the event described by the converbal clau
 
 * Sheyanova, Maria (2019). Specialized converbs in Mehweb. In Michael Daniel, Nina Dobrushina & Dmitry Ganenkov (eds.), The Mehweb language: Essays on phonology, morphology and syntax, 235–253. Berlin: Language Science Press. DOI:10.5281/zenodo.3402068  
   
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:44 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:38 CET -->

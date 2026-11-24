@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-106 nodes (2%) are attached to their parents as `cop`.
+124 nodes (2%) are attached to their parents as `cop`.
 
-104 instances of `cop` (98%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.93396226415094.
+122 instances of `cop` (98%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.03225806451613.
 
-The following 5 pairs of parts of speech are connected with `cop`: <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt> (54; 51% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt> (41; 39% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt>-<tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt> (5; 5% instances), <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt> (5; 5% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt> (61; 49% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt> (49; 40% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt>-<tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt> (6; 5% instances), <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt> (5; 4% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt> (2; 2% instances), <tt><a href="ps_sikaram-pos-NUM.html">NUM</a></tt>-<tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -34,21 +34,23 @@ The following 5 pairs of parts of speech are connected with `cop`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 9 cop	color:blue
-1	زما	زۀ	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	2	nmod	_	Translit=zmâ|LTranslit=zë|Gloss=my
-2	پلار	پلار	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	Translit=plâr|LTranslit=plâr|Gloss=father
-3	ستا	تۀ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	5	nmod	_	Translit=stâ|LTranslit=të|Gloss=your
-4	له	له	ADP	_	Case=Acc	5	case	_	Translit=la|LTranslit=la|Gloss=from
-5	پلار	پلار	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	nmod	_	Translit=plâr|LTranslit=plâr|Gloss=father
-6	څخه	څخه	ADP	_	Case=Acc	5	case	_	Translit=cë́xa|LTranslit=cë́xa|Gloss=from
-7	ساعت	ساعت	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	compound	_	Translit=sâát|LTranslit=sâát|Gloss=hour
-8	تېره	تېره	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Translit=téra|LTranslit=téra|Gloss=spending
-9	دﺉ	ول	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	Translit=dëy|LTranslit=wël|Gloss=is|SpaceAfter=No
-10	.	.	PUNCT	_	_	8	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 11 cop	color:blue
+1	د	د	ADP	_	Case=Acc	2	case	_	Translit=dë|LTranslit=dë|Gloss=of
+2	ما	زۀ	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	nmod	_	Translit=mâ|LTranslit=zë|Gloss=me
+3	پلار	پلار	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	Translit=plâr|LTranslit=plâr|Gloss=father
+4	د	د	ADP	_	Case=Acc	5	case	_	Translit=dë|LTranslit=dë|Gloss=of
+5	تا	تۀ	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	7	nmod	_	Translit=tâ|LTranslit=të|Gloss=you
+6	له	له	ADP	_	Case=Acc	7	case	_	Translit=la|LTranslit=la|Gloss=from
+7	پلار	پلار	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	nmod	_	Translit=plâr|LTranslit=plâr|Gloss=father
+8	څخه	څخه	ADP	_	Case=Acc	7	case	_	Translit=cë́xa|LTranslit=cë́xa|Gloss=from
+9	ساعت	ساعت	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	compound	_	Translit=sâát|LTranslit=sâát|Gloss=hour
+10	تېره	تېره	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Translit=téra|LTranslit=téra|Gloss=spending
+11	دﺉ	ول	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	Translit=dëy|LTranslit=wël|Gloss=is|SpaceAfter=No
+12	.	.	PUNCT	_	_	10	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
 
 ~~~
 
@@ -66,15 +68,16 @@ The following 5 pairs of parts of speech are connected with `cop`: <tt><a href="
 5	ګنګوسی	ګنګوسی	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	Translit=gangusáy|LTranslit=gangusáy|Gloss=rumor
 6	و	ول	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	Translit=wë|LTranslit=wël|Gloss=was|SpaceAfter=No
 7	،	،	PUNCT	_	_	9	punct	_	Translit=,|LTranslit=,|Gloss=,
-8	چې	چې	SCONJ	_	_	12	mark	_	Translit=če|LTranslit=če|Gloss=that
+8	چې	چې	SCONJ	_	_	13	mark	_	Translit=če|LTranslit=če|Gloss=that
 9	ښايي	ښایل	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl	_	Translit=x̌âyí|LTranslit=x̌âyë́l|Gloss=it-seems
-10	نن	نن	ADV	_	_	12	advmod	_	Translit=nën|LTranslit=nën|Gloss=today
-11	باران	باران	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	Translit=bârấn|LTranslit=bârấn|Gloss=rain
-12	واوري	اورېدل	VERB	_	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	9	csubj	_	Translit=wë́ori|LTranslit=oredë́l|Gloss=rain|SpaceAfter=No
-13	.	.	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.|Gloss=.
-14	(	(	PUNCT	_	_	15	punct	_	Translit=(|LTranslit=(|Gloss=(|SpaceAfter=No
-15	سمه	سم	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	3	parataxis	_	Translit=sáma|LTranslit=sam|Gloss=correct|SpaceAfter=No
-16	)	)	PUNCT	_	_	15	punct	_	Translit=)|LTranslit=)|Gloss=)|SpaceAfter=No
+10	نن	نن	ADV	_	_	13	advmod	_	Translit=nën|LTranslit=nën|Gloss=today
+11	باران	باران	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	Translit=bârấn|LTranslit=bârấn|Gloss=rain
+12	و	و	AUX	_	Aspect=Perf	13	aux:preverb	_	Translit=wë|LTranslit=wë|Gloss=_
+13	اوري	اورېدل	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	csubj	_	Translit=orí|LTranslit=oredë́l|Gloss=rain
+14	.	.	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.|Gloss=.
+15	(	(	PUNCT	_	_	16	punct	_	Translit=(|LTranslit=(|Gloss=(|SpaceAfter=No
+16	سمه	سم	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	3	parataxis	_	Translit=sáma|LTranslit=sam|Gloss=correct|SpaceAfter=No
+17	)	)	PUNCT	_	_	16	punct	_	Translit=)|LTranslit=)|Gloss=)|SpaceAfter=No
 
 ~~~
 

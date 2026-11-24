@@ -30,7 +30,7 @@ The following 10 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 6	precisamos	precisar	VERB	VMIP1P0	Mood=Ind|Number=Plur|Person=1|Tense=Pres	3	ccomp	_	_
 7	en	en	ADP	SP	AdpType=Prep	10	case	_	_
 8	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
-9	noso	noso	DET	DP1MSP	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes	10	det	_	_
+9	noso	noso	DET	DP1MSP	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
 10	país	país	NOUN	NCMS000	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
 11	,	,	PUNCT	Fc	_	12	punct	_	_
 12	amigos	amigo	NOUN	NCMP000	Gender=Masc|Number=Plur	10	vocative	_	SpaceAfter=No

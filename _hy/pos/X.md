@@ -20,4 +20,4 @@ Note that articles, prepositions, and filiation markers occurring in foreign nam
 - _«<b>Բեռներ ցայտունգ</b>» թերթը_/_«<b>Beṙner c’aytowng</b>» t’ert’ë_ “The <b>Berner Zeitung</b> newspaper”
 - _Փոխանցում է <b>euronews</b>-ը:_/_P’oxanc’owm ē <b>euronews</b>-ë_ “Euronews reports.”
 - _Լեոնարդո <b>դի</b> Կապրիո_/_Leonardo <b>di</b> Kaprio_ “Leonardo DiCaprio”.
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:39 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:31 CET -->

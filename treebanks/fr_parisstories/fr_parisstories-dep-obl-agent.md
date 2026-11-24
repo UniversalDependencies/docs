@@ -23,14 +23,14 @@ The following 2 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 7 obl:agent	color:blue
-1	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj:pass	_	AlignBegin=49795|AlignEnd=49995|Exponence[Gender]=Inherent|Exponence[Number]=Inherent|Exponence[Person]=Inherent
-2	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:tense	_	AlignBegin=49995|AlignEnd=50194
-3	été	être	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	aux:pass	_	AlignBegin=50194|AlignEnd=50394|Tense[denom]=Past
-4	organisé	organiser	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	AlignBegin=50394|AlignEnd=50593|Exponence[Gender]=Absent|Exponence[Number]=Absent|PastPartHasSpokenGender=NotInThisDialect|Tense[denom]=Past
-5	par	par	ADP	_	_	7	case	_	AlignBegin=50593|AlignEnd=50793
-6	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	AlignBegin=50793|AlignEnd=50992|HasSpokenGender=OnlySingExceptWithLiaison
-7	prof	prof	NOUN	_	Gender=Masc|Number=Sing	4	obl:agent	_	AlignBegin=50992|AlignEnd=51192|CorrectForm=profs|CorrectNumber=Plur|Exponence[Gender]=Inherent|Exponence[Number]=Absent|SpaceAfter=No
-8	.	.	PUNCT	_	_	4	punct	_	AlignBegin=51192|AlignEnd=51192
+1	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj:pass	_	Exponence[Gender]=Inherent|Exponence[Number]=Inherent|Exponence[Person]=Inherent|WordAlignmentBegin=49795|WordAlignmentEnd=49995
+2	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:tense	_	WordAlignmentBegin=49995|WordAlignmentEnd=50194
+3	été	être	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	aux:pass	_	Status[Tense]=Denom|WordAlignmentBegin=50194|WordAlignmentEnd=50394
+4	organisé	organiser	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	Exponence[Gender]=Absent|Exponence[Number]=Absent|PastPartHasSpokenGender=NotInThisDialect|Status[Tense]=Denom|WordAlignmentBegin=50394|WordAlignmentEnd=50593
+5	par	par	ADP	_	_	7	case	_	WordAlignmentBegin=50593|WordAlignmentEnd=50793
+6	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	HasSpokenGender=OnlySingExceptWithLiaison|WordAlignmentBegin=50793|WordAlignmentEnd=50992
+7	prof	prof	NOUN	_	Gender=Masc|Number=Sing	4	obl:agent	_	CorrectForm=profs|CorrectNumber=Plur|Exponence[Gender]=Inherent|Exponence[Number]=Absent|SpaceAfter=No|WordAlignmentBegin=50992|WordAlignmentEnd=51192
+8	.	.	PUNCT	_	_	4	punct	_	WordAlignmentBegin=51192|WordAlignmentEnd=51192
 
 ~~~
 
@@ -41,20 +41,20 @@ The following 2 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 8 obl:agent	color:blue
-1	donc	donc	ADV	_	_	6	advmod	_	AlignBegin=64048|AlignEnd=64281
-2	ok	ok	ADV	_	_	1	discourse	_	AlignBegin=64281|AlignEnd=64515|SpaceAfter=No
-3	,	,	PUNCT	_	_	1	punct	_	AlignBegin=64515|AlignEnd=64515
-4	j'	moi	PRON	_	Case=Nom|Emph=No|Number=Sing|Person=1|PronType=Prs	6	nsubj:pass	_	AlignBegin=64515|AlignEnd=64748|Exponence[Number]=Inherent|Exponence[Person]=Inherent|SpaceAfter=No
-5	étais	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	6	aux:tense	_	AlignBegin=64748|AlignEnd=64982
-6	attirée	attirer	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	AlignBegin=64982|AlignEnd=65215|Exponence[Gender]=Absent|Exponence[Number]=Absent|PastPartHasSpokenGender=NotInThisDialect|Tense[denom]=Past
-7	par	par	ADP	_	_	8	case	_	AlignBegin=65215|AlignEnd=65448
-8	lui	lui	PRON	_	Emph=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obl:agent	_	AlignBegin=65448|AlignEnd=65682|Exponence[Person]=Inherent
-9	à	à	ADP	_	_	11	case	_	AlignBegin=65682|AlignEnd=65915|wordform=au
-10	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	HasSpokenGender=OnlySingExceptWithLiaison
-11	début	début	NOUN	_	Gender=Masc|Number=Sing	6	obl:mod	_	AlignBegin=65915|AlignEnd=66149|Exponence[Gender]=Inherent|Exponence[Number]=Absent|SpaceAfter=No
-12	,	,	PUNCT	_	_	13	punct	_	AlignBegin=66149|AlignEnd=66149
-13	physiquement	physiquement	ADV	_	_	6	advmod	_	AlignBegin=66149|AlignEnd=66382|SpaceAfter=No
-14	.	.	PUNCT	_	_	6	punct	_	AlignBegin=66382|AlignEnd=66382
+1	donc	donc	ADV	_	_	6	advmod	_	WordAlignmentBegin=64048|WordAlignmentEnd=64281
+2	ok	ok	ADV	_	_	1	discourse	_	SpaceAfter=No|WordAlignmentBegin=64281|WordAlignmentEnd=64515
+3	,	,	PUNCT	_	_	1	punct	_	WordAlignmentBegin=64515|WordAlignmentEnd=64515
+4	j'	moi	PRON	_	Case=Nom|Emph=No|Number=Sing|Person=1|PronType=Prs	6	nsubj:pass	_	Exponence[Number]=Inherent|Exponence[Person]=Inherent|SpaceAfter=No|WordAlignmentBegin=64515|WordAlignmentEnd=64748
+5	étais	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	6	aux:tense	_	WordAlignmentBegin=64748|WordAlignmentEnd=64982
+6	attirée	attirer	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Exponence[Gender]=Absent|Exponence[Number]=Absent|PastPartHasSpokenGender=NotInThisDialect|Status[Tense]=Denom|WordAlignmentBegin=64982|WordAlignmentEnd=65215
+7	par	par	ADP	_	_	8	case	_	WordAlignmentBegin=65215|WordAlignmentEnd=65448
+8	lui	lui	PRON	_	Emph=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obl:agent	_	Exponence[Person]=Inherent|WordAlignmentBegin=65448|WordAlignmentEnd=65682
+9	à	à	ADP	_	_	11	case	_	WordAlignmentBegin=65682|WordAlignmentEnd=65915
+10	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	début	début	NOUN	_	Gender=Masc|Number=Sing	6	obl:mod	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent|SpaceAfter=No|WordAlignmentBegin=65915|WordAlignmentEnd=66149
+12	,	,	PUNCT	_	_	13	punct	_	WordAlignmentBegin=66149|WordAlignmentEnd=66149
+13	physiquement	physiquement	ADV	_	_	6	advmod	_	SpaceAfter=No|WordAlignmentBegin=66149|WordAlignmentEnd=66382
+14	.	.	PUNCT	_	_	6	punct	_	WordAlignmentBegin=66382|WordAlignmentEnd=66382
 
 ~~~
 

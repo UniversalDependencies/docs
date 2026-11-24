@@ -13,7 +13,7 @@ This relation is universal.
 78 instances of `advmod` (96%) are right-to-left (child precedes parent).
 Average distance between parent and child is 2.7283950617284.
 
-The following 6 pairs of parts of speech are connected with `advmod`: <tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_patentchar-pos-ADV.html">ADV</a></tt> (38; 47% instances), <tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_patentchar-pos-ADV.html">ADV</a></tt> (17; 21% instances), <tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_patentchar-pos-PART.html">PART</a></tt> (15; 19% instances), <tt><a href="zh_patentchar-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_patentchar-pos-ADV.html">ADV</a></tt> (8; 10% instances), <tt><a href="zh_patentchar-pos-DET.html">DET</a></tt>-<tt><a href="zh_patentchar-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_patentchar-pos-PART.html">PART</a></tt> (1; 1% instances).
+The following 5 pairs of parts of speech are connected with `advmod`: <tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_patentchar-pos-ADV.html">ADV</a></tt> (38; 47% instances), <tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_patentchar-pos-ADV.html">ADV</a></tt> (17; 21% instances), <tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_patentchar-pos-PART.html">PART</a></tt> (16; 20% instances), <tt><a href="zh_patentchar-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_patentchar-pos-ADV.html">ADV</a></tt> (8; 10% instances), <tt><a href="zh_patentchar-pos-DET.html">DET</a></tt>-<tt><a href="zh_patentchar-pos-ADV.html">ADV</a></tt> (2; 2% instances).
 
 
 ~~~ conllu

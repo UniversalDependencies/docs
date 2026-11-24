@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>esse</em> (<tt><a href="la_ittb-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 2.471739 (the average of all parts of speech is 3.337170).
+The form / lemma ratio of `NOUN` is 2.471739 (the average of all parts of speech is 3.337008).
 
 The 1st highest number of forms (10) was observed with the lemma “perfectus”: <em>perfecta, perfectam, perfecti, perfectior, perfectiora, perfectiorem, perfectius, perfecto, perfectum, perfectus</em>.
 
@@ -60,11 +60,11 @@ The 2nd highest number of forms (9) was observed with the lemma “agens”: <em
 
 The 3rd highest number of forms (9) was observed with the lemma “generatio”: <em>generat., generatio, generatione, generationem, generationes, generationi, generationibus, generationis, generationum</em>.
 
-`NOUN` occurs with 12 features: <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt> (91556; 98% instances), <tt><a href="la_ittb-feat-Number.html">Number</a></tt> (91556; 98% instances), <tt><a href="la_ittb-feat-Case.html">Case</a></tt> (91545; 98% instances), <tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt> (91545; 98% instances), <tt><a href="la_ittb-feat-Abbr.html">Abbr</a></tt> (402; 0% instances), <tt><a href="la_ittb-feat-Proper.html">Proper</a></tt> (393; 0% instances), <tt><a href="la_ittb-feat-Compound.html">Compound</a></tt> (154; 0% instances), <tt><a href="la_ittb-feat-NameType.html">NameType</a></tt> (139; 0% instances), <tt><a href="la_ittb-feat-Degree.html">Degree</a></tt> (75; 0% instances), <tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt> (57; 0% instances), <tt><a href="la_ittb-feat-Foreign.html">Foreign</a></tt> (17; 0% instances), <tt><a href="la_ittb-feat-Variant.html">Variant</a></tt> (3; 0% instances)
+`NOUN` occurs with 11 features: <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt> (91556; 98% instances), <tt><a href="la_ittb-feat-Number.html">Number</a></tt> (91556; 98% instances), <tt><a href="la_ittb-feat-Case.html">Case</a></tt> (91545; 98% instances), <tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt> (91545; 98% instances), <tt><a href="la_ittb-feat-Abbr.html">Abbr</a></tt> (402; 0% instances), <tt><a href="la_ittb-feat-Proper.html">Proper</a></tt> (393; 0% instances), <tt><a href="la_ittb-feat-Compound.html">Compound</a></tt> (154; 0% instances), <tt><a href="la_ittb-feat-NameType.html">NameType</a></tt> (139; 0% instances), <tt><a href="la_ittb-feat-Degree.html">Degree</a></tt> (75; 0% instances), <tt><a href="la_ittb-feat-Foreign.html">Foreign</a></tt> (17; 0% instances), <tt><a href="la_ittb-feat-Variant.html">Variant</a></tt> (3; 0% instances)
 
-`NOUN` occurs with 30 feature-value pairs: `Abbr=Yes`, `Case=Abl`, `Case=Acc`, `Case=Acc,Nom`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Case=Voc`, `Compound=Yes`, `Degree=Dim`, `Foreign=Yes`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `InflClass=IndEurA`, `InflClass=IndEurE`, `InflClass=IndEurI`, `InflClass=IndEurO`, `InflClass=IndEurU`, `InflClass=IndEurX`, `NameType=Let`, `NameType=Lit`, `NameType=Nat`, `NameType=Rel`, `Number=Plur`, `Number=Sing`, `Proper=Yes`, `Variant=Greek`, `VerbForm=Inf`, `VerbForm=Part`
+`NOUN` occurs with 28 feature-value pairs: `Abbr=Yes`, `Case=Abl`, `Case=Acc`, `Case=Acc,Nom`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Case=Voc`, `Compound=Yes`, `Degree=Dim`, `Foreign=Yes`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `InflClass=IndEurA`, `InflClass=IndEurE`, `InflClass=IndEurI`, `InflClass=IndEurO`, `InflClass=IndEurU`, `InflClass=IndEurX`, `NameType=Let`, `NameType=Lit`, `NameType=Nat`, `NameType=Rel`, `Number=Plur`, `Number=Sing`, `Proper=Yes`, `Variant=Greek`
 
-`NOUN` occurs with 252 feature combinations.
+`NOUN` occurs with 243 feature combinations.
 The most frequent feature combination is `Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Sing` (6442 tokens).
 Examples: <em>ratio, uirtus, uoluntas, operatio, perfectio, cognitio, similitudo, actio, felicitas, generatio</em>
 

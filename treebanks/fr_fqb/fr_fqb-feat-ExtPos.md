@@ -7,12 +7,12 @@ udver: '2'
 ## Treebank Statistics: UD_French-FQB: Features: `ExtPos`
 
 This feature is language-specific.
-It occurs with 6 different values: `ADP`, `ADV`, `CCONJ`, `DET`, `NOUN`, `PRON`.
+It occurs with 7 different values: `ADP`, `ADV`, `CCONJ`, `DET`, `NOUN`, `PRON`, `SCONJ`.
 
-46 tokens (0%) have a non-empty value of `ExtPos`.
-21 types (0%) occur at least once with a non-empty value of `ExtPos`.
-20 lemmas (1%) occur at least once with a non-empty value of `ExtPos`.
-The feature is used with 7 part-of-speech tags: <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> (17; 0% instances), <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (16; 0% instances), <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fr_fqb-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="fr_fqb-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+47 tokens (0%) have a non-empty value of `ExtPos`.
+22 types (1%) occur at least once with a non-empty value of `ExtPos`.
+21 lemmas (1%) occur at least once with a non-empty value of `ExtPos`.
+The feature is used with 7 part-of-speech tags: <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> (17; 0% instances), <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (16; 0% instances), <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> (9; 0% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fr_fqb-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="fr_fqb-pos-SYM.html">SYM</a></tt> (1; 0% instances).
 
 ### `ADP`
 
@@ -41,16 +41,17 @@ The most frequent other feature values with which `DET` and `ExtPos` co-occurred
 
 ### `ADV`
 
-8 <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `ExtPos`.
+9 <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `ADV` and `ExtPos` co-occurred: <tt><a href="fr_fqb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (8; 100%).
+The most frequent other feature values with which `ADV` and `ExtPos` co-occurred: <tt><a href="fr_fqb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (9; 100%).
 
 `ADV` tokens may have the following values of `ExtPos`:
 
-* `ADP` (4; 50% of non-empty `ExtPos`): <em>auprès, autour, lord, près</em>
-* `ADV` (1; 13% of non-empty `ExtPos`): <em>dès</em>
-* `NOUN` (1; 13% of non-empty `ExtPos`): <em>trop</em>
-* `PRON` (2; 25% of non-empty `ExtPos`): <em>moins, plus</em>
+* `ADP` (4; 44% of non-empty `ExtPos`): <em>auprès, autour, lord, près</em>
+* `ADV` (1; 11% of non-empty `ExtPos`): <em>dès</em>
+* `NOUN` (1; 11% of non-empty `ExtPos`): <em>trop</em>
+* `PRON` (2; 22% of non-empty `ExtPos`): <em>moins, plus</em>
+* `SCONJ` (1; 11% of non-empty `ExtPos`): <em>alors</em>
 
 ### `PRON`
 

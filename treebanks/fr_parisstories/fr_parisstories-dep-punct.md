@@ -10,10 +10,10 @@ This relation is universal.
 
 8186 nodes (19%) are attached to their parents as `punct`.
 
-5993 instances of `punct` (73%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.44905936965551.
+5881 instances of `punct` (72%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.49938920107501.
 
-The following 14 pairs of parts of speech are connected with `punct`: <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_parisstories-pos-PUNCT.html">PUNCT</a></tt> (2953; 36% instances), <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt>-<tt><a href="fr_parisstories-pos-PUNCT.html">PUNCT</a></tt> (1660; 20% instances), <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_parisstories-pos-PUNCT.html">PUNCT</a></tt> (1299; 16% instances), <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_parisstories-pos-PUNCT.html">PUNCT</a></tt> (718; 9% instances), <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_parisstories-pos-PUNCT.html">PUNCT</a></tt> (415; 5% instances), <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_parisstories-pos-PUNCT.html">PUNCT</a></tt> (399; 5% instances), <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_parisstories-pos-PUNCT.html">PUNCT</a></tt> (229; 3% instances), <tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_parisstories-pos-PUNCT.html">PUNCT</a></tt> (132; 2% instances), <tt><a href="fr_parisstories-pos-DET.html">DET</a></tt>-<tt><a href="fr_parisstories-pos-PUNCT.html">PUNCT</a></tt> (114; 1% instances), <tt><a href="fr_parisstories-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_parisstories-pos-PUNCT.html">PUNCT</a></tt> (106; 1% instances), <tt><a href="fr_parisstories-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="fr_parisstories-pos-PUNCT.html">PUNCT</a></tt> (60; 1% instances), <tt><a href="fr_parisstories-pos-X.html">X</a></tt>-<tt><a href="fr_parisstories-pos-PUNCT.html">PUNCT</a></tt> (58; 1% instances), <tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="fr_parisstories-pos-PUNCT.html">PUNCT</a></tt> (26; 0% instances), <tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_parisstories-pos-PUNCT.html">PUNCT</a></tt> (17; 0% instances).
+The following 14 pairs of parts of speech are connected with `punct`: <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_parisstories-pos-PUNCT.html">PUNCT</a></tt> (2936; 36% instances), <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt>-<tt><a href="fr_parisstories-pos-PUNCT.html">PUNCT</a></tt> (1669; 20% instances), <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_parisstories-pos-PUNCT.html">PUNCT</a></tt> (1285; 16% instances), <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_parisstories-pos-PUNCT.html">PUNCT</a></tt> (716; 9% instances), <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_parisstories-pos-PUNCT.html">PUNCT</a></tt> (418; 5% instances), <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_parisstories-pos-PUNCT.html">PUNCT</a></tt> (404; 5% instances), <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_parisstories-pos-PUNCT.html">PUNCT</a></tt> (230; 3% instances), <tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_parisstories-pos-PUNCT.html">PUNCT</a></tt> (136; 2% instances), <tt><a href="fr_parisstories-pos-DET.html">DET</a></tt>-<tt><a href="fr_parisstories-pos-PUNCT.html">PUNCT</a></tt> (124; 2% instances), <tt><a href="fr_parisstories-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_parisstories-pos-PUNCT.html">PUNCT</a></tt> (102; 1% instances), <tt><a href="fr_parisstories-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="fr_parisstories-pos-PUNCT.html">PUNCT</a></tt> (67; 1% instances), <tt><a href="fr_parisstories-pos-X.html">X</a></tt>-<tt><a href="fr_parisstories-pos-PUNCT.html">PUNCT</a></tt> (58; 1% instances), <tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="fr_parisstories-pos-PUNCT.html">PUNCT</a></tt> (24; 0% instances), <tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_parisstories-pos-PUNCT.html">PUNCT</a></tt> (17; 0% instances).
 
 
 ~~~ conllu
@@ -39,15 +39,15 @@ The following 14 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 punct	color:blue
-1	parce	parce	ADV	_	ExtPos=SCONJ	9	mark	_	Idiom=Yes
+1	parce	parce	ADV	_	ExtPos=SCONJ	9	mark	_	Idiom=Yes|SingleSpeaker=Yes
 2	que	que	SCONJ	_	_	1	fixed	_	InIdiom=Yes
-3	euh	euh	INTJ	_	_	9	discourse	_	SpaceAfter=No
+3	euh	euh	INTJ	_	_	9	discourse:filler	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_
 5	je	moi	PRON	_	Case=Nom|Emph=No|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	Exponence[Number]=Inherent|Exponence[Person]=Inherent
 6	suis	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	cop	_	_
 7	pas	pas	ADV	_	Polarity=Neg	9	advmod	_	_
 8	très	très	ADV	_	_	9	advmod	_	_
-9	douée	doué	ADJ	_	Gender=Fem|Number=Sing	0	root	_	Exponence[Gender]=Absent|Exponence[Number]=Absent|HasSpokenGender=NotInThisDialect|HasSpokenNumber=OnlyWithLiaison
+9	douée	doué	ADJ	_	Gender=Fem|Number=Sing	0	root	_	Coconstruct=mod::ParisStories_2019_devoirPhilosophie_3::9|Exponence[Gender]=Absent|Exponence[Number]=Absent|HasSpokenGender=NotInThisDialect|HasSpokenNumber=OnlyWithLiaison
 10	en	en	ADP	_	_	11	case	_	_
 11	philosophie	philosophie	NOUN	_	Gender=Fem|Number=Sing	9	obl:mod	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent
 12	à	à	ADP	_	_	14	case	_	_

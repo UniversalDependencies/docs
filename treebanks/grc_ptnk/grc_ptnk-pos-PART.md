@@ -30,7 +30,7 @@ The 10 most frequent ambiguous types:  <em>ἄν</em> (<tt><a href="grc_ptnk-pos
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.285714 (the average of all parts of speech is 2.345984).
+The form / lemma ratio of `PART` is 1.285714 (the average of all parts of speech is 2.346578).
 
 The 1st highest number of forms (2) was observed with the lemma “δή”: <em>δή, δὴ</em>.
 

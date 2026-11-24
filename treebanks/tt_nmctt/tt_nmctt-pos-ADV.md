@@ -53,7 +53,7 @@ Examples: <em>да, дә, бик, шулай, ук, хәзер, быел, бүг
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 6 different relations: <tt><a href="tt_nmctt-dep-advmod.html">advmod</a></tt> (70; 84% instances), <tt><a href="tt_nmctt-dep-advmod-emph.html">advmod:emph</a></tt> (7; 8% instances), <tt><a href="tt_nmctt-dep-fixed.html">fixed</a></tt> (2; 2% instances), <tt><a href="tt_nmctt-dep-obl.html">obl</a></tt> (2; 2% instances), <tt><a href="tt_nmctt-dep-compound-lvc.html">compound:lvc</a></tt> (1; 1% instances), <tt><a href="tt_nmctt-dep-conj.html">conj</a></tt> (1; 1% instances)
+`ADV` nodes are attached to their parents using 6 different relations: <tt><a href="tt_nmctt-dep-advmod.html">advmod</a></tt> (71; 86% instances), <tt><a href="tt_nmctt-dep-advmod-emph.html">advmod:emph</a></tt> (7; 8% instances), <tt><a href="tt_nmctt-dep-fixed.html">fixed</a></tt> (2; 2% instances), <tt><a href="tt_nmctt-dep-compound-lvc.html">compound:lvc</a></tt> (1; 1% instances), <tt><a href="tt_nmctt-dep-conj.html">conj</a></tt> (1; 1% instances), <tt><a href="tt_nmctt-dep-obl.html">obl</a></tt> (1; 1% instances)
 
 Parents of `ADV` nodes belong to 7 different parts of speech: <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt> (39; 47% instances), <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (16; 19% instances), <tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt> (13; 16% instances), <tt><a href="tt_nmctt-pos-ADV.html">ADV</a></tt> (7; 8% instances), <tt><a href="tt_nmctt-pos-PRON.html">PRON</a></tt> (4; 5% instances), <tt><a href="tt_nmctt-pos-NUM.html">NUM</a></tt> (3; 4% instances), <tt><a href="tt_nmctt-pos-ADP.html">ADP</a></tt> (1; 1% instances)
 

@@ -16,11 +16,11 @@ Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.16 release.
 
-The following people have contributed to making this treebank part of UD: Stavros Bompolas, Stella Markantonatou, Antonios Anastasopoulos, Vivian Stamou.
+The following people have contributed to making this treebank part of UD: Stavros Bompolas, Stella Markantonatou, Antonios Anastasopoulos.
 
 Repository: [UD_Greek-Lesbian](https://github.com/UniversalDependencies/UD_Greek-Lesbian)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udel_lesbian218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udel_lesbian219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 

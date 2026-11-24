@@ -32,7 +32,7 @@ The following 1 pairs of parts of speech are connected with `flat`: <tt><a href=
 8	ngjashëm	ngjashëm	ADJ	_	Gender=Masc|Number=Sing	6	amod	_	_
 9	me	me	ADP	_	_	10	case	_	_
 10	Djuin	Dju	PROPN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	8	nmod	_	_
-11	për	për	ADP	_	_	14	advmod	_	_
+11	për	për	ADP	_	ExtPos=ADV	14	advmod	_	_
 12	sa	sa	ADV	_	_	11	fixed	_	_
 13	i	i	PRON	_	Case=Dat|Gender=Masc	14	expl	_	_
 14	përket	përkas	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	4	advcl	_	_

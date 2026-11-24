@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-56 nodes (1%) are attached to their parents as `ccomp`.
+60 nodes (1%) are attached to their parents as `ccomp`.
 
-41 instances of `ccomp` (73%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.375.
+43 instances of `ccomp` (72%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.26666666666667.
 
-The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (53; 95% instances), <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt>-<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> (1; 2% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> (1; 2% instances).
+The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (57; 95% instances), <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt>-<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> (1; 2% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -46,13 +46,13 @@ The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href
 3	,	_	PUNCT	_	_	2	punct	_	AlignBegin=76705|AlignEnd=77027|MSeg=,|nWord=3|Word=,
 4	ah	ah	INTJ	_	_	22	dep:conj	_	AlignBegin=77027|AlignEnd=77349|Gloss=INTERJ|MGloss=INTERJ|MSeg=ah|nWord=4|RX=[INTERJ]|TokenType=Root|Word=aa
 5	,	_	PUNCT	_	_	4	punct	_	AlignBegin=77349|AlignEnd=77671|MSeg=,|nWord=5|Word=,
-6	ã	ã	PRON	_	_	7	det	_	AlignBegin=77671|AlignEnd=77993|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=6|RX=[PRO]|TokenType=Root|Word=ã
+6	ã	ã	PRON	_	ExtPos=DET	7	det	_	AlignBegin=77671|AlignEnd=77993|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=6|RX=[PRO]|TokenType=Root|Word=ã
 7	peʃ	peʃ	NOUN	_	_	22	nsubj	_	AlignBegin=77993|AlignEnd=78315|Gloss=people|MGloss=people|MSeg=peʃ|nWord=7|RX=[N]|TokenType=Root|Word=peʃ
 8	ʃuwa	ʃuwa	NOUN	_	_	7	nmod	_	AlignBegin=78315|AlignEnd=78637|Gloss=old.man|MGloss=old.man|MSeg=ʃuwa|nWord=8|RX=[N]|TokenType=Root|Word=wa
 9	,	_	PUNCT	_	_	8	punct	_	AlignBegin=78637|AlignEnd=78959|MSeg=,|nWord=9|Word=,
 10	ãma	ãma	PART	_	_	13	discourse	_	AlignBegin=78959|AlignEnd=79281|Gloss=HES|MGloss=HES|MSeg=ãma|nWord=10|RX=[PRT]|TokenType=Root|Word=ãma
 11	,	_	PUNCT	_	_	10	punct	_	AlignBegin=79281|AlignEnd=79603|MSeg=,|nWord=11|Word=,
-12	ã	ã	PRON	_	_	13	det	_	AlignBegin=79603|AlignEnd=79925|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=12|RX=[PRO]|TokenType=Root|Word=ã
+12	ã	ã	PRON	_	ExtPos=DET	13	det	_	AlignBegin=79603|AlignEnd=79925|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=12|RX=[PRO]|TokenType=Root|Word=ã
 13	peʃ	peʃ	NOUN	_	_	7	reparandum	_	AlignBegin=79925|AlignEnd=80247|Gloss=people|MGloss=people|MSeg=peʃ|nWord=13|RX=[N]|TokenType=Root|Word=peʃ
 14	ʃuwa	ʃuwa	NOUN	_	_	13	nmod	_	AlignBegin=80247|AlignEnd=80569|Gloss=old.man|MGloss=old.man|MSeg=ʃuwa|nWord=14|RX=[N]|TokenType=Root|Word=wa
 15	,	_	PUNCT	_	_	14	punct	_	AlignBegin=80569|AlignEnd=80891|MSeg=,|nWord=15|Word=,
@@ -98,7 +98,7 @@ The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href
 6	patakata	ka	NOUN	_	Clusivity=In	4	reparandum	_	AlignBegin=55710|AlignEnd=56098|Gloss=-AG.NMLZ|MGloss=INCL- POSS1- make -AG.NMLZ|MSeg=pa-ta-ka-ta|nWord=6|RX=[VT]|TokenType=Root|wordform=pa-ta-ka-ta
 7	yẽherruri	yẽh	VERB	_	_	0	root	_	AlignBegin=56098|AlignEnd=56486|Gloss=say|MGloss=O3SG- say -S3PL -HAB -PST|MSeg=Ø-yẽh-er-ru-ri|nWord=7|RX=[VT]|TokenType=Root|wordform=Ø-yẽh-er-ru-ri
 8	,	_	PUNCT	_	_	7	punct	_	AlignBegin=56486|AlignEnd=56874|MSeg=,|nWord=8
-9	ĩ	ĩ	PRON	_	_	10	det	_	AlignBegin=56874|AlignEnd=57262|Gloss=PROX.DEM|MGloss=PROX.DEM|MSeg=ĩ|nWord=9|RX=[PRO]|TokenType=Root
+9	ĩ	ĩ	PRON	_	ExtPos=DET	10	det	_	AlignBegin=56874|AlignEnd=57262|Gloss=PROX.DEM|MGloss=PROX.DEM|MSeg=ĩ|nWord=9|RX=[PRO]|TokenType=Root
 10	pak	pak	NOUN	_	_	7	ccomp	_	AlignBegin=57262|AlignEnd=57456|Gloss=lake|MGloss=lake|MSeg=pak|nWord=10|RX=[N]|TokenType=Root
 11	tia	tia	NOUN	_	_	10	nmod	_	AlignBegin=57456|AlignEnd=57650|Gloss=liquid|MGloss=liquid|MSeg=tia|nWord=10|RX=[N]|TokenType=Root
 12	=yã	_	ADP	_	_	10	case	_	AlignBegin=57650|AlignEnd=58038|Gloss==LOC|MGloss==LOC|MSeg==yã|nWord=11|RX=[POST]|TokenType=Clit

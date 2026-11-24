@@ -55,3 +55,4 @@ _Tambuetto_ receives `Degree=Dim` when it means “little drum”, but no `Degre
 #### Example
 
 * _e scignoe, e scignoriñe e e <b>scignoroñe</b>_ “the ladies, the young ladies, and the big ladies” (`NOUN`)
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:39 CET -->

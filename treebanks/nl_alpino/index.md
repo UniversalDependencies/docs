@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 The following people have contributed to making this treebank part of UD: Daniel Zeman, Zdeněk Žabokrtský, Gosse Bouma, Gertjan van Noord.
 
 Repository: [UD_Dutch-Alpino](https://github.com/UniversalDependencies/UD_Dutch-Alpino)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udnl_alpino218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udnl_alpino219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 
@@ -77,13 +77,13 @@ The (Go and XQuery) conversion script is available for download at https://githu
 
 ## Relations
 
-[acl](nl_alpino-dep-acl.html) – [acl:relcl](nl_alpino-dep-acl-relcl.html) – [advcl](nl_alpino-dep-advcl.html) – [advmod](nl_alpino-dep-advmod.html) – [amod](nl_alpino-dep-amod.html) – [appos](nl_alpino-dep-appos.html) – [aux](nl_alpino-dep-aux.html) – [aux:pass](nl_alpino-dep-aux-pass.html) – [case](nl_alpino-dep-case.html) – [cc](nl_alpino-dep-cc.html) – [cc:preconj](nl_alpino-dep-cc-preconj.html) – [ccomp](nl_alpino-dep-ccomp.html) – [compound:prt](nl_alpino-dep-compound-prt.html) – [conj](nl_alpino-dep-conj.html) – [cop](nl_alpino-dep-cop.html) – [csubj](nl_alpino-dep-csubj.html) – [csubj:outer](nl_alpino-dep-csubj-outer.html) – [csubj:pass](nl_alpino-dep-csubj-pass.html) – [det](nl_alpino-dep-det.html) – [expl](nl_alpino-dep-expl.html) – [expl:pv](nl_alpino-dep-expl-pv.html) – [fixed](nl_alpino-dep-fixed.html) – [flat](nl_alpino-dep-flat.html) – [iobj](nl_alpino-dep-iobj.html) – [mark](nl_alpino-dep-mark.html) – [nmod](nl_alpino-dep-nmod.html) – [nmod:poss](nl_alpino-dep-nmod-poss.html) – [nsubj](nl_alpino-dep-nsubj.html) – [nsubj:outer](nl_alpino-dep-nsubj-outer.html) – [nsubj:pass](nl_alpino-dep-nsubj-pass.html) – [nummod](nl_alpino-dep-nummod.html) – [obj](nl_alpino-dep-obj.html) – [obl](nl_alpino-dep-obl.html) – [obl:agent](nl_alpino-dep-obl-agent.html) – [obl:arg](nl_alpino-dep-obl-arg.html) – [orphan](nl_alpino-dep-orphan.html) – [parataxis](nl_alpino-dep-parataxis.html) – [punct](nl_alpino-dep-punct.html) – [root](nl_alpino-dep-root.html) – [xcomp](nl_alpino-dep-xcomp.html)
+[acl](nl_alpino-dep-acl.html) – [acl:relcl](nl_alpino-dep-acl-relcl.html) – [advcl](nl_alpino-dep-advcl.html) – [advmod](nl_alpino-dep-advmod.html) – [amod](nl_alpino-dep-amod.html) – [appos](nl_alpino-dep-appos.html) – [aux](nl_alpino-dep-aux.html) – [aux:pass](nl_alpino-dep-aux-pass.html) – [case](nl_alpino-dep-case.html) – [cc](nl_alpino-dep-cc.html) – [cc:preconj](nl_alpino-dep-cc-preconj.html) – [ccomp](nl_alpino-dep-ccomp.html) – [compound:prt](nl_alpino-dep-compound-prt.html) – [conj](nl_alpino-dep-conj.html) – [cop](nl_alpino-dep-cop.html) – [csubj](nl_alpino-dep-csubj.html) – [csubj:outer](nl_alpino-dep-csubj-outer.html) – [csubj:pass](nl_alpino-dep-csubj-pass.html) – [det](nl_alpino-dep-det.html) – [discourse](nl_alpino-dep-discourse.html) – [expl](nl_alpino-dep-expl.html) – [expl:pv](nl_alpino-dep-expl-pv.html) – [fixed](nl_alpino-dep-fixed.html) – [flat](nl_alpino-dep-flat.html) – [iobj](nl_alpino-dep-iobj.html) – [mark](nl_alpino-dep-mark.html) – [nmod](nl_alpino-dep-nmod.html) – [nmod:poss](nl_alpino-dep-nmod-poss.html) – [nsubj](nl_alpino-dep-nsubj.html) – [nsubj:outer](nl_alpino-dep-nsubj-outer.html) – [nsubj:pass](nl_alpino-dep-nsubj-pass.html) – [nummod](nl_alpino-dep-nummod.html) – [obj](nl_alpino-dep-obj.html) – [obl](nl_alpino-dep-obl.html) – [obl:agent](nl_alpino-dep-obl-agent.html) – [obl:arg](nl_alpino-dep-obl-arg.html) – [orphan](nl_alpino-dep-orphan.html) – [parataxis](nl_alpino-dep-parataxis.html) – [punct](nl_alpino-dep-punct.html) – [root](nl_alpino-dep-root.html) – [xcomp](nl_alpino-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 13603 sentences, 208613 tokens and 208614 syntactic words.</li>
+<li>This corpus contains 13603 sentences and 208613 tokens.</li>
 </ul>
 
 <ul>
@@ -99,8 +99,6 @@ The (Go and XQuery) conversion script is available for download at https://githu
 </ul>
 
 <ul>
-<li>This corpus contains 1 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 1 types of multi-word tokens. Examples: nogeens.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -601,7 +599,7 @@ The (Go and XQuery) conversion script is available for download at https://githu
           <li>INTJ: Ja, hallo</li>
           <li>NOUN: Basistakenpakket, Wet, Dm, Oom, verkeer, AVRO's, Akademie, Aktie, Bericht, Bestemming</li>
           <li>NUM: Drie, Duizend, Vijf</li>
-          <li>PROPN: Olympia's, Ulster, Adam, Balkum, Fiat, GOD, Josef, Máxima, Porsche, Sydney</li>
+          <li>PROPN: Olympia's, Ulster, Adam, Balkum, Fiat, GOD, Josef, Porsche, Sydney, TT</li>
           <li>VERB-Inf: Denken</li>
           <li>VERB-Part: Verwoeste</li>
           <li>X: the, Grand, Le, A, All, Caland-, Die, Financial, Guinness, I</li>
@@ -658,7 +656,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN (3746)</li>
       <li>VERB-Fin--NOUN-ADP(van) (1)</li>
       <li>VERB-Fin--NOUN-ADP(voor) (1)</li>
-      <li>VERB-Fin--PRON (1783)</li>
+      <li>VERB-Fin--PRON (1782)</li>
       <li>VERB-Fin--PRON-Nom (2617)</li>
       <li>VERB-Inf--NOUN (594)</li>
       <li>VERB-Inf--PRON (314)</li>
@@ -673,7 +671,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (2777)</li>
+      <li>VERB-Fin--NOUN (2778)</li>
       <li>VERB-Fin--NOUN-ADP(voor) (1)</li>
       <li>VERB-Fin--PRON (528)</li>
       <li>VERB-Fin--PRON-Acc (210)</li>
@@ -682,7 +680,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN-ADP(voor) (1)</li>
       <li>VERB-Inf--PRON (265)</li>
       <li>VERB-Inf--PRON-Acc (102)</li>
-      <li>VERB-Part--NOUN (721)</li>
+      <li>VERB-Part--NOUN (728)</li>
       <li>VERB-Part--PRON (183)</li>
       <li>VERB-Part--PRON-Acc (48)</li>
     </ul>
@@ -729,5 +727,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
 <li>This corpus uses 12 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>csubj:outer</a>, <a>csubj:pass</a>, <a>expl:pv</a>, <a>nmod:poss</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:arg</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>compound</a></li>
-<li>The following 8 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
+<li>The following 7 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Past`, `Pres`.
 
-27397 tokens (11%) have a non-empty value of `Tense`.
-3599 types (19%) occur at least once with a non-empty value of `Tense`.
-1902 lemmas (13%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (17512; 7% instances), <tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (9885; 4% instances).
+27398 tokens (11%) have a non-empty value of `Tense`.
+3598 types (19%) occur at least once with a non-empty value of `Tense`.
+1898 lemmas (13%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 2 part-of-speech tags: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (17513; 7% instances), <tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (9885; 4% instances).
 
 ### `VERB`
 
-17512 <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> tokens (64% of all `VERB` tokens) have a non-empty value of `Tense`.
+17513 <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> tokens (64% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="en_gum-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (13855; 79%), <tt><a href="en_gum-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9971; 57%), <tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9960; 57%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="en_gum-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (13857; 79%), <tt><a href="en_gum-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9972; 57%), <tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9961; 57%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Past` (8957; 51% of non-empty `Tense`): <em>said, had, got, made, united, used, called, found, based, known</em>
-* `Pres` (8555; 49% of non-empty `Tense`): <em>have, know, think, going, has, want, are, gon, is, 's</em>
-* `EMPTY` (9660): <em>have, do, make, get, see, go, know, take, say, let</em>
+* `Pres` (8556; 49% of non-empty `Tense`): <em>have, know, think, going, has, want, are, gon, is, 's</em>
+* `EMPTY` (9668): <em>have, do, make, get, see, go, know, take, say, let</em>
 
 <table>
   <tr><th>Paradigm <i>have</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -42,7 +42,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 9885 <tt><a href="en_gum-pos-AUX.html">AUX</a></tt> tokens (70% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="en_gum-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9375; 95%), <tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9359; 95%), <tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=3</tt> (7315; 74%), <tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7144; 72%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="en_gum-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9375; 95%), <tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9358; 95%), <tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=3</tt> (7314; 74%), <tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7145; 72%).
 
 `AUX` tokens may have the following values of `Tense`:
 
@@ -74,7 +74,7 @@ The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>VERB --[<tt><a href="en_gum-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (69; 79%),
 <tt>VERB --[<tt><a href="en_gum-dep-reparandum.html">reparandum</a></tt>]--> AUX</tt> (43; 56%),
 <tt>AUX --[<tt><a href="en_gum-dep-reparandum.html">reparandum</a></tt>]--> AUX</tt> (19; 100%),
-<tt>VERB --[<tt><a href="en_gum-dep-conj.html">conj</a></tt>]--> AUX</tt> (11; 61%),
+<tt>VERB --[<tt><a href="en_gum-dep-conj.html">conj</a></tt>]--> AUX</tt> (9; 56%),
 <tt>VERB --[<tt><a href="en_gum-dep-obl.html">obl</a></tt>]--> VERB</tt> (4; 67%),
 <tt>VERB --[<tt><a href="en_gum-dep-appos.html">appos</a></tt>]--> VERB</tt> (2; 67%),
 <tt>AUX --[<tt><a href="en_gum-dep-cop.html">cop</a></tt>]--> AUX</tt> (1; 100%),

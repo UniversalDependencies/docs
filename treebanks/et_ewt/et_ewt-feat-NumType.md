@@ -50,7 +50,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 * `Card` (2; 1% of non-empty `NumType`): <em>300, 700</em>
 * `Ord` (281; 99% of non-empty `NumType`): <em>esimene, esimese, 3., esimest, 27., teine, teises, 1., 2., 29.</em>
-* `EMPTY` (4973): <em>hea, suur, võimalik, õige, huvitav, head, parem, vana, uus, lihtne</em>
+* `EMPTY` (4965): <em>hea, suur, võimalik, õige, huvitav, head, parem, vana, uus, lihtne</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (86) occur only with one value of `NumType`.
 

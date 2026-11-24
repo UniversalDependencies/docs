@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="sab_chibergis-dep-obl.html">obl</a></tt>.
 There are also 3 other language-specific subtypes of `obl`: <tt><a href="sab_chibergis-dep-obl-arg.html">obl:arg</a></tt>, <tt><a href="sab_chibergis-dep-obl-mod.html">obl:mod</a></tt>, <tt><a href="sab_chibergis-dep-obl-tmod.html">obl:tmod</a></tt>.
 
-100 nodes (4%) are attached to their parents as `obl:lmod`.
+98 nodes (4%) are attached to their parents as `obl:lmod`.
 
-95 instances of `obl:lmod` (95%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.47.
+93 instances of `obl:lmod` (95%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.47959183673469.
 
-The following 9 pairs of parts of speech are connected with `obl:lmod`: <tt><a href="sab_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="sab_chibergis-pos-ADV.html">ADV</a></tt> (68; 68% instances), <tt><a href="sab_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="sab_chibergis-pos-NOUN.html">NOUN</a></tt> (16; 16% instances), <tt><a href="sab_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="sab_chibergis-pos-PROPN.html">PROPN</a></tt> (7; 7% instances), <tt><a href="sab_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="sab_chibergis-pos-VERB.html">VERB</a></tt> (3; 3% instances), <tt><a href="sab_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sab_chibergis-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="sab_chibergis-pos-ADV.html">ADV</a></tt>-<tt><a href="sab_chibergis-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="sab_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="sab_chibergis-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="sab_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="sab_chibergis-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="sab_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="sab_chibergis-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 8 pairs of parts of speech are connected with `obl:lmod`: <tt><a href="sab_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="sab_chibergis-pos-ADV.html">ADV</a></tt> (68; 69% instances), <tt><a href="sab_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="sab_chibergis-pos-NOUN.html">NOUN</a></tt> (16; 16% instances), <tt><a href="sab_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="sab_chibergis-pos-PROPN.html">PROPN</a></tt> (7; 7% instances), <tt><a href="sab_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="sab_chibergis-pos-VERB.html">VERB</a></tt> (3; 3% instances), <tt><a href="sab_chibergis-pos-ADV.html">ADV</a></tt>-<tt><a href="sab_chibergis-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="sab_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="sab_chibergis-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="sab_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="sab_chibergis-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="sab_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="sab_chibergis-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

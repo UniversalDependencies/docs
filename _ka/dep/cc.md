@@ -15,4 +15,4 @@ cc(იძახის, და)
 **NB** Note that punctuation is never treated as coordinating conjunction. 
 
 For more on coordination, see the [conj](_ka/dep/conj) relation.
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:46 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:26 CET -->

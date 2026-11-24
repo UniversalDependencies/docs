@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `nsubj`: <tt><a href="pay_chibergis-dep-nsubj-outer.html">nsubj:outer</a></tt>, <tt><a href="pay_chibergis-dep-nsubj-pass.html">nsubj:pass</a></tt>.
 
-162 nodes (4%) are attached to their parents as `nsubj`.
+165 nodes (4%) are attached to their parents as `nsubj`.
 
-134 instances of `nsubj` (83%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.62962962962963.
+135 instances of `nsubj` (82%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.60606060606061.
 
-The following 17 pairs of parts of speech are connected with `nsubj`: <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (71; 44% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (36; 22% instances), <tt><a href="pay_chibergis-pos-AUX.html">AUX</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (14; 9% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (12; 7% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (6; 4% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-NUM.html">NUM</a></tt> (5; 3% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-X.html">X</a></tt> (4; 2% instances), <tt><a href="pay_chibergis-pos-AUX.html">AUX</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt>-<tt><a href="pay_chibergis-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-X.html">X</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-X.html">X</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 17 pairs of parts of speech are connected with `nsubj`: <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (71; 43% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (37; 22% instances), <tt><a href="pay_chibergis-pos-AUX.html">AUX</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (14; 8% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (12; 7% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (7; 4% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-NUM.html">NUM</a></tt> (5; 3% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-X.html">X</a></tt> (4; 2% instances), <tt><a href="pay_chibergis-pos-AUX.html">AUX</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-NUM.html">NUM</a></tt>-<tt><a href="pay_chibergis-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-X.html">X</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-X.html">X</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -39,17 +39,17 @@ The following 17 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 nsubj	color:blue
-1	tokkari	tokk	VERB	V:ANY	_	0	root	_	AlignBegin=196546|AlignEnd=197491|Gloss=enter|MGloss=O3SG- enter -S1SG -PST|MSeg=Ø-tokk-a-ri|nWord=1|RX=[V]|TokenType=Root|Word=tokkari|wordform=Ø-tokk-a-ri
-2	tas	tas	PRON	PRO	_	1	nsubj	_	AlignBegin=197491|AlignEnd=198436|Gloss=PRO1|MGloss=PRO1|MSeg=tas|nWord=2|RX=[PRO]|TokenType=Root|Word=tas
-3	sawa	sawa	NOUN	N	_	4	xcomp	_	AlignBegin=198436|AlignEnd=198751|Gloss=hand|MGloss=hand|MSeg=sawa|nWord=3|RX=[N]|TokenType=Root|Word=soasukuha
-4	sukuha	sukuh	NOUN	VT	_	5	reparandum	_	AlignBegin=198751|AlignEnd=199381|Gloss=PTCP|MGloss=grab PTCP|MSeg=sukuh-a|nWord=3|RX=[VT]|TokenType=Root|Word=soasukuha|wordform=sukuh-a
-5	toko	toko	X	_	_	1	obl:tmod	_	AlignBegin=199381|AlignEnd=200326|Gloss=HES|MGloss=HES|MSeg=toko|nWord=4|TokenType=Root|Word=toko
-6	ʔãã	ʔãã	INTJ	<NOT_SURE>	_	5	discourse	_	AlignBegin=200326|AlignEnd=201273|Gloss=HES|MGloss=HES|MSeg=ʔãã|nWord=5|RX=[<NOT_SURE>]|TokenType=Root|Word=ʔãã
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 nsubj	color:blue
+1	kakorsa	kors	NOUN	V>VT	_	3	obj	_	AlignBegin=150153|AlignEnd=150657|Gloss=INF|MGloss=APPL.R- write INF|MSeg=ka-kors-a|nWord=1|RX=[VT]|TokenType=Root|Word=kakors|wordform=ka-kors-a
+2	=ma	=ma	SCONJ	PRT	_	1	case	_	AlignBegin=150657|AlignEnd=151161|Gloss==TOP|MGloss==TOP|MSeg==ma|nWord=2|RX=[PRT]|TokenType=Clit|Word=ma
+3	artʃuiʃbartVi	tʃuiʃ	VERB	V:ANY	Clusivity=Ex|Voice=Appl	0	root	_	AlignBegin=151161|AlignEnd=151665|Gloss=learn|MGloss=O3SG- APPL.P- learn -S1PL.EXCL -NEG -PST|MSeg=a-r-tʃuiʃ-bar-tV-i|nWord=3|RX=[V]|TokenType=Root|Word=artʃuiʃbarti|wordform=a-r-tʃuiʃ-bar-tV-i
+4	artʃuiʃatVri	tʃuiʃ	VERB	V:ANY	Voice=Appl	3	appos	_	AlignBegin=151665|AlignEnd=152169|Gloss=learn|MGloss=O3SG- APPL.P- learn -S1SG -NEG -PST|MSeg=a-r-tʃuiʃ-a-tV-ri|nWord=4|RX=[V]|TokenType=Root|Word=artʃuiʃtari|wordform=a-r-tʃuiʃ-a-tV-ri
+5	tas	tas	PRON	PRO	_	4	nsubj	_	AlignBegin=152169|AlignEnd=152673|Gloss=PRO1|MGloss=PRO1|MSeg=tas|nWord=5|RX=[PRO]|TokenType=Root|Word=tas
+6	=ma	=ma	PART	PRT	_	5	case	_	AlignBegin=152673|AlignEnd=153180|Gloss==TOP|MGloss==TOP|MSeg==ma|nWord=6|RX=[PRT]|TokenType=Clit|Word=ma
 
 ~~~
 

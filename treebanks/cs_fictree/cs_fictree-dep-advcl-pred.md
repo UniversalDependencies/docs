@@ -22,7 +22,7 @@ The following 35 pairs of parts of speech are connected with `advcl:pred`: <tt><
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 7 advcl:pred	color:blue
-1	Seděli	sedět	VERB	VpMP----R-AA---	Animacy=Anim|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
+1	Seděli	sedět	VERB	VpMP----R-AA---	Animacy=Anim|Aspect=Imp|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
 2	jsme	být	AUX	VB-P---1P-AA---	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	aux	1:aux	_
 3	tam	tam	ADV	Db-------------	PronType=Dem	1	advmod	1:advmod	_
 4	dalších	další	ADJ	AAFP2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	6	amod	6:amod	_
@@ -45,11 +45,11 @@ The following 35 pairs of parts of speech are connected with `advcl:pred`: <tt><
 1	Ať	ať	PART	TT-------------	_	4	advmod	4:advmod	_
 2	si	se	PRON	P7--3----------	Case=Dat|PronType=Prs|Reflex=Yes|Variant=Short	4	obl:arg	4:obl:arg:dat	_
 3	sami	samý	DET	PLMP1----------	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|PronType=Emp|Variant=Short	4	advcl:pred	4:advcl:pred	_
-4	koupí	koupit	VERB	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
+4	koupí	koupit	VERB	VB-P---3P-AA---	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
 5	,	,	PUNCT	Z:-------------	_	8	punct	8:punct	_
 6	co	co	PRON	PQ--4----------	Animacy=Inan|Case=Acc|PronType=Int,Rel	8	obj	8:obj	_
 7	budou	být	AUX	VB-P---3F-AA---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	8	aux	8:aux	_
-8	považovat	považovat	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	4	ccomp	4:ccomp	_
+8	považovat	považovat	VERB	Vf--------A----	Aspect=Imp|Polarity=Pos|VerbForm=Inf	4	ccomp	4:ccomp	_
 9	za	za	ADP	RR--4----------	AdpType=Prep|Case=Acc	10	case	10:case	_
 10	nutné	nutný	ADJ	AANS4----1A----	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	8	obl:arg	8:obl:arg:za:acc	_
 11	sami	samý	DET	PLMP1----------	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|PronType=Emp|Variant=Short	8	advcl:pred	8:advcl:pred	SpaceAfter=No
@@ -64,7 +64,7 @@ The following 35 pairs of parts of speech are connected with `advcl:pred`: <tt><
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 advcl:pred	color:blue
-1	Zanechat	zanechat	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	0	root	0:root	_
+1	Zanechat	zanechat	VERB	Vf--------A----	Aspect=Perf|Polarity=Pos|VerbForm=Inf	0	root	0:root	_
 2	tu	tu	ADV	Db------------1	PronType=Dem	1	advmod	1:advmod	_
 3	pár	pár	NUM	Cn-S4----------	Case=Acc|Number=Sing|NumForm=Word|NumType=Card	4	nummod:gov	4:nummod:gov	_
 4	lidí	člověk	NOUN	NNMP2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	1	obj	1:obj	_

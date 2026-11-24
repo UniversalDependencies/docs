@@ -80,8 +80,8 @@ The following 9 pairs of parts of speech are connected with `fixed`: <tt><a href
 17	"	"	PUNCT	PUNCT	_	15	punct	_	SpaceAfter=No
 18	,	,	PUNCT	_	_	21	punct	_	_
 19	бта	бта	ADV	Adv	_	21	mark	_	_
-20	аф	аф	AUX	_	Polarity=Neg|VerbType=Aux	21	aux	_	GTtags=Aux,Neg
-21	мярьгондяряй	мярьгомс	VERB	V	Derivation=Cond|Mood=Ind|Number[subj]=Sing|Person[subj]=3|VerbForm=Fin	25	advcl	_	GTtags=Cond,ScSg3
+20	аф	аф	AUX	_	Polarity=Neg|VerbType=Aux	21	aux:neg	_	GTtags=Aux,Neg
+21	мярьгондяряй	мярьгомс	VERB	V	ConjType=Cnd|Mood=Ind|Number[subj]=Sing|Person[subj]=3|VerbForm=Fin	25	advcl	_	GTtags=Cond,ScSg3
 22	тяфта	тяфта	ADV	Adv	AdvType=Man	21	advmod	_	SpaceAfter=No
 23	,	,	PUNCT	_	_	21	punct	_	_
 24	ломаттне	ломань	NOUN	N	Case=Nom|Definite=Def|Number=Plur	25	nsubj	_	GTtags=Pl,Nom,Def

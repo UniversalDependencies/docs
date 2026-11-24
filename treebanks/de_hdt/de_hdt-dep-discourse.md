@@ -68,7 +68,7 @@ The following 3 pairs of parts of speech are connected with `discourse`: <tt><a 
 13	sind	sein	AUX	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Cxn=Interrogative-WHInfo-Direct|CxnElt=13:Interrogative-WHInfo-Direct.Clause
 14	denn	denn	ADV	ADV	_	13	advmod	_	_
 15	die	der	DET	ART	Case=Nom|Definite=Def|Number=Plur|PronType=Art	16	det	_	_
-16	BI'n	unknown	NOUN	NN	_	13	nsubj	_	_
+16	BI'n	BI'n	NOUN	NN	_	13	nsubj	_	_
 17	?	?	PUNCT	$.	PunctType=Peri	13	punct	_	_
 
 ~~~

@@ -65,10 +65,10 @@ The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 4	შიც	ში	ADP	Post	AdpType=Post|Case=Dat	3	case	_	Translit=šicʻ
 5	არ	არ	PART	Part	PartType=Neg	8	advmod	_	Translit=ar
 6	არის	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	8	cop	_	Translit=aris
-7	არც	არც	PART	Part	PartType=Emp	8	advmod	_	Translit=arcʻ
+7	არც	არც	PART	Part	PartType=Neg	8	advmod	_	Translit=arcʻ
 8	მჟავა	მჟავა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	1	acl:relcl	_	Translit=mžava
 9	და	და	CCONJ	Conj	_	11	cc	_	Translit=da
-10	არც	არც	PART	Part	PartType=Emp	11	advmod	_	Translit=arcʻ
+10	არც	არც	PART	Part	PartType=Neg	11	advmod	_	Translit=arcʻ
 11	ტუტე	ტუტე	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	8	conj	_	SpaceAfter=No|Translit=tute
 12	,	,	PUNCT	F	PunctType=Comm	1	punct	_	Translit=,
 13	ნეიტრალური	ნეიტრალური	ADJ	Adj	Case=Nom|Number=Sing	14	amod	_	Translit=neitraluri

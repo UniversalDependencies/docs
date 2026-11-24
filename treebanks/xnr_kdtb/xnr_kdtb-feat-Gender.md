@@ -172,9 +172,9 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="xnr_kdtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (39; 62%),
+<tt>NOUN --[<tt><a href="xnr_kdtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (39; 61%),
 <tt>NOUN --[<tt><a href="xnr_kdtb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (28; 61%),
-<tt>NOUN --[<tt><a href="xnr_kdtb-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (17; 57%),
+<tt>NOUN --[<tt><a href="xnr_kdtb-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (17; 55%),
 <tt>NOUN --[<tt><a href="xnr_kdtb-dep-nmod.html">nmod</a></tt>]--> ADJ</tt> (11; 69%),
 <tt>VERB --[<tt><a href="xnr_kdtb-dep-amod.html">amod</a></tt>]--> NOUN</tt> (7; 54%),
 <tt>NOUN --[<tt><a href="xnr_kdtb-dep-compound.html">compound</a></tt>]--> ADJ</tt> (6; 55%),

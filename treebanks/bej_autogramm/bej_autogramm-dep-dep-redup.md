@@ -14,7 +14,7 @@ There are also 3 other language-specific subtypes of `dep`: <tt><a href="bej_aut
 43 instances of `dep:redup` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.76744186046512.
 
-The following 7 pairs of parts of speech are connected with `dep:redup`: <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt> (34; 79% instances), <tt><a href="bej_autogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="bej_autogramm-pos-ADV.html">ADV</a></tt> (3; 7% instances), <tt><a href="bej_autogramm-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bej_autogramm-pos-ADJ.html">ADJ</a></tt> (2; 5% instances), <tt><a href="bej_autogramm-pos-INTJ.html">INTJ</a></tt>-<tt><a href="bej_autogramm-pos-INTJ.html">INTJ</a></tt> (1; 2% instances), <tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="bej_autogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bej_autogramm-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="bej_autogramm-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="bej_autogramm-pos-SCONJ.html">SCONJ</a></tt> (1; 2% instances).
+The following 6 pairs of parts of speech are connected with `dep:redup`: <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt> (35; 81% instances), <tt><a href="bej_autogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="bej_autogramm-pos-ADV.html">ADV</a></tt> (3; 7% instances), <tt><a href="bej_autogramm-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bej_autogramm-pos-ADJ.html">ADJ</a></tt> (2; 5% instances), <tt><a href="bej_autogramm-pos-INTJ.html">INTJ</a></tt>-<tt><a href="bej_autogramm-pos-INTJ.html">INTJ</a></tt> (1; 2% instances), <tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="bej_autogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bej_autogramm-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -23,14 +23,14 @@ The following 7 pairs of parts of speech are connected with `dep:redup`: <tt><a 
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 dep:redup	color:blue
-1	ameːsa~sʔeː	_	VERB	V1	VerbClass=1|Voice=Mid	2	dep:redup	_	AlignBegin=85492|AlignEnd=86058|Gloss=sit\PLAC~sit\MID|MGloss=PASS.INT-sit\PLAC~sit\MID-CVB.SMLT|MSeg=ameː-sa~sʔ-eː|RX=[V1].[DER]-[V1].[DER]|TokenType=Root
-2	ameːsa~sʔeː	_	VERB	V1	VerbClass=1|Voice=Mid	3	dep:redup	_	AlignBegin=86058|AlignEnd=86625|Gloss=sit\PLAC~sit\MID|MGloss=PASS.INT-sit\PLAC~sit\MID-CVB.SMLT|MSeg=ameː-sa~sʔ-eː|RX=[V1].[DER]-[V1].[DER]|TokenType=Root
-3	ameːsa~sʔeː	_	VERB	V1	VerbClass=1|Voice=Mid	7	advcl	_	AlignBegin=86625|AlignEnd=87192|Gloss=sit\PLAC~sit\MID|MGloss=PASS.INT-sit\PLAC~sit\MID-CVB.SMLT|MSeg=ameː-sa~sʔ-eː|RX=[V1].[DER]-[V1].[DER]|TokenType=Root
-4	/	_	PUNCT	PUNCT	_	3	punct	_	AlignBegin=87192|AlignEnd=88535|TokenType=Break
-5	uː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	6	det	_	AlignBegin=88535|AlignEnd=88719|Gloss=DEF.SG.M.NOM=|RX=[DET]=|TokenType=Clit
-6	bri	_	NOUN	N	Gender=Masc	7	nsubj	_	AlignBegin=88719|AlignEnd=88904|Gloss=rain|RX=[SBJ].[N].[M]|TokenType=Root
-7	ʈa~ʈakʷi	_	VERB	V2	Gender=Masc|Number=Sing|VerbClass=2	0	root	_	AlignBegin=88904|AlignEnd=89273|Gloss=drip\PLAC~drip|MGloss=drip\PLAC~drip-AOR.3SG.M|MSeg=ʈa~ʈakʷ-i|RX=[V2].[DER]-[TAM].[PNG]|TokenType=Root
-8	/	_	PUNCT	PUNCT	_	7	punct	_	AlignBegin=89273|AlignEnd=89838|TokenType=Break
+1	ameːsa~sʔeː	_	VERB	V1	VerbClass=1|Voice=Mid	2	dep:redup	_	Gloss=PASS.INT.sit_sit.CVB.SMLT|MGloss=PASS.INT-sit_sit\MID-CVB.SMLT|MSeg=ameː-sa~sʔ-eː|RX=[V1].[DER]-[V1].[DER]|TokenType=Root|WordAlignmentBegin=85492|WordAlignmentEnd=86058
+2	ameːsa~sʔeː	_	VERB	V1	VerbClass=1|Voice=Mid	3	dep:redup	_	Gloss=PASS.INT.sit_sit.CVB.SMLT|MGloss=PASS.INT-sit_sit\MID-CVB.SMLT|MSeg=ameː-sa~sʔ-eː|RX=[V1].[DER]-[V1].[DER]|TokenType=Root|WordAlignmentBegin=86058|WordAlignmentEnd=86625
+3	ameːsa~sʔeː	_	VERB	V1	VerbClass=1|Voice=Mid	7	advcl	_	Gloss=PASS.INT.sit_sit.CVB.SMLT|MGloss=PASS.INT-sit_sit\MID-CVB.SMLT|MSeg=ameː-sa~sʔ-eː|RX=[V1].[DER]-[V1].[DER]|TokenType=Root|WordAlignmentBegin=86625|WordAlignmentEnd=87192
+4	/	_	PUNCT	PUNCT	_	3	punct	_	TokenType=Break|WordAlignmentBegin=87192|WordAlignmentEnd=88535
+5	uː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	6	det	_	Gloss=DEF|RX=[DET]=|TokenType=Clit|WordAlignmentBegin=88535|WordAlignmentEnd=88719
+6	bri	_	NOUN	N	Gender=Masc	7	nsubj	_	Gloss=rain|RX=[SBJ].[N].[M]|TokenType=Root|WordAlignmentBegin=88719|WordAlignmentEnd=88904
+7	ʈa~ʈakʷi	_	VERB	V2	Gender=Masc|Number=Sing|VerbClass=2	0	root	_	Gloss=drip_drip|MGloss=drip_drip-AOR.3SG.M|MSeg=ʈa~ʈakʷ-i|RX=[V2].[DER]-[TAM].[PNG]|TokenType=Root|WordAlignmentBegin=88904|WordAlignmentEnd=89273
+8	/	_	PUNCT	PUNCT	_	7	punct	_	TokenType=Break|WordAlignmentBegin=89273|WordAlignmentEnd=89838
 
 ~~~
 
@@ -41,40 +41,40 @@ The following 7 pairs of parts of speech are connected with `dep:redup`: <tt><a 
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
 # visual-style 13 12 dep:redup	color:blue
-1	oːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	2	det	_	AlignBegin=38124|AlignEnd=38402|Gloss=PROX.SG.M.ACC|RX=[DEM]|TokenType=Root
-2	aːdim	_	PROPN	N	_	3	dep:comp	_	AlignBegin=38402|AlignEnd=38494|Gloss=Adam|RX=[N].[PROP]|TokenType=Root
-3	=i	_	ADP	CASE	Case=Gen	4	dep	_	AlignBegin=38494|AlignEnd=38587|Gloss==GEN|RX==[CASE]|TokenType=Clit
-4	=da	_	ADP	POSTP	_	5	obl:arg	_	AlignBegin=38587|AlignEnd=38680|Gloss==DIR|RX==[POSTP]|TokenType=Clit
-5	jʔeːtiːt	_	VERB	V2	VerbClass=2	20	advcl	_	AlignBegin=38680|AlignEnd=38959|Gloss=come|MGloss=come-CVB.SEQ|MSeg=jʔ-eːtiːt|RX=[V2].[IRG]-.|TokenType=Root
-6	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	7	det	_	AlignBegin=38959|AlignEnd=39098|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
-7	dar	_	NOUN	N	Gender=Masc	20	iobj	_	AlignBegin=39098|AlignEnd=39237|Gloss=side|RX=[N].[M]|TokenType=Root
-8	/	_	PUNCT	PUNCT	_	7	punct	_	AlignBegin=39237|AlignEnd=39516|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
-9	hamʃak	_	ADV	IDEOPH	_	10	dep:redup	_	AlignBegin=39516|AlignEnd=39792|Gloss=rattle|RX=[IDEOPH]|TokenType=Root
-10	hamʃak	_	ADV	IDEOPH	_	12	dep:redup	_	AlignBegin=39792|AlignEnd=40068|Gloss=rattle|RX=[IDEOPH]|TokenType=Root
-11	/	_	PUNCT	PUNCT	_	10	punct	_	AlignBegin=40068|AlignEnd=40345|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
-12	hamʃak	_	ADV	IDEOPH	_	13	dep:redup	_	AlignBegin=40345|AlignEnd=40608|Gloss=rattle|RX=[IDEOPH]|TokenType=Root
-13	hamʃak	_	ADV	IDEOPH	_	20	obj	_	AlignBegin=40608|AlignEnd=40871|Gloss=rattle|RX=[IDEOPH]|TokenType=Root
-14	/	_	PUNCT	PUNCT	_	13	punct	_	AlignBegin=40871|AlignEnd=41135|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
-15	eːt	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Fem|Number=Plur|PronType=Dem	17	det	_	AlignBegin=41135|AlignEnd=41490|Gloss=PROX.PL.F.ACC|RX=[DEM]|TokenType=Root
-16	ti=	_	DET	DET	Definite=Def|Gender=Fem	17	det	_	AlignBegin=41490|AlignEnd=41579|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
-17	latit	_	NOUN	N	Gender=Fem|Number=Plur	18	dep:comp	_	AlignBegin=41579|AlignEnd=41668|Gloss=leaf\PL|RX=[N].[F]|TokenType=Root
-18	=eːb	_	ADP	POSTP	Case=Loc|Number=Plur	20	obl:arg	_	AlignBegin=41668|AlignEnd=41757|Gloss==LOC.PL|RX==[POSTP]|TokenType=Clit
-19	=wa	_	CCONJ	CONJ	_	18	cc	_	AlignBegin=41757|AlignEnd=41846|Gloss==COORD|RX==[CONJ]|TokenType=Clit
-20	indi	_	VERB	V1	Aspect=Imp|Gender=Masc|Number=Sing|VerbClass=1	21	dep:comp	_	AlignBegin=41846|AlignEnd=42082|Gloss=say\IPFV|MGloss=3SG.M-say\IPFV|MSeg=i-ndi|RX=[PNG]-[V1].[IRG]|TokenType=Root
-21	=hoːb	_	SCONJ	CONJ	_	24	dep	_	AlignBegin=42082|AlignEnd=42201|Gloss==when|RX==[CONJ]|TokenType=Clit
-22	/	_	PUNCT	PUNCT	_	21	punct	_	AlignBegin=42201|AlignEnd=42994|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
-23	aːdim	_	PROPN	N	_	24	nsubj	_	AlignBegin=42994|AlignEnd=43323|Gloss=Adam|RX=[SBJ].[N].[PROP]|TokenType=Root
-24	jʔa~jʔasi	_	VERB	V2	Gender=Masc|Number=Sing|VerbClass=2	31	dep:conj	_	AlignBegin=43323|AlignEnd=43542|Gloss=scrutinize\PLAC|MGloss=scrutinize\PLAC-AOR.3SG.M|MSeg=jʔa~jʔas-i|RX=[V2].[DER]-[TAM].[PNG]|TokenType=Root
-25	=t	_	CCONJ	CONJ	_	24	cc	_	AlignBegin=43542|AlignEnd=43652|Gloss==COORD|RX==[CONJ]|TokenType=Clit
-26	bak	_	PART	DEICT	_	31	advmod	_	AlignBegin=43652|AlignEnd=43981|Gloss=thus|RX=[DEICT].[MNR]|TokenType=Root
-27	/	_	PUNCT	PUNCT	_	26	punct	_	AlignBegin=43981|AlignEnd=44310|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
-28	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	29	det	_	AlignBegin=44310|AlignEnd=44427|Gloss=DEF.SG.M=|RX=[DET]=|TokenType=Clit
-29	ʔaj	_	NOUN	N	Gender=Masc	31	obj	_	AlignBegin=44427|AlignEnd=44544|Gloss=hand|RX=[N].[M]|TokenType=Root
-30	=oː	_	PRON	PRO	Case=Acc|Number=Sing|Person=3|Poss=Yes	29	nmod:poss	_	AlignBegin=44544|AlignEnd=44661|Gloss==POSS.3SG.ACC|RX==[PRO]|TokenType=Clit
-31	ʔabiktiːt	_	VERB	V1	VerbClass=1	32	advcl	_	AlignBegin=44661|AlignEnd=45012|Gloss=take|MGloss=take-CVB.SEQ|MSeg=ʔabik-tiːt|RX=[V1]-.|TokenType=Root
-32	ʃanbiːb	_	VERB	V1	Aspect=Imp|Number=Sing|Person=3|VerbClass=1	0	root	_	AlignBegin=45012|AlignEnd=45363|Gloss=look\IPFV.3SG|RX=[V1]|TokenType=Root
-33	eːn	_	VERB	V1	Aspect=Perf|Number=Plur|Person=3|VerbClass=1	32	discourse	_	AlignBegin=45363|AlignEnd=45714|Gloss=say\PFV.3PL|RX=[V1].[IRG]|TokenType=Root
-34	//	_	PUNCT	PUNCT	_	32	punct	_	AlignBegin=45714|AlignEnd=46652|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
+1	oːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	2	det	_	Gloss=PROX|RX=[DEM]|TokenType=Root|WordAlignmentBegin=38124|WordAlignmentEnd=38402
+2	aːdim	_	PROPN	N	_	4	dep	_	Gloss=Adam|RX=[N].[PROP]|TokenType=Root|WordAlignmentBegin=38402|WordAlignmentEnd=38494
+3	=i	_	ADP	CASE	Case=Gen	2	case	_	Gloss=GEN|RX==[CASE]|TokenType=Clit|WordAlignmentBegin=38494|WordAlignmentEnd=38587
+4	=da	_	ADP	POSTP	_	5	obl:arg	_	Gloss=DIR|RX==[POSTP]|TokenType=Clit|WordAlignmentBegin=38587|WordAlignmentEnd=38680
+5	jʔeːtiːt	_	VERB	V2	VerbClass=2	20	advcl	_	Gloss=come.CVB.SEQ|MGloss=come-CVB.SEQ|MSeg=jʔ-eːtiːt|RX=[V2].[IRG]-.|TokenType=Root|WordAlignmentBegin=38680|WordAlignmentEnd=38959
+6	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	7	det	_	Gloss=DEF|RX=[DET]=|TokenType=Clit|WordAlignmentBegin=38959|WordAlignmentEnd=39098
+7	dar	_	NOUN	N	Gender=Masc	20	iobj	_	Gloss=side|RX=[N].[M]|TokenType=Root|WordAlignmentBegin=39098|WordAlignmentEnd=39237
+8	/	_	PUNCT	PUNCT	_	7	punct	_	Gloss=PUNCT|RX=[PUNCT]|TokenType=Break|WordAlignmentBegin=39237|WordAlignmentEnd=39516
+9	hamʃak	_	ADV	IDEOPH	_	10	dep:redup	_	Gloss=rattle|RX=[IDEOPH]|TokenType=Root|WordAlignmentBegin=39516|WordAlignmentEnd=39792
+10	hamʃak	_	ADV	IDEOPH	_	12	dep:redup	_	Gloss=rattle|RX=[IDEOPH]|TokenType=Root|WordAlignmentBegin=39792|WordAlignmentEnd=40068
+11	/	_	PUNCT	PUNCT	_	10	punct	_	Gloss=PUNCT|RX=[PUNCT]|TokenType=Break|WordAlignmentBegin=40068|WordAlignmentEnd=40345
+12	hamʃak	_	ADV	IDEOPH	_	13	dep:redup	_	Gloss=rattle|RX=[IDEOPH]|TokenType=Root|WordAlignmentBegin=40345|WordAlignmentEnd=40608
+13	hamʃak	_	ADV	IDEOPH	_	20	obj	_	Gloss=rattle|RX=[IDEOPH]|TokenType=Root|WordAlignmentBegin=40608|WordAlignmentEnd=40871
+14	/	_	PUNCT	PUNCT	_	13	punct	_	Gloss=PUNCT|RX=[PUNCT]|TokenType=Break|WordAlignmentBegin=40871|WordAlignmentEnd=41135
+15	eːt	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Fem|Number=Plur|PronType=Dem	17	det	_	Gloss=PROX|RX=[DEM]|TokenType=Root|WordAlignmentBegin=41135|WordAlignmentEnd=41490
+16	ti=	_	DET	DET	Definite=Def|Gender=Fem	17	det	_	Gloss=DEF|RX=[DET]=|TokenType=Clit|WordAlignmentBegin=41490|WordAlignmentEnd=41579
+17	latit	_	NOUN	N	Gender=Fem|Number=Plur	20	obl:arg	_	Gloss=leaf|RX=[N].[F]|TokenType=Root|WordAlignmentBegin=41579|WordAlignmentEnd=41668
+18	=eːb	_	ADP	POSTP	Case=Loc|Number=Plur	17	case	_	Gloss=LOC|RX==[POSTP]|TokenType=Clit|WordAlignmentBegin=41668|WordAlignmentEnd=41757
+19	=wa	_	CCONJ	CONJ	_	17	cc	_	Gloss=COORD|RX==[CONJ]|TokenType=Clit|WordAlignmentBegin=41757|WordAlignmentEnd=41846
+20	indi	_	VERB	V1	Aspect=Imp|Gender=Masc|Number=Sing|VerbClass=1	24	advcl	_	Gloss=say|MGloss=3SG.M-say\IPFV|MSeg=i-ndi|RX=[PNG]-[V1].[IRG]|TokenType=Root|WordAlignmentBegin=41846|WordAlignmentEnd=42082
+21	=hoːb	_	SCONJ	CONJ	_	20	mark	_	Gloss=when|RX==[CONJ]|TokenType=Clit|WordAlignmentBegin=42082|WordAlignmentEnd=42201
+22	/	_	PUNCT	PUNCT	_	20	punct	_	Gloss=PUNCT|RX=[PUNCT]|TokenType=Break|WordAlignmentBegin=42201|WordAlignmentEnd=42994
+23	aːdim	_	PROPN	N	_	24	nsubj	_	Gloss=Adam|RX=[SBJ].[N].[PROP]|TokenType=Root|WordAlignmentBegin=42994|WordAlignmentEnd=43323
+24	jʔa~jʔasi	_	VERB	V2	Gender=Masc|Number=Sing|VerbClass=2	31	dep:conj	_	Gloss=scrutinize|MGloss=scrutinize-AOR.3SG.M|MSeg=jʔa~jʔas-i|RX=[V2].[DER]-[TAM].[PNG]|TokenType=Root|WordAlignmentBegin=43323|WordAlignmentEnd=43542
+25	=t	_	CCONJ	CONJ	_	24	cc	_	Gloss=COORD|RX==[CONJ]|TokenType=Clit|WordAlignmentBegin=43542|WordAlignmentEnd=43652
+26	bak	_	PART	DEICT	_	31	advmod	_	Gloss=thus|RX=[DEICT].[MNR]|TokenType=Root|WordAlignmentBegin=43652|WordAlignmentEnd=43981
+27	/	_	PUNCT	PUNCT	_	26	punct	_	Gloss=PUNCT|RX=[PUNCT]|TokenType=Break|WordAlignmentBegin=43981|WordAlignmentEnd=44310
+28	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	29	det	_	Gloss=DEF|RX=[DET]=|TokenType=Clit|WordAlignmentBegin=44310|WordAlignmentEnd=44427
+29	ʔaj	_	NOUN	N	Gender=Masc	31	obj	_	Gloss=hand|RX=[N].[M]|TokenType=Root|WordAlignmentBegin=44427|WordAlignmentEnd=44544
+30	=oː	_	PRON	PRO	Case=Acc|Number=Sing|Person=3|Poss=Yes	29	nmod:poss	_	Gloss=POSS|RX==[PRO]|TokenType=Clit|WordAlignmentBegin=44544|WordAlignmentEnd=44661
+31	ʔabiktiːt	_	VERB	V1	VerbClass=1	32	advcl	_	Gloss=take.CVB.SEQ|MGloss=take-CVB.SEQ|MSeg=ʔabik-tiːt|RX=[V1]-.|TokenType=Root|WordAlignmentBegin=44661|WordAlignmentEnd=45012
+32	ʃanbiːb	_	VERB	V1	Aspect=Imp|Number=Sing|Person=3|VerbClass=1	0	root	_	Gloss=look|RX=[V1]|TokenType=Root|WordAlignmentBegin=45012|WordAlignmentEnd=45363
+33	eːn	_	VERB	V1	Aspect=Perf|Number=Plur|Person=3|VerbClass=1	32	discourse	_	Gloss=say|RX=[V1].[IRG]|TokenType=Root|WordAlignmentBegin=45363|WordAlignmentEnd=45714
+34	//	_	PUNCT	PUNCT	_	32	punct	_	Gloss=PUNCT|RX=[PUNCT]|TokenType=Break|WordAlignmentBegin=45714|WordAlignmentEnd=46652
 
 ~~~
 
@@ -85,25 +85,25 @@ The following 7 pairs of parts of speech are connected with `dep:redup`: <tt><a 
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 10 dep:redup	color:blue
-1	t=	_	DET	DET	Definite=Def|Gender=Fem	2	det	_	AlignBegin=296091|AlignEnd=296192|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
-2	huːri	_	NOUN	N	Gender=Fem	15	nsubj	_	AlignBegin=296192|AlignEnd=296294|Gloss=houri|RX=[SBJ].[N].[F]|TokenType=Root
-3	/	_	PUNCT	PUNCT	_	6	punct	_	AlignBegin=296294|AlignEnd=296695|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
-4	w#	_	X	FS	_	6	obl:mod	_	AlignBegin=296695|AlignEnd=296983|Gloss=FS|RX=[FS]|TokenType=Root
-5	winneːt	_	ADV	ADV	_	4	reparandum	_	AlignBegin=296983|AlignEnd=297271|Gloss=plenty|RX=[ADV]|TokenType=Root
-6	daːwri	_	ADJ	ADJ	_	2	amod	_	AlignBegin=297271|AlignEnd=297559|Gloss=beautiful|RX=[ADJ]|TokenType=Root
-7	/	_	PUNCT	PUNCT	_	2	punct	_	AlignBegin=297559|AlignEnd=297847|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
-8	t=	_	DET	DET	Definite=Def|Gender=Fem	9	det	_	AlignBegin=297847|AlignEnd=298010|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
-9	huːri	_	NOUN	N	Gender=Fem	2	reparandum	_	AlignBegin=298010|AlignEnd=298174|Gloss=houri|RX=[SBJ].[N].[F]|TokenType=Root
-10	daːwri	_	ADJ	N	_	11	dep:redup	_	AlignBegin=298174|AlignEnd=298501|Gloss=beautiful|RX=[ADJ]|TokenType=Root
-11	daːwri	_	ADJ	ADJ	_	13	dep:comp	_	AlignBegin=298501|AlignEnd=298610|Gloss=beautiful|RX=[ADJ]|TokenType=Root
-12	=a	_	AUX	N.COP	Number=Plur|Person=3|VerbType=Cop	11	cop	_	AlignBegin=298610|AlignEnd=298719|Gloss==COP.3PL|RelRole=Subj|RX==[PRED].[N]|TokenType=Clit
-13	=t	_	SCONJ	REL	Gender=Fem|PronType=Rel	9	acl:relcl	_	AlignBegin=298719|AlignEnd=298828|Gloss==INDF.F|RX==[REL]|TokenType=Clit
-14	hoːj	_	ADP	POSTP	Case=Loc	15	obl:arg	_	AlignBegin=298828|AlignEnd=299155|Gloss=LOC|RX=[POSTP]|TokenType=Root
-15	hiːn	_	VERB	V1	Aspect=Aor|Number=Plur|VerbClass=1	17	ccomp	_	AlignBegin=299264|AlignEnd=299482|Gloss=be_there\AOR|MGloss=be_there\AOR-3PL|MSeg=hiː-n|Reported=Yes|RX=[V1].[IRG]-[PNG]|TokenType=Root
-16	/	_	PUNCT	PUNCT	_	15	punct	_	AlignBegin=299482|AlignEnd=299908|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
-17	indi	_	VERB	V1	Aspect=Imp|Gender=Masc|Number=Sing|VerbClass=1	0	root	_	AlignBegin=299908|AlignEnd=300059|Gloss=say\IPFV|MGloss=3SG.M-say\IPFV|MSeg=i-ndi|RX=[PNG]-[V1].[IRG]|TokenType=Root
-18	eːn	_	VERB	V1	Aspect=Perf|Number=Plur|Person=3|VerbClass=1	17	discourse	_	AlignBegin=300059|AlignEnd=300210|Gloss=say\PFV.3PL|RX=[V1].[IRG]|TokenType=Root
-19	//	_	PUNCT	PUNCT	_	17	punct	_	AlignBegin=300210|AlignEnd=301134|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
+1	t=	_	DET	DET	Definite=Def|Gender=Fem	2	det	_	Gloss=DEF|RX=[DET]=|TokenType=Clit|WordAlignmentBegin=296091|WordAlignmentEnd=296192
+2	huːri	_	NOUN	N	Gender=Fem	15	nsubj	_	Gloss=houri|RX=[SBJ].[N].[F]|TokenType=Root|WordAlignmentBegin=296192|WordAlignmentEnd=296294
+3	/	_	PUNCT	PUNCT	_	6	punct	_	Gloss=PUNCT|RX=[PUNCT]|TokenType=Break|WordAlignmentBegin=296294|WordAlignmentEnd=296695
+4	w#	_	X	FS	_	6	obl:mod	_	Gloss=FS|RX=[FS]|TokenType=Root|WordAlignmentBegin=296695|WordAlignmentEnd=296983
+5	winneːt	_	ADV	ADV	_	4	reparandum	_	Gloss=plenty|RX=[ADV]|TokenType=Root|WordAlignmentBegin=296983|WordAlignmentEnd=297271
+6	daːwri	_	ADJ	ADJ	_	2	amod	_	Gloss=beautiful|RX=[ADJ]|TokenType=Root|WordAlignmentBegin=297271|WordAlignmentEnd=297559
+7	/	_	PUNCT	PUNCT	_	2	punct	_	Gloss=PUNCT|RX=[PUNCT]|TokenType=Break|WordAlignmentBegin=297559|WordAlignmentEnd=297847
+8	t=	_	DET	DET	Definite=Def|Gender=Fem	9	det	_	Gloss=DEF|RX=[DET]=|TokenType=Clit|WordAlignmentBegin=297847|WordAlignmentEnd=298010
+9	huːri	_	NOUN	N	Gender=Fem	2	reparandum	_	Gloss=houri|RX=[SBJ].[N].[F]|TokenType=Root|WordAlignmentBegin=298010|WordAlignmentEnd=298174
+10	daːwri	_	ADJ	N	_	11	dep:redup	_	Gloss=beautiful|RX=[ADJ]|TokenType=Root|WordAlignmentBegin=298174|WordAlignmentEnd=298501
+11	daːwri	_	ADJ	ADJ	_	9	acl:relcl	_	Gloss=beautiful|RX=[ADJ]|TokenType=Root|WordAlignmentBegin=298501|WordAlignmentEnd=298610
+12	=a	_	AUX	N.COP	Number=Plur|Person=3|VerbType=Cop	11	cop	_	Gloss=COP|RelRole=Subj|RX==[PRED].[N]|TokenType=Clit|WordAlignmentBegin=298610|WordAlignmentEnd=298719
+13	=t	_	SCONJ	REL	Gender=Fem|PronType=Rel	11	mark	_	Gloss=INDF|RX==[REL]|TokenType=Clit|WordAlignmentBegin=298719|WordAlignmentEnd=298828
+14	hoːj	_	ADP	POSTP	Case=Loc	15	obl:arg	_	Gloss=LOC|RX=[POSTP]|TokenType=Root|WordAlignmentBegin=298828|WordAlignmentEnd=299155
+15	hiːn	_	VERB	V1	Aspect=Aor|Number=Plur|VerbClass=1	17	ccomp	_	Gloss=be_there|MGloss=be_there\AOR-3PL|MSeg=hiː-n|Reported=Yes|RX=[V1].[IRG]-[PNG]|TokenType=Root|WordAlignmentBegin=299264|WordAlignmentEnd=299482
+16	/	_	PUNCT	PUNCT	_	15	punct	_	Gloss=PUNCT|RX=[PUNCT]|TokenType=Break|WordAlignmentBegin=299482|WordAlignmentEnd=299908
+17	indi	_	VERB	V1	Aspect=Imp|Gender=Masc|Number=Sing|VerbClass=1	0	root	_	Gloss=say|MGloss=3SG.M-say\IPFV|MSeg=i-ndi|RX=[PNG]-[V1].[IRG]|TokenType=Root|WordAlignmentBegin=299908|WordAlignmentEnd=300059
+18	eːn	_	VERB	V1	Aspect=Perf|Number=Plur|Person=3|VerbClass=1	17	discourse	_	Gloss=say|RX=[V1].[IRG]|TokenType=Root|WordAlignmentBegin=300059|WordAlignmentEnd=300210
+19	//	_	PUNCT	PUNCT	_	17	punct	_	Gloss=PUNCT|RX=[PUNCT]|TokenType=Break|WordAlignmentBegin=300210|WordAlignmentEnd=301134
 
 ~~~
 

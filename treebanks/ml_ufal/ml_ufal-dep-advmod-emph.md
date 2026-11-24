@@ -24,11 +24,11 @@ The following 11 pairs of parts of speech are connected with `advmod:emph`: <tt>
 # visual-style 3 4 advmod:emph	color:blue
 1	തൊണ്ണൂറു	തൊണ്ണൂറു	NUM	_	Case=Nom|NumForm=Word|NumType=Card	2	nummod	_	Translit=toṇṇūṟu|LTranslit=toṇṇūṟu
 2	ശതമാനം	ശതമാനം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	3	nmod	_	Translit=śatamānaṁ|LTranslit=śatamānaṁ
-3	വലകൾക്ക	വലക്	NOUN	_	Animacy=Inan|Case=Dat|Number=Plur	6	nsubj	_	Translit=valakaḷ̕kka|LTranslit=valak
-4	ഉം	ഉം	PART	_	_	3	advmod:emph	_	Translit=uṁ|LTranslit=uṁ
+3	വലകൾക്ക	വലക്	NOUN	_	Animacy=Inan|Case=Dat|Number=Plur	6	nsubj	_	LTranslit=valak|Translit=valakaḷ̕kka
+4	ഉം	ഉം	PART	_	_	3	advmod:emph	_	LTranslit=uṁ|Translit=uṁ
 5	നഷ്ടപരിഹാരം	നഷ്ടപരിഹാരം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	6	obj	_	Translit=naṣṭaparihāraṁ|LTranslit=naṣṭaparihāraṁ
-6	അനുവദിച്ചത്	അനുവദിക്കുക	VERB	_	Polarity=Pos|Tense=Past|VerbForm=Vnoun|Voice=Act	0	root	_	Translit=anuvadiccat|LTranslit=anuvadikkuka
-7	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	cop:emph	_	Translit=āṇ|LTranslit=āk
+6	അനുവദിച്ചത്	അനുവദിക്കുക	VERB	_	Polarity=Pos|Tense=Past|VerbForm=Vnoun|Voice=Act	0	root	_	LTranslit=anuvadikkuka|Translit=anuvadiccat
+7	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	cop:emph	_	LTranslit=āk|Translit=āṇ
 8	.	.	PUNCT	_	_	6	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 ~~~
@@ -43,8 +43,8 @@ The following 11 pairs of parts of speech are connected with `advmod:emph`: <tt>
 1	സംഘർഷങ്ങളിൽ	സംഘർഷം	PROPN	_	Animacy=Inan|Case=Loc|Number=Plur	4	obl	_	Translit=saṁghaṟ̕ṣaṅṅaḷil̕|LTranslit=saṁghaṟ̕ṣaṁ
 2	ഒരു	ഒരു	DET	_	Definite=Ind|PronType=Art	3	det	_	Translit=oru|LTranslit=oru
 3	ഹെഡ്കോൺസ്റ്റബിൽ	ഹെഡ്കോൺസ്റ്റബിൽ	NOUN	_	Animacy=Inan|Case=Loc|Number=Sing	4	nsubj	_	Translit=heḍkōṇ̕sṟṟabil̕|LTranslit=heḍkōṇ̕sṟṟabil̕
-4	മരിക്കുക	മരിക്കുക	VERB	_	Polarity=Pos|VerbForm=Inf	0	root	_	Translit=marikkuka|LTranslit=marikkuka
-5	ഉം	ഉം	PART	_	_	4	advmod:emph	_	Translit=uṁ|LTranslit=uṁ
+4	മരിക്കുക	മരിക്കുക	VERB	_	Polarity=Pos|VerbForm=Inf	0	root	_	LTranslit=marikkuka|Translit=marikkuka
+5	ഉം	ഉം	PART	_	_	4	advmod:emph	_	LTranslit=uṁ|Translit=uṁ
 6	ചെയ്തു	ചെയ്യുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	4	compound:lvc	_	SpaceAfter=No|Translit=ceytu|LTranslit=ceyyuka
 7	.	.	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
 
@@ -59,14 +59,14 @@ The following 11 pairs of parts of speech are connected with `advmod:emph`: <tt>
 # visual-style 5 6 advmod:emph	color:blue
 1	കാഞ്ഞിരപ്പള്ളി	കാഞ്ഞിരപ്പള്ളി	PROPN	_	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	SpaceAfter=No|Translit=kāññirappaḷḷi|LTranslit=kāññirappaḷḷi
 2	:	:	PUNCT	_	_	1	punct	_	Translit=:|LTranslit=:
-3	മഴ	മഴ	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	4	nmod	_	Translit=maḻa|LTranslit=maḻa
-4	ക്കെടുതിക്ക്	ക്കെടുതി	NOUN	_	Animacy=Inan|Case=Dat|Number=Sing	9	obl	_	Translit=kkeṭutikk|LTranslit=kkeṭuti
-5	ഇടയിൽ	ഇടയിൽ	ADV	_	_	4	advmod	_	Translit=iṭayil̕|LTranslit=iṭayil̕
-6	ഉം	ഉം	PART	_	_	5	advmod:emph	_	Translit=uṁ|LTranslit=uṁ
+3	മഴ	മഴ	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	4	nmod	_	LTranslit=maḻa|Translit=maḻa
+4	ക്കെടുതിക്ക്	ക്കെടുതി	NOUN	_	Animacy=Inan|Case=Dat|Number=Sing	9	obl	_	LTranslit=kkeṭuti|Translit=kkeṭutikk
+5	ഇടയിൽ	ഇടയിൽ	ADV	_	_	4	advmod	_	LTranslit=iṭayil̕|Translit=iṭayil̕
+6	ഉം	ഉം	PART	_	_	5	advmod:emph	_	LTranslit=uṁ|Translit=uṁ
 7	ഓണം	ഓണം	PROPN	_	Animacy=Inan|Case=Nom|Number=Sing	8	nmod	_	Translit=ōṇaṁ|LTranslit=ōṇaṁ
 8	ആഘോഷിക്കുന്നതിനുള്ള	ആഘോഷിക്കുന്നതിനുള്ള	ADJ	_	_	9	amod	_	Translit=āghōṣikkunnatinuḷḷa|LTranslit=āghōṣikkunnatinuḷḷa
-9	തിരക്കില്‍	തിരക്ക്	NOUN	_	Animacy=Inan|Case=Loc|Number=Sing	1	parataxis	_	Translit=tirakkil|LTranslit=tirakk
-10	ആയിരുന്നു	ആക്	AUX	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin	9	cop	_	Translit=āyirunnu|LTranslit=āk
+9	തിരക്കില്‍	തിരക്ക്	NOUN	_	Animacy=Inan|Case=Loc|Number=Sing	1	parataxis	_	LTranslit=tirakk|Translit=tirakkil
+10	ആയിരുന്നു	ആക്	AUX	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin	9	cop	_	LTranslit=āk|Translit=āyirunnu
 11	കാഞ്ഞിരപ്പള്ളി	കാഞ്ഞിരപ്പള്ളി	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	12	nmod	_	Translit=kāññirappaḷḷi|LTranslit=kāññirappaḷḷi
 12	മേഖലയിലുള്ളവർ	മേഖലയിലുള്ളവർ	NOUN	_	Animacy=Anim|Case=Nom|Number=Plur	9	nsubj	_	SpaceAfter=No|Translit=mēkhalayiluḷḷavaṟ̕|LTranslit=mēkhalayiluḷḷavaṟ̕
 13	.	.	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.

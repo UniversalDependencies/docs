@@ -45,4 +45,4 @@ Particles should not have any features.
 ## XPOS
 
 Interrogative particles have the BHSA POS tag `inrg`.
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:37 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:28 CET -->

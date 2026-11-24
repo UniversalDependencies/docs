@@ -16,11 +16,11 @@ Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.17 release.
 
-The following people have contributed to making this treebank part of UD: Hiwa Asadpour, Luigi Talamo, Helena Vaz, Annemarie Verkerk.
+The following people have contributed to making this treebank part of UD: Hiwa Asadpour, Luigi Talamo, Annemarie Verkerk.
 
 Repository: [UD_Southern_Kurdish-Garrusi](https://github.com/UniversalDependencies/UD_Southern_Kurdish-Garrusi)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsdh_garrusi218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsdh_garrusi219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 
@@ -49,15 +49,13 @@ A dependency treebank in Universal Dependencies (UD) format, derived from narrat
 This treebank contains annotated sentences in an understudied Kurdish language variety called Garrusi (Indo-European), spoken in western regions of Iran (see Asadpour and Zarei, forthcoming). The data is formatted according to the Universal Dependencies (UD) guidelines (v2.11), with detailed morphosyntactic annotation and dependency structure. The language shows features such as verb serialization, possessive clitics, and light verb constructions.
 Note: This README is based on the current state of the dataset, which includes 1,182 tokens. Some examples and tag distributions reflect larger internal versions of the corpus and might include sentences beyond the publicly released set.
 
-## Acknowledgments
-
-We thank the contributors and native speakers who assisted in the creation of this dataset. We also acknowledge Masoumeh Zarei for her help during the early stages, before the main work began. This dataset supports the documentation and computational modeling of understudied languages.
-
 ## References
 
-Asadpour, Hiwa and Masoumeh Zarei. Forthcoming. Passive Construction in Garrusi Kurdish. In Paul Noorlander and Hiwa Asadpour (eds.), Passivization in Semitic, Iranian, Armenian and Beyond: A Typological Overview, series Cambridge Semitic Languages and Cultures. Cambridge: University of Cambridge, Faculty of Asian and Middle Eastern Studies and Open Book Publishers.
+Asadpour, Hiwa and Masoumeh Zarei. 2026. Passive Construction in Garrusi Kurdish. In Paul Noorlander and Hiwa Asadpour (eds.), Passivization in Semitic, Iranian, Armenian and Beyond: A Typological Overview, series Cambridge Semitic Languages and Cultures. Cambridge: University of Cambridge, Faculty of Asian and Middle Eastern Studies and Open Book Publishers.
 
+Asadpour, Hiwa and Masoumeh Zarei. 2026. *Garrusi Kurdish Corpus, Phase 1* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23121203
 
+## Acknowledgments
 
 # Statistics of UD Southern Kurdish Garrusi
 

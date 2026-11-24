@@ -9,70 +9,66 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="it_kiparlaforest-dep-det.html">det</a></tt>.
 There are also 1 other language-specific subtypes of `det`: <tt><a href="it_kiparlaforest-dep-det-predet.html">det:predet</a></tt>.
 
-41 nodes (0%) are attached to their parents as `det:poss`.
+64 nodes (0%) are attached to their parents as `det:poss`.
 
-39 instances of `det:poss` (95%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.07317073170732.
+64 instances of `det:poss` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.046875.
 
-The following 6 pairs of parts of speech are connected with `det:poss`: <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_kiparlaforest-pos-DET.html">DET</a></tt> (35; 85% instances), <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> (2; 5% instances), <tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_kiparlaforest-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="it_kiparlaforest-pos-DET.html">DET</a></tt>-<tt><a href="it_kiparlaforest-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt>-<tt><a href="it_kiparlaforest-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_kiparlaforest-pos-DET.html">DET</a></tt> (1; 2% instances).
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 det:poss	color:blue
-1	mia	mio	DET	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	2	det:poss	_	Begin=895.545|KID=604-0
-2	nonna	nonno	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	End=896.115|KID=604-1
-3	tutti	tutto	DET	_	PronType=Ind	5	det:predet	_	Begin=896.635|KID=605-0
-4	gli	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	KID=605-1
-5	anni	anno	NOUN	_	Gender=Masc|Number=Plur	7	obl	_	End=897.3|KID=605-2
-6	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	7	iobj	_	Begin=897.445|Clitic=Yes|KID=606-0
-7	fa	fare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Coconstruct=conj:reform::BOA3017_603::3|KID=606-1
-8	almeno	almeno	ADV	_	_	10	advmod	_	KID=606-2
-9	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	KID=606-3
-10	uovo	uovo	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	KID=606-4
-11	grande	grande	ADJ	_	Number=Plur	10	amod	_	KID=606-5
-12	più	più	ADV	_	_	13	advmod	_	KID=606-6
-13	tutti	tutto	PRON	_	Gender=Masc|Number=Plur|PronType=Ind	10	nmod	_	End=899.715|KID=606-7|OverlappingGroup=101
-
-~~~
+The following 3 pairs of parts of speech are connected with `det:poss`: <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_kiparlaforest-pos-DET.html">DET</a></tt> (62; 97% instances), <tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_kiparlaforest-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_kiparlaforest-pos-DET.html">DET</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 3 det:poss	color:blue
-1	per	per	ADP	_	_	2	mark	_	Begin=397.321|KID=179-0
-2	dire	dire	VERB	_	VerbForm=Inf	0	root	_	End=397.912|Intonation=WeaklyRising|KID=179-1
-3	loro	loro	PRON	_	Poss=Yes|PronType=Prs	4	det:poss	_	Begin=398.571|KID=180-0|PauseAfter=Yes
-4	uomini	uomo	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	KID=180-2
-5	e	e	CCONJ	_	_	7	cc	_	KID=180-3
-6	loro	loro	PRON	_	Poss=Yes|PronType=Prs	7	det:poss	_	KID=180-4|PauseAfter=Yes
-7	donne	donna	NOUN	_	Gender=Fem|Number=Plur	4	conj	_	End=400.873|Intonation=WeaklyRising|KID=180-6
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 det:poss	color:blue
+1	mi	mi	PRON	_	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	iobj	_	Begin=299.343|KID=123-0|OverlappingGroup=63
+2	ripete	ripetere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=123-1|OverlappingGroup=63
+3	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	KID=123-2|OverlappingGroup=63
+4	suo	suo	DET	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	5	det:poss	_	KID=123-3|OverlappingGroup=63
+5	nome	nome	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	End=300.365|Intonation=Rising|KID=123-4|OverlappingGroup=63
 
 ~~~
 
 
 ~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 8 det:poss	color:blue
-1	eh	eh	INTJ	_	_	5	discourse	_	Begin=959.06|KID=390-0
-2	se	se	SCONJ	_	_	5	mark	_	KID=390-1
-3	noi	noi	PRON	_	Number=Plur|Person=1|PronType=Prs	5	nsubj	_	KID=390-2
-4	vogliamo	volere	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	KID=390-3
-5	risalire	risalire	VERB	_	VerbForm=Inf	0	root	_	KID=390-4
-6	a	a	ADP	_	_	9	case	_	KID=390-5a
-7	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	KID=390-5b
-8	nostro	nostro	DET	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	9	det:poss	_	KID=390-6
-9	proto	proto	ADJ	_	Gender=Masc|Number=Sing	10	amod	_	KID=390-7
-10	arabo	arabo	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	Intonation=WeaklyRising|KID=390-8
+# visual-style 8 7 det:poss	color:blue
+1	mi	mi	PRON	_	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	iobj	_	KID=931-6
+2	guardo	guardare	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=931-7|Prolonged=Yes
+3	ormai	ormai	ADV	_	_	5	advmod	_	KID=931-8|PaceFast=Yes
+4	c'	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	5	expl	_	KID=931-9|PaceFast=Yes|SpaceAfter=No
+5	ho	avere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	parataxis:parenth	_	KID=931-10|PaceFast=Yes
+6	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	KID=931-11|PaceFast=Yes
+7	miei	mio	DET	_	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	8	det:poss	_	KID=931-12|PaceFast=Yes
+8	fissi	fisso	ADJ	_	Gender=Masc|Number=Plur	5	obj	_	End=1779.744|KID=931-13|PaceFast=Yes
+9	carta	carta	NOUN	_	_	2	obj	_	Begin=1780.186|KID=932-0
+10	bianca	bianco	ADJ	_	Gender=Fem|Number=Sing	9	flat:name	_	End=1781.388|Intonation=WeaklyRising|KID=932-1
+11	con	con	ADP	_	_	13	case	_	Begin=1782.132|KID=933-0
+12	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	KID=933-1
+13	berlinguer	Berlinguer	PROPN	_	_	9	nmod	_	End=1783.217|Intonation=WeaklyRising|KID=933-2|OverlappingGroup=177
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 det:poss	color:blue
+1	oh	oh	INTJ	_	_	3	discourse	_	KID=200-6
+2	mio	mio	DET	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	3	det:poss	_	KID=200-7
+3	dio	Dio	PROPN	_	_	8	discourse	_	KID=200-8
+4	quanti	quanto	DET	_	Gender=Masc|Number=Plur|PronType=Int	5	det	_	KID=200-9
+5	dialetti	dialetto	NOUN	_	Gender=Masc|Number=Plur	8	nsubj	_	KID=200-10
+6	diversi	diverso	ADJ	_	Gender=Masc|Number=Plur	5	amod	_	KID=200-11
+7	ci	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	8	expl	_	KID=200-12
+8	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=200-13|Reported=Yes
 
 ~~~
 

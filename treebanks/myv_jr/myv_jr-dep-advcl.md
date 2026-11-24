@@ -64,7 +64,7 @@ The following 20 pairs of parts of speech are connected with `advcl`: <tt><a hre
 7	мелеть	мель	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=2	6	fixed	_	GTtags=Sem/Body_part,Sg,Nom,PxSg2|SpaceAfter=No
 8	,	,	PUNCT	CLB	_	11	punct	_	_
 9	ансяк	ансяк	ADV	Adv	_	11	advmod	_	_
-10	илязо	а	AUX	V	Mood=Opt|Number[subj]=Sing|Person[subj]=3|Polarity=Neg	11	aux	_	GTtags=Neg,Opt,ScSg3
+10	илязо	а	AUX	V	Mood=Opt|Number[subj]=Sing|Person[subj]=3|Polarity=Neg	11	aux:neg	_	GTtags=Neg,Opt,ScSg3
 11	лазово	лазовомс	VERB	V	Connegative=Yes	4	advcl	_	GTtags=Der/ОвОмс,IV,ConNeg
 12	кодаяк	кодаяк	ADV	Adv	AdvType=Man|PronType=Ind	11	advmod	_	GTtags=Indef,Manner|SpaceAfter=No
 13	.	.	PUNCT	CLB	_	4	punct	_	_

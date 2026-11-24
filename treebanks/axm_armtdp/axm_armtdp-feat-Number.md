@@ -7,130 +7,145 @@ udver: '2'
 ## Treebank Statistics: UD_Middle_Armenian-ArmTDP: Features: `Number`
 
 This feature is universal.
-It occurs with 4 different values: `Coll`, `Plur`, `Ptan`, `Sing`.
+It occurs with 3 different values: `Plur`, `Ptan`, `Sing`.
 
-456 tokens (42%) have a non-empty value of `Number`.
-281 types (70%) occur at least once with a non-empty value of `Number`.
-210 lemmas (66%) occur at least once with a non-empty value of `Number`.
-The feature is used with 6 part-of-speech tags: <tt><a href="axm_armtdp-pos-NOUN.html">NOUN</a></tt> (242; 22% instances), <tt><a href="axm_armtdp-pos-VERB.html">VERB</a></tt> (135; 12% instances), <tt><a href="axm_armtdp-pos-AUX.html">AUX</a></tt> (35; 3% instances), <tt><a href="axm_armtdp-pos-PRON.html">PRON</a></tt> (32; 3% instances), <tt><a href="axm_armtdp-pos-DET.html">DET</a></tt> (11; 1% instances), <tt><a href="axm_armtdp-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+2417 tokens (43%) have a non-empty value of `Number`.
+1203 types (78%) occur at least once with a non-empty value of `Number`.
+824 lemmas (73%) occur at least once with a non-empty value of `Number`.
+The feature is used with 7 part-of-speech tags: <tt><a href="axm_armtdp-pos-NOUN.html">NOUN</a></tt> (1277; 23% instances), <tt><a href="axm_armtdp-pos-VERB.html">VERB</a></tt> (728; 13% instances), <tt><a href="axm_armtdp-pos-PRON.html">PRON</a></tt> (182; 3% instances), <tt><a href="axm_armtdp-pos-PROPN.html">PROPN</a></tt> (115; 2% instances), <tt><a href="axm_armtdp-pos-AUX.html">AUX</a></tt> (77; 1% instances), <tt><a href="axm_armtdp-pos-DET.html">DET</a></tt> (30; 1% instances), <tt><a href="axm_armtdp-pos-ADJ.html">ADJ</a></tt> (8; 0% instances).
 
 ### `NOUN`
 
-242 <tt><a href="axm_armtdp-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
+1277 <tt><a href="axm_armtdp-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="axm_armtdp-feat-Animacy.html">Animacy</a></tt><tt>=Nhum</tt> (194; 80%), <tt><a href="axm_armtdp-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (131; 54%), <tt><a href="axm_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (129; 53%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="axm_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (948; 74%).
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Coll` (18; 7% of non-empty `Number`): <em>արիւն, արեան, այրեաց, անաչառութեամբ, ապաշխարութիւն, առ, ծուլութեան, հնազանդութեամբ, հնազանդութիւն, մեղայն</em>
-* `Plur` (34; 14% of non-empty `Number`): <em>աչսն, թոյնքն, որդիսն, ձեռսն, այլազգեացն, անդամսն, անթքն, բերդտուքն, գանկտվորացն, գնոցն</em>
-* `Ptan` (3; 1% of non-empty `Number`): <em>արծուիք, երանացն, մեղանք</em>
-* `Sing` (187; 77% of non-empty `Number`): <em>խայթածն, մարդն, օձս, խայթածէն, մարդ, մարմինն, քրիստոնէ, ազգ, գին, գինն</em>
+* `Plur` (175; 14% of non-empty `Number`): <em>նշանքն, ջղերն, գրաստնոյ, ոտվին, աչսն, դեղերս, հայոց, որդիսն, բազկացն, բանք</em>
+* `Ptan` (88; 7% of non-empty `Number`): <em>աչքն, աչք, զաւդվածքն, ոտքն, փողքն, աւծնելիք, շլնիքն, փառք, թոյնքն, մօրուքն</em>
+* `Sing` (1014; 79% of non-empty `Number`): <em>դեղ, նուկի, ջուրն, քիթն, մազն, աւր, դուռն, ջուր, գրաստն, գլուխն</em>
 
 <table>
-  <tr><th>Paradigm <i>օձ</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="axm_armtdp-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="axm_armtdp-feat-Deixis-psor.html">Deixis[psor]</a></tt><tt>=Prox</tt></tt></td><td><em>օձս</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="axm_armtdp-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="axm_armtdp-feat-Definite.html">Definite</a></tt><tt>=Def</tt></tt></td><td></td><td><em>օձիցն</em></td></tr>
-  <tr><td><tt><tt><a href="axm_armtdp-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="axm_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt></tt></td><td><em>օձի, օձոյ</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="axm_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="axm_armtdp-feat-Definite.html">Definite</a></tt><tt>=Def</tt></tt></td><td><em>օձն</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="axm_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="axm_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt></tt></td><td><em>օձ</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="axm_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="axm_armtdp-feat-Deixis-psor.html">Deixis[psor]</a></tt><tt>=Prox</tt></tt></td><td><em>օձս</em></td><td></td></tr>
+  <tr><th>Paradigm <i>դեղ</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="axm_armtdp-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="axm_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt></tt></td><td></td><td><em>դեղոց</em></td></tr>
+  <tr><td><tt><tt><a href="axm_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="axm_armtdp-feat-Definite.html">Definite</a></tt><tt>=Def</tt></tt></td><td><em>դեղն</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="axm_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="axm_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt></tt></td><td><em>դեղ</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="axm_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="axm_armtdp-feat-Deixis-psor.html">Deixis[psor]</a></tt><tt>=Prox</tt></tt></td><td><em>դեղս</em></td><td><em>դեղերս</em></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `NOUN`. 95% lemmas (118) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `NOUN`. 91% lemmas (486) occur only with one value of `Number`.
 
 ### `VERB`
 
-135 <tt><a href="axm_armtdp-pos-VERB.html">VERB</a></tt> tokens (83% of all `VERB` tokens) have a non-empty value of `Number`.
+728 <tt><a href="axm_armtdp-pos-VERB.html">VERB</a></tt> tokens (91% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="axm_armtdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (135; 100%), <tt><a href="axm_armtdp-feat-Person.html">Person</a></tt><tt>=3</tt> (131; 97%), <tt><a href="axm_armtdp-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (130; 96%), <tt><a href="axm_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (125; 93%), <tt><a href="axm_armtdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (92; 68%), <tt><a href="axm_armtdp-feat-Style.html">Style</a></tt><tt>=Arch</tt> (91; 67%), <tt><a href="axm_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (88; 65%), <tt><a href="axm_armtdp-feat-Subcat.html">Subcat</a></tt><tt>=Intr</tt> (81; 60%), <tt><a href="axm_armtdp-feat-Voice.html">Voice</a></tt><tt>=Mid</tt> (77; 57%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="axm_armtdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (721; 99%), <tt><a href="axm_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (604; 83%), <tt><a href="axm_armtdp-feat-Person.html">Person</a></tt><tt>=3</tt> (456; 63%), <tt><a href="axm_armtdp-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (434; 60%), <tt><a href="axm_armtdp-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (428; 59%), <tt><a href="axm_armtdp-feat-Subcat.html">Subcat</a></tt><tt>=Tran</tt> (426; 59%), <tt><a href="axm_armtdp-feat-Style.html">Style</a></tt><tt>=EMPTY</tt> (390; 54%), <tt><a href="axm_armtdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (365; 50%).
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (15; 11% of non-empty `Number`): <em>տան, առնուն, գան, լինին, անուանին, ասեն, եկէք, ծախեն, ուղղեն, չգան</em>
-* `Sing` (120; 89% of non-empty `Number`): <em>ելնէ, ուռենայ, կայ, մեռնի, անուանի, լինի, խայթէ, կենայ, սպաննէ, ցաւէ</em>
-* `EMPTY` (28): <em>հոտած, սպաննել, Զընդանելն, ածել, այրել, գնալն, դարցնելոյն, լել, լինել, խայթած</em>
+* `Plur` (47; 6% of non-empty `Number`): <em>ասեն, առնուն, լինին, տան, առնուին, գան, ճանչենան, յիշեցէք, անուանին, առնէին</em>
+* `Sing` (681; 94% of non-empty `Number`): <em>ունի, լինի, առ, լից, ելնէ, աւծնէ, դիր, լեսէ, կապէ, լուայ</em>
+* `EMPTY` (68): <em>հոտած, ասցել, սպաննել, խառնած, ծարուրած, փորձած, Զընդանելն, ածել, այրել, բարձրանալ</em>
 
 <table>
-  <tr><th>Paradigm <i>լինիլ</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="axm_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="axm_armtdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="axm_armtdp-feat-Style.html">Style</a></tt><tt>=Arch</tt></tt></td><td><em>լինի</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="axm_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Prosp</tt>|<tt><a href="axm_armtdp-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="axm_armtdp-feat-Style.html">Style</a></tt><tt>=Arch</tt></tt></td><td><em>լինի</em></td><td><em>լինին</em></td></tr>
-  <tr><td><tt><tt><a href="axm_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Prosp</tt>|<tt><a href="axm_armtdp-feat-Mood.html">Mood</a></tt><tt>=Sub</tt></tt></td><td><em>լինի</em></td><td></td></tr>
+  <tr><th>Paradigm <i>ունալ</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>ունի</em></td><td><em>ունին</em></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `VERB`. 90% lemmas (65) occur only with one value of `Number`.
-
-### `AUX`
-
-35 <tt><a href="axm_armtdp-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `Number`.
-
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="axm_armtdp-feat-Person.html">Person</a></tt><tt>=3</tt> (35; 100%), <tt><a href="axm_armtdp-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (35; 100%), <tt><a href="axm_armtdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (35; 100%), <tt><a href="axm_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (31; 89%), <tt><a href="axm_armtdp-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (31; 89%), <tt><a href="axm_armtdp-feat-Style.html">Style</a></tt><tt>=EMPTY</tt> (25; 71%), <tt><a href="axm_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (23; 66%), <tt><a href="axm_armtdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (23; 66%).
-
-`AUX` tokens may have the following values of `Number`:
-
-* `Plur` (2; 6% of non-empty `Number`): <em>են, լինին</em>
-* `Sing` (33; 94% of non-empty `Number`): <em>է, լինի, չէ, չտայ, տայ</em>
-
-<table>
-  <tr><th>Paradigm <i>եմ</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="axm_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td><em>չէ</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="axm_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td><em>է</em></td><td><em>են</em></td></tr>
-</table>
+`Number` seems to be **lexical feature** of `VERB`. 91% lemmas (192) occur only with one value of `Number`.
 
 ### `PRON`
 
-32 <tt><a href="axm_armtdp-pos-PRON.html">PRON</a></tt> tokens (78% of all `PRON` tokens) have a non-empty value of `Number`.
+182 <tt><a href="axm_armtdp-pos-PRON.html">PRON</a></tt> tokens (95% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="axm_armtdp-feat-Deixis-psor.html">Deixis[psor]</a></tt><tt>=EMPTY</tt> (26; 81%), <tt><a href="axm_armtdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (23; 72%), <tt><a href="axm_armtdp-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (21; 66%), <tt><a href="axm_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (17; 53%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="axm_armtdp-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (137; 75%), <tt><a href="axm_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (135; 74%), <tt><a href="axm_armtdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (114; 63%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (4; 13% of non-empty `Number`): <em>այնոք, այնպիսիքն, նոքա, ոմանք</em>
-* `Sing` (28; 88% of non-empty `Number`): <em>որ, ինքն, այսոր, այս, իւրմէն, այլն, այն, այնոր, ինքս, իւրն</em>
-* `EMPTY` (9): <em>այս, զինչ, ինչ, ամէնն, իրք, մէկն</em>
-
-`Number` seems to be **lexical feature** of `PRON`. 100% lemmas (11) occur only with one value of `Number`.
-
-### `DET`
-
-11 <tt><a href="axm_armtdp-pos-DET.html">DET</a></tt> tokens (30% of all `DET` tokens) have a non-empty value of `Number`.
-
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="axm_armtdp-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="axm_armtdp-feat-Person.html">Person</a></tt><tt>=3</tt> (11; 100%), <tt><a href="axm_armtdp-feat-PronType.html">PronType</a></tt><tt>=Poss</tt> (11; 100%), <tt><a href="axm_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (7; 64%), <tt><a href="axm_armtdp-feat-Style.html">Style</a></tt><tt>=Arch</tt> (6; 55%).
-
-`DET` tokens may have the following values of `Number`:
-
-* `Plur` (1; 9% of non-empty `Number`): <em>իրենց</em>
-* `Sing` (10; 91% of non-empty `Number`): <em>իւր, իր</em>
-* `EMPTY` (26): <em>այլ, այս, այն, ամենայն, ամէն, հայնց, մի</em>
+* `Plur` (16; 9% of non-empty `Number`): <em>իրար, այնոք, ամենեսեան, այնպիսիքն, իրաց, մեզ, նոքա, ոմանք, որոց, որք</em>
+* `Sing` (166; 91% of non-empty `Number`): <em>որ, ինք, այս, դու, ես, այնոր, այսոր, ինքն, իրմէ, այն</em>
+* `EMPTY` (10): <em>զինչ, ինչ, ամէնն, զինչն, որտեղ</em>
 
 <table>
-  <tr><th>Paradigm <i>իր</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="axm_armtdp-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>իր</em></td><td><em>իրենց</em></td></tr>
-  <tr><td><tt><tt><a href="axm_armtdp-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="axm_armtdp-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td><em>իր</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="axm_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>իր</em></td><td></td></tr>
+  <tr><th>Paradigm <i>որ</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="axm_armtdp-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>որոյ, որու, որում</em></td><td><em>որոց</em></td></tr>
+  <tr><td><tt><tt><a href="axm_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>որ</em></td><td><em>որք</em></td></tr>
 </table>
 
 ### `PROPN`
 
-1 <tt><a href="axm_armtdp-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Number`.
+115 <tt><a href="axm_armtdp-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="axm_armtdp-feat-Animacy.html">Animacy</a></tt><tt>=Hum</tt> (1; 100%), <tt><a href="axm_armtdp-feat-Case.html">Case</a></tt><tt>=Dat</tt> (1; 100%), <tt><a href="axm_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (1; 100%), <tt><a href="axm_armtdp-feat-NameType.html">NameType</a></tt><tt>=Prs</tt> (1; 100%).
+The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="axm_armtdp-feat-Style.html">Style</a></tt><tt>=EMPTY</tt> (102; 89%), <tt><a href="axm_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (93; 81%), <tt><a href="axm_armtdp-feat-NameType.html">NameType</a></tt><tt>=Geo</tt> (65; 57%), <tt><a href="axm_armtdp-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (60; 52%).
 
 `PROPN` tokens may have the following values of `Number`:
 
-* `Sing` (1; 100% of non-empty `Number`): <em>Քրիստոսի</em>
+* `Sing` (115; 100% of non-empty `Number`): <em>Զոհալն, Փայլածուն, Արեգակն, Լուսին, Լուսաբեր, Հրատն, Լուսաբերն, Լուսնթագ, Լուսինն, Լուսնթագն</em>
+
+`Number` seems to be **lexical feature** of `PROPN`. 100% lemmas (51) occur only with one value of `Number`.
+
+### `AUX`
+
+77 <tt><a href="axm_armtdp-pos-AUX.html">AUX</a></tt> tokens (96% of all `AUX` tokens) have a non-empty value of `Number`.
+
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="axm_armtdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (77; 100%), <tt><a href="axm_armtdp-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (76; 99%), <tt><a href="axm_armtdp-feat-Person.html">Person</a></tt><tt>=3</tt> (74; 96%), <tt><a href="axm_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (71; 92%), <tt><a href="axm_armtdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (71; 92%), <tt><a href="axm_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (71; 92%).
+
+`AUX` tokens may have the following values of `Number`:
+
+* `Plur` (6; 8% of non-empty `Number`): <em>են, ենք, լինին, չենք</em>
+* `Sing` (71; 92% of non-empty `Number`): <em>է, լինի, տայ, չէ, չլինի, եմ, էի</em>
+* `EMPTY` (3): <em>կու, պիտի</em>
+
+<table>
+  <tr><th>Paradigm <i>եմ</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="axm_armtdp-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="axm_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="axm_armtdp-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>էի</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="axm_armtdp-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="axm_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="axm_armtdp-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>եմ</em></td><td><em>ենք</em></td></tr>
+  <tr><td><tt><tt><a href="axm_armtdp-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="axm_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="axm_armtdp-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>չէ</em></td><td><em>չենք</em></td></tr>
+  <tr><td><tt><tt><a href="axm_armtdp-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="axm_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="axm_armtdp-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>է</em></td><td><em>են</em></td></tr>
+</table>
+
+### `DET`
+
+30 <tt><a href="axm_armtdp-pos-DET.html">DET</a></tt> tokens (17% of all `DET` tokens) have a non-empty value of `Number`.
+
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="axm_armtdp-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (30; 100%), <tt><a href="axm_armtdp-feat-PronType.html">PronType</a></tt><tt>=Poss</tt> (26; 87%), <tt><a href="axm_armtdp-feat-Person.html">Person</a></tt><tt>=3</tt> (24; 80%).
+
+`DET` tokens may have the following values of `Number`:
+
+* `Plur` (3; 10% of non-empty `Number`): <em>իմոց, իրենց, մերոց</em>
+* `Sing` (27; 90% of non-empty `Number`): <em>իւր, իր, իմ, իմոյ</em>
+* `EMPTY` (142): <em>այլ, այս, մի, ամէն, այն, ն, ամենայն, քանի, հայնց, ինչ</em>
+
+<table>
+  <tr><th>Paradigm <i>իմ</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="axm_armtdp-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="axm_armtdp-feat-Poss.html">Poss</a></tt><tt>=Yes</tt>|<tt><a href="axm_armtdp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>իմոյ</em></td><td><em>իմոց</em></td></tr>
+  <tr><td><tt><tt><a href="axm_armtdp-feat-PronType.html">PronType</a></tt><tt>=Poss</tt></tt></td><td><em>իմ</em></td><td></td></tr>
+</table>
+
+### `ADJ`
+
+8 <tt><a href="axm_armtdp-pos-ADJ.html">ADJ</a></tt> tokens (2% of all `ADJ` tokens) have a non-empty value of `Number`.
+
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="axm_armtdp-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (8; 100%).
+
+`ADJ` tokens may have the following values of `Number`:
+
+* `Plur` (1; 13% of non-empty `Number`): <em>եռից</em>
+* `Sing` (7; 88% of non-empty `Number`): <em>մեծի, բարեպաշտի, իմաստնո, հանճարաշատին, մտախոհի, սրբոյ</em>
+* `EMPTY` (347): <em>աղէկ, հոռոմ, մեծ, գեղեցիկ, փոքր, սուրբ, սեւ, բազում, բոլոր, միջակ</em>
 
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>VERB --[<tt><a href="axm_armtdp-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (44; 86%),
-<tt>VERB --[<tt><a href="axm_armtdp-dep-conj.html">conj</a></tt>]--> VERB</tt> (39; 87%),
-<tt>VERB --[<tt><a href="axm_armtdp-dep-obl.html">obl</a></tt>]--> NOUN</tt> (27; 56%),
-<tt>VERB --[<tt><a href="axm_armtdp-dep-obj.html">obj</a></tt>]--> NOUN</tt> (19; 58%),
-<tt>NOUN --[<tt><a href="axm_armtdp-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (15; 63%),
-<tt>VERB --[<tt><a href="axm_armtdp-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (14; 78%),
-<tt>VERB --[<tt><a href="axm_armtdp-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (12; 63%),
-<tt>NOUN --[<tt><a href="axm_armtdp-dep-cop.html">cop</a></tt>]--> AUX</tt> (11; 100%),
-<tt>NOUN --[<tt><a href="axm_armtdp-dep-det-poss.html">det:poss</a></tt>]--> DET</tt> (9; 82%),
-<tt>NOUN --[<tt><a href="axm_armtdp-dep-conj.html">conj</a></tt>]--> NOUN</tt> (7; 54%).
+<tt>VERB --[<tt><a href="axm_armtdp-dep-conj.html">conj</a></tt>]--> VERB</tt> (328; 97%),
+<tt>VERB --[<tt><a href="axm_armtdp-dep-obj.html">obj</a></tt>]--> NOUN</tt> (184; 74%),
+<tt>VERB --[<tt><a href="axm_armtdp-dep-obl.html">obl</a></tt>]--> NOUN</tt> (165; 71%),
+<tt>NOUN --[<tt><a href="axm_armtdp-dep-conj.html">conj</a></tt>]--> NOUN</tt> (128; 69%),
+<tt>VERB --[<tt><a href="axm_armtdp-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (104; 75%),
+<tt>NOUN --[<tt><a href="axm_armtdp-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (87; 79%),
+<tt>VERB --[<tt><a href="axm_armtdp-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (71; 100%),
+<tt>NOUN --[<tt><a href="axm_armtdp-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (56; 93%),
+<tt>VERB --[<tt><a href="axm_armtdp-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (50; 76%),
+<tt>VERB --[<tt><a href="axm_armtdp-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (47; 81%).
 

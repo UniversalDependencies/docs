@@ -11,9 +11,9 @@ This relation is universal.
 2469 nodes (2%) are attached to their parents as `cop`.
 
 2465 instances of `cop` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.83110571081409.
+Average distance between parent and child is 2.83070068853787.
 
-The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="fa_seraji-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fa_seraji-pos-AUX.html">AUX</a></tt> (1143; 46% instances), <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fa_seraji-pos-AUX.html">AUX</a></tt> (1090; 44% instances), <tt><a href="fa_seraji-pos-PRON.html">PRON</a></tt>-<tt><a href="fa_seraji-pos-AUX.html">AUX</a></tt> (121; 5% instances), <tt><a href="fa_seraji-pos-ADV.html">ADV</a></tt>-<tt><a href="fa_seraji-pos-AUX.html">AUX</a></tt> (65; 3% instances), <tt><a href="fa_seraji-pos-NUM.html">NUM</a></tt>-<tt><a href="fa_seraji-pos-AUX.html">AUX</a></tt> (27; 1% instances), <tt><a href="fa_seraji-pos-VERB.html">VERB</a></tt>-<tt><a href="fa_seraji-pos-AUX.html">AUX</a></tt> (23; 1% instances).
+The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="fa_seraji-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fa_seraji-pos-AUX.html">AUX</a></tt> (1142; 46% instances), <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fa_seraji-pos-AUX.html">AUX</a></tt> (1091; 44% instances), <tt><a href="fa_seraji-pos-PRON.html">PRON</a></tt>-<tt><a href="fa_seraji-pos-AUX.html">AUX</a></tt> (122; 5% instances), <tt><a href="fa_seraji-pos-ADV.html">ADV</a></tt>-<tt><a href="fa_seraji-pos-AUX.html">AUX</a></tt> (65; 3% instances), <tt><a href="fa_seraji-pos-NUM.html">NUM</a></tt>-<tt><a href="fa_seraji-pos-AUX.html">AUX</a></tt> (27; 1% instances), <tt><a href="fa_seraji-pos-VERB.html">VERB</a></tt>-<tt><a href="fa_seraji-pos-AUX.html">AUX</a></tt> (22; 1% instances).
 
 
 ~~~ conllu

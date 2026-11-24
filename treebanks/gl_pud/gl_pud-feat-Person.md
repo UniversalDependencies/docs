@@ -90,7 +90,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 242 <tt><a href="gl_pud-pos-DET.html">DET</a></tt> tokens (6% of all `DET` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="gl_pud-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (241; 100%), <tt><a href="gl_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (228; 94%), <tt><a href="gl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (177; 73%), <tt><a href="gl_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (133; 55%).
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="gl_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (242; 100%), <tt><a href="gl_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (228; 94%), <tt><a href="gl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (177; 73%), <tt><a href="gl_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (133; 55%).
 
 `DET` tokens may have the following values of `Person`:
 

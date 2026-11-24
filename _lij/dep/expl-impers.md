@@ -15,3 +15,4 @@ The `expl:impers` relation is used for impersonal _se_ in clauses with no syntac
 ~~~
 
 In reflexive passives with a syntactic subject, the clitic takes [expl:pass]() instead.
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:45 CET -->

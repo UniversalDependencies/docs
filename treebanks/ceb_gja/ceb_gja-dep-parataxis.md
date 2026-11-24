@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-6 nodes (0%) are attached to their parents as `parataxis`.
+7 nodes (0%) are attached to their parents as `parataxis`.
 
-6 instances of `parataxis` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.33333333333333.
+7 instances of `parataxis` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.85714285714286.
 
-The following 5 pairs of parts of speech are connected with `parataxis`: <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt> (2; 33% instances), <tt><a href="ceb_gja-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt> (1; 17% instances), <tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt> (1; 17% instances), <tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt>-<tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt> (1; 17% instances), <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (1; 17% instances).
+The following 6 pairs of parts of speech are connected with `parataxis`: <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt> (2; 29% instances), <tt><a href="ceb_gja-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt> (1; 14% instances), <tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt> (1; 14% instances), <tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt>-<tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt> (1; 14% instances), <tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (1; 14% instances), <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (1; 14% instances).
 
 
 ~~~ conllu
@@ -54,7 +54,7 @@ The following 5 pairs of parts of speech are connected with `parataxis`: <tt><a 
 7	ingon	ingon	VERB	_	_	1	parataxis	_	Gloss=said
 8	pa	pa	PART	_	_	7	advmod	_	_
 9	sa	sa	ADP	_	Case=Dat	11	case	_	Gloss=by.the
-10	mga	mga	DET	_	Number=Plur	11	det	_	Gloss=PLUR
+10	mga	mga	DET	_	Number=Plur|PronType=Ind	11	det	_	Gloss=PLUR
 11	tiguwang	tiguwang	NOUN	_	_	7	obj	_	Gloss=elders|SpaceAfter=No
 12	.	.	PUNCT	_	_	7	punct	_	Gloss=.
 

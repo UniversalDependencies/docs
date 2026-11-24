@@ -49,7 +49,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (65; 100% of non-empty `NumType`): <em>երրորդ, երկրորդ, երիր, չորրորդ, վեցերորդ, երրորդի, երկրորդի, եւթներորդ, իններորդ, մետասաներորդ</em>
-* `EMPTY` (3007): <em>մեծ, առաջին, այլ, բարի, միւս, չար, ճշմարիտ, այղ, սուրբ, արժան</em>
+* `EMPTY` (3000): <em>մեծ, առաջին, այլ, բարի, միւս, չար, ճշմարիտ, այղ, սուրբ, արժան</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (12) occur only with one value of `NumType`.
 
@@ -62,7 +62,7 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 `ADV` tokens may have the following values of `NumType`:
 
 * `Mult` (22; 100% of non-empty `NumType`): <em>երիցս, կրկին, հարիւրապատիկ, երկիցս, եւթանասնակին</em>
-* `EMPTY` (3304): <em>վերայ, որպէս, եւս, արդ, ամէն, յայնժամ, անդ, ապա, ուր, դարձեալ</em>
+* `EMPTY` (3315): <em>վերայ, որպէս, եւս, արդ, ամէն, յայնժամ, անդ, ապա, ուր, դարձեալ</em>
 
 ## Relations with Agreement in `NumType`
 
@@ -71,8 +71,8 @@ The 10 most frequent relations where parent and child node agree in `NumType`:
 <tt>NUM --[<tt><a href="xcl_caval-dep-compound.html">compound</a></tt>]--> NUM</tt> (18; 100%),
 <tt>NUM --[<tt><a href="xcl_caval-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (13; 100%),
 <tt>NUM --[<tt><a href="xcl_caval-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (9; 100%),
-<tt>ADJ --[<tt><a href="xcl_caval-dep-conj.html">conj</a></tt>]--> ADJ</tt> (6; 67%),
 <tt>NUM --[<tt><a href="xcl_caval-dep-orphan.html">orphan</a></tt>]--> NUM</tt> (6; 100%),
+<tt>ADJ --[<tt><a href="xcl_caval-dep-conj.html">conj</a></tt>]--> ADJ</tt> (5; 63%),
 <tt>NUM --[<tt><a href="xcl_caval-dep-compound-redup.html">compound:redup</a></tt>]--> NUM</tt> (4; 100%),
 <tt>NUM --[<tt><a href="xcl_caval-dep-advcl.html">advcl</a></tt>]--> NUM</tt> (1; 100%).
 

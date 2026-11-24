@@ -13,13 +13,13 @@ The 10 most frequent `X` lemmas: <em>,, Cowan, Donovan, Watters, _, and</em>
 
 The 10 most frequent `X` types:  <em>,, Cowan, Donovan, Visitors, Watters, and</em>
 
-The 10 most frequent ambiguous lemmas: <em>,</em> (<tt><a href="nmf_suansu-pos-PUNCT.html">PUNCT</a></tt> 145, <tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="nmf_suansu-pos-X.html">X</a></tt> 1), <em>Cowan</em> (<tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="nmf_suansu-pos-X.html">X</a></tt> 1), <em>Donovan</em> (<tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt> 5, <tt><a href="nmf_suansu-pos-X.html">X</a></tt> 1), <em>Watters</em> (<tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="nmf_suansu-pos-X.html">X</a></tt> 1), <em>and</em> (<tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="nmf_suansu-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>,</em> (<tt><a href="nmf_suansu-pos-PUNCT.html">PUNCT</a></tt> 142, <tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="nmf_suansu-pos-X.html">X</a></tt> 1), <em>Cowan</em> (<tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="nmf_suansu-pos-X.html">X</a></tt> 1), <em>Donovan</em> (<tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt> 5, <tt><a href="nmf_suansu-pos-X.html">X</a></tt> 1), <em>Watters</em> (<tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="nmf_suansu-pos-X.html">X</a></tt> 1), <em>and</em> (<tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="nmf_suansu-pos-X.html">X</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>,</em> (<tt><a href="nmf_suansu-pos-PUNCT.html">PUNCT</a></tt> 145, <tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="nmf_suansu-pos-X.html">X</a></tt> 1), <em>Cowan</em> (<tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="nmf_suansu-pos-X.html">X</a></tt> 1), <em>Donovan</em> (<tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="nmf_suansu-pos-X.html">X</a></tt> 1), <em>Watters</em> (<tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="nmf_suansu-pos-X.html">X</a></tt> 1), <em>and</em> (<tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="nmf_suansu-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>,</em> (<tt><a href="nmf_suansu-pos-PUNCT.html">PUNCT</a></tt> 142, <tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="nmf_suansu-pos-X.html">X</a></tt> 1), <em>Cowan</em> (<tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="nmf_suansu-pos-X.html">X</a></tt> 1), <em>Donovan</em> (<tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="nmf_suansu-pos-X.html">X</a></tt> 1), <em>Watters</em> (<tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="nmf_suansu-pos-X.html">X</a></tt> 1), <em>and</em> (<tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="nmf_suansu-pos-X.html">X</a></tt> 1)
 
 
 * <em>,</em>
-  * <tt><a href="nmf_suansu-pos-PUNCT.html">PUNCT</a></tt> 145: <em>Garhe <b>,</b> ava putrehndi chale nahnvada</em>
+  * <tt><a href="nmf_suansu-pos-PUNCT.html">PUNCT</a></tt> 142: <em>Garhe <b>,</b> ava putrehndi chale nahnvada</em>
   * <tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt> 1: <em>A Watters <b>,</b> Cowan and Donovanva partner ska .</em>
   * <tt><a href="nmf_suansu-pos-X.html">X</a></tt> 1: <em>Watters <b>,</b> Cowan and Donovan .</em>
 * <em>Cowan</em>
@@ -38,7 +38,7 @@ The 10 most frequent ambiguous types:  <em>,</em> (<tt><a href="nmf_suansu-pos-P
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.348066).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.350446).
 
 The 1st highest number of forms (1) was observed with the lemma “,”: <em>,</em>.
 

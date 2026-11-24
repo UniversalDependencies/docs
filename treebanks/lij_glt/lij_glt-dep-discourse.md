@@ -11,9 +11,9 @@ This relation is universal.
 23 nodes (0%) are attached to their parents as `discourse`.
 
 19 instances of `discourse` (83%) are right-to-left (child precedes parent).
-Average distance between parent and child is 7.60869565217391.
+Average distance between parent and child is 7.52173913043478.
 
-The following 9 pairs of parts of speech are connected with `discourse`: <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-INTJ.html">INTJ</a></tt> (12; 52% instances), <tt><a href="lij_glt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="lij_glt-pos-INTJ.html">INTJ</a></tt> (2; 9% instances), <tt><a href="lij_glt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lij_glt-pos-INTJ.html">INTJ</a></tt> (2; 9% instances), <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-PRON.html">PRON</a></tt> (2; 9% instances), <tt><a href="lij_glt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lij_glt-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="lij_glt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lij_glt-pos-PROPN.html">PROPN</a></tt> (1; 4% instances), <tt><a href="lij_glt-pos-PRON.html">PRON</a></tt>-<tt><a href="lij_glt-pos-INTJ.html">INTJ</a></tt> (1; 4% instances), <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-ADP.html">ADP</a></tt> (1; 4% instances), <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-VERB.html">VERB</a></tt> (1; 4% instances).
+The following 9 pairs of parts of speech are connected with `discourse`: <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-INTJ.html">INTJ</a></tt> (11; 48% instances), <tt><a href="lij_glt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="lij_glt-pos-INTJ.html">INTJ</a></tt> (2; 9% instances), <tt><a href="lij_glt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lij_glt-pos-INTJ.html">INTJ</a></tt> (2; 9% instances), <tt><a href="lij_glt-pos-PRON.html">PRON</a></tt>-<tt><a href="lij_glt-pos-INTJ.html">INTJ</a></tt> (2; 9% instances), <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-PRON.html">PRON</a></tt> (2; 9% instances), <tt><a href="lij_glt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lij_glt-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="lij_glt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lij_glt-pos-PROPN.html">PROPN</a></tt> (1; 4% instances), <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-ADP.html">ADP</a></tt> (1; 4% instances), <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-VERB.html">VERB</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -24,7 +24,7 @@ The following 9 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 4 1 discourse	color:blue
 1	Diascoa	diascoa	INTJ	_	_	4	discourse	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	_
-3	gh'	ghe	PRON	_	PronType=Dem	4	expl:pv	_	SpaceAfter=No
+3	gh'	ghe	PRON	_	PronType=Dem	4	expl	_	SpaceAfter=No
 4	ò	avei	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	cheu	cheu	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
@@ -72,8 +72,8 @@ The following 9 pairs of parts of speech are connected with `discourse`: <tt><a 
 12	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	14	nsubj	_	_
 13	ò	avei	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	aux	_	_
 14	dito	dî	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	parataxis	_	_
-15	San	santo	ADJ	_	Gender=Masc|Number=Sing	14	obj	_	_
-16	Frutoso	Frutoso	PROPN	_	Gender=Masc|Number=Sing	15	flat	_	SpaceAfter=No
+15	San	santo	ADJ	_	Gender=Masc|Number=Sing	16	amod	_	_
+16	Frutoso	Frutoso	PROPN	_	Gender=Masc|Number=Sing	14	obj	_	SpaceAfter=No
 17	!	!	PUNCT	_	_	14	punct	_	SpacesAfter=\n
 
 ~~~

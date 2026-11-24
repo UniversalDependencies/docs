@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.11 release
 The following people have contributed to making this treebank part of UD: Yixuan Li, Kim Gerdes, Bruno Guillaume.
 
 Repository: [UD_Chinese-PatentChar](https://github.com/UniversalDependencies/UD_Chinese-PatentChar)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udzh_patentchar218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udzh_patentchar219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -48,7 +48,7 @@ A treebank of Chinese patent application texts collected from the Chinese patent
 The sentences are randomly selected from the patent claims of the IPC section "G" from November 2017 to September 2018.
 
 
-The syntactic analysis is originally done in SUD on the character level under the name SUD_Chinese-PatentChar. See SUD Guidelines : https://surfacesyntacticud.github.io/guidelines/u/
+The syntactic analysis is originally done in SUD on the character level under the name SUD_Chinese-PatentChar. See SUD Guidelines: https://docs.surfacesyntacticud.org/guidelines/universal/
 
 ## Acknowledgments
 
@@ -180,7 +180,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (185)</li>
+      <li>VERB--NOUN (184)</li>
     </ul>
   </li>
 </ul>
@@ -188,9 +188,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (229)</li>
-      <li>VERB--NOUN-ADP(_) (35)</li>
-      <li>VERB--PRON-ADP(_) (1)</li>
+      <li>VERB--NOUN (253)</li>
+      <li>VERB--NOUN-ADP(_) (2)</li>
     </ul>
   </li>
 </ul>

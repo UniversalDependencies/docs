@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-317 nodes (1%) are attached to their parents as `cop`.
+319 nodes (2%) are attached to their parents as `cop`.
 
-310 instances of `cop` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.21766561514196.
+312 instances of `cop` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.2257053291536.
 
-The following 11 pairs of parts of speech are connected with `cop`: <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (137; 43% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (131; 41% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (16; 5% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (8; 3% instances), <tt><a href="en_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (8; 3% instances), <tt><a href="en_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (7; 2% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (4; 1% instances), <tt><a href="en_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="en_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-DET.html">DET</a></tt>-<tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-X.html">X</a></tt>-<tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `cop`: <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (140; 44% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (131; 41% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (16; 5% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (8; 3% instances), <tt><a href="en_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (8; 3% instances), <tt><a href="en_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (7; 2% instances), <tt><a href="en_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="en_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-DET.html">DET</a></tt>-<tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-X.html">X</a></tt>-<tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 11 pairs of parts of speech are connected with `cop`: <tt><a href=
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 5 cop	color:blue
-1	Today	today	NOUN	NN	Number=Sing	8	obl:unmarked	8:obl:unmarked	TemporalNPAdjunct=Yes|SpaceAfter=No
+1	Today	today	NOUN	NN	Number=Sing	8	obl:unmarked	8:obl:unmarked	SpaceAfter=No|TemporalNPAdjunct=Yes
 2	,	,	PUNCT	,	_	8	punct	8:punct	_
 3	Khanzir	Khanzir	PROPN	NNP	Number=Sing	8	nsubj	8:nsubj	_
 4	may	may	AUX	MD	VerbForm=Fin	8	aux	8:aux	_
@@ -66,7 +66,7 @@ The following 11 pairs of parts of speech are connected with `cop`: <tt><a href=
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 cop	color:blue
-1	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	_
+1	My	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	_
 2	next	next	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
 3	stop	stop	NOUN	NN	Number=Sing	5	nsubj	5:nsubj	_
 4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	5:cop	_

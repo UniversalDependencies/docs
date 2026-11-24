@@ -7,13 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Russian-GSD: Relations: `obl:agent`
 
 This relation is a language-specific subtype of <tt><a href="ru_gsd-dep-obl.html">obl</a></tt>.
+There are also 1 other language-specific subtypes of `obl`: <tt><a href="ru_gsd-dep-obl-tmod.html">obl:tmod</a></tt>.
 
-256 nodes (0%) are attached to their parents as `obl:agent`.
+244 nodes (0%) are attached to their parents as `obl:agent`.
 
-234 instances of `obl:agent` (91%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.15234375.
+222 instances of `obl:agent` (91%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.15573770491803.
 
-The following 7 pairs of parts of speech are connected with `obl:agent`: <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (168; 66% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (44; 17% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> (21; 8% instances), <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (11; 4% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-X.html">X</a></tt> (5; 2% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (4; 2% instances), <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (3; 1% instances).
+The following 6 pairs of parts of speech are connected with `obl:agent`: <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (169; 69% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (44; 18% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> (21; 9% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-X.html">X</a></tt> (5; 2% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (4; 2% instances), <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

@@ -8,7 +8,8 @@ udver: '2'
 
 <!--
 DRAFT written from the annotation files diccionario-huv.*.conllu (13 files, 7 annotators, 696 distinct sentences, 249 marked finished)
-and from Herrera Castro (2016), the thesis on the noun phrase of San Mateo del Mar Huave ("Herrera 2016" below).
+and from Herrera Castro (2016), the thesis on the noun phrase of San Mateo del Mar Huave ("Herrera 2016" below),
+and Herrera Castro (2010), the thesis on alignment and the verb phrase (verbal prefixes for person and tense-aspect-mood).
 Comments like this one, "CHECK:", mark decisions where the annotators disagree or where the thesis analyses something differently.
 Remove all comments before submitting. Counts are from the most complete version of each sentence unless stated otherwise.
 -->
@@ -25,7 +26,10 @@ their Spanish translations) from the SIL-produced *Diccionario Huave de San Mate
   * **The preposition _tiül_ + a noun**, written as one word with the preposition reduced to _ti-_:
     _tikambaj_ = _ti_ (lemma _tiül_, ADP) + _kambaj_ (NOUN) "in the town"; also _tikorrül_, _timanchiük_, _timüx_, _tixiül_, _titiiüd_, _tindek_.
   * **The locative copula _al_ + _tiül_**: _altiül_ = _al_ (AUX) + _tiül_ (ADP), "there is / has"; also _altikambaj_ = _al_ + _ti_ + _kambaj_.
-  * **The aspectual proclitic _la_** (punctual, "already") + the next word: _landoj_ = _la_ + _ndoj_, _lango_ = _la_ + _ngo_.
+  * **The punctual aspect marker _la_** ("already") + a following word that is not a verb: _landoj_ = _la_ + _ndoj_, _lango_ = _la_ + _ngo_.
+    On verbs, _la-_ is an inflectional prefix (Herrera Castro 2010) and is not split: _lajntsop_ "it already sprouted".
+    <!-- CHECK: the analyser treats _ndoj_ as an adverb, but some annotators tagged it VERB. -->
+    The progressive _te(a)-_ is always a verbal prefix and is never split.
   * **Final clitics _-e_ and _-a_**, tagged PART: _ngome_ = _ngom_ + _e_, _ngana_ = _ngan_ + _a_, _leawa_ = _leaw_ + _a_.
 * <!-- CHECK: --> The annotation files also carry `Error=TokenLevel` in MISC on many of these tokens.
 * Spanish loanwords are tokenised like native words. See the note on spelling below.
@@ -42,7 +46,7 @@ their Spanish translations) from the SIL-produced *Diccionario Huave de San Mate
   Deverbal nouns such as _nendok_ "fisherman" are NOUN with `VerbForm=Vnoun`. Personal names are PROPN (with `Gender`).
 * **VERB.** Verbs inflect by prefixes and suffixes for person, number, tense, aspect and mood. The lemma is the bare root without those
   (_ajlüy_ → _jlüy_, _akwiür_ → _kwiür_).
-* **AUX.** The locative copula _al_ ("be located, there is"; Herrera 2016 glosses it COP.LOC) is AUX, as is the aspectual proclitic _la_.
+* **AUX.** The locative copula _al_ ("be located, there is"; Herrera 2016 glosses it COP.LOC) is AUX, as is the punctual marker _la_ when it is split off from a following non-verb (see above).
   <!-- CHECK: _ndom_ ("can, know how to") is tagged PART, AUX and VERB by different annotators; _ngo_ "not" is ADV in 142 cases but AUX in 6. No decision yet. -->
 * **PART.** Interrogative clitics _-e_ and _-a_ (_ngome_, _ngana_), with `PronType=Int`, and the evidential _chük_ (`Evident=Nfh`, one token in these data;
   it is very frequent in the story collections). <!-- CHECK: the story corpus has not been annotated yet. -->
@@ -66,7 +70,8 @@ their Spanish translations) from the SIL-produced *Diccionario Huave de San Mate
   noun or pronoun (_mikwal nej_ "his/her child"); it carries no feature. <!-- CHECK: the meaning of _mi-_ is not settled. -->
   Plural is rarely marked on nouns in the data (3 tokens). `Number` (mostly `Sing`, also `Plur` and `Dual`) is used on verbs and pronouns.
 * **Verbs.** Subject person and number: `Person`, `Number` (also `Number=Dual`, and `Clusivity=Ex|In` for first person plural and dual).
-  `Tense=Pres|Past`, `Aspect=Prog` (the progressive _te(a)-_) and `Aspect=Punt` (_la_ "already"), `Mood=Sub` and `Mood=Irr`.
+  `Tense=Pres|Past`, `Aspect=Prog` (the progressive prefix _te-_ / _tea-_ / _t-_) and `Aspect=Punt` (the punctual prefix _la-_ / _l-_ "already"),
+  following Herrera Castro (2010); see [Aspect](huv-feat/Aspect). `Mood=Sub` and `Mood=Irr`.
   `VerbForm=Fin|Vnoun`. `Voice=Caus` for causatives (3 tokens). `Subcat=Tran|Intr` marks transitivity.
   <!-- CHECK: Subcat is not a standard UD feature; consider Valency or the lexicon. Reflexive and possessive are written Reflexive=Yes and Possessive=Yes in MISC; the UD features are Reflex=Yes and Poss=Yes in FEATS. -->
 * **Pronouns.** `PronType=Prs|Dem|Int`, `Person`, `Number`, `Clusivity`.

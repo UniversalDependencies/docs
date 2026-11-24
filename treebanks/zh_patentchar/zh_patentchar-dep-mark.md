@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-188 nodes (4%) are attached to their parents as `mark`.
+218 nodes (5%) are attached to their parents as `mark`.
 
-107 instances of `mark` (57%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.23936170212766.
+113 instances of `mark` (52%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.59633027522936.
 
-The following 6 pairs of parts of speech are connected with `mark`: <tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_patentchar-pos-PART.html">PART</a></tt> (109; 58% instances), <tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_patentchar-pos-ADP.html">ADP</a></tt> (73; 39% instances), <tt><a href="zh_patentchar-pos-PART.html">PART</a></tt>-<tt><a href="zh_patentchar-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_patentchar-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="zh_patentchar-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_patentchar-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="zh_patentchar-pos-AUX.html">AUX</a></tt>-<tt><a href="zh_patentchar-pos-PART.html">PART</a></tt> (1; 1% instances).
+The following 5 pairs of parts of speech are connected with `mark`: <tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_patentchar-pos-PART.html">PART</a></tt> (139; 64% instances), <tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_patentchar-pos-ADP.html">ADP</a></tt> (74; 34% instances), <tt><a href="zh_patentchar-pos-PART.html">PART</a></tt>-<tt><a href="zh_patentchar-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_patentchar-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="zh_patentchar-pos-AUX.html">AUX</a></tt>-<tt><a href="zh_patentchar-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

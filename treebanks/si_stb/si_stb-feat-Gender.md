@@ -62,6 +62,7 @@ The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="si_stb-dep-dep.html">dep</a></tt>]--> NOUN</tt> (5; 83%),
 <tt>NOUN --[<tt><a href="si_stb-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (4; 80%),
 <tt>NOUN --[<tt><a href="si_stb-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (3; 60%),
+<tt>NOUN --[<tt><a href="si_stb-dep-obl-lmod.html">obl:lmod</a></tt>]--> NOUN</tt> (2; 67%),
 <tt>NOUN --[<tt><a href="si_stb-dep-case.html">case</a></tt>]--> NOUN</tt> (1; 100%),
 <tt>NOUN --[<tt><a href="si_stb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1; 100%),
 <tt>PROPN --[<tt><a href="si_stb-dep-conj.html">conj</a></tt>]--> PROPN</tt> (1; 100%).

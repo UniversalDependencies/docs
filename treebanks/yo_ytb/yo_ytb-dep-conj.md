@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-392 nodes (5%) are attached to their parents as `conj`.
+397 nodes (5%) are attached to their parents as `conj`.
 
-392 instances of `conj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.43367346938776.
+397 instances of `conj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.48866498740554.
 
-The following 32 pairs of parts of speech are connected with `conj`: <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (185; 47% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (79; 20% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (31; 8% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (25; 6% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (9; 2% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (7; 2% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (5; 1% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (4; 1% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt>-<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="yo_ytb-pos-DET.html">DET</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt>-<tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt>-<tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt>-<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt>-<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 30 pairs of parts of speech are connected with `conj`: <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (187; 47% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (80; 20% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (31; 8% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (25; 6% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (9; 2% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (8; 2% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt>-<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (5; 1% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (4; 1% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="yo_ytb-pos-DET.html">DET</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt>-<tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt>-<tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt>-<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -53,7 +53,7 @@ The following 32 pairs of parts of speech are connected with `conj`: <tt><a href
 1	Ní	ní	ADP	_	_	2	case	_	Gloss=in|Ref=GEN_1.1
 2	ìbẹ̀rẹ̀	ìbẹ̀rẹ̀	NOUN	_	_	6	obl	_	Gloss=beginning|Ref=GEN_1.1
 3	ohun	ohun	NOUN	_	_	5	nmod	_	Gloss=things|Ref=GEN_1.1
-4	gbogbo	gbogbo	DET	_	_	5	det	_	Gloss=all|Ref=GEN_1.1
+4	gbogbo	gbogbo	DET	_	PronType=Tot	5	det	_	Gloss=all|Ref=GEN_1.1
 5	Ọlọ́run	ọlọ́run	NOUN	_	_	6	nsubj	_	Gloss=god|Ref=GEN_1.1
 6	dá	dá	VERB	_	_	0	root	_	Gloss=made|Ref=GEN_1.1
 7	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	8	det	_	Gloss=the|Ref=GEN_1.1
@@ -71,17 +71,17 @@ The following 32 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 11 conj	color:blue
-1	O	o	DET	_	_	2	det	_	_
+1	O	o	DET	_	PronType=Ind	2	det	_	_
 2	órúkọ	órúkọ	NOUN	_	_	4	nsubj	_	_
 3	dabí	dabí	ADV	_	_	4	advmod	_	_
 4	fèrèsé	fèrèsé	VERB	_	_	0	root	_	_
 5	tí	tí	PRON	_	PronType=Rel	7	nsubj	_	_
 6	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	7	expl	_	_
 7	fi	fi	VERB	_	_	4	conj	_	_
-8	ÀṢÀ,	Àṣà,	NOUN	_	_	7	obj	_	_
-9	Èsìn	Èsìn	ADV	_	_	7	advmod	_	SpaceAfter=No
+8	ÀṢÀ,	àṣà,	NOUN	_	_	7	obj	_	_
+9	Èsìn	èsìn	ADV	_	_	7	advmod	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	11	punct	_	_
-11	Iṣé	Iṣé	NOUN	_	_	7	conj	_	_
+11	Iṣé	iṣé	NOUN	_	_	7	conj	_	_
 12	àti	àti	CCONJ	_	_	13	cc	_	_
 13	ìgbàgbọ́	ìgbàgbọ́	NOUN	_	_	11	conj	_	_
 14	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	15	det	_	_

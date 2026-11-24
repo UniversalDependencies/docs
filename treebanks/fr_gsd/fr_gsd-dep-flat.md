@@ -35,7 +35,7 @@ The following 2 pairs of parts of speech are connected with `flat`: <tt><a href=
 10	en	en	ADP	_	_	12	case	_	_
 11	grand	grand	ADJ	_	Gender=Masc|Number=Sing	12	amod	_	_
 12	format	format	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	Exponence[Gender]=Inherent
-13	cartonné	cartonner	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	5	acl	_	SpaceAfter=No|Tense[denom]=Past
+13	cartonné	cartonner	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	5	acl	_	SpaceAfter=No|Status[Tense]=Denom
 14	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
@@ -52,7 +52,7 @@ The following 2 pairs of parts of speech are connected with `flat`: <tt><a href=
 3	Dagong	Dagong	PROPN	_	_	2	appos	_	_
 4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux:pass	_	_
 5	notamment	notamment	ADV	_	_	6	advmod	_	_
-6	connue	connaître	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	Tense[denom]=Past
+6	connue	connaître	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	Status[Tense]=Denom
 7	pour	pour	ADP	_	_	8	mark	_	_
 8	attribuer	attribuer	VERB	_	VerbForm=Inf	6	xcomp	_	Subject=SubjRaising
 9	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
@@ -69,7 +69,7 @@ The following 2 pairs of parts of speech are connected with `flat`: <tt><a href=
 20	AA	AA	SYM	_	ExtPos=PROPN	10	appos	_	_
 21	»	»	PUNCT	_	_	20	punct	_	SpaceAfter=No
 22	,	,	PUNCT	_	_	23	punct	_	_
-23	abaissée	abaisser	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	20	acl	_	Tense[denom]=Past
+23	abaissée	abaisser	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	20	acl	_	Status[Tense]=Denom
 24	à	à	ADP	_	_	26	case	_	_
 25	«	«	PUNCT	_	_	26	punct	_	_
 26	A	A	SYM	_	ExtPos=PROPN	23	obl:arg	_	_
@@ -77,7 +77,7 @@ The following 2 pairs of parts of speech are connected with `flat`: <tt><a href=
 28	»	»	PUNCT	_	_	26	punct	_	_
 29	en	en	ADP	_	_	30	case	_	_
 30	juillet	juillet	NOUN	_	Gender=Masc|Number=Sing	23	obl:mod	_	Exponence[Gender]=Inherent
-31	2010	2010	NUM	_	Number=Sing	30	nmod	_	Exponence[Number]=Inherent|SpaceAfter=No
+31	2010	2010	NUM	_	ExtPos=PROPN|Number=Sing	30	nmod	_	Exponence[Number]=Inherent|SpaceAfter=No
 32	,	,	PUNCT	_	_	36	punct	_	_
 33	puis	puis	CCONJ	_	_	36	cc	_	_
 34	à	à	ADP	_	_	36	case	_	_
@@ -85,13 +85,13 @@ The following 2 pairs of parts of speech are connected with `flat`: <tt><a href=
 36	A	A	SYM	_	ExtPos=PROPN	23	conj	_	_
 37	»	»	PUNCT	_	_	36	punct	_	_
 38	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	39	det	_	_
-39	3	3	NUM	_	Number=Sing	36	orphan	_	Exponence[Number]=Inherent
+39	3	3	NUM	_	ExtPos=PROPN|Number=Sing	36	orphan	_	Exponence[Number]=Inherent
 40	août	août	NOUN	_	Gender=Masc|Number=Sing	39	nmod	_	Exponence[Gender]=Inherent
-41	2011	2011	NUM	_	Number=Sing	40	nmod	_	Exponence[Number]=Inherent|SpaceAfter=No
+41	2011	2011	NUM	_	ExtPos=PROPN|Number=Sing	40	nmod	_	Exponence[Number]=Inherent|SpaceAfter=No
 42	)	)	PUNCT	_	_	20	punct	_	_
 43	que	que	SCONJ	_	_	46	case	_	_
 44	ses	son	DET	_	Number=Plur|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	46	det	_	_
-45	3	3	NUM	_	Number=Plur	46	nummod	_	Exponence[Number]=Inherent
+45	3	3	NUM	_	ExtPos=PRON|Number=Plur	46	nmod	_	Exponence[Number]=Inherent
 46	concurrentes	concurrent	ADJ	_	Gender=Fem|Number=Plur	11	obj	_	_
 47	(	(	PUNCT	_	_	48	punct	_	SpaceAfter=No
 48	AAA	AAA	SYM	_	ExtPos=PROPN	46	appos	_	SpaceAfter=No
@@ -104,9 +104,9 @@ The following 2 pairs of parts of speech are connected with `flat`: <tt><a href=
 55	&	&	SYM	_	_	54	flat:name	_	_
 56	Poor's	Poor's	PROPN	_	_	54	flat:name	_	_
 57	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	58	det	_	_
-58	5	5	NUM	_	Number=Sing	48	nmod	_	Exponence[Number]=Inherent
+58	5	5	NUM	_	ExtPos=PROPN|Number=Sing	48	nmod	_	Exponence[Number]=Inherent
 59	août	août	NOUN	_	Gender=Masc|Number=Sing	58	nmod	_	Exponence[Gender]=Inherent
-60	2011	2011	NUM	_	Number=Sing	59	nmod	_	Exponence[Number]=Inherent|SpaceAfter=No
+60	2011	2011	NUM	_	ExtPos=PROPN|Number=Sing	59	nmod	_	Exponence[Number]=Inherent|SpaceAfter=No
 61	)	)	PUNCT	_	_	48	punct	_	SpaceAfter=No
 62	.	.	PUNCT	_	_	6	punct	_	_
 

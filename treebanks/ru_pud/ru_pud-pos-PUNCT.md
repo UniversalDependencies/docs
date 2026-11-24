@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.496727).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.499132).
 
 The 1st highest number of forms (1) was observed with the lemma “'”: <em>'</em>.
 
@@ -36,7 +36,7 @@ The 3rd highest number of forms (1) was observed with the lemma “)”: <em>)</
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="ru_pud-dep-punct.html">punct</a></tt> (2977; 100% instances)
 
-Parents of `PUNCT` nodes belong to 13 different parts of speech: <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (1883; 63% instances), <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (514; 17% instances), <tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> (178; 6% instances), <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt> (170; 6% instances), <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> (76; 3% instances), <tt><a href="ru_pud-pos-X.html">X</a></tt> (43; 1% instances), <tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (36; 1% instances), <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> (29; 1% instances), <tt><a href="ru_pud-pos-NUM.html">NUM</a></tt> (20; 1% instances), <tt><a href="ru_pud-pos-ADP.html">ADP</a></tt> (13; 0% instances), <tt><a href="ru_pud-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="ru_pud-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="ru_pud-pos-PART.html">PART</a></tt> (4; 0% instances)
+Parents of `PUNCT` nodes belong to 13 different parts of speech: <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (1884; 63% instances), <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (514; 17% instances), <tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> (178; 6% instances), <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt> (139; 5% instances), <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> (76; 3% instances), <tt><a href="ru_pud-pos-X.html">X</a></tt> (75; 3% instances), <tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (34; 1% instances), <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> (29; 1% instances), <tt><a href="ru_pud-pos-NUM.html">NUM</a></tt> (20; 1% instances), <tt><a href="ru_pud-pos-ADP.html">ADP</a></tt> (13; 0% instances), <tt><a href="ru_pud-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="ru_pud-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="ru_pud-pos-PART.html">PART</a></tt> (4; 0% instances)
 
 2977 (100%) `PUNCT` nodes are leaves.
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-7885 nodes (6%) are attached to their parents as `aux`.
+7888 nodes (6%) are attached to their parents as `aux`.
 
-7871 instances of `aux` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.34876347495244.
+7874 instances of `aux` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.34888438133874.
 
-The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt>-<tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt> (7879; 100% instances), <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt> (3; 0% instances).
+The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt>-<tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt> (7882; 100% instances), <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt> (3; 0% instances).
 
 
 ~~~ conllu

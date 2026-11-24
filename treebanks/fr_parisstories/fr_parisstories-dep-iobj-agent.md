@@ -22,20 +22,20 @@ The following 1 pairs of parts of speech are connected with `iobj:agent`: <tt><a
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 9 iobj:agent	color:blue
-1	et	et	CCONJ	_	_	7	cc	_	AlignBegin=80715|AlignEnd=80880
-2	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	AlignBegin=80880|AlignEnd=81045
-3	pêche	pêche	NOUN	_	Gender=Fem|Number=Sing	7	dislocated:obj	_	AlignBegin=81045|AlignEnd=81210|Exponence[Gender]=Inherent|Exponence[Number]=Absent|SpaceAfter=No
-4	,	,	PUNCT	_	_	3	punct	_	AlignBegin=81210|AlignEnd=81210
-5	on	on	PRON	_	Case=Nom|Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	7	nsubj	_	AlignBegin=81210|AlignEnd=81337|Exponence[Gender]=Absent|Exponence[Number]=Inherent|Exponence[Person]=Inherent
-6	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux:tense	_	AlignBegin=81337|AlignEnd=81464
-7	essayé	essayer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	AlignBegin=81464|AlignEnd=81590|Exponence[Gender]=Absent|Exponence[Number]=Absent|PastPartHasSpokenGender=NotInThisDialect|Tense[denom]=Past
-8	de	de	ADP	_	_	11	mark	_	AlignBegin=81590|AlignEnd=81717
-9	lui	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	iobj:agent	_	AlignBegin=81717|AlignEnd=81844|Exponence[Person]=Inherent
-10	faire	faire	AUX	_	VerbForm=Inf	11	aux:caus	_	AlignBegin=81844|AlignEnd=81971|Subject=SubjRaising
-11	manger	manger	VERB	_	VerbForm=Inf	7	xcomp	_	AlignBegin=81971|AlignEnd=82097|Subject=ObjRaising
-12	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	AlignBegin=82097|AlignEnd=82224
-13	pêche	pêche	NOUN	_	Gender=Fem|Number=Sing	11	obj	_	AlignBegin=82224|AlignEnd=82351|Exponence[Gender]=Inherent|Exponence[Number]=Absent|SpaceAfter=No
-14	.	.	PUNCT	_	_	7	punct	_	AlignBegin=82351|AlignEnd=82351
+1	et	et	CCONJ	_	_	7	cc	_	WordAlignmentBegin=80715|WordAlignmentEnd=80880
+2	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	WordAlignmentBegin=80880|WordAlignmentEnd=81045
+3	pêche	pêche	NOUN	_	Gender=Fem|Number=Sing	7	dislocated:obj	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent|SpaceAfter=No|WordAlignmentBegin=81045|WordAlignmentEnd=81210
+4	,	,	PUNCT	_	_	3	punct	_	WordAlignmentBegin=81210|WordAlignmentEnd=81210
+5	on	on	PRON	_	Case=Nom|Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	7	nsubj	_	Exponence[Gender]=Absent|Exponence[Number]=Inherent|Exponence[Person]=Inherent|WordAlignmentBegin=81210|WordAlignmentEnd=81337
+6	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux:tense	_	WordAlignmentBegin=81337|WordAlignmentEnd=81464
+7	essayé	essayer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	Exponence[Gender]=Absent|Exponence[Number]=Absent|PastPartHasSpokenGender=NotInThisDialect|Status[Tense]=Denom|WordAlignmentBegin=81464|WordAlignmentEnd=81590
+8	de	de	ADP	_	_	11	mark	_	WordAlignmentBegin=81590|WordAlignmentEnd=81717
+9	lui	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	iobj:agent	_	Exponence[Person]=Inherent|WordAlignmentBegin=81717|WordAlignmentEnd=81844
+10	faire	faire	AUX	_	VerbForm=Inf	11	aux:caus	_	Subject=SubjRaising|WordAlignmentBegin=81844|WordAlignmentEnd=81971
+11	manger	manger	VERB	_	VerbForm=Inf	7	xcomp	_	Subject=ObjRaising|WordAlignmentBegin=81971|WordAlignmentEnd=82097
+12	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	WordAlignmentBegin=82097|WordAlignmentEnd=82224
+13	pêche	pêche	NOUN	_	Gender=Fem|Number=Sing	11	obj	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent|SpaceAfter=No|WordAlignmentBegin=82224|WordAlignmentEnd=82351
+14	.	.	PUNCT	_	_	7	punct	_	WordAlignmentBegin=82351|WordAlignmentEnd=82351
 
 ~~~
 

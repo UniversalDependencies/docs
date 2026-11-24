@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>et</em> (<tt><a href="et_edt-pos-SCON
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.342222 (the average of all parts of speech is 1.914465).
+The form / lemma ratio of `X` is 1.342222 (the average of all parts of speech is 1.914221).
 
 The 1st highest number of forms (77) was observed with the lemma “_”: <em>'is, -1,5, -2, -3-rasvhapete, -45,8, -5, -6,5, -9,9, -aastased, -aastaselt, -kilobaidine, /1995, 000, 000-100, 000-l, 000-naelasele, 000-objektise, 000kroonine, 000ni, 000st, 02, 04, 083*1012, 090, 100, 150, 17, 17.00, 2, 20, 203, 257, 357, 371, 400, 402, 44, 479, 496, 500, 50aastased, 522, 547, 60, 600, 690, 692, 700, 756, 780, 782, 800, 83, 890, 892, 90, 900, 914, 930, 950, 950-kroonise, 951, 981, 996, Angeles-klassi, Angeles-klassile, aastased, arhitektuurides, e, keelsessegi, kroonine, läbi, mehelises, o, rian, trulli, °C</em>.
 

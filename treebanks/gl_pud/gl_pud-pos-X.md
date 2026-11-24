@@ -38,7 +38,7 @@ The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="gl_pud-pos-DET.h
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.320042).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.320110).
 
 The 1st highest number of forms (1) was observed with the lemma “'ya”: <em>'Ya</em>.
 

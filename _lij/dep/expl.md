@@ -29,3 +29,4 @@ Plain `expl` is also used for a non-reflexive clitic with no separate syntactic 
 ~~~
 
 The subtypes distinguish reflexive clitics in pronominal verbs and intensive uses ([expl:pv]()), passive or middle _se_ ([expl:pass]()), and impersonal _se_ ([expl:impers]()).
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:44 CET -->

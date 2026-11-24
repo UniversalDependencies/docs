@@ -20,4 +20,4 @@ nsubj:obj(avrai-2, jes)
 nsubj(avrai-6, je)
 obj(avrai-6, les)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:25 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:58 CET -->

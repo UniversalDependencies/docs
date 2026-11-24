@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="yue_hk-dep-obl.html">obl</a></tt>.
 There are also 2 other language-specific subtypes of `obl`: <tt><a href="yue_hk-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="yue_hk-dep-obl-patient.html">obl:patient</a></tt>.
 
-138 nodes (1%) are attached to their parents as `obl:tmod`.
+136 nodes (1%) are attached to their parents as `obl:tmod`.
 
-136 instances of `obl:tmod` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.28260869565217.
+134 instances of `obl:tmod` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.27941176470588.
 
-The following 9 pairs of parts of speech are connected with `obl:tmod`: <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (111; 80% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (14; 10% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (5; 4% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> (1; 1% instances).
+The following 9 pairs of parts of speech are connected with `obl:tmod`: <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (111; 82% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (12; 9% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (5; 4% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

@@ -23,10 +23,10 @@ The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 # visual-style 5	fgColor:white
 # visual-style 5 4 aux:pass	color:blue
 1	Průběh	průběh	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	3:nsubj	_
-2	používání	používání	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing	1	nmod	1:nmod:gen	_
-3	může	moci	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	používání	používání	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|VerbForm=Vnoun	1	nmod	1:nmod:gen	_
+3	může	moci	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 4	být	být	AUX	Vf--------A----	Aspect=Imp|Polarity=Pos|VerbForm=Inf	5	aux:pass	5:aux:pass	_
-5	vyjádřen	vyjádřený	ADJ	VsYS---XX-AP---	Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	3	ccomp	3:ccomp	LDeriv=vyjádřit
+5	vyjádřen	vyjádřený	ADJ	VsYS---XX-AP---	Aspect=Perf|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	3	ccomp	3:ccomp	LDeriv=vyjádřit
 6	i	i	CCONJ	J^-------------	_	7	advmod:emph	7:advmod:emph	LId=i-1
 7	jinak	jinak	ADV	Db-------------	_	5	advmod	5:advmod	_
 8	než	než	SCONJ	J,-------------	_	10	mark	10:mark	LId=než-2

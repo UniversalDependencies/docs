@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-234 nodes (1%) are attached to their parents as `fixed`.
+229 nodes (1%) are attached to their parents as `fixed`.
 
-234 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.26068376068376.
+229 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.24454148471616.
 
-The following 21 pairs of parts of speech are connected with `fixed`: <tt><a href="ru_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (105; 45% instances), <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> (20; 9% instances), <tt><a href="ru_pud-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> (14; 6% instances), <tt><a href="ru_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="ru_pud-pos-ADP.html">ADP</a></tt> (13; 6% instances), <tt><a href="ru_pud-pos-DET.html">DET</a></tt>-<tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> (12; 5% instances), <tt><a href="ru_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> (11; 5% instances), <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_pud-pos-PART.html">PART</a></tt> (9; 4% instances), <tt><a href="ru_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="ru_pud-pos-DET.html">DET</a></tt> (7; 3% instances), <tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ru_pud-pos-PART.html">PART</a></tt> (7; 3% instances), <tt><a href="ru_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> (5; 2% instances), <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_pud-pos-ADP.html">ADP</a></tt> (5; 2% instances), <tt><a href="ru_pud-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ru_pud-pos-PART.html">PART</a></tt> (5; 2% instances), <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (5; 2% instances), <tt><a href="ru_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_pud-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_pud-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 20 pairs of parts of speech are connected with `fixed`: <tt><a href="ru_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (105; 46% instances), <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> (20; 9% instances), <tt><a href="ru_pud-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> (14; 6% instances), <tt><a href="ru_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="ru_pud-pos-ADP.html">ADP</a></tt> (13; 6% instances), <tt><a href="ru_pud-pos-DET.html">DET</a></tt>-<tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> (12; 5% instances), <tt><a href="ru_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> (11; 5% instances), <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_pud-pos-PART.html">PART</a></tt> (9; 4% instances), <tt><a href="ru_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="ru_pud-pos-DET.html">DET</a></tt> (7; 3% instances), <tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ru_pud-pos-PART.html">PART</a></tt> (7; 3% instances), <tt><a href="ru_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> (5; 2% instances), <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_pud-pos-ADP.html">ADP</a></tt> (5; 2% instances), <tt><a href="ru_pud-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ru_pud-pos-PART.html">PART</a></tt> (5; 2% instances), <tt><a href="ru_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_pud-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_pud-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,11 +22,11 @@ The following 21 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 6 fixed	color:blue
-1	Эта	этот	DET	DT	Case=Nom|Gender=Fem|Number=Sing	2	det	_	_
+1	Эта	этот	DET	DT	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
 2	структура	структура	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
 3	делает	делать	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	деньги	деньги	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	3	obj	_	_
-5	за	за	ADP	IN	_	7	case	_	_
+5	за	за	ADP	IN	ExtPos=ADP	7	case	_	_
 6	счет	счет	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	fixed	_	_
 7	спонсорства	спонсорство	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	obl	_	_
 8	и	и	CCONJ	CC	_	9	cc	_	_
@@ -42,12 +42,12 @@ The following 21 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 fixed	color:blue
-1	Потому	потому	ADV	RB	Degree=Pos	8	mark	_	_
+1	Потому	потому	ADV	RB	Degree=Pos|ExtPos=SCONJ	8	mark	_	_
 2	что	что	SCONJ	IN	_	1	fixed	_	_
-3	каждое	каждый	DET	DT	Case=Nom|Gender=Neut|Number=Sing	4	det	_	_
+3	каждое	каждый	DET	DT	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	4	det	_	_
 4	чудо	чудо	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	_
 5	и	и	CCONJ	CC	_	7	cc	_	_
-6	каждый	каждый	DET	DT	Case=Nom|Gender=Masc|Number=Sing	7	det	_	_
+6	каждый	каждый	DET	DT	Case=Nom|Gender=Masc|Number=Sing|PronType=Tot	7	det	_	_
 7	район	район	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	conj	_	_
 8	занимают	занимать	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 9	отдельное	отдельный	ADJ	JJ	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
@@ -77,7 +77,7 @@ The following 21 pairs of parts of speech are connected with `fixed`: <tt><a hre
 12	социальной	социальный	ADJ	JJ	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	_
 13	иерархии	иерархия	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	conj	_	SpaceAfter=No
 14	,	,	PUNCT	,	_	17	punct	_	_
-15	а	а	CCONJ	CC	_	17	cc	_	_
+15	а	а	CCONJ	CC	ExtPos=CCONJ	17	cc	_	_
 16	также	также	ADV	RB	Degree=Pos	15	fixed	_	_
 17	жизни	жизнь	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	conj	_	SpaceAfter=No
 18	,	,	PUNCT	,	_	19	punct	_	_

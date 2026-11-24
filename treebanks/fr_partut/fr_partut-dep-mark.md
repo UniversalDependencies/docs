@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-866 nodes (3%) are attached to their parents as `mark`.
+867 nodes (3%) are attached to their parents as `mark`.
 
-863 instances of `mark` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.43533487297921.
+864 instances of `mark` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.43713956170704.
 
-The following 11 pairs of parts of speech are connected with `mark`: <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> (443; 51% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> (310; 36% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> (40; 5% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> (32; 4% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (22; 3% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> (8; 1% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `mark`: <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> (443; 51% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> (309; 36% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> (40; 5% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> (33; 4% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (23; 3% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> (8; 1% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

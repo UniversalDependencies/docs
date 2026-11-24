@@ -18,41 +18,43 @@ The following 9 pairs of parts of speech are connected with `advmod:emph`: <tt><
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 advmod:emph	color:blue
-1	Bet	bet	CCONJ	cc	_	4	cc	4:cc	LvtbNodeId=a-d1293-p2s2w1
-2	kurš	kurš	DET	pq0msnn	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	4	nsubj	4:nsubj	LvtbNodeId=a-d1293-p2s2w2
-3	ir	būt	AUX	vcnipii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	4:aux	LvtbNodeId=a-d1293-p2s2w3
-4	pamanījis	pamanīt	VERB	vmnpdmsnasnpn	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	LvtbNodeId=a-d1293-p2s2w4|SpaceAfter=No
-5	,	,	PUNCT	zc	_	9	punct	9:punct	LvtbNodeId=a-d1293-p2s2w5
-6	ka	ka	SCONJ	cs	_	9	mark	9:mark	LvtbNodeId=a-d1293-p2s2w6
-7	arī	arī	PART	q	_	8	advmod:emph	8:advmod:emph	LvtbNodeId=a-d1293-p2s2w7
-8	putni	putns	NOUN	ncmpn1	Case=Nom|Gender=Masc|Number=Plur	9	nsubj	9:nsubj	LvtbNodeId=a-d1293-p2s2w8
-9	vēro	vērot	VERB	vmnipt230an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	ccomp	4:ccomp	LvtbNodeId=a-d1293-p2s2w9
-10	Liepāju	Liepāja	PROPN	npfsa4	Case=Acc|Gender=Fem|Number=Sing	9	obj	9:obj	LvtbNodeId=a-d1293-p2s2w10|SpaceAfter=No
-11	?	?	PUNCT	zs	_	4	punct	4:punct	LvtbNodeId=a-d1293-p2s2w11
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 10 advmod:emph	color:blue
+1	Bijis	būt	AUX	vcnpdmsnasnpn	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	6	aux	6:aux	LvtbNodeId=a-p1297-p4s4w1
+2	kopā	kopā	ADV	r0n	_	6	advmod	6:advmod	LvtbNodeId=a-p1297-p4s4w2
+3	ar	ar	ADP	sppd	_	4	case	4:case	LvtbNodeId=a-p1297-p4s4w3
+4	kalpiem	kalps	NOUN	ncmpd1	Case=Dat|Gender=Masc|Number=Plur	2	iobj	2:iobj	LvtbNodeId=a-p1297-p4s4w4
+5	smagi	smagi	ADV	rpn	Degree=Pos	6	advmod	6:advmod	LvtbNodeId=a-p1297-p4s4w5
+6	jāstrādā	strādāt	VERB	vmnd0t200an	Mood=Nec|Polarity=Pos|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-p1297-p4s4w6|SpaceAfter=No
+7	,	,	PUNCT	zc	_	12	punct	12:punct	LvtbNodeId=a-p1297-p4s4w7
+8	bet	bet	CCONJ	cc	_	12	cc	12:cc	LvtbNodeId=a-p1297-p4s4w8
+9	alga	alga	NOUN	ncfsn4	Case=Nom|Gender=Fem|Number=Sing	12	nsubj:pass	12:nsubj:pass	LvtbNodeId=a-p1297-p4s4w9
+10	gan	gan	PART	q	_	9	advmod:emph	9:advmod:emph	LvtbNodeId=a-p1297-p4s4w10
+11	nav	būt	AUX	vcnipii30ay	Evident=Fh|Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	12	aux:pass	12:aux:pass	LvtbNodeId=a-p1297-p4s4w11
+12	maksāta	maksāt	VERB	vmnpdfsnpsnpn	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	6	conj	6:conj	LvtbNodeId=a-p1297-p4s4w12|SpaceAfter=No
+13	.	.	PUNCT	zs	_	6	punct	6:punct	LvtbNodeId=a-p1297-p4s4w13
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 advmod:emph	color:blue
-1	Un	un	CCONJ	cc	_	2	cc	2:cc	LvtbNodeId=a-d178-p577s9w1
-2	ceru	cerēt	VERB	vmnipi31san	Evident=Fh|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-d178-p577s9w2|SpaceAfter=No
-3	,	,	PUNCT	zc	_	8	punct	8:punct	LvtbNodeId=a-d178-p577s9w3
-4	ka	ka	SCONJ	cs	_	8	mark	8:mark	LvtbNodeId=a-d178-p577s9w4
-5	jūs	jūs	PRON	pp20pan	Case=Acc|Number=Plur|Person=2|PronType=Prs	8	nsubj	8:nsubj	LvtbNodeId=a-d178-p577s9w5
-6	arī	arī	PART	q	_	5	advmod:emph	5:advmod:emph	LvtbNodeId=a-d178-p577s9w6
-7	ko	kas	PRON	pi000an	Case=Acc|PronType=Ind	8	obj	8:obj	LvtbNodeId=a-d178-p577s9w7
-8	sapratīsiet	saprast	VERB	vmnift12pan	Evident=Fh|Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	2	ccomp	2:ccomp	LvtbNodeId=a-d178-p577s9w8|SpaceAfter=No
-9	.	.	PUNCT	zs	_	2	punct	2:punct	LvtbNodeId=a-d178-p577s9w9
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 advmod:emph	color:blue
+1	Es	es	PRON	pp10snn	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	LvtbNodeId=a-d62-p34s2w1
+2	arī	arī	PART	q	_	1	advmod:emph	1:advmod:emph	LvtbNodeId=a-d62-p34s2w2
+3	iebļāvos	iebļauties	VERB	vmyisi11san	Evident=Fh|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Reflex=Yes|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-d62-p34s2w3|SpaceAfter=No
+4	:	:	PUNCT	zo	_	3	punct	3:punct	LvtbNodeId=a-d62-p34s2w4
+5	"	"	PUNCT	zq	_	8	punct	8:punct	LvtbNodeId=a-d62-p34s2w5|SpaceAfter=No
+6	Dievam	Dievs	PROPN	npmsd1	Case=Dat|Gender=Masc|Number=Sing	8	obl	8:obl:dat	LvtbNodeId=a-d62-p34s2w6
+7	tās	tā	DET	pd3fpnn	Case=Nom|Gender=Fem|Number=Plur|Person=3|PronType=Dem	8	det	8:det	LvtbNodeId=a-d62-p34s2w7
+8	meitas	meita	NOUN	ncfpn4	Case=Nom|Gender=Fem|Number=Plur	3	ccomp	3:ccomp	LvtbNodeId=a-d62-p34s2w8|SpaceAfter=No
+9	!	!	PUNCT	zs	_	8	punct	8:punct	LvtbNodeId=a-d62-p34s2w9
 
 ~~~
 

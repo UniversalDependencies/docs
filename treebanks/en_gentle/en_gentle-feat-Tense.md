@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Past`, `Pres`.
 
-1504 tokens (8%) have a non-empty value of `Tense`.
+1505 tokens (8%) have a non-empty value of `Tense`.
 618 types (17%) occur at least once with a non-empty value of `Tense`.
 419 lemmas (13%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (1021; 6% instances), <tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> (483; 3% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (1022; 6% instances), <tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> (483; 3% instances).
 
 ### `VERB`
 
-1021 <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> tokens (62% of all `VERB` tokens) have a non-empty value of `Tense`.
+1022 <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> tokens (62% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="en_gentle-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (762; 75%), <tt><a href="en_gentle-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (535; 52%), <tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (535; 52%), <tt><a href="en_gentle-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (535; 52%), <tt><a href="en_gentle-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (535; 52%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="en_gentle-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (763; 75%), <tt><a href="en_gentle-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (535; 52%), <tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (535; 52%), <tt><a href="en_gentle-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (535; 52%), <tt><a href="en_gentle-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (535; 52%).
 
 `VERB` tokens may have the following values of `Tense`:
 
-* `Past` (508; 50% of non-empty `Tense`): <em>said, had, done, held, noted, took, given, got, heard, made</em>
+* `Past` (509; 50% of non-empty `Tense`): <em>said, had, done, held, noted, took, given, got, heard, made</em>
 * `Pres` (513; 50% of non-empty `Tense`): <em>gon, has, have, follows, going, is, know, having, think, Quoth</em>
-* `EMPTY` (632): <em>see, have, let, get, do, make, take, tell, try, Suppose</em>
+* `EMPTY` (634): <em>see, have, let, get, do, make, take, tell, try, Suppose</em>
 
 <table>
   <tr><th>Paradigm <i>have</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>

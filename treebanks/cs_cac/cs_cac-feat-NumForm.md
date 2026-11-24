@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="cs_cac-pos-NUM.html
 
 ### `NUM`
 
-7247 <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> tokens (99% of all `NUM` tokens) have a non-empty value of `NumForm`.
+7247 <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumForm`.
 
 The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="cs_cac-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (7247; 100%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6108; 84%), <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4836; 67%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4836; 67%).
 
@@ -34,5 +34,6 @@ The 10 most frequent relations where parent and child node agree in `NumForm`:
 <tt>NUM --[<tt><a href="cs_cac-dep-compound.html">compound</a></tt>]--> NUM</tt> (31; 74%),
 <tt>NUM --[<tt><a href="cs_cac-dep-orphan.html">orphan</a></tt>]--> NUM</tt> (8; 100%),
 <tt>NUM --[<tt><a href="cs_cac-dep-dep.html">dep</a></tt>]--> NUM</tt> (1; 100%),
+<tt>NUM --[<tt><a href="cs_cac-dep-nsubj.html">nsubj</a></tt>]--> NUM</tt> (1; 100%),
 <tt>NUM --[<tt><a href="cs_cac-dep-obl.html">obl</a></tt>]--> NUM</tt> (1; 100%).
 

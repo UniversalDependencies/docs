@@ -72,4 +72,4 @@ Participles will have [Aspect](), [Voice]() and [Subcat]().
 * _ասել_/_asel_ “have told”, _մնացել_/_mnac’el_ “have remained”, _հագեր_/_hager_ “have dressed”, _արբեցուցեր_/_arbec’owc’er_ “have made (someone) drunk” (perfect participle, in different voices).
 
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:23 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:07 CET -->

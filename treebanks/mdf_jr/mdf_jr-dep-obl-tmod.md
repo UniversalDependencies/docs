@@ -48,11 +48,11 @@ The following 3 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 8	весялат	весяла	ADJ	A	Case=Nom|Definite=Ind|Number=Plur	0	root	_	CGdephead=#8-&gt;12|CGdeprel=@SPRED|GTtags=Pl,Nom,Indef|SpaceAfter=No
 9	,	,	PUNCT	CLB	_	12	punct	_	CGdephead=#9-&gt;8|CGdeprel=@X|GTtags=CLB
 10	ёфкст	ёфкс	NOUN	N	Case=Nom|Definite=Ind|Number=Plur	12	obj	_	CGdephead=#10-&gt;12|CGdeprel=@OBJ&gt;|GTtags=Pl,Nom,Indef
-11	аф	аф	AUX	V	Polarity=Neg|VerbType=Aux	12	aux	_	CGdephead=#11-&gt;0|CGdeprel=@IAUX|GTtags=Aux,Neg
+11	аф	аф	AUX	V	Polarity=Neg|VerbType=Aux	12	aux:neg	_	CGdephead=#11-&gt;0|CGdeprel=@IAUX|GTtags=Aux,Neg
 12	азондат	азондомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres|VerbForm=Fin	8	conj	_	CGdephead=#12-&gt;0|CGdeprel=@FMV|GTtags=Ind,Prs,ScSg2|SpaceAfter=No
 13	,	,	PUNCT	CLB	_	16	punct	_	CGdephead=#13-&gt;12|CGdeprel=@X|GTtags=CLB
 14	морот	мора	NOUN	N	Case=Nom|Definite=Ind|Number=Plur	16	obj	_	CGdephead=#14-&gt;16|CGdeprel=@OBJ&gt;|GTtags=Pl,Nom,Indef
-15	аф	аф	AUX	V	Polarity=Neg|VerbType=Aux	16	aux	_	CGdephead=#15-&gt;11|CGdeprel=@IAUX|GTtags=Aux,Neg
+15	аф	аф	AUX	V	Polarity=Neg|VerbType=Aux	16	aux:neg	_	CGdephead=#15-&gt;11|CGdeprel=@IAUX|GTtags=Aux,Neg
 16	морат	морамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres|VerbForm=Fin	8	conj	_	CGdephead=#16-&gt;12|CGdeprel=@FMV|GTtags=Ind,Prs,ScSg2|SpaceAfter=No
 17	?	?	PUNCT	CLB	_	8	punct	_	CGdephead=#17-&gt;11|CGdeprel=@X|GTtags=CLB
 18	...	...	PUNCT	CLB	_	8	punct	_	CGdephead=#1-&gt;0|CGdeprel=@X|GTtags=CLB

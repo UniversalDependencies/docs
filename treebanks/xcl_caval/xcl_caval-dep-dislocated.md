@@ -91,7 +91,7 @@ The following 7 pairs of parts of speech are connected with `dislocated`: <tt><a
 2	հաստատեալ	հաստատել	VERB	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	13	dislocated	_	Translit=hastateal|LTranslit=hastatel|Gloss=establish
 3	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	aux	_	Translit=ē|LTranslit=em|Gloss=be
 4	յ	ի	ADP	_	_	5	case	_	SpaceAfter=No|Translit=y|LTranslit=i|LId=ի-1|Gloss=to
-5	իս	ես	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	obl	_	SpaceAfter=No|Translit=is|LTranslit=es|Gloss=I
+5	իս	ես	PRON	_	Case=Loc|Number=Sing|Person=1|PronType=Prs	2	obl	_	SpaceAfter=No|Translit=is|LTranslit=es|Gloss=I
 6	՝	՝	PUNCT	_	_	8	punct	_	Translit=;|LTranslit=;
 7	եւ	եւ	CCONJ	_	_	8	orphan	_	Translit=ew|LTranslit=ew|Gloss=and
 8	ես	ես	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	conj	_	Translit=es|LTranslit=es|Gloss=I

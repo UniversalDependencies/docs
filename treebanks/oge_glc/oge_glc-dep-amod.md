@@ -8,97 +8,75 @@ udver: '2'
 
 This relation is universal.
 
-364 nodes (5%) are attached to their parents as `amod`.
+1332 nodes (4%) are attached to their parents as `amod`.
 
-334 instances of `amod` (92%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.63461538461538.
+889 instances of `amod` (67%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.75.
 
-The following 19 pairs of parts of speech are connected with `amod`: <tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="oge_glc-pos-ADJ.html">ADJ</a></tt> (204; 56% instances), <tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="oge_glc-pos-VERB.html">VERB</a></tt> (88; 24% instances), <tt><a href="oge_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="oge_glc-pos-ADJ.html">ADJ</a></tt> (14; 4% instances), <tt><a href="oge_glc-pos-PRON.html">PRON</a></tt>-<tt><a href="oge_glc-pos-ADJ.html">ADJ</a></tt> (9; 2% instances), <tt><a href="oge_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="oge_glc-pos-ADJ.html">ADJ</a></tt> (7; 2% instances), <tt><a href="oge_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="oge_glc-pos-VERB.html">VERB</a></tt> (6; 2% instances), <tt><a href="oge_glc-pos-ADV.html">ADV</a></tt>-<tt><a href="oge_glc-pos-ADJ.html">ADJ</a></tt> (5; 1% instances), <tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt> (5; 1% instances), <tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="oge_glc-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="oge_glc-pos-PRON.html">PRON</a></tt>-<tt><a href="oge_glc-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="oge_glc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="oge_glc-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="oge_glc-pos-ADP.html">ADP</a></tt>-<tt><a href="oge_glc-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="oge_glc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="oge_glc-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="oge_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="oge_glc-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="oge_glc-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="oge_glc-pos-NUM.html">NUM</a></tt>-<tt><a href="oge_glc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="oge_glc-pos-PART.html">PART</a></tt>-<tt><a href="oge_glc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="oge_glc-pos-PRON.html">PRON</a></tt>-<tt><a href="oge_glc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="oge_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="oge_glc-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 21 pairs of parts of speech are connected with `amod`: <tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="oge_glc-pos-ADJ.html">ADJ</a></tt> (961; 72% instances), <tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="oge_glc-pos-VERB.html">VERB</a></tt> (128; 10% instances), <tt><a href="oge_glc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="oge_glc-pos-ADJ.html">ADJ</a></tt> (63; 5% instances), <tt><a href="oge_glc-pos-PRON.html">PRON</a></tt>-<tt><a href="oge_glc-pos-ADJ.html">ADJ</a></tt> (45; 3% instances), <tt><a href="oge_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="oge_glc-pos-ADJ.html">ADJ</a></tt> (45; 3% instances), <tt><a href="oge_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="oge_glc-pos-ADJ.html">ADJ</a></tt> (39; 3% instances), <tt><a href="oge_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="oge_glc-pos-VERB.html">VERB</a></tt> (11; 1% instances), <tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt> (8; 1% instances), <tt><a href="oge_glc-pos-PRON.html">PRON</a></tt>-<tt><a href="oge_glc-pos-VERB.html">VERB</a></tt> (6; 0% instances), <tt><a href="oge_glc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="oge_glc-pos-VERB.html">VERB</a></tt> (6; 0% instances), <tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="oge_glc-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="oge_glc-pos-ADP.html">ADP</a></tt>-<tt><a href="oge_glc-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="oge_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="oge_glc-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="oge_glc-pos-ADV.html">ADV</a></tt>-<tt><a href="oge_glc-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="oge_glc-pos-NUM.html">NUM</a></tt>-<tt><a href="oge_glc-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="oge_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="oge_glc-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="oge_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="oge_glc-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="oge_glc-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="oge_glc-pos-PART.html">PART</a></tt>-<tt><a href="oge_glc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="oge_glc-pos-PRON.html">PRON</a></tt>-<tt><a href="oge_glc-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 2 amod	color:blue
-1	მისივე	მისი	PRON	Pron	Case=Gen|Number=Sing|PartType=Emp|PronType=Prs	2	nmod	_	Translit=misive
-2	ლიბიელთა	ლიბიელი	ADJ	Adj	Case=Gen|Number=Plur	5	amod	_	Translit=libieltʻa
-3	და	და	CCONJ	Conj	_	4	cc	_	Translit=da
-4	ხუთქალაქელთა	ხუთქალაქელი	ADJ	Adj	Case=Gen|Number=Plur	2	conj	_	Translit=xutʻkʻalakʻeltʻa
-5	ეპისკოპოსთა	ეპისკოპოსი	NOUN	Noun	Case=Gen|Number=Plur	0	root	_	Translit=episkopostʻa
-6	მიმართ	მიმართ	ADP	Post	AdpType=Post|Case=Gen	5	case	_	SpaceAfter=No|Translit=mimartʻ
-7	.	.	PUNCT	F	PunctType=Peri	5	punct	_	Translit=.
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 amod	color:blue
+1	და	და	CCONJ	Conj	_	7	cc	_	Translit=da
+2	ორკეცსა	ორკეცი	ADJ	Adj	Case=Dat|Degree=Pos|Number=Sing	4	amod	_	Translit=orkecʻsa
+3	მას	იგი	PRON	Pron	Case=Dat|Number=Sing|Person=3|PronType=Dem	4	det	_	Translit=mas
+4	კითხვასა	კითხვა	VERB	VerbalNoun	Case=Dat|Number=Sing|VerbForm=Vnoun	7	iobj	_	Translit=kitʻxvasa
+5	ორკეცი	ორკეცი	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	6	amod	_	Translit=orkecʻi
+6	პასუხი	პასუხი	NOUN	Noun	Case=Nom|Number=Sing	7	obj	_	Translit=pasuxi
+7	მიუგე	მიგება	VERB	Verb	Aspect=Perf|Mood=Imp|Number[io]=Sing|Number[subj]=Sing|Person[io]=3|Person[subj]=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=miuge
+8	.	.	PUNCT	F	PunctType=Peri	7	punct	_	Translit=.
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 9 amod	color:blue
-1	ხოლო	ხოლო	CCONJ	Conj	_	15	cc	_	Translit=xolo
-2	უკუეთუ	უკუეთუ	SCONJ	Conj	_	12	mark	_	Translit=ukuetʻu
-3	ვინმე	ვინმე	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	12	nsubj:pass	_	Translit=vinme
-4	რომელსაცა	რომელი	PRON	Pron	Case=Dat|Number=Sing|PartType=Emp|PronType=Rel	6	det	_	Translit=romelsacʻa
-5	სამღდელოსა	სამღდელო	ADJ	Adj	Case=Dat|Number=Sing	6	amod	_	Translit=samġdelosa
-6	წესსა	წესი	NOUN	Noun	Case=Dat|Number=Sing	12	obl	_	Translit=cessa
-7	შინა	შინა	ADP	Post	AdpType=Post|Case=Dat	6	case	_	Translit=šina
-8	თჳნიერ	თჳნიერ	ADP	Post	AdpType=Post|Case=Gen	11	case	_	Translit=tʻwnier
-9	განსაზღვრებულთა	განსაზღვრებული	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass	11	amod	_	Translit=gansazġvrebultʻa
-10	ამათ	ეს	PRON	Pron	Case=Gen|Number=Plur|PronType=Dem	11	det	_	Translit=amatʻ
-11	ჟამთასა	ჟამი	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Plur	12	obl	_	Translit=žamtʻasa
-12	ჴელთდასხმულ	ჴელთდასხმული	VERB	Verb	VerbForm=Part|Voice=Pass	15	advcl	_	Translit=x̣eltʻdasxmul
-13	იქმნეს	ყოფა	AUX	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	12	cop	_	SpaceAfter=No|Translit=ikʻmnes
-14	,	,	PUNCT	F	PunctType=Comm	12	punct	_	Translit=,
-15	განიკუეთენ	განკუეთა	VERB	Verb	Aspect=Perf|Mood=Imp|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No|Translit=ganikuetʻen
-16	.	.	PUNCT	F	PunctType=Peri	15	punct	_	Translit=.
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 3 amod	color:blue
+1	ქუეყანა	ქუეყანა	NOUN	Noun	Case=Nom|Number=Sing	6	parataxis	_	Translit=kʻueqana
+2	გულის	გული	NOUN	Noun	Case=Gen|Number=Sing	3	nmod	_	Translit=gulis
+3	სათქუმელ	სათქუმელი	VERB	VerbalAdj	Case=Nom|Number=Sing|VerbForm=Part	1	amod	_	SpaceAfter=No|Translit=satʻkʻumel
+4	,	,	PUNCT	F	PunctType=Comm	6	punct	_	Translit=,
+5	რაჟამს	რაჟამს	SCONJ	Conj	_	6	mark	_	Translit=ražams
+6	გესმეს	სმენა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No|Translit=gesmes
+7	,	,	PUNCT	F	PunctType=Comm	6	punct	_	Translit=,
+8	ვითარმედ	ვითარმედ	SCONJ	Cj	_	6	mark	_	SpaceAfter=No|Translit=vitʻarmed
+9	:	:	PUNCT	F	PunctType=Colo	6	punct	_	Translit=:
+10	„	„	PUNCT	F	PunctSide=Ini|PunctType=Quot	11	punct	_	Translit=„
+11	შეურაცხ	შეურაცხი	VERB	VerbalAdj	Case=Abs|Number=Sing|VerbForm=Part	6	parataxis	_	SpaceAfter=No|Translit=šeuracʻx
+12	-	-	PUNCT	F	_	11	punct	_	Translit=-
+13	ყვეს	ყოფა	AUX	Aux	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin|VerbType=Aux|Voice=Act	11	cop	_	Translit=qves
+14	ქუეყანაჲ	ქუეყანა	NOUN	Noun	Case=Nom|Number=Sing	11	obj	_	Translit=kʻueqanay
+15	გულისსათქუმელი	გულისსათქუმელი	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	14	amod	_	Translit=gulissatʻkʻumeli
+16	“	“	PUNCT	F	PunctSide=Fin|PunctType=Quot	11	punct	_	SpaceAfter=No|Translit=“
+17	.	.	PUNCT	F	PunctType=Peri	6	punct	_	Translit=.
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 19	bgColor:blue
-# visual-style 19	fgColor:white
-# visual-style 20	bgColor:blue
-# visual-style 20	fgColor:white
-# visual-style 20 19 amod	color:blue
-1	ხოლო	ხოლო	CCONJ	Conj	_	3	cc	_	Translit=xolo
-2	ესე	ესე	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	3	nsubj	_	Translit=ese
-3	ცხად	ცხად	ADV	Adv	_	4	xcomp	_	Translit=cʻxad
-4	იყავნ	ყოფა	VERB	Verb	Aspect=Perf|Mood=Imp|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=iqavn
-5	,	,	PUNCT	F	PunctType=Comm	4	punct	_	Translit=,
-6	ვითარმედ	ვითარმედ	SCONJ	Conj	_	13	mark	_	Translit=vitʻarmed
-7	ეგევითარისა	ეგევითარი	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	9	det	_	Translit=egevitʻarisa
-8	მის	იგი	PRON	Pron	Case=Gen|Number=Sing|PronType=Prs	9	det	_	Translit=mis
-9	უწესოჲსა	წესიერი	ADJ	Adj	Case=Gen|Degree=Sup|Number=Sing	10	amod	_	Translit=ucesoysa
-10	ქორწილისა	ქორწილი	NOUN	Noun	Case=Gen|Number=Sing	12	nmod	_	Translit=kʻorcilisa
-11	მუნთქუესვე	მუნთქუესვე	ADV	Adv	_	12	advmod	_	Translit=muntʻkʻuesve
-12	დაჴსნაჲ	დაჴსნაჲ	NOUN	Noun	Case=Nom|Number=Sing	13	nsubj	_	Translit=dax̣snay
-13	სათანადო	სათანადო	ADJ	Adj	Case=Nom|Number=Sing	4	ccomp	_	Translit=satʻanado
-14	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	cop	_	Translit=ars
-15	და	და	CCONJ	Conj	_	18	cc	_	Translit=da
-16	რაჲთა	რაჲთა	SCONJ	Conj	_	18	mark	_	Translit=raytʻa
-17	არცა	არცა	PART	Part	PartType=Neg	18	advmod:neg	_	Translit=arcʻa
-18	ერთი	ერთი	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	20	nsubj	_	Translit=ertʻi
-19	თანამკჳდრობითი	თანამკჳდრობითი	ADJ	Adj	Case=Nom|Number=Sing	20	amod	_	Translit=tʻanamkwdrobitʻi
-20	ზიარებაჲ	ზიარება	VERB	Verb	Case=Nom|Number=Sing|VerbForm=Vnoun	13	conj	_	Translit=ziarebay
-21	აქუნდეს	ქონება	VERB	Verb	Aspect=Imp|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	20	ccomp	_	Translit=akʻundes
-22	კაცსა	კაცი	NOUN	Noun	Case=Dat|Number=Sing	21	iobj	_	Translit=kacʻsa
-23	მას	იგი	PRON	Pron	Case=Dat|Number=Sing|PronType=Dem	22	det	_	Translit=mas
-24	მისა	იგი	PRON	Pron	Case=Gen|Number=Sing|PronType=Prs	25	nmod	_	Translit=misa
-25	მიმართ	მიმართ	ADP	Post	AdpType=Post|Case=Gen	21	obl	_	SpaceAfter=No|Translit=mimartʻ
-26	,	,	PUNCT	F	PunctType=Comm	21	punct	_	Translit=,
-27	რომლისა	რომელი	PRON	Pron	Case=Gen|Number=Sing|PronType=Rel	28	obl	_	Translit=romlisa
-28	ძლით	ძლით	ADV	Adv	_	32	advmod	_	Translit=żlitʻ
-29	სამღდელოჲსა	სამღდელოჲ	NOUN	Noun	Case=Gen|Number=Sing	30	nmod	_	Translit=samġdeloysa
-30	მოქმედებისა	მოქმედება	NOUN	Noun	Case=Gen|Number=Sing	32	obl	_	Translit=mokʻmedebisa
-31	გან	გან	ADP	Post	AdpType=Post|Case=Ins	30	case	_	Translit=gan
-32	ჴუებულ	ჴუებული	VERB	Verb	VerbForm=Part|Voice=Pass	20	acl:relcl	_	Translit=x̣uebul
-33	იქმნა	ყოფა	AUX	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Pass	32	cop	_	SpaceAfter=No|Translit=ikʻmna
-34	.	.	PUNCT	F	PunctType=Peri	4	punct	_	Translit=.
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 4 amod	color:blue
+1	უკუეთუ	უკუეთუ	SCONJ	Conj	_	2	mark	_	Translit=ukuetʻu
+2	სჳმონ	სჳმონ	PROPN	Prop	Case=Nom|NameType=Prs|Number=Sing	7	advcl	_	Translit=swmon
+3	ხარ	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres|VerbForm=Fin	2	cop	_	Translit=xar
+4	კჳრინელი	კჳრინელი	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	2	amod	_	SpaceAfter=No|Translit=kwrineli
+5	,	,	PUNCT	F	PunctType=Comm	2	punct	_	Translit=,
+6	ჯუარი	ჯუარი	NOUN	Noun	Case=Nom|Number=Sing	7	obj	_	Translit=ǯuari
+7	აღიღე	აღღება	VERB	Verb	Aspect=Perf|Mood=Imp|Number[subj]=Sing|Person[subj]=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=aġiġe
+8	და	და	CCONJ	Conj	_	9	cc	_	Translit=da
+9	შეუდეგ	შედგომა	VERB	Verb	Aspect=Perf|Mood=Imp|Number[io]=Sing|Number[subj]=Sing|Person[io]=3|Person[subj]=2|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	SpaceAfter=No|Translit=šeudeg
+10	.	.	PUNCT	F	PunctType=Peri	7	punct	_	Translit=.
 
 ~~~
 

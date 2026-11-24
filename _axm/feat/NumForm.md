@@ -33,4 +33,4 @@ Feature of all [number types](NumType). Is the number expressed by digits or as 
 #### Examples
 
 * _Ա_/_A_ “1st”, _Բ_/_B_ “2nd”, _Գ_/_G_ “3rd”
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:03 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:50 CET -->

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 The following people have contributed to making this treebank part of UD: Giuseppe G. A. Celano, Daniel Zeman.
 
 Repository: [UD_Ancient_Greek-Perseus](https://github.com/UniversalDependencies/UD_Ancient_Greek-Perseus)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgrc_perseus218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgrc_perseus219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-NC-SA 2.5
 
@@ -698,22 +698,22 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Acc-ADP(μετά) (1)</li>
       <li>VERB-Fin--NOUN-Dat (2)</li>
       <li>VERB-Fin--NOUN-Gen (5)</li>
-      <li>VERB-Fin--NOUN-Nom (6785)</li>
+      <li>VERB-Fin--NOUN-Nom (6784)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(ἔνερθε) (1)</li>
-      <li>VERB-Fin--PRON-Acc (14)</li>
+      <li>VERB-Fin--PRON-Acc (12)</li>
       <li>VERB-Fin--PRON-Dat (2)</li>
-      <li>VERB-Fin--PRON-Nom (2859)</li>
+      <li>VERB-Fin--PRON-Nom (2857)</li>
       <li>VERB-Inf--NOUN-Acc (396)</li>
       <li>VERB-Inf--NOUN-Dat (5)</li>
       <li>VERB-Inf--NOUN-Gen (2)</li>
-      <li>VERB-Inf--NOUN-Nom (13)</li>
+      <li>VERB-Inf--NOUN-Nom (12)</li>
       <li>VERB-Inf--PRON-Acc (335)</li>
       <li>VERB-Inf--PRON-Dat (7)</li>
       <li>VERB-Inf--PRON-Gen (1)</li>
       <li>VERB-Inf--PRON-Nom (22)</li>
       <li>VERB-Part--NOUN-Acc (61)</li>
       <li>VERB-Part--NOUN-Gen (440)</li>
-      <li>VERB-Part--NOUN-Nom (52)</li>
+      <li>VERB-Part--NOUN-Nom (51)</li>
       <li>VERB-Part--PRON-Acc (26)</li>
       <li>VERB-Part--PRON-Dat (1)</li>
       <li>VERB-Part--PRON-Gen (103)</li>
@@ -732,7 +732,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Nom (51)</li>
       <li>VERB-Fin--NOUN-Voc (8)</li>
       <li>VERB-Fin--PRON (5)</li>
-      <li>VERB-Fin--PRON-Acc (2411)</li>
+      <li>VERB-Fin--PRON-Acc (2413)</li>
       <li>VERB-Fin--PRON-Dat (515)</li>
       <li>VERB-Fin--PRON-Gen (226)</li>
       <li>VERB-Fin--PRON-Nom (13)</li>

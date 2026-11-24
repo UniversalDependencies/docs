@@ -9,24 +9,24 @@ udver: '2'
 This feature is universal but the values `0` are language-specific.
 It occurs with 4 different values: `0`, `1`, `2`, `3`.
 
-4188 tokens (9%) have a non-empty value of `Person`.
-1448 types (11%) occur at least once with a non-empty value of `Person`.
-847 lemmas (11%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt> (2166; 5% instances), <tt><a href="pl_mpdt-pos-PRON.html">PRON</a></tt> (1130; 2% instances), <tt><a href="pl_mpdt-pos-AUX.html">AUX</a></tt> (603; 1% instances), <tt><a href="pl_mpdt-pos-DET.html">DET</a></tt> (289; 1% instances).
+5294 tokens (9%) have a non-empty value of `Person`.
+1719 types (11%) occur at least once with a non-empty value of `Person`.
+977 lemmas (11%) occur at least once with a non-empty value of `Person`.
+The feature is used with 4 part-of-speech tags: <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt> (2720; 5% instances), <tt><a href="pl_mpdt-pos-PRON.html">PRON</a></tt> (1451; 2% instances), <tt><a href="pl_mpdt-pos-AUX.html">AUX</a></tt> (764; 1% instances), <tt><a href="pl_mpdt-pos-DET.html">DET</a></tt> (359; 1% instances).
 
 ### `VERB`
 
-2166 <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt> tokens (41% of all `VERB` tokens) have a non-empty value of `Person`.
+2720 <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt> tokens (42% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="pl_mpdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2166; 100%), <tt><a href="pl_mpdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2166; 100%), <tt><a href="pl_mpdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2165; 100%), <tt><a href="pl_mpdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1965; 91%), <tt><a href="pl_mpdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (1704; 79%), <tt><a href="pl_mpdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1562; 72%), <tt><a href="pl_mpdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1471; 68%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="pl_mpdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2720; 100%), <tt><a href="pl_mpdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2720; 100%), <tt><a href="pl_mpdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2718; 100%), <tt><a href="pl_mpdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2482; 91%), <tt><a href="pl_mpdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (2154; 79%), <tt><a href="pl_mpdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1976; 73%), <tt><a href="pl_mpdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1884; 69%).
 
 `VERB` tokens may have the following values of `Person`:
 
-* `0` (97; 4% of non-empty `Person`): <em>dano, wzięto, chciano, naleziono, napisano, odpuszczono, opisano, uczyniono, wypędzono, zabito</em>
-* `1` (285; 13% of non-empty `Person`): <em>proszę, chcę, mówię, rozumiem, mam, mamy, dajmy, widziemy, wiem, chcemy</em>
-* `2` (349; 16% of non-empty `Person`): <em>masz, chcesz, możesz, powiedz, weźmi, będziesz, widzicie, wiesz, zmiłuj, chcecie</em>
-* `3` (1435; 66% of non-empty `Person`): <em>ma, jest, może, mają, będzie, są, mówi, daje, należy, mogą</em>
-* `EMPTY` (3068): <em>miał, trzeba, było, mieć, mieli, można, mógł, powinien, dał, miała</em>
+* `0` (115; 4% of non-empty `Person`): <em>dano, napisano, wzięto, chciano, naleziono, odpuszczono, opisano, uczyniono, wyprawiono, wypędzono</em>
+* `1` (361; 13% of non-empty `Person`): <em>mam, chcę, mówię, proszę, mamy, rozumiem, wiem, mogę, chcemy, czuję</em>
+* `2` (435; 16% of non-empty `Person`): <em>masz, chcesz, możesz, weźmi, powiedz, będziesz, czynisz, daj, widzicie, wiesz</em>
+* `3` (1809; 67% of non-empty `Person`): <em>ma, jest, może, mają, będzie, są, mówi, musi, należy, daje</em>
+* `EMPTY` (3786): <em>miał, trzeba, mieć, było, można, mieli, mógł, miała, być, był</em>
 
 <table>
   <tr><th>Paradigm <i>chcieć</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th><th><tt>0</tt></th></tr>
@@ -38,32 +38,33 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `PRON`
 
-1130 <tt><a href="pl_mpdt-pos-PRON.html">PRON</a></tt> tokens (43% of all `PRON` tokens) have a non-empty value of `Person`.
+1451 <tt><a href="pl_mpdt-pos-PRON.html">PRON</a></tt> tokens (44% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="pl_mpdt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1130; 100%), <tt><a href="pl_mpdt-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (1130; 100%), <tt><a href="pl_mpdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (762; 67%), <tt><a href="pl_mpdt-feat-Variant.html">Variant</a></tt><tt>=Short</tt> (700; 62%), <tt><a href="pl_mpdt-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt> (613; 54%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="pl_mpdt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1451; 100%), <tt><a href="pl_mpdt-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (1451; 100%), <tt><a href="pl_mpdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (974; 67%), <tt><a href="pl_mpdt-feat-Variant.html">Variant</a></tt><tt>=Short</tt> (875; 60%), <tt><a href="pl_mpdt-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt> (783; 54%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (269; 24% of non-empty `Person`): <em>mi, ja, mnie, nas, nam, mię, mną, nami, my</em>
-* `2` (131; 12% of non-empty `Person`): <em>ciebie, cię, was, ty, tobie, ci, wam, tobą, wami, wy</em>
-* `3` (730; 65% of non-empty `Person`): <em>jego, ich, go, jej, mu, nich, im, nim, je, ją</em>
-* `EMPTY` (1485): <em>się, to, co, sobie, tym, tego, kto, nic, siebie, czego</em>
+* `1` (341; 24% of non-empty `Person`): <em>mi, ja, mnie, nas, nam, mię, mną, nami, my</em>
+* `2` (159; 11% of non-empty `Person`): <em>ciebie, cię, was, ty, tobie, ci, wam, tobą, wy, wami</em>
+* `3` (951; 66% of non-empty `Person`): <em>jego, ich, go, jej, mu, nich, im, nim, ją, je</em>
+* `EMPTY` (1875): <em>się, to, co, sobie, tym, tego, nic, kto, siebie, czego</em>
 
 ### `AUX`
 
-603 <tt><a href="pl_mpdt-pos-AUX.html">AUX</a></tt> tokens (54% of all `AUX` tokens) have a non-empty value of `Person`.
+764 <tt><a href="pl_mpdt-pos-AUX.html">AUX</a></tt> tokens (55% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="pl_mpdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (603; 100%), <tt><a href="pl_mpdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (603; 100%), <tt><a href="pl_mpdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (450; 75%), <tt><a href="pl_mpdt-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (354; 59%), <tt><a href="pl_mpdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (354; 59%), <tt><a href="pl_mpdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (352; 58%), <tt><a href="pl_mpdt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (313; 52%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="pl_mpdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (764; 100%), <tt><a href="pl_mpdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (764; 100%), <tt><a href="pl_mpdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (572; 75%), <tt><a href="pl_mpdt-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (447; 59%), <tt><a href="pl_mpdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (447; 59%), <tt><a href="pl_mpdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (444; 58%), <tt><a href="pl_mpdt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (398; 52%).
 
 `AUX` tokens may have the following values of `Person`:
 
-* `1` (208; 34% of non-empty `Person`): <em>m, em, śmy, będę, jestem, będziemy, ch, chmy, eśmy, jesteśmy</em>
-* `2` (82; 14% of non-empty `Person`): <em>ś, eś, będziesz, jesteś, ście, bądź, będziecie, eście</em>
-* `3` (313; 52% of non-empty `Person`): <em>jest, są, będzie, będą, bywa, bywają</em>
-* `EMPTY` (513): <em>by, był, być, było, to, niech, byli, była, były, będąc</em>
+* `1` (258; 34% of non-empty `Person`): <em>m, em, śmy, będę, jestem, będziemy, jesteśmy, ch, chmy, eśmy</em>
+* `2` (104; 14% of non-empty `Person`): <em>ś, eś, będziesz, ście, jesteś, bądź, bywaj, będziecie, cię, eście</em>
+* `3` (402; 53% of non-empty `Person`): <em>jest, są, będzie, będą, bywa, bywają</em>
+* `EMPTY` (635): <em>by, był, być, to, było, niech, była, były, byli, będąc</em>
 
 <table>
   <tr><th>Paradigm <i>być</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
+  <tr><td><tt><tt><a href="pl_mpdt-feat-ExtPos.html">ExtPos</a></tt><tt>=AUX</tt>|<tt><a href="pl_mpdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pl_mpdt-feat-Variant.html">Variant</a></tt><tt>=Long</tt></tt></td><td></td><td><em>cię</em></td><td></td></tr>
   <tr><td><tt><tt><a href="pl_mpdt-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="pl_mpdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_mpdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="pl_mpdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>bądź</em></td><td></td></tr>
   <tr><td><tt><tt><a href="pl_mpdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="pl_mpdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_mpdt-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="pl_mpdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>będę</em></td><td><em>będziesz</em></td><td><em>będzie</em></td></tr>
   <tr><td><tt><tt><a href="pl_mpdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="pl_mpdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_mpdt-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="pl_mpdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="pl_mpdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>będę</em></td><td><em>będziesz</em></td><td><em>będzie</em></td></tr>
@@ -74,29 +75,32 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
   <tr><td><tt><tt><a href="pl_mpdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_mpdt-feat-Variant.html">Variant</a></tt><tt>=Long</tt></tt></td><td><em>em</em></td><td><em>eś</em></td><td></td></tr>
   <tr><td><tt><tt><a href="pl_mpdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_mpdt-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td><em>m, ch</em></td><td><em>ś</em></td><td></td></tr>
   <tr><td><tt><tt><a href="pl_mpdt-feat-Number.html">Number</a></tt><tt>=Dual</tt>|<tt><a href="pl_mpdt-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td><em>śwa</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="pl_mpdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pl_mpdt-feat-Variant.html">Variant</a></tt><tt>=Long</tt></tt></td><td><em>eśmy</em></td><td><em>eście</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="pl_mpdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pl_mpdt-feat-Variant.html">Variant</a></tt><tt>=Long</tt></tt></td><td><em>eśmy</em></td><td><em>eś, eście</em></td><td></td></tr>
   <tr><td><tt><tt><a href="pl_mpdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pl_mpdt-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td><em>śmy, chmy, m</em></td><td><em>ście</em></td><td></td></tr>
 </table>
 
 ### `DET`
 
-289 <tt><a href="pl_mpdt-pos-DET.html">DET</a></tt> tokens (13% of all `DET` tokens) have a non-empty value of `Person`.
+359 <tt><a href="pl_mpdt-pos-DET.html">DET</a></tt> tokens (13% of all `DET` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="pl_mpdt-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (289; 100%), <tt><a href="pl_mpdt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (289; 100%), <tt><a href="pl_mpdt-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (289; 100%), <tt><a href="pl_mpdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (222; 77%), <tt><a href="pl_mpdt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (189; 65%).
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="pl_mpdt-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (359; 100%), <tt><a href="pl_mpdt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (359; 100%), <tt><a href="pl_mpdt-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (359; 100%), <tt><a href="pl_mpdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (270; 75%), <tt><a href="pl_mpdt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (232; 65%).
 
 `DET` tokens may have the following values of `Person`:
 
-* `1` (195; 67% of non-empty `Person`): <em>mój, mego, moje, moja, naszego, naszych, mojej, nasze, naszym, naszej</em>
-* `2` (94; 33% of non-empty `Person`): <em>twego, twoich, twoim, twoja, twemu, twojej, twoję, waszych, twoje, twojego</em>
-* `EMPTY` (1923): <em>który, które, ten, tego, tych, tej, tym, których, te, którzy</em>
+* `1` (240; 67% of non-empty `Person`): <em>mój, mego, moje, moja, naszego, naszych, nasze, mojej, naszym, moich</em>
+* `2` (119; 33% of non-empty `Person`): <em>twoim, twego, twojej, twemu, twoich, twoja, twoję, twoje, waszych, twojego</em>
+* `EMPTY` (2408): <em>który, które, ten, tego, tej, tych, tym, te, których, którzy</em>
 
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="pl_mpdt-dep-conj.html">conj</a></tt>]--> VERB</tt> (362; 64%),
-<tt>PRON --[<tt><a href="pl_mpdt-dep-aux-clitic.html">aux:clitic</a></tt>]--> AUX</tt> (2; 100%),
+<tt>VERB --[<tt><a href="pl_mpdt-dep-conj.html">conj</a></tt>]--> VERB</tt> (452; 65%),
+<tt>VERB --[<tt><a href="pl_mpdt-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (7; 54%),
+<tt>PRON --[<tt><a href="pl_mpdt-dep-aux-clitic.html">aux:clitic</a></tt>]--> AUX</tt> (3; 100%),
+<tt>PRON --[<tt><a href="pl_mpdt-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (2; 100%),
+<tt>AUX --[<tt><a href="pl_mpdt-dep-aux-clitic.html">aux:clitic</a></tt>]--> AUX</tt> (1; 100%),
 <tt>DET --[<tt><a href="pl_mpdt-dep-conj.html">conj</a></tt>]--> DET</tt> (1; 100%),
-<tt>PRON --[<tt><a href="pl_mpdt-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (1; 100%),
+<tt>VERB --[<tt><a href="pl_mpdt-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (1; 100%),
 <tt>VERB --[<tt><a href="pl_mpdt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="pl_mpdt-dep-vocative.html">vocative</a></tt>]--> PRON</tt> (1; 100%).
 

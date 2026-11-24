@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fin`, `Inf`, `Part`.
 
-31786 tokens (15%) have a non-empty value of `VerbForm`.
+31785 tokens (15%) have a non-empty value of `VerbForm`.
 5217 types (19%) occur at least once with a non-empty value of `VerbForm`.
-2702 lemmas (12%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (21968; 11% instances), <tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (9818; 5% instances).
+2703 lemmas (12%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 2 part-of-speech tags: <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (21966; 11% instances), <tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (9819; 5% instances).
 
 ### `VERB`
 
-21968 <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+21966 <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="nl_alpino-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (11302; 51%), <tt><a href="nl_alpino-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (11302; 51%), <tt><a href="nl_alpino-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (11302; 51%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="nl_alpino-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (11300; 51%), <tt><a href="nl_alpino-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (11300; 51%), <tt><a href="nl_alpino-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (11300; 51%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Fin` (10666; 49% of non-empty `VerbForm`): <em>heeft, komt, heet, wil, is, gaat, zei, kwam, noemt, hebben</em>
-* `Inf` (4724; 22% of non-empty `VerbForm`): <em>komen, gaan, maken, zien, doen, nemen, laten, zeggen, worden, geven</em>
-* `Part` (6578; 30% of non-empty `VerbForm`): <em>gemaakt, gehouden, genoemd, genomen, gedaan, gezien, afgelopen, gegeven, gekomen, geworden</em>
+* `Inf` (4723; 22% of non-empty `VerbForm`): <em>komen, gaan, maken, zien, doen, nemen, laten, zeggen, worden, geven</em>
+* `Part` (6577; 30% of non-empty `VerbForm`): <em>gemaakt, gehouden, genoemd, genomen, gedaan, gezien, afgelopen, gegeven, gekomen, geworden</em>
 * `EMPTY` (1): <em>weet</em>
 
 <table>
@@ -39,7 +39,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-9818 <tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+9819 <tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
 The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="nl_alpino-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (8670; 88%), <tt><a href="nl_alpino-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6828; 70%), <tt><a href="nl_alpino-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (6252; 64%).
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 
 * `Fin` (8671; 88% of non-empty `VerbForm`): <em>is, was, heeft, zijn, werd, wordt, zal, zou, kan, hebben</em>
 * `Inf` (1078; 11% of non-empty `VerbForm`): <em>worden, zijn, kunnen, moeten, hebben, zullen, mogen, krijgen, wezen</em>
-* `Part` (69; 1% of non-empty `VerbForm`): <em>geweest, gekregen, zijnde, gehad, geworden</em>
+* `Part` (70; 1% of non-empty `VerbForm`): <em>geweest, gekregen, zijnde, gehad, geworden</em>
 
 <table>
   <tr><th>Paradigm <i>zijn</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>
@@ -62,8 +62,8 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="nl_alpino-dep-conj.html">conj</a></tt>]--> VERB</tt> (857; 73%),
-<tt>VERB --[<tt><a href="nl_alpino-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (278; 58%),
+<tt>VERB --[<tt><a href="nl_alpino-dep-conj.html">conj</a></tt>]--> VERB</tt> (858; 73%),
+<tt>VERB --[<tt><a href="nl_alpino-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (277; 58%),
 <tt>AUX --[<tt><a href="nl_alpino-dep-conj.html">conj</a></tt>]--> AUX</tt> (8; 100%),
 <tt>VERB --[<tt><a href="nl_alpino-dep-acl.html">acl</a></tt>]--> VERB</tt> (8; 62%),
 <tt>VERB --[<tt><a href="nl_alpino-dep-csubj-outer.html">csubj:outer</a></tt>]--> VERB</tt> (7; 58%),

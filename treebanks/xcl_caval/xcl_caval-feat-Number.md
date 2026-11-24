@@ -9,19 +9,19 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-49807 tokens (50%) have a non-empty value of `Number`.
-8848 types (97%) occur at least once with a non-empty value of `Number`.
+49794 tokens (50%) have a non-empty value of `Number`.
+8847 types (97%) occur at least once with a non-empty value of `Number`.
 3592 lemmas (92%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (14214; 14% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> (13376; 13% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (10498; 11% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (3072; 3% instances), <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (3017; 3% instances), <tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (2662; 3% instances), <tt><a href="xcl_caval-pos-DET.html">DET</a></tt> (2263; 2% instances), <tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (705; 1% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (14209; 14% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> (13376; 13% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (10495; 11% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (3065; 3% instances), <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (3017; 3% instances), <tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (2662; 3% instances), <tt><a href="xcl_caval-pos-DET.html">DET</a></tt> (2265; 2% instances), <tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (705; 1% instances).
 
 ### `NOUN`
 
-14214 <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
+14209 <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (4462; 31% of non-empty `Number`): <em>աշակերտք, երկնից, երկինս, աշակերտս, աղաւթս, կեանս, աւուրս, բանս, աշակերտաց, ձեռս</em>
-* `Sing` (9752; 69% of non-empty `Number`): <em>պատասխանի, որդի, Աստուածոյ, հայր, տէր, անուն, այր, Աստուած, բան, մարդոյ</em>
+* `Plur` (4461; 31% of non-empty `Number`): <em>աշակերտք, երկնից, երկինս, աշակերտս, աղաւթս, կեանս, աւուրս, բանս, աշակերտաց, ձեռս</em>
+* `Sing` (9748; 69% of non-empty `Number`): <em>պատասխանի, որդի, Աստուածոյ, հայր, տէր, անուն, այր, Աստուած, բան, մարդոյ</em>
 * `EMPTY` (2): <em>ԵԲՐԱՅԵՑՒՈՑ, ձեռն</em>
 
 <table>
@@ -43,8 +43,8 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (4041; 30% of non-empty `Number`): <em>ասեն, ասեին, տեսին, գնացին, լուան, ետուն, եկին, գիտէք, արարէք, երթայք</em>
-* `Sing` (9335; 70% of non-empty `Number`): <em>ասէ, ետ, ասեմ, եկն, ասաց, գայ, եկեալ, ել, ասէր, ետես</em>
+* `Plur` (4040; 30% of non-empty `Number`): <em>ասեն, ասեին, տեսին, գնացին, լուան, ետուն, եկին, գիտէք, արարէք, երթայք</em>
+* `Sing` (9336; 70% of non-empty `Number`): <em>ասէ, ետ, ասեմ, եկն, ասաց, գայ, եկեալ, ել, ասէր, ետես</em>
 * `EMPTY` (1240): <em>ասել, առնել, տալ, մտանել, ունել, գալ, տեսանել, առնուլ, ուտել, կալ</em>
 
 <table>
@@ -83,20 +83,20 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `PRON`
 
-10498 <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Number`.
+10495 <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (7079; 67%), <tt><a href="xcl_caval-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (6293; 60%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (7076; 67%), <tt><a href="xcl_caval-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (6290; 60%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (2768; 26% of non-empty `Number`): <em>նոսա, ձեզ, նոցա, մեզ, դուք, ձեր, նոքա, նոցանէ, իւրեանց, որոց</em>
-* `Sing` (7730; 74% of non-empty `Number`): <em>նա, որ, նորա, նմա, իմ, իս, իւր, քեզ, քո, ես</em>
+* `Plur` (2767; 26% of non-empty `Number`): <em>նոսա, ձեզ, նոցա, մեզ, դուք, ձեր, նոքա, նոցանէ, իւրեանց, որոց</em>
+* `Sing` (7728; 74% of non-empty `Number`): <em>նա, որ, նորա, նմա, իմ, իս, իւր, քեզ, քո, ես</em>
 
 <table>
   <tr><th>Paradigm <i>նա</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="xcl_caval-feat-Case.html">Case</a></tt><tt>=Abl</tt></tt></td><td><em>նմանէ</em></td><td><em>նոցանէ, նոցայ, նոցա</em></td></tr>
+  <tr><td><tt><tt><a href="xcl_caval-feat-Case.html">Case</a></tt><tt>=Abl</tt></tt></td><td><em>նմանէ</em></td><td><em>նոցանէ, նոցա, նոցայ</em></td></tr>
   <tr><td><tt><tt><a href="xcl_caval-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>նա, նոսա, նայ</em></td><td><em>նոսա</em></td></tr>
-  <tr><td><tt><tt><a href="xcl_caval-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>նմա, նոցա</em></td><td><em>նոցա</em></td></tr>
+  <tr><td><tt><tt><a href="xcl_caval-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>նմա, նոցա</em></td><td><em>նոցա, նոցայ</em></td></tr>
   <tr><td><tt><tt><a href="xcl_caval-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>նորա, նորայ, նոցա</em></td><td><em>նոցա, նոցայց</em></td></tr>
   <tr><td><tt><tt><a href="xcl_caval-feat-Case.html">Case</a></tt><tt>=Ins</tt></tt></td><td><em>նովաւ</em></td><td><em>նոքաւք</em></td></tr>
   <tr><td><tt><tt><a href="xcl_caval-feat-Case.html">Case</a></tt><tt>=Loc</tt></tt></td><td><em>նմա, նմայ, նըմայ, նա</em></td><td><em>նոսա, նոսայ</em></td></tr>
@@ -105,14 +105,14 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `ADJ`
 
-3072 <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Number`.
+3065 <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="xcl_caval-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1561; 51%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="xcl_caval-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1559; 51%).
 
 `ADJ` tokens may have the following values of `Number`:
 
-* `Plur` (798; 26% of non-empty `Number`): <em>յաւիտենականս, այլոց, այլք, այլս, կոյրք, բարիս, աղքատաց, առաջինք, քաջաց, առաջնոց</em>
-* `Sing` (2274; 74% of non-empty `Number`): <em>մեծ, առաջին, այլ, բարի, միւս, չար, ճշմարիտ, այղ, սուրբ, արժան</em>
+* `Plur` (796; 26% of non-empty `Number`): <em>յաւիտենականս, այլոց, այլք, այլս, կոյրք, բարիս, աղքատաց, առաջինք, քաջաց, առաջնոց</em>
+* `Sing` (2269; 74% of non-empty `Number`): <em>մեծ, առաջին, այլ, բարի, միւս, չար, ճշմարիտ, այղ, սուրբ, արժան</em>
 
 <table>
   <tr><th>Paradigm <i>այլ</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -179,15 +179,15 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 ### `DET`
 
-2263 <tt><a href="xcl_caval-pos-DET.html">DET</a></tt> tokens (32% of all `DET` tokens) have a non-empty value of `Number`.
+2265 <tt><a href="xcl_caval-pos-DET.html">DET</a></tt> tokens (32% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="xcl_caval-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (1902; 84%), <tt><a href="xcl_caval-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (1724; 76%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="xcl_caval-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (1903; 84%), <tt><a href="xcl_caval-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (1726; 76%).
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (406; 18% of non-empty `Number`): <em>իւրոց, բազումք, մեր, մերոց, ձերոց, այնոսիկ, բազումս, իմոց, քոց, բազմաց</em>
-* `Sing` (1857; 82% of non-empty `Number`): <em>ամենայն, մի, բազում, որ, այս, ինչ, իւրում, այն, ոմն, իւրոյ</em>
-* `EMPTY` (4840): <em>ն, ս, դ, այսոցիկ, ինչ</em>
+* `Plur` (407; 18% of non-empty `Number`): <em>իւրոց, բազումք, մեր, մերոց, ձերոց, այնոսիկ, բազումս, իմոց, քոց, բազմաց</em>
+* `Sing` (1858; 82% of non-empty `Number`): <em>ամենայն, մի, բազում, որ, այս, ինչ, իւրում, այն, ոմն, իւրոյ</em>
+* `EMPTY` (4841): <em>ն, ս, դ, այսոցիկ, ինչ</em>
 
 <table>
   <tr><th>Paradigm <i>իւր</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -228,14 +228,14 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>VERB --[<tt><a href="xcl_caval-dep-conj.html">conj</a></tt>]--> VERB</tt> (2561; 86%),
-<tt>VERB --[<tt><a href="xcl_caval-dep-obl.html">obl</a></tt>]--> NOUN</tt> (1826; 56%),
-<tt>VERB --[<tt><a href="xcl_caval-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (1713; 90%),
-<tt>VERB --[<tt><a href="xcl_caval-dep-obj.html">obj</a></tt>]--> NOUN</tt> (1531; 56%),
-<tt>VERB --[<tt><a href="xcl_caval-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1444; 70%),
+<tt>VERB --[<tt><a href="xcl_caval-dep-conj.html">conj</a></tt>]--> VERB</tt> (2564; 87%),
+<tt>VERB --[<tt><a href="xcl_caval-dep-obl.html">obl</a></tt>]--> NOUN</tt> (1797; 56%),
+<tt>VERB --[<tt><a href="xcl_caval-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (1708; 90%),
+<tt>VERB --[<tt><a href="xcl_caval-dep-obj.html">obj</a></tt>]--> NOUN</tt> (1537; 56%),
+<tt>VERB --[<tt><a href="xcl_caval-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1441; 70%),
 <tt>VERB --[<tt><a href="xcl_caval-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1363; 93%),
-<tt>VERB --[<tt><a href="xcl_caval-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1094; 58%),
-<tt>NOUN --[<tt><a href="xcl_caval-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (1050; 66%),
-<tt>NOUN --[<tt><a href="xcl_caval-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1034; 61%),
+<tt>VERB --[<tt><a href="xcl_caval-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1095; 58%),
+<tt>NOUN --[<tt><a href="xcl_caval-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (1053; 66%),
+<tt>NOUN --[<tt><a href="xcl_caval-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1036; 61%),
 <tt>VERB --[<tt><a href="xcl_caval-dep-obj.html">obj</a></tt>]--> PRON</tt> (976; 52%).
 

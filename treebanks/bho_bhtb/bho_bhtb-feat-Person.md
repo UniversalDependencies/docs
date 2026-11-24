@@ -12,7 +12,7 @@ It occurs with 3 different values: `1`, `2`, `3`.
 3367 tokens (51%) have a non-empty value of `Person`.
 1281 types (76%) occur at least once with a non-empty value of `Person`.
 1240 lemmas (76%) occur at least once with a non-empty value of `Person`.
-The feature is used with 12 part-of-speech tags: <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (1569; 24% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> (416; 6% instances), <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt> (392; 6% instances), <tt><a href="bho_bhtb-pos-AUX.html">AUX</a></tt> (220; 3% instances), <tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> (215; 3% instances), <tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt> (188; 3% instances), <tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt> (98; 1% instances), <tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> (93; 1% instances), <tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt> (91; 1% instances), <tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt> (52; 1% instances), <tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> (30; 0% instances), <tt><a href="bho_bhtb-pos-ADV.html">ADV</a></tt> (3; 0% instances).
+The feature is used with 12 part-of-speech tags: <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (1569; 24% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> (416; 6% instances), <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt> (392; 6% instances), <tt><a href="bho_bhtb-pos-AUX.html">AUX</a></tt> (220; 3% instances), <tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> (215; 3% instances), <tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt> (188; 3% instances), <tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt> (99; 1% instances), <tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> (93; 1% instances), <tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt> (90; 1% instances), <tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt> (52; 1% instances), <tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> (30; 0% instances), <tt><a href="bho_bhtb-pos-ADV.html">ADV</a></tt> (3; 0% instances).
 
 ### `NOUN`
 
@@ -127,16 +127,16 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 ### `ADJ`
 
-98 <tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt> tokens (39% of all `ADJ` tokens) have a non-empty value of `Person`.
+99 <tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt> tokens (40% of all `ADJ` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `ADJ` and `Person` co-occurred: <tt><a href="bho_bhtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (95; 97%), <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (89; 91%), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (83; 85%).
+The most frequent other feature values with which `ADJ` and `Person` co-occurred: <tt><a href="bho_bhtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (96; 97%), <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (90; 91%), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (84; 85%).
 
 `ADJ` tokens may have the following values of `Person`:
 
-* `3` (98; 100% of non-empty `Person`): बड़, छोट, तरह, नवका, बड़हन, भोजपुरिया, अढ़ाई, अश्लील, आधा, खुलल
+* `3` (99; 100% of non-empty `Person`): बड़, छोट, तरह, नवका, बड़हन, भोजपुरिया, अढ़ाई, अश्लील, आधा, खुलल
 * `EMPTY` (151): पूरा, सांस्कृतिक, तथाकथित, प, खास, चुपचाप, जरूरी, आखिरी, आसान, काव्य
 
-`Person` seems to be **lexical feature** of `ADJ`. 100% lemmas (67) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `ADJ`. 100% lemmas (68) occur only with one value of `Person`.
 
 ### `PART`
 
@@ -147,22 +147,22 @@ The most frequent other feature values with which `PART` and `Person` co-occurre
 `PART` tokens may have the following values of `Person`:
 
 * `3` (93; 100% of non-empty `Person`): त, नइखे, ना, बहुते, बस, गमगमावे, घटना, अलावे, केहू, खाली
-* `EMPTY` (98): ना, त, नइखे, भर, अतना, ढेर, तनिको, नाहीं, बनवले, बिना
+* `EMPTY` (97): ना, त, नइखे, भर, अतना, ढेर, तनिको, नाहीं, बनवले, बिना
 
 `Person` seems to be **lexical feature** of `PART`. 100% lemmas (16) occur only with one value of `Person`.
 
 ### `NUM`
 
-91 <tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt> tokens (61% of all `NUM` tokens) have a non-empty value of `Person`.
+90 <tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt> tokens (61% of all `NUM` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `NUM` and `Person` co-occurred: <tt><a href="bho_bhtb-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (91; 100%), <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (89; 98%), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (71; 78%), <tt><a href="bho_bhtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (68; 75%).
+The most frequent other feature values with which `NUM` and `Person` co-occurred: <tt><a href="bho_bhtb-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (90; 100%), <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (88; 98%), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (70; 78%), <tt><a href="bho_bhtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (67; 74%).
 
 `NUM` tokens may have the following values of `Person`:
 
-* `3` (91; 100% of non-empty `Person`): एगो, लोग, गो, दू, कुछ, 5, कलिग, छठवां, दोसर, दोसरा
+* `3` (90; 100% of non-empty `Person`): एगो, लोग, गो, दू, कुछ, 5, कलिग, छठवां, दोसर, दोसरा
 * `EMPTY` (58): एक, अनकस, पहिला, बाकि, सिलसिला, 12, 120, 2011, 75, आठ
 
-`Person` seems to be **lexical feature** of `NUM`. 100% lemmas (25) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `NUM`. 100% lemmas (24) occur only with one value of `Person`.
 
 ### `ADP`
 
@@ -186,7 +186,7 @@ The most frequent other feature values with which `CCONJ` and `Person` co-occurr
 `CCONJ` tokens may have the following values of `Person`:
 
 * `3` (30; 100% of non-empty `Person`): बाकिर, अउर, भा, राउर, आखिर, खम्भा, आउर
-* `EMPTY` (121): आ, फगुआ, बाकिर, अउर, आउर, खैर, बलुक, रउँआ, सचहूं
+* `EMPTY` (122): आ, फगुआ, बाकिर, अउर, आउर, खैर, बलुक, रउँआ, सचहूं
 
 ### `ADV`
 
@@ -202,7 +202,7 @@ The most frequent other feature values with which `ADV` and `Person` co-occurred
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>NOUN --[<tt><a href="bho_bhtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (243; 82%),
+<tt>NOUN --[<tt><a href="bho_bhtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (256; 82%),
 <tt>NOUN --[<tt><a href="bho_bhtb-dep-compound.html">compound</a></tt>]--> NOUN</tt> (201; 82%),
 <tt>VERB --[<tt><a href="bho_bhtb-dep-compound.html">compound</a></tt>]--> NOUN</tt> (194; 59%),
 <tt>PROPN --[<tt><a href="bho_bhtb-dep-compound.html">compound</a></tt>]--> PROPN</tt> (138; 94%),

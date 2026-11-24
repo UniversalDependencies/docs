@@ -18,7 +18,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="cs_cltt-pos-VERB.ht
 
 1507 <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> tokens (83% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1507; 100%), <tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1393; 92%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt> (1393; 92%), <tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1393; 92%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1297; 86%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (985; 65%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1507; 100%), <tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1393; 92%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt> (1393; 92%), <tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1393; 92%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1297; 86%), <tt><a href="cs_cltt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (1042; 69%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (985; 65%).
 
 `VERB` tokens may have the following values of `Tense`:
 
@@ -66,7 +66,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 292 <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> tokens (4% of all `ADJ` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `ADJ` and `Tense` co-occurred: <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (290; 99%), <tt><a href="cs_cltt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (287; 98%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (179; 61%), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (173; 59%).
+The most frequent other feature values with which `ADJ` and `Tense` co-occurred: <tt><a href="cs_cltt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (292; 100%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (290; 99%), <tt><a href="cs_cltt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (287; 98%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (179; 61%), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (173; 59%).
 
 `ADJ` tokens may have the following values of `Tense`:
 

@@ -18,7 +18,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="cs_pud-pos-ADJ.html
 
 2092 <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> tokens (92% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (2038; 97%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1738; 83%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1738; 83%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1336; 64%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1292; 62%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (2038; 97%), <tt><a href="cs_pud-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (1767; 84%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1738; 83%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1738; 83%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1336; 64%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1292; 62%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
@@ -66,7 +66,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 * `Cmp` (45; 16% of non-empty `Degree`): <em>více, později, víc, dříve, méně, Přesněji, dál, lépe, raději, radši</em>
 * `Pos` (222; 81% of non-empty `Degree`): <em>stejně, často, pravděpodobně, původně, samozřejmě, dobře, přibližně, společně, úplně, krátce</em>
 * `Sup` (8; 3% of non-empty `Degree`): <em>nejlépe, nejvíce, nejméně, nejpozději, nejpravděpodobněji</em>
-* `EMPTY` (558): <em>tak, také, jak, poté, už, kde, pouze, ještě, velmi, zcela</em>
+* `EMPTY` (565): <em>tak, jak, také, poté, už, kde, pouze, ještě, velmi, zcela</em>
 
 <table>
   <tr><th>Paradigm <i>dobře</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>

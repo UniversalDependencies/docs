@@ -140,8 +140,11 @@ This is an overview only. For more detailed discussion and examples, see the lis
     and is written together with the verb as one multiword token; we still treat it as a separate syntactic word.
   * The accusative clitic may occur together with the full nominal if the full nominal is brought to the front to set
     the topic of the clause. In such constructions, the fronted object is attached via the [dislocated]() relation
-    and the accusative clitic keeps the [obj]() relation. (Cf. with clitic doubling for beneficiaries, which is
-    described below and which is analyzed differently, with [expl]() relation for the clitic.)
+    and the accusative clitic keeps the [obj]() relation.
+  * A different construction is clitic doubling, where the object is not fronted but it is still represented both
+    by the clitic and by the full nominal (as in _Pedro la ayudaba a ella_). In this construction, the clitic
+    receives the [expl]() relation and the full nominal is attached as [obj](). (Cf. with clitic doubling for
+    beneficiaries, which is described below.)
 * The term ‘indirect object’ is traditionally used in Spanish grammar for the argument that represents the
   recipient or beneficiary of an action. However, these participants are not core arguments (they use oblique
   marking, either a preposition or a dative pronoun), hence they cannot be called indirect objects in UD
@@ -194,6 +197,18 @@ This is an overview only. For more detailed discussion and examples, see the lis
 6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	Gloss=the
 7	costa	costa	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	Gloss=coast|SpaceAfter=No
 8	.	.	PUNCT	_	_	5	punct	_	_
+
+~~~
+
+~~~conllu
+# text = Pedro la ayudaba a ella.
+# text_en = Pedro helped her.
+1	Pedro	Pedro	PROPN	_	Gender=Masc|Number=Sing	3	nsubj	_	Gloss=Pedro
+2	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	expl	_	Gloss=her
+3	ayudaba	ayudar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	Gloss=helped
+4	a	a	ADP	_	_	5	case	_	Gloss=to
+5	ella	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	_	Gloss=her|SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

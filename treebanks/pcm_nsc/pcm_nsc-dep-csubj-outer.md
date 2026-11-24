@@ -22,19 +22,19 @@ The following 1 pairs of parts of speech are connected with `csubj:outer`: <tt><
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 3 csubj:outer	color:blue
-1	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	AlignBegin=289386|AlignEnd=289490|Gloss=NOM.SG.1
-2	don	don	AUX	_	Aspect=Perf	3	aux	_	AlignBegin=289490|AlignEnd=289640|Gloss=PRF
-3	wrap	wrap	VERB	_	_	10	csubj:outer	_	AlignBegin=289640|AlignEnd=289870|Gloss=wrap
-4	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	3	obj	_	AlignBegin=289870|AlignEnd=289950|Gloss=ACC.SG.3
-5	be	be	AUX	_	PartType=Cop	10	cop	_	AlignBegin=289950|AlignEnd=290050|Gloss=be
-6	sey	sey	SCONJ	_	_	10	mark	_	AlignBegin=290050|AlignEnd=290190|Gloss=COMP
-7	[	[	PUNCT	_	_	10	punct	_	AlignBegin=290190|AlignEnd=290190|Gloss=PUNCT
-8	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	AlignBegin=290190|AlignEnd=290280|Gloss=NOM.SG.1
-9	don	don	AUX	_	Aspect=Perf	10	aux	_	AlignBegin=290280|AlignEnd=290390|Gloss=PRF
-10	wrap	wrap	VERB	_	_	0	root	_	AlignBegin=290390|AlignEnd=290620|Gloss=wrap
-11	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	10	obj	_	AlignBegin=290620|AlignEnd=290810|Gloss=ACC.SG.3
-12	]	]	PUNCT	_	_	10	punct	_	AlignBegin=290810|AlignEnd=290810|Gloss=PUNCT
-13	//	//	PUNCT	_	_	10	punct	_	AlignBegin=290780|AlignEnd=290810|Gloss=PUNCT
+1	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=NOM.SG.1|WordAlignmentBegin=289386|WordAlignmentEnd=289490
+2	don	don	AUX	_	Aspect=Perf	3	aux	_	Gloss=PRF|WordAlignmentBegin=289490|WordAlignmentEnd=289640
+3	wrap	wrap	VERB	_	_	10	csubj:outer	_	Gloss=wrap|WordAlignmentBegin=289640|WordAlignmentEnd=289870
+4	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	3	obj	_	Gloss=ACC.SG.3|WordAlignmentBegin=289870|WordAlignmentEnd=289950
+5	be	be	AUX	_	PartType=Cop	10	cop	_	Gloss=be|WordAlignmentBegin=289950|WordAlignmentEnd=290050
+6	sey	sey	SCONJ	_	_	10	mark	_	Gloss=COMP|WordAlignmentBegin=290050|WordAlignmentEnd=290190
+7	[	[	PUNCT	_	_	10	punct	_	Gloss=PUNCT|WordAlignmentBegin=290190|WordAlignmentEnd=290190
+8	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	Gloss=NOM.SG.1|WordAlignmentBegin=290190|WordAlignmentEnd=290280
+9	don	don	AUX	_	Aspect=Perf	10	aux	_	Gloss=PRF|WordAlignmentBegin=290280|WordAlignmentEnd=290390
+10	wrap	wrap	VERB	_	_	0	root	_	Gloss=wrap|WordAlignmentBegin=290390|WordAlignmentEnd=290620
+11	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	10	obj	_	Gloss=ACC.SG.3|WordAlignmentBegin=290620|WordAlignmentEnd=290810
+12	]	]	PUNCT	_	_	10	punct	_	Gloss=PUNCT|WordAlignmentBegin=290810|WordAlignmentEnd=290810
+13	//	//	PUNCT	_	_	10	punct	_	Gloss=PUNCT|WordAlignmentBegin=290780|WordAlignmentEnd=290810
 
 ~~~
 

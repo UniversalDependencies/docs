@@ -14,7 +14,7 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 
 132 tokens (3%) have a non-empty value of `Number[obj]`.
 123 types (6%) occur at least once with a non-empty value of `Number[obj]`.
-90 lemmas (6%) occur at least once with a non-empty value of `Number[obj]`.
+90 lemmas (7%) occur at least once with a non-empty value of `Number[obj]`.
 The feature is used with 2 part-of-speech tags: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (128; 3% instances), <tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (4; 0% instances).
 
 ### `VERB`
@@ -28,10 +28,10 @@ The most frequent other feature values with which `VERB` and `Number[obj]` co-oc
 
 <table>
   <tr><th>Paradigm <i>сявомс</i></th><th><tt>Plur</tt></th><th><tt>Sing</tt></th></tr>
+  <tr><td><tt><tt><a href="mdf_jr-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="mdf_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=Sing</tt>|<tt><a href="mdf_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="mdf_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="mdf_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>сявольхце</em></td></tr>
   <tr><td><tt><tt><a href="mdf_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="mdf_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=Plur</tt>|<tt><a href="mdf_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="mdf_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=1</tt>|<tt><a href="mdf_jr-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>Сявсаськ</em></td><td></td></tr>
   <tr><td><tt><tt><a href="mdf_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="mdf_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=Sing</tt>|<tt><a href="mdf_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="mdf_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="mdf_jr-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="mdf_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>сявозь</em></td></tr>
   <tr><td><tt><tt><a href="mdf_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="mdf_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=Sing</tt>|<tt><a href="mdf_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="mdf_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="mdf_jr-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="mdf_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>сявозе</em></td></tr>
-  <tr><td><tt><tt><a href="mdf_jr-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="mdf_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=Sing</tt>|<tt><a href="mdf_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="mdf_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="mdf_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>сявольхце</em></td></tr>
 </table>
 
 `Number[obj]` seems to be **lexical feature** of `VERB`. 93% lemmas (82) occur only with one value of `Number[obj]`.

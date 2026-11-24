@@ -59,7 +59,7 @@ The most frequent other feature values with which `ADJ` and `Tense` co-occurred:
 
 * `Past` (853; 67% of non-empty `Tense`): <em>särskild, särskilda, ökad, ökade, gifta, sett, taget, handikappade, beredd, bestämda</em>
 * `Pres` (421; 33% of non-empty `Tense`): <em>följande, beroende, motsvarande, liknande, nuvarande, omfattande, avgörande, krävande, tillfredsställande, förvärvsarbetande</em>
-* `EMPTY` (7279): <em>olika, andra, nya, många, stora, stor, samma, större, vissa, första</em>
+* `EMPTY` (7276): <em>olika, andra, nya, många, stora, stor, samma, större, vissa, första</em>
 
 `Tense` seems to be **lexical feature** of `ADJ`. 100% lemmas (500) occur only with one value of `Tense`.
 
@@ -73,7 +73,7 @@ The most frequent other feature values with which `ADV` and `Tense` co-occurred:
 
 * `Past` (2; 29% of non-empty `Tense`): <em>koncentrerat, renodlat</em>
 * `Pres` (5; 71% of non-empty `Tense`): <em>flytande, förfärande, försvinnande, imponerande, oroande</em>
-* `EMPTY` (6921): <em>också, så, hur, där, här, nu, bara, ut, mycket, även</em>
+* `EMPTY` (6924): <em>också, så, hur, där, här, nu, bara, ut, mycket, även</em>
 
 ## Relations with Agreement in `Tense`
 

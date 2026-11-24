@@ -16,14 +16,14 @@ The feature is used with 3 part-of-speech tags: <tt><a href="frm_profiterole-pos
 
 ### `DET`
 
-1523 <tt><a href="frm_profiterole-pos-DET.html">DET</a></tt> tokens (11% of all `DET` tokens) have a non-empty value of `Poss`.
+1523 <tt><a href="frm_profiterole-pos-DET.html">DET</a></tt> tokens (9% of all `DET` tokens) have a non-empty value of `Poss`.
 
 The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="frm_profiterole-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (1523; 100%), <tt><a href="frm_profiterole-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1523; 100%).
 
 `DET` tokens may have the following values of `Poss`:
 
 * `Yes` (1523; 100% of non-empty `Poss`): <em>son, ses, sa, leur, nostre, leurs, mon, vostre, ma, mes</em>
-* `EMPTY` (11915): <em>le, la, les, l', ung, une, ce, nostre, tous, ceste</em>
+* `EMPTY` (15550): <em>le, la, les, l', une, ung, son, ce, nostre, tous</em>
 
 ### `PRON`
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `PRON` and `Poss` co-occurred:
 `PRON` tokens may have the following values of `Poss`:
 
 * `Yes` (30; 100% of non-empty `Poss`): <em>sien, vostre, siens, mien, nostres, nostre, vostres, leur, miens, myen</em>
-* `EMPTY` (11515): <em>il, qui, ilz, nous, vous, que, ce, se, luy, je</em>
+* `EMPTY` (15858): <em>il, qui, vous, ilz, nous, se, que, ce, je, le</em>
 
 ### `ADJ`
 
@@ -43,5 +43,5 @@ The most frequent other feature values with which `PRON` and `Poss` co-occurred:
 `ADJ` tokens may have the following values of `Poss`:
 
 * `Yes` (12; 100% of non-empty `Poss`): <em>sien, mienne, sienne, leur, nostre, vostre</em>
-* `EMPTY` (4254): <em>grant, saint, belle, grans, bonne, saincte, bon, beau, grande, grand</em>
+* `EMPTY` (5779): <em>grant, saint, belle, grans, bon, bonne, saincte, noble, autre, beau</em>
 

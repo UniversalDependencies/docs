@@ -15,7 +15,7 @@ The 10 most frequent `X` types:  <em>ha, a, à, è, ẹ̀</em>
 
 The 10 most frequent ambiguous lemmas: 
 
-The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 55, <tt><a href="yo_ytb-pos-X.html">X</a></tt> 2, <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> 1, <tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> 1), <em>à</em> (<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 2, <tt><a href="yo_ytb-pos-X.html">X</a></tt> 2), <em>ẹ̀</em> (<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="yo_ytb-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 55, <tt><a href="yo_ytb-pos-X.html">X</a></tt> 2, <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> 1, <tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> 1), <em>à</em> (<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 2, <tt><a href="yo_ytb-pos-X.html">X</a></tt> 2), <em>ẹ̀</em> (<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 1, <tt><a href="yo_ytb-pos-X.html">X</a></tt> 1)
 
 
 * <em>a</em>
@@ -27,12 +27,12 @@ The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="yo_ytb-pos-PRON.
   * <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 2: <em>Ọ̀kan nínú àwọn olórí sínágọ́gù tí <b>à</b> ń pè ni Jáírù wá sọ́dọ̀ Jésù , nígbà tí ó sì rí i , ó wólẹ̀ níwájú rẹ̀ .</em>
   * <tt><a href="yo_ytb-pos-X.html">X</a></tt> 2: <em>Ṣùgbọ́n bi Jésù ti gbọ́ ọ̀rọ̀ náà , ó wí fún Jáírù pé , “ Má bẹ̀rù , sá <b>à</b> gbà mí gbọ́ nìkan . ”</em>
 * <em>ẹ̀</em>
-  * <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> 1: <em>Tún wo Ipa Jimmy Wales ṣùgbọn , Wikipédíà ṣàkóso ara <b>ẹ̀</b> nipase oníwé àwùjọ .</em>
+  * <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 1: <em>Tún wo Ipa Jimmy Wales ṣùgbọn , Wikipédíà ṣàkóso ara <b>ẹ̀</b> nipase oníwé àwùjọ .</em>
   * <tt><a href="yo_ytb-pos-X.html">X</a></tt> 1: <em>Ó jẹ́ èso ìfohùnṣọ̀kan , bẹ́ <b>ẹ̀</b> sì ni ó jẹ́ gbígbàgbọ́ pé gbogbo àwọn oníṣe gbọ́dọ̀ tẹ̀lé wọn gbámúgbámú .</em>
 
 ## Morphology
 
-The form / lemma ratio of `X` is 2.500000 (the average of all parts of speech is 1.007366).
+The form / lemma ratio of `X` is 2.500000 (the average of all parts of speech is 1.010546).
 
 The 1st highest number of forms (4) was observed with the lemma “_”: <em>a, à, è, ẹ̀</em>.
 

@@ -23,7 +23,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (497; 100% of non-empty `Polarity`): <em>pas, n', ne, que, non, plus, qu'</em>
-* `EMPTY` (3006): <em>donc, parce, enfin, vraiment, plus, là, tout, très, même, après</em>
+* `EMPTY` (3011): <em>donc, parce, enfin, vraiment, plus, là, tout, très, même, après</em>
 
 ### `SCONJ`
 
@@ -32,11 +32,10 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `SCONJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (3; 100% of non-empty `Polarity`): <em>qu', que</em>
-* `EMPTY` (940): <em>que, qu', quand, si, comme, puisque, parce, puisqu', s', après</em>
+* `EMPTY` (933): <em>que, qu', quand, si, comme, puisque, puisqu', s', après, avant</em>
 
 ## Relations with Agreement in `Polarity`
 
 The 10 most frequent relations where parent and child node agree in `Polarity`:
-<tt>ADV --[<tt><a href="fr_parisstories-dep-conj.html">conj</a></tt>]--> ADV</tt> (2; 100%),
-<tt>ADV --[<tt><a href="fr_parisstories-dep-reparandum.html">reparandum</a></tt>]--> ADV</tt> (2; 67%).
+<tt>ADV --[<tt><a href="fr_parisstories-dep-conj.html">conj</a></tt>]--> ADV</tt> (2; 100%).
 

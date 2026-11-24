@@ -22,16 +22,16 @@ The 10 most frequent ambiguous types:  <em>lūdzu</em> (<tt><a href="lv_lvtb-pos
   * <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 12: <em>- Rēķinu , <b>lūdzu</b> .</em>
   * <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> 4: <em>Divas tases kafijas un ūdeni bez gāzes , <b>lūdzu</b> , nē , mēs uz divām stundām .</em>
 * <em>nu</em>
-  * <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 112: <em>- Beidz <b>nu</b> , ej nost !</em>
+  * <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 112: <em>Un te <b>nu</b> Rokfelleram pavērās iespēja .</em>
   * <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> 80: <em>Tā <b>nu</b> tu tur čāpo .</em>
   * <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 1: <em>Viņš tādos vakaros gaidīja mani uz mūsu ielas stūra , sēdēja , savas mašīnas siltajā , smacīgajā tumsā paslēpies , ugunis izslēdzis , smēķēja , domāja , gaidīja ; es nācu steidzīgiem soļiem , nosalušās rokas dziļi mēteļa kabatās , zodu paslēpusi pūkainajā mākslīgas zvērādas apkaklē , katrā solī un sirdspukstā apzinādamās , ka viņš mani redz , mani vēro , smēķē , gaida , kaut ko domā , gaida ; es esmu neveikla , es vienmēr esmu jutusies neveikla , mazliet par garu , mazliet par platu , man trūkst līdzsvara sajūtas , un melno pēdu raksts uz baltā trotuāra celiņa aiz manis stiepjas drusku juceklīgs , pie mašīnas durtiņām tas aprausies pēkšņi , bet tik un tā pēc pārdesmit minūtēm viss jau atkal būs balts vai arī citas pēdas nojauks manējo rakstu ; viņš atver durtiņas , kad esmu dažus soļus no mašīnas , pārliecas pāri pasažieru sēdeklim , - klikt - tās ir vaļā tieši tai mirklī , kad es esmu klāt , es iesēžos žigli , viņš pārlaiž steidzīgu skatu ielai - neviens nav redzējis - un tai pašā acumirklī saņem manus aukstos pirkstus savā lielajā plaukstā , viegls skūpsts uz lūpām , - <b>nu</b> sveika , saule .</em>
 * <em>redz</em>
   * <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> 16: <em>Ārsts <b>redz</b> , kā pacients jūtas .</em>
   * <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 3: <em>Bet viņam jautājumi , <b>redz</b> , sakrājušies .</em>
 * <em>vai</em>
-  * <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> 904: <em>Ved <b>vai</b> neved , dubļi nāk pa durvīm iekšā .</em>
+  * <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> 904: <em>Un viss atkal riņķo ap pacienta stāstīto <b>vai</b> nestāstīto .</em>
   * <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 154: <em>Protams , ir jārēķina , <b>vai</b> ir jēga to darīt .</em>
-  * <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 130: <em>Klau , <b>vai</b> tagad arī uz palodzes negrabinās viena zilzīlīte ?</em>
+  * <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 130: <em>" Klau , <b>vai</b> tu savu bēri nebaro ? "</em>
   * <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 1: <em>– Vai , manu , <b>vai</b> !</em>
 * <em>Še</em>
   * <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 3: <em><b>Še</b> putra , ēd , televizoru vakarā skatīsies .</em>
@@ -41,7 +41,7 @@ The 10 most frequent ambiguous types:  <em>lūdzu</em> (<tt><a href="lv_lvtb-pos
   * <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 1: <em>" Ej , <b>ej</b> .</em>
 * <em>nūja</em>
   * <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> 4: <em>Un <b>nūja</b> sāka augt .</em>
-  * <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 2: <em>Nu jā – <b>nūja</b> , kuŗu biju dusmās sviedis prom .</em>
+  * <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 2: <em>Mājā tumšs , <b>nūja</b> - aizejot aizmirsās gaismu ieslēgt .</em>
 * <em>zin'</em>
   * <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 2: <em>Labi , sniegpulksteņi ir forši un visas tās pavasara urgas , <b>zin'</b> .</em>
   * <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> 1: <em>Nu vai <b>zin'</b> .</em>
@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>lūdzu</em> (<tt><a href="lv_lvtb-pos
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 2.342815).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 2.343431).
 
 The 1st highest number of forms (1) was observed with the lemma “aha”: <em>Aha</em>.
 

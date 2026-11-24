@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (25; 100% of non-empty `Foreign`): <em>maːl, hajawaːna, ʔarabijaːj, balad, bani, gahwat, saːri, xawaːʤa, dawaːhi, mawaːʔid</em>
-* `EMPTY` (1694): <em>tak, doːr, ʔar, mhiːn, naː, na, dhaj, kaːm, lhaweː, ʔoːr</em>
+* `EMPTY` (1691): <em>tak, doːr, ʔar, mhiːn, naː, na, dhaj, kaːm, lhaweː, ʔoːr</em>
 
 ### `X`
 
@@ -43,7 +43,7 @@ The most frequent other feature values with which `PART` and `Foreign` co-occurr
 `PART` tokens may have the following values of `Foreign`:
 
 * `Yes` (15; 100% of non-empty `Foreign`): <em>bass, nuːn</em>
-* `EMPTY` (306): <em>bak, ka=, han, ontʔa, ki=, baː=, bi=, jaː, tʔa, geː</em>
+* `EMPTY` (306): <em>bak, ka=, ontʔa, han, ki=, baː=, bi=, jaː, tʔa, geː</em>
 
 ### `VERB`
 
@@ -54,7 +54,7 @@ The most frequent other feature values with which `VERB` and `Foreign` co-occurr
 `VERB` tokens may have the following values of `Foreign`:
 
 * `Yes` (10; 100% of non-empty `Foreign`): <em>aːmaliːna, gʷadaaman, gʷadaamani, gʷadaameːtiːt, gʷadaami, gʷadaamiːni, ikfilna, massalan, rajjhamjaːni, xatarta</em>
-* `EMPTY` (2398): <em>eːn, indi, ini, jʔi, tindi, iːfi, jʔeːn, jʔeːtiːt, iːbri, akeːna</em>
+* `EMPTY` (2395): <em>eːn, indi, ini, jʔi, tindi, iːfi, jʔeːn, jʔeːtiːt, iːbri, akeːna</em>
 
 ### `ADJ`
 
@@ -72,7 +72,7 @@ The most frequent other feature values with which `VERB` and `Foreign` co-occurr
 `ADV` tokens may have the following values of `Foreign`:
 
 * `Yes` (3; 100% of non-empty `Foreign`): <em>ʤuwwaːb, bass</em>
-* `EMPTY` (189): <em>ontʔa, winneːt, suːr, tʔa, daːjeːb, kak, igeːsi, beːn, lhajt, amsi</em>
+* `EMPTY` (188): <em>ontʔa, winneːt, suːr, tʔa, daːjeːb, kak, igeːsi, beːn, lhajt, amsi</em>
 
 ### `CCONJ`
 
@@ -81,7 +81,7 @@ The most frequent other feature values with which `VERB` and `Foreign` co-occurr
 `CCONJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (3; 100% of non-empty `Foreign`): <em>laːkin</em>
-* `EMPTY` (335): <em>=t, =wa, areː, =jaːt, =aːt, =ajt, =wwa, =it, tara, =aj</em>
+* `EMPTY` (334): <em>=t, =wa, areː, =jaːt, =aːt, =ajt, =wwa, =it, tara, =aj</em>
 
 ### `ADP`
 
@@ -92,7 +92,7 @@ The most frequent other feature values with which `ADP` and `Foreign` co-occurre
 `ADP` tokens may have the following values of `Foreign`:
 
 * `Yes` (2; 100% of non-empty `Foreign`): <em>sabbiː</em>
-* `EMPTY` (765): <em>=i, dhaːj, hoːj, =ka, =iːb, haːj, =da, =iː, =eːb, dh</em>
+* `EMPTY` (762): <em>=i, dhaːj, hoːj, =ka, =iːb, haːj, =da, =iː, =eːb, dh</em>
 
 ### `PROPN`
 

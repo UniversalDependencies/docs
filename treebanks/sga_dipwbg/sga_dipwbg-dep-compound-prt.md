@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of .
 
-29 nodes (7%) are attached to their parents as `compound:prt`.
+32 nodes (7%) are attached to their parents as `compound:prt`.
 
-29 instances of `compound:prt` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.3448275862069.
+32 instances of `compound:prt` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.3125.
 
-The following 2 pairs of parts of speech are connected with `compound:prt`: <tt><a href="sga_dipwbg-pos-VERB.html">VERB</a></tt>-<tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> (28; 97% instances), <tt><a href="sga_dipwbg-pos-AUX.html">AUX</a></tt>-<tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> (1; 3% instances).
+The following 2 pairs of parts of speech are connected with `compound:prt`: <tt><a href="sga_dipwbg-pos-VERB.html">VERB</a></tt>-<tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> (31; 97% instances), <tt><a href="sga_dipwbg-pos-AUX.html">AUX</a></tt>-<tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> (1; 3% instances).
 
 
 ~~~ conllu

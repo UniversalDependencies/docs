@@ -22,13 +22,13 @@ The following 15 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 det	color:blue
-1	МЬШѢ	мьша	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	0	root	_	ref=
-2	НА	на	ADP	R-	_	4	case	_	ref=
-3	ВЬСѦ	вьсь	DET	Px	Case=Acc|Gender=Masc|Number=Plur	4	det	_	ref=
-4	ДЬНꙆ	дьнь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	1	nmod	_	ref=
-5	ВСЕГО	вьсь	DET	Px	Case=Gen|Gender=Neut|Number=Sing	6	det	_	ref=
-6	ЛѢТА	лѣто	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	1	orphan	_	ref=
-7	ОБꙆДѪЦѢ	обити	VERB	V-	Case=Gen|Gender=Neut|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	6	acl	_	ref=|LId=1
+1	МЬШѢ	мьша	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	НА	на	ADP	R-	_	4	case	_	_
+3	ВЬСѦ	вьсь	DET	Px	Case=Acc|Gender=Masc|Number=Plur	4	det	_	_
+4	ДЬНꙆ	дьнь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	1	nmod	_	_
+5	ВСЕГО	вьсь	DET	Px	Case=Gen|Gender=Neut|Number=Sing	6	det	_	_
+6	ЛѢТА	лѣто	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	1	orphan	_	_
+7	ОБꙆДѪЦѢ	обити	VERB	V-	Case=Gen|Gender=Neut|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	6	acl	_	LId=1
 
 ~~~
 

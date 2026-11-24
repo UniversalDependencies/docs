@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="hi_pud-dep-obl.html">obl</a></tt>.
 There are also 1 other language-specific subtypes of `obl`: <tt><a href="hi_pud-dep-obl-tmod.html">obl:tmod</a></tt>.
 
-43 nodes (0%) are attached to their parents as `obl:agent`.
+42 nodes (0%) are attached to their parents as `obl:agent`.
 
-43 instances of `obl:agent` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 8.16279069767442.
+42 instances of `obl:agent` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 8.23809523809524.
 
-The following 4 pairs of parts of speech are connected with `obl:agent`: <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (28; 65% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt> (12; 28% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt> (2; 5% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
+The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (28; 67% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt> (12; 29% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt> (2; 5% instances).
 
 
 ~~~ conllu

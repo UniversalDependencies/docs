@@ -91,4 +91,4 @@ Collective or mass or singulare tantum is a special case of singular. It applies
 * _<b>գութ</b>_/_gowtʼ_ “compassion”
 * _<b>կաթ</b>_/_katʼ_ “milk”
 * _<b>պողպատ</b>_/_poġpat_ “steel”
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:04 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:51 CET -->

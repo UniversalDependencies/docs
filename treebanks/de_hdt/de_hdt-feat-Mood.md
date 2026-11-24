@@ -10,8 +10,8 @@ This feature is universal.
 It occurs with 2 different values: `Imp`, `Ind`.
 
 268486 tokens (8%) have a non-empty value of `Mood`.
-9245 types (5%) occur at least once with a non-empty value of `Mood`.
-3384 lemmas (2%) occur at least once with a non-empty value of `Mood`.
+9246 types (5%) occur at least once with a non-empty value of `Mood`.
+3390 lemmas (2%) occur at least once with a non-empty value of `Mood`.
 The feature is used with 2 part-of-speech tags: <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> (134430; 4% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> (134056; 4% instances).
 
 ### `VERB`
@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 * `Imp` (746; 1% of non-empty `Mood`): <em>siehe, sprich, update, Stimm, Bleibt, lies, Mach, Mehr, schaut, vgl.</em>
 * `Ind` (133684; 99% of non-empty `Mood`): <em>sagte, gibt, geht, steht, bietet, erklärte, kommt, sieht, gab, stellt</em>
-* `EMPTY` (129157): <em>machen, angekündigt, geben, lassen, kommen, bringen, anbieten, erhalten, gegeben, gemacht</em>
+* `EMPTY` (129145): <em>machen, angekündigt, geben, lassen, kommen, bringen, anbieten, erhalten, gegeben, gemacht</em>
 
 <table>
   <tr><th>Paradigm <i>geben</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th></tr>
@@ -41,7 +41,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
   <tr><td><tt><tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de_hdt-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>gaben, geben</em></td><td></td></tr>
 </table>
 
-`Mood` seems to be **lexical feature** of `VERB`. 97% lemmas (3279) occur only with one value of `Mood`.
+`Mood` seems to be **lexical feature** of `VERB`. 97% lemmas (3285) occur only with one value of `Mood`.
 
 ### `AUX`
 

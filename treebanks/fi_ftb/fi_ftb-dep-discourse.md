@@ -11,9 +11,9 @@ This relation is universal.
 318 nodes (0%) are attached to their parents as `discourse`.
 
 277 instances of `discourse` (87%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.83962264150943.
+Average distance between parent and child is 2.81446540880503.
 
-The following 17 pairs of parts of speech are connected with `discourse`: <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> (162; 51% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> (36; 11% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> (19; 6% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt>-<tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> (15; 5% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (15; 5% instances), <tt><a href="fi_ftb-pos-PART.html">PART</a></tt>-<tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> (14; 4% instances), <tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> (14; 4% instances), <tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt>-<tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> (9; 3% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt> (9; 3% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt>-<tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> (7; 2% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-PART.html">PART</a></tt> (7; 2% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt> (3; 1% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 17 pairs of parts of speech are connected with `discourse`: <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> (157; 49% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> (36; 11% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt>-<tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> (19; 6% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> (18; 6% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (15; 5% instances), <tt><a href="fi_ftb-pos-PART.html">PART</a></tt>-<tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> (14; 4% instances), <tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> (14; 4% instances), <tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt>-<tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> (9; 3% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt> (9; 3% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt>-<tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> (7; 2% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-PART.html">PART</a></tt> (7; 2% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt> (3; 1% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> (3; 1% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -33,7 +33,7 @@ The following 17 pairs of parts of speech are connected with `discourse`: <tt><a
 9	me	minä	PRON	Pron,Pers,Pl1,Nom	Case=Nom|Number=Plur|Person=1|PronType=Prs	11	nsubj	_	_
 10	oltiin	olla	AUX	V,Pass,Ind,Past	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	11	aux	_	_
 11	sovittu	sopia	VERB	V,Pass,PcpNut,Sg,Nom	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	6	conj	_	_
-12	.	.	PUNCT	Pun	_	11	punct	_	_
+12	.	.	PUNCT	Pun	_	6	punct	_	_
 
 ~~~
 
@@ -61,9 +61,8 @@ The following 17 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 discourse	color:blue
-1	Hyi	hyi	INTJ	Pcle,Interj	_	2	discourse	_	Alt=2_discourse
-2	kauheeta	kauhea	ADJ	A,Sg,Par	Case=Par|Number=Sing|Style=Coll	0	root	_	_
-3	!	!	PUNCT	Pun	_	2	punct	_	_
+1	hyi	hyi	INTJ	Pcle,Interj	_	2	discourse	_	Alt=2_discourse
+2	sinua	sinä	PRON	Pron,Pers,Sg2,Par	Case=Par|Number=Sing|Person=2|PronType=Prs	0	root	_	_
 
 ~~~
 

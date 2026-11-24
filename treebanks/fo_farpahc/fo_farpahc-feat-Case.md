@@ -125,5 +125,5 @@ The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="fo_farpahc-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (68; 99%),
 <tt>PRON --[<tt><a href="fo_farpahc-dep-xcomp.html">xcomp</a></tt>]--> NOUN</tt> (64; 90%),
 <tt>PROPN --[<tt><a href="fo_farpahc-dep-dep.html">dep</a></tt>]--> PROPN</tt> (64; 100%),
-<tt>PROPN --[<tt><a href="fo_farpahc-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (52; 85%).
+<tt>PRON --[<tt><a href="fo_farpahc-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (52; 95%).
 

@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Urdu-UDTB: POS Tags: `PUNCT`
 
-There are 17 `PUNCT` lemmas (0%), 17 `PUNCT` types (0%) and 6911 `PUNCT` tokens (5%).
+There are 17 `PUNCT` lemmas (0%), 17 `PUNCT` types (0%) and 6912 `PUNCT` tokens (5%).
 Out of 16 observed tags, the rank of `PUNCT` is: 13 in number of lemmas, 13 in number of types and 7 in number of tokens.
 
 The 10 most frequent `PUNCT` lemmas: ۔، ,، ،، -، ''، )، (، "، '، ؟
 
 The 10 most frequent `PUNCT` types:  ۔، ,، ،، -، ''، )، (، "، '، ؟
 
-The 10 most frequent ambiguous lemmas: ۔ (<tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> 5004, <tt><a href="ur_udtb-pos-SCONJ.html">SCONJ</a></tt> 1), , (<tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> 656, <tt><a href="ur_udtb-pos-SCONJ.html">SCONJ</a></tt> 27), ، (<tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> 420, <tt><a href="ur_udtb-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> 2), - (<tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> 217, <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="ur_udtb-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> 1), '' (<tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> 181, <tt><a href="ur_udtb-pos-NUM.html">NUM</a></tt> 1), ) (<tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> 149, <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> 1), ( (<tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> 147, <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> 1), ! (<tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> 16, <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> 6), / (<tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> 2, <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> 1), ? (<tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> 1)
+The 10 most frequent ambiguous lemmas: ۔ (<tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> 5004, <tt><a href="ur_udtb-pos-SCONJ.html">SCONJ</a></tt> 1), , (<tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> 656, <tt><a href="ur_udtb-pos-SCONJ.html">SCONJ</a></tt> 27), ، (<tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> 420, <tt><a href="ur_udtb-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> 2), - (<tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> 217, <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="ur_udtb-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> 1), '' (<tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> 181, <tt><a href="ur_udtb-pos-NUM.html">NUM</a></tt> 1), ) (<tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> 149, <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> 1), ( (<tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> 147, <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> 1), ! (<tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> 16, <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> 6), ? (<tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> 1), ء (<tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> 73, <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> 14, <tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> 1)
 
-The 10 most frequent ambiguous types:  ۔ (<tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> 5005, <tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt> 2), , (<tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> 656, <tt><a href="ur_udtb-pos-SCONJ.html">SCONJ</a></tt> 27), ، (<tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> 420, <tt><a href="ur_udtb-pos-SCONJ.html">SCONJ</a></tt> 8, <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> 3), - (<tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> 216, <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> 1), '' (<tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> 181, <tt><a href="ur_udtb-pos-NUM.html">NUM</a></tt> 1), ) (<tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> 149, <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> 1), ( (<tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> 147, <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> 1), ؟ (<tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> 22, <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> 1), ! (<tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> 16, <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> 1), / (<tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> 2, <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> 1)
+The 10 most frequent ambiguous types:  ۔ (<tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> 5005, <tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt> 2), , (<tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> 656, <tt><a href="ur_udtb-pos-SCONJ.html">SCONJ</a></tt> 27), ، (<tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> 420, <tt><a href="ur_udtb-pos-SCONJ.html">SCONJ</a></tt> 8, <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> 3), - (<tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> 216, <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> 1), '' (<tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> 181, <tt><a href="ur_udtb-pos-NUM.html">NUM</a></tt> 1), ) (<tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> 149, <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> 1), ( (<tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> 147, <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> 1), ؟ (<tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> 22, <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> 1), ! (<tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> 16, <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> 1), ء (<tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> 77, <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> 14, <tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> 1)
 
 
 * ۔
@@ -48,13 +48,14 @@ The 10 most frequent ambiguous types:  ۔ (<tt><a href="ur_udtb-pos-PUNCT.html">
 * !
   * <tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> 16: کسی نے مجھ سے کہا کہ دیکھو <b>!</b> اللہ تعالی کا اےک ولی جا رہا ہے ۔
   * <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> 1: 2009 <b>!</b> کے انتخابات میں عظیم اتحاد میں شامل ٹی آر ایس اور تلگو دیشم دونوں پارٹیوں کے قائدین نے اس نشست کے ٹکٹ کے لیے اپنے اپنے سربراہوں سے بارہا نمائندگی کی تھی مگر چندرا شیکھر راؤ نے نشست کو اپنے حق میں لینے کے علاوہ تیسری مرتبہ بھی رام لنگا ریڈی کو اپنا امیدوار بنایا -
-* /
-  * <tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> 2: مقررہ 20 اوورس مےں 165 رنز بنانے کے بعد ٹیم نے حریف دکن چارجرس کو 146 <b>/</b> 8 پر محدود کر دیا ۔
-  * <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> 1: اس کا مکان نمبر 146 <b>/</b> 10 ۔ ٍاندراپور نظام آباد ہے ۔
+* ء
+  * <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> 77: اس قانون کا نفاذ یکم اپریل 2010 <b>ء</b> سے عمل مےں آ چکا ہے ۔
+  * <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> 14: یہ انتقام ہے ۔ اُس پولیس فائرنگ کا ۔ جو 18 مئی 2007 <b>ء</b> کو مکہ مسجد کے سامنے ہوئی تھی ۔
+  * <tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> 1: اپریل 2004 <b>ء</b> میں فیملی کورٹ نے سیوگ کی طلاق کی درخواست مسترد کر دی تھی ۔ جس میں ادعا کیا گیا تھا کہ شادی کے وقت بیوی موہنی 33 سالہ نے اپنی درست عمر نہیں بتائی تھی اور وہ شوہر پر کالا جادو کر رہی تھی ۔
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.103404).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.103337).
 
 The 1st highest number of forms (2) was observed with the lemma “-”: -, ۔.
 
@@ -67,17 +68,17 @@ The 3rd highest number of forms (1) was observed with the lemma “"”: ".
 `PUNCT` occurs with 1 feature-value pairs: `Voice=Act`
 
 `PUNCT` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (6910 tokens).
+The most frequent feature combination is `_` (6911 tokens).
 Examples: ۔، ,، ،، -، ''، )، (، "، '، ؟
 
 
 ## Relations
 
-`PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="ur_udtb-dep-punct.html">punct</a></tt> (6911; 100% instances)
+`PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="ur_udtb-dep-punct.html">punct</a></tt> (6912; 100% instances)
 
-Parents of `PUNCT` nodes belong to 14 different parts of speech: <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (5208; 75% instances), <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> (741; 11% instances), <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (632; 9% instances), <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt> (186; 3% instances), <tt><a href="ur_udtb-pos-NUM.html">NUM</a></tt> (65; 1% instances), <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> (33; 0% instances), <tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt> (13; 0% instances), <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> (13; 0% instances), <tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="ur_udtb-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="ur_udtb-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="ur_udtb-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
+Parents of `PUNCT` nodes belong to 14 different parts of speech: <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (5208; 75% instances), <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> (740; 11% instances), <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (632; 9% instances), <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt> (186; 3% instances), <tt><a href="ur_udtb-pos-NUM.html">NUM</a></tt> (67; 1% instances), <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> (33; 0% instances), <tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt> (13; 0% instances), <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> (13; 0% instances), <tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="ur_udtb-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="ur_udtb-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="ur_udtb-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
 
-6905 (100%) `PUNCT` nodes are leaves.
+6906 (100%) `PUNCT` nodes are leaves.
 
 6 (0%) `PUNCT` nodes have one child.
 

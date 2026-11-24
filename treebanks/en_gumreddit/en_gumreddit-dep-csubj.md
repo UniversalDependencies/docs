@@ -105,7 +105,7 @@ The following 12 pairs of parts of speech are connected with `csubj`: <tt><a hre
 26	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	cop	28:cop	Lem=be|Len=2
 27	_	_	DET	DT	Definite=Ind|PronType=Art	28	det	28:det	Entity=(19-abstract-giv:act-nnnnn-cf3-2-coref|Lem=_|Len=1
 28	_	_	NOUN	NN	Number=Sing	14	parataxis	14:parataxis	Entity=19)|Lem=_|Len=9
-29	_	_	ADV	RB	Degree=Pos	28	advmod	28:advmod	Lem=_|Len=3|SpaceAfter=No
+29	_	_	ADV	RB	_	28	advmod	28:advmod	Lem=_|Len=3|SpaceAfter=No
 30	_	_	PUNCT	.	_	14	punct	14:punct	Lem=_|Len=1
 
 ~~~

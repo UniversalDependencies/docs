@@ -94,7 +94,7 @@ The following 5 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 24	que	que	PRON	_	PronType=Rel	27	obj	_	_
 25	j'	moi	PRON	_	Case=Nom|Emph=No|Number=Sing|Person=1|PronType=Prs	27	nsubj	_	SpaceAfter=No
 26	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	27	aux:tense	_	_
-27	vues	voir	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act	19	acl:relcl	_	Tense[denom]=Past
+27	vues	voir	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	19	acl:relcl	_	Status[Tense]=Denom
 28	partout	partout	ADV	_	_	27	advmod	_	_
 29	!	!	PUNCT	_	_	12	punct	_	_
 

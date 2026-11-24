@@ -21,7 +21,7 @@ The feature is used with 4 part-of-speech tags: <tt><a href="orv_ruthenian-pos-P
 `PART` tokens may have the following values of `Polarity`:
 
 * `Neg` (1267; 100% of non-empty `Polarity`): <em>не, нє, ни, нѣ, [не], на, нъ, нь, ні</em>
-* `EMPTY` (1730): <em>ж, и, же, жъ, деи, то, ли, жо, нехаи, жь</em>
+* `EMPTY` (1729): <em>ж, и, же, жъ, деи, то, ли, жо, нехаи, жь</em>
 
 ### `CCONJ`
 
@@ -30,7 +30,7 @@ The feature is used with 4 part-of-speech tags: <tt><a href="orv_ruthenian-pos-P
 `CCONJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (122; 100% of non-empty `Polarity`): <em>ни, ани, нижли, аны, нежли, ниж, ниже</em>
-* `EMPTY` (11332): <em>и, а, ино, або, да, але, любо, или, і, такъ</em>
+* `EMPTY` (11333): <em>и, а, ино, або, да, але, любо, или, і, такъ</em>
 
 ### `VERB`
 
@@ -41,7 +41,7 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 `VERB` tokens may have the following values of `Polarity`:
 
 * `Neg` (22; 100% of non-empty `Polarity`): <em>нетъ, нѣтъ, нет, нѣт, невѣсть, нелга, нелзѣ, нѣгдє, некомꙋ, чомъ</em>
-* `EMPTY` (11762): <em>дали, казали, псан, мають, мают(ь), дал, маеть, держати, послали, записа(т)</em>
+* `EMPTY` (11763): <em>дали, казали, псан, мають, мают(ь), дал, маеть, держати, послали, записа(т)</em>
 
 ### `ADV`
 

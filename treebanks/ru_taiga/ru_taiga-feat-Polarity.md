@@ -54,7 +54,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (115; 100% of non-empty `Polarity`): <em>несмотря, нихера, Нифига, Нихуя, не</em>
-* `EMPTY` (83890): <em>так, как, уже, очень, еще, где, например, там, теперь, здесь</em>
+* `EMPTY` (83889): <em>так, как, уже, очень, еще, где, например, там, теперь, здесь</em>
 
 ## Relations with Agreement in `Polarity`
 

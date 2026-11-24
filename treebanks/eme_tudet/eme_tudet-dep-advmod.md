@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-231 nodes (8%) are attached to their parents as `advmod`.
+234 nodes (8%) are attached to their parents as `advmod`.
 
-155 instances of `advmod` (67%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.50649350649351.
+158 instances of `advmod` (68%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.5.
 
-The following 11 pairs of parts of speech are connected with `advmod`: <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (151; 65% instances), <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (48; 21% instances), <tt><a href="eme_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (12; 5% instances), <tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (11; 5% instances), <tt><a href="eme_tudet-pos-ADP.html">ADP</a></tt>-<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="eme_tudet-pos-AUX.html">AUX</a></tt>-<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="eme_tudet-pos-NUM.html">NUM</a></tt>-<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="eme_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="eme_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="eme_tudet-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="eme_tudet-pos-X.html">X</a></tt>-<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `advmod`: <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (151; 65% instances), <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (51; 22% instances), <tt><a href="eme_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (12; 5% instances), <tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (11; 5% instances), <tt><a href="eme_tudet-pos-ADP.html">ADP</a></tt>-<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="eme_tudet-pos-AUX.html">AUX</a></tt>-<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="eme_tudet-pos-NUM.html">NUM</a></tt>-<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="eme_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="eme_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="eme_tudet-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="eme_tudet-pos-X.html">X</a></tt>-<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

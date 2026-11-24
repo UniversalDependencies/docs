@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-129 nodes (2%) are attached to their parents as `cop`.
+175 nodes (2%) are attached to their parents as `cop`.
 
-128 instances of `cop` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.29457364341085.
+173 instances of `cop` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.29714285714286.
 
-The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-AUX.html">AUX</a></tt> (50; 39% instances), <tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt>-<tt><a href="ruc_rdt-pos-AUX.html">AUX</a></tt> (29; 22% instances), <tt><a href="ruc_rdt-pos-ADV.html">ADV</a></tt>-<tt><a href="ruc_rdt-pos-AUX.html">AUX</a></tt> (23; 18% instances), <tt><a href="ruc_rdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ruc_rdt-pos-AUX.html">AUX</a></tt> (14; 11% instances), <tt><a href="ruc_rdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ruc_rdt-pos-AUX.html">AUX</a></tt> (6; 5% instances), <tt><a href="ruc_rdt-pos-PRON.html">PRON</a></tt>-<tt><a href="ruc_rdt-pos-AUX.html">AUX</a></tt> (4; 3% instances), <tt><a href="ruc_rdt-pos-NUM.html">NUM</a></tt>-<tt><a href="ruc_rdt-pos-AUX.html">AUX</a></tt> (3; 2% instances).
+The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-AUX.html">AUX</a></tt> (66; 38% instances), <tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt>-<tt><a href="ruc_rdt-pos-AUX.html">AUX</a></tt> (37; 21% instances), <tt><a href="ruc_rdt-pos-ADV.html">ADV</a></tt>-<tt><a href="ruc_rdt-pos-AUX.html">AUX</a></tt> (25; 14% instances), <tt><a href="ruc_rdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ruc_rdt-pos-AUX.html">AUX</a></tt> (19; 11% instances), <tt><a href="ruc_rdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ruc_rdt-pos-AUX.html">AUX</a></tt> (10; 6% instances), <tt><a href="ruc_rdt-pos-NUM.html">NUM</a></tt>-<tt><a href="ruc_rdt-pos-AUX.html">AUX</a></tt> (9; 5% instances), <tt><a href="ruc_rdt-pos-PRON.html">PRON</a></tt>-<tt><a href="ruc_rdt-pos-AUX.html">AUX</a></tt> (9; 5% instances).
 
 
 ~~~ conllu

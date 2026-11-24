@@ -310,9 +310,9 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>VERB --[<tt><a href="qtd_sagt-dep-obl.html">obl</a></tt>]--> NOUN</tt> (834; 63%),
 <tt>VERB --[<tt><a href="qtd_sagt-dep-obj.html">obj</a></tt>]--> NOUN</tt> (610; 56%),
 <tt>VERB --[<tt><a href="qtd_sagt-dep-conj.html">conj</a></tt>]--> VERB</tt> (409; 64%),
-<tt>NOUN --[<tt><a href="qtd_sagt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (331; 74%),
+<tt>NOUN --[<tt><a href="qtd_sagt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (341; 74%),
 <tt>VERB --[<tt><a href="qtd_sagt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (304; 71%),
-<tt>NOUN --[<tt><a href="qtd_sagt-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (261; 78%),
+<tt>NOUN --[<tt><a href="qtd_sagt-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (263; 78%),
 <tt>VERB --[<tt><a href="qtd_sagt-dep-obj.html">obj</a></tt>]--> PRON</tt> (254; 51%),
 <tt>VERB --[<tt><a href="qtd_sagt-dep-obl.html">obl</a></tt>]--> PRON</tt> (242; 66%).
 

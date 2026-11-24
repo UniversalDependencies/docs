@@ -282,8 +282,8 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="la_udante-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1196; 74%),
 <tt>VERB --[<tt><a href="la_udante-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1037; 89%),
 <tt>VERB --[<tt><a href="la_udante-dep-obl.html">obl</a></tt>]--> NOUN</tt> (981; 53%),
-<tt>VERB --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> VERB</tt> (849; 82%),
-<tt>VERB --[<tt><a href="la_udante-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (616; 70%),
+<tt>VERB --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> VERB</tt> (848; 82%),
+<tt>VERB --[<tt><a href="la_udante-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (615; 70%),
 <tt>NOUN --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> NOUN</tt> (614; 91%),
 <tt>NOUN --[<tt><a href="la_udante-dep-cop.html">cop</a></tt>]--> AUX</tt> (475; 78%),
 <tt>VERB --[<tt><a href="la_udante-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (460; 89%).

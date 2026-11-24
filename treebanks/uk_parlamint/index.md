@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.15 release
 The following people have contributed to making this treebank part of UD: Maria Shvedova, Arsenii Lukashevskyi.
 
 Repository: [UD_Ukrainian-ParlaMint](https://github.com/UniversalDependencies/UD_Ukrainian-ParlaMint)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uduk_parlamint218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uduk_parlamint219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 
@@ -76,17 +76,17 @@ This work was supported by COST Action CA21167 — Universality, diversity and i
 
 ## Relations
 
-[acl](uk_parlamint-dep-acl.html) – [acl:relcl](uk_parlamint-dep-acl-relcl.html) – [advcl](uk_parlamint-dep-advcl.html) – [advmod](uk_parlamint-dep-advmod.html) – [advmod:det](uk_parlamint-dep-advmod-det.html) – [advmod:emph](uk_parlamint-dep-advmod-emph.html) – [advmod:neg](uk_parlamint-dep-advmod-neg.html) – [amod](uk_parlamint-dep-amod.html) – [appos](uk_parlamint-dep-appos.html) – [aux](uk_parlamint-dep-aux.html) – [aux:pass](uk_parlamint-dep-aux-pass.html) – [case](uk_parlamint-dep-case.html) – [cc](uk_parlamint-dep-cc.html) – [ccomp](uk_parlamint-dep-ccomp.html) – [compound](uk_parlamint-dep-compound.html) – [compound:svc](uk_parlamint-dep-compound-svc.html) – [conj](uk_parlamint-dep-conj.html) – [cop](uk_parlamint-dep-cop.html) – [csubj](uk_parlamint-dep-csubj.html) – [det](uk_parlamint-dep-det.html) – [det:numgov](uk_parlamint-dep-det-numgov.html) – [det:nummod](uk_parlamint-dep-det-nummod.html) – [discourse](uk_parlamint-dep-discourse.html) – [dislocated](uk_parlamint-dep-dislocated.html) – [expl](uk_parlamint-dep-expl.html) – [fixed](uk_parlamint-dep-fixed.html) – [flat](uk_parlamint-dep-flat.html) – [flat:foreign](uk_parlamint-dep-flat-foreign.html) – [flat:name](uk_parlamint-dep-flat-name.html) – [flat:range](uk_parlamint-dep-flat-range.html) – [flat:repeat](uk_parlamint-dep-flat-repeat.html) – [flat:title](uk_parlamint-dep-flat-title.html) – [goeswith](uk_parlamint-dep-goeswith.html) – [iobj](uk_parlamint-dep-iobj.html) – [list](uk_parlamint-dep-list.html) – [mark](uk_parlamint-dep-mark.html) – [nmod](uk_parlamint-dep-nmod.html) – [nsubj](uk_parlamint-dep-nsubj.html) – [nsubj:outer](uk_parlamint-dep-nsubj-outer.html) – [nsubj:pass](uk_parlamint-dep-nsubj-pass.html) – [nummod](uk_parlamint-dep-nummod.html) – [nummod:gov](uk_parlamint-dep-nummod-gov.html) – [obj](uk_parlamint-dep-obj.html) – [obl](uk_parlamint-dep-obl.html) – [obl:agent](uk_parlamint-dep-obl-agent.html) – [obl:arg](uk_parlamint-dep-obl-arg.html) – [orphan](uk_parlamint-dep-orphan.html) – [parataxis](uk_parlamint-dep-parataxis.html) – [parataxis:discourse](uk_parlamint-dep-parataxis-discourse.html) – [parataxis:rel](uk_parlamint-dep-parataxis-rel.html) – [punct](uk_parlamint-dep-punct.html) – [reparandum](uk_parlamint-dep-reparandum.html) – [root](uk_parlamint-dep-root.html) – [vocative](uk_parlamint-dep-vocative.html) – [xcomp](uk_parlamint-dep-xcomp.html) – [xcomp:pred](uk_parlamint-dep-xcomp-pred.html)
+[acl](uk_parlamint-dep-acl.html) – [acl:relcl](uk_parlamint-dep-acl-relcl.html) – [advcl](uk_parlamint-dep-advcl.html) – [advmod](uk_parlamint-dep-advmod.html) – [advmod:det](uk_parlamint-dep-advmod-det.html) – [advmod:emph](uk_parlamint-dep-advmod-emph.html) – [advmod:neg](uk_parlamint-dep-advmod-neg.html) – [amod](uk_parlamint-dep-amod.html) – [appos](uk_parlamint-dep-appos.html) – [aux](uk_parlamint-dep-aux.html) – [aux:pass](uk_parlamint-dep-aux-pass.html) – [case](uk_parlamint-dep-case.html) – [cc](uk_parlamint-dep-cc.html) – [ccomp](uk_parlamint-dep-ccomp.html) – [compound](uk_parlamint-dep-compound.html) – [compound:svc](uk_parlamint-dep-compound-svc.html) – [conj](uk_parlamint-dep-conj.html) – [cop](uk_parlamint-dep-cop.html) – [csubj](uk_parlamint-dep-csubj.html) – [csubj:outer](uk_parlamint-dep-csubj-outer.html) – [det](uk_parlamint-dep-det.html) – [det:numgov](uk_parlamint-dep-det-numgov.html) – [det:nummod](uk_parlamint-dep-det-nummod.html) – [discourse](uk_parlamint-dep-discourse.html) – [dislocated](uk_parlamint-dep-dislocated.html) – [expl](uk_parlamint-dep-expl.html) – [fixed](uk_parlamint-dep-fixed.html) – [flat](uk_parlamint-dep-flat.html) – [flat:foreign](uk_parlamint-dep-flat-foreign.html) – [flat:name](uk_parlamint-dep-flat-name.html) – [flat:range](uk_parlamint-dep-flat-range.html) – [flat:repeat](uk_parlamint-dep-flat-repeat.html) – [flat:title](uk_parlamint-dep-flat-title.html) – [goeswith](uk_parlamint-dep-goeswith.html) – [iobj](uk_parlamint-dep-iobj.html) – [list](uk_parlamint-dep-list.html) – [mark](uk_parlamint-dep-mark.html) – [nmod](uk_parlamint-dep-nmod.html) – [nsubj](uk_parlamint-dep-nsubj.html) – [nsubj:outer](uk_parlamint-dep-nsubj-outer.html) – [nsubj:pass](uk_parlamint-dep-nsubj-pass.html) – [nummod](uk_parlamint-dep-nummod.html) – [nummod:gov](uk_parlamint-dep-nummod-gov.html) – [obj](uk_parlamint-dep-obj.html) – [obl](uk_parlamint-dep-obl.html) – [obl:agent](uk_parlamint-dep-obl-agent.html) – [obl:arg](uk_parlamint-dep-obl-arg.html) – [orphan](uk_parlamint-dep-orphan.html) – [parataxis](uk_parlamint-dep-parataxis.html) – [parataxis:rel](uk_parlamint-dep-parataxis-rel.html) – [punct](uk_parlamint-dep-punct.html) – [reparandum](uk_parlamint-dep-reparandum.html) – [root](uk_parlamint-dep-root.html) – [vocative](uk_parlamint-dep-vocative.html) – [xcomp](uk_parlamint-dep-xcomp.html) – [xcomp:pred](uk_parlamint-dep-xcomp-pred.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 7142 sentences and 109166 tokens.</li>
+<li>This corpus contains 7142 sentences and 109165 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 18512 tokens (17%) that are not followed by a space.</li>
+<li>This corpus contains 18629 tokens (17%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -431,7 +431,7 @@ This work was supported by COST Action CA21167 — Universality, diversity and i
       <li>ADJ-Part: головуючий, запрошені, шановані</li>
       <li>DET: всі, мої, наші</li>
       <li>NOUN: колеги, депутати, пане, Голово, друзі, громадяни, українці, члени, головуючий, радіослухачі</li>
-      <li>PROPN: Михайловичу, Володимире, Олександре, Валентиновичу, Вікторе, Павловичу, Федоровичу, Миколо, Сергію, Івановичу</li>
+      <li>PROPN: Михайловичу, Володимире, Олександре, Валентиновичу, Вікторе, Павловичу, Федоровичу, Івановичу, Миколо, Сергію</li>
     </ul>
   </li>
 </ul>
@@ -467,7 +467,7 @@ This work was supported by COST Action CA21167 — Universality, diversity and i
     <ul>
       <li>ADJ: шановні, шановний, корисних, відповідні, відповідних, нові, останні, новий, нового, останніх</li>
       <li>ADJ-Part: впевнений, відкритим, впевнена, закритим, керованої, обгрунтовану, обмежений, обмежені, виважений, визначений</li>
-      <li>ADV: дуже, потрібно, необхідно, практично, добре, чітко, важливо, звичайно, багато, зрозуміло</li>
+      <li>ADV: дуже, потрібно, необхідно, практично, добре, чітко, важливо, звичайно, зрозуміло, терміново</li>
     </ul>
   </li>
 </ul>
@@ -905,27 +905,29 @@ This work was supported by COST Action CA21167 — Universality, diversity and i
       </li>
       <li>ADP
         <ul>
-          <li>ADP: у, з, під, в, на, по, Згідно, відповідно, крім, поруч</li>
-          <li>ADV: відповідно, згідно, поряд, незважаючи, разом, спільно</li>
+          <li>ADP: з, у, в, за, на, під, до, по, Згідно, відповідно</li>
+          <li>ADV: відповідно, згідно, поряд, незалежно, незважаючи, всупереч, одночасно, разом, спільно</li>
+          <li>PART: не</li>
           <li>PRON: що</li>
-          <li>VERB-Conv: починаючи</li>
+          <li>VERB-Conv: зважаючи, починаючи</li>
         </ul>
       </li>
       <li>ADV
         <ul>
-          <li>ADP: в, у</li>
-          <li>ADV: так, поки, перш, більш, знову, більше, все, ще, врешті, навряд</li>
+          <li>ADP: в, у, До</li>
+          <li>ADV: так, поки, знову, перш, більш, більше, все, ще, врешті, навряд</li>
           <li>CCONJ: і</li>
           <li>DET: таким, один, тим</li>
-          <li>PART: все, хоча, так, тільки, вряд, всього, не</li>
+          <li>PART: все, хоча, так, тільки, вряд, всього, і, не</li>
           <li>PRON: все, сама, тим</li>
           <li>X: ad</li>
         </ul>
       </li>
       <li>CCONJ
         <ul>
+          <li>ADP: в</li>
           <li>ADV: так</li>
-          <li>CCONJ: а, але, так, чи, та</li>
+          <li>CCONJ: а, так, але, чи, та, або</li>
           <li>PART: не, чи</li>
           <li>PRON: тим</li>
         </ul>
@@ -946,7 +948,7 @@ This work was supported by COST Action CA21167 — Universality, diversity and i
       </li>
       <li>PART
         <ul>
-          <li>PART: чи, все, Так</li>
+          <li>PART: чи, Так</li>
         </ul>
       </li>
       <li>PRON
@@ -1059,7 +1061,7 @@ This work was supported by COST Action CA21167 — Universality, diversity and i
           <li>ADP: в, збоку, у, з, за</li>
           <li>ADV: в, вцілому, неможна, пилко, потрібно</li>
           <li>DET: всім, Наш, багатьом, будь, деяким, ніякою, таке, тот, яким, якість</li>
-          <li>NOUN: напрямкам, не, уособлення, Голову, Держжитлокомунгос, Мінюсті, НКРЄ, Стрижнем, депутати, категоріям</li>
+          <li>NOUN: напрямкам, не, уособлення, Голову, Держжитлокомунгос, Мінюсті, НКРЄ, Стрижнем, виконання, депутати</li>
           <li>PRON: ні, яке</li>
           <li>PROPN: Бандурко, Володимиру, Железняк, Мукачево, Ображіївкі, Піхоті, Руслана, Стефанчука, Челомбітко, Ющенко</li>
           <li>PUNCT: ., ...</li>
@@ -1107,15 +1109,17 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB-Conv--PRON-Nom (1)</li>
-      <li>VERB-Fin--NOUN-Gen (140)</li>
+      <li>VERB-Fin--NOUN-Gen (139)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(до) (1)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(з) (1)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(понад) (1)</li>
-      <li>VERB-Fin--NOUN-Nom (1833)</li>
+      <li>VERB-Fin--NOUN-Nom (1838)</li>
       <li>VERB-Fin--PRON-Gen (15)</li>
-      <li>VERB-Fin--PRON-Nom (2696)</li>
+      <li>VERB-Fin--PRON-Nom (2694)</li>
+      <li>VERB-Inf--NOUN-Dat (1)</li>
       <li>VERB-Inf--NOUN-Gen (1)</li>
-      <li>VERB-Inf--NOUN-Nom (89)</li>
+      <li>VERB-Inf--NOUN-Nom (90)</li>
+      <li>VERB-Inf--PRON-Dat (2)</li>
       <li>VERB-Inf--PRON-Nom (110)</li>
     </ul>
   </li>
@@ -1127,26 +1131,27 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--NOUN-Acc (63)</li>
       <li>VERB-Conv--NOUN-Gen (5)</li>
       <li>VERB-Conv--PRON-Acc (9)</li>
-      <li>VERB-Fin--NOUN-Acc (1794)</li>
-      <li>VERB-Fin--NOUN-Dat (2)</li>
+      <li>VERB-Fin--NOUN-Acc (1792)</li>
+      <li>VERB-Fin--NOUN-Dat (16)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(в) (1)</li>
-      <li>VERB-Fin--NOUN-Gen (299)</li>
+      <li>VERB-Fin--NOUN-Gen (301)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(близько) (1)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(плюс) (1)</li>
       <li>VERB-Fin--NOUN-Loc-ADP(по) (1)</li>
       <li>VERB-Fin--NOUN-Nom (1)</li>
       <li>VERB-Fin--PRON-Acc (320)</li>
-      <li>VERB-Fin--PRON-Dat (2)</li>
-      <li>VERB-Fin--PRON-Gen (15)</li>
+      <li>VERB-Fin--PRON-Dat (17)</li>
+      <li>VERB-Fin--PRON-Gen (16)</li>
       <li>VERB-Fin--PRON-Gen-ADP(з) (1)</li>
       <li>VERB-Fin--PRON-Nom (1)</li>
       <li>VERB-Inf--NOUN-Acc (1463)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(про) (1)</li>
-      <li>VERB-Inf--NOUN-Dat (3)</li>
+      <li>VERB-Inf--NOUN-Dat (15)</li>
       <li>VERB-Inf--NOUN-Gen (72)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(з) (1)</li>
+      <li>VERB-Inf--NOUN-Ins (1)</li>
       <li>VERB-Inf--PRON-Acc (235)</li>
-      <li>VERB-Inf--PRON-Dat (1)</li>
+      <li>VERB-Inf--PRON-Dat (5)</li>
       <li>VERB-Inf--PRON-Gen (11)</li>
     </ul>
   </li>
@@ -1155,16 +1160,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Conv--NOUN-Dat (4)</li>
-      <li>VERB-Fin--NOUN-Dat (165)</li>
+      <li>VERB-Conv--NOUN-Dat (2)</li>
+      <li>VERB-Fin--NOUN-Dat (127)</li>
       <li>VERB-Fin--NOUN-Dat,Gen (1)</li>
       <li>VERB-Fin--NOUN-Gen (1)</li>
       <li>VERB-Fin--NOUN-Ins (8)</li>
-      <li>VERB-Fin--PRON-Dat (180)</li>
-      <li>VERB-Inf--NOUN-Dat (93)</li>
-      <li>VERB-Inf--NOUN-Ins (9)</li>
+      <li>VERB-Fin--PRON-Dat (155)</li>
+      <li>VERB-Inf--NOUN-Dat (74)</li>
+      <li>VERB-Inf--NOUN-Ins (6)</li>
       <li>VERB-Inf--PRON-Acc (1)</li>
-      <li>VERB-Inf--PRON-Dat (50)</li>
+      <li>VERB-Inf--PRON-Dat (43)</li>
       <li>VERB-Inf--PRON-Ins (1)</li>
     </ul>
   </li>
@@ -1184,6 +1189,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 21 relation subtypes: <a>acl:relcl</a>, <a>advmod:det</a>, <a>advmod:emph</a>, <a>advmod:neg</a>, <a>aux:pass</a>, <a>compound:svc</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>flat:range</a>, <a>flat:repeat</a>, <a>flat:title</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>parataxis:discourse</a>, <a>parataxis:rel</a>, <a>xcomp:pred</a></li>
+<li>This corpus uses 21 relation subtypes: <a>acl:relcl</a>, <a>advmod:det</a>, <a>advmod:emph</a>, <a>advmod:neg</a>, <a>aux:pass</a>, <a>compound:svc</a>, <a>csubj:outer</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>flat:range</a>, <a>flat:repeat</a>, <a>flat:title</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>parataxis:rel</a>, <a>xcomp:pred</a></li>
 <li>The following 2 relation types are not used in this corpus at all: <a>clf</a>, <a>dep</a></li>
 </ul>

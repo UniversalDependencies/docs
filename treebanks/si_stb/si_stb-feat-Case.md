@@ -99,7 +99,6 @@ The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="si_stb-dep-compound-prt.html">compound:prt</a></tt>]--> NOUN</tt> (1; 100%),
 <tt>NOUN --[<tt><a href="si_stb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1; 100%),
 <tt>NOUN --[<tt><a href="si_stb-dep-flat.html">flat</a></tt>]--> NOUN</tt> (1; 100%),
-<tt>NOUN --[<tt><a href="si_stb-dep-obl-lmod.html">obl:lmod</a></tt>]--> PROPN</tt> (1; 100%),
 <tt>PRON --[<tt><a href="si_stb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1; 100%),
 <tt>PROPN --[<tt><a href="si_stb-dep-conj.html">conj</a></tt>]--> PROPN</tt> (1; 100%).
 

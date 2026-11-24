@@ -11,7 +11,7 @@ It occurs with 14 different values: `AdvstO`, `GenAttr`, `OkshnOms`, `Omka`, `Ov
 
 339 tokens (2%) have a non-empty value of `Derivation`.
 255 types (4%) occur at least once with a non-empty value of `Derivation`.
-211 lemmas (7%) occur at least once with a non-empty value of `Derivation`.
+210 lemmas (7%) occur at least once with a non-empty value of `Derivation`.
 The feature is used with 7 part-of-speech tags: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (269; 1% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (28; 0% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (18; 0% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (18; 0% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 ### `VERB`
@@ -64,7 +64,7 @@ The most frequent other feature values with which `ADV` and `Derivation` co-occu
 * `GenAttr` (1; 6% of non-empty `Derivation`): <em>истянь</em>
 * `Shka` (4; 22% of non-empty `Derivation`): <em>сатышка, Зярошкаль, Кавкстешкаксть</em>
 
-`Derivation` seems to be **lexical feature** of `ADV`. 100% lemmas (14) occur only with one value of `Derivation`.
+`Derivation` seems to be **lexical feature** of `ADV`. 100% lemmas (13) occur only with one value of `Derivation`.
 
 ### `NOUN`
 

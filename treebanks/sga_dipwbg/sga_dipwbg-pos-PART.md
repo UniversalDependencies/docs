@@ -6,12 +6,12 @@ udver: '2'
 
 ## Treebank Statistics: UD_Old_Irish-DipWBG: POS Tags: `PART`
 
-There are 13 `PART` lemmas (7%), 22 `PART` types (8%) and 47 `PART` tokens (11%).
+There are 13 `PART` lemmas (7%), 23 `PART` types (9%) and 50 `PART` tokens (11%).
 Out of 12 observed tags, the rank of `PART` is: 6 in number of lemmas, 5 in number of types and 4 in number of tokens.
 
-The 10 most frequent `PART` lemmas: <em>no, do, ní, as, so, a, at, in, ro, í</em>
+The 10 most frequent `PART` lemmas: <em>no, do, ní, ro, as, so, a, ad, in, í</em>
 
-The 10 most frequent `PART` types:  <em>no, do, ni, a, ní, as, nas, so, at, con</em>
+The 10 most frequent `PART` types:  <em>no, do, ni, a, ní, ro, as, nas, so, at</em>
 
 The 10 most frequent ambiguous lemmas: <em>do</em> (<tt><a href="sga_dipwbg-pos-ADP.html">ADP</a></tt> 8, <tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> 8, <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> 1), <em>ní</em> (<tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> 7, <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> 1), <em>so</em> (<tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> 4, <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> 1), <em>a</em> (<tt><a href="sga_dipwbg-pos-DET.html">DET</a></tt> 4, <tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> 3, <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> 3, <tt><a href="sga_dipwbg-pos-ADP.html">ADP</a></tt> 1, <tt><a href="sga_dipwbg-pos-SCONJ.html">SCONJ</a></tt> 1), <em>in</em> (<tt><a href="sga_dipwbg-pos-DET.html">DET</a></tt> 5, <tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> 2)
 
@@ -49,39 +49,39 @@ The 10 most frequent ambiguous types:  <em>do</em> (<tt><a href="sga_dipwbg-pos-
   * <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> 1: <em>.i. is inse ṅduit ni tú no <b>d</b> nail acht is hé no t ail</em>
 * <em>in</em>
   * <tt><a href="sga_dipwbg-pos-DET.html">DET</a></tt> 2: <em>.i. ni ar formut frib si as biur sa <b>in</b> so ar ropad maith lim sa labrad il belre dúib si</em>
-  * <tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> 1: <em>.i. cain ronóibad abracham tri hiris <b>in</b> tree ǽm didiu fa nacc</em>
+  * <tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> 1: <em>.i. cain ro nóibad abracham tri hiris <b>in</b> tree ǽm didiu fa nacc</em>
 * <em>se</em>
   * <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> 3: <em>.i. cote mo thorbe <b>se</b> dúib ma d mne labrar</em>
   * <tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> 1: <em>.i. ní nád ṁ bed ar <b>se</b> di chorp act a tá de</em>
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.692308 (the average of all parts of speech is 1.430108).
+The form / lemma ratio of `PART` is 1.769231 (the average of all parts of speech is 1.435484).
 
 The 1st highest number of forms (3) was observed with the lemma “do”: <em>d, do, to</em>.
 
-The 2nd highest number of forms (3) was observed with the lemma “so”: <em>se, siu, so</em>.
+The 2nd highest number of forms (3) was observed with the lemma “ro”: <em>nro, r, ro</em>.
 
-The 3rd highest number of forms (2) was observed with the lemma “as”: <em>as, nas</em>.
+The 3rd highest number of forms (3) was observed with the lemma “so”: <em>se, siu, so</em>.
 
-`PART` occurs with 3 features: <tt><a href="sga_dipwbg-feat-PartType.html">PartType</a></tt> (34; 72% instances), <tt><a href="sga_dipwbg-feat-PronType.html">PronType</a></tt> (9; 19% instances), <tt><a href="sga_dipwbg-feat-Polarity.html">Polarity</a></tt> (7; 15% instances)
+`PART` occurs with 3 features: <tt><a href="sga_dipwbg-feat-PartType.html">PartType</a></tt> (37; 74% instances), <tt><a href="sga_dipwbg-feat-PronType.html">PronType</a></tt> (9; 18% instances), <tt><a href="sga_dipwbg-feat-Polarity.html">Polarity</a></tt> (7; 14% instances)
 
-`PART` occurs with 6 feature-value pairs: `PartType=Dct`, `PartType=Rel`, `PartType=Vb`, `Polarity=Neg`, `PronType=Dem`, `PronType=Int`
+`PART` occurs with 7 feature-value pairs: `PartType=Aug`, `PartType=Dct`, `PartType=Rel`, `PartType=Vb`, `Polarity=Neg`, `PronType=Dem`, `PronType=Int`
 
-`PART` occurs with 6 feature combinations.
+`PART` occurs with 7 feature combinations.
 The most frequent feature combination is `PartType=Vb` (29 tokens).
 Examples: <em>no, do, as, nas, a, at, con, d, eter, int</em>
 
 
 ## Relations
 
-`PART` nodes are attached to their parents using 7 different relations: <tt><a href="sga_dipwbg-dep-compound-prt.html">compound:prt</a></tt> (29; 62% instances), <tt><a href="sga_dipwbg-dep-advmod.html">advmod</a></tt> (7; 15% instances), <tt><a href="sga_dipwbg-dep-obj.html">obj</a></tt> (6; 13% instances), <tt><a href="sga_dipwbg-dep-nsubj.html">nsubj</a></tt> (2; 4% instances), <tt><a href="sga_dipwbg-dep-amod.html">amod</a></tt> (1; 2% instances), <tt><a href="sga_dipwbg-dep-mark-int.html">mark:int</a></tt> (1; 2% instances), <tt><a href="sga_dipwbg-dep-obl.html">obl</a></tt> (1; 2% instances)
+`PART` nodes are attached to their parents using 7 different relations: <tt><a href="sga_dipwbg-dep-compound-prt.html">compound:prt</a></tt> (32; 64% instances), <tt><a href="sga_dipwbg-dep-advmod.html">advmod</a></tt> (7; 14% instances), <tt><a href="sga_dipwbg-dep-obj.html">obj</a></tt> (6; 12% instances), <tt><a href="sga_dipwbg-dep-nsubj.html">nsubj</a></tt> (2; 4% instances), <tt><a href="sga_dipwbg-dep-amod.html">amod</a></tt> (1; 2% instances), <tt><a href="sga_dipwbg-dep-mark-int.html">mark:int</a></tt> (1; 2% instances), <tt><a href="sga_dipwbg-dep-obl.html">obl</a></tt> (1; 2% instances)
 
-Parents of `PART` nodes belong to 5 different parts of speech: <tt><a href="sga_dipwbg-pos-VERB.html">VERB</a></tt> (43; 91% instances), <tt><a href="sga_dipwbg-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="sga_dipwbg-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> (1; 2% instances), <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> (1; 2% instances)
+Parents of `PART` nodes belong to 5 different parts of speech: <tt><a href="sga_dipwbg-pos-VERB.html">VERB</a></tt> (46; 92% instances), <tt><a href="sga_dipwbg-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="sga_dipwbg-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> (1; 2% instances), <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> (1; 2% instances)
 
-27 (57%) `PART` nodes are leaves.
+30 (60%) `PART` nodes are leaves.
 
-17 (36%) `PART` nodes have one child.
+17 (34%) `PART` nodes have one child.
 
 1 (2%) `PART` nodes have two children.
 

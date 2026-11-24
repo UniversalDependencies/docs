@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-163 nodes (10%) are attached to their parents as `obl`.
+161 nodes (10%) are attached to their parents as `obl`.
 
-91 instances of `obl` (56%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.11042944785276.
+90 instances of `obl` (56%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.11801242236025.
 
-The following 11 pairs of parts of speech are connected with `obl`: <tt><a href="sdh_garrusi-pos-VERB.html">VERB</a></tt>-<tt><a href="sdh_garrusi-pos-NOUN.html">NOUN</a></tt> (87; 53% instances), <tt><a href="sdh_garrusi-pos-VERB.html">VERB</a></tt>-<tt><a href="sdh_garrusi-pos-PRON.html">PRON</a></tt> (31; 19% instances), <tt><a href="sdh_garrusi-pos-VERB.html">VERB</a></tt>-<tt><a href="sdh_garrusi-pos-ADV.html">ADV</a></tt> (30; 18% instances), <tt><a href="sdh_garrusi-pos-VERB.html">VERB</a></tt>-<tt><a href="sdh_garrusi-pos-DET.html">DET</a></tt> (6; 4% instances), <tt><a href="sdh_garrusi-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sdh_garrusi-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="sdh_garrusi-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sdh_garrusi-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="sdh_garrusi-pos-ADP.html">ADP</a></tt>-<tt><a href="sdh_garrusi-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="sdh_garrusi-pos-ADV.html">ADV</a></tt>-<tt><a href="sdh_garrusi-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="sdh_garrusi-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sdh_garrusi-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="sdh_garrusi-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sdh_garrusi-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="sdh_garrusi-pos-VERB.html">VERB</a></tt>-<tt><a href="sdh_garrusi-pos-ADP.html">ADP</a></tt> (1; 1% instances).
+The following 10 pairs of parts of speech are connected with `obl`: <tt><a href="sdh_garrusi-pos-VERB.html">VERB</a></tt>-<tt><a href="sdh_garrusi-pos-NOUN.html">NOUN</a></tt> (87; 54% instances), <tt><a href="sdh_garrusi-pos-VERB.html">VERB</a></tt>-<tt><a href="sdh_garrusi-pos-PRON.html">PRON</a></tt> (31; 19% instances), <tt><a href="sdh_garrusi-pos-VERB.html">VERB</a></tt>-<tt><a href="sdh_garrusi-pos-ADV.html">ADV</a></tt> (30; 19% instances), <tt><a href="sdh_garrusi-pos-VERB.html">VERB</a></tt>-<tt><a href="sdh_garrusi-pos-DET.html">DET</a></tt> (6; 4% instances), <tt><a href="sdh_garrusi-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sdh_garrusi-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="sdh_garrusi-pos-ADP.html">ADP</a></tt>-<tt><a href="sdh_garrusi-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="sdh_garrusi-pos-ADV.html">ADV</a></tt>-<tt><a href="sdh_garrusi-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="sdh_garrusi-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sdh_garrusi-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="sdh_garrusi-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sdh_garrusi-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="sdh_garrusi-pos-VERB.html">VERB</a></tt>-<tt><a href="sdh_garrusi-pos-ADP.html">ADP</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

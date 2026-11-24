@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.0 release.
 The following people have contributed to making this treebank part of UD: Daniel Zeman, Jan Hajič, Alevtina Bémová, Eva Buráňová, Eva Hajičová, Jiří Havelka, Jaroslava Hlaváčová, Jiří Kárník, Veronika Kolářová, Lucie Kučová, Markéta Lopatková, Marie Mikulová, Jiří Mírovský, Anna Nedoluzhko, Michal Novák, Petr Pajas, Jarmila Panevová, Petr Sgall, Milan Straka, Magda Ševčíková, Jan Štěpánek, Barbora Štěpánková, Zdeňka Urešová, Barbora Vidová Hladká, Zdeněk Žabokrtský.
 
 Repository: [UD_Czech-PDTC](https://github.com/UniversalDependencies/UD_Czech-PDTC)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_pdtc218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_pdtc219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -154,7 +154,7 @@ year = 2026,
 </ul>
 
 <ul>
-<li>This corpus contains 153 word types tagged as particles (PART): Bodejť, Což, Cožpak, Díkybohu, Fajn, Jestlipak, Ještěže, Jistěť, Nashle, Nejenomže, Nu, Perfekt, Zaplaťpánbůh, akorát, ale, alespoň, ani, ano, arciť, asi, aspoň, ať, až, ba, bezesporu, beztak, bohudík, bohužel, budiž, byť, bůhsuď, bůhví, cca, cirka, co, copak, div, dobrá, dobře, doopravdy, fakt, hlavně, hned, houby, i, jako, jakože, jakto, jasně, jen, jenom, ještě, jistě, jistěže, již, jo, kdepak, kdoví, když, kdyžtak, klidně, koneckonců, konečně, kupodivu, kurva, kéž, leda, li, možná, nakonec, naneštěstí, naopak, např, například, natož, nazdařbůh, naštěstí, ne, nechť, nejenže, nejspíš, nejspíše, nesporně, netto, nikoli, nikoliv, no, nuže, obzvláště, obzvlášť, ono, opravdu, ovšem, ovšemže, patrně, pouze, prakticky, pranic, pravda, prostě, proto, právě, právěže, prý, přece, přeci, především, přesně, přímo, relativně, rovněž, rozhodně, samozřejmě, sbohem, sice, skutečně, snad, sotva, spíš, spíše, stěží, tak, taky, také, takříkajíc, teda, to, totiž, tož, též, třeba, určitě, už, viď, viďte, vlastně, vole, však, vůbec, vždyť, zaplaťpánbu, zas, zase, zejm, zejména, zjevně, zkrátka, zrovna, zvláště, zvlášť, zřejmě, že, žel</li>
+<li>This corpus contains 152 word types tagged as particles (PART): Bodejť, Což, Cožpak, Díkybohu, Fajn, Jestlipak, Ještěže, Jistěť, Nashle, Nejenomže, Nu, Perfekt, Zaplaťpánbůh, akorát, ale, alespoň, ani, ano, arciť, asi, aspoň, ať, až, ba, bezesporu, beztak, bohudík, bohužel, budiž, byť, bůhsuď, bůhví, cca, cirka, co, copak, div, dobrá, dobře, doopravdy, fakt, hlavně, hned, houby, i, jako, jakože, jakto, jasně, jen, jenom, ještě, jistě, jistěže, již, jo, kdepak, kdoví, když, kdyžtak, klidně, koneckonců, konečně, kupodivu, kurva, kéž, leda, li, možná, nakonec, naneštěstí, naopak, např, například, natož, nazdařbůh, naštěstí, ne, nechť, nejenže, nejspíš, nejspíše, nesporně, netto, nikoli, nikoliv, no, nuže, obzvláště, obzvlášť, ono, opravdu, ovšem, ovšemže, patrně, pouze, prakticky, pranic, pravda, prostě, proto, právě, právěže, prý, přece, přeci, především, přesně, přímo, relativně, rovněž, rozhodně, samozřejmě, sbohem, sice, skutečně, snad, sotva, spíš, spíše, stěží, taky, také, takříkajíc, teda, to, totiž, tož, též, třeba, určitě, už, viď, viďte, vlastně, vole, však, vůbec, vždyť, zaplaťpánbu, zas, zase, zejm, zejména, zjevně, zkrátka, zrovna, zvláště, zvlášť, zřejmě, že, žel</li>
 </ul>
 
 <ul>
@@ -662,6 +662,7 @@ year = 2026,
 <ul>
   <li>Imp
     <ul>
+      <li>ADJ: vedoucí, budoucí, zabývající, týkající, rostoucí, následující, rozhodující, sídlící, vynikající, vedoucích</li>
       <li>ADJ-Part: vedoucí, budoucí, zabývající, týkající, rostoucí, následující, rozhodující, sídlící, vynikající, vedoucích</li>
       <li>AUX-Conv: jsouce, jsa, jsouc</li>
       <li>AUX-Fin: je, by, jsem, jsme, jsou, bude, není, jste, budou, bych</li>
@@ -678,7 +679,7 @@ year = 2026,
 <ul>
   <li>Imp,Perf
     <ul>
-      <li>ADJ-Part: jmenován, jmenováni, věnována, informováni, věnován, informován, věnováno, jmenována, informována, privatizována</li>
+      <li>ADJ-Part: jmenován, registrovaná, specializované, specializovaných, kvalifikovaných, registrovaných, jmenovaných, jmenováni, věnována, informováni</li>
       <li>VERB-Conv: citujíc, reagujíce</li>
       <li>VERB-Fin: jmenuje, jmenuji, věnuje, jmenují, organizuje, specializuje, konstatuje, investuje, reaguje, věnují</li>
       <li>VERB-Inf: investovat, věnovat, komentovat, jmenovat, reagovat, realizovat, vetovat, informovat, riskovat, definovat</li>
@@ -690,7 +691,8 @@ year = 2026,
 <ul>
   <li>Perf
     <ul>
-      <li>ADJ-Part: řečeno, přesvědčen, připravena, připraven, zvolen, uvedeno, uzavřena, zveřejněny, stanovena, založena</li>
+      <li>ADJ: spojených, spojené, řečeno, vyfocené, dané, uvedené, o, přesvědčen, připravena, připraven</li>
+      <li>ADJ-Part: spojených, spojené, řečeno, vyfocené, dané, uvedené, přesvědčen, připravena, připraven, zvolen</li>
       <li>VERB-Conv: řka, poznajíce, semnuvše, vzpomenuv, zaplniv, řkouce</li>
       <li>VERB-Fin: podíváme, dá, přijde, stane, začne, zvýší, zůstane, nedá, dostane, zaplatí</li>
       <li>VERB-Inf: říct, získat, podívat, udělat, prodat, dostat, stát, dát, koupit, zvýšit</li>
@@ -1134,7 +1136,7 @@ year = 2026,
       <li>ADV
         <ul>
           <li>ADP: m</li>
-          <li>ADV: více, nejen, víc, co, méně</li>
+          <li>ADV: více, méně, víc, nejen, co</li>
           <li>DET: všeho</li>
           <li>NOUN: rok, měsíc, Týden, neděli, sobotu, suma, večer</li>
           <li>PART: přece</li>
@@ -1386,13 +1388,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB-Fin--NOUN (629)</li>
       <li>VERB-Fin--NOUN-Acc (2)</li>
-      <li>VERB-Fin--NOUN-Gen (889)</li>
+      <li>VERB-Fin--NOUN-Gen (912)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(kolem) (11)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(mezi) (1)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(na) (24)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(okolo) (4)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(přes) (17)</li>
-      <li>VERB-Fin--NOUN-Nom (41948)</li>
+      <li>VERB-Fin--NOUN-Nom (41950)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(proti) (1)</li>
       <li>VERB-Fin--PRON (91)</li>
       <li>VERB-Fin--PRON-Gen (42)</li>
@@ -1410,13 +1412,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Nom (148)</li>
       <li>VERB-Part--NOUN (593)</li>
       <li>VERB-Part--NOUN-Acc-ADP(na) (1)</li>
-      <li>VERB-Part--NOUN-Gen (1041)</li>
+      <li>VERB-Part--NOUN-Gen (1088)</li>
       <li>VERB-Part--NOUN-Gen-ADP(kolem) (12)</li>
       <li>VERB-Part--NOUN-Gen-ADP(na) (32)</li>
       <li>VERB-Part--NOUN-Gen-ADP(okolo) (5)</li>
       <li>VERB-Part--NOUN-Gen-ADP(přes) (17)</li>
       <li>VERB-Part--NOUN-Loc-ADP(po) (3)</li>
-      <li>VERB-Part--NOUN-Nom (50497)</li>
+      <li>VERB-Part--NOUN-Nom (50500)</li>
       <li>VERB-Part--NOUN-Nom-ADP(pro) (2)</li>
       <li>VERB-Part--NOUN-Nom-ADP(proti) (1)</li>
       <li>VERB-Part--PRON (121)</li>
@@ -1435,13 +1437,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--NOUN-Acc (42)</li>
       <li>VERB-Conv--PRON-Acc (3)</li>
       <li>VERB-Fin--NOUN (160)</li>
-      <li>VERB-Fin--NOUN-Acc (31410)</li>
-      <li>VERB-Fin--NOUN-Gen (1606)</li>
+      <li>VERB-Fin--NOUN-Acc (31413)</li>
+      <li>VERB-Fin--NOUN-Dat (1)</li>
+      <li>VERB-Fin--NOUN-Gen (1654)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(na) (7)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(o) (4)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(pod) (1)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(z) (1)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(za) (1)</li>
+      <li>VERB-Fin--NOUN-Ins-ADP(před) (1)</li>
       <li>VERB-Fin--NOUN-Nom (291)</li>
       <li>VERB-Fin--NOUN-Voc (4)</li>
       <li>VERB-Fin--PRON (28)</li>
@@ -1449,8 +1453,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Gen (25)</li>
       <li>VERB-Fin--PRON-Nom (26)</li>
       <li>VERB-Inf--NOUN (82)</li>
-      <li>VERB-Inf--NOUN-Acc (18699)</li>
-      <li>VERB-Inf--NOUN-Gen (601)</li>
+      <li>VERB-Inf--NOUN-Acc (18701)</li>
+      <li>VERB-Inf--NOUN-Gen (617)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(na) (5)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(o) (1)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(z) (1)</li>
@@ -1461,10 +1465,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Gen (5)</li>
       <li>VERB-Inf--PRON-Nom (50)</li>
       <li>VERB-Part--NOUN (156)</li>
-      <li>VERB-Part--NOUN-Acc (36088)</li>
-      <li>VERB-Part--NOUN-Gen (1875)</li>
+      <li>VERB-Part--NOUN-Acc (36094)</li>
+      <li>VERB-Part--NOUN-Gen (1924)</li>
       <li>VERB-Part--NOUN-Gen-ADP(na) (2)</li>
       <li>VERB-Part--NOUN-Gen-ADP(z) (2)</li>
+      <li>VERB-Part--NOUN-Gen-ADP(za) (2)</li>
       <li>VERB-Part--NOUN-Nom (235)</li>
       <li>VERB-Part--NOUN-Voc (9)</li>
       <li>VERB-Part--PRON (54)</li>
@@ -1487,7 +1492,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Acc (55)</li>
       <li>VERB-Fin--PRON-Nom (3)</li>
       <li>VERB-Inf--NOUN (9)</li>
-      <li>VERB-Inf--NOUN-Acc (104)</li>
+      <li>VERB-Inf--NOUN-Acc (105)</li>
       <li>VERB-Inf--NOUN-Gen (11)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(k) (1)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(na) (1)</li>
@@ -1497,6 +1502,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Acc (42)</li>
       <li>VERB-Part--NOUN (32)</li>
       <li>VERB-Part--NOUN-Acc (262)</li>
+      <li>VERB-Part--NOUN-Dat (1)</li>
       <li>VERB-Part--NOUN-Gen (18)</li>
       <li>VERB-Part--NOUN-Gen-ADP(na) (8)</li>
       <li>VERB-Part--NOUN-Nom (25)</li>

@@ -69,7 +69,7 @@ Examples: <em>ᡝᠷᡝ, ᡨᡝᠷᡝ, ᡤᡝᠷᡝᠨ, ᡠᡩᡠ, ᡝᠷᡝᠮ�
 
 ## Relations
 
-`DET` nodes are attached to their parents using 4 different relations: <tt><a href="sjo_xdt-dep-det.html">det</a></tt> (88; 83% instances), <tt><a href="sjo_xdt-dep-nsubj.html">nsubj</a></tt> (11; 10% instances), <tt><a href="sjo_xdt-dep-obj.html">obj</a></tt> (5; 5% instances), <tt><a href="sjo_xdt-dep-obl.html">obl</a></tt> (2; 2% instances)
+`DET` nodes are attached to their parents using 5 different relations: <tt><a href="sjo_xdt-dep-det.html">det</a></tt> (88; 83% instances), <tt><a href="sjo_xdt-dep-nsubj.html">nsubj</a></tt> (11; 10% instances), <tt><a href="sjo_xdt-dep-obj.html">obj</a></tt> (5; 5% instances), <tt><a href="sjo_xdt-dep-nmod.html">nmod</a></tt> (1; 1% instances), <tt><a href="sjo_xdt-dep-obl.html">obl</a></tt> (1; 1% instances)
 
 Parents of `DET` nodes belong to 4 different parts of speech: <tt><a href="sjo_xdt-pos-NOUN.html">NOUN</a></tt> (89; 84% instances), <tt><a href="sjo_xdt-pos-VERB.html">VERB</a></tt> (13; 12% instances), <tt><a href="sjo_xdt-pos-NUM.html">NUM</a></tt> (3; 3% instances), <tt><a href="sjo_xdt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances)
 

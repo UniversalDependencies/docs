@@ -73,4 +73,4 @@ The subject must be necessarily inherited from a fixed position in the higher cl
 The `xcomp` relation is also used in constructions that are known as _secondary predicates_ or _predicatives_.
 Remember that `xcomp` is used for core arguments of clausal predicates so it will not be used for other instances of secondary predication.
 
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:44 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:39:14 CET -->

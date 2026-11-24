@@ -25,7 +25,7 @@ The following 18 pairs of parts of speech are connected with `advmod:emph`: <tt>
 1	Do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	3	case	3:case	LId=do-1
 2	té	ten	DET	PDFS2----------	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	3	det	3:det	_
 3	doby	doba	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing	4	obl	4:obl:do:gen	_
-4	viděli	vidět	VERB	VpMP---XR-AA---	Animacy=Anim|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
+4	viděli	vidět	VERB	VpMP---XR-AA---	Animacy=Anim|Aspect=Imp|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
 5	letouny	letoun	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	4	obj	4:obj	_
 6	pouze	pouze	ADV	Db-------------	_	7	advmod:emph	7:advmod:emph	_
 7	bloggeři	blogger	NOUN	NNMP1-----A---1	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	4:nsubj	SpaceAfter=No
@@ -43,7 +43,7 @@ The following 18 pairs of parts of speech are connected with `advmod:emph`: <tt>
 1	Samozřejmě	samozřejmě	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	0	root	0:root	SpaceAfter=No|LDeriv=samozřejmý
 2	,	,	PUNCT	Z:-------------	_	4	punct	4:punct	_
 3	že	že	SCONJ	J,-------------	_	4	mark	4:mark	LId=že-1
-4	jde	jít	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	1:advcl:že	_
+4	jde	jít	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	1:advcl:že	_
 5	o	o	ADP	RR--4----------	AdpType=Prep|Case=Acc	6	case	6:case	LId=o-1
 6	volby	volba	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur	4	obl:arg	4:obl:arg:o:acc	_
 7	a	a	CCONJ	J^-------------	_	11	cc	11:cc	LId=a-1
@@ -70,7 +70,7 @@ The following 18 pairs of parts of speech are connected with `advmod:emph`: <tt>
 3	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	7	expl:pass	7:expl:pass	LGloss=(zvr._zájmeno/částice)
 4	tímto	tento	DET	PDZS7----------	Case=Ins|Gender=Masc,Neut|Number=Sing|PronType=Dem	5	det	5:det	_
 5	slovem	slovo	NOUN	NNNS7-----A----	Case=Ins|Gender=Neut|Number=Sing	7	obl	7:obl:ins	_
-6	můžou	moci	VERB	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LGloss=(mít_možnost_[něco_dělat])
+6	můžou	moci	VERB	VB-P---3P-AA---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LGloss=(mít_možnost_[něco_dělat])
 7	označovat	označovat	VERB	Vf--------A----	Aspect=Imp|Polarity=Pos|VerbForm=Inf	6	xcomp	6:xcomp	_
 8	i	i	CCONJ	J^-------------	_	10	advmod:emph	10:advmod:emph	LId=i-1
 9	mělké	mělký	ADJ	AAFP4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	10	amod	10:amod	_

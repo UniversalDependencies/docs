@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.15 release
 The following people have contributed to making this treebank part of UD: Oggi Peeters.
 
 Repository: [UD_Phrygian-KUL](https://github.com/UniversalDependencies/UD_Phrygian-KUL)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udxpg_kul218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udxpg_kul219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 
@@ -29,7 +29,7 @@ Genre: nonfiction
 Questions, comments?
 General annotation questions (either Phrygian-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Phrygian-KUL/issues).
-If you want to collaborate, please contact [oggi&nbsp;•&nbsp;peeters&nbsp;(æt)&nbsp;student&nbsp;•&nbsp;kuleuven&nbsp;•&nbsp;be].
+If you want to collaborate, please contact [grammatocyphon&nbsp;(æt)&nbsp;proton&nbsp;•&nbsp;me].
 Development of the treebank happens directly in the UD repository, so you may submit bug fixes as pull requests against the dev branch.
 
 | Annotation | Source |
@@ -46,11 +46,11 @@ UD Phrygian-KUL started as part of a Master's thesis in linguistics at KU Leuven
 
 
 
-UD Phrygian-KUL annotates the ancient Phrygian language. The data are comprised of epigraphic material dating ca. 8th century BCE-3rd century CE following the editions by Obrador-Cursach (2020, pp. 525-606) and Oreshko and Alagöz (2023). Additional grammatical information is derived from Ligorio and Lubotsky (2018) and Oreshko (2023).
+UD Phrygian-KUL annotates the ancient Phrygian language. The data are comprised of epigraphic material dated to ca. 8th century BCE – 3rd century CE following the editions by Obrador-Cursach (2020, pp. 525-606) and Oreshko and Alagöz (2023). Additional grammatical information is derived from Ligorio and Lubotsky (2018) and Oreshko (2023).
 
 In case any rights were violated, please notify the contributors so that we can resolve the issue.
 
-The inscriptions can be linked to various metadata through stable identifiers provided by [Trismegistos](https://www.trismegistos.org/tm/index.php) (TM; see Depauw & Gheldof, 2014). Each identifier thus represents an inscription, augmented by a number identifying the sentence and one for the token whenever applicable. These three elements are separated by a hyphen (-) and included in the MISC field. Through TM, there is little difficulty in finding the provenance and approximate date of every Phrygian inscription.
+The inscriptions can be linked to various metadata through stable identifiers provided by [Trismegistos](https://www.trismegistos.org/tm/index.php) (TM; see Depauw & Gheldof, 2014). Each identifier thus represents an inscription, augmented by a number identifying the sentence and one for the token whenever applicable. These three elements are separated by a hyphen (-) and included in the MISC field. Through TM, there is little difficulty in finding the provenance and approximate date of every Phrygian inscription. Considering IDs for texts are exclusively numeric, variant readings of a single text are marked by a letter directly following the TM-identifier.
 
 ## Acknowledgments
 
@@ -65,7 +65,7 @@ The data were annotated by Oggi Peeters originally as part of a Master's thesis 
 
 ## Features
 
-[Aspect](xpg_kul-feat-Aspect.html) – [Case](xpg_kul-feat-Case.html) – [ExtPos](xpg_kul-feat-ExtPos.html) – [Gender](xpg_kul-feat-Gender.html) – [Mood](xpg_kul-feat-Mood.html) – [Number](xpg_kul-feat-Number.html) – [NumType](xpg_kul-feat-NumType.html) – [Person](xpg_kul-feat-Person.html) – [Poss](xpg_kul-feat-Poss.html) – [PronType](xpg_kul-feat-PronType.html) – [Reflex](xpg_kul-feat-Reflex.html) – [Tense](xpg_kul-feat-Tense.html) – [Typo](xpg_kul-feat-Typo.html) – [VerbForm](xpg_kul-feat-VerbForm.html) – [Voice](xpg_kul-feat-Voice.html)
+[Aspect](xpg_kul-feat-Aspect.html) – [Case](xpg_kul-feat-Case.html) – [ExtPos](xpg_kul-feat-ExtPos.html) – [Foreign](xpg_kul-feat-Foreign.html) – [Gender](xpg_kul-feat-Gender.html) – [Mood](xpg_kul-feat-Mood.html) – [Number](xpg_kul-feat-Number.html) – [NumForm](xpg_kul-feat-NumForm.html) – [NumType](xpg_kul-feat-NumType.html) – [Person](xpg_kul-feat-Person.html) – [Poss](xpg_kul-feat-Poss.html) – [PronType](xpg_kul-feat-PronType.html) – [Reflex](xpg_kul-feat-Reflex.html) – [Tense](xpg_kul-feat-Tense.html) – [Typo](xpg_kul-feat-Typo.html) – [VerbForm](xpg_kul-feat-VerbForm.html) – [Voice](xpg_kul-feat-Voice.html)
 
 ## Relations
 
@@ -75,11 +75,11 @@ The data were annotated by Oggi Peeters originally as part of a Master's thesis 
 
 
 <ul>
-<li>This corpus contains 203 sentences, 1915 tokens and 1921 syntactic words.</li>
+<li>This corpus contains 238 sentences and 2040 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 220 tokens (11%) that are not followed by a space.</li>
+<li>This corpus contains 228 tokens (11%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -87,12 +87,10 @@ The data were annotated by Oggi Peeters originally as part of a Master's thesis 
 </ul>
 
 <ul>
-<li>This corpus contains 342 types of words that contain both letters and punctuation. Examples: [ιος, [ι]ος, ειτου], κ’, [νι, ειτο[υ], -t, [ατ, [ειτου], [ιο]ς, [κνουμανει], α]τ, αδδακ[ετ, αι]νι, αιν’, ειτ[ου], κακ[ου]ν, κακο[υν, κακου]ν̣, κνου]μ̣ανει, σεμ[ουν, σεμουν], τι]ε, τιτετικμ[ενος, -.Ο̣....Ο̣Υ̣, ...ẹkẹs, ..]ι, ..ρ̣ο̣ς̣, [---]abas, [---]as, [---]gen, [---]ripos, [---]οι, [---]ḷiake, [---]ṣạbas, [---]ṭen, [................]ι, [...........]ει, [.........]ις, [........]ε, [.......]υ̣ο̣ι̣ς̣, [.....]ε̣μερη, [....]αν, [...]n, [...]υ̣, [...]ṇin, [...]ọy, [.?]avarạ[.?], [.?]ṛekun, [.]μαρδ̣ι</li>
+<li>This corpus contains 372 types of words that contain both letters and punctuation. Examples: [ιος, [ι]ος, ειτου], κ’, -key, -t, [νι, ειτο[υ], [ατ, [ειτου], [ιο]ς, [κνουμανει], α]τ, αδδακ[ετ, αι]νι, αιν’, ειτ[ου], κακ[ου]ν, κακο[υν, κακου]ν̣, κνου]μ̣ανει, σεμ[ουν, σεμουν], τι]ε, τιτετικμ[ενος, -.Ο̣....Ο̣Υ̣, -k, -kẹỵ, ...ẹkẹs, ..]ι, ..ρ̣ο̣ς̣, [---]abas, [---]as, [---]e, [---]gen, [---]le.[---], [---]m[…?].t….m[..?]m.[..].[---], [---]ripos, [---]οι, [---]ḷiake, [---]ṇ[---], [---]ṣạbas, [---]ṭ[---], [---]ṭen, [---]ạ[.]m[.?]noy, [-?-]e[.], [-?-]p, [-?-]p̣?asakas, [-?-]tataẹ?[..?], [................]ι</li>
 </ul>
 
 <ul>
-<li>This corpus contains 6 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 6 types of multi-word tokens. Examples: Silẹṿkoỵ-kẹỵ, [...]ṇin-key, eS-k, opoS-key, ṃroteS-key, ạẹỵ-t.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -109,15 +107,15 @@ The data were annotated by Oggi Peeters originally as part of a Master's thesis 
 </ul>
 
 <ul>
-<li>This corpus contains 11 lemmas tagged as pronouns (PRON): _, ios, kos, va, venavtun, αυτος, ιοι, κισυις, σεμουν, τις, τος</li>
+<li>This corpus contains 12 lemmas tagged as pronouns (PRON): _, ios, kos, niyen, va, venavtun, αυτος, ιοι, κισυις, σεμουν, τις, τος</li>
 </ul>
 
 <ul>
-<li>This corpus contains 8 lemmas tagged as determiners (DET): _, ešt, kos, va, ιοι, σεμουν, τις, τος</li>
+<li>This corpus contains 11 lemmas tagged as determiners (DET): _, ešt, kos, meu, niyen, va, αυτος, ιοι, σεμουν, τις, τος</li>
 </ul>
 
 <ul>
-<li>Out of the above, 7 lemmas occurred sometimes as PRON and sometimes as DET: _, kos, va, ιοι, σεμουν, τις, τος</li>
+<li>Out of the above, 9 lemmas occurred sometimes as PRON and sometimes as DET: _, kos, niyen, va, αυτος, ιοι, σεμουν, τις, τος</li>
 </ul>
 
 <ul>
@@ -135,7 +133,7 @@ The data were annotated by Oggi Peeters originally as part of a Master's thesis 
   <li>Fin
   <ul>
     <li>AUX: ειτου, αδειτου, ειτου], ειτο[υ], [ειτου], ε̣ιτου, ειτ[ου], [ειτ]ου, [ειτο]υ, en</li>
-    <li>VERB: αδδακετ, αδακετ, εγεδου, edaes, δακετ, αββερετ, αββερετοι, αδδακ[ετ, τευτου, [α]δδακετ</li>
+    <li>VERB: αδδακετ, αδακετ, εγεδου, edaes, δακετ, edae, si𐋇eto, αββερετ, αββερετοι, αδδακ[ετ</li>
   </ul>
   </li>
 </ul>
@@ -158,13 +156,13 @@ The data were annotated by Oggi Peeters originally as part of a Master's thesis 
 <ul>
   <li>Fem
     <ul>
-      <li>ADJ: αμι̣α̣σιαν, αωρω, μεκας, μοναν</li>
-      <li>DET: σα, σας, ουα, σαι, [τ]αι, οι, σ]α, σ̣α̣, σαν, τα̣ν</li>
-      <li>NOUN: ουταν, μανκα, μανκαι, μανκαν, matẹṛ[--], ευκιν, σορου, knays, knạỵḳẹ?[s]?, matera[n?]</li>
-      <li>PRON: ταν, s, αυταη, ιαν, ιοι, οαν, οεαυται, ται</li>
-      <li>PROPN: βαταν, εκατηας, νεν[υε]ρια, ξ]ευναν, ξ̣ε̣υνε, ξευνε, ξευνεοι, ξευνη, ουεναουιας, σερ̣?οα</li>
+      <li>ADJ: kubileya, αμι̣α̣σιαν, αωρω, μεκας, μοναν</li>
+      <li>DET: σα, σας, ουα, σαι, [τ]αι, avtay, esait, οι, σ]α, σ̣α̣</li>
+      <li>NOUN: ουταν, μανκα, μανκαι, materey, μανκαν, materan, matẹṛ[--], ευκιν, σορου, knays</li>
+      <li>PRON: ταν, tan, αυταη, ιαν, ιοι, οαν, οεαυται, ται</li>
+      <li>PROPN: areyastin, βαταν, εκατηας, νεν[υε]ρια, ξ]ευναν, ξ̣ε̣υνε, ξευνε, ξευνεοι, ξευνη, ουεναουιας</li>
       <li>VERB-Part: γεγρειμεναν, γεγ̣[ρε]ιμεναν, γεγειμεναν, γεγρ̣[ειμεναν, γεγρειμε[ναν, γεγρειμε̣ναν, γεγρειμεν[α]ν, γεγρειμενον, οπεσταμε̣ν̣α̣ν̣, σ[ε]σταμε̣ναν</li>
-      <li>X: α̣σ̣τ̣αι̣, σαυναμαν</li>
+      <li>X: eveteksetẹy, α̣σ̣τ̣αι̣, σαυναμαν</li>
     </ul>
   </li>
 </ul>
@@ -173,11 +171,11 @@ The data were annotated by Oggi Peeters originally as part of a Master's thesis 
   <li>Masc
     <ul>
       <li>ADJ: mekas, γλουρεος, ειλικρινη, ζως, μεκα, μεκαν, ναδροτος, νιοισιος, ουρανιον, παντης</li>
-      <li>DET: veiṢ, σ̣ο̣υ̣ν, σας, τι</li>
-      <li>NOUN: ζεμελως, δεως, διως, δεος, ειροι, ζεμελος, σζεμελως, [δ]ε̣[ως, [δεως], [ο]υ̣εκρω</li>
+      <li>DET: meu, veiṢ, σ̣ο̣υ̣ν, σας, τι</li>
+      <li>NOUN: ζεμελως, δεως, διως, akenanogavos, δεος, ειροι, ζεμελος, σζεμελως, [δ]ε̣[ως, [δεως]</li>
       <li>PART: το</li>
-      <li>PRON: ιος, [ιος, [ι]ος, οι, ις, τος, κος, ιοι, [ιο]ς, αυτος</li>
-      <li>PROPN: τιε, τι, τιος, ates, τιη, βας, τιαν, midas, atas, atatas</li>
+      <li>PRON: ιος, [ιος, [ι]ος, οι, ις, τος, κος, ιοι, [ιο]ς, yos</li>
+      <li>PROPN: τιε, τι, τιος, ates, τιη, βας, τιαν, atas, midas, alus</li>
       <li>VERB-Part: τιττετικμενος, τιτετικμενος, τιτετικμ[ενος, [γ]εγ̣[αριτ]με[ν]ος, [τ]ε̣ιττετικμενος, [τ]ετικμε[νο]ς, [τ]ιτετικμεν̣ος, [τιτ]τετικμενος, [τιττ]ετικμενος, [τιττετι]κμενος</li>
       <li>X: αστοι, παρτης</li>
     </ul>
@@ -188,8 +186,8 @@ The data were annotated by Oggi Peeters originally as part of a Master's thesis 
   <li>Neut
     <ul>
       <li>ADJ: ακκαλος, maneion, ακκαλο̣[ς, ομαστα, ουκραον, παντα, τιδρ]ε̣γρουν, τιδρεγρουν, τιδρερουν</li>
-      <li>DET: σεμουν, σεμον, σεμου, σεμ[ουν, σεμουν], [σ]εμον, [σε]μ̣ου̣ν, [σεμουν, eS, {σεμον}</li>
-      <li>NOUN: κακουν, κνουμανει, κακον, κνουμανε, κνουμανι, βεκος, [κνουμανει], κακ[ου]ν, κακο[υν, κακου]ν̣</li>
+      <li>DET: σεμουν, σεμον, σεμου, σεμ[ουν, σεμουν], [σ]εμον, [σε]μ̣ου̣ν, [σεμουν, eS, ovevin</li>
+      <li>NOUN: κακουν, κνουμανει, κακον, κνουμανε, κνουμανι, βεκος, [κνουμανει], iman, κακ[ου]ν, κακο[υν</li>
       <li>PART: του, τι, τ[ο]υ, τ[ου], τ̣ο, το, του]</li>
       <li>PRON: σεμον, si, κιυιν, ουα, σε[μουν, σεμουν, σεμυν</li>
       <li>PROPN: gordiyoy</li>
@@ -213,8 +211,8 @@ The data were annotated by Oggi Peeters originally as part of a Master's thesis 
       <li>NOUN: ζεμελως, δεως, διως, γουμεις, δεος, ειροι, ζεμελος, σζεμελως, ...ẹkẹs, [δ]ε̣[ως</li>
       <li>PRON: τις</li>
       <li>PROPN: perkạmạṇeiṣ</li>
-      <li>VERB: γερε[ν/τ], δακαρεν, δεδασσιννι, εγουννου, ενσταρνα̣, ισνιο[υ], νεκοινουν, ο̣[υ]ε̣λ̣α̣σ̣κοννου, ουελασκοννου, ουρν̣ουσαεν</li>
-      <li>VERB-Fin: γερε[ν/τ], δακαρεν, δεδασσιννι, εγουννου, ενσταρνα̣, ισνιο[υ], ο̣[υ]ε̣λ̣α̣σ̣κοννου, ουελασκοννου</li>
+      <li>VERB: tekiseton, γερε[ν/τ], δακαρεν, δεδασσιννι, εγουννου, ενσταρνα̣, ισνιο[υ], νεκοινουν, ο̣[υ]ε̣λ̣α̣σ̣κοννου, ουελασκοννου</li>
+      <li>VERB-Fin: tekiseton, γερε[ν/τ], δακαρεν, δεδασσιννι, εγουννου, ενσταρνα̣, ισνιο[υ], ο̣[υ]ε̣λ̣α̣σ̣κοννου, ουελασκοννου</li>
       <li>VERB-Part: τιττ[ετικμενοι, τιττετικμ̣[ε]νοι, τιττετικμενα</li>
       <li>X: αστοι, δεκμουταης, δεκμουταις, μουρσα̣, οκαυγοσι, οκκαυγοι, παρτης</li>
     </ul>
@@ -224,17 +222,17 @@ The data were annotated by Oggi Peeters originally as part of a Master's thesis 
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: ακκαλος, maneion, mekas, ακκαλο̣[ς, αμι̣α̣σιαν, αωρω, γλουρεος, ζως, λαπτα, μακραν</li>
+      <li>ADJ: ακκαλος, kubileya, maneion, mekas, ακκαλο̣[ς, αμι̣α̣σιαν, αωρω, γλουρεος, ζως, λαπτα</li>
       <li>AUX-Fin: ειτου, αδειτου, ειτου], ειτο[υ], [ειτου], ε̣ιτου, ειτ[ου], [ειτ]ου, [ειτο]υ, en</li>
       <li>DET: σεμουν, σεμον, σα, σας, σεμου, οι, ουα, σαι, σεμ[ουν, σεμουν]</li>
-      <li>NOUN: κακουν, κνουμανει, κακον, κνουμανε, κνουμανι, ουταν, βεκος, μανκα, μανκαι, μανκαν</li>
+      <li>NOUN: κακουν, κνουμανει, κακον, κνουμανε, κνουμανι, ουταν, βεκος, μανκα, μανκαι, materey</li>
       <li>PART: του, τι, το, τ[ο]υ, τ[ου], τ̣ο, του]</li>
       <li>PRON: ιος, [ιος, οι, [ι]ος, ις, τος, ιοι, κος, ταν, [ιο]ς</li>
-      <li>PROPN: τιε, τι, τιος, ates, τιη, βας, τιαν, midas, βαταν, atas</li>
-      <li>VERB: αδδακετ, αδακετ, τιττετικμενος, τιτετικμενος, εγεδου, γεγρειμεναν, edaes, δακετ, αββερετ, αββερετοι</li>
-      <li>VERB-Fin: αδδακετ, αδακετ, εγεδου, edaes, δακετ, αββερετ, αββερετοι, αδδακ[ετ, τευτου, [α]δδακετ</li>
+      <li>PROPN: τιε, τι, τιος, ates, τιη, βας, τιαν, atas, midas, βαταν</li>
+      <li>VERB: αδδακετ, αδακετ, τιττετικμενος, τιτετικμενος, εγεδου, γεγρειμεναν, edaes, δακετ, edae, si𐋇eto</li>
+      <li>VERB-Fin: αδδακετ, αδακετ, εγεδου, edaes, δακετ, edae, si𐋇eto, αββερετ, αββερετοι, αδδακ[ετ</li>
       <li>VERB-Part: τιττετικμενος, τιτετικμενος, γεγρειμεναν, τιτετικμ[ενος, [γ]εγ̣[αριτ]με[ν]ος, [τ]ε̣ιττετικμενος, [τ]ετικμε[νο]ς, [τ]ιτετικμεν̣ος, [τιτ]τετικμενος, [τιττ]ετικμενος</li>
-      <li>X: α̣σ̣τ̣αι̣, λο̣δ̣ιμ̣ον, μειομον, νου[.], πασε, ποκραιου, σαυναμαν</li>
+      <li>X: eveteksetẹy, α̣σ̣τ̣αι̣, λο̣δ̣ιμ̣ον, μειομον, νου[.], πασε, ποκραιου, σαυναμαν</li>
     </ul>
   </li>
 </ul>
@@ -247,11 +245,11 @@ The data were annotated by Oggi Peeters originally as part of a Master's thesis 
   <li>Acc
     <ul>
       <li>ADJ: αμι̣α̣σιαν, ειλικρινη, μακραν, μεκαν, μοναν, ομαστα, ουκραον, ουρανιον</li>
-      <li>DET: eS, {σεμον}, κιν, σ̣ο̣υ̣ν, σεμουν, τα̣ν, τι</li>
-      <li>NOUN: κακουν, κακον, ουταν, μανκαν, ουεβαν, βεκος, ευκιν, κακ[ου]ν, κακο[υν, κακου]ν̣</li>
+      <li>DET: eS, niyen, ovevin, {σεμον}, κιν, σ̣ο̣υ̣ν, σεμουν, τα̣ν, τι</li>
+      <li>NOUN: κακουν, κακον, ουταν, μανκαν, ουεβαν, materan, βεκος, ευκιν, κακ[ου]ν, κακο[υν</li>
       <li>PART: τι</li>
-      <li>PRON: ταν, ιαν, s, si, αυτον, ιον, οαν</li>
-      <li>PROPN: βαταν, τιαν, διουνσιν, ξ]ευναν</li>
+      <li>PRON: ταν, ιαν, niyeṇ?, si, tan, αυτον, ιον, οαν</li>
+      <li>PROPN: βαταν, τιαν, areyastin, διουνσιν, ξ]ευναν</li>
       <li>VERB-Part: γεγρειμεναν, γεγ̣[ρε]ιμεναν, γεγειμεναν, γεγρ̣[ειμεναν, γεγρειμε[ναν, γεγρειμε̣ναν, γεγρειμεν[α]ν, γεγρειμενον, γεγριμενον, οπεσταμε̣ν̣α̣ν̣</li>
       <li>X: δεκμουταης, δεκμουταις, λο̣δ̣ιμ̣ον, μειομον, μουρσα̣, νου[.], σαυναμαν</li>
     </ul>
@@ -263,11 +261,11 @@ The data were annotated by Oggi Peeters originally as part of a Master's thesis 
     <ul>
       <li>ADJ: μεκα</li>
       <li>DET: σεμουν, σεμον, σα, σεμου, οι, σαι, σας, σεμ[ουν, σεμουν], σως</li>
-      <li>NOUN: κνουμανει, κνουμανε, ζεμελως, δεως, κνουμανι, μανκα, μανκαι, διως, [κνουμανει], ατεαμα</li>
+      <li>NOUN: κνουμανει, κνουμανε, ζεμελως, δεως, κνουμανι, μανκα, μανκαι, materey, διως, [κνουμανει]</li>
       <li>PART: του, τ[ο]υ, τ[ου], τ̣ο, το, του]</li>
-      <li>PRON: οι, ιοι, σεμον, αυταη, αυτω, οεαυται, οι], σε[μουν, σεμουν, σεμυν</li>
-      <li>PROPN: τιε, τι, τιη, τι]ε, τιος, [Τι], aiasay, davoi, esuryoyoy, gordiyoy</li>
-      <li>X: α̣σ̣τ̣αι̣, οκαυγοσι, πασε</li>
+      <li>PRON: οι, ιοι, σεμον, niyoy, αυταη, αυτω, οεαυται, οι], σε[μουν, σεμουν</li>
+      <li>PROPN: τιε, τι, τιη, τι]ε, τιος, ạtai, [Τι], agomoi, aiasay, basti</li>
+      <li>X: eveteksetẹy, α̣σ̣τ̣αι̣, οκαυγοσι, πασε</li>
     </ul>
   </li>
 </ul>
@@ -275,12 +273,12 @@ The data were annotated by Oggi Peeters originally as part of a Master's thesis 
 <ul>
   <li>Gen
     <ul>
-      <li>ADJ: αωρω</li>
-      <li>DET: σας</li>
-      <li>NOUN: αργου, δαδου, κναικο⟨ς⟩, κοροος̣, κ⟨ν⟩ουμινος, λο̣υ̣ν̣ι̣ο̣υ̣, μρος, ορουενος</li>
+      <li>ADJ: αωρω, ẹsagas</li>
+      <li>DET: meu, σας</li>
+      <li>NOUN: αργου, akenạṣ, δαδου, κναικο⟨ς⟩, κοροος̣, κ⟨ν⟩ουμινος, λο̣υ̣ν̣ι̣ο̣υ̣, μρος, ορουενος</li>
       <li>PART: το</li>
       <li>PRON: ιου</li>
-      <li>PROPN: τιος, Silẹṿkoỵ, antiyokoy, pseṛkeyoy, pseụkeyoy, surgastoy, ακαλας, ακε̣?νικου, δουμ?ετυου, εκατηας</li>
+      <li>PROPN: τιος, atevo, Silẹṿkoỵ, antiyokoy, a𐤶iyas, lelavo, leravo, manitos, pseṛkeyoy, pseụkeyoy</li>
       <li>X: ποκραιου</li>
     </ul>
   </li>
@@ -289,11 +287,11 @@ The data were annotated by Oggi Peeters originally as part of a Master's thesis 
 <ul>
   <li>Nom
     <ul>
-      <li>ADJ: ακκαλος, maneion, mekas, ακκαλο̣[ς, γλουρεος, ζως, λαπτα, μεκας, ναδροτος, νιοισιος</li>
+      <li>ADJ: ακκαλος, kubileya, maneion, mekas, ακκαλο̣[ς, γλουρεος, ζως, λαπτα, μεκας, ναδροτος</li>
       <li>DET: ουα, σας</li>
-      <li>NOUN: βεκος, ειροι, ...ẹkẹs, akenanogavos, knays, knạỵḳẹ?[s]?, kφiyanaveyos, k𐋇ianaveyos, m?akeṛes, moḍroṿanak</li>
-      <li>PRON: ιος, [ιος, [ι]ος, ις, τος, κος, [ιο]ς, αυτος, [ι]ο̣ς, [ιος]</li>
-      <li>PROPN: ates, βας, midas, atas, atatas, memevais, [---]abas, [---]as, [---]ripos, apelan</li>
+      <li>NOUN: βεκος, akenanogavos, ειροι, ...ẹkẹs, akenanogavọṣ, dagoy, iman, knays, knạỵḳẹ?[s]?, kφiyanaveyos</li>
+      <li>PRON: ιος, [ιος, [ι]ος, ις, τος, κος, [ιο]ς, yos, αυτος, [ι]ο̣ς</li>
+      <li>PROPN: ates, βας, atas, midas, alus, ata, atatas, atoios, memevais, [---]abas</li>
       <li>VERB-Part: τιττετικμενος, τιτετικμενος, τιτετικμ[ενος, [γ]εγ̣[αριτ]με[ν]ος, [τ]ε̣ιττετικμενος, [τ]ετικμε[νο]ς, [τ]ιτετικμεν̣ος, [τιτ]τετικμενος, [τιττ]ετικμενος, [τιττετι]κμενος</li>
       <li>X: αστοι, οκκαυγοι, παρτης</li>
     </ul>
@@ -340,7 +338,7 @@ The data were annotated by Oggi Peeters originally as part of a Master's thesis 
   <li>Imp
     <ul>
       <li>AUX-Fin: ειτου, αδειτου, ειτου], ειτο[υ], [ειτου], ε̣ιτου, ειτ[ου], [ειτ]ου, [ειτο]υ, α[δειτου]</li>
-      <li>VERB-Fin: εγεδου, τευτου, εγεδ[ου, εγεδ]ου, εγεδο[υ], εγουννου, ισνιο[υ], ισνου, ο̣[υ]ε̣λ̣α̣σ̣κοννου, ο̣υελ̣ασκετου</li>
+      <li>VERB-Fin: εγεδου, τευτου, lakedo, si𐋇eto, tekiseton, εγεδ[ου, εγεδ]ου, εγεδο[υ], εγουννου, ισνιο[υ]</li>
     </ul>
   </li>
 </ul>
@@ -349,7 +347,7 @@ The data were annotated by Oggi Peeters originally as part of a Master's thesis 
   <li>Ind
     <ul>
       <li>AUX-Fin: ειτου, en</li>
-      <li>VERB-Fin: αδδακετ, αδακετ, edaes, δακετ, αββερετ, αββερετοι, αδδακ[ετ, [α]δδακετ, [α]δδακεττ, [αδ]δ[ακετ]</li>
+      <li>VERB-Fin: αδδακετ, αδακετ, edaes, δακετ, edae, αββερετ, αββερετοι, αδδακ[ετ, [e]daes, [α]δδακετ</li>
     </ul>
   </li>
 </ul>
@@ -377,8 +375,8 @@ The data were annotated by Oggi Peeters originally as part of a Master's thesis 
 <ul>
   <li>Past
     <ul>
-      <li>VERB: τιττετικμενος, τιτετικμενος, γεγρειμεναν, edaes, τιτετικμ[ενος, [γ]εγ̣[αριτ]με[ν]ος, [τ]ε̣ιττετικμενος, [τ]ετικμε[νο]ς, [τ]ιτετικμεν̣ος, [τιτ]τετικμενος</li>
-      <li>VERB-Fin: edaes, edaie, eneparkes?, δακαρεν, εγ̣δ̣αες, εγερετοι, εδαες, εναρκε⟨ς⟩, ενεπαρκες, ενσταρνα̣</li>
+      <li>VERB: τιττετικμενος, τιτετικμενος, γεγρειμεναν, edaes, edae, τιτετικμ[ενος, [e]daes, [γ]εγ̣[αριτ]με[ν]ος, [τ]ε̣ιττετικμενος, [τ]ετικμε[νο]ς</li>
+      <li>VERB-Fin: edaes, edae, [e]daes, edaie, egertoy, eneparkes?, eḍ?[a]ẹ?s, tedaes, tedatoy, δακαρεν</li>
       <li>VERB-Part: τιττετικμενος, τιτετικμενος, γεγρειμεναν, τιτετικμ[ενος, [γ]εγ̣[αριτ]με[ν]ος, [τ]ε̣ιττετικμενος, [τ]ετικμε[νο]ς, [τ]ιτετικμεν̣ος, [τιτ]τετικμενος, [τιττ]ετικμενος</li>
     </ul>
   </li>
@@ -401,8 +399,8 @@ The data were annotated by Oggi Peeters originally as part of a Master's thesis 
   <li>Act
     <ul>
       <li>AUX-Fin: ειτου, αδειτου, ειτου], ειτο[υ], [ειτου], ε̣ιτου, ειτ[ου], [ειτ]ου, [ειτο]υ, α[δειτου]</li>
-      <li>VERB: αδδακετ, αδακετ, edaes, δακετ, αββερετ, αδδακ[ετ, [α]δδακετ, [α]δδακεττ, [αδ]δ[ακετ], [αδακετ</li>
-      <li>VERB-Fin: αδδακετ, αδακετ, edaes, δακετ, αββερετ, αδδακ[ετ, [α]δδακετ, [α]δδακεττ, [αδ]δ[ακετ], [αδακετ</li>
+      <li>VERB: αδδακετ, αδακετ, edaes, δακετ, edae, αββερετ, αδδακ[ετ, [e]daes, [α]δδακετ, [α]δδακεττ</li>
+      <li>VERB-Fin: αδδακετ, αδακετ, edaes, δακετ, edae, αββερετ, αδδακ[ετ, [e]daes, [α]δδακετ, [α]δδακεττ</li>
     </ul>
   </li>
 </ul>
@@ -410,7 +408,7 @@ The data were annotated by Oggi Peeters originally as part of a Master's thesis 
 <ul>
   <li>Mid
     <ul>
-      <li>VERB-Fin: εγεδου, αββερετοι, τευτου, [αββ]ε̣ρετορ, [αδδ]α̣κετορ, α]ββερετοι, αββε̣ρ̣ετοι, αββερ̣ετορ, αββερετορ, αββιρετο</li>
+      <li>VERB-Fin: εγεδου, αββερετοι, τευτου, [αββ]ε̣ρετορ, [αδδ]α̣κετορ, egertoy, si𐋇eto, si𐋇eto?, tedatoy, α]ββερετοι</li>
       <li>VERB-Part: τιττετικμενος, τιτετικμενος, γεγρειμεναν, τιτετικμ[ενος, [γ]εγ̣[αριτ]με[ν]ος, [τ]ε̣ιττετικμενος, [τ]ετικμε[νο]ς, [τ]ιτετικμεν̣ος, [τιτ]τετικμενος, [τιττ]ετικμενος</li>
     </ul>
   </li>
@@ -427,9 +425,9 @@ The data were annotated by Oggi Peeters originally as part of a Master's thesis 
 <ul>
   <li>Dem
     <ul>
-      <li>DET: σεμουν, σεμον, σα, σας, σεμου, Sit, οι, σαι, σεμ[ουν, σεμουν]</li>
+      <li>DET: σεμουν, σεμον, σα, σας, σεμου, Sit, s, s⸗, οι, σαι</li>
       <li>PART: του, τι, τ[ο]υ, τ[ου], τ̣ο, το, του]</li>
-      <li>PRON: οι, ιοι, τος, ταν, σεμον, s, si, οι], σε[μουν, σεμουν</li>
+      <li>PRON: οι, ιοι, τος, ταν, σεμον, si, tan, οι], σε[μουν, σεμουν</li>
     </ul>
   </li>
 </ul>
@@ -437,7 +435,8 @@ The data were annotated by Oggi Peeters originally as part of a Master's thesis 
 <ul>
   <li>Emp
     <ul>
-      <li>PRON: αυτος, αυ̣τος, αυταη, αυτον, αυτω, οεαυται</li>
+      <li>DET: avtay, niyen</li>
+      <li>PRON: venavtun, αυτος, niyeṇ?, niyoy, αυ̣τος, αυταη, αυτον, αυτω, οεαυται</li>
     </ul>
   </li>
 </ul>
@@ -454,7 +453,7 @@ The data were annotated by Oggi Peeters originally as part of a Master's thesis 
 <ul>
   <li>Prs
     <ul>
-      <li>DET: ουα, veiṢ</li>
+      <li>DET: ουα, meu, ovevin, veiṢ</li>
       <li>PRON: οαν, οι, ουα</li>
     </ul>
   </li>
@@ -463,7 +462,7 @@ The data were annotated by Oggi Peeters originally as part of a Master's thesis 
 <ul>
   <li>Rel
     <ul>
-      <li>PRON: ιος, [ιος, [ι]ος, ις, [ιο]ς, [ι]ο̣ς, [ιος], ειος, ι?ος, ι̣ος</li>
+      <li>PRON: ιος, [ιος, [ι]ος, ις, [ιο]ς, yos, [ι]ο̣ς, [ιος], ειος, ι?ος</li>
     </ul>
   </li>
 </ul>
@@ -473,9 +472,9 @@ The data were annotated by Oggi Peeters originally as part of a Master's thesis 
 </ul>
 
 <ul>
-  <li>Ord
+  <li>Card
     <ul>
-      <li>NUM: πινκε</li>
+      <li>NUM: 30?, 40?, πινκε</li>
     </ul>
   </li>
 </ul>
@@ -510,11 +509,19 @@ The data were annotated by Oggi Peeters originally as part of a Master's thesis 
 </ul>
 
 <ul>
+  <li>1
+    <ul>
+      <li>DET: meu</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>3
     <ul>
       <li>AUX-Fin: ειτου, αδειτου, ειτου], ειτο[υ], [ειτου], ε̣ιτου, ειτ[ου], [ειτ]ου, [ειτο]υ, en</li>
-      <li>VERB: αδδακετ, αδακετ, εγεδου, edaes, δακετ, αββερετ, αββερετοι, αδδακ[ετ, τευτου, [α]δδακετ</li>
-      <li>VERB-Fin: αδδακετ, αδακετ, εγεδου, edaes, δακετ, αββερετ, αββερετοι, αδδακ[ετ, τευτου, [α]δδακετ</li>
+      <li>VERB: αδδακετ, αδακετ, εγεδου, edaes, δακετ, edae, si𐋇eto, αββερετ, αββερετοι, αδδακ[ετ</li>
+      <li>VERB-Fin: αδδακετ, αδακετ, εγεδου, edaes, δακετ, edae, si𐋇eto, αββερετ, αββερετοι, αδδακ[ετ</li>
     </ul>
   </li>
 </ul>
@@ -542,6 +549,35 @@ The data were annotated by Oggi Peeters originally as part of a Master's thesis 
       <li>PRON
         <ul>
           <li>PRON: ιος, [ιος, τος, [ι]ος, [ι]ο̣ς, [ιο]ς, ειος, ι̣ος, ι̣ς̣, ιο[ς</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Foreign</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>DET: eS</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>NumForm</a>
+    <ul>
+      <li>Digit
+        <ul>
+          <li>NUM: 30?, 40?</li>
+        </ul>
+      </li>
+      <li>Word
+        <ul>
+          <li>NUM: πινκε</li>
         </ul>
       </li>
     </ul>
@@ -580,8 +616,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB--NOUN-Nom (3)</li>
-      <li>VERB-Fin--NOUN-Nom (3)</li>
-      <li>VERB-Fin--PRON-Nom (98)</li>
+      <li>VERB-Fin--NOUN-Nom (4)</li>
+      <li>VERB-Fin--PRON-Nom (99)</li>
       <li>VERB-Part--NOUN-Nom (2)</li>
       <li>VERB-Part--PRON-Nom (9)</li>
     </ul>
@@ -593,8 +629,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN-Acc (1)</li>
       <li>VERB--NOUN-Acc-ADP(εν) (1)</li>
-      <li>VERB-Fin--NOUN-Acc (112)</li>
-      <li>VERB-Fin--PRON-Acc (2)</li>
+      <li>VERB-Fin--NOUN-Acc (114)</li>
+      <li>VERB-Fin--PRON (1)</li>
+      <li>VERB-Fin--PRON-Acc (4)</li>
       <li>VERB-Part--NOUN-Acc (1)</li>
     </ul>
   </li>

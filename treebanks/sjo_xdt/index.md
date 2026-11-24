@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.9 release.
 The following people have contributed to making this treebank part of UD: He Zhou, Juyeon Chung, Elena Klyachko, Francis Tyers, Sandra Kübler.
 
 Repository: [UD_Xibe-XDT](https://github.com/UniversalDependencies/UD_Xibe-XDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsjo_xdt218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsjo_xdt219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -80,7 +80,7 @@ year={2020}
 
 ## Relations
 
-[acl](sjo_xdt-dep-acl.html) – [acl:relcl](sjo_xdt-dep-acl-relcl.html) – [advcl](sjo_xdt-dep-advcl.html) – [advmod](sjo_xdt-dep-advmod.html) – [amod](sjo_xdt-dep-amod.html) – [appos](sjo_xdt-dep-appos.html) – [aux](sjo_xdt-dep-aux.html) – [case](sjo_xdt-dep-case.html) – [cc](sjo_xdt-dep-cc.html) – [ccomp](sjo_xdt-dep-ccomp.html) – [clf](sjo_xdt-dep-clf.html) – [compound](sjo_xdt-dep-compound.html) – [conj](sjo_xdt-dep-conj.html) – [cop](sjo_xdt-dep-cop.html) – [csubj](sjo_xdt-dep-csubj.html) – [det](sjo_xdt-dep-det.html) – [discourse](sjo_xdt-dep-discourse.html) – [fixed](sjo_xdt-dep-fixed.html) – [flat](sjo_xdt-dep-flat.html) – [flat:name](sjo_xdt-dep-flat-name.html) – [iobj](sjo_xdt-dep-iobj.html) – [mark](sjo_xdt-dep-mark.html) – [mark:adv](sjo_xdt-dep-mark-adv.html) – [mark:plur](sjo_xdt-dep-mark-plur.html) – [mark:rel](sjo_xdt-dep-mark-rel.html) – [nmod](sjo_xdt-dep-nmod.html) – [nmod:poss](sjo_xdt-dep-nmod-poss.html) – [nsubj](sjo_xdt-dep-nsubj.html) – [nsubj:pass](sjo_xdt-dep-nsubj-pass.html) – [nummod](sjo_xdt-dep-nummod.html) – [obj](sjo_xdt-dep-obj.html) – [obl](sjo_xdt-dep-obl.html) – [obl:lmod](sjo_xdt-dep-obl-lmod.html) – [obl:tmod](sjo_xdt-dep-obl-tmod.html) – [parataxis](sjo_xdt-dep-parataxis.html) – [punct](sjo_xdt-dep-punct.html) – [root](sjo_xdt-dep-root.html) – [vocative](sjo_xdt-dep-vocative.html) – [xcomp](sjo_xdt-dep-xcomp.html)
+[acl](sjo_xdt-dep-acl.html) – [acl:relcl](sjo_xdt-dep-acl-relcl.html) – [advcl](sjo_xdt-dep-advcl.html) – [advmod](sjo_xdt-dep-advmod.html) – [amod](sjo_xdt-dep-amod.html) – [appos](sjo_xdt-dep-appos.html) – [aux](sjo_xdt-dep-aux.html) – [case](sjo_xdt-dep-case.html) – [cc](sjo_xdt-dep-cc.html) – [ccomp](sjo_xdt-dep-ccomp.html) – [clf](sjo_xdt-dep-clf.html) – [compound](sjo_xdt-dep-compound.html) – [conj](sjo_xdt-dep-conj.html) – [cop](sjo_xdt-dep-cop.html) – [csubj](sjo_xdt-dep-csubj.html) – [det](sjo_xdt-dep-det.html) – [discourse](sjo_xdt-dep-discourse.html) – [fixed](sjo_xdt-dep-fixed.html) – [flat](sjo_xdt-dep-flat.html) – [flat:name](sjo_xdt-dep-flat-name.html) – [iobj](sjo_xdt-dep-iobj.html) – [mark](sjo_xdt-dep-mark.html) – [mark:adv](sjo_xdt-dep-mark-adv.html) – [mark:plur](sjo_xdt-dep-mark-plur.html) – [mark:rel](sjo_xdt-dep-mark-rel.html) – [nmod](sjo_xdt-dep-nmod.html) – [nmod:poss](sjo_xdt-dep-nmod-poss.html) – [nmod:tmod](sjo_xdt-dep-nmod-tmod.html) – [nsubj](sjo_xdt-dep-nsubj.html) – [nsubj:pass](sjo_xdt-dep-nsubj-pass.html) – [nummod](sjo_xdt-dep-nummod.html) – [obj](sjo_xdt-dep-obj.html) – [obl](sjo_xdt-dep-obl.html) – [obl:lmod](sjo_xdt-dep-obl-lmod.html) – [obl:tmod](sjo_xdt-dep-obl-tmod.html) – [parataxis](sjo_xdt-dep-parataxis.html) – [punct](sjo_xdt-dep-punct.html) – [root](sjo_xdt-dep-root.html) – [vocative](sjo_xdt-dep-vocative.html) – [xcomp](sjo_xdt-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -853,6 +853,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 9 relation subtypes: <a>acl:relcl</a>, <a>flat:name</a>, <a>mark:adv</a>, <a>mark:plur</a>, <a>mark:rel</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:lmod</a>, <a>obl:tmod</a></li>
+<li>This corpus uses 10 relation subtypes: <a>acl:relcl</a>, <a>flat:name</a>, <a>mark:adv</a>, <a>mark:plur</a>, <a>mark:rel</a>, <a>nmod:poss</a>, <a>nmod:tmod</a>, <a>nsubj:pass</a>, <a>obl:lmod</a>, <a>obl:tmod</a></li>
 <li>The following 7 relation types are not used in this corpus at all: <a>expl</a>, <a>dislocated</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

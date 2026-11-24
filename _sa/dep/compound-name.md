@@ -12,4 +12,4 @@ apā́m nápāt \n of-waters son
 
 compound:name(nápāt, apā́m) 
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:51 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:31 CET -->

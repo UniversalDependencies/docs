@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="es_gsd-dep-aux-pass.html">aux:pass</a></tt>.
 
-3298 nodes (1%) are attached to their parents as `aux`.
+3233 nodes (1%) are attached to their parents as `aux`.
 
-3284 instances of `aux` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.22255912674348.
+3220 instances of `aux` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.2236313021961.
 
-The following 9 pairs of parts of speech are connected with `aux`: <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (3126; 95% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (78; 2% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (75; 2% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (11; 0% instances), <tt><a href="es_gsd-pos-X.html">X</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="es_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-DET.html">DET</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `aux`: <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (3064; 95% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (78; 2% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (73; 2% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (11; 0% instances), <tt><a href="es_gsd-pos-X.html">X</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="es_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-DET.html">DET</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -24,7 +24,7 @@ The following 9 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 4	fgColor:white
 # visual-style 4 3 aux	color:blue
 1	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	4	punct	_	SpaceAfter=No
-2	Cómo	cómo	ADV	_	_	4	advmod	_	_
+2	Cómo	cómo	ADV	_	PronType=Int	4	advmod	_	_
 3	habéis	haber	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	4	aux	_	_
 4	vivido	vivir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
 5	toda	todo	DET	_	Gender=Fem|Number=Sing|PronType=Tot	7	det	_	_

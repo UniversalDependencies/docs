@@ -94,6 +94,7 @@ The 10 most frequent relations where parent and child node agree in `NounBase`:
 <tt>NOUN --[<tt><a href="akk_riao-dep-conj.html">conj</a></tt>]--> NOUN</tt> (444; 51%),
 <tt>NOUN --[<tt><a href="akk_riao-dep-conj.html">conj</a></tt>]--> VERB</tt> (12; 75%),
 <tt>VERB --[<tt><a href="akk_riao-dep-conj.html">conj</a></tt>]--> VERB</tt> (11; 92%),
+<tt>NOUN --[<tt><a href="akk_riao-dep-obl.html">obl</a></tt>]--> NOUN</tt> (6; 55%),
 <tt>VERB --[<tt><a href="akk_riao-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2; 100%),
 <tt>NOUN --[<tt><a href="akk_riao-dep-obj.html">obj</a></tt>]--> NOUN</tt> (1; 100%).
 

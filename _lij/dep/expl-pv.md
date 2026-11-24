@@ -39,3 +39,4 @@ A clitic expressing an actual beneficiary, by contrast, takes [iobj]():
 ~~~
 
 This relation is limited to reflexive clitics. Other clitics in lexicalised pronominal verbs are analysed according to their syntactic function; a non-reflexive clitic with no separate syntactic function takes [expl]().
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:45 CET -->

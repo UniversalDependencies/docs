@@ -22,28 +22,28 @@ The following 7 pairs of parts of speech are connected with `det:predet`: <tt><a
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 5 det:predet	color:blue
-1	_	_	DET	DT	_	2	det	_	_
-2	_	_	NOUN	NN	_	4	nsubj	_	_
-3	_	_	AUX	MD	_	4	aux	_	_
-4	_	_	VERB	VB	_	0	root	_	_
-5	_	_	DET	PDT	_	8	det:predet	_	_
-6	_	_	DET	DT	_	8	det	_	_
-7	_	_	ADJ	JJS	_	8	amod	_	_
-8	_	_	NOUN	NN	_	4	obj	_	_
+1	_	_	DET	DT	PronType=Art	2	det	_	_
+2	_	_	NOUN	NN	Number=Sing	4	nsubj	_	_
+3	_	_	AUX	MD	Mood=Ind|VerbForm=Fin	4	aux	_	_
+4	_	_	VERB	VB	VerbForm=Inf	0	root	_	_
+5	_	_	DET	PDT	PronType=Tot	8	det:predet	_	_
+6	_	_	DET	DT	PronType=Art	8	det	_	_
+7	_	_	ADJ	JJS	Degree=Sup	8	amod	_	_
+8	_	_	NOUN	NN	Number=Sing	4	obj	_	_
 9	_	_	ADP	IN	_	13	case	_	_
-10	_	_	DET	DT	_	13	det	_	_
-11	_	_	ADV	RB	_	12	advmod	_	_
-12	_	_	ADJ	JJ	_	13	amod	_	_
-13	_	_	NOUN	NN	_	8	nmod	_	_
+10	_	_	DET	DT	PronType=Art	13	det	_	_
+11	_	_	ADV	RB	Degree=Pos	12	advmod	_	_
+12	_	_	ADJ	JJ	Degree=Pos	13	amod	_	_
+13	_	_	NOUN	NN	Number=Sing	8	nmod	_	_
 14	_	_	ADP	IN	_	16	case	_	_
-15	_	_	NOUN	NNS	_	16	compound	_	_
-16	_	_	NOUN	NN	_	13	nmod	_	_
+15	_	_	NOUN	NNS	Number=Plur	16	compound	_	_
+16	_	_	NOUN	NN	Number=Sing	13	nmod	_	_
 17	_	_	ADP	IN	_	18	case	_	_
-18	_	_	NOUN	NN	_	13	nmod	_	_
+18	_	_	NOUN	NN	Number=Sing|Typo=Yes	13	nmod	_	_
 19	_	_	X	GW	_	18	goeswith	_	_
 20	_	_	CCONJ	CC	_	22	cc	_	_
-21	_	_	ADJ	JJ	_	22	amod	_	_
-22	_	_	NOUN	NNS	_	18	conj	_	_
+21	_	_	ADJ	JJ	Degree=Pos	22	amod	_	_
+22	_	_	NOUN	NNS	Number=Plur	18	conj	_	_
 23	_	_	PUNCT	.	_	4	punct	_	_
 
 ~~~
@@ -57,35 +57,35 @@ The following 7 pairs of parts of speech are connected with `det:predet`: <tt><a
 # visual-style 20 19 det:predet	color:blue
 1	_	_	CCONJ	CC	_	7	cc	_	_
 2	_	_	PUNCT	,	_	7	punct	_	_
-3	_	_	DET	DT	_	6	det	_	_
-4	_	_	ADV	RB	_	5	advmod	_	_
-5	_	_	ADJ	JJ	_	6	amod	_	_
-6	_	_	NOUN	NN	_	7	nsubj	_	_
-7	_	_	VERB	VBZ	_	0	root	_	_
+3	_	_	DET	DT	PronType=Art	6	det	_	_
+4	_	_	ADV	RB	Degree=Pos	5	advmod	_	_
+5	_	_	ADJ	JJ	Degree=Pos	6	amod	_	_
+6	_	_	NOUN	NN	Number=Sing	7	nsubj	_	_
+7	_	_	VERB	VBZ	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	_	_	PUNCT	,	_	7	punct	_	_
 9	_	_	SCONJ	IN	_	10	mark	_	_
-10	_	_	VERB	VBG	_	23	advcl	_	_
-11	_	_	PRON	NN	_	10	obj	_	_
-12	_	_	PRON	PRP	_	13	nsubj	_	_
-13	_	_	VERB	VBD	_	11	acl:relcl	_	_
+10	_	_	VERB	VBG	VerbForm=Ger	23	advcl	_	_
+11	_	_	PRON	NN	Number=Sing|PronType=Tot	10	obj	_	_
+12	_	_	PRON	PRP	Person=2|PronType=Prs	13	nsubj	_	_
+13	_	_	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	11	acl:relcl	_	_
 14	_	_	CCONJ	CC	_	15	cc	_	_
-15	_	_	VERB	VBG	_	10	conj	_	_
-16	_	_	ADV	RB	_	17	advmod	_	_
-17	_	_	ADJ	JJ	_	15	xcomp	_	_
+15	_	_	VERB	VBG	VerbForm=Ger	10	conj	_	_
+16	_	_	ADV	RB	Degree=Pos	17	advmod	_	_
+17	_	_	ADJ	JJ	Degree=Pos	15	xcomp	_	_
 18	_	_	ADP	IN	_	20	case	_	_
-19	_	_	DET	PDT	_	20	det:predet	_	_
-20	_	_	PRON	DT	_	17	obl	_	_
+19	_	_	DET	PDT	PronType=Tot	20	det:predet	_	_
+20	_	_	PRON	DT	PronType=Dem	17	obl	_	_
 21	_	_	PUNCT	,	_	23	punct	_	_
-22	_	_	PRON	PRP	_	23	nsubj	_	_
-23	_	_	VERB	VBP	_	7	ccomp	_	_
+22	_	_	PRON	PRP	Person=2|PronType=Prs	23	nsubj	_	_
+23	_	_	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	ccomp	_	_
 24	_	_	SCONJ	IN	_	26	mark	_	_
-25	_	_	PRON	PRP	_	26	nsubj	_	_
-26	_	_	VERB	VBD	_	23	ccomp	_	_
-27	_	_	ADJ	JJR	_	28	amod	_	_
-28	_	_	NOUN	NN	_	26	obj	_	_
+25	_	_	PRON	PRP	Person=2|PronType=Prs	26	nsubj	_	_
+26	_	_	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	23	ccomp	_	_
+27	_	_	ADJ	JJR	Degree=Cmp	28	amod	_	_
+28	_	_	NOUN	NN	Number=Sing	26	obj	_	_
 29	_	_	SCONJ	IN	_	31	mark	_	_
-30	_	_	PRON	PRP	_	31	nsubj	_	_
-31	_	_	VERB	MD	_	27	advcl	_	_
+30	_	_	PRON	PRP	Person=2|PronType=Prs	31	nsubj	_	_
+31	_	_	VERB	MD	Mood=Ind|VerbForm=Fin	27	advcl	_	_
 32	_	_	PUNCT	.	_	7	punct	_	_
 
 ~~~
@@ -97,35 +97,35 @@ The following 7 pairs of parts of speech are connected with `det:predet`: <tt><a
 # visual-style 16	bgColor:blue
 # visual-style 16	fgColor:white
 # visual-style 16 11 det:predet	color:blue
-1	_	_	PRON	PRP	_	3	nsubj	_	_
-2	_	_	AUX	VBP	_	3	aux	_	_
-3	_	_	VERB	VBG	_	0	root	_	_
-4	_	_	PRON	PRP	_	3	obj	_	_
+1	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	_	_	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	_	_	VERB	VBG	Typo=Yes|VerbForm=Ger	0	root	_	CorrectForm=writing
+4	_	_	PRON	PRP	Person=2|PronType=Prs	3	obj	_	_
 5	_	_	SCONJ	IN	_	7	mark	_	_
-6	_	_	PRON	PRP	_	7	nsubj	_	_
-7	_	_	VERB	VBD	_	3	advcl	_	_
+6	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
+7	_	_	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	advcl	_	_
 8	_	_	PART	TO	_	9	mark	_	_
-9	_	_	VERB	VB	_	7	xcomp	_	_
-10	_	_	PRON	PRP	_	9	obj	_	_
-11	_	_	DET	WDT	_	16	det:predet	_	_
-12	_	_	DET	DT	_	14	det	_	_
-13	_	_	ADJ	JJ	_	14	amod	_	_
-14	_	_	NOUN	NN	_	16	obj	_	_
-15	_	_	PRON	PRP	_	16	nsubj	_	_
-16	_	_	VERB	VBD	_	9	ccomp	_	_
+9	_	_	VERB	VB	VerbForm=Inf	7	xcomp	_	_
+10	_	_	PRON	PRP	Person=2|PronType=Prs	9	obj	_	_
+11	_	_	DET	WDT	PronType=Int	16	det:predet	_	_
+12	_	_	DET	DT	PronType=Art	14	det	_	_
+13	_	_	ADJ	JJ	Degree=Pos	14	amod	_	_
+14	_	_	NOUN	NN	Number=Sing	16	obj	_	_
+15	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	16	nsubj	_	_
+16	_	_	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	9	ccomp	_	_
 17	_	_	ADP	IN	_	19	case	_	_
-18	_	_	DET	PRP$	_	19	nmod:poss	_	_
-19	_	_	NOUN	NNS	_	16	obl	_	_
+18	_	_	DET	PRP$	Number=Sing|Poss=Yes|PronType=Prs	19	nmod:poss	_	_
+19	_	_	NOUN	NNS	Number=Plur	16	obl	_	_
 20	_	_	ADV	WRB	_	22	mark	_	_
-21	_	_	PRON	PRP	_	22	nsubj	_	_
-22	_	_	VERB	VBD	_	16	advcl	_	_
+21	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	22	nsubj	_	_
+22	_	_	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	16	advcl	_	_
 23	_	_	PART	TO	_	24	mark	_	_
-24	_	_	VERB	VB	_	22	xcomp	_	_
-25	_	_	DET	DT	_	26	det	_	_
-26	_	_	NOUN	NN	_	24	obj	_	_
+24	_	_	VERB	VB	VerbForm=Inf	22	xcomp	_	_
+25	_	_	DET	DT	PronType=Art	26	det	_	_
+26	_	_	NOUN	NN	Number=Sing	24	obj	_	_
 27	_	_	ADP	IN	_	29	case	_	_
-28	_	_	DET	PRP$	_	29	nmod:poss	_	_
-29	_	_	NOUN	NN	_	24	obl	_	_
+28	_	_	DET	PRP$	Poss=Yes|PronType=Prs	29	nmod:poss	_	_
+29	_	_	NOUN	NN	Number=Sing	24	obl	_	_
 30	_	_	PUNCT	.	_	3	punct	_	_
 
 ~~~

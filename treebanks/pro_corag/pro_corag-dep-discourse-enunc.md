@@ -26,7 +26,7 @@ The following 1 pairs of parts of speech are connected with `discourse:enunc`: <
 2	a	_	ADP	_	_	3	case	_	_
 3	nos	_	PRON	_	Number=Plur|Person=1|PronType=Prs	5	obl	_	_
 4	que	_	PART	_	_	5	discourse:enunc	_	_
-5	plaz	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	plaz	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 6	bonement	_	ADV	_	_	5	advmod	_	_
 7	que	_	SCONJ	_	_	9	mark	_	_
 8	assi	_	ADV	_	_	9	advmod	_	_

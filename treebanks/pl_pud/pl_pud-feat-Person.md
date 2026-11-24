@@ -10,7 +10,7 @@ This feature is universal but the values `0` are language-specific.
 It occurs with 4 different values: `0`, `1`, `2`, `3`.
 
 992 tokens (5%) have a non-empty value of `Person`.
-433 types (6%) occur at least once with a non-empty value of `Person`.
+432 types (6%) occur at least once with a non-empty value of `Person`.
 305 lemmas (6%) occur at least once with a non-empty value of `Person`.
 The feature is used with 4 part-of-speech tags: <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> (536; 3% instances), <tt><a href="pl_pud-pos-PRON.html">PRON</a></tt> (226; 1% instances), <tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> (215; 1% instances), <tt><a href="pl_pud-pos-DET.html">DET</a></tt> (15; 0% instances).
 
@@ -46,7 +46,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 * `1` (16; 7% of non-empty `Person`): <em>ja, mnie, mi, mną, nam, nas, my</em>
 * `2` (2; 1% of non-empty `Person`): <em>Ty, was</em>
-* `3` (208; 92% of non-empty `Person`): <em>jego, jej, ich, go, ją, mu, nich, im, je, niego</em>
+* `3` (208; 92% of non-empty `Person`): <em>jego, jej, ich, go, ją, mu, nich, niego, im, je</em>
 * `EMPTY` (412): <em>się, to, tym, co, tego, siebie, sobie, ktoś, coś, temu</em>
 
 ### `AUX`

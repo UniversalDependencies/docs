@@ -92,8 +92,8 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<tt><a href="uk_parlamint-dep-conj.html">conj</a></tt>]--> VERB</tt> (1206; 96%),
 <tt>VERB --[<tt><a href="uk_parlamint-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (611; 90%),
-<tt>VERB --[<tt><a href="uk_parlamint-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (313; 66%),
-<tt>VERB --[<tt><a href="uk_parlamint-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (254; 54%),
+<tt>VERB --[<tt><a href="uk_parlamint-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (314; 66%),
+<tt>VERB --[<tt><a href="uk_parlamint-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (255; 55%),
 <tt>ADJ --[<tt><a href="uk_parlamint-dep-conj.html">conj</a></tt>]--> ADJ</tt> (27; 55%),
 <tt>VERB --[<tt><a href="uk_parlamint-dep-compound-svc.html">compound:svc</a></tt>]--> VERB</tt> (24; 63%),
 <tt>VERB --[<tt><a href="uk_parlamint-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (22; 85%),

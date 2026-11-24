@@ -25,7 +25,7 @@ The 10 most frequent ambiguous types:  라는 (<tt><a href="ko_gsd-pos-VERB.html
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.001499).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.001527).
 
 The 1st highest number of forms (1) was observed with the lemma “과+는”: 과는.
 

@@ -11,9 +11,9 @@ This relation is universal.
 1000 nodes (5%) are attached to their parents as `root`.
 
 1000 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.224.
+Average distance between parent and child is 6.223.
 
-The following 9 pairs of parts of speech are connected with `root`: -<tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (839; 84% instances), -<tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> (62; 6% instances), -<tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (57; 6% instances), -<tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (21; 2% instances), -<tt><a href="ru_pud-pos-NUM.html">NUM</a></tt> (7; 1% instances), -<tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> (7; 1% instances), -<tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> (5; 1% instances), -<tt><a href="ru_pud-pos-DET.html">DET</a></tt> (1; 0% instances), -<tt><a href="ru_pud-pos-X.html">X</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `root`: -<tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (839; 84% instances), -<tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> (62; 6% instances), -<tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (58; 6% instances), -<tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (20; 2% instances), -<tt><a href="ru_pud-pos-NUM.html">NUM</a></tt> (7; 1% instances), -<tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> (7; 1% instances), -<tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> (5; 1% instances), -<tt><a href="ru_pud-pos-DET.html">DET</a></tt> (1; 0% instances), -<tt><a href="ru_pud-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -26,14 +26,14 @@ The following 9 pairs of parts of speech are connected with `root`: -<tt><a href
 2	или	или	CCONJ	CC	_	3	cc	_	_
 3	иначе	иначе	ADV	RB	Degree=Pos	1	conj	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	1	punct	_	_
-5	я	я	PRON	PRP	Case=Nom|Number=Sing|Person=1	6	nsubj	_	_
+5	я	я	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
 6	попаду	попасть	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
 7	в	в	ADP	IN	_	8	case	_	_
 8	тюрьму	тюрьма	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	obl	_	SpaceAfter=No
 9	,	,	PUNCT	,	_	10	punct	_	_
 10	надеюсь	надеяться	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	6	conj	_	SpaceAfter=No
 11	,	,	PUNCT	,	_	13	punct	_	_
-12	это	это	PRON	DT	Case=Acc|Gender=Neut|Number=Sing	13	nsubj	_	_
+12	это	это	PRON	DT	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	13	nsubj	_	_
 13	стоило	стоить	VERB	VBC	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	ccomp	_	_
 14	сделать	сделать	VERB	VB	Aspect=Perf|VerbForm=Inf|Voice=Act	13	xcomp	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	6	punct	_	_
@@ -47,14 +47,14 @@ The following 9 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 14 root	color:blue
-1	То	то	PRON	DT	Case=Nom|Gender=Neut|Number=Sing	14	nsubj	_	SpaceAfter=No
+1	То	то	PRON	DT	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	14	nsubj	_	SpaceAfter=No
 2	,	,	PUNCT	,	_	5	punct	_	_
 3	что	что	SCONJ	IN	_	5	obj	_	_
-4	она	она	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	nsubj	_	_
+4	она	она	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 5	говорит	говорить	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	acl	_	_
 6	и	и	CCONJ	CC	_	9	cc	_	_
 7	что	что	SCONJ	IN	_	9	obj	_	_
-8	она	она	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3	9	nsubj	_	_
+8	она	она	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
 9	делает	делать	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	SpaceAfter=No
 10	,	,	PUNCT	,	_	5	punct	_	_
 11	на	на	ADP	IN	_	13	case	_	_

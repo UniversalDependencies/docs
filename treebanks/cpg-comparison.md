@@ -270,7 +270,7 @@ udver: '2'
             <li>DET: čin, či, tes</li>
             <li>NOUN: kóri, Dunyá, enéka, mána, Güzelidyú, Güzelí, ciriás, cirjás, enékan, góri</li>
             <li>NUM: Tris, triz</li>
-            <li>PRON: či, čis, ǰis, ekín, zin, zis, ǰi</li>
+            <li>PRON: či, čis, ǰis, ekín, zis, ǰi, ǰin</li>
             <li>VERB-Part: kimizméni</li>
           </ul>
         </li>
@@ -379,7 +379,7 @@ udver: '2'
             <li>NOUN: pará, Psémata, alísia, alóγata, gjavúriri, güzelmá, ksíla, líres, maχéria, méres</li>
             <li>NUM: Tris, triz</li>
             <li>PRON: emís, mas, sas, Ešís, más, tun, tus, Τúta</li>
-            <li>VERB-Fin: kásun, sikoθún, Ksevasám', dilimléisam', drúte, fam, férum, ipúmi, istedízete, kasinonǰískaši</li>
+            <li>VERB-Fin: kásun, sikoθún, Ksevasám', dilimléisam', dróte, fam, férum, ipúmi, istedízete, kasinonǰískaši</li>
           </ul>
         </li>
       </ul>
@@ -484,7 +484,7 @@ udver: '2'
         <li>Gen
           <ul>
             <li>DET: tu, so</li>
-            <li>NOUN: dergizmú, patisáχu, Dunyá, Güzelidyú, cirjás, insanjú, klišás, korízju, zuliás, ölzüjü</li>
+            <li>NOUN: dergizmú, patisáχu, Dunyá, Güzelidyú, cirjás, insanjú, klišás, korízju, zuliás, ölzüǰü</li>
             <li>PRON: du, tu, mu, su, čis, mas, ǰis, m, m', s'</li>
           </ul>
         </li>
@@ -691,7 +691,7 @@ udver: '2'
         <li>Imp
           <ul>
             <li>AUX-Fin: éni, 'ne, 'ni, 'ton, 'tun, ne, se, íse</li>
-            <li>VERB-Fin: laí, gréviz, leχ, éχu, (é)rχete, Rotá, cimáse, drúte, eršinónǰiska, eršístiniz</li>
+            <li>VERB-Fin: laí, gréviz, leχ, éχu, (é)rχete, Rotá, cimáse, dróte, eršinónǰiska, eršístiniz</li>
           </ul>
         </li>
       </ul>
@@ -858,8 +858,8 @@ udver: '2'
         <li>Pres
           <ul>
             <li>AUX-Fin: nde, ne, 'ne, éni, 'ni, se, índe, íse, ísu</li>
-            <li>VERB: laí, gréviz, leχ, éršiti, éχu, (é)rχete, Rotá, cimáse, drúte, düšünǰísu</li>
-            <li>VERB-Fin: laí, gréviz, leχ, éršiti, éχu, (é)rχete, Rotá, cimáse, drúte, düšünǰísu</li>
+            <li>VERB: laí, gréviz, leχ, éršiti, éχu, (é)rχete, Rotá, cimáse, dróte, düšünǰísu</li>
+            <li>VERB-Fin: laí, gréviz, leχ, éršiti, éχu, (é)rχete, Rotá, cimáse, dróte, düšünǰísu</li>
           </ul>
         </li>
       </ul>
@@ -1213,8 +1213,8 @@ udver: '2'
           <ul>
             <li>AUX-Fin: se, íse, ísu</li>
             <li>PRON: su, s', sas, se, Ešís, esí, séna, ši</li>
-            <li>VERB: gréviz, báris, cimáse, drúte, eleísis, istedízete, klóθete, ksévreté, les, pe</li>
-            <li>VERB-Fin: gréviz, báris, cimáse, drúte, eleísis, istedízete, klóθete, ksévreté, les, pe</li>
+            <li>VERB: gréviz, báris, cimáse, dróte, eleísis, istedízete, klóθete, ksévreté, les, pe</li>
+            <li>VERB-Fin: gréviz, báris, cimáse, dróte, eleísis, istedízete, klóθete, ksévreté, les, pe</li>
           </ul>
         </li>
       </ul>

@@ -14,7 +14,7 @@ There are also 1 other language-specific subtypes of `nummod`: <tt><a href="ru_p
 72 instances of `nummod:gov` (99%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.20547945205479.
 
-The following 5 pairs of parts of speech are connected with `nummod:gov`: <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_pud-pos-NUM.html">NUM</a></tt> (66; 90% instances), <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (3; 4% instances), <tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_pud-pos-NUM.html">NUM</a></tt> (2; 3% instances), <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_pud-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_pud-pos-NUM.html">NUM</a></tt> (1; 1% instances).
+The following 5 pairs of parts of speech are connected with `nummod:gov`: <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_pud-pos-NUM.html">NUM</a></tt> (66; 90% instances), <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (3; 4% instances), <tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_pud-pos-NUM.html">NUM</a></tt> (2; 3% instances), <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_pud-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="ru_pud-pos-X.html">X</a></tt>-<tt><a href="ru_pud-pos-NUM.html">NUM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -41,7 +41,7 @@ The following 5 pairs of parts of speech are connected with `nummod:gov`: <tt><a
 # visual-style 9 8 nummod:gov	color:blue
 1	В	в	ADP	IN	_	2	case	_	_
 2	ответ	ответ	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obl	_	_
-3	Uber	Uber	PROPN	NNP	Foreign=Yes	4	nsubj	_	_
+3	Uber	Uber	X	NNP	Foreign=Yes	4	nsubj	_	_
 4	получит	получить	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
 5	инвестиции	инвестиция	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	4	obj	_	_
 6	на	на	ADP	IN	_	7	case	_	_

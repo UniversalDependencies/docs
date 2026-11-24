@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 3 language-specific subtypes of `nmod`: <tt><a href="ckt_hse-dep-nmod-attr.html">nmod:attr</a></tt>, <tt><a href="ckt_hse-dep-nmod-poss.html">nmod:poss</a></tt>, <tt><a href="ckt_hse-dep-nmod-relat.html">nmod:relat</a></tt>.
 
-29 nodes (0%) are attached to their parents as `nmod`.
+31 nodes (1%) are attached to their parents as `nmod`.
 
-22 instances of `nmod` (76%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.55172413793103.
+22 instances of `nmod` (71%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.58064516129032.
 
-The following 9 pairs of parts of speech are connected with `nmod`: <tt><a href="ckt_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ckt_hse-pos-NOUN.html">NOUN</a></tt> (12; 41% instances), <tt><a href="ckt_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ckt_hse-pos-PRON.html">PRON</a></tt> (7; 24% instances), <tt><a href="ckt_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ckt_hse-pos-PROPN.html">PROPN</a></tt> (3; 10% instances), <tt><a href="ckt_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="ckt_hse-pos-PRON.html">PRON</a></tt> (2; 7% instances), <tt><a href="ckt_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ckt_hse-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="ckt_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ckt_hse-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="ckt_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="ckt_hse-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="ckt_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ckt_hse-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="ckt_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="ckt_hse-pos-ADJ.html">ADJ</a></tt> (1; 3% instances).
+The following 10 pairs of parts of speech are connected with `nmod`: <tt><a href="ckt_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ckt_hse-pos-NOUN.html">NOUN</a></tt> (13; 42% instances), <tt><a href="ckt_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ckt_hse-pos-PRON.html">PRON</a></tt> (7; 23% instances), <tt><a href="ckt_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ckt_hse-pos-PROPN.html">PROPN</a></tt> (3; 10% instances), <tt><a href="ckt_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="ckt_hse-pos-PRON.html">PRON</a></tt> (2; 6% instances), <tt><a href="ckt_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ckt_hse-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="ckt_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ckt_hse-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="ckt_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="ckt_hse-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="ckt_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="ckt_hse-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="ckt_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ckt_hse-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="ckt_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="ckt_hse-pos-ADJ.html">ADJ</a></tt> (1; 3% instances).
 
 
 ~~~ conllu

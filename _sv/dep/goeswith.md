@@ -13,4 +13,4 @@ The head is in some sense the “main” part, often the second part.
 Frivillig sär beskattning \n Voluntary individual taxation
 goeswith(beskattning, sär)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:12 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:48 CET -->

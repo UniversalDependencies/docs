@@ -44,4 +44,4 @@ Reduplication is a common process especially for [adverbs](ADV) and [adjectives]
 11	Կաթողիկոսը	կաթողիկոս	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Number=Sing	8	flat:name	_	Translit=Kat’oġikosë|LTranslit=kat’oġikos
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:52 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:47 CET -->

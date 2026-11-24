@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  / (<tt><a href="ar_padt-pos-PUNCT.html">P
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.761981).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.762127).
 
 The 1st highest number of forms (1) was observed with the lemma “!”: !.
 
@@ -42,7 +42,7 @@ The 3rd highest number of forms (1) was observed with the lemma “(”: (.
 
 `PUNCT` nodes are attached to their parents using 2 different relations: <tt><a href="ar_padt-dep-punct.html">punct</a></tt> (22440; 100% instances), <tt><a href="ar_padt-dep-root.html">root</a></tt> (5; 0% instances)
 
-Parents of `PUNCT` nodes belong to 16 different parts of speech: <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (6038; 27% instances), <tt><a href="ar_padt-pos-CCONJ.html">CCONJ</a></tt> (4827; 22% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (3815; 17% instances), <tt><a href="ar_padt-pos-X.html">X</a></tt> (3207; 14% instances), <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (2217; 10% instances), <tt><a href="ar_padt-pos-NUM.html">NUM</a></tt> (1566; 7% instances), <tt><a href="ar_padt-pos-PRON.html">PRON</a></tt> (397; 2% instances), <tt><a href="ar_padt-pos-DET.html">DET</a></tt> (124; 1% instances), <tt><a href="ar_padt-pos-ADV.html">ADV</a></tt> (88; 0% instances), <tt><a href="ar_padt-pos-PART.html">PART</a></tt> (61; 0% instances), <tt><a href="ar_padt-pos-PUNCT.html">PUNCT</a></tt> (58; 0% instances), <tt><a href="ar_padt-pos-ADP.html">ADP</a></tt> (15; 0% instances), <tt><a href="ar_padt-pos-SCONJ.html">SCONJ</a></tt> (13; 0% instances), <tt><a href="ar_padt-pos-PROPN.html">PROPN</a></tt> (10; 0% instances),  (5; 0% instances), <tt><a href="ar_padt-pos-INTJ.html">INTJ</a></tt> (4; 0% instances)
+Parents of `PUNCT` nodes belong to 16 different parts of speech: <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (6038; 27% instances), <tt><a href="ar_padt-pos-CCONJ.html">CCONJ</a></tt> (4827; 22% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (3813; 17% instances), <tt><a href="ar_padt-pos-X.html">X</a></tt> (3207; 14% instances), <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (2219; 10% instances), <tt><a href="ar_padt-pos-NUM.html">NUM</a></tt> (1566; 7% instances), <tt><a href="ar_padt-pos-PRON.html">PRON</a></tt> (397; 2% instances), <tt><a href="ar_padt-pos-DET.html">DET</a></tt> (124; 1% instances), <tt><a href="ar_padt-pos-ADV.html">ADV</a></tt> (88; 0% instances), <tt><a href="ar_padt-pos-PART.html">PART</a></tt> (61; 0% instances), <tt><a href="ar_padt-pos-PUNCT.html">PUNCT</a></tt> (58; 0% instances), <tt><a href="ar_padt-pos-ADP.html">ADP</a></tt> (15; 0% instances), <tt><a href="ar_padt-pos-SCONJ.html">SCONJ</a></tt> (13; 0% instances), <tt><a href="ar_padt-pos-PROPN.html">PROPN</a></tt> (10; 0% instances),  (5; 0% instances), <tt><a href="ar_padt-pos-INTJ.html">INTJ</a></tt> (4; 0% instances)
 
 22420 (100%) `PUNCT` nodes are leaves.
 

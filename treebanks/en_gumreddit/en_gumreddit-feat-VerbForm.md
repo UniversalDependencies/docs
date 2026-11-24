@@ -18,13 +18,13 @@ The feature is used with 2 part-of-speech tags: <tt><a href="en_gumreddit-pos-VE
 
 2041 <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="en_gumreddit-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1200; 59%), <tt><a href="en_gumreddit-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1197; 59%), <tt><a href="en_gumreddit-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1197; 59%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="en_gumreddit-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1206; 59%), <tt><a href="en_gumreddit-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1203; 59%), <tt><a href="en_gumreddit-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1203; 59%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (844; 41% of non-empty `VerbForm`): <em>_</em>
+* `Fin` (838; 41% of non-empty `VerbForm`): <em>_</em>
 * `Ger` (92; 5% of non-empty `VerbForm`): <em>_</em>
-* `Inf` (674; 33% of non-empty `VerbForm`): <em>_</em>
+* `Inf` (680; 33% of non-empty `VerbForm`): <em>_</em>
 * `Part` (431; 21% of non-empty `VerbForm`): <em>_</em>
 * `EMPTY` (4): <em>_</em>
 
@@ -32,20 +32,20 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 1182 <tt><a href="en_gumreddit-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="en_gumreddit-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (762; 64%), <tt><a href="en_gumreddit-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (624; 53%), <tt><a href="en_gumreddit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (596; 50%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="en_gumreddit-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (762; 64%), <tt><a href="en_gumreddit-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (624; 53%), <tt><a href="en_gumreddit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (602; 51%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Fin` (1022; 86% of non-empty `VerbForm`): <em>_</em>
+* `Fin` (1028; 87% of non-empty `VerbForm`): <em>_</em>
 * `Ger` (1; 0% of non-empty `VerbForm`): <em>_</em>
-* `Inf` (122; 10% of non-empty `VerbForm`): <em>_</em>
+* `Inf` (116; 10% of non-empty `VerbForm`): <em>_</em>
 * `Part` (37; 3% of non-empty `VerbForm`): <em>_</em>
 
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="en_gumreddit-dep-conj.html">conj</a></tt>]--> VERB</tt> (169; 70%),
-<tt>VERB --[<tt><a href="en_gumreddit-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (33; 59%),
+<tt>VERB --[<tt><a href="en_gumreddit-dep-conj.html">conj</a></tt>]--> VERB</tt> (170; 71%),
+<tt>VERB --[<tt><a href="en_gumreddit-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (32; 57%),
 <tt>VERB --[<tt><a href="en_gumreddit-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (7; 70%),
 <tt>VERB --[<tt><a href="en_gumreddit-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 67%),
 <tt>VERB --[<tt><a href="en_gumreddit-dep-compound.html">compound</a></tt>]--> VERB</tt> (1; 100%),

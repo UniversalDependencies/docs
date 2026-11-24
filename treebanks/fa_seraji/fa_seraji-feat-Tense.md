@@ -97,8 +97,8 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="fa_seraji-dep-conj.html">conj</a></tt>]--> VERB</tt> (1183; 76%),
-<tt>VERB --[<tt><a href="fa_seraji-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (195; 57%),
+<tt>VERB --[<tt><a href="fa_seraji-dep-conj.html">conj</a></tt>]--> VERB</tt> (1182; 76%),
+<tt>VERB --[<tt><a href="fa_seraji-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (197; 57%),
 <tt>VERB --[<tt><a href="fa_seraji-dep-obl.html">obl</a></tt>]--> VERB</tt> (10; 67%),
 <tt>VERB --[<tt><a href="fa_seraji-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (5; 71%),
 <tt>AUX --[<tt><a href="fa_seraji-dep-conj.html">conj</a></tt>]--> VERB</tt> (2; 100%).

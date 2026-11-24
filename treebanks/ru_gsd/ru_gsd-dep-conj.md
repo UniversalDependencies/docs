@@ -42,7 +42,7 @@ The following 62 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 1	fgColor:white
 # visual-style 1 7 conj	color:blue
 1	Скончался	скончаться	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
-2	12	12	ADJ	ORD	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	1	obl	_	_
+2	12	12	ADJ	ORD	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	1	obl:tmod	_	_
 3	ноября	ноябрь	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	flat	_	_
 4	1972	1972	ADJ	ORD	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
 5	года	год	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No

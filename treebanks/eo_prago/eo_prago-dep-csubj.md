@@ -37,7 +37,7 @@ The following 1 pairs of parts of speech are connected with `csubj`: <tt><a href
 13	diversaj	diversa	ADJ	_	Case=Nom|Number=Plur	14	amod	_	_
 14	gentoj	gento	NOUN	_	Case=Nom|Number=Plur	10	nsubj	_	SpaceAfter=No
 15	,	,	PUNCT	_	_	17	punct	_	_
-16	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	17	cop	_	_
+16	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	17	aux	_	_
 17	dezirinde	dezirinde	ADV	_	_	2	ccomp	_	SpaceAfter=No
 18	,	,	PUNCT	_	_	25	punct	_	_
 19	ke	ke	SCONJ	_	_	25	mark	_	_

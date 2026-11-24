@@ -9,27 +9,28 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `obl`: <tt><a href="ps_sikaram-dep-obl-arg.html">obl:arg</a></tt>.
 
-368 nodes (7%) are attached to their parents as `obl`.
+459 nodes (7%) are attached to their parents as `obl`.
 
-366 instances of `obl` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.91032608695652.
+454 instances of `obl` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 6.24618736383442.
 
-The following 20 pairs of parts of speech are connected with `obl`: <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (221; 60% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt> (44; 12% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt> (38; 10% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (21; 6% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (9; 2% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (8; 2% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (6; 2% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ps_sikaram-pos-ADV.html">ADV</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ps_sikaram-pos-ADV.html">ADV</a></tt>-<tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ps_sikaram-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-X.html">X</a></tt> (1; 0% instances).
+The following 21 pairs of parts of speech are connected with `obl`: <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (276; 60% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt> (55; 12% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt> (51; 11% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (27; 6% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (11; 2% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (8; 2% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (6; 1% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt> (4; 1% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ps_sikaram-pos-ADV.html">ADV</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ps_sikaram-pos-PART.html">PART</a></tt>-<tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ps_sikaram-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 3 obl	color:blue
-1	نجلۍ	نجلۍ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	nsubj	_	Translit=njëlë́y|LTranslit=njëlë́y|Gloss=girl
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 3 obl	color:blue
+1	نجلۍ	نجلۍ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	nsubj	_	Translit=njëlë́y|LTranslit=njëlë́y|Gloss=girl
 2	خپل	خپل	DET	_	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	3	det	_	Translit=xpël|LTranslit=xpël|Gloss=own
-3	ملګري	ملګری	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	6	obl	_	Translit=mëlgë́ri|LTranslit=mëlgë́ray|Gloss=friend
-4	ته	ته	ADP	_	Case=Acc	3	case	_	Translit=ta|LTranslit=ta|Gloss=to
-5	لیک	لیک	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	obj	_	Translit=lik|LTranslit=lik|Gloss=letter
-6	ولیکۀ	لیکل	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=wë́likë|LTranslit=likë́l|Gloss=wrote|SpaceAfter=No
-7	.	.	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
+3	ملګري	ملګری	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	obl	_	Translit=mëlgë́ri|LTranslit=mëlgë́ray|Gloss=friend
+4	ته	ته	ADP	_	Case=Acc	7	case	_	Translit=ta|LTranslit=ta|Gloss=to
+5	لیک	لیک	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	obj	_	Translit=lik|LTranslit=lik|Gloss=letter
+6	و	و	AUX	_	Aspect=Perf	7	aux:preverb	_	Translit=wë|LTranslit=wë|Gloss=_
+7	لیکۀ	لیکل	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=likë|LTranslit=likë́l|Gloss=wrote
+8	.	.	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
 
 ~~~
 
@@ -47,11 +48,12 @@ The following 20 pairs of parts of speech are connected with `obl`: <tt><a href=
 5	نۀ	نۀ	PART	_	Polarity=Neg	6	advmod	_	Translit=në́|LTranslit=në|Gloss=not
 6	پوهه	پوهه	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	7	compound:lvc	_	Translit=póha|LTranslit=póha|Gloss=knowledge
 7	کېږي	کېدل	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=kéǧi|LTranslit=kedë́l|Gloss=becomes
-8	چې	چې	SCONJ	_	_	11	mark	_	Translit=če|LTranslit=če|Gloss=that
-9	چا	څوک	PRON	_	Animacy=Hum|Case=Acc|PronType=Int	11	nsubj	_	Translit=čâ|LTranslit=cok|Gloss=who
-10	دا	دا	PRON	_	Case=Nom|Deixis=Prox|PronType=Dem	11	obj	_	Translit=dâ|LTranslit=dâ|Gloss=these
-11	ولیکل	لیکل	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	ccomp	_	Translit=wë́likël|LTranslit=likë́l|Gloss=wrote|SpaceAfter=No
-12	.	.	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
+8	چې	چې	SCONJ	_	_	12	mark	_	Translit=če|LTranslit=če|Gloss=that
+9	چا	څوک	PRON	_	Animacy=Hum|Case=Acc|PronType=Int	12	nsubj	_	Translit=čâ|LTranslit=cok|Gloss=who
+10	دا	دا	PRON	_	Case=Nom|Deixis=Prox|PronType=Dem	12	obj	_	Translit=dâ|LTranslit=dâ|Gloss=these
+11	و	_	AUX	_	Aspect=Perf	12	aux:preverb	_	Translit=wë|LTranslit=|Gloss=_
+12	لیکل	لیکل	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	ccomp	_	Translit=likë́l|LTranslit=likë́l|Gloss=wrote
+13	.	.	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
 
 ~~~
 
@@ -66,7 +68,7 @@ The following 20 pairs of parts of speech are connected with `obl`: <tt><a href=
 2	پاریس	پاریس	PROPN	_	Case=Loc|Gender=Masc|Number=Sing	5	obl	_	Translit=pârís|LTranslit=pârís|Gloss=Paris
 3	کې	کې	ADP	_	Case=Loc	2	case	_	Translit=ke|LTranslit=ke|Gloss=in
 4	لویه	لوی	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	5	compound:lvc	_	Translit=lóya|LTranslit=loy|Gloss=big
-5	شوه	کېدل	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|Variant=Short|VerbForm=Fin	0	root	_	Translit=šwa|LTranslit=kedë́l|Gloss=become|SpaceAfter=No
+5	شوه	کېدل	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|Variant=Short|VerbForm=Fin	0	root	_	Translit=šwa|LTranslit=kedë́l|Gloss=become|LVLemma=لویېدل|LVLTranslit=loyedë́l|SpaceAfter=No
 6	،	،	PUNCT	_	_	10	punct	_	Translit=,|LTranslit=,|Gloss=,
 7	د	د	ADP	_	Case=Acc	8	case	_	Translit=dë|LTranslit=dë|Gloss=of
 8	فرانسې	فرانسه	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	10	nmod	_	Translit=frânsé|LTranslit=frânsá|Gloss=France

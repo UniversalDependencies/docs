@@ -8,210 +8,272 @@ udver: '2'
 <table>
   <thead>
   <tr>
-    <th width="16%" valign="top">
+    <th width="12%" valign="top">
       <h1>UD_Greek-Cretan</h1>
     </th>
-    <th width="16%" valign="top">
+    <th width="12%" valign="top">
+      <h1>UD_Greek-Cypriot</h1>
+    </th>
+    <th width="12%" valign="top">
       <h1>UD_Greek-GDT</h1>
     </th>
-    <th width="16%" valign="top">
+    <th width="12%" valign="top">
       <h1>UD_Greek-GLCII</h1>
     </th>
-    <th width="16%" valign="top">
+    <th width="12%" valign="top">
       <h1>UD_Greek-GUD</h1>
     </th>
-    <th width="16%" valign="top">
+    <th width="12%" valign="top">
+      <h1>UD_Greek-Griko</h1>
+    </th>
+    <th width="12%" valign="top">
       <h1>UD_Greek-Lesbian</h1>
     </th>
-    <th width="16%" valign="top">
+    <th width="12%" valign="top">
       <h1>UD_Greek-Messinian</h1>
     </th>
   </tr>
   </thead>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <h2>Tokenization and Word Segmentation</h2>
+    </td>
+    <td width="12%" valign="top">
+      <h2>Tokenization and Word Segmentation</h2>
+    </td>
+    <td width="12%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 270 sentences and 4351 tokens.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+      <li>This corpus contains 100 sentences, 2002 tokens and 2042 syntactic words.</li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 2521 sentences, 61773 tokens and 63441 syntactic words.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 671 sentences, 9604 tokens and 9868 syntactic words.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 1807 sentences, 24897 tokens and 25493 syntactic words.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+      <li>This corpus contains 100 sentences and 1262 tokens.</li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 625 sentences, 6624 tokens and 6840 syntactic words.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 110 sentences and 899 tokens.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 263 tokens (6%) that are not followed by a space.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+      <li>All tokens in this corpus are followed by a space.</li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 6140 tokens (10%) that are not followed by a space.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 1432 tokens (15%) that are not followed by a space.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 4361 tokens (18%) that are not followed by a space.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+      <li>All tokens in this corpus are followed by a space.</li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 991 tokens (15%) that are not followed by a space.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 1 tokens (0%) that are not followed by a space.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus does not contain words with spaces.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus does not contain words with spaces.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus does not contain words with spaces.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus does not contain words with spaces.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus does not contain words with spaces.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+      <li>This corpus does not contain words with spaces.</li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
+      <ul>
+      <li>This corpus does not contain words with spaces.</li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus does not contain words with spaces.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 48 types of words that contain both letters and punctuation. Examples: τ', τσ', ό,τι, 'ναι, 'πε, σ', 'χει, 'βαλε, 'δεσε, 'χεις, Γι', απ', δώσ', είν', 'βγανε, 'βλεπε, 'δά, 'δα, 'δειχνε, 'δες, 'δινε, 'ζά, 'θελα, 'θελε, 'καμε, 'κανες, 'κείνη, 'κεινά, 'λεγε, 'μάς, 'μαι, 'ν', 'πέρνα, 'πα, 'παθες, 'πεφτε, 'πότισε, 'ρθω, 'σούσαν, 'τονε, 'φάνη, 'φτιαξε, 'χανε, 'χυνε, Άϊ-Γιωργιού, Αϊ-Γιάννη, Γιατ', καθ'</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+      <li>This corpus contains 18 types of words that contain both letters and punctuation. Examples: εν’, πά’, ’θελα, μ’, ι-ξέρω, ό,τι, ’ννά, Ν’, Τ’, απ’, ι-μπόρω, ι-ξεπεράσει, ’βρει, ’θέλαν, ’μέναν, ’μασταν, ’μουν, ’φάνηκα</li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 155 types of words that contain both letters and punctuation. Examples: κ., χλμ., γι', απ', σ', Β', π.χ., ό,τι, Ν., αριθ., μ', Γ', Λ'Άκουιλα, απ’, μ., ν', Β., Δρ., Παρ', κατ', 11_Σεπτεμβρίου, 11ης_Σεπτεμβρίου, 27_Δεκεμβρίου, 5_Σεπτεμβρίου, d', Α', ΑΚΕ/ΕΕ, Γ., Δ', Ε.Α.Μ., ΕΕ., ΕΛΚ-ΕΔ, Ναγκόρνο-Καραμπάχ, εκατ., επ', καθ', κλπ., στ', 10_Αυγούστου_1920, 11/24_Νοεμβρίου_1916, 11_Δεκεμβρίου, 11_Ιανουαρίου, 11η_Σεπτεμβρίου, 12ης_Ιανουαρίου, 13_Απριλίου_2000, 13_Δεκεμβρίου, 13_Ιανουαρίου, 15__Αυγούστου, 15_Ιανουαρίου, 16_Αυγούστου_1916</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 19 types of words that contain both letters and punctuation. Examples: απ', κ.α, 'Αννα, 'Ολγα, E-MAIL, ΓΙ', Κ.πολη, Μπ., Ξ., Παρ', Ποστ-δοκ, ΥΠ", γιατρός-βιοχημικός, ξανά-πουν, πρωί-πρωί, σ’, τ', ό,, ό,τι</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 28 types of words that contain both letters and punctuation. Examples: σ', ν', μ', τ', ό,τι, γι', απ', άσ', καθ', 'λεγα, θ', τίποτ', 'γώ, 'κοψε, 'πε, 'πρεπε, 'ρθε, 'φαγε, 'χεις, 'χω, Μπε-εμ-βε, αντ', γουάι-φάι, δώσ', είδα-, επ', εφ', παρ'</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+      <li>This corpus contains 60 types of words that contain both letters and punctuation. Examples: c', c’, i', ena', ti', m', mia', ’s, 's, o', ‘na, 'cessu, 'en, 'na, Isa’, icha', io', pì’, s’, te', t’, ‘sù, 'dèrfia, 'e, 'mpì, 'nan, 'pe, 'sù, 'tti, Io’, Isa', Piaka’, addhunettì’, anćignàsa', armàstisa', a’, e', fonasa’, itti', kateka', kratusa', mò', nsignasa', n’, o’, piài’, pp', pu', s', ste'</li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 447 types of words that contain both letters and punctuation. Examples: τ’, απ’, μ’, τσ’, σ’, τ’ς, έχ’, όχ’, ντ’, π’, τ’ν, σπίτ’, κάν’, γ’, γι’, είν’, ν’, χέρ’, ότ’, ‘γού, ‘μείς, ’γώ, έτσ’, ανθρώπ’, θέλ’, λάδ’, λέγ’ς, ξέρ’ς, ούλ’, πάρ’, σπίκ’, ‘δώ, έπρεπ’, είχ’, κουμμάτ’, κόρ’, μέσ’, ξέρ’, πάγ’, τσιφάλ’, ό,τ’, Σίγρ’, αθρώπ’, βλέπ’, γίν’, γυρίσ’, γ’ναίκα, δ’λειά, κάν’ς, κουμάτ’</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 31 types of words that contain both letters and punctuation. Examples: απ', ό,τι, 'ναι, 'χουμε, Δημόπ'λος, 'κανα, 'κανε, 'ρθούμε, 'σείς, 'χουνε, Γεωργιόπ’λε, Γι', Γιωργιόπ’λε,, Πάρ', Τ', απ’, ε,, μ', ξέρ'ς, οτιδήποτε,, πάνε,, σ', τάξ', τάξ’, τίποτ', φουντών', φωνάζ’, ‘κεί, ‘μεις, ‘ναι, ‘χαμε</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+      <li>This corpus contains 40 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+      <li>There are 10 types of multi-word tokens. Examples: στην, στο, έννεν’, στα, στες, τούντο, εννάν’, πόν, πόννά, τούντην.</li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 1668 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
       <li>There are 7 types of multi-word tokens. Examples: στην, στο, στη, στις, στον, στα, στους.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 264 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
       <li>There are 15 types of multi-word tokens. Examples: στο, στην, στη, στις, στον, στα, στους, στι, σην, στιν, στ', στης, στν, στούς, στόν.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 596 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
       <li>There are 8 types of multi-word tokens. Examples: στο, στην, στη, στον, στα, στις, στους, στου.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 216 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
       <li>There are 90 types of multi-word tokens. Examples: στου, στα, στο, στ’, σν, στς, στη, γιεμ, κουρούδαμ, κόρημ, μπάτσι, πας, στον, στουν, στους, στ’ν, τνώρα, τόχιτι, Πατέρασιτς, ήξιρειντα, ίσιαμ, ίσιαμι, αμί, απόξου, βάλτου, βρακουζώνς, γέμστου, γιομ, είπντα, εμπουρεί, εμπουρώ, ηφτσήμ, θκάς, θκος, ιφστήμ, κοντάμ, κόρηντ, λέγαντα, μάναμ, μάτιασ’, μήπι, μουρέλιμ, μουρφιάτσ, μουρόμ, νάβγει, νάν’, νάρτ, νέρτ, νήνταν, νακλσησιά.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -221,7 +283,17 @@ udver: '2'
       <li>This corpus does not use the following tags: SYM, X</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <h2>Morphology</h2>
+      
+      <h3>Tags</h3>
+      
+      <ul>
+      <li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
+      <li>This corpus does not use the following tags: SYM</li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -231,7 +303,7 @@ udver: '2'
       <li>This corpus does not use the following tags: INTJ</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -241,7 +313,7 @@ udver: '2'
       <li>This corpus does not use the following tags: SYM</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -250,7 +322,17 @@ udver: '2'
       <li>This corpus uses 17 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <h2>Morphology</h2>
+      
+      <h3>Tags</h3>
+      
+      <ul>
+      <li>This corpus uses 15 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a></li>
+      <li>This corpus does not use the following tags: SYM, X</li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -260,7 +342,7 @@ udver: '2'
       <li>This corpus does not use the following tags: SYM</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -272,231 +354,300 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 7 word types tagged as particles (PART): άνε, δε, δεν, μη, μην, μπας, να</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+      <li>This corpus contains 6 word types tagged as particles (PART): Έντζ̆ε, δεν, εν, μεν, τζ̆αι, όι</li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 5 word types tagged as particles (PART): δε, δεν, μη, μην, όχι</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 7 word types tagged as particles (PART): δε, δεν, κε, μήν, μην, οχι, όχι</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 9 word types tagged as particles (PART): Ντεν, δε, δεν, δηλαδή, καν, μη, μην, μπας, όχι</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+      <li>This corpus contains 4 word types tagged as particles (PART): 'e, 'en, e, en</li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 22 word types tagged as particles (PART): Ένι, Δηλαδή, Μπα, Οχ, έ, έν, έν-ι, ένη, δα, δε, δεν, δ’, ε, εν, μή, μη, μην, μπά, νά, να, όχ’, ’εν</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 5 word types tagged as particles (PART): Ας, δε, δεν, μην, να</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 19 lemmas tagged as pronouns (PRON): o, είντα, εγώ, ετούτος, καθένας, κιανείς, μου, ο, ποιoς, ποιος, που, τα, τζη, τι, το, τσι, τόσος, τόσοσας, ό,τι</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+      <li>This corpus contains 4 lemmas tagged as pronouns (PRON): ίνταμπου, εγώ, οποίος, που</li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 25 lemmas tagged as pronouns (PRON): άλλος, ένας, αυτός, εγώ, εκείνος, κάποιος, κάτι, καθένας, κανένας, μερικοί, μου, οποίος, οποιοσδήποτε, οτιδήποτε, ποιος, που, τέτοιος, τίνος, τίποτα, ταύτα, τι, τούτος, ό,τι, όποιος, όσος</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 38 lemmas tagged as pronouns (PRON): your, άλλος, έγω, αλλος, αυτι, αυτο, αυτος, αυτός, αύτος, εγο, εγω, εγό, εγώ, εκείνος, κάποιος, κάτη, κάτι, καθένας, κανένας, καποιος, κατι, με, μια, μου, μού, ο, ο΄τι, οποίος, οποιος, οποιός, ποθ, ποιος, που, τίποτα, τι, ό,τι, όποιος, όσος</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 7 lemmas tagged as pronouns (PRON): εγώ, οποίος, ποιος, που, τίνος, τι, ό,τι</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+      <li>This corpus contains 16 lemmas tagged as pronouns (PRON): addho, addo, cino, ena, evò, isù, ivò, mu, olo, posso, pu, tikanè, tis, tispo, tuo, tùonna</li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 9 lemmas tagged as pronouns (PRON): η, ιγώ, μι, π, ποιος, που, σι, τι, τις</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 8 lemmas tagged as pronouns (PRON): εγώ, κανένας, μου, ο, που, τι, ό,τι, ότι</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 28 lemmas tagged as determiners (DET): 'κεινός, o, άλλος, ένας, ίδιος, αυτός, εκείνη, εκείνος, εκειονάς, εκειοσές, κάθε, κάτι, κανένας, κανείς, κιανείς, μερικός, μόνος, ο, πολύς, τάδε, τα, τη, τόσος, φορά, ό,τι, όλος, όποιος, όσος</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+      <li>This corpus contains 27 lemmas tagged as determiners (DET): o, άλλος, ένας, αρκετά, αρκετός, δικός, κάθε, κάποιος, κάτι, καμπόσος, κανένας, λίγος, λλίος, μόνος, ο, ούλλος, ποιος, πολλύς, πολύς, τίποτε, τζ̆είνος, τζ̌είνος, τι, τούτος, τόσος, ό,τι, όσος</li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 17 lemmas tagged as determiners (DET): άλλος, ένας, αρκετός, αυτός, εκείνος, κάθε, κάποιος, κάτι, κανένας, μερικοί, ο, οιοσδήποτε, οποιοσδήποτε, ος, οτιδήποτε, τέτοιος, τον/την</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 40 lemmas tagged as determiners (DET): `αλλος, das, άλλα, άλλος, ένας, ίδιος, αλλο, αλλος, αλλός, αρκετός, αυτο, αυτος, αυτός, αύτος, εκείνος, εκεινος, ενα, ενας, κάθε, κάποιος, κάποιός, καθε, καπιος, κἀθε, μερικοί, μερικός, μόνος, ο, ολος, ολός, πολυς, πολύς, πόσος, τέτοιος, το, τον, του, τόσος, όλος, ὀλος</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 38 lemmas tagged as determiners (DET): άλλος, ένας, ίδιος, αρκετός, αυτός, εγώ, εκείνος, κάθε, κάποιος, κάτι, καθένας, κανένας, λίγο, λίγος, μερικοί, μερικός, μισός, μόνο, μόνος, ο, ολόκληρος, οποιοσδήποτε, πας, ποιος, πολύς, πόσο, πόσος, τέτοιος, τίποτα, τίποτε, τι, του, τόσο, τόσος, ό,τι, όλος, όποιος, όσος</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+      <li>This corpus contains 12 lemmas tagged as determiners (DET): ce, ciso, ena, kanena, o, olo, poddì, sulo, tis, tuso, uso, ο</li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 37 lemmas tagged as determiners (DET): άλλους, έγιουτους, έγιτσεινους, ένας, αυτός, εύτους, η, ιγώ, κάθα, κάθι, κάμπουσους, κάτ, καθένας, κανένας, κανείς, μ, μιρκός, ου, ούλους, πάν, πουλύς, πόθα, πόσους, τέτοιους, τίπουτα, τα, τι, τις, του, τούτους, τσείνους, τόσουνας, τόσους, ό,τ, όλους, όποιους, όσους</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 16 lemmas tagged as determiners (DET): άλλος, ένας, αυς, αυτός, κάθε, κάτι, κανένα, κανένας, ο, πολύς, τέτοιος, τίποτα, τα, το, ό,τι, όλος</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>Out of the above, 6 lemmas occurred sometimes as PRON and sometimes as DET: o, κιανείς, ο, τα, τόσος, ό,τι</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
       <li>Out of the above, 11 lemmas occurred sometimes as PRON and sometimes as DET: άλλος, ένας, αυτός, εκείνος, κάποιος, κάτι, κανένας, μερικοί, οποιοσδήποτε, οτιδήποτε, τέτοιος</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>Out of the above, 9 lemmas occurred sometimes as PRON and sometimes as DET: άλλος, αλλος, αυτο, αυτος, αυτός, αύτος, εκείνος, κάποιος, ο</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>Out of the above, 4 lemmas occurred sometimes as PRON and sometimes as DET: εγώ, ποιος, τι, ό,τι</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+      <li>Out of the above, 3 lemmas occurred sometimes as PRON and sometimes as DET: ena, olo, tis</li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
       <li>Out of the above, 4 lemmas occurred sometimes as PRON and sometimes as DET: η, ιγώ, τι, τις</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>Out of the above, 3 lemmas occurred sometimes as PRON and sometimes as DET: κανένας, ο, ό,τι</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 6 lemmas tagged as auxiliaries (AUX): έχω, ας, είμαι, θέλω, θα, να</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+      <li>This corpus contains 6 lemmas tagged as auxiliaries (AUX): έχω, ας, είμαι, εννά, θα, να</li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 5 lemmas tagged as auxiliaries (AUX): έχω, ας, είμαι, θα, να</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 6 lemmas tagged as auxiliaries (AUX): sein, έχω, ας, είμαι, θα, να</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 5 lemmas tagged as auxiliaries (AUX): έχω, ας, είμαι, θα, να</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+      <li>This corpus contains 4 lemmas tagged as auxiliaries (AUX): echo, ime, steo, ènna</li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 5 lemmas tagged as auxiliaries (AUX): έχου, ας, είμι, θα, να</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 4 lemmas tagged as auxiliaries (AUX): έχω, είμαι, θα, να</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>Out of the above, 3 lemmas occurred sometimes as AUX and sometimes as VERB: έχω, είμαι, θέλω</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: έχω</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+      <li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: έχω</li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
       <li>Out of the above, 2 lemmas occurred sometimes as AUX and sometimes as VERB: έχω, είμαι</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: έχω</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+      <li>Out of the above, 2 lemmas occurred sometimes as AUX and sometimes as VERB: echo, steo</li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
       <li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: έχου</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>Out of the above, 2 lemmas occurred sometimes as AUX and sometimes as VERB: έχω, είμαι</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+      <li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
+      <ul>
+      <li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
       <li>There are 2 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Conv
         <ul>
@@ -505,7 +656,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Conv
+        <ul>
+          <li>VERB: παίζοντας</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Conv
         <ul>
@@ -515,7 +675,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Conv
         <ul>
@@ -524,7 +684,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Conv
         <ul>
@@ -533,7 +693,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Conv
+        <ul>
+          <li>VERB: apetànonta, fonàdzonta, klèonta, kàmonta, petonta, pratònta</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Conv
         <ul>
@@ -542,12 +711,12 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Fin
         <ul>
@@ -557,7 +726,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Fin
+        <ul>
+          <li>AUX: εν’, ήταν, ήμουν, είναι, είμαι, ένι, ήσουν, είμαστεν, είσαι, είχα</li>
+          <li>VERB: έσ̆ει, πιστεύκω, έχω, έχουμεν, θθυμούμαι, μπορεί, πάω, αρέσκει, ξέρω, ’θελα</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Fin
         <ul>
@@ -567,7 +746,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Fin
         <ul>
@@ -577,7 +756,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Fin
         <ul>
@@ -587,7 +766,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Fin
+        <ul>
+          <li>AUX: ion, Isa’, este, io', ìsane, Io’, Isa', en, iche, ione</li>
+          <li>VERB: ipe, iche, pirte, àfike, ècame, ìpane, amo, anćìgnase, apètane, dio</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Fin
         <ul>
@@ -597,7 +786,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Fin
         <ul>
@@ -609,7 +798,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Inf
         <ul>
@@ -619,7 +808,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Inf
+        <ul>
+          <li>VERB: κάμει, σκοτώσει</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Inf
         <ul>
@@ -628,7 +826,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Inf
         <ul>
@@ -637,7 +835,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Inf
         <ul>
@@ -646,7 +844,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Inf
+        <ul>
+          <li>VERB: pesi, plosi, stein</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Inf
         <ul>
@@ -655,7 +862,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Inf
         <ul>
@@ -666,7 +873,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Part
         <ul>
@@ -675,7 +882,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Part
+        <ul>
+          <li>VERB: αγαπημένα, αγαπημένη, αγαπημένην, ανακατωμένος, βρεμένος, ευχαριστημένοι, κρυμμένα, λεγόμενα, μεταχειρισμένες, νοουμένου</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Part
         <ul>
@@ -684,7 +900,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Part
         <ul>
@@ -693,7 +909,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Part
         <ul>
@@ -702,7 +918,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Part
         <ul>
@@ -711,64 +930,80 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <h3>Nominal Features</h3>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <h3>Nominal Features</h3>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <h3>Nominal Features</h3>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <h3>Nominal Features</h3>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <h3>Nominal Features</h3>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <h3>Nominal Features</h3>
+    </td>
+    <td width="12%" valign="top">
+      <h3>Nominal Features</h3>
+    </td>
+    <td width="12%" valign="top">
       <h3>Nominal Features</h3>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Gender</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Gender</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Gender</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Gender</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Gender</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li><a>Gender</a></li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
+      <ul>
+        <li><a>Gender</a></li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li><a>Gender</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Fem
           <ul>
@@ -784,7 +1019,22 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Fem
+          <ul>
+            <li>ADJ: διάφορες, παιδικήν, Επαρχιακήν, Μέσης, Νέας, αγχωτική, ανθυγιεινές, αστείαν, δημόσιων, ελληνικήν</li>
+            <li>DET: την, η, της, τες, μιαν, κάποιαν, μια, οι, ούλλες, κάθε</li>
+            <li>NOUN: παρέαν, ηλικίαν, μέρες, μουσικήν, ταινίες, τηλεόρασην, χώρες, απώλειαν, γεναίκαν, δυνατότηταν</li>
+            <li>NUM: θκυο, μιαν</li>
+            <li>PRON: που, της, οποία, τες, την</li>
+            <li>PROPN: Κύπρον, Παλώθκιας, Αλίκην, Ανατολής, Ανεξαρτησίας, Ιταλίαν, Καλομοίραν, Κύπρος, Λευκωσίαν, Μαρκαρού</li>
+            <li>VERB-Part: αγαπημένη, αγαπημένην, μεταχειρισμένες, τρυπημένες</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Fem
           <ul>
@@ -800,7 +1050,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Fem
           <ul>
@@ -816,7 +1066,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Fem
           <ul>
@@ -833,7 +1083,22 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Fem
+          <ul>
+            <li>ADJ: fiacca, kèccia, mali, òria, Atteχèḍḍe, atteχèḍḍa, chatimmène, fflitta, kara, lillì</li>
+            <li>DET: i, mia, e, tin, ti, mia', ti', tusi, mian, tes</li>
+            <li>NOUN: mana, aghelàta, forà, kiatera, fate, fforà, jaterèḍḍa, kklostè, mmana, sciunte</li>
+            <li>NUM: dio, fta, trì, trìs</li>
+            <li>PRON: i', cini, tin, tis, ti, is, ole, tes, ćini, 'tti</li>
+            <li>PROPN: Ercina, Marìa</li>
+            <li>SCONJ: ka</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Fem
           <ul>
@@ -850,7 +1115,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Fem
           <ul>
@@ -866,7 +1131,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Masc
           <ul>
@@ -883,7 +1148,22 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Masc
+          <ul>
+            <li>ADJ: Άγγλοι, Κυπραίοι, έτοιμος, ήσυχον, ανορθόγραφος, γνωστόν, εξωτικούς, θαραλλέος, κυπριακού, κυπριακός</li>
+            <li>DET: ο, οι, τον, τους, του, έναν, ένας, κάποιον, άλλοι, άλλον</li>
+            <li>NOUN: γονείς, μήνες, παπαγάλους, σ̆ειμώναν, τρόπος, άνθρωπον, άνθρωπος, άντρα, ήρωας, αγωνιστής</li>
+            <li>NUM: ένας, θκυο, 5, έναν, οκτώ</li>
+            <li>PRON: τον, που, τους, του, οποίοι, οποίος</li>
+            <li>PROPN: Αντρέαν, Αντρο, Αντώνη, Ευαγόρου, Ευκενής, Ζορπάν, Νίκος, Ράμπο, Χρυσόστομε</li>
+            <li>VERB-Part: ανακατωμένος, βρεμένος, ευχαριστημένοι, νοουμένου</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Masc
           <ul>
@@ -898,7 +1178,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Masc
           <ul>
@@ -913,7 +1193,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Masc
           <ul>
@@ -931,7 +1211,21 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Masc
+          <ul>
+            <li>ADJ: ftechò, kecci, adìnato, fiacculiddo, ndiavolao</li>
+            <li>DET: o, ton, to, tu, e, 'na, olo, a, ena', on</li>
+            <li>NOUN: ria, ciuri, deskòrso, ijo, ćiùri, aderfo, aderfò, ssèrcito, χronò, abbìlo</li>
+            <li>NUM: dekattà, dekottò, dio, ìmiso</li>
+            <li>PRON: cino, tu, o', pu, addos, enan, on, u, Cini, cìni</li>
+            <li>PROPN: Trianniscia, Antonài, Kkristò, ntoni, Kristè, Pati, Triannìscia</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Masc
           <ul>
@@ -948,7 +1242,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Masc
           <ul>
@@ -963,7 +1257,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Neut
           <ul>
@@ -979,7 +1273,22 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Neut
+          <ul>
+            <li>ADJ: κύριον, άγιον, άταφον, ακριβόν, ανθρώπινου, γρήγορον, ελεύθερα, ιστορικόν, κινητών, κοντόν</li>
+            <li>DET: το, τα, έναν, του, κάτι, κάποιον, τούτον, άλλον, ούλλα, τζ̆είνα</li>
+            <li>NOUN: σπίτιν, πράμαν, βιολίν, γλυκά, είδος, καθρεφτούιν, μωρόν, παράδειγμαν, πιάνον, ρεύμαν</li>
+            <li>NUM: 10.000, δυο, δυόμισι, πενηνταεννιά, πενηνταπέντε</li>
+            <li>PRON: που, τα, το, οποίον, τους, του</li>
+            <li>PROPN: Ανεμούριο, Μέιτριξ, Μιλάνον, Τροόδος</li>
+            <li>VERB-Part: αγαπημένα, κρυμμένα, λεγόμενα</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Neut
           <ul>
@@ -995,7 +1304,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Neut
           <ul>
@@ -1010,7 +1319,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Neut
           <ul>
@@ -1028,7 +1337,20 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Neut
+          <ul>
+            <li>ADJ: calò, mea, àscimo</li>
+            <li>DET: to, ena', a, ta, o, itta, t’, ‘na, 'nan, Tuso</li>
+            <li>NOUN: adrèffia, fato, pedàcia, petì, turniscia, derma, krea, làχana, pedìa, petìa</li>
+            <li>NUM: dio, tria, diu, fta, ìmiso</li>
+            <li>PRON: to, ta, ti, tipo, a, ena, tikanè, tto, tu, tuo</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Neut
           <ul>
@@ -1045,7 +1367,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Neut
           <ul>
@@ -1063,59 +1385,75 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Number</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Number</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Number</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Number</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Number</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li><a>Number</a></li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
+      <ul>
+        <li><a>Number</a></li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li><a>Number</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -1132,7 +1470,25 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Plur
+          <ul>
+            <li>ADJ: διάφορες, Άγγλοι, Κυπραίοι, ανθυγιεινές, δημόσιων, ελεύθερα, εξωτικούς, καλές, κινητών, μιτσ̆ιοί</li>
+            <li>AUX: εν’, ήταν, είναι, είμαστεν, είχαν, ’μασταν</li>
+            <li>AUX-Fin: εν’, ήταν, είναι, είμαστεν, είχαν, ’μασταν</li>
+            <li>DET: τα, οι, τες, τους, ούλλες, των, ούλλα, πολλές, τζ̆είνα, τι</li>
+            <li>NOUN: μέρες, ταινίες, χώρες, γλυκά, γονείς, μήνες, παπαγάλους, ρούχα, συναισθήματα, φορές</li>
+            <li>NUM: θκυο, 10.000, 5, δυο, δυόμισι, οκτώ</li>
+            <li>PRON: που, τους, μας, τα, οποίοι, σας, τες</li>
+            <li>PROPN: Ανεμούριο</li>
+            <li>VERB-Fin: έχουμεν, έχουν, διούν, λαλούν, πάμεν, Αρέσκαν, Αρέσκουν, Εδώκαμεν, Εμάθαν, Εμαθθαίνναμεν</li>
+            <li>VERB-Part: αγαπημένα, ευχαριστημένοι, κρυμμένα, λεγόμενα, μεταχειρισμένες, τρυπημένες</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -1150,7 +1506,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -1168,7 +1524,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -1190,7 +1546,22 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Plur
+          <ul>
+            <li>ADJ: Atteχèḍḍe, chatimmène</li>
+            <li>AUX-Fin: Isa', Isa’, isan, istèane, ìmesta</li>
+            <li>DET: e, ta, tes, itta, te', t’, a, citte, i, ole</li>
+            <li>NOUN: adrèffia, pedàcia, turniscia, fate, kklostè, làχana, pedìa, petìa, sciunte, χronò</li>
+            <li>NUM: diu</li>
+            <li>PRON: ta, ole, pu, sas, tes, Cini, Tos, a, cìni, emi</li>
+            <li>VERB-Fin: ìpane, dìome, icha', Cànnome, Delàte, Evotìsane, Fìnnome, Iavìkane, Piaka’, aforàsane</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -1209,7 +1580,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -1230,7 +1601,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -1249,7 +1620,24 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Sing
+          <ul>
+            <li>ADJ: κύριον, παιδικήν, Επαρχιακήν, Μέσης, Νέας, άγιον, άταφον, έτοιμος, ήσυχον, αγχωτική</li>
+            <li>AUX-Fin: ήταν, εν’, ήμουν, είμαι, ένι, ήσουν, είσαι, είχα, ’μουν</li>
+            <li>DET: την, το, η, έναν, ο, του, της, τον, κάποιον, κάτι</li>
+            <li>NOUN: σπίτιν, παρέαν, ηλικίαν, μουσικήν, πράμαν, τηλεόρασην, απώλειαν, βιολίν, γεναίκαν, δυνατότηταν</li>
+            <li>NUM: ένας, μιαν, έναν, πενηνταεννιά, πενηνταπέντε</li>
+            <li>PRON: μου, που, σου, τον, του, με, εγώ, της, το, μ’</li>
+            <li>PROPN: Κύπρον, Παλώθκιας, Αλίκην, Ανατολής, Ανεξαρτησίας, Αντρέαν, Αντρο, Αντώνη, Ευαγόρου, Ευκενής</li>
+            <li>VERB-Fin: έσ̆ει, πιστεύκω, έχω, θθυμούμαι, μπορεί, πάω, αρέσκει, ξέρω, ’θελα, ήρτεν</li>
+            <li>VERB-Part: αγαπημένη, αγαπημένην, ανακατωμένος, βρεμένος, νοουμένου</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -1267,7 +1655,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -1285,7 +1673,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -1308,7 +1696,24 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Sing
+          <ul>
+            <li>ADJ: calò, fiacca, ftechò, kecci, kèccia, mali, òria, adìnato, atteχèḍḍa, fflitta</li>
+            <li>AUX-Fin: ion, este, io', ìsane, Io’, Isa’, en, iche, ione, ise</li>
+            <li>DET: o, to, mia, i, ti, tin, ton, e, ena', a</li>
+            <li>NOUN: mana, ria, aghelàta, ciuri, deskòrso, forà, kiatera, fato, ijo, petì</li>
+            <li>NUM: ìmiso</li>
+            <li>PRON: tu, cino, to, mu, ti, i', tis, cini, tin, Ivò</li>
+            <li>PROPN: Trianniscia, Antonài, Kkristò, ntoni, Ercina, Kristè, Marìa, Pati, Triannìscia</li>
+            <li>SCONJ: ka</li>
+            <li>VERB-Fin: ipe, iche, pirte, àfike, ècame, amo, anćìgnase, apètane, dio, eho</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -1328,7 +1733,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -1349,39 +1754,49 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Case</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Case</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Case</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Case</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Case</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li><a>Case</a></li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
+      <ul>
+        <li><a>Case</a></li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li><a>Case</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Acc
           <ul>
@@ -1397,7 +1812,22 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Acc
+          <ul>
+            <li>ADJ: διάφορες, παιδικήν, Επαρχιακήν, άγιον, άταφον, ήσυχον, αστείαν, γνωστόν, ελληνικήν, εξωτικούς</li>
+            <li>DET: την, το, έναν, τα, τον, τες, τους, κάποιον, μιαν, κάποιαν</li>
+            <li>NOUN: παρέαν, σπίτιν, ηλικίαν, μέρες, μουσικήν, ταινίες, τηλεόρασην, χώρες, απώλειαν, βιολίν</li>
+            <li>NUM: θκυο, μιαν, 10.000, έναν, δυο, δυόμισι, οκτώ</li>
+            <li>PRON: που, τον, με, τα, το, τους, μ’, οποίον, εμέναν, εσέναν</li>
+            <li>PROPN: Κύπρον, Αλίκην, Αντρέαν, Ζορπάν, Ιταλίαν, Καλομοίραν, Λευκωσίαν, Μιλάνον, Ράμπο, Σ̆ιονίστραν</li>
+            <li>VERB-Part: αγαπημένην, νοουμένου</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Acc
           <ul>
@@ -1413,7 +1843,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Acc
           <ul>
@@ -1429,7 +1859,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Acc
           <ul>
@@ -1448,7 +1878,21 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Acc
+          <ul>
+            <li>ADJ: calò, fiacca, kara, kèccia, lillì, mea, mmali, ndiavolao</li>
+            <li>DET: to, mia, ti, tin, ton, a, ena', o, ta, ti'</li>
+            <li>NOUN: aghelàta, deskòrso, fato, turniscia, ciuri, derma, fforà, forà, kiatera, kklostè</li>
+            <li>NUM: dio, tria, ìmiso, fta</li>
+            <li>PRON: to, ti, pu, ta, tin, i', tipo, O', me, on</li>
+            <li>PROPN: Kkristò, Antonài, Trianniscia</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Acc
           <ul>
@@ -1466,7 +1910,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Acc
           <ul>
@@ -1483,10 +1927,13 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Dat
           <ul>
@@ -1497,21 +1944,24 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -1525,7 +1975,21 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Gen
+          <ul>
+            <li>ADJ: Μέσης, Νέας, ανθρώπινου, δημόσιων, κινητών, κυπριακού, φωτογραφικής</li>
+            <li>DET: του, της, των, άλλου, κάποιου, τούτου</li>
+            <li>NOUN: Γεννήσεως, άντρα, άσκησης, αυτοκινήτου, γειτονιάς, γονιών, δέντρων, δικηγόρου, δυναμικού, είδους</li>
+            <li>NUM: 5, πενηνταεννιά, πενηνταπέντε</li>
+            <li>PRON: μου, σου, του, τους, μας, της, που, σας</li>
+            <li>PROPN: Παλώθκιας, Ανατολής, Ανεξαρτησίας, Ευαγόρου, Μέιτριξ, Υόρκης</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -1540,7 +2004,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -1553,7 +2017,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -1568,7 +2032,19 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Gen
+          <ul>
+            <li>DET: tu, u'</li>
+            <li>NOUN: ria, χronò, ndrù</li>
+            <li>NUM: dekattà, dekottò</li>
+            <li>PRON: tu, mu, tis, su, i', is, mmu, ssu, u, 'tti</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -1582,7 +2058,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -1596,7 +2072,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Nom
           <ul>
@@ -1612,7 +2088,22 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Nom
+          <ul>
+            <li>ADJ: κύριον, Άγγλοι, Κυπραίοι, έτοιμος, αγχωτική, ακριβόν, ανθυγιεινές, ανορθόγραφος, γρήγορον, ελεύθερα</li>
+            <li>DET: η, το, οι, ο, τα, Έναν, ούλλες, ένας, τούτα, τούτον</li>
+            <li>NOUN: πράμαν, είδος, μουσική, τρόπος, φεστιβάλ, Σπίτιν, άνθρωπος, έλλειψη, ήρωας, αγωνιστής</li>
+            <li>NUM: ένας, θκυο</li>
+            <li>PRON: που, εγώ, εσύ, οποία, οποίοι, οποίος</li>
+            <li>PROPN: Ανεμούριο, Ευκενής, Κύπρος, Μαρκαρού, Νίκος, Ρωσσία</li>
+            <li>VERB-Part: αγαπημένα, αγαπημένη, ανακατωμένος, βρεμένος, ευχαριστημένοι, κρυμμένα, λεγόμενα, μεταχειρισμένες, τρυπημένες</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Nom
           <ul>
@@ -1627,7 +2118,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Nom
           <ul>
@@ -1642,7 +2133,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Nom
           <ul>
@@ -1661,7 +2152,22 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Nom
+          <ul>
+            <li>ADJ: ftechò, kecci, mali, òria, Atteχèḍḍe, adìnato, atteχèḍḍa, chatimmène, fflitta, fiacculiddo</li>
+            <li>DET: o, e, i, tusi, mia, itta, 'nan, Tuso, ena', isi</li>
+            <li>NOUN: mana, ćiùri, adrèffia, ciuri, fate, forà, ijo, jaterèḍḍa, kiatera, 'dèrfia</li>
+            <li>NUM: diu, tria, trì</li>
+            <li>PRON: cino, cini, Ivò, addos, enan, ole, ‘sù, Evò, cìni, emi</li>
+            <li>PROPN: Trianniscia, Antonài, Ercina, Marìa, Pati, Triannìscia</li>
+            <li>SCONJ: ka</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Nom
           <ul>
@@ -1679,7 +2185,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Nom
           <ul>
@@ -1695,7 +2201,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Voc
           <ul>
@@ -1707,7 +2213,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Voc
+          <ul>
+            <li>NOUN: ππουσ̆τόγερε</li>
+            <li>PROPN: Αντρο, Αντώνη, Χρυσόστομε</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Voc
           <ul>
@@ -1717,7 +2233,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Voc
           <ul>
@@ -1729,7 +2245,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Voc
           <ul>
@@ -1740,7 +2256,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Voc
+          <ul>
+            <li>NOUN: adrefàci, màscia, pedàcia</li>
+            <li>PRON: 'sù</li>
+            <li>PROPN: ntoni, Kristè</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Voc
           <ul>
@@ -1753,7 +2280,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Voc
           <ul>
@@ -1764,59 +2291,75 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Definite</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Definite</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Definite</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Definite</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Definite</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li><a>Definite</a></li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
+      <ul>
+        <li><a>Definite</a></li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li><a>Definite</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Def
           <ul>
@@ -1825,7 +2368,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Def
+          <ul>
+            <li>DET: την, το, τα, η, οι, ο, του, της, τον, τες</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Def
           <ul>
@@ -1834,7 +2386,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Def
           <ul>
@@ -1843,7 +2395,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Def
           <ul>
@@ -1852,7 +2404,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Def
+          <ul>
+            <li>DET: o, to, e, i, tin, ton, ti, ta, ti', tu</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Def
           <ul>
@@ -1861,7 +2422,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Def
           <ul>
@@ -1872,7 +2433,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -1881,7 +2442,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Ind
+          <ul>
+            <li>DET: έναν, μιαν, μια, ένας, κανέναν, αρκετήν, κάποιαν, καμπόσην</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -1890,7 +2460,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -1899,7 +2469,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -1908,7 +2478,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Ind
+          <ul>
+            <li>DET: mia, ena', a, mia', mian, ‘na, 'na, mmia, 'nan, ‘Nan</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -1917,7 +2496,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -1928,68 +2507,85 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <h3>Degree and Polarity</h3>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <h3>Degree and Polarity</h3>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <h3>Degree and Polarity</h3>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <h3>Degree and Polarity</h3>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <h3>Degree and Polarity</h3>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <h3>Degree and Polarity</h3>
+    </td>
+    <td width="12%" valign="top">
+      <h3>Degree and Polarity</h3>
+    </td>
+    <td width="12%" valign="top">
       <h3>Degree and Polarity</h3>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Degree</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Degree</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Degree</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Degree</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Degree</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
+      <ul>
+        <li><a>Degree</a></li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li><a>Degree</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Abs
           <ul>
@@ -1998,15 +2594,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Aug
           <ul>
@@ -2018,16 +2617,22 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Aug
           <ul>
@@ -2038,12 +2643,12 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Cmp
           <ul>
@@ -2052,7 +2657,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Cmp
+          <ul>
+            <li>ADV: πιο, καλλύττερα, παλιόττερα</li>
+            <li>DET: λλιόττερην</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Cmp
           <ul>
@@ -2062,7 +2677,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Cmp
           <ul>
@@ -2073,7 +2688,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Cmp
           <ul>
@@ -2084,7 +2699,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Cmp
           <ul>
@@ -2093,7 +2711,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Cmp
           <ul>
@@ -2105,7 +2723,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Dim
           <ul>
@@ -2116,10 +2734,19 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Dim
+          <ul>
+            <li>NOUN: καθρεφτούιν, κοπελλούιν, τερατούθκια</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Dim
           <ul>
@@ -2128,7 +2755,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Dim
           <ul>
@@ -2138,7 +2765,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Dim
           <ul>
@@ -2149,7 +2779,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Dim
           <ul>
@@ -2160,22 +2790,34 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Pos
+          <ul>
+            <li>ADJ: σημαντικά</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -2186,10 +2828,13 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Sup
           <ul>
@@ -2199,16 +2844,19 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Sup
           <ul>
@@ -2219,35 +2867,45 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Polarity</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li><a>Polarity</a></li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Polarity</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Polarity</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li><a>Polarity</a></li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li><a>Polarity</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -2258,13 +2916,23 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Neg
+          <ul>
+            <li>CCONJ: τζ̆αι</li>
+            <li>PART: εν, μεν, δεν, Έντζ̆ε</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -2274,7 +2942,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Neg
+          <ul>
+            <li>ADV: mi</li>
+            <li>PART: en, 'en, 'e, e</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -2285,7 +2963,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -2298,7 +2976,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -2307,13 +2985,22 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Pos
+          <ul>
+            <li>INTJ: Νναι</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -2322,7 +3009,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -2331,7 +3021,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -2342,79 +3032,101 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <h3>Verbal Features</h3>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <h3>Verbal Features</h3>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <h3>Verbal Features</h3>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <h3>Verbal Features</h3>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <h3>Verbal Features</h3>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <h3>Verbal Features</h3>
+    </td>
+    <td width="12%" valign="top">
+      <h3>Verbal Features</h3>
+    </td>
+    <td width="12%" valign="top">
       <h3>Verbal Features</h3>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Aspect</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Aspect</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Aspect</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Aspect</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Aspect</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li><a>Aspect</a></li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
+      <ul>
+        <li><a>Aspect</a></li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li><a>Aspect</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -2425,7 +3137,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Imp
+          <ul>
+            <li>AUX-Fin: ’μουν</li>
+            <li>VERB-Conv: παίζοντας</li>
+            <li>VERB-Fin: πιστεύκω, θθυμούμαι, μπορεί, αρέσκει, ξέρω, ’θελα, έχουμεν, ακούω, διούν, εθώρουν</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -2437,7 +3160,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -2448,7 +3171,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -2460,7 +3183,19 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Imp
+          <ul>
+            <li>AUX-Fin: este, istèane</li>
+            <li>VERB-Conv: fonàdzonta, klèonta, petonta, pratònta</li>
+            <li>VERB-Fin: iche, dio, dìome, eho, icha', kanno, pianni, ìbbie, Cànnome, Fìnnome</li>
+            <li>VERB-Inf: stein</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -2471,7 +3206,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -2485,7 +3220,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Perf
           <ul>
@@ -2496,7 +3231,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Perf
+          <ul>
+            <li>VERB-Fin: κάμω, έμαθα, ήβρα, είπα, εξεκίνησεν, κάμει, μάθω, ξιάσω, πάω, Άκουσα</li>
+            <li>VERB-Inf: κάμει, σκοτώσει</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Perf
           <ul>
@@ -2508,7 +3253,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Perf
           <ul>
@@ -2520,7 +3265,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Perf
           <ul>
@@ -2533,7 +3278,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Perf
+          <ul>
+            <li>VERB-Conv: apetànonta, kàmonta</li>
+            <li>VERB-Fin: ipe, pirte, àfike, ècame, ìpane, amo, anćìgnase, apètane, ipa, ipìrte</li>
+            <li>VERB-Inf: pesi, plosi</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Perf
           <ul>
@@ -2543,7 +3299,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Perf
           <ul>
@@ -2556,39 +3312,49 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li><a>Mood</a></li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
+      <ul>
+        <li><a>Mood</a></li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -2599,7 +3365,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -2608,7 +3377,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -2617,7 +3386,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -2627,7 +3396,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Imp
+          <ul>
+            <li>VERB-Fin: amo, Delàte, a’, de, do, doghetè, fafsamu, fonàsete, kame, kàmete</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -2636,7 +3414,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -2648,7 +3426,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -2659,7 +3437,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Ind
+          <ul>
+            <li>AUX: εν’, ήταν, ήμουν, είναι, είμαι, ένι, ήσουν, είμαστεν, είσαι, είχα</li>
+            <li>AUX-Fin: εν’, ήταν, ήμουν, είναι, είμαι, ένι, ήσουν, είμαστεν, είσαι, είχα</li>
+            <li>VERB-Fin: έσ̆ει, πιστεύκω, έχω, έχουμεν, θθυμούμαι, μπορεί, πάω, αρέσκει, ξέρω, ’θελα</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -2669,7 +3458,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -2679,7 +3468,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -2692,7 +3481,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Ind
+          <ul>
+            <li>AUX-Fin: ion, Isa’, este, io', ìsane, Io’, Isa', en, iche, ione</li>
+            <li>VERB-Fin: ipe, iche, pirte, àfike, ècame, ìpane, anćìgnase, apètane, dio, dìome</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -2702,7 +3501,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -2716,39 +3515,49 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li><a>Tense</a></li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
+      <ul>
+        <li><a>Tense</a></li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Fut
           <ul>
@@ -2759,13 +3568,22 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Fut
+          <ul>
+            <li>AUX: εννά, θα, ’ννά, Ν’</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Fut
           <ul>
@@ -2774,7 +3592,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Fut
           <ul>
@@ -2783,7 +3604,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Fut
           <ul>
@@ -2794,7 +3615,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Past
           <ul>
@@ -2804,7 +3625,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Past
+          <ul>
+            <li>AUX-Fin: ήταν, ήμουν, ήσουν, είχα, είχαν, ’μασταν</li>
+            <li>VERB-Fin: ’θελα, ήρτεν, είσ̆εν, είχα, εθώρουν, άρεσκεν, έμαθα, ήβρα, είπα, εξεκίνησεν</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Past
           <ul>
@@ -2814,7 +3645,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Past
           <ul>
@@ -2824,7 +3655,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Past
           <ul>
@@ -2836,7 +3667,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Past
+          <ul>
+            <li>AUX-Fin: ion, Isa’, este, io', ìsane, Io’, Isa', iche, ione, isan</li>
+            <li>VERB-Fin: ipe, iche, pirte, àfike, ècame, ìpane, anćìgnase, apètane, icha', ipa</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Past
           <ul>
@@ -2846,7 +3687,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Past
           <ul>
@@ -2860,7 +3701,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Pres
           <ul>
@@ -2870,7 +3711,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Pres
+          <ul>
+            <li>AUX: εν’, είναι, είμαι, ένι, είμαστεν, είσαι</li>
+            <li>AUX-Fin: εν’, είναι, είμαι, ένι, είμαστεν, είσαι</li>
+            <li>VERB-Fin: πιστεύκω, έσ̆ει, έχουμεν, έχω, θθυμούμαι, μπορεί, αρέσκει, ξέρω, έχουν, ακούω</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Pres
           <ul>
@@ -2880,7 +3732,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Pres
           <ul>
@@ -2890,7 +3742,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Pres
           <ul>
@@ -2903,7 +3755,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Pres
+          <ul>
+            <li>AUX-Fin: en, ise, è, ìmesta</li>
+            <li>VERB-Fin: amo, dio, dìome, eho, kamo, kanno, pianni, piài, pì’, Cànnome</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Pres
           <ul>
@@ -2913,7 +3775,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Pres
           <ul>
@@ -2927,39 +3789,49 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Voice</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Voice</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Voice</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Voice</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Voice</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li><a>Voice</a></li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
+      <ul>
+        <li><a>Voice</a></li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li><a>Voice</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Act
           <ul>
@@ -2972,7 +3844,19 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Act
+          <ul>
+            <li>AUX-Fin: εν’, ένι, ήσουν, ήταν, είμαστεν, είχα, ’μουν</li>
+            <li>VERB-Conv: παίζοντας</li>
+            <li>VERB-Fin: έσ̆ει, πιστεύκω, έχω, έχουμεν, μπορεί, πάω, αρέσκει, ξέρω, ’θελα, έχουν</li>
+            <li>VERB-Inf: κάμει, σκοτώσει</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Act
           <ul>
@@ -2985,7 +3869,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Act
           <ul>
@@ -2997,7 +3881,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Act
           <ul>
@@ -3010,7 +3894,19 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Act
+          <ul>
+            <li>AUX-Fin: ion, Isa’, este, io', ìsane, Io’, Isa', en, iche, ione</li>
+            <li>VERB-Conv: apetànonta, fonàdzonta, klèonta, kàmonta, petonta, pratònta</li>
+            <li>VERB-Fin: ipe, iche, pirte, àfike, ècame, ìpane, amo, anćìgnase, apètane, dio</li>
+            <li>VERB-Inf: pesi, plosi, stein</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Act
           <ul>
@@ -3022,7 +3918,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Act
           <ul>
@@ -3037,22 +3933,40 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Mid
+          <ul>
+            <li>VERB-Fin: Εξιπλύθθηκεν, εντύθηκεν</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Mid
+          <ul>
+            <li>VERB-Fin: Efristi, addhunettì’, armàstisa', fènato, jennìti, vresì, èrcutt’</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Mid
           <ul>
@@ -3063,7 +3977,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Pass
           <ul>
@@ -3075,7 +3989,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Pass
+          <ul>
+            <li>AUX-Fin: ’μασταν</li>
+            <li>VERB-Fin: θθυμούμαι, χρειάζεται, Εδυσκολεύκουμουν, Χρειάζουνται, έρκουνται, αθθυμούμαι, ακούεται, αντρέπουνται, αποταθώ, ασχολούμαι</li>
+            <li>VERB-Part: αγαπημένα, αγαπημένη, αγαπημένην, ανακατωμένος, ευχαριστημένοι, κρυμμένα, λεγόμενα, νοουμένου, τρυπημένες</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Pass
           <ul>
@@ -3087,7 +4012,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Pass
           <ul>
@@ -3099,7 +4024,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Pass
           <ul>
@@ -3111,7 +4036,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Pass
           <ul>
@@ -3121,7 +4049,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Pass
           <ul>
@@ -3134,79 +4062,101 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <h3>Pronouns, Determiners, Quantifiers</h3>
+    </td>
+    <td width="12%" valign="top">
+      <h3>Pronouns, Determiners, Quantifiers</h3>
+    </td>
+    <td width="12%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>PronType</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>PronType</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>PronType</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>PronType</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>PronType</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li><a>PronType</a></li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
+      <ul>
+        <li><a>PronType</a></li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li><a>PronType</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Art
           <ul>
@@ -3215,7 +4165,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Art
+          <ul>
+            <li>DET: την, το, τα, η, έναν, οι, ο, του, της, τον</li>
+            <li>PRON: το</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Art
           <ul>
@@ -3224,7 +4184,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Art
           <ul>
@@ -3233,7 +4193,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Art
           <ul>
@@ -3242,7 +4202,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Art
+          <ul>
+            <li>DET: o, to, e, i, mia, tin, ton, ena', a, ti</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Art
           <ul>
@@ -3251,7 +4220,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Art
           <ul>
@@ -3262,7 +4231,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Dem
           <ul>
@@ -3272,7 +4241,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Dem
+          <ul>
+            <li>ADV: τζ̆ειαμαί, τότε, Εδώ</li>
+            <li>DET: τούτον, τζ̆είνα, τούτα, τζ̆είνην, τζ̆είνοι, τούτην, τούτος, τούτου, τόσα, τόσες</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Dem
           <ul>
@@ -3282,7 +4261,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Dem
           <ul>
@@ -3292,7 +4271,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Dem
           <ul>
@@ -3303,7 +4282,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Dem
+          <ul>
+            <li>DET: tusi, itta, Tuso, citte, citti, isi, itti', utte</li>
+            <li>PRON: cino, cini, tuo, ćini, cinì, cìni, tue, tùonna</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Dem
           <ul>
@@ -3313,7 +4302,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Dem
           <ul>
@@ -3324,13 +4313,16 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Dem,Rel
           <ul>
@@ -3339,18 +4331,21 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Emp
           <ul>
@@ -3359,13 +4354,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Emp
           <ul>
@@ -3374,15 +4372,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -3391,7 +4392,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Ind
+          <ul>
+            <li>ADV: πολλά, που</li>
+            <li>DET: κάτι, κάποιον, άλλον, κάποιαν, πολλές, άλλες, άλλη, άλλοι, άλλος, άλλου</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -3401,7 +4412,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -3411,7 +4422,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -3422,7 +4433,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Ind
+          <ul>
+            <li>DET: kammian, poddà, sula</li>
+            <li>PRON: tipo, addos, enan, aḍḍi, ena, mian, tikanè</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -3432,7 +4453,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -3444,10 +4465,13 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Ind,Rel
           <ul>
@@ -3457,7 +4481,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Ind,Rel
           <ul>
@@ -3466,18 +4490,21 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Int
           <ul>
@@ -3487,7 +4514,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Int
+          <ul>
+            <li>ADV: πώς, Γιατί</li>
+            <li>DET: τι, ποια</li>
+            <li>PRON: ίνταμπου</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Int
           <ul>
@@ -3496,7 +4534,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Int
           <ul>
@@ -3507,7 +4545,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Int
           <ul>
@@ -3519,7 +4557,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Int
+          <ul>
+            <li>ADV: pos, ti, Capòs, cosa</li>
+            <li>DET: ti, Ce</li>
+            <li>PRON: ti, tis</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Int
           <ul>
@@ -3531,7 +4580,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Int
           <ul>
@@ -3543,7 +4592,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -3553,13 +4602,23 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Neg
+          <ul>
+            <li>ADV: ποττέ</li>
+            <li>DET: καμιάν, κανέναν, τίποτε</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -3569,7 +4628,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -3579,7 +4641,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -3591,7 +4653,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Prs
           <ul>
@@ -3600,7 +4662,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Prs
+          <ul>
+            <li>DET: δικούς</li>
+            <li>PRON: μου, τους, σου, τον, του, μας, με, τα, εγώ, της</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Prs
           <ul>
@@ -3609,7 +4681,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Prs
           <ul>
@@ -3618,7 +4690,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Prs
           <ul>
@@ -3627,7 +4699,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Prs
+          <ul>
+            <li>PRON: tu, to, mu, i', ta, tin, tis, Ivò, o', su</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Prs
           <ul>
@@ -3636,7 +4717,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Prs
           <ul>
@@ -3647,7 +4728,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Rel
           <ul>
@@ -3659,7 +4740,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Rel
+          <ul>
+            <li>ADV: όπως, όσον</li>
+            <li>DET: ό,τι, όσα</li>
+            <li>PRON: που, οποίον, οποία, οποίοι, οποίος</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Rel
           <ul>
@@ -3669,7 +4761,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Rel
           <ul>
@@ -3678,7 +4770,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Rel
           <ul>
@@ -3689,7 +4781,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Rel
+          <ul>
+            <li>ADV: pu, sappu</li>
+            <li>PRON: pu, posses</li>
+            <li>SCONJ: ka</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Rel
           <ul>
@@ -3701,7 +4804,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Rel
           <ul>
@@ -3714,7 +4817,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Tot
           <ul>
@@ -3725,10 +4828,20 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Tot
+          <ul>
+            <li>ADV: πάντα, παντού</li>
+            <li>DET: κάθε, ούλλες, ούλλα</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Tot
           <ul>
@@ -3737,7 +4850,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Tot
           <ul>
@@ -3747,7 +4860,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Tot
+          <ul>
+            <li>DET: olo, ole</li>
+            <li>PRON: ole</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Tot
           <ul>
@@ -3757,7 +4880,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Tot
           <ul>
@@ -3768,39 +4891,49 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>NumType</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>NumType</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>NumType</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>NumType</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>NumType</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li><a>NumType</a></li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
+      <ul>
+        <li><a>NumType</a></li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li><a>NumType</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Card
           <ul>
@@ -3809,7 +4942,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Card
+          <ul>
+            <li>NUM: θκυο, ένας, 1, 3, μιαν, 10.000, 5, έναν, δυο, οκτώ</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Card
           <ul>
@@ -3818,7 +4960,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Card
           <ul>
@@ -3827,7 +4969,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Card
           <ul>
@@ -3836,7 +4978,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Card
+          <ul>
+            <li>NUM: dio, tria, dekattà, fta, dekottò, trì, trìs</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Card
           <ul>
@@ -3845,7 +4996,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Card
           <ul>
@@ -3856,16 +5007,25 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Frac
+          <ul>
+            <li>NUM: δυόμισι</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Frac
           <ul>
@@ -3875,18 +5035,30 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Frac
+          <ul>
+            <li>NUM: ìmiso</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Mult
           <ul>
@@ -3895,21 +5067,24 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Ord
           <ul>
@@ -3918,7 +5093,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Ord
+          <ul>
+            <li>ADV: τέταρτον</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Ord
           <ul>
@@ -3927,7 +5111,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Ord
           <ul>
@@ -3936,7 +5120,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Ord
           <ul>
@@ -3946,7 +5130,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Ord
+          <ul>
+            <li>ADJ: sekunḍa</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Ord
           <ul>
@@ -3955,7 +5148,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Ord
           <ul>
@@ -3967,7 +5160,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Sets
           <ul>
@@ -3976,7 +5169,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Sets
           <ul>
@@ -3986,7 +5182,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Sets
           <ul>
@@ -3995,7 +5191,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Sets
           <ul>
@@ -4004,47 +5200,60 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Poss</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Poss</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Poss</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Poss</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Poss</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li><a>Poss</a></li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
+      <ul>
+        <li><a>Poss</a></li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li><a>Poss</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -4053,7 +5262,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Yes
+          <ul>
+            <li>DET: δικούς</li>
+            <li>PRON: μου, τους, σου, μας, του, της, σας</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -4062,7 +5281,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -4071,7 +5290,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -4080,7 +5299,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Yes
+          <ul>
+            <li>PRON: tu, mu, ssu, 'tti, ma, mmu, tti</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -4089,7 +5317,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -4100,59 +5328,75 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Person</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Person</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Person</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Person</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Person</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li><a>Person</a></li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
+      <ul>
+        <li><a>Person</a></li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li><a>Person</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>1
           <ul>
@@ -4163,7 +5407,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>1
+          <ul>
+            <li>AUX-Fin: ήμουν, είμαι, ένι, είμαστεν, είχα, ’μασταν, ’μουν</li>
+            <li>PRON: μου, μας, με, εγώ, μ’, εμέναν, ’μέναν</li>
+            <li>VERB-Fin: πιστεύκω, έχω, έχουμεν, θθυμούμαι, πάω, ξέρω, ’θελα, ακούω, είχα, εθώρουν</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>1
           <ul>
@@ -4174,7 +5429,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>1
           <ul>
@@ -4185,7 +5440,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>1
           <ul>
@@ -4198,7 +5453,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>1
+          <ul>
+            <li>AUX-Fin: ìmesta</li>
+            <li>PRON: mu, Ivò, me, mmu, Evò, emi, ma, mas, mmas, mme</li>
+            <li>VERB-Fin: dio, dìome, eho, ipa, kamo, kanno, Cànnome, Escòrcefsa, Fìnnome, aforàdzo</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>1
           <ul>
@@ -4209,7 +5475,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>1
           <ul>
@@ -4224,7 +5490,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>2
           <ul>
@@ -4237,7 +5503,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>2
+          <ul>
+            <li>AUX-Fin: ήσουν, είσαι</li>
+            <li>PRON: σου, εσέναν, εσύ, σας</li>
+            <li>VERB-Fin: εκφράζεις, Θθυμάσαι, Πιάννεις, έβαλες, έκαμες, γοράσεις, είσ̆ες, εγοράσες, ελάλες, εμάθθαιννεν</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>2
           <ul>
@@ -4248,7 +5525,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>2
           <ul>
@@ -4258,7 +5535,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>2
           <ul>
@@ -4270,7 +5547,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>2
+          <ul>
+            <li>AUX-Fin: ise</li>
+            <li>PRON: su, sas, ssu, ‘sù, 'sù, esà, isù, s', sena</li>
+            <li>VERB-Fin: amo, pì’, Delàte, addhunettì’, a’, de, do, doghetè, dois, echis</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>2
           <ul>
@@ -4281,7 +5569,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>2
           <ul>
@@ -4295,7 +5583,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>3
           <ul>
@@ -4307,7 +5595,20 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>3
+          <ul>
+            <li>AUX: εν’, ήταν, είναι, είχαν</li>
+            <li>AUX-Fin: εν’, ήταν, είναι, είχαν</li>
+            <li>DET: το, τους</li>
+            <li>PRON: τους, τον, του, τα, της, το, τες, την</li>
+            <li>VERB-Fin: έσ̆ει, μπορεί, αρέσκει, έχουν, ήρτεν, διούν, πάει, Εκάθετουν, άρεσκεν, εκάμναμεν</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>3
           <ul>
@@ -4319,7 +5620,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>3
           <ul>
@@ -4332,7 +5633,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>3
           <ul>
@@ -4347,7 +5648,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>3
+          <ul>
+            <li>AUX-Fin: ion, Isa’, este, io', ìsane, Io’, Isa', en, iche, ione</li>
+            <li>PRON: tu, to, i', ta, tin, tis, o', ti, is, on</li>
+            <li>VERB-Fin: ipe, iche, pirte, àfike, ìpane, anćìgnase, apètane, icha', ipìrte, pianni</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>3
           <ul>
@@ -4359,7 +5671,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>3
           <ul>
@@ -4374,90 +5686,117 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-  </tr>
-  <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
-
-    </td>
-    <td width="16%" valign="top">
-
-    </td>
-    <td width="16%" valign="top">
-
-    </td>
-    <td width="16%" valign="top">
-
-    </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="12%" valign="top">
       <h3>Other Features</h3>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <h3>Other Features</h3>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <h3>Other Features</h3>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <h3>Other Features</h3>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <h3>Other Features</h3>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <h3>Other Features</h3>
+    </td>
+    <td width="12%" valign="top">
+      <h3>Other Features</h3>
+    </td>
+    <td width="12%" valign="top">
       <h3>Other Features</h3>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li><a>Abbr</a>
           <ul>
@@ -4471,7 +5810,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Abbr</a>
           <ul>
@@ -4486,7 +5825,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Abbr</a>
           <ul>
@@ -4501,15 +5840,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>ExtPos</a>
           <ul>
@@ -4553,7 +5895,32 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li><a>ExtPos</a>
+          <ul>
+            <li>ADP
+              <ul>
+                <li>ADV: Εδώ</li>
+              </ul>
+            </li>
+            <li>ADV
+              <ul>
+                <li>ADP: εχτός, κατά</li>
+                <li>ADV: Τωρά, πέραν</li>
+              </ul>
+            </li>
+            <li>SCONJ
+              <ul>
+                <li>ADP: για, που</li>
+                <li>VERB-Part: νοουμένου</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li><a>ExtPos</a>
           <ul>
@@ -4584,7 +5951,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>ExtPos</a>
           <ul>
@@ -4604,7 +5971,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>ExtPos</a>
           <ul>
@@ -4659,7 +6026,32 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li><a>ExtPos</a>
+          <ul>
+            <li>ADP
+              <ul>
+                <li>ADP: 'mpì, apànu, panu</li>
+              </ul>
+            </li>
+            <li>ADV
+              <ul>
+                <li>ADV: c’</li>
+                <li>NOUN: okkiu</li>
+              </ul>
+            </li>
+            <li>SCONJ
+              <ul>
+                <li>ADV: arte, sentsa</li>
+                <li>SCONJ: Satte, sekkòmu</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li><a>ExtPos</a>
           <ul>
@@ -4697,7 +6089,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>ExtPos</a>
           <ul>
@@ -4725,10 +6117,23 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li><a>Foreign</a>
+          <ul>
+            <li>Yes
+              <ul>
+                <li>X: Mario, Pokemon, Super</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li><a>Foreign</a>
           <ul>
@@ -4741,7 +6146,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Foreign</a>
           <ul>
@@ -4762,7 +6167,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Foreign</a>
           <ul>
@@ -4777,10 +6182,28 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li><a>Foreign</a>
+          <ul>
+            <li>Yes
+              <ul>
+                <li>ADJ: fflitta, sfortsata, skunsulàta</li>
+                <li>ADP: a</li>
+                <li>ADV: cosa</li>
+                <li>DET: Ce</li>
+                <li>NOUN: okkiu</li>
+                <li>VERB-Fin: fafsamu</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Foreign</a>
           <ul>
@@ -4795,19 +6218,25 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li><a>PunctType</a>
           <ul>
@@ -4855,18 +6284,21 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li><a>Typo</a>
           <ul>
@@ -4888,10 +6320,13 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li><a>Typo</a>
           <ul>
@@ -4919,12 +6354,50 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
+      <ul>
+        <li><a>VerbType</a>
+          <ul>
+            <li>Mod
+              <ul>
+                <li>AUX: ènna, ènn’</li>
+                <li>VERB: pianni, ste', Piaka’, stèane</li>
+                <li>VERB-Fin: pianni, Piaka’, stèane</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="12%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -4933,7 +6406,7 @@ udver: '2'
       <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: είμαι.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -4942,7 +6415,16 @@ udver: '2'
       <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: είμαι.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <h2>Syntax</h2>
+      
+      <h3>Auxiliary Verbs and Copula</h3>
+      
+      <ul>
+      <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: είμαι.</li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -4951,7 +6433,7 @@ udver: '2'
       <li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: είμαι, sein.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -4960,7 +6442,16 @@ udver: '2'
       <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: είμαι.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <h2>Syntax</h2>
+      
+      <h3>Auxiliary Verbs and Copula</h3>
+      
+      <ul>
+      <li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: ime, steo.</li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -4969,7 +6460,7 @@ udver: '2'
       <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: είμι.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -4980,39 +6471,49 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus uses 5 lemmas as auxiliaries (<a>aux</a>). Examples: να, θα, έχω, ας, θέλω.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+      <li>This corpus uses 5 lemmas as auxiliaries (<a>aux</a>). Examples: εννά, θα, έχω, να, ας.</li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus uses 4 lemmas as auxiliaries (<a>aux</a>). Examples: να, θα, έχω, ας.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus uses 4 lemmas as auxiliaries (<a>aux</a>). Examples: να, θα, έχω, ας.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus uses 4 lemmas as auxiliaries (<a>aux</a>). Examples: θα, έχω, να, ας.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+      <li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: ènna, echo.</li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus uses 4 lemmas as auxiliaries (<a>aux</a>). Examples: θα, να, έχου, ας.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus uses 3 lemmas as auxiliaries (<a>aux</a>). Examples: έχω, θα, να.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
@@ -5031,7 +6532,20 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
+      
+      Here we consider only relations between verbs (parent) and nouns or pronouns (child).
+      <ul>
+        <li><a>nsubj</a>
+          <ul>
+            <li>VERB-Fin--NOUN-Nom (23)</li>
+            <li>VERB-Fin--PRON-Nom (18)</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
@@ -5051,7 +6565,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
@@ -5073,7 +6587,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
@@ -5094,7 +6608,21 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
+      
+      Here we consider only relations between verbs (parent) and nouns or pronouns (child).
+      <ul>
+        <li><a>nsubj</a>
+          <ul>
+            <li>VERB-Conv--NOUN-Nom (1)</li>
+            <li>VERB-Fin--NOUN-Nom (28)</li>
+            <li>VERB-Fin--PRON-Nom (25)</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
@@ -5110,7 +6638,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
@@ -5128,7 +6656,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
@@ -5146,7 +6674,22 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li><a>obj</a>
+          <ul>
+            <li>VERB-Conv--NOUN-Acc (1)</li>
+            <li>VERB-Fin--NOUN-Acc (93)</li>
+            <li>VERB-Fin--NOUN-Gen (1)</li>
+            <li>VERB-Fin--NOUN-Voc (1)</li>
+            <li>VERB-Fin--PRON (1)</li>
+            <li>VERB-Fin--PRON-Acc (34)</li>
+            <li>VERB-Inf--PRON-Acc (2)</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
@@ -5166,7 +6709,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
@@ -5187,7 +6730,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
@@ -5207,7 +6750,19 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li><a>obj</a>
+          <ul>
+            <li>VERB-Conv--NOUN-Acc (1)</li>
+            <li>VERB-Conv--PRON-Acc (1)</li>
+            <li>VERB-Fin--NOUN-Acc (52)</li>
+            <li>VERB-Fin--PRON-Acc (47)</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
@@ -5225,7 +6780,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
@@ -5243,7 +6798,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>iobj</a>
           <ul>
@@ -5256,7 +6811,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li><a>iobj</a>
+          <ul>
+            <li>VERB-Fin--NOUN-Gen (1)</li>
+            <li>VERB-Fin--PRON-Acc (1)</li>
+            <li>VERB-Fin--PRON-Gen (15)</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li><a>iobj</a>
           <ul>
@@ -5268,7 +6834,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>iobj</a>
           <ul>
@@ -5279,7 +6845,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>iobj</a>
           <ul>
@@ -5290,7 +6856,19 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li><a>iobj</a>
+          <ul>
+            <li>VERB-Conv--PRON-Gen (1)</li>
+            <li>VERB-Fin--NOUN-Gen (1)</li>
+            <li>VERB-Fin--NOUN-Nom (1)</li>
+            <li>VERB-Fin--PRON-Gen (27)</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li><a>iobj</a>
           <ul>
@@ -5301,7 +6879,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>iobj</a>
           <ul>
@@ -5315,67 +6893,85 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-  </tr>
-  <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
-
-    </td>
-    <td width="16%" valign="top">
-
-    </td>
-    <td width="16%" valign="top">
-
-    </td>
-    <td width="16%" valign="top">
-
-    </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="12%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
@@ -5383,7 +6979,15 @@ udver: '2'
       <li>The following 5 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <h3>Relations Overview</h3>
+      
+      <ul>
+      <li>This corpus uses 3 relation subtypes: <a>acl:relcl</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a></li>
+      <li>The following 4 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>dep</a></li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
@@ -5391,7 +6995,7 @@ udver: '2'
       <li>The following 5 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
@@ -5399,7 +7003,7 @@ udver: '2'
       <li>The following 4 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>dep</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
@@ -5407,7 +7011,15 @@ udver: '2'
       <li>The following 5 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
+      <h3>Relations Overview</h3>
+      
+      <ul>
+      <li>This corpus uses 1 relation subtypes: <a>acl:relcl</a></li>
+      <li>The following 6 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>goeswith</a>, <a>dep</a></li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
@@ -5415,7 +7027,7 @@ udver: '2'
       <li>The following 3 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>dep</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="12%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>

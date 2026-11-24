@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (9; 100% of non-empty `Foreign`): <em>Ceguera, amor, amore, cadáver, difunto, disposición, gota, gratis, nicho</em>
-* `EMPTY` (98652): <em>any, anys, milions, pessetes, president, persones, dia, part, cas, grup</em>
+* `EMPTY` (98542): <em>any, anys, milions, pessetes, president, persones, dia, part, cas, grup</em>
 
 ### `ADP`
 
@@ -32,7 +32,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `ADP` tokens may have the following values of `Foreign`:
 
 * `Yes` (6; 100% of non-empty `Foreign`): <em>a, de, Por, en</em>
-* `EMPTY` (87972): <em>de, a, d', per, en, amb, entre, sobre, segons, des</em>
+* `EMPTY` (87969): <em>de, a, d', per, en, amb, entre, sobre, segons, des</em>
 
 ### `DET`
 
@@ -43,7 +43,7 @@ The most frequent other feature values with which `DET` and `Foreign` co-occurre
 `DET` tokens may have the following values of `Foreign`:
 
 * `Yes` (4; 100% of non-empty `Foreign`): <em>el, este, ningún, una</em>
-* `EMPTY` (87263): <em>el, la, l', els, les, un, una, aquest, seva, aquesta</em>
+* `EMPTY` (87274): <em>el, la, l', els, les, un, una, aquest, seva, aquesta</em>
 
 ### `VERB`
 
@@ -54,7 +54,7 @@ The most frequent other feature values with which `VERB` and `Foreign` co-occurr
 `VERB` tokens may have the following values of `Foreign`:
 
 * `Yes` (4; 100% of non-empty `Foreign`): <em>enterrar, queda, mató, suppose</em>
-* `EMPTY` (41864): <em>fer, té, ha, fa, fet, dir, tenir, donar, arribar, explicat</em>
+* `EMPTY` (41872): <em>fer, té, ha, fa, fet, dir, tenir, donar, arribar, explicat</em>
 
 ### `PRON`
 
@@ -65,7 +65,7 @@ The most frequent other feature values with which `PRON` and `Foreign` co-occurr
 `PRON` tokens may have the following values of `Foreign`:
 
 * `Yes` (3; 100% of non-empty `Foreign`): <em>I, Quién, él</em>
-* `EMPTY` (23452): <em>que, es, s', hi, se, un, li, tot, on, què</em>
+* `EMPTY` (23345): <em>que, es, s', hi, se, un, li, tot, on, què</em>
 
 ### `ADJ`
 
@@ -76,7 +76,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>prohibido</em>
-* `EMPTY` (30084): <em>passat, gran, primer, nou, primera, general, nova, catalana, espanyol, grans</em>
+* `EMPTY` (30100): <em>passat, gran, primer, nou, primera, general, nova, catalana, espanyol, grans</em>
 
 ### `ADV`
 
@@ -87,7 +87,7 @@ The most frequent other feature values with which `ADV` and `Foreign` co-occurre
 `ADV` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>más</em>
-* `EMPTY` (15629): <em>no, més, també, ja, després, ahir, molt, avui, només, ara</em>
+* `EMPTY` (15816): <em>no, més, també, ja, després, ahir, molt, avui, només, ara</em>
 
 ### `AUX`
 
@@ -98,7 +98,7 @@ The most frequent other feature values with which `AUX` and `Foreign` co-occurre
 `AUX` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>es</em>
-* `EMPTY` (22053): <em>va, ha, és, van, han, ser, estat, són, està, havia</em>
+* `EMPTY` (22054): <em>va, ha, és, van, han, ser, estat, són, està, havia</em>
 
 ### `CCONJ`
 
@@ -116,7 +116,7 @@ The most frequent other feature values with which `AUX` and `Foreign` co-occurre
 `SCONJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>Como</em>
-* `EMPTY` (10550): <em>que, com, perquè, si, quan, segons, mentre, on, perqu, què</em>
+* `EMPTY` (10552): <em>que, com, perquè, si, quan, segons, mentre, on, perqu, què</em>
 
 ## Relations with Agreement in `Foreign`
 

@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Slovenian-SST: POS Tags: `ADJ`
 
-There are 1463 `ADJ` lemmas (19%), 2802 `ADJ` types (20%) and 5272 `ADJ` tokens (5%).
+There are 1461 `ADJ` lemmas (19%), 2802 `ADJ` types (20%) and 5272 `ADJ` tokens (5%).
 Out of 16 observed tags, the rank of `ADJ` is: 2 in number of lemmas, 3 in number of types and 8 in number of tokens.
 
 The 10 most frequent `ADJ` lemmas: <em>drug, dober, sam, velik, prvi, lep, nov, glaven, različen, zadnji</em>
 
 The 10 most frequent `ADJ` types:  <em>drugi, dobro, prvi, drugo, zanimivo, dober, sam, sami, lepa, pomembno</em>
 
-The 10 most frequent ambiguous lemmas: <em>drug</em> (<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 191, <tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> 1), <em>dober</em> (<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 142, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 2), <em>lep</em> (<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 70, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 2), <em>slovenski</em> (<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 45, <tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt> 1), <em>cel</em> (<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 42, <tt><a href="sl_sst-pos-PART.html">PART</a></tt> 1), <em>dolg</em> (<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 23, <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 5), <em>visok</em> (<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 22, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 1), <em>pravi</em> (<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 19, <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> 1), <em>fajn</em> (<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 16, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 13), <em>super</em> (<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 14, <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 13)
+The 10 most frequent ambiguous lemmas: <em>drug</em> (<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 191, <tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> 1), <em>dober</em> (<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 144, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 2), <em>lep</em> (<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 70, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 2), <em>slovenski</em> (<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 45, <tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt> 1), <em>dolg</em> (<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 23, <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 5), <em>visok</em> (<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 22, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 1), <em>fajn</em> (<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 16, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 13), <em>super</em> (<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 14, <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 13), <em>peti</em> (<tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> 15, <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 10), <em>razen</em> (<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 7, <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 7, <tt><a href="sl_sst-pos-ADP.html">ADP</a></tt> 4)
 
 The 10 most frequent ambiguous types:  <em>dobro</em> (<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 73, <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 41, <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 1), <em>drugo</em> (<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 35, <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 1), <em>zanimivo</em> (<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 32, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 3), <em>pomembno</em> (<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 27, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 1), <em>druga</em> (<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 22, <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 1), <em>celo</em> (<tt><a href="sl_sst-pos-PART.html">PART</a></tt> 29, <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 17), <em>prvo</em> (<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 16, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 4), <em>fajn</em> (<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 15, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 13), <em>novo</em> (<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 13, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 2), <em>potrebno</em> (<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 13, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 2)
 
@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>dobro</em> (<tt><a href="sl_sst-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.915243 (the average of all parts of speech is 1.751794).
+The form / lemma ratio of `ADJ` is 1.917864 (the average of all parts of speech is 1.752917).
 
 The 1st highest number of forms (22) was observed with the lemma “velik”: <em>največja, največje, največji, največjih, največjo, velik, velika, velike, velikega, velikem, veliki, velikih, velikim, velikimi, veliko, večja, večje, večjem, večji, večjih, večjim, večjo</em>.
 

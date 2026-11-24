@@ -6,12 +6,12 @@ udver: '2'
 
 ## Treebank Statistics: UD_Abkhaz-AbNC: POS Tags: `PROPN`
 
-There are 85 `PROPN` lemmas (4%), 111 `PROPN` types (2%) and 345 `PROPN` tokens (3%).
-Out of 13 observed tags, the rank of `PROPN` is: 4 in number of lemmas, 4 in number of types and 6 in number of tokens.
+There are 105 `PROPN` lemmas (4%), 137 `PROPN` types (2%) and 412 `PROPN` tokens (3%).
+Out of 14 observed tags, the rank of `PROPN` is: 4 in number of lemmas, 4 in number of types and 6 in number of tokens.
 
-The 10 most frequent `PROPN` lemmas: <em>Леонид, Мкан, Наҳар, Ира, Ҷына-ҟәыбҷа, Буҭхузи, Заи́ра, Лакоба, Мариа, Аҧсны́</em>
+The 10 most frequent `PROPN` lemmas: <em>Леонид, Мкан, Наҳар, Аҧсны́, Ҧачулиа, Ира, Лакоба, Ҷына-ҟәыбҷа, Буҭхузи, Заи́ра</em>
 
-The 10 most frequent `PROPN` types:  <em>Леонид, Мкан, Наҳар, Ира, Ҷына-ҟәыбҷа, Буҭхузи, Заира, Лакоба, Мариа, Аҧсны</em>
+The 10 most frequent `PROPN` types:  <em>Леонид, Мкан, Наҳар, Аҧсны, Ҧачулиа, Ира, Лакоба, Ҷына-ҟәыбҷа, Буҭхузи, Заира</em>
 
 The 10 most frequent ambiguous lemmas: 
 
@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  <em>Аҧсуа</em> (<tt><a href="ab_abnc
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.305882 (the average of all parts of speech is 2.358593).
+The form / lemma ratio of `PROPN` is 1.304762 (the average of all parts of speech is 2.373399).
 
 The 1st highest number of forms (3) was observed with the lemma “Жакьаду”: <em>Жакьаду, Жакьадугьы, Жакьадуи</em>.
 
@@ -41,32 +41,32 @@ The 2nd highest number of forms (3) was observed with the lemma “Иура”: 
 
 The 3rd highest number of forms (3) was observed with the lemma “Мкан”: <em>Мкан, Мкангьы, Мкани</em>.
 
-`PROPN` occurs with 4 features: <tt><a href="ab_abnc-feat-NameType.html">NameType</a></tt> (345; 100% instances), <tt><a href="ab_abnc-feat-Number.html">Number</a></tt> (4; 1% instances), <tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt> (1; 0% instances), <tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt> (1; 0% instances)
+`PROPN` occurs with 5 features: <tt><a href="ab_abnc-feat-NameType.html">NameType</a></tt> (412; 100% instances), <tt><a href="ab_abnc-feat-Number.html">Number</a></tt> (5; 1% instances), <tt><a href="ab_abnc-feat-Case.html">Case</a></tt> (2; 0% instances), <tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt> (1; 0% instances), <tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt> (1; 0% instances)
 
-`PROPN` occurs with 6 feature-value pairs: `NameType=Geo`, `NameType=Oth`, `NameType=Prs`, `Number=Plur`, `Number[psor]=Sing`, `Person[psor]=1`
+`PROPN` occurs with 7 feature-value pairs: `Case=Ter`, `NameType=Geo`, `NameType=Oth`, `NameType=Prs`, `Number=Plur`, `Number[psor]=Sing`, `Person[psor]=1`
 
-`PROPN` occurs with 5 feature combinations.
-The most frequent feature combination is `NameType=Prs` (311 tokens).
-Examples: <em>Леонид, Мкан, Наҳар, Ира, Ҷына-ҟәыбҷа, Буҭхузи, Заира, Лакоба, Мариа, Аҧсуа</em>
+`PROPN` occurs with 6 feature combinations.
+The most frequent feature combination is `NameType=Prs` (331 tokens).
+Examples: <em>Леонид, Мкан, Наҳар, Ҧачулиа, Ира, Лакоба, Ҷына-ҟәыбҷа, Буҭхузи, Заира, Мариа</em>
 
 
 ## Relations
 
-`PROPN` nodes are attached to their parents using 19 different relations: <tt><a href="ab_abnc-dep-nsubj.html">nsubj</a></tt> (172; 50% instances), <tt><a href="ab_abnc-dep-nmod-poss.html">nmod:poss</a></tt> (32; 9% instances), <tt><a href="ab_abnc-dep-obl.html">obl</a></tt> (27; 8% instances), <tt><a href="ab_abnc-dep-flat-name.html">flat:name</a></tt> (19; 6% instances), <tt><a href="ab_abnc-dep-vocative.html">vocative</a></tt> (15; 4% instances), <tt><a href="ab_abnc-dep-appos.html">appos</a></tt> (14; 4% instances), <tt><a href="ab_abnc-dep-conj.html">conj</a></tt> (13; 4% instances), <tt><a href="ab_abnc-dep-iobj-lo.html">iobj:lo</a></tt> (12; 3% instances), <tt><a href="ab_abnc-dep-iobj.html">iobj</a></tt> (10; 3% instances), <tt><a href="ab_abnc-dep-obj.html">obj</a></tt> (9; 3% instances), <tt><a href="ab_abnc-dep-root.html">root</a></tt> (7; 2% instances), <tt><a href="ab_abnc-dep-iobj-ro.html">iobj:ro</a></tt> (3; 1% instances), <tt><a href="ab_abnc-dep-advcl-quote.html">advcl:quote</a></tt> (2; 1% instances), <tt><a href="ab_abnc-dep-amod.html">amod</a></tt> (2; 1% instances), <tt><a href="ab_abnc-dep-csubj.html">csubj</a></tt> (2; 1% instances), <tt><a href="ab_abnc-dep-iobj-po.html">iobj:po</a></tt> (2; 1% instances), <tt><a href="ab_abnc-dep-nmod.html">nmod</a></tt> (2; 1% instances), <tt><a href="ab_abnc-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="ab_abnc-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
+`PROPN` nodes are attached to their parents using 20 different relations: <tt><a href="ab_abnc-dep-nsubj.html">nsubj</a></tt> (185; 45% instances), <tt><a href="ab_abnc-dep-obl.html">obl</a></tt> (47; 11% instances), <tt><a href="ab_abnc-dep-nmod-poss.html">nmod:poss</a></tt> (41; 10% instances), <tt><a href="ab_abnc-dep-iobj-lo.html">iobj:lo</a></tt> (20; 5% instances), <tt><a href="ab_abnc-dep-flat-name.html">flat:name</a></tt> (19; 5% instances), <tt><a href="ab_abnc-dep-vocative.html">vocative</a></tt> (16; 4% instances), <tt><a href="ab_abnc-dep-conj.html">conj</a></tt> (15; 4% instances), <tt><a href="ab_abnc-dep-appos.html">appos</a></tt> (14; 3% instances), <tt><a href="ab_abnc-dep-iobj.html">iobj</a></tt> (13; 3% instances), <tt><a href="ab_abnc-dep-obj.html">obj</a></tt> (13; 3% instances), <tt><a href="ab_abnc-dep-root.html">root</a></tt> (8; 2% instances), <tt><a href="ab_abnc-dep-nmod.html">nmod</a></tt> (5; 1% instances), <tt><a href="ab_abnc-dep-amod.html">amod</a></tt> (3; 1% instances), <tt><a href="ab_abnc-dep-iobj-po.html">iobj:po</a></tt> (3; 1% instances), <tt><a href="ab_abnc-dep-iobj-ro.html">iobj:ro</a></tt> (3; 1% instances), <tt><a href="ab_abnc-dep-advcl-quote.html">advcl:quote</a></tt> (2; 0% instances), <tt><a href="ab_abnc-dep-csubj.html">csubj</a></tt> (2; 0% instances), <tt><a href="ab_abnc-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="ab_abnc-dep-parataxis.html">parataxis</a></tt> (1; 0% instances), <tt><a href="ab_abnc-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
 
-Parents of `PROPN` nodes belong to 8 different parts of speech: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (256; 74% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (48; 14% instances), <tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt> (27; 8% instances),  (7; 2% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="ab_abnc-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ab_abnc-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
+Parents of `PROPN` nodes belong to 8 different parts of speech: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (309; 75% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (56; 14% instances), <tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt> (31; 8% instances),  (8; 2% instances), <tt><a href="ab_abnc-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ab_abnc-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
 
-261 (76%) `PROPN` nodes are leaves.
+306 (74%) `PROPN` nodes are leaves.
 
-64 (19%) `PROPN` nodes have one child.
+80 (19%) `PROPN` nodes have one child.
 
-9 (3%) `PROPN` nodes have two children.
+15 (4%) `PROPN` nodes have two children.
 
 11 (3%) `PROPN` nodes have three or more children.
 
 The highest child degree of a `PROPN` node is 5.
 
-Children of `PROPN` nodes are attached using 13 different relations: <tt><a href="ab_abnc-dep-punct.html">punct</a></tt> (43; 36% instances), <tt><a href="ab_abnc-dep-conj.html">conj</a></tt> (21; 18% instances), <tt><a href="ab_abnc-dep-flat-name.html">flat:name</a></tt> (18; 15% instances), <tt><a href="ab_abnc-dep-case.html">case</a></tt> (14; 12% instances), <tt><a href="ab_abnc-dep-cop.html">cop</a></tt> (6; 5% instances), <tt><a href="ab_abnc-dep-acl-relcl.html">acl:relcl</a></tt> (5; 4% instances), <tt><a href="ab_abnc-dep-appos.html">appos</a></tt> (3; 3% instances), <tt><a href="ab_abnc-dep-mark.html">mark</a></tt> (3; 3% instances), <tt><a href="ab_abnc-dep-csubj.html">csubj</a></tt> (2; 2% instances), <tt><a href="ab_abnc-dep-nsubj.html">nsubj</a></tt> (2; 2% instances), <tt><a href="ab_abnc-dep-advmod.html">advmod</a></tt> (1; 1% instances), <tt><a href="ab_abnc-dep-amod.html">amod</a></tt> (1; 1% instances), <tt><a href="ab_abnc-dep-orphan.html">orphan</a></tt> (1; 1% instances)
+Children of `PROPN` nodes are attached using 15 different relations: <tt><a href="ab_abnc-dep-punct.html">punct</a></tt> (47; 32% instances), <tt><a href="ab_abnc-dep-conj.html">conj</a></tt> (23; 16% instances), <tt><a href="ab_abnc-dep-flat-name.html">flat:name</a></tt> (18; 12% instances), <tt><a href="ab_abnc-dep-case.html">case</a></tt> (17; 11% instances), <tt><a href="ab_abnc-dep-nmod.html">nmod</a></tt> (12; 8% instances), <tt><a href="ab_abnc-dep-cop.html">cop</a></tt> (6; 4% instances), <tt><a href="ab_abnc-dep-acl-relcl.html">acl:relcl</a></tt> (5; 3% instances), <tt><a href="ab_abnc-dep-appos.html">appos</a></tt> (4; 3% instances), <tt><a href="ab_abnc-dep-advmod.html">advmod</a></tt> (3; 2% instances), <tt><a href="ab_abnc-dep-amod.html">amod</a></tt> (3; 2% instances), <tt><a href="ab_abnc-dep-mark.html">mark</a></tt> (3; 2% instances), <tt><a href="ab_abnc-dep-csubj.html">csubj</a></tt> (2; 1% instances), <tt><a href="ab_abnc-dep-det.html">det</a></tt> (2; 1% instances), <tt><a href="ab_abnc-dep-nsubj.html">nsubj</a></tt> (2; 1% instances), <tt><a href="ab_abnc-dep-orphan.html">orphan</a></tt> (1; 1% instances)
 
-Children of `PROPN` nodes belong to 10 different parts of speech: <tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (43; 36% instances), <tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt> (27; 23% instances), <tt><a href="ab_abnc-pos-ADP.html">ADP</a></tt> (15; 13% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> (9; 8% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (8; 7% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (7; 6% instances), <tt><a href="ab_abnc-pos-AUX.html">AUX</a></tt> (6; 5% instances), <tt><a href="ab_abnc-pos-PART.html">PART</a></tt> (3; 3% instances), <tt><a href="ab_abnc-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (1; 1% instances)
+Children of `PROPN` nodes belong to 10 different parts of speech: <tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (47; 32% instances), <tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt> (31; 21% instances), <tt><a href="ab_abnc-pos-ADP.html">ADP</a></tt> (18; 12% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (18; 12% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> (11; 7% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (7; 5% instances), <tt><a href="ab_abnc-pos-AUX.html">AUX</a></tt> (6; 4% instances), <tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (4; 3% instances), <tt><a href="ab_abnc-pos-ADJ.html">ADJ</a></tt> (3; 2% instances), <tt><a href="ab_abnc-pos-PART.html">PART</a></tt> (3; 2% instances)
 

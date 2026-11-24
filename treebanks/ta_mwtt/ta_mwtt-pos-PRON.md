@@ -47,15 +47,15 @@ Examples: நான்
 
 Parents of `PRON` nodes belong to 6 different parts of speech: <tt><a href="ta_mwtt-pos-VERB.html">VERB</a></tt> (111; 65% instances), <tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt> (44; 26% instances), <tt><a href="ta_mwtt-pos-PRON.html">PRON</a></tt> (7; 4% instances),  (7; 4% instances), <tt><a href="ta_mwtt-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="ta_mwtt-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
 
-159 (93%) `PRON` nodes are leaves.
+157 (92%) `PRON` nodes are leaves.
 
-5 (3%) `PRON` nodes have one child.
+7 (4%) `PRON` nodes have one child.
 
 7 (4%) `PRON` nodes have two children.
 
 The highest child degree of a `PRON` node is 2.
 
-Children of `PRON` nodes are attached using 5 different relations: <tt><a href="ta_mwtt-dep-punct.html">punct</a></tt> (7; 37% instances), <tt><a href="ta_mwtt-dep-nsubj.html">nsubj</a></tt> (6; 32% instances), <tt><a href="ta_mwtt-dep-nmod.html">nmod</a></tt> (3; 16% instances), <tt><a href="ta_mwtt-dep-case.html">case</a></tt> (2; 11% instances), <tt><a href="ta_mwtt-dep-acl.html">acl</a></tt> (1; 5% instances)
+Children of `PRON` nodes are attached using 5 different relations: <tt><a href="ta_mwtt-dep-punct.html">punct</a></tt> (7; 33% instances), <tt><a href="ta_mwtt-dep-nsubj.html">nsubj</a></tt> (6; 29% instances), <tt><a href="ta_mwtt-dep-nmod.html">nmod</a></tt> (5; 24% instances), <tt><a href="ta_mwtt-dep-case.html">case</a></tt> (2; 10% instances), <tt><a href="ta_mwtt-dep-acl.html">acl</a></tt> (1; 5% instances)
 
-Children of `PRON` nodes belong to 5 different parts of speech: <tt><a href="ta_mwtt-pos-PRON.html">PRON</a></tt> (7; 37% instances), <tt><a href="ta_mwtt-pos-PUNCT.html">PUNCT</a></tt> (7; 37% instances), <tt><a href="ta_mwtt-pos-ADP.html">ADP</a></tt> (2; 11% instances), <tt><a href="ta_mwtt-pos-PROPN.html">PROPN</a></tt> (2; 11% instances), <tt><a href="ta_mwtt-pos-VERB.html">VERB</a></tt> (1; 5% instances)
+Children of `PRON` nodes belong to 6 different parts of speech: <tt><a href="ta_mwtt-pos-PRON.html">PRON</a></tt> (7; 33% instances), <tt><a href="ta_mwtt-pos-PUNCT.html">PUNCT</a></tt> (7; 33% instances), <tt><a href="ta_mwtt-pos-ADP.html">ADP</a></tt> (2; 10% instances), <tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt> (2; 10% instances), <tt><a href="ta_mwtt-pos-PROPN.html">PROPN</a></tt> (2; 10% instances), <tt><a href="ta_mwtt-pos-VERB.html">VERB</a></tt> (1; 5% instances)
 

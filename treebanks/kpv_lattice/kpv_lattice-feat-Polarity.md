@@ -45,7 +45,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (11; 100% of non-empty `Polarity`): <em>некор, некыдз, недыр, некӧн, неуна, ни</em>
-* `EMPTY` (877): <em>нин, жӧ, на, и, сӧмын, сэсся, зэв, кыдзи, пыр, бара</em>
+* `EMPTY` (880): <em>нин, жӧ, на, и, сӧмын, сэсся, зэв, кыдзи, пыр, бара</em>
 
 ### `DET`
 
@@ -67,7 +67,7 @@ The most frequent other feature values with which `ADJ` and `Polarity` co-occurr
 `ADJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (5; 100% of non-empty `Polarity`): <em>неыджыд, Неылысса, некутшӧм</em>
-* `EMPTY` (494): <em>ыджыд, кодь, бур, важ, мича, еджыд, ичӧтик, сэтшӧм, том, выль</em>
+* `EMPTY` (495): <em>ыджыд, кодь, бур, важ, мича, еджыд, ичӧтик, сэтшӧм, том, выль</em>
 
 ### `CCONJ`
 
@@ -87,5 +87,5 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 `VERB` tokens may have the following values of `Polarity`:
 
 * `Neg` (3; 100% of non-empty `Polarity`): <em>Абу, гӧгӧрвотӧмыс, ог</em>
-* `EMPTY` (1363): <em>воис, идралӧм, лои, лоны, шуны, видзӧдліс, идралӧмын, кыліс, мунны, мунӧ</em>
+* `EMPTY` (1367): <em>воис, идралӧм, лои, лоны, шуны, видзӧдліс, идралӧмын, кыліс, мунны, мунӧ</em>
 

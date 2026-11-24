@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2992 nodes (3%) are attached to their parents as `aux`.
+2994 nodes (3%) are attached to their parents as `aux`.
 
-2791 instances of `aux` (93%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.42312834224599.
+2793 instances of `aux` (93%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.42284569138277.
 
-The following 9 pairs of parts of speech are connected with `aux`: <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (2722; 91% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (101; 3% instances), <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt>-<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (87; 3% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (68; 2% instances), <tt><a href="sd_isra-pos-DET.html">DET</a></tt>-<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt>-<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="sd_isra-pos-ADV.html">ADV</a></tt>-<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="sd_isra-pos-NUM.html">NUM</a></tt>-<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="sd_isra-pos-ADP.html">ADP</a></tt>-<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `aux`: <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (2724; 91% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (101; 3% instances), <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt>-<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (87; 3% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (68; 2% instances), <tt><a href="sd_isra-pos-DET.html">DET</a></tt>-<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt>-<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="sd_isra-pos-ADV.html">ADV</a></tt>-<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="sd_isra-pos-NUM.html">NUM</a></tt>-<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="sd_isra-pos-ADP.html">ADP</a></tt>-<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

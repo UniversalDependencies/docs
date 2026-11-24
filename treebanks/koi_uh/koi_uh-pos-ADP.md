@@ -6,12 +6,12 @@ udver: '2'
 
 ## Treebank Statistics: UD_Komi_Permyak-UH: POS Tags: `ADP`
 
-There are 15 `ADP` lemmas (3%), 18 `ADP` types (3%) and 20 `ADP` tokens (2%).
+There are 15 `ADP` lemmas (3%), 16 `ADP` types (3%) and 20 `ADP` tokens (2%).
 Out of 15 observed tags, the rank of `ADP` is: 7 in number of lemmas, 8 in number of types and 10 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>бердӧ, бӧрсянь, вылын, вылӧ, дынӧ, бокын, бокӧ, гӧгӧр, дорӧ, кежӧ</em>
 
-The 10 most frequent `ADP` types:  <em>вылын, дынӧ, бöрсянь, бердас, бердӧ, бокын, бокӧ, бӧрсянь, вылö, вылӧ</em>
+The 10 most frequent `ADP` types:  <em>бӧрсянь, вылын, вылӧ, дынӧ, бердас, бердӧ, бокын, бокӧ, гӧгӧр, дорас</em>
 
 The 10 most frequent ambiguous lemmas: 
 
@@ -19,24 +19,24 @@ The 10 most frequent ambiguous types:  <em>вылын</em> (<tt><a href="koi_uh-
 
 
 * <em>вылын</em>
-  * <tt><a href="koi_uh-pos-ADP.html">ADP</a></tt> 2: <em>Ӧтпыр туй <b>вылын</b> аркмыліс интереснöй случай .</em>
-  * <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> 1: <em>Только ылын веськытлань , самӧй горизонт <b>вылын</b> , лэбтіcиcӧ кык ыджыт коричневӧй кымӧp .</em>
+  * <tt><a href="koi_uh-pos-ADP.html">ADP</a></tt> 2: <em>Ӧтпыр туй <b>вылын</b> аркмыліс интереснӧй случай .</em>
+  * <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> 1: <em>Только ылын веськытлань , самӧй горизонт <b>вылын</b> , лэбтісисӧ кык ыджыт коричневӧй кымӧр .</em>
 * <em>дынӧ</em>
-  * <tt><a href="koi_uh-pos-ADP.html">ADP</a></tt> 2: <em>Быд лaдopcянь Ворошилов <b>дынӧ</b> ӧні кoтӧpтіcӧ oтиp .</em>
+  * <tt><a href="koi_uh-pos-ADP.html">ADP</a></tt> 2: <em>Быд ладорсянь Ворошилов <b>дынӧ</b> ӧні котӧртісӧ отир .</em>
   * <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> 1: <em>Морт тэ , адзза , простӧй , честнӧй , а честнӧй <b>дынӧ</b> , может , и петас сія .</em>
 * <em>дорас</em>
   * <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> 2: <em>Пукси ойнас берег <b>дорас</b> , вуграся .</em>
-  * <tt><a href="koi_uh-pos-ADP.html">ADP</a></tt> 1: <em>Аскöттят сія велалас сьöд удж <b>дорас</b> .</em>
+  * <tt><a href="koi_uh-pos-ADP.html">ADP</a></tt> 1: <em>Аскӧттят сія велалас сьӧд удж <b>дорас</b> .</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.200000 (the average of all parts of speech is 1.260870).
+The form / lemma ratio of `ADP` is 1.066667 (the average of all parts of speech is 1.239604).
 
 The 1st highest number of forms (2) was observed with the lemma “бердӧ”: <em>бердас, бердӧ</em>.
 
-The 2nd highest number of forms (2) was observed with the lemma “бӧрсянь”: <em>бöрсянь, бӧрсянь</em>.
+The 2nd highest number of forms (1) was observed with the lemma “бокын”: <em>бокын</em>.
 
-The 3rd highest number of forms (2) was observed with the lemma “вылӧ”: <em>вылö, вылӧ</em>.
+The 3rd highest number of forms (1) was observed with the lemma “бокӧ”: <em>бокӧ</em>.
 
 `ADP` occurs with 6 features: <tt><a href="koi_uh-feat-AdpType.html">AdpType</a></tt> (17; 85% instances), <tt><a href="koi_uh-feat-Case.html">Case</a></tt> (17; 85% instances), <tt><a href="koi_uh-feat-Number.html">Number</a></tt> (16; 80% instances), <tt><a href="koi_uh-feat-AdvType.html">AdvType</a></tt> (12; 60% instances), <tt><a href="koi_uh-feat-Number-psor.html">Number[psor]</a></tt> (4; 20% instances), <tt><a href="koi_uh-feat-Person-psor.html">Person[psor]</a></tt> (4; 20% instances)
 
@@ -44,7 +44,7 @@ The 3rd highest number of forms (2) was observed with the lemma “вылӧ”: 
 
 `ADP` occurs with 9 feature combinations.
 The most frequent feature combination is `AdpType=Post|AdvType=Loc|Case=Ill|Number=Sing` (7 tokens).
-Examples: <em>дынӧ, бердӧ, бокӧ, вылö, вылӧ, одзӧ</em>
+Examples: <em>вылӧ, дынӧ, бердӧ, бокӧ, одзӧ</em>
 
 
 ## Relations

@@ -95,10 +95,10 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>VERB --[<tt><a href="sah_yktdt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (84; 77%),
 <tt>VERB --[<tt><a href="sah_yktdt-dep-obl.html">obl</a></tt>]--> NOUN</tt> (50; 70%),
 <tt>VERB --[<tt><a href="sah_yktdt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (48; 89%),
-<tt>NOUN --[<tt><a href="sah_yktdt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (29; 100%),
+<tt>NOUN --[<tt><a href="sah_yktdt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (30; 97%),
 <tt>VERB --[<tt><a href="sah_yktdt-dep-conj.html">conj</a></tt>]--> VERB</tt> (29; 94%),
 <tt>NOUN --[<tt><a href="sah_yktdt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (19; 90%),
 <tt>NOUN --[<tt><a href="sah_yktdt-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (13; 81%),
-<tt>NOUN --[<tt><a href="sah_yktdt-dep-obl.html">obl</a></tt>]--> NOUN</tt> (12; 92%),
+<tt>NOUN --[<tt><a href="sah_yktdt-dep-obl.html">obl</a></tt>]--> NOUN</tt> (11; 100%),
 <tt>VERB --[<tt><a href="sah_yktdt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (10; 100%).
 

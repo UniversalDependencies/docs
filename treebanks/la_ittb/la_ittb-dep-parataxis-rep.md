@@ -30,14 +30,14 @@ The following 2 pairs of parts of speech are connected with `parataxis:rep`: <tt
 6	qui	qui	PRON	F1|grn1|casA|gen1	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Rel	22	nsubj	_	_
 7	sanctificat	sanctifico	VERB	J3|modA|tem1|gen6	Aspect=Imp|Compound=Yes|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl:relcl	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
 8	,	,	PUNCT	Punc	_	10	punct	_	_
-9	scilicet	scilicet	CCONJ	O4	Compound=Yes|VerbForm=Fin	10	cc	_	_
+9	scilicet	scilicet	CCONJ	O4	Compound=Yes	10	cc	_	_
 10	christus	christus	NOUN	B1|grn1|casA|gen1	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing	6	conj:expl	_	SpaceAfter=No
 11	,	,	PUNCT	Punc	_	13	punct	_	_
 12	et	et	CCONJ	O4	_	13	cc	_	_
 13	qui	qui	PRON	F1|grn1|casJ|gen1	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Plur|PronType=Rel	6	conj	_	_
 14	sanctificantur	sanctifico	VERB	J3|modJ|tem1|gen9	Aspect=Imp|Compound=Yes|InflClass=LatA|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	13	acl:relcl	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
 15	,	,	PUNCT	Punc	_	17	punct	_	_
-16	scilicet	scilicet	CCONJ	O4	Compound=Yes|VerbForm=Fin	17	cc	_	_
+16	scilicet	scilicet	CCONJ	O4	Compound=Yes	17	cc	_	_
 17	fideles	fidelis	NOUN	C1|grn1|casJ|gen1	Case=Nom|Gender=Masc|InflClass=IndEurI|Number=Plur	13	conj:expl	_	_
 18	christi	christus	ADJ	B1|grn1|casB|gen1	Case=Gen|Gender=Masc|InflClass=IndEurO|Number=Sing	17	nmod	_	SpaceAfter=No
 19	,	,	PUNCT	Punc	_	6	punct	_	_
@@ -92,7 +92,7 @@ The following 2 pairs of parts of speech are connected with `parataxis:rep`: <tt
 35	carne	caro	NOUN	C1|grn1|casF|gen2	Case=Abl|Gender=Fem|InflClass=IndEurI|Number=Sing	29	obl	_	SpaceAfter=No
 36	,	,	PUNCT	Punc	_	39	punct	_	_
 37	eundem	idem	DET	F1|grn1|casD|gen1|vgr1	Case=Acc|Form=Emp|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Dem	39	nsubj	_	_
-38	uidelicet	uidelicet	CCONJ	O4|vgr1	Compound=Yes|VerbForm=Fin	39	cc	_	_
+38	uidelicet	uidelicet	CCONJ	O4|vgr1	Compound=Yes	39	cc	_	_
 39	deum	deus	NOUN	F1|grn1|casD|gen1	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Sing	29	conj:expl	_	_
 40	simul	simul	ADV	O4	_	39	advmod	_	_
 41	et	et	CCONJ	O4	_	42	cc	_	_

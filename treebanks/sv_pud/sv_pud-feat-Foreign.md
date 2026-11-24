@@ -69,7 +69,7 @@ The most frequent other feature values with which `PROPN` and `Foreign` co-occur
 `ADP` tokens may have the following values of `Foreign`:
 
 * `Yes` (9; 100% of non-empty `Foreign`): <em>of, On, Over, de, in</em>
-* `EMPTY` (2425): <em>i, av, för, på, till, med, från, under, vid, om</em>
+* `EMPTY` (2426): <em>i, av, för, på, till, med, från, under, vid, om</em>
 
 ### `VERB`
 
@@ -144,7 +144,7 @@ The most frequent other feature values with which `SCONJ` and `Foreign` co-occur
 `SCONJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>if</em>
-* `EMPTY` (383): <em>att, som, när, än, om, medan, då, eftersom, innan, fastän</em>
+* `EMPTY` (382): <em>att, som, när, än, om, medan, då, eftersom, innan, fastän</em>
 
 ## Relations with Agreement in `Foreign`
 

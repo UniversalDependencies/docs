@@ -30,7 +30,7 @@ The following 1 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 5	devant	devant	ADP	_	_	6	case	_	_
 6	Joeuf	Joeuf	PROPN	_	Gender=Masc|Number=Sing	4	obl:mod	_	Exponence[Gender]=Inherent
 7	par	par	ADP	_	_	8	case	_	_
-8	70-61	70-61	NUM	_	NumType=Card	4	obl:mod	_	SpaceAfter=No
+8	70-61	70-61	NUM	_	ExtPos=PROPN|NumType=Card	4	obl:mod	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~

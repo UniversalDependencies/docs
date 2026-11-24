@@ -146,7 +146,7 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="da_ddt-dep-det.html">det</a></tt>]--> DET</tt> (4574; 92%),
 <tt>NOUN --[<tt><a href="da_ddt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (3421; 78%),
-<tt>NOUN --[<tt><a href="da_ddt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2015; 62%),
+<tt>NOUN --[<tt><a href="da_ddt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2024; 62%),
 <tt>NOUN --[<tt><a href="da_ddt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (767; 78%),
 <tt>NOUN --[<tt><a href="da_ddt-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (420; 68%),
 <tt>ADJ --[<tt><a href="da_ddt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (264; 77%),

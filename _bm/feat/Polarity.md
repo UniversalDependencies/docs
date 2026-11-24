@@ -28,4 +28,4 @@ Main verbs are often also annotated with `Polarity=Pos`.
 
 * _Hali kelen <b>ma</b> den sòrò a ye._ “One has not got a child.”
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:12 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:58 CET -->

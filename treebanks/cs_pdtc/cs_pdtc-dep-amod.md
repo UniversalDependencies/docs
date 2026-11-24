@@ -56,7 +56,7 @@ The following 21 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 1 3 amod	color:blue
 1	Jedním	jeden	NUM	CnZS7----------	Case=Ins|Gender=Masc,Neut|Number=Sing|NumForm=Word|NumType=Card	0	root	0:root	Bridge=ln95049025e25<ln95049025e27:subset|Entity=(ln95049025e27--1|Functor=0:PAT|LNumValue=1
 2	z	z	ADP	RR--2----------	AdpType=Prep|Case=Gen	3	case	3:case	Entity=(ln95049025e25--2-gstype:spec|LId=z-1
-3	oslovených	oslovený	ADJ	AAMP2----1A----	Animacy=Anim|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	1	amod	1:amod	Entity=ln95049025e25)ln95049025e27)|Functor=1:DIR1|LDeriv=oslovit
+3	oslovených	oslovený	ADJ	AAMP2----1A----	Animacy=Anim|Aspect=Perf|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	1	amod	1:amod	Entity=ln95049025e25)ln95049025e27)|Functor=1:DIR1|LDeriv=oslovit
 4	byl	být	AUX	VpYS----R-AAI--	Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	1	cop	1:cop	Functor=1:PRED
 5	i	i	PART	TT-------------	_	6	advmod:emph	6:advmod:emph	LId=i-2|Functor=6:RHEM
 6	on	on	PRON	PEYS1--3-------	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	1:nsubj	Entity=(ln95049025e9--1-gstype:spec|Functor=1:ACT.cop|LId=on-1

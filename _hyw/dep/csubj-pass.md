@@ -35,4 +35,4 @@ A clausal passive subject is a clausal syntactic subject of a passive clause.
 9	չմնայ	մնալ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Neg|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	1	csubj:pass	_	Translit=čmnay|LTranslit=mnal|SpaceAfter=No
 10	:	:	PUNCT	_	Foreign=Yes	1	punct	_	Translit=.|LTranslit=.
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:57 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:37 CET -->

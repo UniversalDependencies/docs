@@ -166,7 +166,7 @@ The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="cpg_tuecl-dep-det.html">det</a></tt>]--> DET</tt> (495; 93%),
 <tt>NOUN --[<tt><a href="cpg_tuecl-dep-amod.html">amod</a></tt>]--> ADJ</tt> (43; 90%),
 <tt>NOUN --[<tt><a href="cpg_tuecl-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (37; 82%),
-<tt>NOUN --[<tt><a href="cpg_tuecl-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (30; 58%),
+<tt>NOUN --[<tt><a href="cpg_tuecl-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (32; 59%),
 <tt>NOUN --[<tt><a href="cpg_tuecl-dep-conj.html">conj</a></tt>]--> NOUN</tt> (26; 67%),
 <tt>NUM --[<tt><a href="cpg_tuecl-dep-det.html">det</a></tt>]--> DET</tt> (26; 100%),
 <tt>ADJ --[<tt><a href="cpg_tuecl-dep-det.html">det</a></tt>]--> DET</tt> (16; 94%),

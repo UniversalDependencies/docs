@@ -32,7 +32,7 @@ The most frequent other feature values with which `DET` and `Polarity` co-occurr
 `DET` tokens may have the following values of `Polarity`:
 
 * `Neg` (640; 100% of non-empty `Polarity`): <em>nulla, nullo, nullum, nullus, nullam, nulli, nullius, neutrum, neutra, neutro</em>
-* `EMPTY` (28042): <em>hoc, omnia, huiusmodi, ipsum, alia, aliqua, unum, suam, sua, haec</em>
+* `EMPTY` (28041): <em>hoc, omnia, huiusmodi, ipsum, alia, aliqua, unum, suam, sua, haec</em>
 
 ### `PRON`
 
@@ -74,5 +74,5 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (9; 100% of non-empty `Polarity`): <em>nihil, nil</em>
-* `EMPTY` (22671): <em>etiam, unde, sic, ergo, tamen, uero, ita, supra, magis, solum</em>
+* `EMPTY` (22672): <em>etiam, unde, sic, ergo, tamen, uero, ita, supra, magis, solum</em>
 

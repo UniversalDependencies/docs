@@ -47,4 +47,4 @@ speakers nor addressees.
 #### Examples
 
 * _one man <b>im</b> dey drive_ "one man, he was driving"
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:09 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:55 CET -->

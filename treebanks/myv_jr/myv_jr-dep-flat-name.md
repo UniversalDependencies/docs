@@ -22,15 +22,15 @@ The following 4 pairs of parts of speech are connected with `flat:name`: <tt><a 
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 flat:name	color:blue
-1	Эзь	а	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Polarity=Neg|Tense=Past|VerbForm=Fin|VerbType=Aux	2	aux	_	CGdephead=#1-&gt;0|CGdeprel=@FAUX|CGdephead=#1-&gt;0|CGdeprel=@FAUX|GTtags=Aux,Neg,Ind,Prt1,ScSg3
-2	маштово	маштовомс	VERB	V	Connegative=Yes	0	root	_	CGdephead=#2-&gt;1|CGdeprel=@IMV|CGdephead=#2-&gt;1|CGdeprel=@IMV|GTtags=Der/OvOms,V,ConNeg
-3	кочкамс	кочкамс	VERB	V	VerbForm=Inf	2	ccomp	_	CGdephead=#3-&gt;1|CGdeprel=@IMV|CGdephead=#3-&gt;1|CGdeprel=@IMV|GTtags=Inf
-4	Петя	Петя	PROPN	N	Case=Nom|Definite=Ind|Number=Sing	3	obj	_	CGdephead=#4-&gt;1|CGdeprel=@&lt;SUBJ|CGdephead=#4-&gt;1|CGdeprel=@&lt;SUBJ|GTtags=Prop,Sg,Nom,Indef
-5	Смиткак	Смит	PROPN	N	Case=Nom|Clitic=Add|Definite=Ind|Number=Sing	4	flat:name	_	CGdephead=#5-&gt;1|CGdeprel=@&lt;SUBJ|CGdephead=#5-&gt;1|CGdeprel=@&lt;SUBJ|GTtags=Prop,Sg,Nom,Indef,Clt/Add|SpaceAfter=No
-6	,	,	PUNCT	CLB	_	7	punct	_	CGdephead=#6-&gt;5|CGdeprel=@X|CGdephead=#6-&gt;5|CGdeprel=@X|GTtags=CLB
-7	Марья	Марья	PROPN	N	Case=Nom|Definite=Ind|Number=Sing	4	conj	_	CGdephead=#7-&gt;8|CGdeprel=@&gt;N|CGdephead=#7-&gt;8|CGdeprel=@&gt;N|GTtags=Prop,Sg,Nom,Indef
-8	Браунгак	Браун	PROPN	N	Case=Nom|Clitic=Add|Definite=Ind|Number=Sing	7	flat:name	_	CGdephead=#8-&gt;1|CGdeprel=@VOC|CGdephead=#8-&gt;1|CGdeprel=@VOC|GTtags=Prop,Sg,Nom,Indef,Clt/Add|SpaceAfter=No
-9	.	.	PUNCT	CLB	_	2	punct	_	CGdephead=#9-&gt;1|CGdeprel=@X|CGdephead=#9-&gt;1|CGdeprel=@X|GTtags=CLB
+1	Эзь	а	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Polarity=Neg|Tense=Past|VerbForm=Fin|VerbType=Aux	2	aux:neg	_	CGdephead=#1-&gt;0|CGdeprel=@FAUX|GTtags=Aux,Neg,Ind,Prt1,ScSg3
+2	маштово	маштовомс	VERB	V	Connegative=Yes	0	root	_	CGdephead=#2-&gt;1|CGdeprel=@IMV|GTtags=Der/OvOms,V,ConNeg
+3	кочкамс	кочкамс	VERB	V	VerbForm=Inf	2	ccomp	_	CGdephead=#3-&gt;1|CGdeprel=@IMV|GTtags=Inf
+4	Петя	Петя	PROPN	N	Case=Nom|Definite=Ind|Number=Sing	3	obj	_	CGdephead=#4-&gt;1|CGdeprel=@&lt;SUBJ|GTtags=Prop,Sg,Nom,Indef
+5	Смиткак	Смит	PROPN	N	Case=Nom|Clitic=Add|Definite=Ind|Number=Sing	4	flat:name	_	CGdephead=#5-&gt;1|CGdeprel=@&lt;SUBJ|GTtags=Prop,Sg,Nom,Indef,Clt/Add|SpaceAfter=No
+6	,	,	PUNCT	CLB	_	7	punct	_	CGdephead=#6-&gt;5|CGdeprel=@X|GTtags=CLB
+7	Марья	Марья	PROPN	N	Case=Nom|Definite=Ind|Number=Sing	4	conj	_	CGdephead=#7-&gt;8|CGdeprel=@&gt;N|GTtags=Prop,Sg,Nom,Indef
+8	Браунгак	Браун	PROPN	N	Case=Nom|Clitic=Add|Definite=Ind|Number=Sing	7	flat:name	_	CGdephead=#8-&gt;1|CGdeprel=@VOC|GTtags=Prop,Sg,Nom,Indef,Clt/Add|SpaceAfter=No
+9	.	.	PUNCT	CLB	_	2	punct	_	CGdephead=#9-&gt;1|CGdeprel=@X|GTtags=CLB
 
 ~~~
 

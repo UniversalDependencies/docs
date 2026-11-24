@@ -27,7 +27,7 @@ The following 1 pairs of parts of speech are connected with `compound`: <tt><a h
 3	správní	správní	ADJ	AAIS4----1A----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	4	amod	4:amod	_
 4	delikt	delikt	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obl	6:obl:za:acc	_
 5	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	6	expl:pass	6:expl:pass	_
-6	uloží	uložit	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+6	uloží	uložit	VERB	VB-S---3P-AA---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 7	pokuta	pokuta	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing	6	nsubj:pass	6:nsubj:pass	_
 8	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	9	case	9:case	LId=do-1
 9	výše	výše	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing	7	nmod	7:nmod:do:gen	_
@@ -102,7 +102,7 @@ The following 1 pairs of parts of speech are connected with `compound`: <tt><a h
 78	-	-	PUNCT	Z:-------------	_	81	punct	81:punct	SpaceAfter=No
 79	li	li	PART	TT-------------	_	81	mark	81:mark	_
 80	dále	dále	ADV	Db------------1	_	81	advmod	81:advmod	LId=dále-3
-81	stanoveno	stanovený	ADJ	VsNS---XX-AP---	Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	68	conj	65:dep|68:conj	LDeriv=stanovit
+81	stanoveno	stanovený	ADJ	VsNS---XX-AP---	Aspect=Perf|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	68	conj	65:dep|68:conj	LDeriv=stanovit
 82	jinak	jinak	ADV	Db-------------	_	81	advmod	81:advmod	SpaceAfter=No
 83	.	.	PUNCT	Z:-------------	_	6	punct	6:punct	_
 

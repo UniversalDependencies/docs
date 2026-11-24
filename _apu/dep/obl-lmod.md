@@ -13,4 +13,4 @@ obl:lmod(kaiãapuku, aapukutxiã)
 
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:33 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:39:06 CET -->

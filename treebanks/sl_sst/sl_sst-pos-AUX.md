@@ -61,7 +61,7 @@ The 10 most frequent ambiguous types:  <em>je</em> (<tt><a href="sl_sst-pos-AUX.
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 36.000000 (the average of all parts of speech is 1.751794).
+The form / lemma ratio of `AUX` is 36.000000 (the average of all parts of speech is 1.752917).
 
 The 1st highest number of forms (36) was observed with the lemma “biti”: <em>bi, bil, bila, bile, bili, bilo, biti, bo, bodi, bodita, bodite, bodo, bojo, bom, bomo, bosta, boste, bova, boš, je, ni, nisem, nisi, nismo, niso, nista, niste, nisva, sa, sem, si, smo, so, sta, ste, sva</em>.
 

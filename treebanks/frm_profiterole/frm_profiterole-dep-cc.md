@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `cc`: <tt><a href="frm_profiterole-dep-cc-nc.html">cc:nc</a></tt>.
 
-3517 nodes (3%) are attached to their parents as `cc`.
+4680 nodes (3%) are attached to their parents as `cc`.
 
-3514 instances of `cc` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.13278362240546.
+4677 instances of `cc` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.12286324786325.
 
-The following 15 pairs of parts of speech are connected with `cc`: <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-CCONJ.html">CCONJ</a></tt> (1676; 48% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-CCONJ.html">CCONJ</a></tt> (992; 28% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-CCONJ.html">CCONJ</a></tt> (324; 9% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-CCONJ.html">CCONJ</a></tt> (179; 5% instances), <tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="frm_profiterole-pos-CCONJ.html">CCONJ</a></tt> (170; 5% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-CCONJ.html">CCONJ</a></tt> (104; 3% instances), <tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt>-<tt><a href="frm_profiterole-pos-CCONJ.html">CCONJ</a></tt> (56; 2% instances), <tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt>-<tt><a href="frm_profiterole-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="frm_profiterole-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-DET.html">DET</a></tt>-<tt><a href="frm_profiterole-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `cc`: <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-CCONJ.html">CCONJ</a></tt> (2201; 47% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-CCONJ.html">CCONJ</a></tt> (1365; 29% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-CCONJ.html">CCONJ</a></tt> (435; 9% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-CCONJ.html">CCONJ</a></tt> (247; 5% instances), <tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="frm_profiterole-pos-CCONJ.html">CCONJ</a></tt> (216; 5% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-CCONJ.html">CCONJ</a></tt> (133; 3% instances), <tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt>-<tt><a href="frm_profiterole-pos-CCONJ.html">CCONJ</a></tt> (62; 1% instances), <tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="frm_profiterole-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt>-<tt><a href="frm_profiterole-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="frm_profiterole-pos-DET.html">DET</a></tt>-<tt><a href="frm_profiterole-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -62,22 +62,25 @@ The following 15 pairs of parts of speech are connected with `cc`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 cc	color:blue
-1	en	_	ADP	_	_	3	case	_	XmlId=w_anglure_4781
-2	celle	_	DET	_	_	3	det	_	XmlId=w_anglure_4782
-3	volte	_	NOUN	_	_	4	obl	_	XmlId=w_anglure_4783
-4	a	_	VERB	_	_	0	root	_	XmlId=w_anglure_4784
-5	tresnoble	_	ADJ	_	_	6	amod	_	XmlId=w_anglure_4785
-6	lieu	_	NOUN	_	_	4	obl	_	XmlId=w_anglure_4786
-7	et	_	CCONJ	_	_	8	cc	_	XmlId=w_anglure_4787
-8	devost	_	ADJ	_	_	5	conj	_	XmlId=w_anglure_4788
-9	et	_	CCONJ	_	_	10	cc	_	XmlId=w_anglure_4789
-10	tresdigne	_	ADJ	_	_	5	conj	_	XmlId=w_anglure_4790|SpaceAfter=No
-11	,	_	PUNCT	_	_	4	punct	_	XmlId=w_anglure_4791
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 12 cc	color:blue
+1	Si	_	ADV	_	_	2	advmod	_	XmlId=w_quenouilles1_5861
+2	dist	_	VERB	_	_	0	root	_	XmlId=w_quenouilles1_5862
+3	a	_	ADP	_	_	4	case	_	XmlId=w_quenouilles1_5863
+4	Berte	_	PROPN	_	_	2	obl	_	XmlId=w_quenouilles1_5864
+5	une	_	DET	_	_	7	det	_	XmlId=w_quenouilles1_5865
+6	sienne	_	ADJ	_	_	7	amod	_	XmlId=w_quenouilles1_5866
+7	amie	_	NOUN	_	_	2	nsubj	_	SpaceAfter=No|XmlId=w_quenouilles1_5867
+8	,	_	PUNCT	_	_	7	punct	_	XmlId=w_quenouilles1_5868
+9	vielle	_	ADJ	_	_	7	amod	_	SpaceAfter=No|XmlId=w_quenouilles1_5869
+10	,	_	PUNCT	_	_	11	punct	_	XmlId=w_quenouilles1_5870
+11	laide	_	ADJ	_	_	9	conj	_	XmlId=w_quenouilles1_5871
+12	et	_	CCONJ	_	_	13	cc	_	XmlId=w_quenouilles1_5872
+13	crepie	_	ADJ	_	_	9	conj	_	XmlId=w_quenouilles1_5873
+14	:	_	PUNCT	_	_	2	punct	_	XmlId=w_quenouilles1_5874
 
 ~~~
 

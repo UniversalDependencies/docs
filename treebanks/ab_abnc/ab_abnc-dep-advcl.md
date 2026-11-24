@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 6 language-specific subtypes of `advcl`: <tt><a href="ab_abnc-dep-advcl-compar.html">advcl:compar</a></tt>, <tt><a href="ab_abnc-dep-advcl-cond.html">advcl:cond</a></tt>, <tt><a href="ab_abnc-dep-advcl-conv.html">advcl:conv</a></tt>, <tt><a href="ab_abnc-dep-advcl-purp.html">advcl:purp</a></tt>, <tt><a href="ab_abnc-dep-advcl-quote.html">advcl:quote</a></tt>, <tt><a href="ab_abnc-dep-advcl-seq.html">advcl:seq</a></tt>.
 
-372 nodes (3%) are attached to their parents as `advcl`.
+413 nodes (3%) are attached to their parents as `advcl`.
 
-328 instances of `advcl` (88%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.35483870967742.
+362 instances of `advcl` (88%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.43825665859564.
 
-The following 8 pairs of parts of speech are connected with `advcl`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (347; 93% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (15; 4% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `advcl`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (388; 94% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (15; 4% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -25,7 +25,7 @@ The following 8 pairs of parts of speech are connected with `advcl`: <tt><a href
 # visual-style 3 7 advcl	color:blue
 1	аҵабырг	а-ҵа́бырг	NOUN	Noun_NH_Sg_Det	Animacy=Nhum|Definite=Def|Number=Sing	3	obj	_	LMSeg:а-ҵа́бырг
 2	мҩа	а́-мҩа	NOUN	Noun_NH_Sg	Animacy=Nhum|Number=Sing	3	xcomp	_	LMSeg:а́-мҩа
-3	иқәиҵарц	а́-қәҵара	VERB	V_Dyn_Tr_NonFin_Purp_S:3SgM_DO:3	Dyn=Yes|Gender[subj]=Masc|Mood=Prp|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|VerbForm=NonFin	0	root	_	LMSeg:а́-қә·ҵа-ра
+3	иқәиҵарц	а́-қәҵара	VERB	V_Dyn_Tr_NonFin_Purp_S:3SgM_DO:3_LO:3SgM	Dyn=Yes|Gender[lo]=Masc|Gender[subj]=Masc|Mood=Prp|Number[lo]=Sing|Number[subj]=Sing|Person[lo]=3|Person[obj]=3|Person[subj]=3|Subcat=Tran|VerbForm=NonFin	0	root	_	LMSeg:а́-қә·ҵа-ра
 4	ари	ари́	PRON	Pron_Dem_Prox_Sg	Number=Sing|PronType=Dem	5	det	_	LMSeg:ари́
 5	адгьыл	а́дгьыл	NOUN	Noun_NH_Sg_[Det]	Animacy=Nhum|Number=Sing	7	obl	_	LMSeg:а́дгьыл
 6	ахь	а́хь	ADP	PP_Poss:3SgNH	Gender[psor]=Neut|Number[psor]=Sing|Person[psor]=3	5	case	_	LMSeg:а́хь

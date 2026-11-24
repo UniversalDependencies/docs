@@ -29,7 +29,7 @@ The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a h
 5	ja	ja	CCONJ	Pcle,CC	_	6	cc	_	_
 6	imeytyy	imeytyä	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
 7	nopeasti	nopeasti	ADV	Adv	_	6	advmod	_	_
-8	.	.	PUNCT	Pun	_	7	punct	_	_
+8	.	.	PUNCT	Pun	_	3	punct	_	_
 
 ~~~
 
@@ -56,14 +56,14 @@ The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 7	fgColor:white
 # visual-style 7 8 goeswith	color:blue
 1	asioita	asia	NOUN	N,Pl,Par	Case=Par|Number=Plur	0	root	_	_
-2	,	,	PUNCT	Pun	_	1	punct	_	_
+2	,	,	PUNCT	Pun	_	4	punct	_	_
 3	jotka	joka	PRON	Pron,Rel,Pl,Nom	Case=Nom|Number=Plur|PronType=Rel	4	nsubj	_	_
 4	sivuavat	sivuta	VERB	V,Act,Ind,Pres,Pl3	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	acl	_	_
 5	päätoimea	päätoimi	NOUN	N,Sg,Par	Case=Par|Number=Sing	4	obj	_	_
 6	tai	tai	CCONJ	Pcle,CC	_	7	cc	_	_
 7	päin	päinvastoin	ADV	Adv	Typo=Yes	4	conj	_	_
 8	vastoin	_	X	Adv	_	7	goeswith	_	_
-9	.	.	PUNCT	Pun	_	7	punct	_	_
+9	.	.	PUNCT	Pun	_	1	punct	_	_
 
 ~~~
 

@@ -68,3 +68,4 @@ In non-passive causative or permissive constructions, an oblique causee takes [o
 8	maio	maio	NOUN	_	_	3	obl:arg	_	Gloss=husband
 
 ~~~
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:39:04 CET -->

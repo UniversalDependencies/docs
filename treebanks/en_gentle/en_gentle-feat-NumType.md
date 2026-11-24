@@ -36,7 +36,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (60; 100% of non-empty `NumType`): <em>first, third, second, fifth, sixth, 11th, 14th, 1st, 24th, 25th</em>
-* `EMPTY` (1168): <em>next, other, old, open, more, straight, chronic, right, transitive, final</em>
+* `EMPTY` (1166): <em>next, other, old, open, more, straight, chronic, right, transitive, final</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (14) occur only with one value of `NumType`.
 
@@ -62,7 +62,7 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 `NOUN` tokens may have the following values of `NumType`:
 
 * `Frac` (1; 100% of non-empty `NumType`): <em>half</em>
-* `EMPTY` (3774): <em>x, week, T, project, S, school, y, mg, time, party</em>
+* `EMPTY` (3770): <em>x, week, T, project, S, school, y, mg, time, party</em>
 
 ## Relations with Agreement in `NumType`
 

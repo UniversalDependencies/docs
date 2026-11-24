@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3640 nodes (1%) are attached to their parents as `nummod`.
+3513 nodes (1%) are attached to their parents as `nummod`.
 
-3634 instances of `nummod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.0956043956044.
+3513 instances of `nummod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.0979220039852.
 
-The following 7 pairs of parts of speech are connected with `nummod`: <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (3171; 87% instances), <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (402; 11% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (39; 1% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (15; 0% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `nummod`: <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (3077; 88% instances), <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (399; 11% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (30; 1% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -63,19 +63,15 @@ The following 7 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 7 nummod	color:blue
-1	Le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	wordform=le
-2	restaurant	restaurant	NOUN	_	Gender=Masc|Number=Sing	4	nsubj:pass	_	Exponence[Gender]=Inherent
-3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	4	expl:pv	_	_
-4	trouve	trouver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-5	à	à	ADP	_	_	8	case	_	_
-6	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	289	289	NUM	_	Number=Sing	8	nummod	_	Exponence[Number]=Inherent
-8	Boul	Boul	PROPN	_	Gender=Masc|Number=Sing	4	obl:arg	_	Exponence[Gender]=Inherent
-9	Curé	curé	NOUN	_	Gender=Masc|Number=Sing	8	appos	_	Exponence[Gender]=Inherent|wordform=curé
-10	Labelle	Labelle	PROPN	_	_	9	appos	_	_
-11	SAINTE	SAINTE	PROPN	_	_	9	nmod	_	_
-12	ROSE	ROSE	PROPN	_	_	11	flat:name	_	SpaceAfter=No
-13	.	.	PUNCT	_	_	4	punct	_	_
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	wordform=la
+2	compagnie	compagnie	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	Exponence[Gender]=Inherent
+3	attend	attendre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	livraison	livraison	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	Exponence[Gender]=Inherent
+6	de	de	ADP	_	_	8	case	_	_
+7	5	5	NUM	_	Number=Plur	8	nummod	_	Exponence[Number]=Inherent
+8	Boeing	Boeing	PROPN	_	Number=Plur	5	nmod	_	_
+9	787	787	PROPN	_	_	8	appos	_	_
 
 ~~~
 

@@ -26,7 +26,7 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 1	Le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	mobilier	mobilier	NOUN	_	Gender=Masc|Number=Sing	4	nsubj:pass	_	Exponence[Gender]=Inherent
 3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
-4	subventionné	subventionner	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	Tense[denom]=Past
+4	subventionné	subventionner	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	Status[Tense]=Denom
 5	à	à	ADP	_	_	7	case	_	_
 6	50	50	NUM	_	Number=Plur|NumType=Card	7	nummod	_	Exponence[Number]=Inherent|SpaceAfter=No
 7	%	%	SYM	_	ExtPos=NOUN|Number=Plur	4	obl:mod	_	_
@@ -49,7 +49,7 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
 3	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	bénéfice	bénéfice	NOUN	_	Gender=Masc|Number=Sing	1	nsubj	_	Exponence[Gender]=Inherent
-5	démontré	démontrer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	4	acl	_	Tense[denom]=Past
+5	démontré	démontrer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	acl	_	Status[Tense]=Denom
 6	par	par	ADP	_	_	7	case	_	_
 7	Aclasta	Aclasta	PROPN	_	_	5	obl:agent	_	_
 8	à	à	ADP	_	_	10	case	_	_
@@ -74,7 +74,7 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 3	montait	monter	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	acl:relcl	_	_
 4	devait	devoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 5	être	être	AUX	_	VerbForm=Inf	6	aux:pass	_	Subject=SubjRaising
-6	fauché	faucher	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	4	xcomp	_	Tense[denom]=Past
+6	fauché	faucher	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	xcomp	_	Status[Tense]=Denom
 7	littéralement	littéralement	ADV	_	_	6	advmod	_	_
 8	soit	soit	CCONJ	_	_	11	cc	_	_
 9	par	par	ADP	_	_	11	case	_	_

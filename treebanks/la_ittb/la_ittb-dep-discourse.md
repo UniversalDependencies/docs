@@ -61,7 +61,7 @@ The following 19 pairs of parts of speech are connected with `discourse`: <tt><a
 2	igitur	igitur	PART	O4	_	5	discourse	_	_
 3	per	per	ADP	S4	_	4	case	_	_
 4	se	sui	PRON	F1|grn1|casD|gen3	Case=Acc|InflClass=LatAnom|Person=3|PronType=Prs|Reflex=Yes	5	obl	_	_
-5	notum	notus	ADJ	L2|modM|tem4|grp1|casA|gen3	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|VerbForm=Part	0	root	_	TraditionalMood=Participium|TraditionalTense=Perfectum
+5	notum	notus	ADJ	L2|modM|tem4|grp1|casA|gen3	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	0	root	_	TraditionalMood=Participium|TraditionalTense=Perfectum
 6	deum	deus	NOUN	F1|grn1|casD|gen1	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Sing	7	nsubj	_	_
 7	esse	sum	AUX	N3|modH|tem1	Aspect=Imp|InflClass=LatAnom|VerbForm=Inf	5	csubj	_	SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Praesens
 8	.	.	PUNCT	Punc	_	5	punct	_	_

@@ -11,10 +11,10 @@ There are 1 language-specific subtypes of `acl`: <tt><a href="lij_glt-dep-acl-re
 
 35 nodes (1%) are attached to their parents as `acl`.
 
-34 instances of `acl` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.62857142857143.
+35 instances of `acl` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.4.
 
-The following 4 pairs of parts of speech are connected with `acl`: <tt><a href="lij_glt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lij_glt-pos-VERB.html">VERB</a></tt> (25; 71% instances), <tt><a href="lij_glt-pos-PRON.html">PRON</a></tt>-<tt><a href="lij_glt-pos-VERB.html">VERB</a></tt> (7; 20% instances), <tt><a href="lij_glt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lij_glt-pos-VERB.html">VERB</a></tt> (2; 6% instances), <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-VERB.html">VERB</a></tt> (1; 3% instances).
+The following 4 pairs of parts of speech are connected with `acl`: <tt><a href="lij_glt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lij_glt-pos-VERB.html">VERB</a></tt> (26; 74% instances), <tt><a href="lij_glt-pos-PRON.html">PRON</a></tt>-<tt><a href="lij_glt-pos-VERB.html">VERB</a></tt> (6; 17% instances), <tt><a href="lij_glt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lij_glt-pos-VERB.html">VERB</a></tt> (2; 6% instances), <tt><a href="lij_glt-pos-ADV.html">ADV</a></tt>-<tt><a href="lij_glt-pos-VERB.html">VERB</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -25,7 +25,7 @@ The following 4 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 2 4 acl	color:blue
 1	Ò	avei	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	coæ	coæ	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
-3	d'	de	ADP	_	_	4	case	_	SpaceAfter=No
+3	d'	de	ADP	_	_	4	mark	_	SpaceAfter=No
 4	assazzâ	assazzâ	VERB	_	Tense=Pres|VerbForm=Inf	2	acl	_	_
 5	e	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
 6	speçialitæ	speçialitæ	NOUN	_	Gender=Fem|Number=Plur	4	obj	_	_
@@ -38,30 +38,18 @@ The following 4 pairs of parts of speech are connected with `acl`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 18	bgColor:blue
-# visual-style 18	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 18 acl	color:blue
-1	I	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
-2	restoranti	restorante	NOUN	_	Gender=Masc|Number=Plur	7	nsubj	_	_
-3	de	de	ADP	_	_	5	case	_	_
-4	sta	sto	DET	_	Gender=Fem|Number=Sing|PronType=Dem	5	det	_	_
-5	çittæ	çittæ	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
-6	me	me	PRON	_	Number=Sing|Person=1|PronType=Prs	7	iobj	_	_
-7	pan	pai	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-8	davei	davei	ADV	_	_	7	advmod	_	_
-9	tutti	tutto	DET	_	Gender=Masc|Number=Plur|PronType=Ind	10	det	_	_
-10	pægi	pægio	ADJ	_	Gender=Masc|Number=Plur	7	xcomp	_	SpaceAfter=No
-11	,	,	PUNCT	_	_	12	punct	_	_
-12	tutti	tutto	PRON	_	Gender=Masc|Number=Plur|PronType=Tot	10	conj	_	_
-13	che	che	SCONJ	_	_	18	mark	_	_
-14	ciù	ciù	ADV	_	_	15	advmod	_	_
-15	belli	bello	ADJ	_	Gender=Masc|Number=Plur	18	obl	_	_
-16	no	no	ADV	_	_	18	advmod	_	_
-17	se	se	PRON	_	Person=3|PronType=Prs	18	expl:impers	_	_
-18	peu	poei	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl	_	SpaceAfter=No
-19	.	.	PUNCT	_	_	7	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 6 acl	color:blue
+1	Gh'	ghe	PRON	_	PronType=Dem	2	expl	_	SpaceAfter=No
+2	é	ëse	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ciù	ciù	ADV	_	_	2	advmod	_	_
+4	ninte	ninte	PRON	_	Number=Sing|PronType=Neg	2	nsubj	_	_
+5	da	da	ADP	_	_	6	mark	_	_
+6	fâ	fâ	VERB	_	Tense=Pres|VerbForm=Inf	4	acl	_	SpaceAfter=No
+7	?	?	PUNCT	_	_	2	punct	_	_
 
 ~~~
 
@@ -95,7 +83,7 @@ The following 4 pairs of parts of speech are connected with `acl`: <tt><a href="
 21	avventue	avventua	NOUN	_	Gender=Fem|Number=Plur	17	obl	_	_
 22	da	da	ADP	_	_	24	case	_	_
 23	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
-24	cagnetto	can	NOUN	_	Gender=Masc|Number=Sing	17	obl	_	_
+24	cagnetto	cagnetto	NOUN	_	Degree=Dim|Gender=Masc|Number=Sing	17	obl:agent	_	_
 25	Milou	Milou	PROPN	_	Gender=Masc|Number=Sing	24	appos	_	SpaceAfter=No
 26	.	.	PUNCT	_	_	7	punct	_	_
 

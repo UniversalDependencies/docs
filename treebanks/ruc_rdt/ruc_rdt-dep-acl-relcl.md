@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ruc_rdt-dep-acl.html">acl</a></tt>.
 
-95 nodes (2%) are attached to their parents as `acl:relcl`.
+170 nodes (2%) are attached to their parents as `acl:relcl`.
 
-94 instances of `acl:relcl` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.67368421052632.
+169 instances of `acl:relcl` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.99411764705882.
 
-The following 12 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt> (47; 49% instances), <tt><a href="ruc_rdt-pos-PRON.html">PRON</a></tt>-<tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt> (32; 34% instances), <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt> (4; 4% instances), <tt><a href="ruc_rdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt> (3; 3% instances), <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="ruc_rdt-pos-DET.html">DET</a></tt>-<tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="ruc_rdt-pos-NUM.html">NUM</a></tt>-<tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ruc_rdt-pos-PRON.html">PRON</a></tt>-<tt><a href="ruc_rdt-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="ruc_rdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ruc_rdt-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt>-<tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 16 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt> (94; 55% instances), <tt><a href="ruc_rdt-pos-PRON.html">PRON</a></tt>-<tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt> (37; 22% instances), <tt><a href="ruc_rdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt> (10; 6% instances), <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt> (8; 5% instances), <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-NUM.html">NUM</a></tt> (4; 2% instances), <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-ADV.html">ADV</a></tt> (3; 2% instances), <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-AUX.html">AUX</a></tt> (3; 2% instances), <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="ruc_rdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="ruc_rdt-pos-DET.html">DET</a></tt>-<tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="ruc_rdt-pos-NUM.html">NUM</a></tt>-<tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ruc_rdt-pos-PRON.html">PRON</a></tt>-<tt><a href="ruc_rdt-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="ruc_rdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ruc_rdt-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt>-<tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -50,20 +50,21 @@ The following 12 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 6 acl:relcl	color:blue
-1	Nga	nga	SCONJ	_	_	2	mark	2:mark	Gloss=while|MSeg=nga
-2	nkwendya	endya	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=1sgS-PROG-want-FV|MSeg=n-ku-endy-a
-3	kumanya	manya	VERB	_	VerbForm=Inf	2	xcomp	2:xcomp	Gloss=INF-know-FV|MSeg=ku-many-a
-4	ekintu	kintu	NOUN	_	NounClass=Bantu7|Referent=Yes	3	obj	3:obj|6:nsubj	Gloss=AUG-7.thing|MSeg=e-kintu
-5	ekiri	li	AUX	REL-COP	NounClass=Bantu7|Person=3|Referent=Yes|Tense=Pres	6	cop	6:cop	Gloss=S.REL-7S-COP|MSeg=e-ki-li
-6	omunda	munda	NOUN	_	NounClass=Bantu3|Referent=Yes	4	acl:relcl	4:acl:relcl	Gloss=AUG-3.inside|MSeg=o-munda
-7	wa	a	PART	GEN	NounClass=Bantu16	8	case	8:case	Gloss=16.GEN|MSeg=wa
-8	seefu	seefu	NOUN	_	NounClass=Bantu9	6	nmod	6:nmod	Gloss=9.safe|MSeg=seefu|SpaceAfter=No
-9	.	.	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+# visual-style 4 8 acl:relcl	color:blue
+1	Elphas	Elphas	PROPN	_	NounClass=Bantu1	3	nsubj	3:nsubj	Gloss=1.Elphas|MSeg=Elphas
+2	Moni	Moni	PROPN	_	NounClass=Bantu1	1	flat:name	1:flat:name	Gloss=1.Moni|MSeg=Moni
+3	musaiza	musaiza	NOUN	_	NounClass=Bantu1	4	nmod	4:nmod	Gloss=1.man|MSeg=musaiza
+4	Muirifuma	Muirifuma	PROPN	_	NounClass=Bantu1	0	root	0:root	Gloss=1.Muirifuma|MSeg=Muirifuma
+5	(	(	PUNCT	_	_	6	punct	6:punct	SpaceAfter=No
+6	Mufuma	Mufuma	PROPN	_	NounClass=Bantu1	4	appos	4:appos	Gloss=1.Mufuma|MSeg=Mufuma|SpaceAfter=No
+7	)	)	PUNCT	_	_	6	punct	6:punct	_
+8	eyeizira	eizira	VERB	REL	Mood=Ind|NounClass=Bantu1|Person=3|Referent=Yes|Tense=Pres|VerbForm=Fin	4	acl:relcl	4:acl:relcl	Gloss=S.REL-1S-belongs_to_totem-FV|MSeg=e-a-eizir-a
+9	oMbogo	mbogo	NOUN	_	NounClass=Bantu1|Referent=Yes	8	obj	8:obj	Gloss=AUG-1.buffalo|MSeg=o-mbogo|SpaceAfter=No
+10	.	.	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
 
 ~~~
 

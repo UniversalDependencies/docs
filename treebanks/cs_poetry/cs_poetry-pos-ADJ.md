@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>marně</em> (<tt><a href="cs_poetry-p
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.337696 (the average of all parts of speech is 1.401136).
+The form / lemma ratio of `ADJ` is 1.337696 (the average of all parts of speech is 1.401343).
 
 The 1st highest number of forms (5) was observed with the lemma “jiný”: <em>jiné, jiném, jiní, jiný, jiným</em>.
 
@@ -32,11 +32,11 @@ The 2nd highest number of forms (5) was observed with the lemma “tichý”: <e
 
 The 3rd highest number of forms (5) was observed with the lemma “těžký”: <em>těžkou, těžká, těžké, těžkém, těžký</em>.
 
-`ADJ` occurs with 17 features: <tt><a href="cs_poetry-feat-Gender.html">Gender</a></tt> (595; 100% instances), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt> (595; 100% instances), <tt><a href="cs_poetry-feat-Polarity.html">Polarity</a></tt> (589; 99% instances), <tt><a href="cs_poetry-feat-Degree.html">Degree</a></tt> (571; 96% instances), <tt><a href="cs_poetry-feat-Case.html">Case</a></tt> (548; 92% instances), <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt> (230; 39% instances), <tt><a href="cs_poetry-feat-VerbForm.html">VerbForm</a></tt> (103; 17% instances), <tt><a href="cs_poetry-feat-Voice.html">Voice</a></tt> (102; 17% instances), <tt><a href="cs_poetry-feat-Aspect.html">Aspect</a></tt> (62; 10% instances), <tt><a href="cs_poetry-feat-Variant.html">Variant</a></tt> (52; 9% instances), <tt><a href="cs_poetry-feat-Tense.html">Tense</a></tt> (25; 4% instances), <tt><a href="cs_poetry-feat-Style.html">Style</a></tt> (13; 2% instances), <tt><a href="cs_poetry-feat-NumType.html">NumType</a></tt> (6; 1% instances), <tt><a href="cs_poetry-feat-NameType.html">NameType</a></tt> (3; 1% instances), <tt><a href="cs_poetry-feat-Gender-psor.html">Gender[psor]</a></tt> (1; 0% instances), <tt><a href="cs_poetry-feat-Poss.html">Poss</a></tt> (1; 0% instances), <tt><a href="cs_poetry-feat-Typo.html">Typo</a></tt> (1; 0% instances)
+`ADJ` occurs with 17 features: <tt><a href="cs_poetry-feat-Gender.html">Gender</a></tt> (595; 100% instances), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt> (595; 100% instances), <tt><a href="cs_poetry-feat-Polarity.html">Polarity</a></tt> (589; 99% instances), <tt><a href="cs_poetry-feat-Degree.html">Degree</a></tt> (571; 96% instances), <tt><a href="cs_poetry-feat-Case.html">Case</a></tt> (548; 92% instances), <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt> (230; 39% instances), <tt><a href="cs_poetry-feat-VerbForm.html">VerbForm</a></tt> (103; 17% instances), <tt><a href="cs_poetry-feat-Voice.html">Voice</a></tt> (102; 17% instances), <tt><a href="cs_poetry-feat-Aspect.html">Aspect</a></tt> (75; 13% instances), <tt><a href="cs_poetry-feat-Variant.html">Variant</a></tt> (52; 9% instances), <tt><a href="cs_poetry-feat-Tense.html">Tense</a></tt> (25; 4% instances), <tt><a href="cs_poetry-feat-Style.html">Style</a></tt> (13; 2% instances), <tt><a href="cs_poetry-feat-NumType.html">NumType</a></tt> (6; 1% instances), <tt><a href="cs_poetry-feat-NameType.html">NameType</a></tt> (3; 1% instances), <tt><a href="cs_poetry-feat-Gender-psor.html">Gender[psor]</a></tt> (1; 0% instances), <tt><a href="cs_poetry-feat-Poss.html">Poss</a></tt> (1; 0% instances), <tt><a href="cs_poetry-feat-Typo.html">Typo</a></tt> (1; 0% instances)
 
 `ADJ` occurs with 37 feature-value pairs: `Animacy=Anim`, `Animacy=Inan`, `Aspect=Imp`, `Aspect=Perf`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Case=Voc`, `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Gender[psor]=Fem`, `NameType=Giv`, `NameType=Sur`, `NumType=Ord`, `Number=Dual`, `Number=Plur`, `Number=Sing`, `Polarity=Neg`, `Polarity=Pos`, `Poss=Yes`, `Style=Expr`, `Style=Rare`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `Typo=Yes`, `Variant=Short`, `VerbForm=Part`, `Voice=Act`, `Voice=Pass`
 
-`ADJ` occurs with 154 feature combinations.
+`ADJ` occurs with 153 feature combinations.
 The most frequent feature combination is `Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos` (44 tokens).
 Examples: <em>celý, plný, Pozdní, bílý, zardělý, čaroskvělý, Chvějivý, Hořký, Mnohý, Zrádný</em>
 

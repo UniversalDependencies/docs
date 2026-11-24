@@ -10,8 +10,8 @@ This feature is language-specific.
 It occurs with 6 different values: `Deg`, `Loc`, `Man`, `Mod`, `Sta`, `Tim`.
 
 209 tokens (5%) have a non-empty value of `AdvType`.
-92 types (4%) occur at least once with a non-empty value of `AdvType`.
-75 lemmas (5%) occur at least once with a non-empty value of `AdvType`.
+91 types (4%) occur at least once with a non-empty value of `AdvType`.
+74 lemmas (5%) occur at least once with a non-empty value of `AdvType`.
 The feature is used with 3 part-of-speech tags: <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (200; 4% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (8; 0% instances), <tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `ADV`
@@ -22,7 +22,7 @@ The most frequent other feature values with which `ADV` and `AdvType` co-occurre
 
 `ADV` tokens may have the following values of `AdvType`:
 
-* `Deg` (35; 18% of non-empty `AdvType`): <em>пяк, сяда, сяшкава, конашкава, тяшкава, ёфcи, ёфси</em>
+* `Deg` (35; 18% of non-empty `AdvType`): <em>пяк, сяда, сяшкава, ёфси, конашкава, тяшкава</em>
 * `Loc` (5; 3% of non-empty `AdvType`): <em>тов, алу, меки, тяза</em>
 * `Man` (45; 23% of non-empty `AdvType`): <em>лац, тяфта, Кода, вишкста, цебярьста, мазыста, савор, весяласта, кальдявста, павазуста</em>
 * `Mod` (5; 3% of non-empty `AdvType`): <em>бта, пади, Стаки</em>
@@ -35,7 +35,7 @@ The most frequent other feature values with which `ADV` and `AdvType` co-occurre
   <tr><td><tt><tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=Prl</tt>|<tt><a href="mdf_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="mdf_jr-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt></tt></td><td></td><td><em>сяшкава</em></td></tr>
 </table>
 
-`AdvType` seems to be **lexical feature** of `ADV`. 97% lemmas (71) occur only with one value of `AdvType`.
+`AdvType` seems to be **lexical feature** of `ADV`. 97% lemmas (70) occur only with one value of `AdvType`.
 
 ### `NOUN`
 
@@ -50,6 +50,8 @@ The most frequent other feature values with which `NOUN` and `AdvType` co-occurr
 ### `SCONJ`
 
 1 <tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> tokens (4% of all `SCONJ` tokens) have a non-empty value of `AdvType`.
+
+The most frequent other feature values with which `SCONJ` and `AdvType` co-occurred: <tt><a href="mdf_jr-feat-ConjType.html">ConjType</a></tt><tt>=EMPTY</tt> (1; 100%).
 
 `SCONJ` tokens may have the following values of `AdvType`:
 

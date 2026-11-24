@@ -60,12 +60,12 @@ The 2nd highest number of forms (5) was observed with the lemma “premier”: <
 
 The 3rd highest number of forms (4) was observed with the lemma “actuel”: <em>actuel, actuelle, actuelles, actuels</em>.
 
-`ADJ` occurs with 4 features: <tt><a href="fr_pud-feat-Number.html">Number</a></tt> (1614; 100% instances), <tt><a href="fr_pud-feat-Gender.html">Gender</a></tt> (1609; 100% instances), <tt><a href="fr_pud-feat-Tense.html">Tense</a></tt> (4; 0% instances), <tt><a href="fr_pud-feat-VerbForm.html">VerbForm</a></tt> (4; 0% instances)
+`ADJ` occurs with 5 features: <tt><a href="fr_pud-feat-Number.html">Number</a></tt> (1614; 100% instances), <tt><a href="fr_pud-feat-Gender.html">Gender</a></tt> (1609; 100% instances), <tt><a href="fr_pud-feat-Tense.html">Tense</a></tt> (4; 0% instances), <tt><a href="fr_pud-feat-VerbForm.html">VerbForm</a></tt> (4; 0% instances), <tt><a href="fr_pud-feat-Typo.html">Typo</a></tt> (1; 0% instances)
 
-`ADJ` occurs with 6 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Tense=Past`, `VerbForm=Part`
+`ADJ` occurs with 7 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Tense=Past`, `Typo=Yes`, `VerbForm=Part`
 
-`ADJ` occurs with 9 feature combinations.
-The most frequent feature combination is `Gender=Masc|Number=Sing` (559 tokens).
+`ADJ` occurs with 10 feature combinations.
+The most frequent feature combination is `Gender=Masc|Number=Sing` (556 tokens).
 Examples: <em>grand, dernier, général, nouveau, chaque, premier, troisième, important, britannique, politique</em>
 
 

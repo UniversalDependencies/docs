@@ -25,4 +25,4 @@ The junctor _čē_ is annotated as either the [cojunctor](CCONJ) "for" or the su
 
 A complicated case is _čiyōn_ "as, like, how".<br>It does appear as a subordinator (marking the subordinate relation as modal) and as an [adverb](ADV) (answered by "so, in that way"). There are many instances, where _čiyōn_ is only followed by a nominal phrase. Since Middle Persian basically lost case marking for nouns, it is not possible to test whether the relation is one of a [preposition](ADP) or of a subordinator with the subclausal verb being omitted. To keep the annotation simple, such phrases have been analysed as [prepositional phrases](OBL).
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:38 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:30 CET -->

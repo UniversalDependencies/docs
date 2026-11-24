@@ -159,12 +159,12 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="br_keb-dep-nmod-gen.html">nmod:gen</a></tt>]--> NOUN</tt> (176; 60%),
 <tt>NOUN --[<tt><a href="br_keb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (83; 75%),
-<tt>NOUN --[<tt><a href="br_keb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (65; 58%),
+<tt>NOUN --[<tt><a href="br_keb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (67; 59%),
 <tt>NOUN --[<tt><a href="br_keb-dep-cop.html">cop</a></tt>]--> AUX</tt> (58; 73%),
 <tt>NOUN --[<tt><a href="br_keb-dep-nmod-gen.html">nmod:gen</a></tt>]--> PROPN</tt> (54; 83%),
 <tt>VERB --[<tt><a href="br_keb-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (33; 59%),
 <tt>NOUN --[<tt><a href="br_keb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (29; 88%),
-<tt>NOUN --[<tt><a href="br_keb-dep-obl.html">obl</a></tt>]--> NOUN</tt> (20; 95%),
+<tt>NOUN --[<tt><a href="br_keb-dep-obl.html">obl</a></tt>]--> NOUN</tt> (19; 95%),
 <tt>PROPN --[<tt><a href="br_keb-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (17; 100%),
 <tt>NOUN --[<tt><a href="br_keb-dep-appos.html">appos</a></tt>]--> NOUN</tt> (15; 79%).
 

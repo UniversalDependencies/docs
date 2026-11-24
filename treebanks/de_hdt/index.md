@@ -16,11 +16,11 @@ Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.4 release.
 
-The following people have contributed to making this treebank part of UD: Emanuel Borges Völker, Felix Hennig, Arne Köhn, Maximilan Wendt, Verena Blaschke, Nina Böbel, Leonie Weissweiler.
+The following people have contributed to making this treebank part of UD: Emanuel Borges Völker, Felix Hennig, Arne Köhn, Maximilan Wendt, Verena Blaschke, Nina Böbel, Jacob Lee Suchardt, Leonie Weissweiler.
 
 Repository: [UD_German-HDT](https://github.com/UniversalDependencies/UD_German-HDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udde_hdt218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udde_hdt219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 
@@ -63,6 +63,7 @@ The following people worked on the conversion:
 The following people are working on error correction:
 - Verena Blaschke
 - Nina Böbel
+- Jacob Lee Suchardt
 - Leonie Weissweiler
 
 
@@ -153,7 +154,7 @@ publisher={Fachbereich Informatik}
 
 ## Relations
 
-[acl](de_hdt-dep-acl.html) – [acl:relcl](de_hdt-dep-acl-relcl.html) – [advcl](de_hdt-dep-advcl.html) – [advcl:relcl](de_hdt-dep-advcl-relcl.html) – [advmod](de_hdt-dep-advmod.html) – [amod](de_hdt-dep-amod.html) – [appos](de_hdt-dep-appos.html) – [aux](de_hdt-dep-aux.html) – [aux:pass](de_hdt-dep-aux-pass.html) – [case](de_hdt-dep-case.html) – [cc](de_hdt-dep-cc.html) – [ccomp](de_hdt-dep-ccomp.html) – [compound](de_hdt-dep-compound.html) – [compound:prt](de_hdt-dep-compound-prt.html) – [conj](de_hdt-dep-conj.html) – [cop](de_hdt-dep-cop.html) – [csubj](de_hdt-dep-csubj.html) – [csubj:pass](de_hdt-dep-csubj-pass.html) – [dep](de_hdt-dep-dep.html) – [det](de_hdt-dep-det.html) – [det:poss](de_hdt-dep-det-poss.html) – [discourse](de_hdt-dep-discourse.html) – [expl](de_hdt-dep-expl.html) – [expl:pv](de_hdt-dep-expl-pv.html) – [fixed](de_hdt-dep-fixed.html) – [flat](de_hdt-dep-flat.html) – [flat:name](de_hdt-dep-flat-name.html) – [iobj](de_hdt-dep-iobj.html) – [mark](de_hdt-dep-mark.html) – [nmod](de_hdt-dep-nmod.html) – [nmod:poss](de_hdt-dep-nmod-poss.html) – [nsubj](de_hdt-dep-nsubj.html) – [nsubj:pass](de_hdt-dep-nsubj-pass.html) – [nummod](de_hdt-dep-nummod.html) – [obj](de_hdt-dep-obj.html) – [obl](de_hdt-dep-obl.html) – [obl:arg](de_hdt-dep-obl-arg.html) – [orphan](de_hdt-dep-orphan.html) – [parataxis](de_hdt-dep-parataxis.html) – [punct](de_hdt-dep-punct.html) – [reparandum](de_hdt-dep-reparandum.html) – [root](de_hdt-dep-root.html) – [vocative](de_hdt-dep-vocative.html) – [xcomp](de_hdt-dep-xcomp.html)
+[acl](de_hdt-dep-acl.html) – [acl:relcl](de_hdt-dep-acl-relcl.html) – [advcl](de_hdt-dep-advcl.html) – [advcl:relcl](de_hdt-dep-advcl-relcl.html) – [advmod](de_hdt-dep-advmod.html) – [amod](de_hdt-dep-amod.html) – [appos](de_hdt-dep-appos.html) – [aux](de_hdt-dep-aux.html) – [aux:pass](de_hdt-dep-aux-pass.html) – [case](de_hdt-dep-case.html) – [cc](de_hdt-dep-cc.html) – [ccomp](de_hdt-dep-ccomp.html) – [compound](de_hdt-dep-compound.html) – [compound:prt](de_hdt-dep-compound-prt.html) – [conj](de_hdt-dep-conj.html) – [cop](de_hdt-dep-cop.html) – [csubj](de_hdt-dep-csubj.html) – [csubj:pass](de_hdt-dep-csubj-pass.html) – [dep](de_hdt-dep-dep.html) – [det](de_hdt-dep-det.html) – [det:poss](de_hdt-dep-det-poss.html) – [discourse](de_hdt-dep-discourse.html) – [expl](de_hdt-dep-expl.html) – [expl:pv](de_hdt-dep-expl-pv.html) – [fixed](de_hdt-dep-fixed.html) – [flat](de_hdt-dep-flat.html) – [flat:name](de_hdt-dep-flat-name.html) – [goeswith](de_hdt-dep-goeswith.html) – [iobj](de_hdt-dep-iobj.html) – [mark](de_hdt-dep-mark.html) – [nmod](de_hdt-dep-nmod.html) – [nmod:poss](de_hdt-dep-nmod-poss.html) – [nsubj](de_hdt-dep-nsubj.html) – [nsubj:pass](de_hdt-dep-nsubj-pass.html) – [nummod](de_hdt-dep-nummod.html) – [obj](de_hdt-dep-obj.html) – [obl](de_hdt-dep-obl.html) – [obl:arg](de_hdt-dep-obl-arg.html) – [orphan](de_hdt-dep-orphan.html) – [parataxis](de_hdt-dep-parataxis.html) – [punct](de_hdt-dep-punct.html) – [reparandum](de_hdt-dep-reparandum.html) – [root](de_hdt-dep-root.html) – [vocative](de_hdt-dep-vocative.html) – [xcomp](de_hdt-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -209,7 +210,7 @@ publisher={Fachbereich Informatik}
 </ul>
 
 <ul>
-<li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: haben</li>
+<li>Out of the above, 2 lemmas occurred sometimes as AUX and sometimes as VERB: haben, werden</li>
 </ul>
 
 <ul>
@@ -936,12 +937,15 @@ publisher={Fachbereich Informatik}
     <ul>
       <li>Yes
         <ul>
+          <li>ADJ: brankrott</li>
           <li>AUX: will.</li>
           <li>DET: anderen, allen, andere</li>
           <li>NOUN: Falls</li>
           <li>PRON: da</li>
           <li>SCONJ: das</li>
-          <li>VERB-Inf: Fallen, ausprechen</li>
+          <li>VERB-Fin: enspricht, ausgetauschte, ausssieht, beschänkt, betrachen, entwicklen, erforden, erleichert, fordete, geisselt</li>
+          <li>VERB-Inf: Fallen, Fertiggestellen, abgegeben, ansteueren, anzurufen, auseinanderetzen, ausgeliefern, ausprechen, auszugegliedern, bereitsstellen</li>
+          <li>VERB-Part: Eingericht, abgelgt, aufgeliefert, beteteiligt, entwicklet, ereicht, gegeründet, hinzufügt, lahmegelegt, reserveriert</li>
         </ul>
       </li>
     </ul>
@@ -994,7 +998,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN-Acc (11)</li>
       <li>VERB-Inf--NOUN-Dat (12)</li>
       <li>VERB-Inf--NOUN-Gen (5)</li>
-      <li>VERB-Inf--NOUN-Nom (14840)</li>
+      <li>VERB-Inf--NOUN-Nom (14839)</li>
       <li>VERB-Inf--PRON (69)</li>
       <li>VERB-Inf--PRON-Acc (1)</li>
       <li>VERB-Inf--PRON-Dat (1)</li>
@@ -1071,7 +1075,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 695 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: lassen sich, handeln sich, zeigen sich, äußern sich, sehen sich, wenden sich, machen sich, richten sich, belaufen sich, entscheiden sich, aussprechen sich, fühlen sich, zeichnen sich, schließen sich, präsentieren sich, sprechen sich, erklären sich, verändern sich, verhalten sich, verabschieden sich, fragen sich, verständigen sich, verbessern sich, registrieren sich, schützen sich, tun sich, - sich, entpuppen sich, bezeichnen sich, schweigen sich, verkaufen sich, häufen sich, wirken sich, zusammentun sich, bestätigen sich, gestalten sich, verringern sich, einloggen sich, streiten sich, fortsetzen sich, mehren sich, summieren sich, vorbereiten sich, finanzieren sich, lesen sich, öffnen sich, verteidigen sich, verschärfen sich, üben sich, bilden sich</li>
+  <li>This corpus contains 696 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: lassen sich, handeln sich, zeigen sich, äußern sich, sehen sich, wenden sich, machen sich, richten sich, belaufen sich, entscheiden sich, aussprechen sich, fühlen sich, zeichnen sich, schließen sich, präsentieren sich, sprechen sich, erklären sich, verändern sich, verhalten sich, verabschieden sich, fragen sich, verständigen sich, verbessern sich, registrieren sich, schützen sich, tun sich, - sich, entpuppen sich, bezeichnen sich, schweigen sich, verkaufen sich, häufen sich, wirken sich, zusammentun sich, bestätigen sich, gestalten sich, verringern sich, einloggen sich, streiten sich, fortsetzen sich, mehren sich, summieren sich, vorbereiten sich, finanzieren sich, lesen sich, öffnen sich, verteidigen sich, verschärfen sich, üben sich, bilden sich</li>
     <ul>
       <li>Out of those, 40 lemmas occurred more than once, but never without a reflexive dependent. Examples: zusammentun, breiten, zuwenden, zusammenfinden, auskennen, durchringen, einpendeln, einschleichen, umschauen, herumschlagen, hervortun, aufschwingen, herumsprechen, zurechtfinden, überschneiden, gegenübersehen, vorarbeiten, auftun, einfinden, herausreden, hinsetzen, hochschaukeln, klinken, nisten, zusammenraufen, abzeichnende, ausschweigen, einreihen, einschießen, entledigen, erdreisten, hingeben, hocharbeiten, loggen, lossagen, materialisierten, schaukeln, umtun, verfestigen, überheben</li>
     </ul>
@@ -1081,5 +1085,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 11 relation subtypes: <a>acl:relcl</a>, <a>advcl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>det:poss</a>, <a>expl:pv</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:arg</a></li>
-<li>The following 4 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a></li>
+<li>The following 3 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a></li>
 </ul>

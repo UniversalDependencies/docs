@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2511 nodes (12%) are attached to their parents as `case`.
+2508 nodes (12%) are attached to their parents as `case`.
 
-2401 instances of `case` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.99402628434886.
+2398 instances of `case` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.99441786283892.
 
-The following 25 pairs of parts of speech are connected with `case`: <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (1572; 63% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (511; 20% instances), <tt><a href="en_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (124; 5% instances), <tt><a href="en_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (77; 3% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-PART.html">PART</a></tt> (68; 3% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-PART.html">PART</a></tt> (36; 1% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (30; 1% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (16; 1% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (16; 1% instances), <tt><a href="en_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (10; 0% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (9; 0% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (9; 0% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (6; 0% instances), <tt><a href="en_pud-pos-DET.html">DET</a></tt>-<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="en_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="en_pud-pos-SYM.html">SYM</a></tt> (4; 0% instances), <tt><a href="en_pud-pos-X.html">X</a></tt>-<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="en_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="en_pud-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-X.html">X</a></tt>-<tt><a href="en_pud-pos-X.html">X</a></tt> (1; 0% instances).
+The following 23 pairs of parts of speech are connected with `case`: <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (1572; 63% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (511; 20% instances), <tt><a href="en_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (124; 5% instances), <tt><a href="en_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (77; 3% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-PART.html">PART</a></tt> (68; 3% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-PART.html">PART</a></tt> (36; 1% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (30; 1% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (16; 1% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (16; 1% instances), <tt><a href="en_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (10; 0% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (9; 0% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (9; 0% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (6; 0% instances), <tt><a href="en_pud-pos-DET.html">DET</a></tt>-<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="en_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="en_pud-pos-SYM.html">SYM</a></tt> (4; 0% instances), <tt><a href="en_pud-pos-X.html">X</a></tt>-<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="en_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="en_pud-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-X.html">X</a></tt>-<tt><a href="en_pud-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -26,7 +26,7 @@ The following 25 pairs of parts of speech are connected with `case`: <tt><a href
 2	new	new	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
 3	spending	spending	NOUN	NN	Number=Sing	5	nsubj:pass	5:nsubj:pass	_
 4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	5:aux:pass	_
-5	fueled	fuel	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
+5	fueled	fuel	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
 6	by	by	ADP	IN	_	11	case	11:case	_
 7	Clinton	Clinton	PROPN	NNP	Number=Sing	11	nmod:poss	11:nmod:poss	SpaceAfter=No
 8	’s	's	PART	POS	_	7	case	7:case	_
@@ -46,7 +46,7 @@ The following 25 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 10 9 case	color:blue
 1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj:pass	3:nsubj:pass	_
 2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	3:aux:pass	_
-3	conducted	conduct	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
+3	conducted	conduct	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
 4	just	just	ADV	RB	_	8	advmod	8:advmod	_
 5	off	off	ADP	IN	_	8	case	8:case	_
 6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	_
@@ -71,7 +71,7 @@ The following 25 pairs of parts of speech are connected with `case`: <tt><a href
 2	in	in	ADP	IN	_	4	case	4:case	_
 3	this	this	DET	DT	Number=Sing|PronType=Dem	4	det	4:det	_
 4	area	area	NOUN	NN	Number=Sing	1	nmod	1:nmod:in	_
-5	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	cop	6:cop	_
+5	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	cop	6:cop	_
 6	up	up	ADV	RB	_	0	root	0:root	_
 7	by	by	ADP	IN	_	9	case	9:case	_
 8	6	6	NUM	CD	NumForm=Digit|NumType=Card	9	nummod	9:nummod	SpaceAfter=No

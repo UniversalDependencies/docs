@@ -23,8 +23,8 @@ The following 1 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 15 obl:tmod	color:blue
-1	e	e	CCONJ	_	_	2	discourse	_	Begin=13.021|KID=5-0
-2	sono	essere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=5-1
+1	e	e	CCONJ	_	_	2	cc	_	Begin=13.021|KID=5-0
+2	sono	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=5-1
 3	qui	qui	ADV	_	_	2	advmod	_	KID=5-2
 4	per	per	ADP	_	_	6	case	_	KID=5-3
 5	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	KID=5-4
@@ -32,19 +32,24 @@ The following 1 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 7	di	di	ADP	_	_	8	case	_	KID=5-6
 8	correlazione	correlazione	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	KID=5-7
 9	io	io	PRON	_	Number=Sing|Person=1|PronType=Prs	12	nsubj	_	KID=5-8
-10	le	le	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	iobj	_	Clitic=Yes|KID=5-9
+10	le	le	PRON	_	Clitic=Yes|Gender=Fem|Person=3|PronType=Prs	12	iobj	_	KID=5-9
 11	ho	avere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	aux	_	KID=5-10
 12	mandato	mandare	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	parataxis	_	KID=5-11
 13	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	KID=5-12
-14	mail	mail	NOUN	_	Gender=Masc	12	obj	_	End=16.451|Intonation=WeaklyRising|KID=5-13
+14	mail	mail	NOUN	_	_	12	obj	_	End=16.451|Intonation=WeaklyRising|KID=5-13
 15	tempo	tempo	NOUN	_	Gender=Masc|Number=Sing	12	obl:tmod	_	Begin=16.885|KID=6-0
-16	fa	fa	ADV	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	advmod	_	KID=6-1
-17	perché	perché	SCONJ	_	_	19	mark	_	KID=6-2
-18	avrei	avere	AUX	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	19	aux	_	KID=6-3
-19	dovuto	dovere	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	advcl	_	KID=6-4
-20	laurearmi	laurearmio	NOUN	_	Gender=Masc|Number=Plur	19	xcomp	_	KID=6-5
+16	fa	fa	ADV	_	_	15	advmod	_	KID=6-1
+17	perché	perché	SCONJ	_	_	20	mark	_	KID=6-2
+18	avrei	avere	AUX	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	20	aux	_	KID=6-3
+19	dovuto	dovere	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	20	aux	_	KID=6-4
+20	laurearmi	laurearmio	NOUN	_	_	12	advcl	_	KID=6-5
 21	a	a	ADP	_	_	22	case	_	KID=6-6
-22	marzo	marzo	NOUN	_	Gender=Masc|Number=Sing	19	obl	_	End=19.106|Intonation=Falling|KID=6-7
+22	marzo	marzo	NOUN	_	Gender=Masc	20	obl	_	End=19.106|Intonation=Falling|KID=6-7
+23	con	con	ADP	_	_	25	case	_	Begin=19.891|KID=8-0
+24	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	KID=8-1
+25	professoressa	professoressa	NOUN	_	Gender=Fem|Number=Sing	20	obl	_	KID=8-2
+26	arancioni	Arancioni	PROPN	_	_	25	appos	_	KID=8-3|OverlappingGroup=1
+27	sì	sì	ADV	_	_	20	discourse	_	End=21.842|Intonation=Falling|KID=8-4|OverlappingGroup=1
 
 ~~~
 

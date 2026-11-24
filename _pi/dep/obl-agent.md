@@ -13,3 +13,4 @@ Anatikkamanīyā bodhisattamātā hoti kenaci purisena rattacittena \n Not-viola
 obl:agent(Anatikkamanīyā, purisena)
 obl:agent(Not-violatable, by-man)
 ~~~
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:39:04 CET -->

@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-1436 tokens (3%) have a non-empty value of `Compound`.
-334 types (3%) occur at least once with a non-empty value of `Compound`.
-181 lemmas (3%) occur at least once with a non-empty value of `Compound`.
-The feature is used with 13 part-of-speech tags: <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (370; 1% instances), <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (341; 1% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt> (181; 0% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (118; 0% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (117; 0% instances), <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> (109; 0% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (77; 0% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (76; 0% instances), <tt><a href="la_udante-pos-PART.html">PART</a></tt> (27; 0% instances), <tt><a href="la_udante-pos-X.html">X</a></tt> (11; 0% instances), <tt><a href="la_udante-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="la_udante-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+1435 tokens (3%) have a non-empty value of `Compound`.
+333 types (3%) occur at least once with a non-empty value of `Compound`.
+180 lemmas (3%) occur at least once with a non-empty value of `Compound`.
+The feature is used with 13 part-of-speech tags: <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (370; 1% instances), <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (341; 1% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt> (181; 0% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (118; 0% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (117; 0% instances), <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> (109; 0% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (77; 0% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (76; 0% instances), <tt><a href="la_udante-pos-PART.html">PART</a></tt> (26; 0% instances), <tt><a href="la_udante-pos-X.html">X</a></tt> (11; 0% instances), <tt><a href="la_udante-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="la_udante-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 ### `ADV`
 
@@ -106,13 +106,13 @@ The most frequent other feature values with which `VERB` and `Compound` co-occur
 
 ### `PART`
 
-27 <tt><a href="la_udante-pos-PART.html">PART</a></tt> tokens (2% of all `PART` tokens) have a non-empty value of `Compound`.
+26 <tt><a href="la_udante-pos-PART.html">PART</a></tt> tokens (2% of all `PART` tokens) have a non-empty value of `Compound`.
 
-The most frequent other feature values with which `PART` and `Compound` co-occurred: <tt><a href="la_udante-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (27; 100%), <tt><a href="la_udante-feat-Form.html">Form</a></tt><tt>=Emp</tt> (26; 96%).
+The most frequent other feature values with which `PART` and `Compound` co-occurred: <tt><a href="la_udante-feat-Form.html">Form</a></tt><tt>=Emp</tt> (26; 100%), <tt><a href="la_udante-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (26; 100%).
 
 `PART` tokens may have the following values of `Compound`:
 
-* `Yes` (27; 100% of non-empty `Compound`): <em>etenim, Siquidem</em>
+* `Yes` (26; 100% of non-empty `Compound`): <em>etenim</em>
 
 ### `X`
 

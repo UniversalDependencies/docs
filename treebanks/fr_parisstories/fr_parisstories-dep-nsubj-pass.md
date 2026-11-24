@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="fr_parisstories-dep-nsubj.html">nsubj</a></tt>.
 There are also 2 other language-specific subtypes of `nsubj`: <tt><a href="fr_parisstories-dep-nsubj-caus.html">nsubj:caus</a></tt>, <tt><a href="fr_parisstories-dep-nsubj-outer.html">nsubj:outer</a></tt>.
 
-41 nodes (0%) are attached to their parents as `nsubj:pass`.
+40 nodes (0%) are attached to their parents as `nsubj:pass`.
 
-41 instances of `nsubj:pass` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.75609756097561.
+40 instances of `nsubj:pass` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.775.
 
-The following 2 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (39; 95% instances), <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (2; 5% instances).
+The following 2 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (38; 95% instances), <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (2; 5% instances).
 
 
 ~~~ conllu
@@ -26,7 +26,7 @@ The following 2 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 1	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	4	nsubj:pass	_	Exponence[Gender]=Absent|Exponence[Number]=Inherent|Exponence[Person]=Inherent
 2	s'	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	4	obj	_	Exponence[Person]=Inherent|SpaceAfter=No
 3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
-4	vues	voir	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	Exponence[Gender]=Absent|Exponence[Number]=Absent|PastPartHasSpokenGender=NotInThisDialect|SpaceAfter=No|Tense[denom]=Past
+4	vues	voir	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	Exponence[Gender]=Absent|Exponence[Number]=Absent|PastPartHasSpokenGender=NotInThisDialect|SpaceAfter=No|Status[Tense]=Denom
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
@@ -47,15 +47,15 @@ The following 2 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 7	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	8	det	_	HasSpokenGender=OnlySingExceptWithLiaison
 8	saisons	saison	NOUN	_	Gender=Fem|Number=Plur	10	nsubj:pass	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent
 9	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	aux:pass	_	_
-10	inversées	inverser	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	27	advcl	_	Exponence[Gender]=Absent|Exponence[Number]=Absent|PastPartHasSpokenGender=NotInThisDialect|Tense[denom]=Past
+10	inversées	inverser	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	27	advcl	_	Exponence[Gender]=Absent|Exponence[Number]=Absent|PastPartHasSpokenGender=NotInThisDialect|Status[Tense]=Denom
 11	par	par	ADP	_	_	12	case	_	_
 12	rapport	rapport	NOUN	_	Gender=Masc|Number=Sing	10	obl:mod	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent
 13	à	à	ADP	_	_	15	case	_	_
 14	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	HasSpokenGender=OnlySingExceptWithLiaison
 15	métropole	métropole	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent|SpaceAfter=No
 16	,	,	PUNCT	_	_	17	punct	_	_
-17	euh	euh	INTJ	_	_	10	discourse	_	SpaceAfter=No
-18	,	,	PUNCT	_	_	10	punct	_	_
+17	euh	euh	INTJ	_	_	20	discourse:filler	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	17	punct	_	_
 19	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	HasSpokenGender=OnlySingExceptWithLiaison
 20	période	période	NOUN	_	Gender=Fem|Number=Sing	27	dislocated:subj	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent
 21	de	de	ADP	_	_	22	case	_	_

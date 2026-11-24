@@ -36,7 +36,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (196; 100% of non-empty `Abbr`): <em>x, x:n, y, klo, A, mk, A:n, Oy:n, B, B:n</em>
-* `EMPTY` (36845): <em>mies, vuoden, vuotta, asia, aikaa, äiti, vuonna, kertaa, osa, markkaa</em>
+* `EMPTY` (36846): <em>mies, vuoden, vuotta, asia, aikaa, äiti, vuonna, kertaa, osa, markkaa</em>
 
 `Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (53) occur only with one value of `Abbr`.
 

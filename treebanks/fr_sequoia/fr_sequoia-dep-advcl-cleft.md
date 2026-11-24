@@ -34,7 +34,7 @@ The following 4 pairs of parts of speech are connected with `advcl:cleft`: <tt><
 10	élèves	élève	NOUN	_	Number=Plur	13	nsubj	_	_
 11	apprentis-acteurs	apprenti-acteur	NOUN	_	Gender=Masc|Number=Plur	10	nmod	_	Exponence[Gender]=Inherent
 12	ont	avoir	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	aux:tense	_	Filler=mod
-13	joué	jouer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	5	advcl:cleft	_	SpaceAfter=No|Tense[denom]=Past
+13	joué	jouer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	5	advcl:cleft	_	SpaceAfter=No|Status[Tense]=Denom
 14	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
@@ -54,7 +54,7 @@ The following 4 pairs of parts of speech are connected with `advcl:cleft`: <tt><
 6	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
 7	autour	autour	ADV	_	_	0	root	_	_
 8	de	de	ADP	_	_	9	case	_	_
-9	1950	1950	NUM	_	Number=Sing|NumType=Card	7	obl:arg	_	Exponence[Number]=Inherent
+9	1950	1950	NUM	_	ExtPos=PROPN|Number=Sing|NumType=Card	7	obl:arg	_	Exponence[Number]=Inherent
 10	que	que	SCONJ	_	_	19	mark	_	_
 11	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
 12	société	société	NOUN	_	Gender=Fem|Number=Sing	19	nsubj	_	Exponence[Gender]=Inherent
@@ -64,7 +64,7 @@ The following 4 pairs of parts of speech are connected with `advcl:cleft`: <tt><
 16	Belfort	Belfort	PROPN	_	Gender=Masc|Number=Sing	14	nmod	_	Exponence[Gender]=Inherent
 17	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	aux:tense	_	Filler=mod
 18	vraiment	vraiment	ADV	_	_	19	advmod	_	_
-19	pris	prendre	VERB	_	Gender=Masc|VerbForm=Part|Voice=Act	7	advcl:cleft	_	Tense[denom]=Past
+19	pris	prendre	VERB	_	Gender=Masc|Tense=Past|VerbForm=Part|Voice=Act	7	advcl:cleft	_	Status[Tense]=Denom
 20	sa	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	22	det	_	_
 21	réelle	réel	ADJ	_	Gender=Fem|Number=Sing	22	amod	_	_
 22	importance	importance	NOUN	_	Gender=Fem|Number=Sing	19	obj	_	Exponence[Gender]=Inherent|SpaceAfter=No

@@ -112,11 +112,11 @@ The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 42	the	the	DET	DT	Definite=Def|PronType=Art	43	det	43:det	Bridge=7<280:entity-associative|Entity=(280-person-acc:inf-nnnnn-cf5-2,4,5-sgl
 43	Dean	Dean	PROPN	NNP	Number=Sing	34	conj	27:conj|34:conj:or	_
 44	of	of	ADP	IN	_	46	case	46:case	_
-45	Graduate	Graduate	PROPN	NNP	Number=Sing	46	compound	46:compound	Entity=(281-abstract-new-nnnnn-cf11-1,2-sgl
+45	Graduate	Graduate	PROPN	NNP	Number=Sing	46	compound	46:compound	Entity=(281-abstract-new-nnnnn-cf11-1,2-sgl|MSeg=Gradu-ate
 46	Education	Education	PROPN	NNP	Number=Sing	43	nmod	43:nmod:of	Entity=281)280)|MSeg=Educat-ion
 47	(	(	PUNCT	-LRB-	_	50	punct	50:punct	Discourse=elaboration-additional:190->189:0:grf-prn-1084,1088-_|SpaceAfter=No
 48	for	for	ADP	IN	_	50	case	50:case	_
-49	Graduate	Graduate	ADJ	NNP	Degree=Pos	50	amod	50:amod	Entity=(256-person-giv:inact-nnnnn-cf2-2-coref
+49	Graduate	Graduate	ADJ	NNP	Degree=Pos	50	amod	50:amod	Entity=(256-person-giv:inact-nnnnn-cf2-2-coref|MSeg=Gradu-ate
 50	students	student	NOUN	NNS	Number=Plur	43	orphan	43:orphan	Entity=256)|MSeg=stud-ent-s|SpaceAfter=No
 51	)	)	PUNCT	-RRB-	_	50	punct	50:punct	Entity=276)|SpaceAfter=No
 52	.	.	PUNCT	.	_	13	punct	13:punct	_

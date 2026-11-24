@@ -5,15 +5,8 @@ shortdef: 'oblique as a floating modifier'
 udver: '2'
 ---
 
-The relation `obl:float` is used for floating modifiers _весь_ 'all', _каждый_ 'every', _один_ 'only; alone', _оба_ 'both', _sam_ 'oneself' etc. that modify objective, dative, etc. argument in the clause. 
+Russian floating quantifiers _весь_ 'all', _каждый_ 'every', _один_ 'only; alone', _оба_ 'both', _sam_ 'oneself', _pervyj_ 'first' etc. are called “floating” because they are separated from the noun phrase they semantically belong to and can occur in a different syntactic position. The relation `obl:float` is used when a floating quantifier is attached directly to the verb (or other predicative) if the (semantically modified) argument is ommited.  
 
-~~~ sdparse
-Мальчики взяли по пять яблок каждый . \n The boys took five apples each . 
-obl:float(яблок, каждый) 
-obl:float(apples, each)
-~~~
-
-`obl:float` can attach directly to the verb (or other predicative) if the (semantically modified) argument is ommited.
 
 ~~~ sdparse
 Поймите же оба ! \n Understand ( you ) both . 
@@ -23,4 +16,4 @@ obl:float(Understand, both)
 
 #### References
 Я. Г. Тестелец. Введение в общий синтаксис. М.: РГГУ, 2001.
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:32 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:39:05 CET -->

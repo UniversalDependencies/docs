@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal but the values `Emp`, `Exc` are language-specific.
 It occurs with 9 different values: `Dem`, `Emp`, `Exc`, `Ind`, `Int`, `Neg`, `Prs`, `Rel`, `Tot`.
 
-19410 tokens (14%) have a non-empty value of `PronType`.
+19409 tokens (14%) have a non-empty value of `PronType`.
 1475 types (6%) occur at least once with a non-empty value of `PronType`.
 180 lemmas (2%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt> (9805; 7% instances), <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (9071; 7% instances), <tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt> (534; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt> (9805; 7% instances), <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (9070; 7% instances), <tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt> (534; 0% instances).
 
 ### `DET`
 
@@ -75,9 +75,9 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 ### `PRON`
 
-9071 <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+9070 <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5383; 59%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5382; 59%).
 
 `PRON` tokens may have the following values of `PronType`:
 
@@ -86,7 +86,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Int` (7; 0% of non-empty `PronType`): <em>кого, Чому, ко(и)ми, хто</em>
 * `Neg` (113; 1% of non-empty `PronType`): <em>ничого, никому, нихто, ничим, никомꙋ, никого, нѣчого, нѣхто, нѣчимъ, ничего</em>
 * `Prs` (6280; 69% of non-empty `PronType`): <em>его, мы, их, намъ, нами, ему, нам, ихъ, нас, имъ</em>
-* `Rel` (955; 11% of non-empty `PronType`): <em>што, хто, що, кому, кого, комꙋ, чого, чомъ, чимъ, чом</em>
+* `Rel` (954; 11% of non-empty `PronType`): <em>што, хто, що, кому, кого, комꙋ, чого, чомъ, чимъ, чом</em>
 * `Tot` (15; 0% of non-empty `PronType`): <em>всє, (в)сє(м), (въ)се(м), (въ)сє(м), в(ъ)сє(м), все, всем, всє(м), всѣ, всѣми</em>
 
 <table>

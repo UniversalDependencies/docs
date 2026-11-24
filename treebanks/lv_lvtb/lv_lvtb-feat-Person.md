@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-46323 tokens (14%) have a non-empty value of `Person`.
-7645 types (14%) occur at least once with a non-empty value of `Person`.
+46324 tokens (14%) have a non-empty value of `Person`.
+7646 types (14%) occur at least once with a non-empty value of `Person`.
 3101 lemmas (13%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (24526; 7% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (7942; 2% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (7300; 2% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (6555; 2% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (24526; 7% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (7942; 2% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (7300; 2% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (6556; 2% instances).
 
 ### `VERB`
 
@@ -25,7 +25,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 * `1` (3395; 14% of non-empty `Person`): <em>domāju, varu, nevaru, nezinu, varam, zinu, teicu, gribu, atceros, vēlos</em>
 * `2` (1186; 5% of non-empty `Person`): <em>vari, lasiet, zini, varat, domā, stum, vēlies, ej, atceries, gribi</em>
 * `3` (19945; 81% of non-empty `Person`): <em>ir, var, nav, bija, nevar, būs, teica, notiek, sāka, saka</em>
-* `EMPTY` (25200): <em>varētu, izmantot, strādāt, darīt, būt, izmantojot, atrast, runāt, teikt, dzīvot</em>
+* `EMPTY` (25180): <em>varētu, izmantot, strādāt, darīt, būt, izmantojot, atrast, runāt, teikt, dzīvot</em>
 
 <table>
   <tr><th>Paradigm <i>būt</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -93,7 +93,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (3121; 43% of non-empty `Person`): <em>es, man, mēs, mums, mūsu, mani, mūs, manis, manī, Tewi</em>
 * `2` (744; 10% of non-empty `Person`): <em>tu, jūs, tev, jums, jūsu, tevi, tevis, tevī, Tawa, jūsos</em>
 * `3` (3435; 47% of non-empty `Person`): <em>viņa, viņš, viņu, viņi, viņas, viņam, viņai, viņiem, viņus, viņām</em>
-* `EMPTY` (3227): <em>kas, ko, sevi, sev, kam, neko, nekas, kā, sevis, sevī</em>
+* `EMPTY` (3225): <em>kas, ko, sevi, sev, kam, neko, nekas, kā, sevis, sevī</em>
 
 <table>
   <tr><th>Paradigm <i>tu</i></th><th><tt>1</tt></th><th><tt>2</tt></th></tr>
@@ -106,15 +106,15 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 ### `DET`
 
-6555 <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> tokens (43% of all `DET` tokens) have a non-empty value of `Person`.
+6556 <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> tokens (43% of all `DET` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="lv_lvtb-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (6545; 100%), <tt><a href="lv_lvtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5083; 78%), <tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (4451; 68%).
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="lv_lvtb-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (6546; 100%), <tt><a href="lv_lvtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5083; 78%), <tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (4451; 68%).
 
 `DET` tokens may have the following values of `Person`:
 
 * `1` (10; 0% of non-empty `Person`): <em>mūsējie, Mūsējo, manējai, manējiem, manējo, manējām, mūsējais, mūsējiem, mūsējā</em>
-* `3` (6545; 100% of non-empty `Person`): <em>to, tas, tā, tās, šo, tam, šī, tie, šajā, šīs</em>
-* `EMPTY` (8774): <em>savu, visu, kuru, kurš, kurā, kuri, kādu, kuras, visi, kura</em>
+* `3` (6546; 100% of non-empty `Person`): <em>to, tas, tā, tās, šo, tam, šī, tie, šajā, šīs</em>
+* `EMPTY` (8775): <em>savu, visu, kuru, kurš, kurā, kuri, kādu, kuras, visi, kura</em>
 
 ## Relations with Agreement in `Person`
 

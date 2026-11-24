@@ -13,7 +13,7 @@ The 10 most frequent `SCONJ` lemmas: <em>что, как, чтобы, когда,
 
 The 10 most frequent `SCONJ` types:  <em>что, как, чтобы, когда, чем, если, то, поскольку, хотя, будто</em>
 
-The 10 most frequent ambiguous lemmas: <em>что</em> (<tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 136, <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> 28), <em>как</em> (<tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 100, <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> 11, <tt><a href="ru_pud-pos-ADP.html">ADP</a></tt> 1), <em>когда</em> (<tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 23, <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> 11), <em>чем</em> (<tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 23, <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> 1), <em>то</em> (<tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> 61, <tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 7, <tt><a href="ru_pud-pos-DET.html">DET</a></tt> 5), <em>ведь</em> (<tt><a href="ru_pud-pos-PART.html">PART</a></tt> 4, <tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 1), <em>пока</em> (<tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>что</em> (<tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 136, <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> 29), <em>как</em> (<tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 100, <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> 11, <tt><a href="ru_pud-pos-ADP.html">ADP</a></tt> 1), <em>когда</em> (<tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 23, <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> 11), <em>то</em> (<tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> 61, <tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 7), <em>ведь</em> (<tt><a href="ru_pud-pos-PART.html">PART</a></tt> 4, <tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 1), <em>пока</em> (<tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>что</em> (<tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 136, <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> 22), <em>как</em> (<tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 91, <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> 10, <tt><a href="ru_pud-pos-ADP.html">ADP</a></tt> 1), <em>когда</em> (<tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 21, <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> 6), <em>чем</em> (<tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 23, <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> 2), <em>то</em> (<tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> 11, <tt><a href="ru_pud-pos-DET.html">DET</a></tt> 9, <tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 7), <em>ведь</em> (<tt><a href="ru_pud-pos-PART.html">PART</a></tt> 2, <tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 1), <em>пока</em> (<tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 1), <em>тем</em> (<tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> 7, <tt><a href="ru_pud-pos-DET.html">DET</a></tt> 2, <tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 1)
 
@@ -48,7 +48,7 @@ The 10 most frequent ambiguous types:  <em>что</em> (<tt><a href="ru_pud-pos-
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.496727).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.499132).
 
 The 1st highest number of forms (1) was observed with the lemma “будто”: <em>будто</em>.
 
@@ -56,14 +56,20 @@ The 2nd highest number of forms (1) was observed with the lemma “ведь”: 
 
 The 3rd highest number of forms (1) was observed with the lemma “если”: <em>если</em>.
 
-`SCONJ` does not occur with any features.
+`SCONJ` occurs with 1 features: <tt><a href="ru_pud-feat-ExtPos.html">ExtPos</a></tt> (7; 2% instances)
+
+`SCONJ` occurs with 1 feature-value pairs: `ExtPos=SCONJ`
+
+`SCONJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (358 tokens).
+Examples: <em>что, как, чтобы, когда, чем, если, то, поскольку, хотя, будто</em>
 
 
 ## Relations
 
 `SCONJ` nodes are attached to their parents using 4 different relations: <tt><a href="ru_pud-dep-mark.html">mark</a></tt> (262; 72% instances), <tt><a href="ru_pud-dep-case.html">case</a></tt> (63; 17% instances), <tt><a href="ru_pud-dep-fixed.html">fixed</a></tt> (37; 10% instances), <tt><a href="ru_pud-dep-obj.html">obj</a></tt> (3; 1% instances)
 
-Parents of `SCONJ` nodes belong to 11 different parts of speech: <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (219; 60% instances), <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (58; 16% instances), <tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> (25; 7% instances), <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> (24; 7% instances), <tt><a href="ru_pud-pos-DET.html">DET</a></tt> (12; 3% instances), <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt> (11; 3% instances), <tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (6; 2% instances), <tt><a href="ru_pud-pos-ADP.html">ADP</a></tt> (5; 1% instances), <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="ru_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ru_pud-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 11 different parts of speech: <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (220; 60% instances), <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (58; 16% instances), <tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> (25; 7% instances), <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> (24; 7% instances), <tt><a href="ru_pud-pos-DET.html">DET</a></tt> (12; 3% instances), <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt> (9; 2% instances), <tt><a href="ru_pud-pos-ADP.html">ADP</a></tt> (5; 1% instances), <tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="ru_pud-pos-X.html">X</a></tt> (3; 1% instances), <tt><a href="ru_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 
 358 (98%) `SCONJ` nodes are leaves.
 

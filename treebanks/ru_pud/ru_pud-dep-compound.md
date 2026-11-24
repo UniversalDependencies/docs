@@ -13,7 +13,7 @@ This relation is universal.
 5 instances of `compound` (56%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.44444444444444.
 
-The following 2 pairs of parts of speech are connected with `compound`: <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (7; 78% instances), <tt><a href="ru_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_pud-pos-NUM.html">NUM</a></tt> (2; 22% instances).
+The following 3 pairs of parts of speech are connected with `compound`: <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (6; 67% instances), <tt><a href="ru_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_pud-pos-NUM.html">NUM</a></tt> (2; 22% instances), <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_pud-pos-X.html">X</a></tt> (1; 11% instances).
 
 
 ~~~ conllu
@@ -27,7 +27,7 @@ The following 2 pairs of parts of speech are connected with `compound`: <tt><a h
 3	государство	государство	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	compound	_	_
 4	возник	возникнуть	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 5	в	в	ADP	IN	_	8	case	_	_
-6	тот	тот	DET	DT	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	det	_	_
+6	тот	тот	DET	DT	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	8	det	_	_
 7	же	же	PART	UH	_	6	advmod	_	_
 8	период	период	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
 9	,	,	PUNCT	,	_	12	punct	_	_
@@ -46,7 +46,7 @@ The following 2 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 23	fgColor:white
 # visual-style 23 22 compound	color:blue
 1	После	после	ADP	IN	_	2	case	_	_
-2	того	то	PRON	DT	Case=Gen|Gender=Neut|Number=Sing	21	obl	_	_
+2	того	то	PRON	DT	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	21	obl	_	_
 3	как	как	SCONJ	IN	_	5	mark	_	_
 4	Киплинг	Киплинг	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
 5	вернулся	вернуться	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	acl	_	_
@@ -70,6 +70,39 @@ The following 2 pairs of parts of speech are connected with `compound`: <tt><a h
 23	девять	девять	NUM	CD	Case=Nom	24	nummod	_	_
 24	историй	история	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	21	nsubj:pass	_	SpaceAfter=No
 25	.	.	PUNCT	.	_	21	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 21	bgColor:blue
+# visual-style 21	fgColor:white
+# visual-style 22	bgColor:blue
+# visual-style 22	fgColor:white
+# visual-style 22 21 compound	color:blue
+1	Компания	компания	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
+2	сказала	сказать	VERB	VBC	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	BBC	BBC	X	NNP	Foreign=Yes	2	iobj	_	SpaceAfter=No
+4	,	,	PUNCT	,	_	8	punct	_	_
+5	что	что	SCONJ	IN	_	8	mark	_	_
+6	каждой	каждый	DET	DT	Case=Gen|Gender=Fem|Number=Sing|PronType=Tot	7	det	_	_
+7	авиакомпании	авиакомпания	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	iobj	_	_
+8	нужно	нужный	ADJ	PRED	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	2	ccomp	_	_
+9	будет	быть	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	8	aux	_	_
+10	решать	решать	VERB	VB	Aspect=Imp|VerbForm=Inf|Voice=Act	8	csubj	_	_
+11	самой	сам	ADJ	JJ	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	10	obl	_	SpaceAfter=No
+12	,	,	PUNCT	,	_	13	punct	_	_
+13	взимать	взимать	VERB	VB	Aspect=Imp|VerbForm=Inf|Voice=Act	10	ccomp	_	_
+14	ли	ли	PART	RP	_	13	advmod	_	_
+15	плату	плата	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	13	obj	_	_
+16	с	с	ADP	IN	_	17	case	_	_
+17	пассажиров	пассажир	NOUN	NN	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	13	obl	_	_
+18	за	за	ADP	IN	_	19	case	_	_
+19	доступ	доступ	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	13	obl	_	_
+20	к	к	ADP	IN	_	22	case	_	_
+21	Wi-Fi	Wi-Fi	X	NN	Foreign=Yes	22	compound	_	Proper=True
+22	cети	сеть	NOUN	NN	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	19	nmod	_	SpaceAfter=No
+23	.	.	PUNCT	.	_	2	punct	_	_
 
 ~~~
 

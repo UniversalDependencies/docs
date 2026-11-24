@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-83 nodes (6%) are attached to their parents as `obj`.
+94 nodes (6%) are attached to their parents as `obj`.
 
-80 instances of `obj` (96%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.67469879518072.
+91 instances of `obj` (97%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.62765957446809.
 
-The following 6 pairs of parts of speech are connected with `obj`: <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (50; 60% instances), <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt> (16; 19% instances), <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt> (12; 14% instances), <tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt>-<tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="ceb_gja-pos-ADV.html">ADV</a></tt>-<tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 8 pairs of parts of speech are connected with `obj`: <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (51; 54% instances), <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt> (17; 18% instances), <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt> (15; 16% instances), <tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (5; 5% instances), <tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt>-<tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="ceb_gja-pos-ADV.html">ADV</a></tt>-<tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

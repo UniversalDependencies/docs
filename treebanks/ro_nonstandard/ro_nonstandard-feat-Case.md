@@ -10,20 +10,20 @@ This feature is universal.
 It occurs with 5 different values: `Acc`, `Dat`, `Gen`, `Nom`, `Voc`.
 Some words have combined values of the feature; 2 combinations have been observed: `Acc|Nom`, `Dat|Gen`.
 
-282337 tokens (49%) have a non-empty value of `Case`.
-22887 types (72%) occur at least once with a non-empty value of `Case`.
-9856 lemmas (80%) occur at least once with a non-empty value of `Case`.
-The feature is used with 9 part-of-speech tags: <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (96781; 17% instances), <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> (66980; 12% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (64433; 11% instances), <tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt> (20988; 4% instances), <tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt> (19968; 3% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt> (11253; 2% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (1145; 0% instances), <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (788; 0% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+282331 tokens (49%) have a non-empty value of `Case`.
+22884 types (72%) occur at least once with a non-empty value of `Case`.
+9854 lemmas (80%) occur at least once with a non-empty value of `Case`.
+The feature is used with 9 part-of-speech tags: <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (96780; 17% instances), <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> (66978; 12% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (64434; 11% instances), <tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt> (20985; 4% instances), <tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt> (19967; 3% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt> (11253; 2% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (1145; 0% instances), <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (788; 0% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-96781 <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
+96780 <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=Sing</tt> (71134; 73%), <tt><a href="ro_nonstandard-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (52238; 54%), <tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (49597; 51%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=Sing</tt> (71133; 73%), <tt><a href="ro_nonstandard-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (52238; 54%), <tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (49596; 51%).
 
 `NOUN` tokens may have the following values of `Case`:
 
-* `Acc,Nom` (87449; 90% of non-empty `Case`): <em>vodă, domnul, țara, țară, omul, om, oaste, cuvîntul, lume, oameni</em>
+* `Acc,Nom` (87448; 90% of non-empty `Case`): <em>vodă, domnul, țara, țară, omul, om, oaste, cuvîntul, lume, oameni</em>
 * `Dat,Gen` (7983; 8% of non-empty `Case`): <em>domnului, oamenilor, omului, jidovilor, împăratului, turcilor, pămîntului, trupului, popilor, lumii</em>
 * `Voc` (1349; 1% of non-empty `Case`): <em>doamne, fraților, Învățătoriule, părinte, frate, bade, stăpîne, bădiță, cuvinte, dorule</em>
 * `EMPTY` (1): <em>neamure</em>
@@ -39,13 +39,13 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `ADP`
 
-66980 <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> tokens (100% of all `ADP` tokens) have a non-empty value of `Case`.
+66978 <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> tokens (100% of all `ADP` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADP` and `Case` co-occurred: <tt><a href="ro_nonstandard-feat-AdpType.html">AdpType</a></tt><tt>=Prep</tt> (66921; 100%), <tt><a href="ro_nonstandard-feat-Compound.html">Compound</a></tt><tt>=EMPTY</tt> (57016; 85%).
+The most frequent other feature values with which `ADP` and `Case` co-occurred: <tt><a href="ro_nonstandard-feat-AdpType.html">AdpType</a></tt><tt>=Prep</tt> (66919; 100%), <tt><a href="ro_nonstandard-feat-Compound.html">Compound</a></tt><tt>=EMPTY</tt> (57014; 85%).
 
 `ADP` tokens may have the following values of `Case`:
 
-* `Acc` (66082; 99% of non-empty `Case`): <em>de, cu, la, în, pre, din, pe, ca, pentru, după</em>
+* `Acc` (66080; 99% of non-empty `Case`): <em>de, cu, la, în, pre, din, pe, ca, pentru, după</em>
 * `Dat` (31; 0% of non-empty `Case`): <em>asupră, derept, nainte, asemenea, denainte, înainte</em>
 * `Gen` (867; 1% of non-empty `Case`): <em>înaintea, asupra, împrotiva, împotriva, asupră, denaintea, dinaintea, înainte, desupra, denainte</em>
 * `EMPTY` (2): <em>ca, pre</em>
@@ -60,19 +60,19 @@ The most frequent other feature values with which `ADP` and `Case` co-occurred: 
 
 ### `PRON`
 
-64433 <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
+64434 <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt> (50217; 78%), <tt><a href="ro_nonstandard-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (45908; 71%), <tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (37306; 58%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt> (50218; 78%), <tt><a href="ro_nonstandard-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (45907; 71%), <tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (37307; 58%).
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Acc` (25325; 39% of non-empty `Case`): <em>să, -l, s-, el, -i, mă, l-, o, se, s</em>
-* `Acc,Nom` (20871; 32% of non-empty `Case`): <em>ce, el, carele, cine, carii, aceaia, tu, care, aceasta, carea</em>
-* `Dat` (11541; 18% of non-empty `Case`): <em>-i, lor, -mi, le, mi-, lui, i-, voao, mi, -ț</em>
+* `Acc` (25324; 39% of non-empty `Case`): <em>să, -l, s-, el, -i, mă, l-, o, se, s</em>
+* `Acc,Nom` (20873; 32% of non-empty `Case`): <em>ce, el, carele, cine, carii, aceaia, tu, care, aceasta, carea</em>
+* `Dat` (11540; 18% of non-empty `Case`): <em>-i, lor, -mi, le, mi-, lui, i-, voao, mi, -ț</em>
 * `Dat,Gen` (1794; 3% of non-empty `Case`): <em>lor, căruia, celora, cărora, tuturor, celor, cui, altuia, celuia, acelora</em>
-* `Gen` (2670; 4% of non-empty `Case`): <em>lui, ei, măriei, lor, măriii, o, mării, iei, svințiii, -i</em>
+* `Gen` (2671; 4% of non-empty `Case`): <em>lui, ei, măriei, lor, măriii, o, mării, iei, svințiii, -i</em>
 * `Nom` (2232; 3% of non-empty `Case`): <em>eu, ei, noi, dînșii, dînşii, dânșii, înșii, ele, iei, le</em>
-* `EMPTY` (194): <em>însuși, eiși, nostru, meu, tău, voiși, înșivă, noastre, mineși, săi</em>
+* `EMPTY` (191): <em>însuși, eiși, nostru, meu, tău, voiși, înșivă, noastre, mineși, săi</em>
 
 <table>
   <tr><th>Paradigm <i>el</i></th><th><tt>Acc,Nom</tt></th><th><tt>Dat,Gen</tt></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th></tr>
@@ -106,15 +106,15 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 ### `DET`
 
-20988 <tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt> tokens (88% of all `DET` tokens) have a non-empty value of `Case`.
+20985 <tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt> tokens (88% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="ro_nonstandard-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (19047; 91%), <tt><a href="ro_nonstandard-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (18027; 86%), <tt><a href="ro_nonstandard-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (17742; 85%), <tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=Sing</tt> (16246; 77%), <tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (11427; 54%), <tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (10800; 51%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="ro_nonstandard-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (19043; 91%), <tt><a href="ro_nonstandard-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (18029; 86%), <tt><a href="ro_nonstandard-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (17739; 85%), <tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=Sing</tt> (16248; 77%), <tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (11423; 54%), <tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (10795; 51%).
 
 `DET` tokens may have the following values of `Case`:
 
-* `Acc,Nom` (17054; 81% of non-empty `Case`): <em>a, un, o, toată, ta, toate, tot, al, cel, cea</em>
-* `Dat,Gen` (3934; 19% of non-empty `Case`): <em>lui, celui, celor, sale, tuturor, unui, aceștii, tale, lu, acelui</em>
-* `EMPTY` (2870): <em>mieu, tău, său, nostru, -său, tale, voastre, sale, miei, săi</em>
+* `Acc,Nom` (17050; 81% of non-empty `Case`): <em>a, un, o, toată, ta, toate, tot, al, cel, cea</em>
+* `Dat,Gen` (3935; 19% of non-empty `Case`): <em>lui, celui, celor, sale, tuturor, unui, aceștii, tale, lu, acelui</em>
+* `EMPTY` (2874): <em>mieu, tău, său, nostru, -său, tale, voastre, sale, miei, săi</em>
 
 <table>
   <tr><th>Paradigm <i>-ul</i></th><th><tt>Acc,Nom</tt></th><th><tt>Dat,Gen</tt></th></tr>
@@ -129,13 +129,13 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 
 ### `PROPN`
 
-19968 <tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt> tokens (99% of all `PROPN` tokens) have a non-empty value of `Case`.
+19967 <tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt> tokens (99% of all `PROPN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=Sing</tt> (19121; 96%), <tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (16817; 84%), <tt><a href="ro_nonstandard-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (15278; 77%).
+The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=Sing</tt> (19120; 96%), <tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (16816; 84%), <tt><a href="ro_nonstandard-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (15277; 77%).
 
 `PROPN` tokens may have the following values of `Case`:
 
-* `Acc,Nom` (18754; 94% of non-empty `Case`): <em>dumnezău, Iisus, Hristos, Pavel, David, Poartă, Pătru, Ioan, Mihai-, Duca</em>
+* `Acc,Nom` (18753; 94% of non-empty `Case`): <em>dumnezău, Iisus, Hristos, Pavel, David, Poartă, Pătru, Ioan, Mihai-, Duca</em>
 * `Dat,Gen` (1018; 5% of non-empty `Case`): <em>Ducăi, Moscului, Moldovii, Moldovei, Evangheliei, Brîncovanului, Neamțului, Evanghelii, Hotinului, Galileei</em>
 * `Voc` (196; 1% of non-empty `Case`): <em>Doamne, Gruio, Iisuse, Dumitre, Saule, Staline, Manole, Agrippo, Dumnezeule, Ioane</em>
 * `EMPTY` (167): <em>tîrgu, târgu, greșală, Dunărea, războiu, boer, iarăș, Catargiul, Chipru, Filimon</em>
@@ -186,7 +186,7 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 
 * `Acc,Nom` (1095; 96% of non-empty `Case`): <em>scrisă, dată, făcută, adevărată, pusă, aleasă, -ndurată, ascunsă, neapărată, vestită</em>
 * `Dat,Gen` (50; 4% of non-empty `Case`): <em>adevărate, arate, curate, -nnodate, aduse, arătate, uscate, încleștate, acoperite, alease</em>
-* `EMPTY` (73978): <em>zise, făcut, face, da, dat, era, luat, zice, veni, avea</em>
+* `EMPTY` (73982): <em>zise, făcut, face, da, dat, era, luat, zice, veni, avea</em>
 
 <table>
   <tr><th>Paradigm <i>face</i></th><th><tt>Acc,Nom</tt></th><th><tt>Dat,Gen</tt></th></tr>
@@ -227,19 +227,19 @@ The most frequent other feature values with which `ADV` and `Case` co-occurred: 
 `ADV` tokens may have the following values of `Case`:
 
 * `Acc,Nom` (1; 100% of non-empty `Case`): <em>cît</em>
-* `EMPTY` (34595): <em>nu, mai, și, cum, n-, cînd, numai, şi, tot, unde</em>
+* `EMPTY` (34598): <em>nu, mai, și, cum, n-, cînd, numai, şi, tot, unde</em>
 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="ro_nonstandard-dep-det.html">det</a></tt>]--> DET</tt> (12513; 76%),
-<tt>NOUN --[<tt><a href="ro_nonstandard-dep-amod.html">amod</a></tt>]--> ADJ</tt> (6887; 90%),
+<tt>NOUN --[<tt><a href="ro_nonstandard-dep-det.html">det</a></tt>]--> DET</tt> (12516; 76%),
+<tt>NOUN --[<tt><a href="ro_nonstandard-dep-amod.html">amod</a></tt>]--> ADJ</tt> (6889; 90%),
 <tt>NOUN --[<tt><a href="ro_nonstandard-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (6759; 58%),
-<tt>NOUN --[<tt><a href="ro_nonstandard-dep-conj.html">conj</a></tt>]--> NOUN</tt> (6697; 98%),
-<tt>NOUN --[<tt><a href="ro_nonstandard-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (3790; 78%),
+<tt>NOUN --[<tt><a href="ro_nonstandard-dep-conj.html">conj</a></tt>]--> NOUN</tt> (6698; 98%),
+<tt>NOUN --[<tt><a href="ro_nonstandard-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (3789; 78%),
 <tt>PROPN --[<tt><a href="ro_nonstandard-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2858; 95%),
 <tt>ADP --[<tt><a href="ro_nonstandard-dep-fixed.html">fixed</a></tt>]--> ADP</tt> (2317; 100%),
-<tt>NOUN --[<tt><a href="ro_nonstandard-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (1043; 88%),
+<tt>NOUN --[<tt><a href="ro_nonstandard-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (1041; 88%),
 <tt>PROPN --[<tt><a href="ro_nonstandard-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (996; 93%),
-<tt>NOUN --[<tt><a href="ro_nonstandard-dep-appos.html">appos</a></tt>]--> NOUN</tt> (991; 94%).
+<tt>NOUN --[<tt><a href="ro_nonstandard-dep-appos.html">appos</a></tt>]--> NOUN</tt> (994; 94%).
 

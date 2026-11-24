@@ -12,17 +12,17 @@ It occurs with 2 different values: `Act`, `Pass`.
 21747 tokens (8%) have a non-empty value of `Voice`.
 4072 types (16%) occur at least once with a non-empty value of `Voice`.
 1564 lemmas (10%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 2 part-of-speech tags: <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (21244; 8% instances), <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> (503; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (21245; 8% instances), <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> (502; 0% instances).
 
 ### `VERB`
 
-21244 <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Voice`.
+21245 <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="ar_padt-feat-Person.html">Person</a></tt><tt>=3</tt> (20900; 98%), <tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (19810; 93%), <tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (13410; 63%), <tt><a href="ar_padt-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (11215; 53%), <tt><a href="ar_padt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (11215; 53%), <tt><a href="ar_padt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (11215; 53%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="ar_padt-feat-Person.html">Person</a></tt><tt>=3</tt> (20901; 98%), <tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (19811; 93%), <tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (13410; 63%), <tt><a href="ar_padt-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (11215; 53%), <tt><a href="ar_padt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (11215; 53%), <tt><a href="ar_padt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (11215; 53%).
 
 `VERB` tokens may have the following values of `Voice`:
 
-* `Act` (20020; 94% of non-empty `Voice`): قال، كان، أضاف، كانت، تم، أكد، يتم، يمكن، أشار، أوضح
+* `Act` (20021; 94% of non-empty `Voice`): قال، كان، أضاف، كانت، تم، أكد، يتم، يمكن، أشار، أوضح
 * `Pass` (1224; 6% of non-empty `Voice`): يذكر، يوجد، قتل، يتوقع، تعد، تعتبر، يعد، أصيب، توجد، يعتبر
 * `EMPTY` (52): حاول، د، دعوا، حث، ابحث، احرص، اخدموا، افتحوا، اكسون، انتبه
 
@@ -44,21 +44,21 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 ### `AUX`
 
-503 <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> tokens (23% of all `AUX` tokens) have a non-empty value of `Voice`.
+502 <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> tokens (24% of all `AUX` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="ar_padt-feat-Person.html">Person</a></tt><tt>=3</tt> (492; 98%), <tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (488; 97%), <tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (326; 65%), <tt><a href="ar_padt-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (308; 61%).
+The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="ar_padt-feat-Person.html">Person</a></tt><tt>=3</tt> (491; 98%), <tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (487; 97%), <tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (326; 65%), <tt><a href="ar_padt-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (308; 61%).
 
 `AUX` tokens may have the following values of `Voice`:
 
-* `Act` (503; 100% of non-empty `Voice`): كان، يكون، ليس، تكون، كانت، ليست، يكن، تكن، كانوا، كنت
-* `EMPTY` (1651): س، قد، سوف، ما، هل، ربما، أ، كن، علّ، لقد
+* `Act` (502; 100% of non-empty `Voice`): كان، يكون، ليس، تكون، كانت، ليست، يكن، تكن، كانوا، كنت
+* `EMPTY` (1630): س، قد، سوف، ما، ربما، كن، علّ، لقد
 
 ## Relations with Agreement in `Voice`
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
-<tt>VERB --[<tt><a href="ar_padt-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (2410; 92%),
-<tt>VERB --[<tt><a href="ar_padt-dep-conj.html">conj</a></tt>]--> VERB</tt> (2381; 93%),
-<tt>VERB --[<tt><a href="ar_padt-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1021; 91%),
+<tt>VERB --[<tt><a href="ar_padt-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (2409; 92%),
+<tt>VERB --[<tt><a href="ar_padt-dep-conj.html">conj</a></tt>]--> VERB</tt> (2380; 93%),
+<tt>VERB --[<tt><a href="ar_padt-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1022; 91%),
 <tt>VERB --[<tt><a href="ar_padt-dep-advcl-pred.html">advcl:pred</a></tt>]--> VERB</tt> (620; 96%),
 <tt>VERB --[<tt><a href="ar_padt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (238; 94%),
 <tt>VERB --[<tt><a href="ar_padt-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (184; 68%),

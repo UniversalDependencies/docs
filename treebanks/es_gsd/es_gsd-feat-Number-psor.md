@@ -13,7 +13,7 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 
 361 tokens (0%) have a non-empty value of `Number[psor]`.
 19 types (0%) occur at least once with a non-empty value of `Number[psor]`.
-6 lemmas (0%) occur at least once with a non-empty value of `Number[psor]`.
+5 lemmas (0%) occur at least once with a non-empty value of `Number[psor]`.
 The feature is used with 1 part-of-speech tags: <tt><a href="es_gsd-pos-DET.html">DET</a></tt> (361; 0% instances).
 
 ### `DET`

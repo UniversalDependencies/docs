@@ -23,13 +23,13 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 `VERB` tokens may have the following values of `Polarity`:
 
 * `Neg` (62; 100% of non-empty `Polarity`): <em>phabtama, thaima, thema, themate, lama, thaithema, muma, rema, rungma, Kajahnma</em>
-* `EMPTY` (572): <em>la, the, rung, yoan, chari, mu, dhohnte, nue, reha, thai</em>
+* `EMPTY` (562): <em>la, the, rung, yoan, chari, mu, dhohnte, nue, reha, thai</em>
 
 `Polarity` seems to be **lexical feature** of `VERB`. 100% lemmas (32) occur only with one value of `Polarity`.
 
 ### `INTJ`
 
-32 <tt><a href="nmf_suansu-pos-INTJ.html">INTJ</a></tt> tokens (39% of all `INTJ` tokens) have a non-empty value of `Polarity`.
+32 <tt><a href="nmf_suansu-pos-INTJ.html">INTJ</a></tt> tokens (40% of all `INTJ` tokens) have a non-empty value of `Polarity`.
 
 The most frequent other feature values with which `INTJ` and `Polarity` co-occurred: <tt><a href="nmf_suansu-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (22; 69%).
 
@@ -37,16 +37,16 @@ The most frequent other feature values with which `INTJ` and `Polarity` co-occur
 
 * `Neg` (8; 25% of non-empty `Polarity`): <em>garhe, ma, me</em>
 * `Pos` (24; 75% of non-empty `Polarity`): <em>ame, ay</em>
-* `EMPTY` (50): <em>wi, kaima, Uh, ay, morning, Good, Uhg, min, mlea, ska</em>
+* `EMPTY` (49): <em>wi, kaima, Uh, ay, morning, Good, Uhg, min, mlea, ska</em>
 
 ### `PART`
 
-21 <tt><a href="nmf_suansu-pos-PART.html">PART</a></tt> tokens (42% of all `PART` tokens) have a non-empty value of `Polarity`.
+21 <tt><a href="nmf_suansu-pos-PART.html">PART</a></tt> tokens (44% of all `PART` tokens) have a non-empty value of `Polarity`.
 
 `PART` tokens may have the following values of `Polarity`:
 
 * `Neg` (21; 100% of non-empty `Polarity`): <em>garhe, rema, khama, garhema</em>
-* `EMPTY` (29): <em>re, reha, gala, dinan, la, lagu, reganan, rehate, remale, zahai</em>
+* `EMPTY` (27): <em>re, reha, gala, dinan, lagu, reganan, rehate, remale, zahai</em>
 
 ### `AUX`
 
@@ -57,7 +57,7 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 `AUX` tokens may have the following values of `Polarity`:
 
 * `Neg` (7; 100% of non-empty `Polarity`): <em>gama, lama, lalama</em>
-* `EMPTY` (169): <em>la, lale, rahn, dai, laha, rahnte, ga, geraha, e, gu</em>
+* `EMPTY` (162): <em>la, lale, rahn, dai, laha, rahnte, geraha, ga, e, gu</em>
 
 ### `ADV`
 
@@ -68,7 +68,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (5; 100% of non-empty `Polarity`): <em>prye, rema, chaszuma</em>
-* `EMPTY` (188): <em>li, re, bathanahn, gare, dre, hano, reganan, szuraire, rai, daichu</em>
+* `EMPTY` (185): <em>li, re, bathanahn, gare, dre, hano, reganan, szuraire, daichu, rai</em>
 
 ### `ADJ`
 
@@ -90,7 +90,7 @@ The most frequent other feature values with which `NOUN` and `Polarity` co-occur
 `NOUN` tokens may have the following values of `Polarity`:
 
 * `Neg` (1; 100% of non-empty `Polarity`): <em>miszuma</em>
-* `EMPTY` (669): <em>miszu, neo, baneo, insurance, leneo, rhui, puirawi, neodi, baneodi, Szukhyate</em>
+* `EMPTY` (666): <em>miszu, neo, baneo, insurance, leneo, rhui, puirawi, neodi, baneodi, Szukhyate</em>
 
 ### `NUM`
 
@@ -110,7 +110,7 @@ The most frequent other feature values with which `NUM` and `Polarity` co-occurr
 `SCONJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (1; 100% of non-empty `Polarity`): <em>dime</em>
-* `EMPTY` (70): <em>di, ragu, gase, byahn, laiteragu, gu, gasebyahn, re, regwenan, renan</em>
+* `EMPTY` (69): <em>di, ragu, gase, byahn, laiteragu, gu, gasebyahn, re, regwenan, renan</em>
 
 ## Relations with Agreement in `Polarity`
 

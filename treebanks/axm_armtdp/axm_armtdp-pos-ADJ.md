@@ -6,64 +6,85 @@ udver: '2'
 
 ## Treebank Statistics: UD_Middle_Armenian-ArmTDP: POS Tags: `ADJ`
 
-There are 32 `ADJ` lemmas (9%), 32 `ADJ` types (8%) and 37 `ADJ` tokens (3%).
-Out of 14 observed tags, the rank of `ADJ` is: 3 in number of lemmas, 3 in number of types and 8 in number of tokens.
+There are 168 `ADJ` lemmas (14%), 171 `ADJ` types (11%) and 355 `ADJ` tokens (6%).
+Out of 15 observed tags, the rank of `ADJ` is: 3 in number of lemmas, 3 in number of types and 6 in number of tokens.
 
-The 10 most frequent `ADJ` lemmas: <em>յոլով, այլազգ, շատ, պատեհ, անպսակ, արժան, արքունի, աւրինադրակից, բարձր, գաղտուկ</em>
+The 10 most frequent `ADJ` lemmas: <em>մեծ, աղէկ, հոռոմ, գեղեցիկ, փոքր, սուրբ, սեւ, բազում, բոլոր, միջակ</em>
 
-The 10 most frequent `ADJ` types:  <em>յոլով, այլազգ, շատ, պատեհ, անպսակ, արժան, արքունի, աւրինադրակից, բարձր, գաղտուկ</em>
+The 10 most frequent `ADJ` types:  <em>աղէկ, հոռոմ, մեծ, գեղեցիկ, փոքր, սուրբ, սեւ, բազում, բոլոր, միջակ</em>
 
-The 10 most frequent ambiguous lemmas: <em>շատ</em> (<tt><a href="axm_armtdp-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="axm_armtdp-pos-ADV.html">ADV</a></tt> 1), <em>դժնիկ</em> (<tt><a href="axm_armtdp-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="axm_armtdp-pos-NOUN.html">NOUN</a></tt> 1), <em>խիստ</em> (<tt><a href="axm_armtdp-pos-ADV.html">ADV</a></tt> 2, <tt><a href="axm_armtdp-pos-ADJ.html">ADJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>աղէկ</em> (<tt><a href="axm_armtdp-pos-ADJ.html">ADJ</a></tt> 13, <tt><a href="axm_armtdp-pos-ADV.html">ADV</a></tt> 6, <tt><a href="axm_armtdp-pos-NOUN.html">NOUN</a></tt> 2), <em>միջակ</em> (<tt><a href="axm_armtdp-pos-ADJ.html">ADJ</a></tt> 6, <tt><a href="axm_armtdp-pos-NOUN.html">NOUN</a></tt> 1), <em>շող</em> (<tt><a href="axm_armtdp-pos-ADJ.html">ADJ</a></tt> 6, <tt><a href="axm_armtdp-pos-ADV.html">ADV</a></tt> 4), <em>սպիտակ</em> (<tt><a href="axm_armtdp-pos-ADJ.html">ADJ</a></tt> 6, <tt><a href="axm_armtdp-pos-NOUN.html">NOUN</a></tt> 1), <em>դեղին</em> (<tt><a href="axm_armtdp-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="axm_armtdp-pos-NOUN.html">NOUN</a></tt> 1), <em>շատ</em> (<tt><a href="axm_armtdp-pos-ADV.html">ADV</a></tt> 6, <tt><a href="axm_armtdp-pos-ADJ.html">ADJ</a></tt> 5), <em>քիչ</em> (<tt><a href="axm_armtdp-pos-ADV.html">ADV</a></tt> 9, <tt><a href="axm_armtdp-pos-ADJ.html">ADJ</a></tt> 4), <em>կարճ</em> (<tt><a href="axm_armtdp-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="axm_armtdp-pos-ADV.html">ADV</a></tt> 1, <tt><a href="axm_armtdp-pos-NOUN.html">NOUN</a></tt> 1), <em>կարմիր</em> (<tt><a href="axm_armtdp-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="axm_armtdp-pos-NOUN.html">NOUN</a></tt> 1), <em>սուր</em> (<tt><a href="axm_armtdp-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="axm_armtdp-pos-NOUN.html">NOUN</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>շատ</em> (<tt><a href="axm_armtdp-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="axm_armtdp-pos-ADV.html">ADV</a></tt> 1), <em>դժնիկ</em> (<tt><a href="axm_armtdp-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="axm_armtdp-pos-NOUN.html">NOUN</a></tt> 1), <em>խիստ</em> (<tt><a href="axm_armtdp-pos-ADV.html">ADV</a></tt> 2, <tt><a href="axm_armtdp-pos-ADJ.html">ADJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>աղէկ</em> (<tt><a href="axm_armtdp-pos-ADJ.html">ADJ</a></tt> 13, <tt><a href="axm_armtdp-pos-ADV.html">ADV</a></tt> 6), <em>շող</em> (<tt><a href="axm_armtdp-pos-ADJ.html">ADJ</a></tt> 6, <tt><a href="axm_armtdp-pos-ADV.html">ADV</a></tt> 4), <em>սպիտակ</em> (<tt><a href="axm_armtdp-pos-ADJ.html">ADJ</a></tt> 6, <tt><a href="axm_armtdp-pos-NOUN.html">NOUN</a></tt> 1), <em>շատ</em> (<tt><a href="axm_armtdp-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="axm_armtdp-pos-ADV.html">ADV</a></tt> 5), <em>քիչ</em> (<tt><a href="axm_armtdp-pos-ADV.html">ADV</a></tt> 9, <tt><a href="axm_armtdp-pos-ADJ.html">ADJ</a></tt> 4), <em>կարճ</em> (<tt><a href="axm_armtdp-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="axm_armtdp-pos-ADV.html">ADV</a></tt> 1), <em>դժար</em> (<tt><a href="axm_armtdp-pos-ADV.html">ADV</a></tt> 3, <tt><a href="axm_armtdp-pos-ADJ.html">ADJ</a></tt> 2), <em>կատարեալ</em> (<tt><a href="axm_armtdp-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="axm_armtdp-pos-VERB.html">VERB</a></tt> 1), <em>հայ</em> (<tt><a href="axm_armtdp-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="axm_armtdp-pos-NOUN.html">NOUN</a></tt> 1), <em>նման</em> (<tt><a href="axm_armtdp-pos-ADP.html">ADP</a></tt> 4, <tt><a href="axm_armtdp-pos-ADJ.html">ADJ</a></tt> 2)
 
 
+* <em>աղէկ</em>
+  * <tt><a href="axm_armtdp-pos-ADJ.html">ADJ</a></tt> 13: <em>Զոհալն ունի <b>աղէկ</b> ճորտերն , փայծաղն , զ ծնկներն ։</em>
+  * <tt><a href="axm_armtdp-pos-ADV.html">ADV</a></tt> 6: <em>Գիտացիր , որ այս ցաւս խիստ պեղծ ցաւ է , և պարտ է <b>աղէկ</b> ծառայել ։</em>
+* <em>շող</em>
+  * <tt><a href="axm_armtdp-pos-ADJ.html">ADJ</a></tt> 6: <em>Լուայ զ քածպարն <b>շող</b> ջրով սպկիկ , ու թող , որ ցամքի ։</em>
+  * <tt><a href="axm_armtdp-pos-ADV.html">ADV</a></tt> 4: <em>Կապէ զ գրաստն ի մութն տուն մի և առ մաքի ու զենէ ու քերթէ , ու առ զ մորթին ու <b>շող</b> <b>շող</b> հագոյ ի վրայ գլխոյն ու ի շլնեցն , որ հասնի , և զ բուրդն ի դուրս արայ ։</em>
+* <em>սպիտակ</em>
+  * <tt><a href="axm_armtdp-pos-ADJ.html">ADJ</a></tt> 6: <em>Լուսին զ <b>սպիտակ</b> գուն ՝ խառնած հետ դեղնի եւ կարմրի .</em>
+  * <tt><a href="axm_armtdp-pos-NOUN.html">NOUN</a></tt> 1: <em>Լուսաբեր ունի զ <b>սպիտակ</b> եւ զ կանանչ ։</em>
 * <em>շատ</em>
-  * <tt><a href="axm_armtdp-pos-ADJ.html">ADJ</a></tt> 2: <em>Եւ կայ այլ օձ , որ անուանի ֆիխուսիուս . եւ ինքս այլ փոքր լինի , քան զ իժն , այլ հաստ եւ այլ թանձր . եւ իւր խայթածն ի յ իժ օձի նման է , եւ ուռենայ խայթածն եւ այլ մարմինն , որպէս արծուիք , մարմինն լինի թոյլ , եւ կտրտի միսն , եւ ընկնի <b>շատ</b> գիջութենէն եւ <b>շատ</b> ցաւոյն :</em>
-  * <tt><a href="axm_armtdp-pos-ADV.html">ADV</a></tt> 1: <em>Եթէ իժ օձն խայթէ զ մարդն ՝ նշանն այս է , որ լինի ցաւն <b>շատ</b> ի խայթած տեղն եւ լնու զ մարմինն ցաւով , զի իւր թոյնքն տաք է եւ չոր հրոյ նման ։</em>
-* <em>դժնիկ</em>
-  * <tt><a href="axm_armtdp-pos-ADJ.html">ADJ</a></tt> 1: <em>Եւ կայ այլ օձ , որ անուանի յապիս . եւ այս օձս յորժամ ի գնալն լինի , նայ զ գլուխն բարձր կենայ ի կիսոյն ի վեր , եւ զ թոյնքն փչէ ի բերանոյն , եւ ընդ որ երթայ ՝ խոտն չորնայ . եւ իր խայթածին հետն զերթ ասխան հետ լինի , բայց ցաւն ՝ դժար եւ <b>դժնիկ</b> , եւ ելանէ ի խայթածէն արիւն , եւ ոչ ուռենայ . եւ խայթածն կուրնայ առ ժամն եւ պահն մեռնի :</em>
-  * <tt><a href="axm_armtdp-pos-NOUN.html">NOUN</a></tt> 1: <em>Եւ ազգ մի այլ կայ , որ ասի ատօրօս , որ ասի թէ խռով ընդ ամէն ինչ . եւ ասեն իւրն կաղնսէր , զի իւր բնակութիւնն հանապազ ի կաղնի ծառն լինի , եւ իւր հոտն ՝ հոտած <b>դժնիկ</b> . եւ մարդ , որ ի յ այն վայրսն շրջի , ոտներն ուռենայ եւ խաղաւարտի :</em>
-* <em>խիստ</em>
-  * <tt><a href="axm_armtdp-pos-ADV.html">ADV</a></tt> 2: <em>Եւ այլ ազգ կայ ի յ օձիցն , որ անուանին ծարաւած . երբ այս ազգ օձս խայթէ զ մարդն , նայ հանց ցաւէ <b>խիստ</b> , որ այլազգ օձոյ նն չ ցաւէ , եւ խայթածէն արիւն ելնէ . եւ ինքն ծարուենայ եւ բորբոքէ միշտ , եւ չ կշտանայ ջրով ի յոլով տաքութենէն եւ ի յոլով կրակէն , որ ի թոյնքն կայր . եւ մարդ չ ապրի ի նմայ խայթածէն :</em>
-  * <tt><a href="axm_armtdp-pos-ADJ.html">ADJ</a></tt> 1: <em>զ բերդտուքն եւ զ այնպիսիքն անհնար պիտի սպաննել եւ զ կինն ու զ որդիսն ծառայ տայ ի դարպասն եւ կարէ ծախել . եւ երբ իր <b>խիստ</b> ողորմութիւն այնէ ՝ որ չմեռնի , նա զ աչսն հանէ . բայց թէ զ տուրտվելն կատարեալ լինի այրել , անհնար մեռնի ։</em>
+  * <tt><a href="axm_armtdp-pos-ADJ.html">ADJ</a></tt> 5: <em>Լուսաբերն ունի ծաղր երես , անուշ զրուց , սպիտակ ու կարմիր կշտէ , <b>շատ</b> միս , աղէկ աչքեր , սեւ մանր ակռանի ։</em>
+  * <tt><a href="axm_armtdp-pos-ADV.html">ADV</a></tt> 5: <em>Եւ յ ամէն աւր տարպա մի հան զ ինք ի ջրէն ու աւծնէ զ ինք անպակ գինով ու հոռոմ ձիթով աղէկ <b>շատ</b> ու մարձէ դէպ ի վայր ։</em>
+* <em>քիչ</em>
+  * <tt><a href="axm_armtdp-pos-ADV.html">ADV</a></tt> 9: <em>Լուսինն ունի զ աղի եւ զ անհամն եւ զ այնոք որ <b>քիչ</b> թթու լինին ։</em>
+  * <tt><a href="axm_armtdp-pos-ADJ.html">ADJ</a></tt> 4: <em>Փայլածուն ունի աղէկ աչք , թուխ երես , փոքր ճակատ , մանր ակռաներ , <b>քիչ</b> մորուք , մազն բարակ ։</em>
+* <em>կարճ</em>
+  * <tt><a href="axm_armtdp-pos-ADJ.html">ADJ</a></tt> 3: <em>Զոհալն ունի զ այն մարդն , վատատեսակ եւ վատերես , մեծ գլուխ , փոքր աչք , արձակ բերան , թանձր շրթունք , շատ մազ սեւ գուն , մեծ ոտվի , <b>կարճ</b> մատունք ։</em>
+  * <tt><a href="axm_armtdp-pos-ADV.html">ADV</a></tt> 1: <em>Ժամանակագրութեանց երեք հարիւր եւ մեկ ամաց <b>կարճ</b> ի կարճոյ հաւաքեալ ի զանազան Պատմութեանց , հայ , ֆռանկ , եւ ասորի , շարագրեալ պարոն Հեթում տեառն Կօռիկոսայ , եւ արար զ այս բանք , ի թվիսն Հայոց ԷՃԽԵ ( 1296 ) եւ յ ամի մարդեղութեան տեառն ՌԲՃՂԶ ( 1296 ) :</em>
+* <em>դժար</em>
+  * <tt><a href="axm_armtdp-pos-ADV.html">ADV</a></tt> 3: <em>Նշանքն այս է , որ է ֆընտու , հեվայ գրաստն խիստ և լարի պինչքն , ու թուլնա գլուխն և ամէն զաւդվածքն , և փայտնայ ոտվին , և կտրի ի կերոյ , և ի սկիզբն այս ցաւուս ՝ ինչվի յ երեք աւրն ՝ լինի շունչն տաք , և հետ երեք աւուրն պաղ լինի շունչն ու այլընդլի , ու խփի աչվին ու խիստ <b>դժար</b> շարժի զ ամէն զաւդվածքն , ու տքալով գոզէ , և չ կարէ քայլ փոխել քանձ խիստ <b>դժար</b> , և երբ ընկնի ՝ <b>դժար</b> ելնէ յ ոտն , ու լինի , որ քրտնի անդմունքն ։</em>
+  * <tt><a href="axm_armtdp-pos-ADJ.html">ADJ</a></tt> 2: <em>Պատճառքն լինի ի հովէ և ի քրտնելոյ , որ դիպի ի յ ինք քամի ու պաղի , և ի խոցէ . որ յ արեգակն կապեն , նա ի յ այս ցաւս ընկնի . և է <b>դժար</b> ցաւ ։</em>
+* <em>կատարեալ</em>
+  * <tt><a href="axm_armtdp-pos-ADJ.html">ADJ</a></tt> 2: <em>Եւ եմ ազգաւ եւ հաւատով ասորի , աստուածապաշտութեամբ <b>կատարեալ</b> ուղղափառ ։</em>
+  * <tt><a href="axm_armtdp-pos-VERB.html">VERB</a></tt> 1: <em>Արդ ես , Թորոս տրուպ քահանայ , տեսեալ զ իս Ֆարաճ բժիշկս այս , եւ յոյժ աղաչեաց զ իս եւ շատ հարկեաց եւ բազում խոստմունս խոստացաւ ինձ եւ բազում երդմունս երդուեալ ինձ <b>կատարեալ</b> ի սուրբ եւ յ ընտրեալ արքայէն :</em>
+* <em>հայ</em>
+  * <tt><a href="axm_armtdp-pos-ADJ.html">ADJ</a></tt> 2: <em>Եւ ես յորժամ լուայ զ փափաքումն սուրբ արքային վասն սորին , ես ապա յ անձն առի եւ գրեցի ի սաւն եւ ապա վերստին նորոգեցի եւ գրեցի մեծ գիր ի յ արապ գրէ ի <b>հայ</b> բառ , ղորդ եւ յստակ ...</em>
+  * <tt><a href="axm_armtdp-pos-NOUN.html">NOUN</a></tt> 1: <em>Ժամանակագրութեանց երեք հարիւր եւ մեկ ամաց կարճ ի կարճոյ հաւաքեալ ի զանազան Պատմութեանց , <b>հայ</b> , ֆռանկ , եւ ասորի , շարագրեալ պարոն Հեթում տեառն Կօռիկոսայ , եւ արար զ այս բանք , ի թվիսն Հայոց ԷՃԽԵ ( 1296 ) եւ յ ամի մարդեղութեան տեառն ՌԲՃՂԶ ( 1296 ) :</em>
+* <em>նման</em>
+  * <tt><a href="axm_armtdp-pos-ADP.html">ADP</a></tt> 4: <em>Եւ նշան իւր խայթածին այս է . ուռենայ խայթածն , եւ խաղաւարտէ աստ եւ անդ , եւ ելնէ յ իւրմէն գիջութիւն եւ յարիւն ջուրի <b>նման</b> , եւ ստամոքն ցաւէ :</em>
+  * <tt><a href="axm_armtdp-pos-ADJ.html">ADJ</a></tt> 2: <em>Եւ նշանքն այս է . <b>նման</b> է այս ցաւս ի շուկակն , ու չ առնու զ ամէն ձեռն , և ելնէ յ իրմէ գիճութիւն և թարախ ։</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.000000 (the average of all parts of speech is 1.234421).
+The form / lemma ratio of `ADJ` is 1.017857 (the average of all parts of speech is 1.330000).
 
-The 1st highest number of forms (1) was observed with the lemma “այլազգ”: <em>այլազգ</em>.
+The 1st highest number of forms (3) was observed with the lemma “մեծ”: <em>մեծ, մեծի, մեծն</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “անպսակ”: <em>անպսակ</em>.
+The 2nd highest number of forms (2) was observed with the lemma “սուրբ”: <em>սուրբ, սրբոյ</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “արժան”: <em>արժան</em>.
+The 3rd highest number of forms (1) was observed with the lemma “աղեկ”: <em>աղեկ</em>.
 
-`ADJ` occurs with 2 features: <tt><a href="axm_armtdp-feat-Degree.html">Degree</a></tt> (24; 65% instances), <tt><a href="axm_armtdp-feat-Style.html">Style</a></tt> (1; 3% instances)
+`ADJ` occurs with 7 features: <tt><a href="axm_armtdp-feat-Degree.html">Degree</a></tt> (166; 47% instances), <tt><a href="axm_armtdp-feat-Style.html">Style</a></tt> (12; 3% instances), <tt><a href="axm_armtdp-feat-Case.html">Case</a></tt> (11; 3% instances), <tt><a href="axm_armtdp-feat-Number.html">Number</a></tt> (8; 2% instances), <tt><a href="axm_armtdp-feat-NumType.html">NumType</a></tt> (5; 1% instances), <tt><a href="axm_armtdp-feat-NumForm.html">NumForm</a></tt> (2; 1% instances), <tt><a href="axm_armtdp-feat-ExtPos.html">ExtPos</a></tt> (1; 0% instances)
 
-`ADJ` occurs with 2 feature-value pairs: `Degree=Pos`, `Style=Var`
+`ADJ` occurs with 13 feature-value pairs: `Case=Dat`, `Case=Gen`, `Degree=Pos`, `Degree=Sup`, `ExtPos=ADJ`, `NumForm=Word`, `NumType=Ord`, `Number=Plur`, `Number=Sing`, `Style=Arch`, `Style=Expr`, `Style=Rare`, `Style=Var`
 
-`ADJ` occurs with 3 feature combinations.
-The most frequent feature combination is `Degree=Pos` (23 tokens).
-Examples: <em>յոլով, պատեհ, անպսակ, արժան, արքունի, գաղտուկ, դեղին, դժար, դժնիկ, թանձր</em>
+`ADJ` occurs with 14 feature combinations.
+The most frequent feature combination is `_` (169 tokens).
+Examples: <em>հոռոմ, սուրբ, սեւ, բազում, բոլոր, միջակ, սպիտակ, տափակ, անպակ, դեղին</em>
 
 
 ## Relations
 
-`ADJ` nodes are attached to their parents using 9 different relations: <tt><a href="axm_armtdp-dep-amod.html">amod</a></tt> (20; 54% instances), <tt><a href="axm_armtdp-dep-conj.html">conj</a></tt> (7; 19% instances), <tt><a href="axm_armtdp-dep-advcl.html">advcl</a></tt> (3; 8% instances), <tt><a href="axm_armtdp-dep-root.html">root</a></tt> (2; 5% instances), <tt><a href="axm_armtdp-dep-ccomp.html">ccomp</a></tt> (1; 3% instances), <tt><a href="axm_armtdp-dep-fixed.html">fixed</a></tt> (1; 3% instances), <tt><a href="axm_armtdp-dep-orphan.html">orphan</a></tt> (1; 3% instances), <tt><a href="axm_armtdp-dep-parataxis.html">parataxis</a></tt> (1; 3% instances), <tt><a href="axm_armtdp-dep-xcomp.html">xcomp</a></tt> (1; 3% instances)
+`ADJ` nodes are attached to their parents using 15 different relations: <tt><a href="axm_armtdp-dep-amod.html">amod</a></tt> (204; 57% instances), <tt><a href="axm_armtdp-dep-orphan.html">orphan</a></tt> (41; 12% instances), <tt><a href="axm_armtdp-dep-xcomp.html">xcomp</a></tt> (41; 12% instances), <tt><a href="axm_armtdp-dep-conj.html">conj</a></tt> (36; 10% instances), <tt><a href="axm_armtdp-dep-advcl.html">advcl</a></tt> (9; 3% instances), <tt><a href="axm_armtdp-dep-parataxis.html">parataxis</a></tt> (5; 1% instances), <tt><a href="axm_armtdp-dep-fixed.html">fixed</a></tt> (4; 1% instances), <tt><a href="axm_armtdp-dep-root.html">root</a></tt> (4; 1% instances), <tt><a href="axm_armtdp-dep-ccomp.html">ccomp</a></tt> (2; 1% instances), <tt><a href="axm_armtdp-dep-compound.html">compound</a></tt> (2; 1% instances), <tt><a href="axm_armtdp-dep-compound-lvc.html">compound:lvc</a></tt> (2; 1% instances), <tt><a href="axm_armtdp-dep-flat.html">flat</a></tt> (2; 1% instances), <tt><a href="axm_armtdp-dep-flat-redup.html">flat:redup</a></tt> (1; 0% instances), <tt><a href="axm_armtdp-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="axm_armtdp-dep-obl.html">obl</a></tt> (1; 0% instances)
 
-Parents of `ADJ` nodes belong to 6 different parts of speech: <tt><a href="axm_armtdp-pos-NOUN.html">NOUN</a></tt> (23; 62% instances), <tt><a href="axm_armtdp-pos-VERB.html">VERB</a></tt> (6; 16% instances), <tt><a href="axm_armtdp-pos-ADJ.html">ADJ</a></tt> (4; 11% instances),  (2; 5% instances), <tt><a href="axm_armtdp-pos-ADP.html">ADP</a></tt> (1; 3% instances), <tt><a href="axm_armtdp-pos-ADV.html">ADV</a></tt> (1; 3% instances)
+Parents of `ADJ` nodes belong to 7 different parts of speech: <tt><a href="axm_armtdp-pos-NOUN.html">NOUN</a></tt> (246; 69% instances), <tt><a href="axm_armtdp-pos-VERB.html">VERB</a></tt> (66; 19% instances), <tt><a href="axm_armtdp-pos-ADJ.html">ADJ</a></tt> (31; 9% instances), <tt><a href="axm_armtdp-pos-ADP.html">ADP</a></tt> (4; 1% instances),  (4; 1% instances), <tt><a href="axm_armtdp-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="axm_armtdp-pos-PRON.html">PRON</a></tt> (1; 0% instances)
 
-23 (62%) `ADJ` nodes are leaves.
+266 (75%) `ADJ` nodes are leaves.
 
-3 (8%) `ADJ` nodes have one child.
+57 (16%) `ADJ` nodes have one child.
 
-3 (8%) `ADJ` nodes have two children.
+15 (4%) `ADJ` nodes have two children.
 
-8 (22%) `ADJ` nodes have three or more children.
+17 (5%) `ADJ` nodes have three or more children.
 
-The highest child degree of a `ADJ` node is 11.
+The highest child degree of a `ADJ` node is 10.
 
-Children of `ADJ` nodes are attached using 11 different relations: <tt><a href="axm_armtdp-dep-punct.html">punct</a></tt> (13; 22% instances), <tt><a href="axm_armtdp-dep-cc.html">cc</a></tt> (9; 16% instances), <tt><a href="axm_armtdp-dep-cop.html">cop</a></tt> (8; 14% instances), <tt><a href="axm_armtdp-dep-mark.html">mark</a></tt> (6; 10% instances), <tt><a href="axm_armtdp-dep-conj.html">conj</a></tt> (5; 9% instances), <tt><a href="axm_armtdp-dep-advcl.html">advcl</a></tt> (4; 7% instances), <tt><a href="axm_armtdp-dep-nsubj.html">nsubj</a></tt> (4; 7% instances), <tt><a href="axm_armtdp-dep-obl.html">obl</a></tt> (4; 7% instances), <tt><a href="axm_armtdp-dep-advmod.html">advmod</a></tt> (2; 3% instances), <tt><a href="axm_armtdp-dep-csubj.html">csubj</a></tt> (2; 3% instances), <tt><a href="axm_armtdp-dep-iobj.html">iobj</a></tt> (1; 2% instances)
+Children of `ADJ` nodes are attached using 20 different relations: <tt><a href="axm_armtdp-dep-cc.html">cc</a></tt> (41; 24% instances), <tt><a href="axm_armtdp-dep-conj.html">conj</a></tt> (35; 20% instances), <tt><a href="axm_armtdp-dep-punct.html">punct</a></tt> (28; 16% instances), <tt><a href="axm_armtdp-dep-cop.html">cop</a></tt> (14; 8% instances), <tt><a href="axm_armtdp-dep-advmod.html">advmod</a></tt> (10; 6% instances), <tt><a href="axm_armtdp-dep-obl.html">obl</a></tt> (10; 6% instances), <tt><a href="axm_armtdp-dep-mark.html">mark</a></tt> (7; 4% instances), <tt><a href="axm_armtdp-dep-nsubj.html">nsubj</a></tt> (7; 4% instances), <tt><a href="axm_armtdp-dep-advcl.html">advcl</a></tt> (4; 2% instances), <tt><a href="axm_armtdp-dep-csubj.html">csubj</a></tt> (4; 2% instances), <tt><a href="axm_armtdp-dep-dep.html">dep</a></tt> (2; 1% instances), <tt><a href="axm_armtdp-dep-flat.html">flat</a></tt> (2; 1% instances), <tt><a href="axm_armtdp-dep-parataxis.html">parataxis</a></tt> (2; 1% instances), <tt><a href="axm_armtdp-dep-advcl-relcl.html">advcl:relcl</a></tt> (1; 1% instances), <tt><a href="axm_armtdp-dep-appos.html">appos</a></tt> (1; 1% instances), <tt><a href="axm_armtdp-dep-case.html">case</a></tt> (1; 1% instances), <tt><a href="axm_armtdp-dep-det.html">det</a></tt> (1; 1% instances), <tt><a href="axm_armtdp-dep-fixed.html">fixed</a></tt> (1; 1% instances), <tt><a href="axm_armtdp-dep-flat-redup.html">flat:redup</a></tt> (1; 1% instances), <tt><a href="axm_armtdp-dep-iobj.html">iobj</a></tt> (1; 1% instances)
 
-Children of `ADJ` nodes belong to 10 different parts of speech: <tt><a href="axm_armtdp-pos-PUNCT.html">PUNCT</a></tt> (13; 22% instances), <tt><a href="axm_armtdp-pos-CCONJ.html">CCONJ</a></tt> (9; 16% instances), <tt><a href="axm_armtdp-pos-AUX.html">AUX</a></tt> (8; 14% instances), <tt><a href="axm_armtdp-pos-NOUN.html">NOUN</a></tt> (7; 12% instances), <tt><a href="axm_armtdp-pos-SCONJ.html">SCONJ</a></tt> (6; 10% instances), <tt><a href="axm_armtdp-pos-VERB.html">VERB</a></tt> (6; 10% instances), <tt><a href="axm_armtdp-pos-ADJ.html">ADJ</a></tt> (4; 7% instances), <tt><a href="axm_armtdp-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="axm_armtdp-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="axm_armtdp-pos-DET.html">DET</a></tt> (1; 2% instances)
+Children of `ADJ` nodes belong to 12 different parts of speech: <tt><a href="axm_armtdp-pos-CCONJ.html">CCONJ</a></tt> (41; 24% instances), <tt><a href="axm_armtdp-pos-ADJ.html">ADJ</a></tt> (31; 18% instances), <tt><a href="axm_armtdp-pos-PUNCT.html">PUNCT</a></tt> (28; 16% instances), <tt><a href="axm_armtdp-pos-NOUN.html">NOUN</a></tt> (17; 10% instances), <tt><a href="axm_armtdp-pos-VERB.html">VERB</a></tt> (16; 9% instances), <tt><a href="axm_armtdp-pos-AUX.html">AUX</a></tt> (14; 8% instances), <tt><a href="axm_armtdp-pos-ADV.html">ADV</a></tt> (10; 6% instances), <tt><a href="axm_armtdp-pos-SCONJ.html">SCONJ</a></tt> (7; 4% instances), <tt><a href="axm_armtdp-pos-ADP.html">ADP</a></tt> (3; 2% instances), <tt><a href="axm_armtdp-pos-DET.html">DET</a></tt> (3; 2% instances), <tt><a href="axm_armtdp-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="axm_armtdp-pos-NUM.html">NUM</a></tt> (1; 1% instances)
 

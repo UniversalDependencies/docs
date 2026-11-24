@@ -28,7 +28,7 @@ The following 4 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 3	_	_	AUX	VB	VerbForm=Inf	5	aux	5:aux	Lem=_|Len=4
 4	_	_	AUX	VBN	Tense=Past|VerbForm=Part	5	cop	5:cop	Lem=be|Len=4
 5	_	_	NOUN	NNS	Number=Plur	0	root	0:root|7:nsubj	Entity=(128-person-giv:act-nnnnn-cf1-1-pred|Lem=hippie|Len=7|MSeg=hippie-s
-6	_	_	PRON	WP	PronType=Rel	7	nsubj	5:ref	Discourse=elaboration-attribute:133->132:0:syn-mdf-872-_+syn-relcl-873-874-_|Lem=_|Len=3
+6	_	_	PRON	WP	Case=Nom|PronType=Rel	7	nsubj	5:ref	Discourse=elaboration-attribute:133->132:0:syn-mdf-872-_+syn-relcl-873-874-_|Lem=_|Len=3
 7	_	_	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	acl:relcl	5:acl:relcl	Lem=think|Len=7
 8	_	_	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	9	nmod:poss	9:nmod:poss	Entity=(87-person-giv:inact-nnnnn-cf2-2-coref(128-person-giv:act-nnnnn-cf1-1-ana)|Lem=_|Len=5
 9	_	_	NOUN	NN	Number=Sing	12	nsubj	12:nsubj|15:nsubj:pass:xsubj	Entity=87)|Lem=_|Len=8

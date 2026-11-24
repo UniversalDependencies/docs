@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2201 nodes (2%) are attached to their parents as `advcl`.
+2202 nodes (2%) are attached to their parents as `advcl`.
 
 1813 instances of `advcl` (82%) are right-to-left (child precedes parent).
-Average distance between parent and child is 8.64016356201726.
+Average distance between parent and child is 8.64214350590372.
 
-The following 12 pairs of parts of speech are connected with `advcl`: <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt>-<tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (2094; 95% instances), <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (44; 2% instances), <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (40; 2% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt>-<tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt>-<tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt>-<tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt>-<tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt>-<tt><a href="ur_udtb-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="ur_udtb-pos-DET.html">DET</a></tt>-<tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ur_udtb-pos-NUM.html">NUM</a></tt>-<tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ur_udtb-pos-PART.html">PART</a></tt>-<tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `advcl`: <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt>-<tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (2095; 95% instances), <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (44; 2% instances), <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (40; 2% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt>-<tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt>-<tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt>-<tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt>-<tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt>-<tt><a href="ur_udtb-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="ur_udtb-pos-DET.html">DET</a></tt>-<tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ur_udtb-pos-NUM.html">NUM</a></tt>-<tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ur_udtb-pos-PART.html">PART</a></tt>-<tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -52,7 +52,7 @@ The following 12 pairs of parts of speech are connected with `advcl`: <tt><a hre
 7	تھے	تھا	AUX	VM	Aspect=Imp|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	6	cop	_	SpaceAfter=No|AltTag=AUX-VERB|Vib=تھا|Tam=wA|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=the|LTranslit=thā
 8	,	,	PUNCT	SYM	_	11	punct	_	ChunkId=VGF|ChunkType=child|Translit=,|LTranslit=,
 9	جو	جو	PRON	PRP	Case=Nom|Number=Sing|Person=3|PronType=Prs	11	obj	_	Vib=0|Tam=0|ChunkId=NP4|ChunkType=head|Translit=jū|LTranslit=jū
-10	مےں	مےں	PRON	PRP	Case=Nom|Number=Sing|Person=1	11	nsubj	_	Vib=0|Tam=0|ChunkId=NP5|ChunkType=head|Translit=meñ|LTranslit=meñ
+10	مےں	مےں	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	Vib=0|Tam=0|ChunkId=NP5|ChunkType=head|Translit=meñ|LTranslit=meñ
 11	لایا	لانا	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	6	advcl	_	ChunkId=VGF2|ChunkType=head|LTranslit=lānā|Stype=declarative|Tam=yA|Translit=lāīā|Vib=یا
 12	ہوں	ہے	AUX	VAUX	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	advcl	_	SpaceAfter=No|Vib=ہے|Tam=hE|ChunkId=VGF2|ChunkType=child|Translit=hūñ|LTranslit=he
 13	''	''	PUNCT	SYM	_	11	punct	_	SpaceAfter=No|ChunkId=VGF2|ChunkType=child|Translit=''|LTranslit=''

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.13 release
 The following people have contributed to making this treebank part of UD: Irina Lobzhanidze.
 
 Repository: [UD_Georgian-GLC](https://github.com/UniversalDependencies/UD_Georgian-GLC)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udka_glc218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udka_glc219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 
@@ -849,7 +849,7 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
           <li>ADV: დღესაც, შემდეგაც, მიხედვითაც, მალევე, რატომღაც, ადრეც, გარეთაც, გასაუმჯობესებლადაც, თანახმადაც, იქვე</li>
           <li>NOUN: დროსაც, საფუძველ, გამოყენებაც, დადგენაც, დრო, მოვლენადაც, ობსერვატორიაც, საშუალებითაც, ფილოლოგიასაც, შედეგადაც</li>
           <li>NUM: მეორეც, ერთიცა, მეორე, პირველივე</li>
-          <li>PART: კი, მაინც, არც, ვერც</li>
+          <li>PART: კი, მაინც, ვერც</li>
           <li>PRON: რომელ, რომლებ, მეც, ვინმე, ვინც, იგივე, იმავე, მასაც, რომელნიც, რომელსაც</li>
           <li>PROPN: დავითისივე, ევროპა, ზარანდიასაც, საქართველო</li>
         </ul>
@@ -861,7 +861,7 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
       </li>
       <li>Neg
         <ul>
-          <li>PART: არ, არა, ვერ, აღარ</li>
+          <li>PART: არ, არა, ვერ, არც, აღარ</li>
         </ul>
       </li>
     </ul>

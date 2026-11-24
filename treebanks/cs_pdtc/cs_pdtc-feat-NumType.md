@@ -33,7 +33,7 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 
 10119 <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt> tokens (3% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="cs_pdtc-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (10119; 100%), <tt><a href="cs_pdtc-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (10119; 100%), <tt><a href="cs_pdtc-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (10119; 100%), <tt><a href="cs_pdtc-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (10119; 100%), <tt><a href="cs_pdtc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8755; 87%), <tt><a href="cs_pdtc-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (6700; 66%).
+The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="cs_pdtc-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (10119; 100%), <tt><a href="cs_pdtc-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (10119; 100%), <tt><a href="cs_pdtc-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (10119; 100%), <tt><a href="cs_pdtc-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (10119; 100%), <tt><a href="cs_pdtc-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (10119; 100%), <tt><a href="cs_pdtc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8755; 87%), <tt><a href="cs_pdtc-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (6700; 66%).
 
 `ADJ` tokens may have the following values of `NumType`:
 
@@ -68,7 +68,7 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 `ADV` tokens may have the following values of `NumType`:
 
 * `Mult` (1446; 100% of non-empty `NumType`): <em>jednou, dvakrát, třikrát, několikrát, čtyřikrát, pětkrát, kolikrát, desetkrát, šestkrát, mnohokrát</em>
-* `EMPTY` (163747): <em>tam, už, tak, jak, kde, pak, kdy, více, ještě, včera</em>
+* `EMPTY` (168633): <em>tam, tak, už, jak, kde, pak, kdy, více, ještě, včera</em>
 
 `NumType` seems to be **lexical feature** of `ADV`. 100% lemmas (46) occur only with one value of `NumType`.
 
@@ -76,7 +76,7 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 
 The 10 most frequent relations where parent and child node agree in `NumType`:
 <tt>NUM --[<tt><a href="cs_pdtc-dep-compound.html">compound</a></tt>]--> NUM</tt> (8765; 100%),
-<tt>NUM --[<tt><a href="cs_pdtc-dep-conj.html">conj</a></tt>]--> NUM</tt> (5763; 100%),
+<tt>NUM --[<tt><a href="cs_pdtc-dep-conj.html">conj</a></tt>]--> NUM</tt> (5765; 100%),
 <tt>ADJ --[<tt><a href="cs_pdtc-dep-conj.html">conj</a></tt>]--> ADJ</tt> (172; 70%),
 <tt>ADV --[<tt><a href="cs_pdtc-dep-conj.html">conj</a></tt>]--> ADV</tt> (70; 67%),
 <tt>NUM --[<tt><a href="cs_pdtc-dep-det-nummod.html">det:nummod</a></tt>]--> DET</tt> (58; 100%),

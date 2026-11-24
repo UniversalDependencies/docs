@@ -18,7 +18,7 @@ The feature is used with 4 part-of-speech tags: <tt><a href="cs_pud-pos-VERB.htm
 
 1427 <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> tokens (83% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1338; 94%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1240; 87%), <tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (881; 62%), <tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (881; 62%), <tt><a href="cs_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (878; 62%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (877; 61%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (857; 60%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1338; 94%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1240; 87%), <tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (881; 62%), <tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (881; 62%), <tt><a href="cs_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (878; 62%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (877; 61%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (857; 60%), <tt><a href="cs_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (798; 56%).
 
 `VERB` tokens may have the following values of `Voice`:
 
@@ -42,7 +42,7 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 
 416 <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> tokens (18% of all `ADJ` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `ADJ` and `Voice` co-occurred: <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (416; 100%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (407; 98%), <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (352; 85%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (260; 63%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (225; 54%).
+The most frequent other feature values with which `ADJ` and `Voice` co-occurred: <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (416; 100%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (407; 98%), <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (352; 85%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (260; 63%), <tt><a href="cs_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (235; 56%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (225; 54%).
 
 `ADJ` tokens may have the following values of `Voice`:
 

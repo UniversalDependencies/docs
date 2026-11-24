@@ -93,7 +93,7 @@ The following 3 pairs of parts of speech are connected with `cop`: <tt><a href="
 9	co	co	SCONJ	_	_	10	mark	_	SpaceAfter=No
 10	nducaid	dobeir	VERB	_	Mood=Sub|Number=Plur|Person=2|Tense=Pres|Voice=Act	7	dislocated	_	_
 11	etargne	etargne	NOUN	_	Case=Acc|Number=Sing	10	obj	_	_
-12	ṅ dǽ	día	NOUN	_	Case=Gen|Number=Sing	11	nmod	_	_
+12	ṅ dǽ	día	PROPN	_	Case=Gen|Number=Sing	11	nmod	_	_
 13	et	_	CCONJ	_	Foreign=Yes	16	cc	_	Lang=la
 14	co	co	SCONJ	_	_	16	mark	_	SpaceAfter=No
 15	na	ná	SCONJ	_	Polarity=Neg	16	mark	_	SpaceAfter=No

@@ -22,9 +22,9 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
 
 `NOUN` tokens may have the following values of `Animacy`:
 
-* `Anim` (12; 21% of non-empty `Animacy`): <em>мöс, мöсöс, Мортлӧ, Челядьыс, айтöг, айыс, вонӧ, кага, мöссö, морт</em>
-* `Hum` (25; 43% of non-empty `Animacy`): <em>Петя, Машакöт, соседыс, oтиp, Маша, Машаöс, Машалö</em>
-* `Inan` (21; 36% of non-empty `Animacy`): <em>керку, Аскур, Бабö, Деньга, Лöсялöм, бадь, бедьсö, вешьян, видзоккез, вильторыс</em>
+* `Anim` (12; 21% of non-empty `Animacy`): <em>мӧс, мӧсӧс, Мортлӧ, Челядьыс, айтӧг, айыс, вонӧ, кага, морт, мӧссӧ</em>
+* `Hum` (25; 43% of non-empty `Animacy`): <em>Петя, Машакӧт, соседыс, Маша, Машалӧ, Машаӧс, отир</em>
+* `Inan` (21; 36% of non-empty `Animacy`): <em>керку, Аскур, Бабӧ, Деньга, Лӧсялӧм, бадь, бедьсӧ, вешьян, видзоккез, вильторыс</em>
 * `EMPTY` (196): <em>айӧ, йӧрсӧ, айся, гортас, дорас, дорын, луныс, машина, морт, ойнас</em>
 
 `Animacy` seems to be **lexical feature** of `NOUN`. 100% lemmas (27) occur only with one value of `Animacy`.
@@ -49,7 +49,7 @@ The most frequent other feature values with which `PRON` and `Animacy` co-occurr
 `PRON` tokens may have the following values of `Animacy`:
 
 * `Nhum` (3; 100% of non-empty `Animacy`): <em>мый</em>
-* `EMPTY` (118): <em>сія, ме, тэ, менам, тэнат, сійӧ, Мый, Сiя, меным, нія</em>
+* `EMPTY` (118): <em>сія, ме, тэ, менам, сылӧн, тэнат, сійӧ, Мый, меным, нія</em>
 
 ### `ADJ`
 
@@ -60,7 +60,7 @@ The most frequent other feature values with which `ADJ` and `Animacy` co-occurre
 `ADJ` tokens may have the following values of `Animacy`:
 
 * `Inan` (1; 100% of non-empty `Animacy`): <em>сісь</em>
-* `EMPTY` (37): <em>буржык, ыджыт, важ, честнӧй, Бöрья, Куимӧдз, бур, быльнӧй, веськытлань, витӧдз</em>
+* `EMPTY` (37): <em>буржык, ыджыт, важ, сьӧд, сэтшӧм, честнӧй, Бӧрья, Куимӧдз, бур, быльнӧй</em>
 
 ## Relations with Agreement in `Animacy`
 

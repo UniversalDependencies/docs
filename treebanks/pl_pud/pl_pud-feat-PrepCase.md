@@ -10,7 +10,7 @@ This feature is language-specific.
 It occurs with 2 different values: `Npr`, `Pre`.
 
 214 tokens (1%) have a non-empty value of `PrepCase`.
-28 types (0%) occur at least once with a non-empty value of `PrepCase`.
+27 types (0%) occur at least once with a non-empty value of `PrepCase`.
 6 lemmas (0%) occur at least once with a non-empty value of `PrepCase`.
 The feature is used with 2 part-of-speech tags: <tt><a href="pl_pud-pos-PRON.html">PRON</a></tt> (208; 1% instances), <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> (6; 0% instances).
 
@@ -23,7 +23,7 @@ The most frequent other feature values with which `PRON` and `PrepCase` co-occur
 `PRON` tokens may have the following values of `PrepCase`:
 
 * `Npr` (184; 88% of non-empty `PrepCase`): <em>jego, jej, ich, go, ją, mu, im, je, ona, on</em>
-* `Pre` (24; 12% of non-empty `PrepCase`): <em>nich, niego, niej, nim, nimi, nie, nią, ń</em>
+* `Pre` (24; 12% of non-empty `PrepCase`): <em>nich, niego, niej, nim, nimi, nie, nią</em>
 
 <table>
   <tr><th>Paradigm <i>on</i></th><th><tt>Npr</tt></th><th><tt>Pre</tt></th></tr>
@@ -43,7 +43,7 @@ The most frequent other feature values with which `PRON` and `PrepCase` co-occur
   <tr><td><tt><tt><a href="pl_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="pl_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="pl_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pud-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td><em>go</em></td><td></td></tr>
   <tr><td><tt><tt><a href="pl_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="pl_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="pl_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pl_pud-feat-Variant.html">Variant</a></tt><tt>=Long</tt></tt></td><td><em>ich, je</em></td><td></td></tr>
   <tr><td><tt><tt><a href="pl_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="pl_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="pl_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pud-feat-Variant.html">Variant</a></tt><tt>=Long</tt></tt></td><td><em>jego</em></td><td><em>niego</em></td></tr>
-  <tr><td><tt><tt><a href="pl_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="pl_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="pl_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pud-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td><em>go</em></td><td><em>ń</em></td></tr>
+  <tr><td><tt><tt><a href="pl_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="pl_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="pl_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pud-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td><em>go</em></td><td><em>niego</em></td></tr>
   <tr><td><tt><tt><a href="pl_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="pl_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="pl_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pl_pud-feat-Variant.html">Variant</a></tt><tt>=Long</tt></tt></td><td><em>ich</em></td><td></td></tr>
   <tr><td><tt><tt><a href="pl_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="pl_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="pl_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pud-feat-Variant.html">Variant</a></tt><tt>=Long</tt></tt></td><td><em>on</em></td><td></td></tr>
   <tr><td><tt><tt><a href="pl_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="pl_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="pl_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pl_pud-feat-Variant.html">Variant</a></tt><tt>=Long</tt></tt></td><td><em>one</em></td><td></td></tr>

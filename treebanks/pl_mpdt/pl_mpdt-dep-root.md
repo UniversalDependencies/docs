@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2018 nodes (4%) are attached to their parents as `root`.
+2515 nodes (4%) are attached to their parents as `root`.
 
-2018 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.63577799801784.
+2515 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.70019880715706.
 
-The following 14 pairs of parts of speech are connected with `root`: -<tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt> (1524; 76% instances), -<tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt> (227; 11% instances), -<tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt> (133; 7% instances), -<tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt> (37; 2% instances), -<tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt> (31; 2% instances), -<tt><a href="pl_mpdt-pos-NUM.html">NUM</a></tt> (18; 1% instances), -<tt><a href="pl_mpdt-pos-PRON.html">PRON</a></tt> (15; 1% instances), -<tt><a href="pl_mpdt-pos-DET.html">DET</a></tt> (10; 0% instances), -<tt><a href="pl_mpdt-pos-PART.html">PART</a></tt> (10; 0% instances), -<tt><a href="pl_mpdt-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), -<tt><a href="pl_mpdt-pos-AUX.html">AUX</a></tt> (3; 0% instances), -<tt><a href="pl_mpdt-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), -<tt><a href="pl_mpdt-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), -<tt><a href="pl_mpdt-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `root`: -<tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt> (1888; 75% instances), -<tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt> (315; 13% instances), -<tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt> (171; 7% instances), -<tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt> (54; 2% instances), -<tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt> (31; 1% instances), -<tt><a href="pl_mpdt-pos-PRON.html">PRON</a></tt> (20; 1% instances), -<tt><a href="pl_mpdt-pos-DET.html">DET</a></tt> (12; 0% instances), -<tt><a href="pl_mpdt-pos-PART.html">PART</a></tt> (11; 0% instances), -<tt><a href="pl_mpdt-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), -<tt><a href="pl_mpdt-pos-AUX.html">AUX</a></tt> (2; 0% instances), -<tt><a href="pl_mpdt-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), -<tt><a href="pl_mpdt-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), -<tt><a href="pl_mpdt-pos-ADP.html">ADP</a></tt> (1; 0% instances), -<tt><a href="pl_mpdt-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -45,12 +45,12 @@ The following 14 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0 1 root	color:blue
 1	Podwórze	podwórze	NOUN	subst:sg:nom:n	Case=Nom|Gender=Neut|Number=Sing	0	root	0:root	Translit=Podwórze
 2	ostrogowane	ostrogowany	ADJ	adj:sg:nom:n:pos	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	1	amod	1:amod	SpaceAfter=No|Translit=ostrogowane
-3	,	,	PUNCT	interp	PunctType=Comm	5	punct	5:punct	Translit=,
-4	wrót	wrota	NOUN	subst:pl:gen:n:pt	Case=Gen|Gender=Neut|Number=Ptan	5	nmod:arg	5:nmod:arg	Translit=wrót
-5	dwoje	dwa	NUM	numcol:pl:nom:n	Case=Nom|Gender=Neut|Number=Plur|NumForm=Word	1	conj	1:conj	Translit=dwoje
-6	o	o	ADP	prep:loc	AdpType=Prep	7	case	7:case	Case=Loc|Translit=o
-7	2	2	NUM	dig	NumForm=Digit	4	amod	4:amod	Translit=2
-8	drzwiach	drzwi	NOUN	subst:pl:loc:n:pt	Case=Loc|Gender=Neut|Number=Ptan	7	nmod:arg	7:nmod:arg	Translit=drzwiach
+3	,	,	PUNCT	interp	PunctType=Comm	4	punct	4:punct	Translit=,
+4	wrót	wrota	NOUN	subst:pl:gen:n:pt	Case=Gen|Gender=Neut|Number=Ptan	1	conj	1:conj	Translit=wrót
+5	dwoje	dwa	NUM	numcol:pl:nom:n	Case=Nom|Gender=Neut|Number=Plur|NumForm=Word	4	nummod:gov	4:nummod:gov	Translit=dwoje
+6	o	o	ADP	prep:loc	AdpType=Prep	8	case	8:case	Case=Loc|Translit=o
+7	2	2	NUM	dig	NumForm=Digit	8	nummod	8:nummod	Translit=2
+8	drzwiach	drzwi	NOUN	subst:pl:loc:n:pt	Case=Loc|Gender=Neut|Number=Ptan	4	nmod	4:nmod	Translit=drzwiach
 9	z	z	ADP	prep:inst:nwok	AdpType=Prep|Variant=Short	10	case	10:case	Case=Ins|Translit=z
 10	fortkami	fortka	NOUN	subst:pl:inst:f	Case=Ins|Gender=Fem|Number=Plur	8	nmod	8:nmod	SpaceAfter=No|Translit=fortkami
 11	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	Translit=.

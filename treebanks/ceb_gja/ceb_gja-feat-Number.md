@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Dual`, `Plur`, `Sing`.
 
-163 tokens (12%) have a non-empty value of `Number`.
-35 types (7%) occur at least once with a non-empty value of `Number`.
-10 lemmas (2%) occur at least once with a non-empty value of `Number`.
-The feature is used with 3 part-of-speech tags: <tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt> (154; 11% instances), <tt><a href="ceb_gja-pos-DET.html">DET</a></tt> (8; 1% instances), <tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+188 tokens (12%) have a non-empty value of `Number`.
+37 types (7%) occur at least once with a non-empty value of `Number`.
+13 lemmas (3%) occur at least once with a non-empty value of `Number`.
+The feature is used with 3 part-of-speech tags: <tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt> (176; 12% instances), <tt><a href="ceb_gja-pos-DET.html">DET</a></tt> (11; 1% instances), <tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `PRON`
 
-154 <tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt> tokens (81% of all `PRON` tokens) have a non-empty value of `Number`.
+176 <tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt> tokens (85% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="ceb_gja-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (154; 100%), <tt><a href="ceb_gja-feat-Case.html">Case</a></tt><tt>=Nom</tt> (85; 55%), <tt><a href="ceb_gja-feat-Person.html">Person</a></tt><tt>=1</tt> (79; 51%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="ceb_gja-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (176; 100%), <tt><a href="ceb_gja-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (176; 100%), <tt><a href="ceb_gja-feat-Case.html">Case</a></tt><tt>=Nom</tt> (91; 52%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Dual` (4; 3% of non-empty `Number`): <em>taka, tika</em>
-* `Plur` (21; 14% of non-empty `Number`): <em>mi, sila, amo, ila, inyo, kamiy, miy, ta</em>
-* `Sing` (129; 84% of non-empty `Number`): <em>ko, siya, ka, ako, iya, imo, nako, nimo, imoha, koy</em>
-* `EMPTY` (35): <em>kini, unsa, Unsay, ana, iya, kana, kato, niya, Asa, Kinsa</em>
+* `Dual` (4; 2% of non-empty `Number`): <em>taka, tika</em>
+* `Plur` (24; 14% of non-empty `Number`): <em>mi, sila, amo, ila, inyo, ta, kamiy, miy, silay</em>
+* `Sing` (148; 84% of non-empty `Number`): <em>ko, siya, iya, ka, ako, imo, nako, nimo, niya, imoha</em>
+* `EMPTY` (32): <em>unsa, kini, Unsay, ana, kana, kato, kinsa, ni, niadto, ani</em>
 
 <table>
   <tr><th>Paradigm <i>ako</i></th><th><tt>Sing</tt></th><th><tt>Dual</tt></th></tr>
@@ -37,12 +37,13 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `DET`
 
-8 <tt><a href="ceb_gja-pos-DET.html">DET</a></tt> tokens (73% of all `DET` tokens) have a non-empty value of `Number`.
+11 <tt><a href="ceb_gja-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
+
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="ceb_gja-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (11; 100%).
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (8; 100% of non-empty `Number`): <em>mga</em>
-* `EMPTY` (3): <em>Daghan</em>
+* `Plur` (11; 100% of non-empty `Number`): <em>mga, Daghan</em>
 
 ### `NOUN`
 
@@ -51,7 +52,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 `NOUN` tokens may have the following values of `Number`:
 
 * `Plur` (1; 100% of non-empty `Number`): <em>kaislahan</em>
-* `EMPTY` (176): <em>libro, bata, balay, kwarta, tubig, amahan, bisita, iro, plano, sulat</em>
+* `EMPTY` (189): <em>libro, bata, balay, kwarta, sulat, tubig, amahan, bisita, iro, plano</em>
 
 ## Relations with Agreement in `Number`
 

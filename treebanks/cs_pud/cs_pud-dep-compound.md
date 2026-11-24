@@ -54,11 +54,11 @@ The following 10 pairs of parts of speech are connected with `compound`: <tt><a 
 7	,	,	PUNCT	Z:-------------	_	10	punct	10:punct	_
 8	co	co	SCONJ	J,-------------	_	10	mark	10:mark	LId=co-3|LGloss=(když:_poté/od_té_doby,_co)
 9	skandál	skandál	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	10:nsubj	_
-10	vyšel	vyjít	VERB	VpYS---XR-AA---	Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	6	acl	6:acl:co	_
+10	vyšel	vyjít	VERB	VpYS---XR-AA---	Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	6	acl	6:acl:co	_
 11	najevo	najevo	ADV	Db-------------	_	10	compound	10:compound	SpaceAfter=No
 12	,	,	PUNCT	Z:-------------	_	6	punct	6:punct	_
 13	byl	být	AUX	VpYS---XR-AA---	Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	14	aux:pass	14:aux:pass	_
-14	povýšen	povýšený	ADJ	VsYS---XX-AP---	Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	0:root	LDeriv=povýšit
+14	povýšen	povýšený	ADJ	VsYS---XX-AP---	Aspect=Perf|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	0:root	LDeriv=povýšit
 15	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	16	case	16:case	LId=na-1
 16	předsedu	předseda	NOUN	NNMS4-----A----	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	14	obl:arg	14:obl:arg:na:acc	SpaceAfter=No
 17	.	.	PUNCT	Z:-------------	_	14	punct	14:punct	_
@@ -73,7 +73,7 @@ The following 10 pairs of parts of speech are connected with `compound`: <tt><a 
 # visual-style 2	fgColor:white
 # visual-style 2 5 compound	color:blue
 1	To	ten	DET	PDNS1----------	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	nsubj	2:nsubj	_
-2	má	mít	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	má	mít	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 3	co	co	ADV	Db-------------	_	2	compound	2:compound	LId=co-5|LGloss=(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)
 4	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	5	case	5:case	LId=do-1
 5	činění	činění	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|VerbForm=Vnoun	2	compound	2:compound	LDeriv=činit
@@ -88,7 +88,7 @@ The following 10 pairs of parts of speech are connected with `compound`: <tt><a 
 14	,	,	PUNCT	Z:-------------	_	17	punct	17:punct	_
 15	které	který	DET	P4FP1----------	Case=Nom|Gender=Fem|Number=Plur|PronType=Int,Rel	17	nsubj:pass	10:ref	_
 16	byly	být	AUX	VpTP---XR-AA---	Animacy=Inan|Aspect=Imp|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	17	aux:pass	17:aux:pass	_
-17	ušetřeny	ušetřený	ADJ	VsTP---XX-AP---	Animacy=Inan|Degree=Pos|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	10	acl:relcl	10:acl:relcl	LDeriv=ušetřit
+17	ušetřeny	ušetřený	ADJ	VsTP---XX-AP---	Animacy=Inan|Aspect=Perf|Degree=Pos|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	10	acl:relcl	10:acl:relcl	LDeriv=ušetřit
 18	před	před	ADP	RR--7----------	AdpType=Prep|Case=Ins	19	case	19:case	LId=před-1
 19	zničením	zničení	NOUN	NNNS7-----A----	Case=Ins|Gender=Neut|Number=Sing|VerbForm=Vnoun	17	obl	17:obl:před:ins	LDeriv=zničit
 20	na	na	ADP	RR--6----------	AdpType=Prep|Case=Loc	21	case	21:case	LId=na-1

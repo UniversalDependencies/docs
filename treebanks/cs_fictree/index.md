@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Tomáš Jelínek, Daniel Zeman.
 
 Repository: [UD_Czech-FicTree](https://github.com/UniversalDependencies/UD_Czech-FicTree)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_fictree218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_fictree219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -123,7 +123,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
 </ul>
 
 <ul>
-<li>This corpus contains 122 word types tagged as particles (PART): A-ano, Což, Dobře, Díky, Fakt, Jestlipak, Ji-jistě, Neee, Nejenomže, Náhodou, Pardon, Pozor, Príma, ahoj, ale, alespoň, ani, ano, asi, aspoň, ať, až, ba, bezesporu, beztak, bohužel, budiž, bůhví, celkem, co, copak, div, dobrá, dokonce, doopravdy, dozajista, hned, i, jasně, jednoduše, jen, jenom, ještě, jistě, již, jo, kdepak, kdoví, když, klidně, koneckonců, konečně, kupodivu, kéž, leda, možná, nakonec, naneštěstí, naopak, například, natož, ne, nejen, nejenže, nejspíš, nepochybně, nesporně, nicméně, nikoli, nikoliv, no, opravdu, ostatně, ovšem, patrně, pochopitelně, prakticky, pravděpodobně, prej, prostě, právě, prý, přece, přeci, především, přesně, přímo, rozhodně, samozřejmě, sbohem, skoro, skutečně, snad, sotva, spíš, spíše, tak, takříkajíc, teda, teprve, to, totiž, třeba, určitě, už, viď, viďte, vlastně, vážně, však, vůbec, vždyť, zajisté, zas, zase, zejména, zkrátka, zrovna, zvláště, zvlášť, zřejmě, že</li>
+<li>This corpus contains 121 word types tagged as particles (PART): A-ano, Což, Dobře, Díky, Fakt, Jestlipak, Ji-jistě, Neee, Nejenomže, Náhodou, Pardon, Pozor, Príma, ahoj, ale, alespoň, ani, ano, asi, aspoň, ať, až, ba, bezesporu, beztak, bohužel, budiž, bůhví, celkem, co, copak, div, dobrá, dokonce, doopravdy, dozajista, hned, i, jasně, jednoduše, jen, jenom, ještě, jistě, již, jo, kdepak, kdoví, když, klidně, koneckonců, konečně, kupodivu, kéž, leda, možná, nakonec, naneštěstí, naopak, například, natož, ne, nejen, nejenže, nejspíš, nepochybně, nesporně, nicméně, nikoli, nikoliv, no, opravdu, ostatně, ovšem, patrně, pochopitelně, prakticky, pravděpodobně, prej, prostě, právě, prý, přece, přeci, především, přesně, přímo, rozhodně, samozřejmě, sbohem, skoro, skutečně, snad, sotva, spíš, spíše, takříkajíc, teda, teprve, to, totiž, třeba, určitě, už, viď, viďte, vlastně, vážně, však, vůbec, vždyť, zajisté, zas, zase, zejména, zkrátka, zrovna, zvláště, zvlášť, zřejmě, že</li>
 </ul>
 
 <ul>
@@ -146,7 +146,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
 </ul>
 
 <ul>
-<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+<li>There are 5 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
 </ul>
 
 <ul>
@@ -182,6 +182,14 @@ http://ceur-ws.org/Vol-1885/181.pdf
     <li>ADJ: přesvědčen, řečeno, budoucí, oblečena, uspořádány, následující, rozhodující, třesoucí, napsáno, nastávající</li>
     <li>AUX: byl, byla, bylo, byly, byli, nebyl, nebylo, nebyla, býval, bývala</li>
     <li>VERB: řekl, měl, měla, řekla, mohl, chtěl, chtěla, stalo, viděl, začal</li>
+  </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Vnoun
+  <ul>
+    <li>NOUN: oddělení, představení, přání, chování, trápení, jednání, zaměstnání, řešení, poznání, vzdělání</li>
   </ul>
   </li>
 </ul>
@@ -236,6 +244,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
       <li>AUX-Part: bylo, nebylo, byla, bývalo, nebývalo, nebyla</li>
       <li>DET: to, všechno, tom, tím, toho, tomu, tohle, které, jeho, své</li>
       <li>NOUN: dítě, let, slova, září, místo, tělo, srdce, okna, štěstí, léta</li>
+      <li>NOUN-Vnoun: oddělení, představení, přání, chování, trápení, jednání, zaměstnání, řešení, poznání, vzdělání</li>
       <li>NUM: jedno, dvě, jednom, tři, jednoho, obě, jedním, půl, čtyř, čtyři</li>
       <li>PRON: je, ho, všecko, ně, něj, něm, co, jež, mu, ono</li>
       <li>PROPN: Československu, Německa, zoo, Československa, C, Japonska, Německu, Ruska, Angeles, Gobi</li>
@@ -307,6 +316,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
       <li>AUX-Part: byly, byli, byla, nebyly, nebyli, bývali, nebyla</li>
       <li>DET: které, jeho, ty, všichni, všechny, kteří, těch, svých, své, všech</li>
       <li>NOUN: oči, let, dveře, děti, lidé, slova, ruce, lidí, dveří, vlasy</li>
+      <li>NOUN-Vnoun: přání, představení, pochybení, psaní, trápení, doznání, hnutí, klesání, narození, nařízením</li>
       <li>NUM: dva, dvě, tři, oba, čtyři, dvou, obě, dvěma, pár, pěti</li>
       <li>PRON: je, nás, nám, nich, jim, vás, vám, vy, my, nimi</li>
       <li>PROPN: Němci, Poděbradech, Poděbrad, vánoce, Sudety, USA, Čechách, Američani, Čech, Čechy</li>
@@ -327,6 +337,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
       <li>AUX-Part: byl, byla, bylo, nebyl, nebylo, nebyla, býval, bývala, bývalo, nebývalo</li>
       <li>DET: to, jeho, který, ten, tom, všechno, která, toho, tím, té</li>
       <li>NOUN: chvíli, život, dítě, den, člověk, plod, dívka, profesor, mistr, paní</li>
+      <li>NOUN-Vnoun: oddělení, chování, jednání, představení, trápení, řešení, poznání, zaměstnání, vzdělání, přání</li>
       <li>NUM: jeden, pár, jednoho, jedna, jednu, jedné, deset, jedno, dvacet, jedním</li>
       <li>PRON: mi, mě, ho, já, mu, ji, jí, ní, ti, mně</li>
       <li>PROPN: Láďa, Leoš, Valentýna, Eduard, Havel, Alžběta, Flajšman, Veronika, Havlena, Filip</li>
@@ -349,6 +360,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
       <li>ADP: na, za, o, pro, v, přes, po, před, pod, ve</li>
       <li>DET: to, tu, všechno, kterou, které, své, ten, svou, jeho, svůj</li>
       <li>NOUN: chvíli, den, oči, život, hlavu, ruku, čas, dveře, dítě, ruce</li>
+      <li>NOUN-Vnoun: představení, přání, trápení, spojení, poznání, pozvání, vzdělání, krvácení, oblečení, oddělení</li>
       <li>NUM: pár, dva, tři, dvě, jednu, jeden, deset, čtyři, třicet, jednoho</li>
       <li>PRON: se, mě, ho, co, ji, je, nic, něco, nás, tě</li>
       <li>PROPN: Janičku, Alžbětu, Valentýnu, Láďu, Havla, Oscara, Veroniku, Flajšmana, Filipa, Ajaxe</li>
@@ -364,6 +376,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
       <li>ADP: k, ke, kvůli, proti, vůči, díky, naproti, navzdory, vstříc, blíž</li>
       <li>DET: tomu, svému, své, jeho, svým, té, všem, které, kterým, mému</li>
       <li>NOUN: otci, dívce, dveřím, ženě, mladíkovi, oknu, synovi, člověku, ženám, domu</li>
+      <li>NOUN-Vnoun: chování, osvícení, označení, pletení, pochopení, pokušení, poznání, zamyšlení, jednání, močení</li>
       <li>NUM: jednomu, oběma, dvěma, jedné, třem, pár, čtyřem</li>
       <li>PRON: si, mi, mu, jí, ti, nám, jim, vám, mně, sobě</li>
       <li>PROPN: Havlovi, Valentýně, Alžbětě, Leošovi, Janičce, Eduardovi, Flajšmanovi, Havlenovi, Ježíškovi, Láďovi</li>
@@ -379,6 +392,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
       <li>ADP: do, z, od, u, ze, kolem, bez, vedle, podle, za</li>
       <li>DET: toho, svého, jeho, té, těch, svých, všech, mého, své, jejich</li>
       <li>NOUN: let, života, dne, školy, práce, lidí, času, dveří, domu, hodin</li>
+      <li>NOUN-Vnoun: oddělení, představení, vyzvání, přání, trápení, učení, hnutí, jednání, myšlení, narození</li>
       <li>NUM: jednoho, jedné, tisíc, dvou, čtyř, tří, obou, pěti, set, třiceti</li>
       <li>PRON: mě, nich, sebe, ní, něj, nás, ho, jich, něho, jí</li>
       <li>PROPN: Prahy, Poděbrad, Čáslavi, Boleslava, Kolína, Krásné, Moravy, Náchoda, Německa, Československa</li>
@@ -394,6 +408,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
       <li>ADP: s, před, se, za, nad, pod, mezi, přede, nade, pode</li>
       <li>DET: tím, svým, svou, svými, jeho, mým, tou, kterým, kterou, všemi</li>
       <li>NOUN: očima, hlavou, rukou, směrem, cestou, oknem, rameny, hlasem, nohama, rukama</li>
+      <li>NOUN-Vnoun: potěšením, pitím, vedením, kořením, leknutím, mrknutím, mučením, mávnutím, narozením, uspokojením</li>
       <li>NUM: jedním, dvěma, jednou, pár, pěti, deseti, oběma, čtyřiceti, čtyřmi, dvanácti</li>
       <li>PRON: ním, sebou, mnou, ní, nimi, čím, námi, tebou, vámi, něčím</li>
       <li>PROPN: Leošem, Valentýnou, Janičkou, Alicí, Eduardem, Alžbětou, Filipem, Láďou, Veronikou, Amadeem</li>
@@ -409,6 +424,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
       <li>ADP: v, na, po, ve, o, při</li>
       <li>DET: tom, té, svém, jeho, své, kterém, svých, jejím, tomto, které</li>
       <li>NOUN: životě, září, chvíli, době, ruce, světě, domě, pokoji, straně, schodech</li>
+      <li>NOUN-Vnoun: oddělení, narození, zaměstnání, chování, vyučování, zajetí, holení, odříkání, otevření, přelíčení</li>
       <li>NUM: jedné, jednom, dvou, dvaceti, pár, půl, deseti, třech, osmnácti, čtyřiceti</li>
       <li>PRON: něm, sobě, mně, nich, ní, čem, níž, němž, nichž, něčem</li>
       <li>PROPN: Praze, Poděbradech, Čáslavi, Československu, Kolíně, Náchodě, Čechách, Berlíně, Slaném, Valentýně</li>
@@ -424,6 +440,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
       <li>ADP: de</li>
       <li>DET: to, který, která, ten, jeho, které, ta, sám, moje, všechno</li>
       <li>NOUN: člověk, plod, dívka, profesor, mistr, dítě, muž, Kůra, lidé, mladík</li>
+      <li>NOUN-Vnoun: řešení, jednání, chování, setkání, milování, překvapení, přání, vedení, dýchání, psaní</li>
       <li>NUM: jeden, dva, jedna, oba, dvě, pár, jedno, tři, čtyři, deset</li>
       <li>PRON: já, co, kdo, on, nikdo, ty, někdo, nic, ona, vy</li>
       <li>PROPN: Láďa, Leoš, Valentýna, Eduard, Havel, Alžběta, Flajšman, Veronika, Havlena, Filip</li>
@@ -565,12 +582,28 @@ http://ceur-ws.org/Vol-1885/181.pdf
 <ul>
   <li>Imp
     <ul>
+      <li>ADJ: budoucí, následující, rozhodující, třesoucí, milovaného, nastávající, povznášející, stojící, vynikající, zbývající</li>
       <li>ADJ-Part: budoucí, následující, rozhodující, třesoucí, nastávající, povznášející, stojící, vynikající, zbývající, blížícího</li>
       <li>AUX-Conv: jsouc</li>
       <li>AUX-Fin: jsem, je, by, bych, jsme, bude, jsou, jsi, není, jste</li>
       <li>AUX-Inf: být, nebýt</li>
       <li>AUX-Part: byl, byla, bylo, byly, byli, nebyl, nebylo, nebyla, býval, bývala</li>
       <li>VERB-Conv: chtěje, hledajíc, netuše, Divě, Jda, Nechtíc, Opíraje, Pronášejíc, Třesouc, domnívajíc</li>
+      <li>VERB-Fin: má, mám, může, nevím, musí, mají, musím, vím, nemám, jde</li>
+      <li>VERB-Inf: dělat, mít, vidět, jít, žít, mluvit, vědět, spát, slyšet, brát</li>
+      <li>VERB-Part: měl, měla, mohl, chtěl, chtěla, viděl, měli, šel, musel, nemohl</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Imp,Perf
+    <ul>
+      <li>ADJ: Rezervovaný, Věnováno, aktualizovaný, darovaná, fascinován, informován, informováni, instalována, jmenovaných, jmenován</li>
+      <li>ADJ-Part: Věnováno, fascinován, informován, informováni, instalována, jmenován, rozmetána</li>
+      <li>VERB-Fin: jmenuje, jmenuji, daruji, konstatuji, věnuje, Jmenuješ, definuje, deprimuje, informuje, informujte</li>
+      <li>VERB-Inf: věnovat, informovat, jmenovat, orientovat, Dezinfikovat, dešifrovat, improvizovat, instalovat, interpretovat, komunikovat</li>
+      <li>VERB-Part: jmenoval, pravil, věnoval, konstatovala, pravila, konstatoval, nevěnoval, informoval, nevěnovala, jmenovala</li>
     </ul>
   </li>
 </ul>
@@ -578,7 +611,12 @@ http://ceur-ws.org/Vol-1885/181.pdf
 <ul>
   <li>Perf
     <ul>
+      <li>ADJ: otevřené, přesvědčen, oblečená, řečeno, oblečena, unavený, otevřenou, otevřený, připravenou, uspořádány</li>
+      <li>ADJ-Part: přesvědčen, řečeno, oblečena, uspořádány, napsáno, obklopen, poslán, pozván, zakázáno, ztraceno</li>
       <li>VERB-Conv: připomenuv, vrhnuv, vzdychnuv</li>
+      <li>VERB-Fin: stojí, dá, řekni, dostane, dej, přijde, dám, nech, vrátí, nedá</li>
+      <li>VERB-Inf: říct, udělat, stát, dát, podívat, najít, nechat, odejít, představit, pomoct</li>
+      <li>VERB-Part: řekl, řekla, stalo, začal, přišel, vzal, zeptal, stál, dal, odpověděl</li>
     </ul>
   </li>
 </ul>
@@ -776,14 +814,6 @@ http://ceur-ws.org/Vol-1885/181.pdf
     <ul>
       <li>DET: několik, tolik, kolik, několika, mnoho, hodně, moc, víc, málo, mnoha</li>
       <li>NUM: pár, jeden, dva, dvě, jednoho, tři, jedna, jednu, oba, čtyři</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Frac
-    <ul>
-      <li>NUM: desetin, čtvrtiny, třetinu</li>
     </ul>
   </li>
 </ul>
@@ -991,7 +1021,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
       </li>
       <li>ADV
         <ul>
-          <li>ADV: nejen</li>
+          <li>ADV: nejen, víc, více</li>
           <li>NOUN: noc, rok, večer</li>
           <li>PART: přece</li>
         </ul>
@@ -1136,7 +1166,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--NOUN-Acc (16)</li>
       <li>VERB-Conv--PRON-Acc (1)</li>
       <li>VERB-Conv--PRON-Nom (1)</li>
-      <li>VERB-Fin--NOUN-Acc (1143)</li>
+      <li>VERB-Fin--NOUN-Acc (1144)</li>
       <li>VERB-Fin--NOUN-Gen (49)</li>
       <li>VERB-Fin--NOUN-Nom (2)</li>
       <li>VERB-Fin--PRON (1)</li>

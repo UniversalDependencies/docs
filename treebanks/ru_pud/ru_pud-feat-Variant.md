@@ -42,7 +42,7 @@ The most frequent other feature values with which `ADJ` and `Variant` co-occurre
 
 1 <tt><a href="ru_pud-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Variant`.
 
-The most frequent other feature values with which `DET` and `Variant` co-occurred: <tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="ru_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1; 100%).
+The most frequent other feature values with which `DET` and `Variant` co-occurred: <tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="ru_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1; 100%), <tt><a href="ru_pud-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="ru_pud-feat-PronType.html">PronType</a></tt><tt>=Int</tt> (1; 100%), <tt><a href="ru_pud-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (1; 100%).
 
 `DET` tokens may have the following values of `Variant`:
 

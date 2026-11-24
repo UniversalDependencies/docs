@@ -31,7 +31,7 @@ The following 9 pairs of parts of speech are connected with `reparandum`: <tt><a
 7	sä	sinä	PRON	Pron,Pers,Sg2,Nom	Case=Nom|Number=Sing|Person=2|PronType=Prs|Style=Coll	9	nsubj:cop	_	_
 8	olet	olla	AUX	V,Act,Ind,Pres,Sg2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	Missed-Rel=advl
 9	anoppi	anoppi	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	4	dep	_	_
-10	.	.	PUNCT	Pun	_	9	punct	_	_
+10	.	.	PUNCT	Pun	_	4	punct	_	_
 
 ~~~
 
@@ -69,7 +69,7 @@ The following 9 pairs of parts of speech are connected with `reparandum`: <tt><a
 25	radikaalina	radikaali	ADJ	A,Sg,Ess	Case=Ess|Number=Sing	27	amod	_	_
 26	radikaalina	radikaali	ADJ	A,Sg,Ess	Case=Ess|Number=Sing	25	conj	_	_
 27	käsitteenä	käsite	NOUN	N,Sg,Ess	Case=Ess|Number=Sing	21	obl	_	_
-28	.	.	PUNCT	Pun	_	27	punct	_	_
+28	.	.	PUNCT	Pun	_	5	punct	_	_
 
 ~~~
 
@@ -87,7 +87,7 @@ The following 9 pairs of parts of speech are connected with `reparandum`: <tt><a
 5	on	olla	AUX	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	_
 6	erikoistunuj	erikoistua	VERB	V,Act,PcpNut,Sg,Nom	Case=Nom|Number=Sing|PartForm=Past|Style=Coll|VerbForm=Part|Voice=Act	3	acl	_	_
 7	jonnekkii	jonnekin	ADV	Adv,Qnt	PronType=Ind|Style=Coll	6	advmod	_	_
-8	,	,	PUNCT	Pun	_	7	punct	_	_
+8	,	,	PUNCT	Pun	_	15	punct	_	_
 9	jolla	joka	PRON	Pron,Rel,Sg,Ade	Case=Ade|Number=Sing|PronType=Rel	15	nmod	_	_
 10	nyt	nyt	ADV	Adv,Pcle	_	15	advmod	_	_
 11	oj	olla	AUX	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Style=Coll|Tense=Pres|VerbForm=Fin|Voice=Act	15	cop	_	_
@@ -98,7 +98,7 @@ The following 9 pairs of parts of speech are connected with `reparandum`: <tt><a
 16	ja	ja	CCONJ	Pcle,CC	_	17	cc	_	_
 17	fysiikat	fysiikka	NOUN	N,Pl,Nom	Case=Nom|Number=Plur	14	conj	_	_
 18	että	että	SCONJ	Pcle,CS	_	25	mark	_	_
-19	,	,	PUNCT	Pun	_	18	punct	_	_
+19	,	,	PUNCT	Pun	_	22	punct	_	_
 20	mi-	mi-	X	Unknown	_	22	reparandum	_	Alt=22_reparandum|Missed-Rel=attr
 21	,	,	PUNCT	Pun	_	20	punct	_	_
 22	millä	mikä	PRON	Pron,Rel,Ade	Case=Ade|PronType=Rel	25	nmod	_	_
@@ -116,9 +116,9 @@ The following 9 pairs of parts of speech are connected with `reparandum`: <tt><a
 34	haluaa	haluta	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	30	advcl	_	_
 35	nin	niin	PART	Pcle	Style=Coll	41	mark	_	_
 36	ne	ne	PRON	Pron,Dem,Pl,Nom	Case=Nom|Number=Plur|PronType=Dem	41	nsubj	_	_
-37	,	,	PUNCT	Pun	_	36	punct	_	_
+37	,	,	PUNCT	Pun	_	38	punct	_	_
 38	ne	ne	PRON	Pron,Dem,Pl,Nom	Case=Nom|Number=Plur|PronType=Dem	36	conj	_	_
-39	,	,	PUNCT	Pun	_	38	punct	_	_
+39	,	,	PUNCT	Pun	_	40	punct	_	_
 40	ne	ne	PRON	Pron,Dem,Pl,Nom	Case=Nom|Number=Plur|PronType=Dem	36	conj	_	_
 41	menee	mennä	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 42	sittes	sitten	ADV	Adv	Style=Coll	41	advmod	_	_
@@ -128,7 +128,7 @@ The following 9 pairs of parts of speech are connected with `reparandum`: <tt><a
 46	taikka	taikka	CCONJ	Pcle,CC	_	47	cc	_	_
 47	fysiikkaasam	fysiikka	NOUN	N,Sg,Par,Px3	Case=Par|Number=Sing|Person[psor]=3|Style=Coll	44	conj	_	_
 48	mutta	mutta	CCONJ	Pcle,CC	_	52	cc	_	_
-49	,	,	PUNCT	Pun	_	48	punct	_	_
+49	,	,	PUNCT	Pun	_	51	punct	_	_
 50	semmoset	semmoinen	DET	A,Dem,Pl,Nom	Case=Nom|Number=Plur|PronType=Dem|Style=Coll	51	amod	_	Alt=DET
 51	tavalliset	tavallinen	ADJ	A,Pl,Nom	Case=Nom|Number=Plur	52	amod	_	_
 52	oppilaat	oppilas	NOUN	N,Pl,Nom	Case=Nom|Number=Plur	36	conj	_	_
@@ -147,7 +147,7 @@ The following 9 pairs of parts of speech are connected with `reparandum`: <tt><a
 65	seittemääm	seitsemän	NUM	Num,Card,Sg,Ill	Case=Ill|Number=Sing|NumType=Card|Style=Coll	66	nummod	_	_
 66	puoleej	puoli	NUM	Num,Card,Sg,Ill	Case=Ill|Number=Sing|NumType=Card|Style=Coll	63	obl	_	_
 67	ja	ja	CCONJ	Pcle,CC	_	56	cc	_	_
-68	.	.	PUNCT	Pun	_	67	punct	_	_
+68	.	.	PUNCT	Pun	_	41	punct	_	_
 
 ~~~
 

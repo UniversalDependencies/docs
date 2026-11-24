@@ -12,7 +12,7 @@ It occurs with 8 different values: `Ana`, `Art`, `Dem`, `Emp`, `Ind`, `Int`, `Pr
 106 tokens (24%) have a non-empty value of `PronType`.
 50 types (20%) occur at least once with a non-empty value of `PronType`.
 36 lemmas (21%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 5 part-of-speech tags: <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> (68; 16% instances), <tt><a href="sga_dipwbg-pos-ADP.html">ADP</a></tt> (18; 4% instances), <tt><a href="sga_dipwbg-pos-DET.html">DET</a></tt> (9; 2% instances), <tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> (9; 2% instances), <tt><a href="sga_dipwbg-pos-AUX.html">AUX</a></tt> (2; 0% instances).
+The feature is used with 5 part-of-speech tags: <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> (68; 15% instances), <tt><a href="sga_dipwbg-pos-ADP.html">ADP</a></tt> (18; 4% instances), <tt><a href="sga_dipwbg-pos-DET.html">DET</a></tt> (9; 2% instances), <tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> (9; 2% instances), <tt><a href="sga_dipwbg-pos-AUX.html">AUX</a></tt> (2; 0% instances).
 
 ### `PRON`
 
@@ -53,7 +53,7 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 ### `PART`
 
-9 <tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> tokens (19% of all `PART` tokens) have a non-empty value of `PronType`.
+9 <tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> tokens (18% of all `PART` tokens) have a non-empty value of `PronType`.
 
 The most frequent other feature values with which `PART` and `PronType` co-occurred: <tt><a href="sga_dipwbg-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="sga_dipwbg-feat-PartType.html">PartType</a></tt><tt>=EMPTY</tt> (6; 67%).
 
@@ -61,7 +61,7 @@ The most frequent other feature values with which `PART` and `PronType` co-occur
 
 * `Dem` (8; 89% of non-empty `PronType`): <em>so, a, se, sin, siu</em>
 * `Int` (1; 11% of non-empty `PronType`): <em>in</em>
-* `EMPTY` (38): <em>no, do, ni, ní, as, nas, a, at, con, d</em>
+* `EMPTY` (41): <em>no, do, ni, ní, ro, as, nas, a, at, con</em>
 
 ### `AUX`
 

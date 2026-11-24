@@ -24,7 +24,7 @@ The feature is used with 8 part-of-speech tags: <tt><a href="la_llct-pos-NOUN.ht
 
 * `Plur` (10212; 20% of non-empty `Number`): <em>rebus, annos, heredes, casis, soledos, res, cartulas, subcessoribus, successoribus, kalendas</em>
 * `Sing` (40994; 80% of non-empty `Number`): <em>teste, ecclesie, filio, manus, casa, loco, terra, signum, notarius, nomine</em>
-* `EMPTY` (6): <em>[noun], [--], [pronoun]</em>
+* `EMPTY` (7): <em>[noun], [pronoun], [--]</em>
 
 <table>
   <tr><th>Paradigm <i>testis</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -119,7 +119,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 * `Plur` (4493; 25% of non-empty `Number`): <em>nos, vobis, quas, nobis, eas, qui, vos, eorum, que, eos</em>
 * `Sing` (13769; 75% of non-empty `Number`): <em>ego, me, tibi, qui, eius, mihi, id, tu, quod, que</em>
-* `EMPTY` (17): <em>nihil, nihel, [pronoun], quandoque</em>
+* `EMPTY` (16): <em>nihil, nihel, quandoque</em>
 
 <table>
   <tr><th>Paradigm <i>qui</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>

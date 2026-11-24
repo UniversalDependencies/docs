@@ -40,7 +40,7 @@ Examples: <em>Petro, Maria, Iguazu, Jane, Parizo</em>
 
 ## Relations
 
-`PROPN` nodes are attached to their parents using 7 different relations: <tt><a href="eo_cairo-dep-conj.html">conj</a></tt> (4; 29% instances), <tt><a href="eo_cairo-dep-nsubj.html">nsubj</a></tt> (3; 21% instances), <tt><a href="eo_cairo-dep-appos.html">appos</a></tt> (2; 14% instances), <tt><a href="eo_cairo-dep-nmod.html">nmod</a></tt> (2; 14% instances), <tt><a href="eo_cairo-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 7% instances), <tt><a href="eo_cairo-dep-root.html">root</a></tt> (1; 7% instances), <tt><a href="eo_cairo-dep-vocative.html">vocative</a></tt> (1; 7% instances)
+`PROPN` nodes are attached to their parents using 8 different relations: <tt><a href="eo_cairo-dep-conj.html">conj</a></tt> (4; 29% instances), <tt><a href="eo_cairo-dep-nsubj.html">nsubj</a></tt> (3; 21% instances), <tt><a href="eo_cairo-dep-appos.html">appos</a></tt> (2; 14% instances), <tt><a href="eo_cairo-dep-nmod.html">nmod</a></tt> (1; 7% instances), <tt><a href="eo_cairo-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 7% instances), <tt><a href="eo_cairo-dep-obl.html">obl</a></tt> (1; 7% instances), <tt><a href="eo_cairo-dep-root.html">root</a></tt> (1; 7% instances), <tt><a href="eo_cairo-dep-vocative.html">vocative</a></tt> (1; 7% instances)
 
 Parents of `PROPN` nodes belong to 4 different parts of speech: <tt><a href="eo_cairo-pos-VERB.html">VERB</a></tt> (7; 50% instances), <tt><a href="eo_cairo-pos-PROPN.html">PROPN</a></tt> (4; 29% instances), <tt><a href="eo_cairo-pos-NOUN.html">NOUN</a></tt> (2; 14% instances),  (1; 7% instances)
 

@@ -68,7 +68,7 @@ The 10 most frequent ambiguous types:  曰 (<tt><a href="lzh_kyoto-pos-VERB.html
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 1.024978 (the average of all parts of speech is 1.013130).
+The form / lemma ratio of `VERB` is 1.024978 (the average of all parts of speech is 1.013204).
 
 The 1st highest number of forms (2) was observed with the lemma “俱”: 俱, 倶.
 

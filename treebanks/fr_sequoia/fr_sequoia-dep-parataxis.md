@@ -75,7 +75,7 @@ The following 28 pairs of parts of speech are connected with `parataxis`: <tt><a
 8	,	,	PUNCT	_	_	3	punct	_	_
 9	il	lui	PRON	_	Case=Nom|Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
 10	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux:tense	_	_
-11	été	être	AUX	_	VerbForm=Part	12	cop	_	Tense[denom]=Past
+11	été	être	AUX	_	Tense=Past|VerbForm=Part	12	cop	_	Status[Tense]=Denom
 12	un	un	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	3	parataxis	_	_
 13	de	de	ADP	_	_	16	case	_	_
 14	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	16	det	_	_

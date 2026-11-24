@@ -11,9 +11,9 @@ This relation is universal.
 286 nodes (4%) are attached to their parents as `advcl`.
 
 248 instances of `advcl` (87%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.15384615384615.
+Average distance between parent and child is 8.12937062937063.
 
-The following 21 pairs of parts of speech are connected with `advcl`: <tt><a href="es_coser-pos-VERB.html">VERB</a></tt>-<tt><a href="es_coser-pos-VERB.html">VERB</a></tt> (209; 73% instances), <tt><a href="es_coser-pos-VERB.html">VERB</a></tt>-<tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt> (10; 3% instances), <tt><a href="es_coser-pos-VERB.html">VERB</a></tt>-<tt><a href="es_coser-pos-AUX.html">AUX</a></tt> (10; 3% instances), <tt><a href="es_coser-pos-VERB.html">VERB</a></tt>-<tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt> (10; 3% instances), <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_coser-pos-VERB.html">VERB</a></tt> (8; 3% instances), <tt><a href="es_coser-pos-ADV.html">ADV</a></tt>-<tt><a href="es_coser-pos-VERB.html">VERB</a></tt> (6; 2% instances), <tt><a href="es_coser-pos-VERB.html">VERB</a></tt>-<tt><a href="es_coser-pos-PRON.html">PRON</a></tt> (5; 2% instances), <tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_coser-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="es_coser-pos-VERB.html">VERB</a></tt>-<tt><a href="es_coser-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="es_coser-pos-AUX.html">AUX</a></tt>-<tt><a href="es_coser-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="es_coser-pos-ADV.html">ADV</a></tt>-<tt><a href="es_coser-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="es_coser-pos-ADV.html">ADV</a></tt>-<tt><a href="es_coser-pos-INTJ.html">INTJ</a></tt> (2; 1% instances), <tt><a href="es_coser-pos-PRON.html">PRON</a></tt>-<tt><a href="es_coser-pos-INTJ.html">INTJ</a></tt> (2; 1% instances), <tt><a href="es_coser-pos-VERB.html">VERB</a></tt>-<tt><a href="es_coser-pos-INTJ.html">INTJ</a></tt> (2; 1% instances), <tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_coser-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_coser-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="es_coser-pos-AUX.html">AUX</a></tt>-<tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="es_coser-pos-PRON.html">PRON</a></tt>-<tt><a href="es_coser-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="es_coser-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_coser-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="es_coser-pos-VERB.html">VERB</a></tt>-<tt><a href="es_coser-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 21 pairs of parts of speech are connected with `advcl`: <tt><a href="es_coser-pos-VERB.html">VERB</a></tt>-<tt><a href="es_coser-pos-VERB.html">VERB</a></tt> (208; 73% instances), <tt><a href="es_coser-pos-VERB.html">VERB</a></tt>-<tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt> (12; 4% instances), <tt><a href="es_coser-pos-VERB.html">VERB</a></tt>-<tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt> (10; 3% instances), <tt><a href="es_coser-pos-VERB.html">VERB</a></tt>-<tt><a href="es_coser-pos-AUX.html">AUX</a></tt> (9; 3% instances), <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_coser-pos-VERB.html">VERB</a></tt> (8; 3% instances), <tt><a href="es_coser-pos-ADV.html">ADV</a></tt>-<tt><a href="es_coser-pos-VERB.html">VERB</a></tt> (6; 2% instances), <tt><a href="es_coser-pos-VERB.html">VERB</a></tt>-<tt><a href="es_coser-pos-PRON.html">PRON</a></tt> (5; 2% instances), <tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_coser-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="es_coser-pos-VERB.html">VERB</a></tt>-<tt><a href="es_coser-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="es_coser-pos-AUX.html">AUX</a></tt>-<tt><a href="es_coser-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="es_coser-pos-ADV.html">ADV</a></tt>-<tt><a href="es_coser-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="es_coser-pos-ADV.html">ADV</a></tt>-<tt><a href="es_coser-pos-INTJ.html">INTJ</a></tt> (2; 1% instances), <tt><a href="es_coser-pos-PRON.html">PRON</a></tt>-<tt><a href="es_coser-pos-INTJ.html">INTJ</a></tt> (2; 1% instances), <tt><a href="es_coser-pos-VERB.html">VERB</a></tt>-<tt><a href="es_coser-pos-INTJ.html">INTJ</a></tt> (2; 1% instances), <tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_coser-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_coser-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="es_coser-pos-AUX.html">AUX</a></tt>-<tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="es_coser-pos-PRON.html">PRON</a></tt>-<tt><a href="es_coser-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="es_coser-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_coser-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="es_coser-pos-VERB.html">VERB</a></tt>-<tt><a href="es_coser-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -40,6 +40,31 @@ The following 21 pairs of parts of speech are connected with `advcl`: <tt><a hre
 
 
 ~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 7 advcl	color:blue
+1	Inclusive	Inclusive	ADV	_	_	3	advmod	_	_
+2	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	iba	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	asustado	asustado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	3	obj	_	_
+6	de	de	ADP	_	_	7	case	_	MWE=de_modo_que|MWEPOS=SCONJ
+7	modo	modo	NOUN	_	_	3	advcl	_	_
+8	que	que	SCONJ	_	_	10	mark	_	_
+9	entoes	entonces	ADV	_	_	10	advmod	_	Ortho=entonces
+10	será	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	7	acl	_	_
+11	que	que	SCONJ	_	_	13	mark	_	_
+12	si	si	ADV	_	_	13	advmod	_	_
+13	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	ccomp	_	_
+14	brujas	bruja	NOUN	_	Gender=Fem|Number=Plur	13	obj	_	SpaceAfter=No
+15	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 2	bgColor:blue
@@ -56,29 +81,6 @@ The following 21 pairs of parts of speech are connected with `advcl`: <tt><a hre
 9	muy	mucho	ADV	rg	_	10	advmod	_	_
 10	bueno	buen	ADJ	aq0ms0	Gender=Masc|Number=Sing	2	advcl	_	SpaceAfter=No
 11	.	.	PUNCT	fp	PunctType=Peri	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 7 advcl	color:blue
-1	He	haber	AUX	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux:pass	_	_
-2	dicho	decir	VERB	vmp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-3	con	con	ADP	sps00	_	5	case	_	_
-4	una	uno	DET	di0fs0	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	botella	botella	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obl	_	_
-6	porque	porque	SCONJ	cs	_	7	mark	_	_
-7	hay	haber	AUX	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
-8	quien	quien	PRON	pr0cs000	Number=Sing|PronType=Rel	7	obj	_	_
-9	¿	¿	PUNCT	fia	PunctSide=Ini|PunctType=Qest	10	punct	_	SpaceAfter=No
-10	Quieres	querer	VERB	vmip2s0	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
-11	más	más	ADV	di0cn0	Degree=Cmp	12	advmod	_	_
-12	cosas	cosa	NOUN	ncfp000	Gender=Fem|Number=Plur	10	obj	_	SpaceAfter=No
-13	?	?	PUNCT	fit	PunctSide=Fin|PunctType=Qest	10	punct	_	_
 
 ~~~
 

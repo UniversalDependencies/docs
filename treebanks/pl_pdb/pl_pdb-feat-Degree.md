@@ -25,7 +25,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 * `Cmp` (682; 2% of non-empty `Degree`): <em>większe, starszy, dalsze, lepsze, większej, starsza, większym, dalszych, większą, większa</em>
 * `Pos` (27510; 96% of non-empty `Degree`): <em>innych, jeden, sam, inne, europejskiej, pierwszy, różnych, jednym, cały, 1</em>
 * `Sup` (476; 2% of non-empty `Degree`): <em>najlepsze, najważniejsze, największe, najbliższych, najlepszym, najlepszy, najwyższe, najbliższym, najlepszych, największych</em>
-* `EMPTY` (7258): <em>prostu, dotyczące, dotyczących, związane, czarno, ubrany, św, biało, określonych, związanych</em>
+* `EMPTY` (7286): <em>prostu, dotyczące, dotyczących, związane, tzw, czarno, ubrany, św, biało, określonych</em>
 
 <table>
   <tr><th>Paradigm <i>duży</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -85,7 +85,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 * `Cmp` (800; 13% of non-empty `Degree`): <em>bardziej, wcześniej, lepiej, dalej, później, więcej, mniej, częściej, łatwiej, wyżej</em>
 * `Pos` (5110; 83% of non-empty `Degree`): <em>bardzo, tak, jak, dobrze, często, jednocześnie, obecnie, trudno, szybko, nagle</em>
 * `Sup` (216; 4% of non-empty `Degree`): <em>najbardziej, najmniej, najczęściej, najlepiej, najszybciej, najprawdopodobniej, najwięcej, najbliżej, najchętniej, najdalej</em>
-* `EMPTY` (5310): <em>kiedy, gdy, teraz, tu, tam, gdzie, dlatego, wtedy, potem, zawsze</em>
+* `EMPTY` (5275): <em>kiedy, gdy, teraz, tu, tam, gdzie, dlatego, wtedy, potem, zawsze</em>
 
 <table>
   <tr><th>Paradigm <i>bardzo</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -100,7 +100,7 @@ The 10 most frequent relations where parent and child node agree in `Degree`:
 <tt>ADJ --[<tt><a href="pl_pdb-dep-conj.html">conj</a></tt>]--> ADJ</tt> (1039; 68%),
 <tt>ADV --[<tt><a href="pl_pdb-dep-conj.html">conj</a></tt>]--> ADV</tt> (74; 85%),
 <tt>ADV --[<tt><a href="pl_pdb-dep-fixed.html">fixed</a></tt>]--> ADV</tt> (33; 85%),
-<tt>ADJ --[<tt><a href="pl_pdb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (29; 78%),
+<tt>ADJ --[<tt><a href="pl_pdb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (29; 74%),
 <tt>ADJ --[<tt><a href="pl_pdb-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (20; 53%),
 <tt>ADJ --[<tt><a href="pl_pdb-dep-nmod.html">nmod</a></tt>]--> ADJ</tt> (18; 69%),
 <tt>ADV --[<tt><a href="pl_pdb-dep-ccomp.html">ccomp</a></tt>]--> ADJ</tt> (10; 53%),

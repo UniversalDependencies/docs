@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>si</em> (<tt><a href="sl_sst-pos-PRON
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.226994 (the average of all parts of speech is 1.751794).
+The form / lemma ratio of `PROPN` is 1.226994 (the average of all parts of speech is 1.752917).
 
 The 1st highest number of forms (5) was observed with the lemma “Slovenec”: <em>Slovenca, Slovence, Slovencev, Slovenec, slovenci</em>.
 

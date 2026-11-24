@@ -22,7 +22,7 @@ The following 14 pairs of parts of speech are connected with `advmod:emph`: <tt>
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 advmod:emph	color:blue
-1	Obsahuje	obsahovat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+1	Obsahuje	obsahovat	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 2	zejména	zejména	ADV	Db-------------	_	3	advmod:emph	3:advmod:emph	_
 3	závazky	závazek	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	1	obj	1:obj	_
 4	z	z	ADP	RR--2----------	AdpType=Prep|Case=Gen	6	case	6:case	LId=z-1
@@ -41,11 +41,11 @@ The following 14 pairs of parts of speech are connected with `advmod:emph`: <tt>
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 4 advmod:emph	color:blue
-1	Vykazují	vykazovat	VERB	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+1	Vykazují	vykazovat	VERB	VB-P---3P-AA---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 2	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	1	expl:pv	1:expl:pv	_
 3	zde	zde	ADV	Db-------------	PronType=Dem	1	advmod	1:advmod	_
 4	i	i	CCONJ	J^-------------	_	7	advmod:emph	7:advmod:emph	LId=i-1
-5	nakoupené	nakoupený	ADJ	AAIP1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	7	amod	7:amod	_
+5	nakoupené	nakoupený	ADJ	AAIP1----1A----	Animacy=Inan|Aspect=Perf|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	7	amod	7:amod	_
 6	opční	opční	ADJ	AAIP1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	7	amod	7:amod	_
 7	listy	list	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	1	nsubj	1:nsubj	SpaceAfter=No
 8	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	_
@@ -61,14 +61,14 @@ The following 14 pairs of parts of speech are connected with `advmod:emph`: <tt>
 # visual-style 21 19 advmod:emph	color:blue
 1	V	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	2	case	2:case	LId=v-1
 2	případech	případ	NOUN	NNIP6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	9	obl	9:obl:v:loc	_
-3	uvedených	uvedený	ADJ	AAIP6----1A----	Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	2	amod	2:amod	_
+3	uvedených	uvedený	ADJ	AAIP6----1A----	Animacy=Inan|Aspect=Perf|Case=Loc|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	2	amod	2:amod	_
 4	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	5	case	5:case	LId=v-1
 5	odstavci	odstavec	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	obl	3:obl:v:loc	_
 6	2	2	NUM	C}-------------	NumForm=Roman|NumType=Card	5	nummod	5:nummod	_
 7	účetní	účetní	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	8	amod	8:amod	LId=účetní-1
 8	jednotky	jednotka	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur	9	nsubj	9:nsubj|10:nsubj:xsubj	_
-9	mohou	moci	VERB	VB-P---3P-AA--1	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
-10	provádět	provádět	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	9	xcomp	9:xcomp	_
+9	mohou	moci	VERB	VB-P---3P-AA--1	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+10	provádět	provádět	VERB	Vf--------A----	Aspect=Imp|Polarity=Pos|VerbForm=Inf	9	xcomp	9:xcomp	_
 11	inventarizaci	inventarizace	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing	10	obj	10:obj	_
 12	i	i	CCONJ	J^-------------	_	16	advmod:emph	16:advmod:emph	LId=i-1
 13	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc|ExtPos=ADP	16	case	16:case	LId=v-1

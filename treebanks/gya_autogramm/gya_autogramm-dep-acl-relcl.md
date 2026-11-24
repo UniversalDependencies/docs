@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="gya_autogramm-dep-acl.html">acl</a></tt>.
 
-18 nodes (1%) are attached to their parents as `acl:relcl`.
+49 nodes (1%) are attached to their parents as `acl:relcl`.
 
-18 instances of `acl:relcl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.88888888888889.
+49 instances of `acl:relcl` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.04081632653061.
 
-The following 3 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt> (15; 83% instances), <tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt> (2; 11% instances), <tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt> (1; 6% instances).
+The following 5 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt> (40; 82% instances), <tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt> (5; 10% instances), <tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gya_autogramm-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances), <tt><a href="gya_autogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -22,19 +22,40 @@ The following 3 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 8 acl:relcl	color:blue
-1	tó	tò	NOUN	N	_	13	dislocated	_	AlignBegin=4768|AlignEnd=5032|Gloss=conte|MGloss=conte-D|MSeg=tò-H|nWord=1|RX=N
-2	gàì	gai	VERB	V	_	1	ccomp	_	AlignBegin=5032|AlignEnd=5296|Gloss=écoper|MGloss=NMLS-écoper|MSeg=B-gai|nWord=2|Reported=Yes|RX=V
-3	kɔ́	kɔ́	ADP	FCT	_	4	case	_	AlignBegin=5296|AlignEnd=5560|Gloss=de|MGloss=de|MSeg=kɔ́|nWord=3|RX=FCT
-4	nàà	nàà	NOUN	N	_	2	obl	_	AlignBegin=5560|AlignEnd=5824|Gloss=mère|MGloss=mère|MSeg=nàà|nWord=4|RX=N
-5	kɔ́	kɔ́	ADP	FCT	_	6	case	_	AlignBegin=5824|AlignEnd=6088|Gloss=de|MGloss=de|MSeg=kɔ́|nWord=5|RX=FCT
-6	bêm	bêm	NOUN	N	_	4	nmod	_	AlignBegin=6088|AlignEnd=6352|Gloss=enfant|MGloss=enfant|MSeg=bêm|nWord=6|RX=N
-7	nɛ̀	nɛ̀	SCONJ	SUB.REL	PronType=Rel	8	mark	_	AlignBegin=6352|AlignEnd=6616|Gloss=REL|MGloss=REL|MSeg=nɛ̀|nWord=7|RX=SUB
-8	gáí	gai	VERB	V	_	4	acl:relcl	_	AlignBegin=6616|AlignEnd=6880|Gloss=écoper|MGloss=INAC-écoper|MSeg=H-gai|nWord=8|RX=V
-9	nɛ̀	nɛ̀	PART	MV	_	8	advmod	_	AlignBegin=6880|AlignEnd=7144|Gloss=CIRC|MGloss=CIRC|MSeg=nɛ̀|nWord=9|RX=MV
-10	yì	yì	NOUN	N	_	8	obj	_	AlignBegin=7144|AlignEnd=7408|Gloss=eau|MGloss=eau|MSeg=yì|nWord=10|RX=N
-11	ʔá̰-nɛ̀	ʔá̰-nɛ̀	DET	MOD	_	1	det	_	AlignBegin=7408|AlignEnd=7496|Gloss=TOP|MGloss=TOP|MSeg=ʔá̰-nɛ̀|nWord=11|RX=MOD|Topicalization=Yes
-12	=ám	ʔám	PRON	PERS	Number=Sing|Person=1|PronType=Prs	13	nsubj	_	AlignBegin=7496|AlignEnd=7672|Gloss=1SG|MGloss=1SG-MT|MSeg==ám-H|nWord=11|RX=PERS|Word=ʔá̰-nàm
-13	tɛ́-tɔ̰̀	tɔ̰	VERB	V	_	0	root	_	AlignBegin=7672|AlignEnd=7940|Gloss=dire|MGloss=VIRT-INAC--dire|MSeg=tɛ́-B-tɔ̰|nWord=12|RX=V
+1	tò	tò	NOUN	N	_	13	dislocated	_	Gloss=conte|MGloss=conte-D|MSeg=tò-H|nWord=1|RX=N|WordAlignmentBegin=4768|WordAlignmentEnd=5032
+2	B-gai	gai	VERB	V	_	1	ccomp	_	Gloss=écoper|MGloss=NMLS-écoper|MSeg=B-gai|nWord=2|Reported=Yes|RX=V|WordAlignmentBegin=5032|WordAlignmentEnd=5296
+3	kɔ́	kɔ́	ADP	FCT	_	4	case	_	Gloss=de|MGloss=de|MSeg=kɔ́|nWord=3|RX=FCT|WordAlignmentBegin=5296|WordAlignmentEnd=5560
+4	nàà	nàà	NOUN	N	_	2	obl	_	Gloss=mère|MGloss=mère|MSeg=nàà|nWord=4|RX=N|WordAlignmentBegin=5560|WordAlignmentEnd=5824
+5	kɔ́	kɔ́	ADP	FCT	_	6	case	_	Gloss=de|MGloss=de|MSeg=kɔ́|nWord=5|RX=FCT|WordAlignmentBegin=5824|WordAlignmentEnd=6088
+6	bêm	bêm	NOUN	N	_	4	nmod	_	Gloss=enfant|MGloss=enfant|MSeg=bêm|nWord=6|RX=N|WordAlignmentBegin=6088|WordAlignmentEnd=6352
+7	nɛ̀	nɛ̀	SCONJ	SUB.REL	PronType=Rel	8	mark	_	Gloss=REL|MGloss=REL|MSeg=nɛ̀|nWord=7|RX=SUB|WordAlignmentBegin=6352|WordAlignmentEnd=6616
+8	H-gai	gai	VERB	V	_	4	acl:relcl	_	Gloss=écoper|MGloss=INAC-écoper|MSeg=H-gai|nWord=8|RX=V|WordAlignmentBegin=6616|WordAlignmentEnd=6880
+9	nɛ̀	nɛ̀	PART	MV	_	8	advmod	_	Gloss=CIRC|MGloss=CIRC|MSeg=nɛ̀|nWord=9|RX=MV|WordAlignmentBegin=6880|WordAlignmentEnd=7144
+10	yì	yì	NOUN	N	_	8	obj	_	Gloss=eau|MGloss=eau|MSeg=yì|nWord=10|RX=N|WordAlignmentBegin=7144|WordAlignmentEnd=7408
+11	ʔá̰-nɛ̀	ʔá̰-nɛ̀	DET	MOD	_	1	dep	_	Gloss=TOP|MGloss=TOP|MSeg=ʔá̰-nɛ̀|nWord=11|RX=MOD|Topicalization=Yes|WordAlignmentBegin=7408|WordAlignmentEnd=7496
+12	=ám	ʔám	PRON	PERS	Number=Sing|Person=1|PronType=Prs	13	nsubj	_	Gloss=1SG|MGloss=1SG-MT|MSeg==ám-H|nWord=11|RX=PERS|WordAlignmentBegin=7496|WordAlignmentEnd=7672
+13	tɛ́-B-tɔ̰	tɔ̰	VERB	V	_	0	root	_	Gloss=dire|MGloss=VIRT-INAC--dire|MSeg=tɛ́-B-tɔ̰|nWord=12|RX=V|WordAlignmentBegin=7672|WordAlignmentEnd=7940
+
+~~~
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 9 acl:relcl	color:blue
+1	ká	ká	CCONJ	COORD	_	3	cc	_	GE=then|Gloss=then|MGloss=then|MSeg=ká|nWord=10|RX=[COORD]|WordAlignmentBegin=307304|WordAlignmentEnd=307416
+2	wà	wà	PRON	PRO.PERS	Number=Plur|Person=3|PronType=Prs	3	nsubj	_	GE=[3PL]|Gloss=3PL|MGloss=3PL|MSeg=wà|nWord=10|RX=[PRO].[PERS]|WordAlignmentBegin=307416|WordAlignmentEnd=307528
+3	BHa-saŋ	saŋ	VERB	V	_	0	root	_	GE=tie|Gloss=tie|MGloss=PFV-tie-TM|MSeg=BHa-saŋ-H|nWord=11|RX=[V]|WordAlignmentBegin=307528|WordAlignmentEnd=307752
+4	mà	mà	DET	NM	_	5	dep	_	GE=[INDF]|Gloss=INDF|MGloss=INDF|MSeg=mà|nWord=14|RX=[NM]|WordAlignmentBegin=309280|WordAlignmentEnd=309465
+5	fàmíì	fàmíì	NOUN	N	_	3	obj	_	GE=famille|Gloss=<F|MGloss=<F|MSeg=fàmíì|nWord=15|RX=[N]|WordAlignmentBegin=309465|WordAlignmentEnd=309650
+6	kɔ́	kɔ́	ADP	PREP	_	7	case	_	GE=of|Gloss=of|MGloss=of|MSeg=kɔ́|nWord=16|RX=[PREP]|WordAlignmentBegin=309650|WordAlignmentEnd=309835
+7	wí	wí	PRON	PRO.PERS	PronType=Prs	5	nmod	_	GE=the_one|Gloss=the_one|MGloss=the_one|MSeg=wí|nWord=17|RX=[PRO].[PERS]|WordAlignmentBegin=309835|WordAlignmentEnd=310020
+8	nɛ̀-wà	nɛ̀	SCONJ	SUBORD	_	9	mark	_	GE=[REL]|Gloss=REL|MGloss=REL--3PL-TM|MSeg=nɛ̀-wà-H|nWord=18|RX=[SUBORD]|WordAlignmentBegin=310020|WordAlignmentEnd=310205
+9	BHa-tom	tom	VERB	V	_	7	acl:relcl	_	GE=send|Gloss=send|MGloss=PFV-send|MSeg=BHa-tom|nWord=19|RX=[V]|WordAlignmentBegin=310205|WordAlignmentEnd=310390
+10	nɛ̀nɛ́	nɛ̀nɛ́	PART	VM	_	9	advmod	_	GE=[CRCST]|Gloss=CRCST|MGloss=CRCST|MSeg=nɛ̀nɛ́|nWord=20|RX=[VM]|WordAlignmentBegin=310390|WordAlignmentEnd=310575
+11	mɛ̀-ìí	mɛ̀	ADV	ADV	_	9	advmod	_	GE=there|Gloss=there|MGloss=there--ANAPH|MSeg=mɛ̀-ìí|nWord=21|RX=[ADV]|WordAlignmentBegin=310575|WordAlignmentEnd=310760
 
 ~~~
 
@@ -45,57 +66,19 @@ The following 3 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 6 acl:relcl	color:blue
-1	mɛ̀-nɛ́	mɛ̀-nɛ́	DET	PRED	_	0	root	_	AlignBegin=310419|AlignEnd=310634|Gloss=C'EST|MGloss=C'EST|MSeg=mɛ̀-nɛ́|nWord=7|RX=FOC
-2	gé	gé	ADJ	A	_	3	amod	_	AlignBegin=310634|AlignEnd=310849|Gloss=simple|MGloss=simple|MSeg=gé|nWord=8|RX=A
-3	fóáà	fo	VERB	V	_	1	dep	_	AlignBegin=310849|AlignEnd=311064|Gloss=remuer|MGloss=NV-remuer-NMLS|MSeg=HHa-fo-à|nWord=9|RX=V
-4	nɛ̀	nɛ̀	SCONJ	SUB.REL	PronType=Rel	6	mark	_	AlignBegin=311064|AlignEnd=311136|Gloss=REL|MGloss=REL|MSeg=nɛ̀|nWord=10|RX=SUB
-5	=ám	ʔám	PRON	PERS	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	AlignBegin=311136|AlignEnd=311279|Gloss=1SG|MGloss=1SG-MT|MSeg==ám-H|nWord=10|RX=PERS|Word=nàm
-6	fó	fo	VERB	V	_	3	acl:relcl	_	AlignBegin=311279|AlignEnd=311494|Gloss=remuer|MGloss=INAC-remuer|MSeg=H-fo|nWord=11|RX=V
-7	ʔá̰-nɛ̀	ʔá̰-nɛ̀	DET	MOD	_	3	det	_	AlignBegin=311494|AlignEnd=311709|Gloss=TOP|MGloss=TOP|MSeg=ʔá̰-nɛ̀|nWord=12|RX=MOD|Topicalization=Yes
-8	yíà	yì	NOUN	N	_	9	nsubj	_	AlignBegin=311709|AlignEnd=311924|Gloss=eau|MGloss=eau-MT-DEF|MSeg=yì-H-à|nWord=13|RX=N
-9	ndɔ́r	ndɔr	VERB	V	_	1	advcl:cleft	_	AlignBegin=311924|AlignEnd=312139|Gloss=bondir|MGloss=INAC-bondir|MSeg=H-ndɔr|nWord=14|RX=V
-10	ʔá	ʔa	VERB	V	_	9	compound:svc	_	AlignBegin=312139|AlignEnd=312354|Gloss=verser|MGloss=INF-ACC-verser|MSeg=H-ʔa|nWord=15|RX=V
-11	kɔ̀-nú	kɔ̀-nú	NOUN	N	_	10	obl:arg	_	AlignBegin=312354|AlignEnd=312462|Gloss=intérieur_de_la_bouche|MGloss=intérieur_de_la_bouche-MT|MSeg=kɔ̀-nú-H|nWord=16|RX=N|wordform=kɔ̀-nú-H
-12	=m	ʔám	PRON	PERS	Number=Sing|Person=1|PronType=Prs	11	obj	_	AlignBegin=312462|AlignEnd=312569|Gloss=1SG|MGloss=1SG|MSeg==m|nWord=16|RX=PERS|Word=kɔ̀-núm
-13	ʔèá	ʔèá	ADV	ADV	_	9	advmod	_	AlignBegin=312569|AlignEnd=312789|Gloss=seulement|MGloss=seulement|MSeg=ʔèá|nWord=17|RX=ADV
-
-~~~
-
-
-~~~ conllu
-# visual-style 22	bgColor:blue
-# visual-style 22	fgColor:white
-# visual-style 20	bgColor:blue
-# visual-style 20	fgColor:white
-# visual-style 20 22 acl:relcl	color:blue
-1	wà	wà	PRON	PERS	Number=Plur|Person=3|PronType=Prs	6	discourse:participant	_	AlignBegin=323084|AlignEnd=323658|Gloss=3PL|MGloss=3PL|MSeg=wà|nWord=1|RX=PERS
-2	Wàntò	wàntò	PROPN	NPR	_	6	vocative	_	AlignBegin=323658|AlignEnd=324232|Gloss=Wàntò|MGloss=Wàntò|MSeg=wàntò|nWord=2|RX=NPR
-3	dùà	dùà	NOUN	N	_	6	dislocated	_	AlignBegin=324232|AlignEnd=324438|Gloss=cabri|MGloss=cabri|MSeg=dùà|nWord=3|RX=N
-4	hɛ̰̀	hɛ̰̀	ADV	ADV	_	3	advmod	_	AlignBegin=324438|AlignEnd=324644|Gloss=ici|MGloss=ici|MSeg=hɛ̰̀|nWord=4|RX=ADV
-5	ʔéí	ʔéí	PRON	PRO	PronType=Ind	6	nsubj	_	AlignBegin=324644|AlignEnd=324850|Gloss=IMPS|MGloss=IMPS|MSeg=ʔéí|nWord=5|RX=PRO
-6	tɔ̰̀áà	tɔ̰	VERB	V	_	0	root	_	AlignBegin=324850|AlignEnd=325056|Gloss=dire|MGloss=ACC-dire-INS|MSeg=BHa-tɔ̰-TV|nWord=6|Reported=Yes|RX=V
-7	ndé	ndé	PART	INTERJ	_	6	discourse:sp	_	AlignBegin=325056|AlignEnd=325262|Gloss=DISC|MGloss=DISC|MSeg=ndé|nWord=7|RX=DISC
-8	ʔéí	ʔéí	PRON	PRO	PronType=Ind	9	nsubj	_	AlignBegin=325262|AlignEnd=325468|Gloss=IMPS|MGloss=IMPS|MSeg=ʔéí|nWord=8|RX=PRO
-9	gbɛ̀ɛ́	gbɛ	VERB	V	_	6	parataxis	_	AlignBegin=325468|AlignEnd=325674|Gloss=tuer|MGloss=ACC-tuer-MT|MSeg=BHa-gbɛ-H|nWord=9|Reported=Yes|RX=V
-10	dùà	dùà	NOUN	N	_	9	obj	_	AlignBegin=325674|AlignEnd=325880|Gloss=cabri|MGloss=cabri|MSeg=dùà|nWord=10|RX=N
-11	há̰	há̰	SCONJ	SUB	_	13	mark	_	AlignBegin=325880|AlignEnd=325983|Gloss=pour_que|MGloss=pour_que|MSeg=há̰|nWord=11|RX=SUB
-12	=éí	ʔéí	PRON	PRO	PronType=Ind	13	nsubj	_	AlignBegin=325983|AlignEnd=326086|Gloss=IMPS|MGloss=IMPS|MSeg==éí|nWord=11|RX=PRO|Word=héí
-13	mɔ́-dɛ̀	dɛ	VERB	V	_	9	advcl	_	AlignBegin=326086|AlignEnd=326292|Gloss=faire|MGloss=FIN.INAC-faire|MSeg=mɛ́-B-dɛ|nWord=12|RX=V
-14	nɛ̀	nɛ̀	PART	MV	_	13	advmod	_	AlignBegin=326292|AlignEnd=326498|Gloss=CIRC|MGloss=CIRC|MSeg=nɛ̀|nWord=13|RX=MV
-15	mɔ̀	mɔ̀	NOUN	N	_	13	obj	_	AlignBegin=326498|AlignEnd=326704|Gloss=chose|MGloss=chose|MSeg=mɔ̀|nWord=14|RX=N
-16	ʔá	ʔa	VERB	V	_	13	compound:svc	_	AlignBegin=326704|AlignEnd=326910|Gloss=poser|MGloss=INF-ACC-poser|MSeg=H-ʔa|nWord=15|RX=V
-17	tɛ̀	tɛ̀	NOUN	N	_	16	obl:arg	_	AlignBegin=326910|AlignEnd=327044|Gloss=corps|MGloss=corps-MT|MSeg=tɛ̀-H|nWord=16|RX=N|wordform=tɛ̀-H
-18	=mɛ́	mɛ́	PRON	PERS	Number=Sing|Person=2|PronType=Prs	17	obj	_	AlignBegin=327044|AlignEnd=327111|Gloss=2SG|MGloss=2SG|MSeg==mɛ́|nWord=16|RX=PERS|Word=tɛ̀mɛ́
-19	wèn	wèn	SCONJ	SUB	_	25	mark	_	AlignBegin=327111|AlignEnd=327396|Gloss=parce_que|MGloss=parce_que|MSeg=wèn|nWord=17|RX=SUB
-20	ʔóyó	ʔóyó	PRON	PERS	Number=Plur|PronType=Prs	25	dislocated	_	AlignBegin=327396|AlignEnd=327681|Gloss=LOGPL|MGloss=LOGPL|MSeg=ʔóyó|nWord=18|RX=PERS
-21	nɛ̀	nɛ̀	SCONJ	SUB.REL	PronType=Rel	22	mark	_	AlignBegin=327681|AlignEnd=327966|Gloss=REL|MGloss=REL|MSeg=nɛ̀|nWord=19|RX=SUB
-22	yá	ya	VERB	V	_	20	acl:relcl	_	AlignBegin=327966|AlignEnd=328251|Gloss=demeurer|MGloss=INAC-demeurer|MSeg=H-ya|nWord=20|RX=V
-23	hɛ̰̀	hɛ̰̀	ADV	ADV	_	22	advmod	_	AlignBegin=328251|AlignEnd=328536|Gloss=ici|MGloss=ici|MSeg=hɛ̰̀|nWord=21|RX=ADV
-24	wéwéì	wéwéì	NOUN	N	_	25	nsubj	_	AlignBegin=328536|AlignEnd=328821|Gloss=homme|MGloss=homme|MSeg=wéwéì|nWord=22|RX=N
-25	bé	be	VERB	V	_	13	advcl	_	AlignBegin=328821|AlignEnd=329106|Gloss=pouvoir_être|MGloss=INAC-pouvoir_être|MSeg=H-be|nWord=23|RX=V
-26	ngbàrà	ngbàrà	ADP	FCT	_	27	case	_	AlignBegin=329106|AlignEnd=329248|Gloss=entre|MGloss=entre|MSeg=ngbàrà|nWord=24|RX=FCT
-27	=yó	ʔóyó	PRON	PERS	Number=Plur|PronType=Prs	25	obl:arg	_	AlignBegin=329248|AlignEnd=329391|Gloss=LOGPL|MGloss=LOGPL|MSeg==yó|nWord=24|RX=PERS|Word=ngbàràyó
-28	ná	ná	PART	MV	Polarity=Neg	25	advmod	_	AlignBegin=329391|AlignEnd=329672|Gloss=NEG|MGloss=NEG|MSeg=ná|nWord=25|RX=MV
+1	mɛ̀-nɛ́	mɛ̀-nɛ́	DET	PRED	_	3	dep	_	Gloss=[C'EST]|MGloss=[C'EST]|MSeg=mɛ̀-nɛ́|nWord=7|RX=[FOC]|WordAlignmentBegin=310419|WordAlignmentEnd=310634
+2	gé	gé	ADJ	A	_	3	amod	_	Gloss=[simple]|MGloss=[simple]|MSeg=gé|nWord=8|RX=[A]|WordAlignmentBegin=310634|WordAlignmentEnd=310849
+3	Há-fo-à	fo	VERB	V	_	9	dislocated	_	Gloss=[remuer]|MGloss=[NV]-[remuer]-[NMLS]|MSeg=Há-fo-à|nWord=9|RX=[V]|WordAlignmentBegin=310849|WordAlignmentEnd=311064
+4	nɛ̀	nɛ̀	SCONJ	SUB.REL	PronType=Rel	6	mark	_	Gloss=[REL]|MGloss=[REL]|MSeg=nɛ̀|nWord=10|RX=[SUB]|WordAlignmentBegin=311064|WordAlignmentEnd=311136
+5	=ám	ʔám	PRON	PERS	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	Gloss=[1SG]|MGloss=[1SG]-[MT]|MSeg==ám-H|nWord=10|RX=[PERS]|WordAlignmentBegin=311136|WordAlignmentEnd=311279
+6	H-fo	fo	VERB	V	_	3	acl:relcl	_	Gloss=[remuer]|MGloss=[INAC]-[remuer]|MSeg=H-fo|nWord=11|RX=[V]|WordAlignmentBegin=311279|WordAlignmentEnd=311494
+7	ʔá̰-nɛ̀	ʔá̰-nɛ̀	DET	MOD	_	3	dep	_	Gloss=[TOP]|MGloss=[TOP]|MSeg=ʔá̰-nɛ̀|nWord=12|RX=[MOD]|Topicalization=Yes|WordAlignmentBegin=311494|WordAlignmentEnd=311709
+8	yì-H-à	yì	NOUN	N	_	9	nsubj	_	Gloss=[eau]|MGloss=[eau]-[MT]-[DEF]|MSeg=yì-H-à|nWord=13|RX=[N]|WordAlignmentBegin=311709|WordAlignmentEnd=311924
+9	H-ndɔr	ndɔr	VERB	V	_	0	root	_	Gloss=[bondir]|MGloss=[INAC]-[bondir]|MSeg=H-ndɔr|nWord=14|RX=[V]|WordAlignmentBegin=311924|WordAlignmentEnd=312139
+10	H-ʔa	ʔa	VERB	V	_	9	dep	_	Gloss=[verser]|MGloss=[INF-ACC]-[verser]|MSeg=H-ʔa|nWord=15|RX=[V]|WordAlignmentBegin=312139|WordAlignmentEnd=312354
+11	kɔ̀-nú	kɔ̀-nú	NOUN	N	_	10	obl:arg	_	Gloss=[intérieur_de_la_bouche]|MGloss=[intérieur_de_la_bouche]-[MT]|MSeg=kɔ̀-nú-H|nWord=16|RX=[N]|WordAlignmentBegin=312354|WordAlignmentEnd=312462
+12	=m	ʔám	PRON	PERS	Number=Sing|Person=1|PronType=Prs	11	obj	_	Gloss=[1SG]|MGloss=[1SG]|MSeg==m|nWord=16|RX=[PERS]|WordAlignmentBegin=312462|WordAlignmentEnd=312569
+13	ʔèá	ʔèá	ADV	ADV	_	9	advmod	_	Gloss=[seulement]|MGloss=[seulement]|MSeg=ʔèá|nWord=17|RX=[ADV]|WordAlignmentBegin=312569|WordAlignmentEnd=312789
 
 ~~~
 

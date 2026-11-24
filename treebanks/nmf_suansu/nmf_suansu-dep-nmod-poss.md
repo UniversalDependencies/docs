@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="nmf_suansu-dep-nmod.html">nmod</a></tt>.
 
-95 nodes (3%) are attached to their parents as `nmod:poss`.
+93 nodes (3%) are attached to their parents as `nmod:poss`.
 
-94 instances of `nmod:poss` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.17894736842105.
+92 instances of `nmod:poss` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.18279569892473.
 
-The following 6 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> (73; 77% instances), <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> (11; 12% instances), <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt> (4; 4% instances), <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt>-<tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> (4; 4% instances), <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt>-<tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nmf_suansu-pos-NUM.html">NUM</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> (73; 78% instances), <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> (11; 12% instances), <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt> (4; 4% instances), <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt>-<tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt>-<tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nmf_suansu-pos-NUM.html">NUM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

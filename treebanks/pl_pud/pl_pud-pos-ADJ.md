@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>I</em> (<tt><a href="pl_pud-pos-ADJ.h
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.477329 (the average of all parts of speech is 1.436422).
+The form / lemma ratio of `ADJ` is 1.477329 (the average of all parts of speech is 1.436234).
 
 The 1st highest number of forms (18) was observed with the lemma “duży”: <em>duża, duże, dużej, duży, dużych, dużą, największej, największy, największym, największymi, większa, większe, większego, większej, większy, większych, większym, większą</em>.
 

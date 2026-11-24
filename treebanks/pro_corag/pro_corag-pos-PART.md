@@ -13,9 +13,9 @@ The 10 most frequent `PART` lemmas: <em>_</em>
 
 The 10 most frequent `PART` types:  <em>que-, que, -que, qe</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> 9917, <tt><a href="pro_corag-pos-ADP.html">ADP</a></tt> 7391, <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt> 6408, <tt><a href="pro_corag-pos-DET.html">DET</a></tt> 6335, <tt><a href="pro_corag-pos-PUNCT.html">PUNCT</a></tt> 4963, <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> 3913, <tt><a href="pro_corag-pos-CCONJ.html">CCONJ</a></tt> 3587, <tt><a href="pro_corag-pos-ADV.html">ADV</a></tt> 2277, <tt><a href="pro_corag-pos-SCONJ.html">SCONJ</a></tt> 2220, <tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt> 1872, <tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt> 1680, <tt><a href="pro_corag-pos-AUX.html">AUX</a></tt> 1446, <tt><a href="pro_corag-pos-NUM.html">NUM</a></tt> 477, <tt><a href="pro_corag-pos-PART.html">PART</a></tt> 53)
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> 14203, <tt><a href="pro_corag-pos-ADP.html">ADP</a></tt> 10517, <tt><a href="pro_corag-pos-DET.html">DET</a></tt> 8948, <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt> 8930, <tt><a href="pro_corag-pos-PUNCT.html">PUNCT</a></tt> 7298, <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> 5032, <tt><a href="pro_corag-pos-CCONJ.html">CCONJ</a></tt> 4857, <tt><a href="pro_corag-pos-ADV.html">ADV</a></tt> 3220, <tt><a href="pro_corag-pos-SCONJ.html">SCONJ</a></tt> 2695, <tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt> 2606, <tt><a href="pro_corag-pos-AUX.html">AUX</a></tt> 2096, <tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt> 1879, <tt><a href="pro_corag-pos-NUM.html">NUM</a></tt> 664, <tt><a href="pro_corag-pos-PART.html">PART</a></tt> 53)
 
-The 10 most frequent ambiguous types:  <em>que-</em> (<tt><a href="pro_corag-pos-SCONJ.html">SCONJ</a></tt> 82, <tt><a href="pro_corag-pos-PART.html">PART</a></tt> 36, <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> 8), <em>que</em> (<tt><a href="pro_corag-pos-SCONJ.html">SCONJ</a></tt> 1167, <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> 210, <tt><a href="pro_corag-pos-PART.html">PART</a></tt> 14, <tt><a href="pro_corag-pos-CCONJ.html">CCONJ</a></tt> 8, <tt><a href="pro_corag-pos-ADV.html">ADV</a></tt> 7), <em>-que</em> (<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> 8, <tt><a href="pro_corag-pos-PART.html">PART</a></tt> 1, <tt><a href="pro_corag-pos-SCONJ.html">SCONJ</a></tt> 1), <em>qe</em> (<tt><a href="pro_corag-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="pro_corag-pos-PART.html">PART</a></tt> 1, <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>que-</em> (<tt><a href="pro_corag-pos-SCONJ.html">SCONJ</a></tt> 82, <tt><a href="pro_corag-pos-PART.html">PART</a></tt> 36, <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> 8), <em>que</em> (<tt><a href="pro_corag-pos-SCONJ.html">SCONJ</a></tt> 1405, <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> 266, <tt><a href="pro_corag-pos-CCONJ.html">CCONJ</a></tt> 45, <tt><a href="pro_corag-pos-ADV.html">ADV</a></tt> 15, <tt><a href="pro_corag-pos-PART.html">PART</a></tt> 14, <tt><a href="pro_corag-pos-ADP.html">ADP</a></tt> 1), <em>-que</em> (<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> 8, <tt><a href="pro_corag-pos-PART.html">PART</a></tt> 1, <tt><a href="pro_corag-pos-SCONJ.html">SCONJ</a></tt> 1), <em>qe</em> (<tt><a href="pro_corag-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="pro_corag-pos-PART.html">PART</a></tt> 1, <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> 1)
 
 
 * <em>que-</em>
@@ -23,11 +23,12 @@ The 10 most frequent ambiguous types:  <em>que-</em> (<tt><a href="pro_corag-pos
   * <tt><a href="pro_corag-pos-PART.html">PART</a></tt> 36: <em>E <b>que-</b> -los dam per for que totz ans se cabien judges em- -Banheres ;</em>
   * <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> 8: <em>Et per ung mees apres que l' aberament sera feyt , que- -s deven far las enmendes de totes causes , saub de homicidi <b>que-</b> -s deu far per tres mays .</em>
 * <em>que</em>
-  * <tt><a href="pro_corag-pos-SCONJ.html">SCONJ</a></tt> 1167: <em>presenti se de proar a esgard de la cort et digue <b>que</b> la prave es soe .</em>
-  * <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> 210: <em>e si- -no pod lui aver a dret ed medix fase so <b>que</b> ed deu far .</em>
+  * <tt><a href="pro_corag-pos-SCONJ.html">SCONJ</a></tt> 1405: <em>E que- -los dam per for <b>que</b> totz ans se cabien judges em- -Banheres ;</em>
+  * <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> 266: <em>Actum fuit hoc lo die <b>que</b> la bloge fo acumiadade .</em>
+  * <tt><a href="pro_corag-pos-CCONJ.html">CCONJ</a></tt> 45: <em>Item , la medixe pene de fau et de castanh <b>que</b> de casso ;</em>
+  * <tt><a href="pro_corag-pos-ADV.html">ADV</a></tt> 15: <em>tant à la Cride <b>que</b> a- -lo Baile oeyt dineès morlaàs ,</em>
   * <tt><a href="pro_corag-pos-PART.html">PART</a></tt> 14: <em>La prumarie ost <b>que</b> es de Pasqe entro la feste de sent Johan Babptiste ;</em>
-  * <tt><a href="pro_corag-pos-CCONJ.html">CCONJ</a></tt> 8: <em>Item , la medixe pene de fau et de castanh <b>que</b> de casso ;</em>
-  * <tt><a href="pro_corag-pos-ADV.html">ADV</a></tt> 7: <em>& no seran retirades talles productions per los produsens <b>que</b> passade la oeytene .</em>
+  * <tt><a href="pro_corag-pos-ADP.html">ADP</a></tt> 1: <em>per toute prefiction de dilays senhs que autre <b>que</b> ló President où Conselheês de ladiita Crampe posquen audir & examinar losdits presonneês comparents & arrestats , es inhibit a- -los Notaris à pena de faux de prener augunes auditions de- losdits decretats & comparents , senhs la presency de- -lo President , où augun Conselheè de la Crampe , qui seran tenguts dictar a- -lo Notary lasdijtas auditions & procedures .</em>
 * <em>-que</em>
   * <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> 8: <em>SI augune de las partidas no trobe caution per fermar los despens , sera admetut ab Caution iuratory seguin lò For , de- <b>-que</b> sera feyt acte .</em>
   * <tt><a href="pro_corag-pos-PART.html">PART</a></tt> 1: <em>En sobre tot so- <b>-que</b> lo seynhor en B. d' Escossan , qui es oncle de- -lodeyt Helias autreyessa los homes de tres paropias a- -lo matrimoni sobredeyt , liquaus eran propries francx de- -lo Rey aissicum dessus es escruit , et los leyschet esser retornat en servitut de- -lodeyt B. ayssi que ed los talha quant que se bol et pren de las causas de lor so- -que vol .</em>
@@ -39,7 +40,7 @@ The 10 most frequent ambiguous types:  <em>que-</em> (<tt><a href="pro_corag-pos
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 4.000000 (the average of all parts of speech is 542.857143).
+The form / lemma ratio of `PART` is 4.000000 (the average of all parts of speech is 696.142857).
 
 The 1st highest number of forms (4) was observed with the lemma “_”: <em>-que, qe, que, que-</em>.
 

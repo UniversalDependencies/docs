@@ -68,8 +68,8 @@ The following 5 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 vocative	color:blue
-1	Tschüss	unknown	NOUN	NN	_	0	root	_	_
-2	Freesholarships.com	unknown	NOUN	NN	_	1	vocative	_	_
+1	Tschüss	Tschüss	NOUN	NN	_	0	root	_	_
+2	Freesholarships.com	Freesholarships.com	NOUN	NN	_	1	vocative	_	_
 3	.	.	PUNCT	$.	PunctType=Peri	1	punct	_	_
 
 ~~~

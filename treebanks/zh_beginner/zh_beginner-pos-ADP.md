@@ -66,13 +66,13 @@ The 3rd highest number of forms (1) was observed with the lemma “为了”: �
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 5 different relations: <tt><a href="zh_beginner-dep-case.html">case</a></tt> (274; 80% instances), <tt><a href="zh_beginner-dep-mark.html">mark</a></tt> (43; 13% instances), <tt><a href="zh_beginner-dep-obl-arg.html">obl:arg</a></tt> (13; 4% instances), <tt><a href="zh_beginner-dep-dep.html">dep</a></tt> (11; 3% instances), <tt><a href="zh_beginner-dep-root.html">root</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 6 different relations: <tt><a href="zh_beginner-dep-case.html">case</a></tt> (273; 80% instances), <tt><a href="zh_beginner-dep-mark.html">mark</a></tt> (42; 12% instances), <tt><a href="zh_beginner-dep-obl-arg.html">obl:arg</a></tt> (14; 4% instances), <tt><a href="zh_beginner-dep-dep.html">dep</a></tt> (11; 3% instances), <tt><a href="zh_beginner-dep-obl-tmod.html">obl:tmod</a></tt> (1; 0% instances), <tt><a href="zh_beginner-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 8 different parts of speech: <tt><a href="zh_beginner-pos-NOUN.html">NOUN</a></tt> (163; 48% instances), <tt><a href="zh_beginner-pos-PRON.html">PRON</a></tt> (74; 22% instances), <tt><a href="zh_beginner-pos-VERB.html">VERB</a></tt> (54; 16% instances), <tt><a href="zh_beginner-pos-PROPN.html">PROPN</a></tt> (36; 11% instances), <tt><a href="zh_beginner-pos-DET.html">DET</a></tt> (11; 3% instances), <tt><a href="zh_beginner-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="zh_beginner-pos-ADV.html">ADV</a></tt> (1; 0% instances),  (1; 0% instances)
+Parents of `ADP` nodes belong to 8 different parts of speech: <tt><a href="zh_beginner-pos-NOUN.html">NOUN</a></tt> (162; 47% instances), <tt><a href="zh_beginner-pos-PRON.html">PRON</a></tt> (74; 22% instances), <tt><a href="zh_beginner-pos-VERB.html">VERB</a></tt> (54; 16% instances), <tt><a href="zh_beginner-pos-PROPN.html">PROPN</a></tt> (36; 11% instances), <tt><a href="zh_beginner-pos-DET.html">DET</a></tt> (11; 3% instances), <tt><a href="zh_beginner-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="zh_beginner-pos-ADV.html">ADV</a></tt> (1; 0% instances),  (1; 0% instances)
 
-328 (96%) `ADP` nodes are leaves.
+326 (95%) `ADP` nodes are leaves.
 
-10 (3%) `ADP` nodes have one child.
+12 (4%) `ADP` nodes have one child.
 
 3 (1%) `ADP` nodes have two children.
 
@@ -80,7 +80,7 @@ Parents of `ADP` nodes belong to 8 different parts of speech: <tt><a href="zh_be
 
 The highest child degree of a `ADP` node is 3.
 
-Children of `ADP` nodes are attached using 7 different relations: <tt><a href="zh_beginner-dep-obl-arg.html">obl:arg</a></tt> (11; 58% instances), <tt><a href="zh_beginner-dep-obl.html">obl</a></tt> (2; 11% instances), <tt><a href="zh_beginner-dep-punct.html">punct</a></tt> (2; 11% instances), <tt><a href="zh_beginner-dep-advmod.html">advmod</a></tt> (1; 5% instances), <tt><a href="zh_beginner-dep-cc.html">cc</a></tt> (1; 5% instances), <tt><a href="zh_beginner-dep-conj.html">conj</a></tt> (1; 5% instances), <tt><a href="zh_beginner-dep-nsubj.html">nsubj</a></tt> (1; 5% instances)
+Children of `ADP` nodes are attached using 8 different relations: <tt><a href="zh_beginner-dep-obl-arg.html">obl:arg</a></tt> (12; 57% instances), <tt><a href="zh_beginner-dep-obl.html">obl</a></tt> (2; 10% instances), <tt><a href="zh_beginner-dep-punct.html">punct</a></tt> (2; 10% instances), <tt><a href="zh_beginner-dep-advmod.html">advmod</a></tt> (1; 5% instances), <tt><a href="zh_beginner-dep-cc.html">cc</a></tt> (1; 5% instances), <tt><a href="zh_beginner-dep-ccomp.html">ccomp</a></tt> (1; 5% instances), <tt><a href="zh_beginner-dep-conj.html">conj</a></tt> (1; 5% instances), <tt><a href="zh_beginner-dep-nsubj.html">nsubj</a></tt> (1; 5% instances)
 
-Children of `ADP` nodes belong to 4 different parts of speech: <tt><a href="zh_beginner-pos-NOUN.html">NOUN</a></tt> (14; 74% instances), <tt><a href="zh_beginner-pos-ADV.html">ADV</a></tt> (2; 11% instances), <tt><a href="zh_beginner-pos-PUNCT.html">PUNCT</a></tt> (2; 11% instances), <tt><a href="zh_beginner-pos-VERB.html">VERB</a></tt> (1; 5% instances)
+Children of `ADP` nodes belong to 4 different parts of speech: <tt><a href="zh_beginner-pos-NOUN.html">NOUN</a></tt> (15; 71% instances), <tt><a href="zh_beginner-pos-ADV.html">ADV</a></tt> (2; 10% instances), <tt><a href="zh_beginner-pos-PUNCT.html">PUNCT</a></tt> (2; 10% instances), <tt><a href="zh_beginner-pos-VERB.html">VERB</a></tt> (2; 10% instances)
 

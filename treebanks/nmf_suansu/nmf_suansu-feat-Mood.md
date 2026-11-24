@@ -6,25 +6,25 @@ udver: '2'
 
 ## Treebank Statistics: UD_Naga-Suansu: Features: `Mood`
 
-This feature is universal but the values `Hrt`, `Int`, `Irr` are language-specific.
-It occurs with 7 different values: `Des`, `Hrt`, `Imp`, `Ind`, `Int`, `Irr`, `Jus`.
+This feature is universal but the values `Int`, `Irr` are language-specific.
+It occurs with 6 different values: `Des`, `Imp`, `Ind`, `Int`, `Irr`, `Jus`.
 
-449 tokens (14%) have a non-empty value of `Mood`.
-255 types (23%) occur at least once with a non-empty value of `Mood`.
-179 lemmas (22%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 5 part-of-speech tags: <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt> (314; 10% instances), <tt><a href="nmf_suansu-pos-AUX.html">AUX</a></tt> (131; 4% instances), <tt><a href="nmf_suansu-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="nmf_suansu-pos-PART.html">PART</a></tt> (1; 0% instances).
+439 tokens (14%) have a non-empty value of `Mood`.
+251 types (22%) occur at least once with a non-empty value of `Mood`.
+176 lemmas (22%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 5 part-of-speech tags: <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt> (311; 10% instances), <tt><a href="nmf_suansu-pos-AUX.html">AUX</a></tt> (124; 4% instances), <tt><a href="nmf_suansu-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="nmf_suansu-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-314 <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt> tokens (50% of all `VERB` tokens) have a non-empty value of `Mood`.
+311 <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt> tokens (50% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="nmf_suansu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (314; 100%), <tt><a href="nmf_suansu-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (228; 73%), <tt><a href="nmf_suansu-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (193; 61%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="nmf_suansu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (311; 100%), <tt><a href="nmf_suansu-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (225; 72%), <tt><a href="nmf_suansu-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (191; 61%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Imp` (2; 1% of non-empty `Mood`): <em>mia, shamma</em>
-* `Ind` (312; 99% of non-empty `Mood`): <em>dhohnte, nue, reha, wile, kanale, manungle, rae, rue, runge, rungha</em>
-* `EMPTY` (320): <em>la, the, rung, yoan, phabtama, chari, mu, thaima, thungmi, dhohn</em>
+* `Ind` (309; 99% of non-empty `Mood`): <em>dhohnte, nue, reha, kanale, manungle, rae, rue, rungha, thaile, themate</em>
+* `EMPTY` (313): <em>la, the, rung, phabtama, yoan, chari, mu, thaima, thungmi, dhohn</em>
 
 <table>
   <tr><th>Paradigm <i>mi</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th></tr>
@@ -36,23 +36,22 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
   <tr><td><tt><tt><a href="nmf_suansu-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="nmf_suansu-feat-Tense.html">Tense</a></tt><tt>=Pqp</tt></tt></td><td><em>myahate</em></td><td></td></tr>
 </table>
 
-`Mood` seems to be **lexical feature** of `VERB`. 99% lemmas (168) occur only with one value of `Mood`.
+`Mood` seems to be **lexical feature** of `VERB`. 99% lemmas (167) occur only with one value of `Mood`.
 
 ### `AUX`
 
-131 <tt><a href="nmf_suansu-pos-AUX.html">AUX</a></tt> tokens (74% of all `AUX` tokens) have a non-empty value of `Mood`.
+124 <tt><a href="nmf_suansu-pos-AUX.html">AUX</a></tt> tokens (73% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="nmf_suansu-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (88; 67%), <tt><a href="nmf_suansu-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (83; 63%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="nmf_suansu-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (81; 65%), <tt><a href="nmf_suansu-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (76; 61%).
 
 `AUX` tokens may have the following values of `Mood`:
 
 * `Des` (3; 2% of non-empty `Mood`): <em>tha</em>
-* `Hrt` (6; 5% of non-empty `Mood`): <em>ga, diga, raga</em>
-* `Imp` (3; 2% of non-empty `Mood`): <em>ra</em>
-* `Ind` (43; 33% of non-empty `Mood`): <em>lale, laha, lalate, laia, late</em>
-* `Int` (30; 23% of non-empty `Mood`): <em>la, dila, lala, dima, lalama</em>
-* `Irr` (29; 22% of non-empty `Mood`): <em>rahn, rahnte</em>
-* `Jus` (17; 13% of non-empty `Mood`): <em>dai, gama</em>
+* `Imp` (2; 2% of non-empty `Mood`): <em>ra</em>
+* `Ind` (43; 35% of non-empty `Mood`): <em>lale, laha, lalate, laia, late</em>
+* `Int` (30; 24% of non-empty `Mood`): <em>la, dila, lala, dima, lalama</em>
+* `Irr` (29; 23% of non-empty `Mood`): <em>rahn, rahnte</em>
+* `Jus` (17; 14% of non-empty `Mood`): <em>dai, gama</em>
 * `EMPTY` (45): <em>la, geraha, ga, e, gu, lama, i</em>
 
 <table>
@@ -86,7 +85,7 @@ The most frequent other feature values with which `ADV` and `Mood` co-occurred: 
 `ADV` tokens may have the following values of `Mood`:
 
 * `Ind` (1; 100% of non-empty `Mood`): <em>lhia</em>
-* `EMPTY` (192): <em>li, re, bathanahn, gare, dre, hano, reganan, szuraire, rai, daichu</em>
+* `EMPTY` (189): <em>li, re, bathanahn, gare, dre, hano, reganan, szuraire, daichu, rai</em>
 
 ### `PART`
 
@@ -97,7 +96,7 @@ The most frequent other feature values with which `PART` and `Mood` co-occurred:
 `PART` tokens may have the following values of `Mood`:
 
 * `Ind` (1; 100% of non-empty `Mood`): <em>remale</em>
-* `EMPTY` (49): <em>re, garhe, reha, rema, khama, gala, dinan, garhema, la, lagu</em>
+* `EMPTY` (47): <em>re, garhe, reha, rema, khama, gala, dinan, garhema, lagu, reganan</em>
 
 ## Relations with Agreement in `Mood`
 

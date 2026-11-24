@@ -29,4 +29,4 @@ Bunica i-a învățat pe copii o poezie . \n Grandmother-the them-has taught PE 
 obj(învățat, poezie)
 iobj(învățat, copii)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:12 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:49 CET -->

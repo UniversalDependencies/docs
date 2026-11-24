@@ -65,7 +65,7 @@ The following 3 pairs of parts of speech are connected with `case`: <tt><a href=
 4	pli	pli	ADV	_	_	5	advmod	_	_
 5	moda	moda	ADJ	_	Case=Nom|Number=Sing	0	root	_	_
 6	ol	ol	ADV	_	_	7	case	_	_
-7	via	vi	PRON	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	5	nmod	_	SpaceAfter=No
+7	via	vi	PRON	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	5	obl	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~

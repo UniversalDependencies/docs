@@ -26,7 +26,7 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 1	Ансяк	ансяк	ADV	Adv	_	4	advmod	_	GTtags=Exclusive
 2	бу	бу	AUX	Pcle	Mood=Cnd	4	aux	_	_
 3	сонензэ	сон	PRON	Pron	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	obl:agent	_	GTtags=Pers,Sg3,Dat
-4	кирдевель	кирдемс	VERB	V	Mood=Sub|Number[subj]=Sing|Person[subj]=3|VerbForm=Fin	0	root	_	GTtags=TV,Conj,ScSg3
+4	кирдевель	кирдемс	VERB	V	Mood=Cnd|Number[subj]=Sing|Person[subj]=3|VerbForm=Fin	0	root	_	GTtags=TV,Conj,ScSg3
 5	те	те	PRON	Pron	Case=Nom|Definite=Ind|Number=Sing|PronType=Dem	6	det	_	GTtags=Dem,Sg,Nom,Indef
 6	сэредьксэсь	сэредькс	NOUN	N	Case=Nom|Definite=Def|Number=Sing	4	nsubj	_	GTtags=Sg,Nom,Def|SpaceAfter=No
 7	.	.	PUNCT	CLB	_	4	punct	_	_

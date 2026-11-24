@@ -26,7 +26,7 @@ The following 1 pairs of parts of speech are connected with `flat:foreign`: <tt>
 1	Winstone	winstone	PROPN	NP00000	_	2	nsubj	_	_
 2	coñeceu	coñecer	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
 3	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-4	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	5	det	_	_
+4	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	det	_	_
 5	muller	muller	NOUN	NCFS000	Gender=Fem|Number=Sing	2	obj	_	SpaceAfter=No
 6	,	,	PUNCT	Fc	_	7	punct	_	_
 7	Elaine	elaine	PROPN	NP00000	_	5	appos	_	SpaceAfter=No

@@ -60,7 +60,7 @@ The following 7 pairs of parts of speech are connected with `nsubj`: <tt><a href
 # visual-style 5	fgColor:white
 # visual-style 5 4 nsubj	color:blue
 1	Tu	o	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
-2	ölzüjü	ölzüjü	NOUN	NOUN	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	Orig=ölçücü|OrigLang=tr
+2	ölzüǰü	ölzüǰü	NOUN	NOUN	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	Orig=ölçücü|OrigLang=tr
 3	ta	o	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	4	det	_	_
 4	saqália	saqáli	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Plur	5	nsubj	_	_
 5	áspra	áspros	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Plur	0	root	_	_

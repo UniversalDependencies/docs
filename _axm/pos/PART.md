@@ -25,4 +25,4 @@ Note that particles such as _այո(այոյ)_/_ayo_, _հա_/_ha_ “yes”, _ո
 
 Note that the particle _չ-_/_č-_ “not” is tokenized separately from the verb in the indicative mood, with _ոչ_/_oč_ “not” as its lemma. In the subjunctive mood, however, it remains attached to the verb and is not tokenized separately; instead, negation is represented morphologically on the verb by the feature `Polarity=Neg`.
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:37 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:28 CET -->

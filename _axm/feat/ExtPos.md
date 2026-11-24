@@ -77,4 +77,4 @@ Multiword adpositions are often grammaticalized prepositional phrases.
 #### Examples
 
 * _<b>կարծեմ թէ</b>_/_<b>karçem t’ē</b>_ (a multiword particle paraphrasable as “probably, perhaps”; the first node _կարծեմ_/_karçem_ is [VERB]()).
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:52 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:41 CET -->

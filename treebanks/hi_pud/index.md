@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Esha Banerjee, Pinkey Nainwani, Martin Popel, Daniel Zeman.
 
 Repository: [UD_Hindi-PUD](https://github.com/UniversalDependencies/UD_Hindi-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhi_pud218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhi_pud219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 3.0
 
@@ -90,7 +90,7 @@ employ ten-fold cross-validation.
 
 ## Relations
 
-[acl](hi_pud-dep-acl.html) – [acl:relcl](hi_pud-dep-acl-relcl.html) – [advcl](hi_pud-dep-advcl.html) – [advmod](hi_pud-dep-advmod.html) – [amod](hi_pud-dep-amod.html) – [appos](hi_pud-dep-appos.html) – [aux](hi_pud-dep-aux.html) – [aux:pass](hi_pud-dep-aux-pass.html) – [case](hi_pud-dep-case.html) – [cc](hi_pud-dep-cc.html) – [ccomp](hi_pud-dep-ccomp.html) – [compound](hi_pud-dep-compound.html) – [compound:lvc](hi_pud-dep-compound-lvc.html) – [compound:redup](hi_pud-dep-compound-redup.html) – [conj](hi_pud-dep-conj.html) – [cop](hi_pud-dep-cop.html) – [dep](hi_pud-dep-dep.html) – [det](hi_pud-dep-det.html) – [discourse](hi_pud-dep-discourse.html) – [fixed](hi_pud-dep-fixed.html) – [flat](hi_pud-dep-flat.html) – [flat:name](hi_pud-dep-flat-name.html) – [iobj](hi_pud-dep-iobj.html) – [list](hi_pud-dep-list.html) – [mark](hi_pud-dep-mark.html) – [nmod](hi_pud-dep-nmod.html) – [nmod:poss](hi_pud-dep-nmod-poss.html) – [nsubj](hi_pud-dep-nsubj.html) – [nsubj:pass](hi_pud-dep-nsubj-pass.html) – [nummod](hi_pud-dep-nummod.html) – [obj](hi_pud-dep-obj.html) – [obl](hi_pud-dep-obl.html) – [obl:agent](hi_pud-dep-obl-agent.html) – [obl:tmod](hi_pud-dep-obl-tmod.html) – [parataxis](hi_pud-dep-parataxis.html) – [punct](hi_pud-dep-punct.html) – [root](hi_pud-dep-root.html) – [xcomp](hi_pud-dep-xcomp.html)
+[acl](hi_pud-dep-acl.html) – [acl:relcl](hi_pud-dep-acl-relcl.html) – [advcl](hi_pud-dep-advcl.html) – [advmod](hi_pud-dep-advmod.html) – [amod](hi_pud-dep-amod.html) – [appos](hi_pud-dep-appos.html) – [aux](hi_pud-dep-aux.html) – [aux:pass](hi_pud-dep-aux-pass.html) – [case](hi_pud-dep-case.html) – [cc](hi_pud-dep-cc.html) – [ccomp](hi_pud-dep-ccomp.html) – [compound](hi_pud-dep-compound.html) – [compound:lvc](hi_pud-dep-compound-lvc.html) – [compound:redup](hi_pud-dep-compound-redup.html) – [conj](hi_pud-dep-conj.html) – [cop](hi_pud-dep-cop.html) – [dep](hi_pud-dep-dep.html) – [det](hi_pud-dep-det.html) – [discourse](hi_pud-dep-discourse.html) – [fixed](hi_pud-dep-fixed.html) – [flat](hi_pud-dep-flat.html) – [flat:name](hi_pud-dep-flat-name.html) – [iobj](hi_pud-dep-iobj.html) – [list](hi_pud-dep-list.html) – [mark](hi_pud-dep-mark.html) – [nmod](hi_pud-dep-nmod.html) – [nmod:poss](hi_pud-dep-nmod-poss.html) – [nmod:tmod](hi_pud-dep-nmod-tmod.html) – [nsubj](hi_pud-dep-nsubj.html) – [nsubj:pass](hi_pud-dep-nsubj-pass.html) – [nummod](hi_pud-dep-nummod.html) – [obj](hi_pud-dep-obj.html) – [obl](hi_pud-dep-obl.html) – [obl:agent](hi_pud-dep-obl-agent.html) – [obl:tmod](hi_pud-dep-obl-tmod.html) – [parataxis](hi_pud-dep-parataxis.html) – [punct](hi_pud-dep-punct.html) – [root](hi_pud-dep-root.html) – [xcomp](hi_pud-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -707,6 +707,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 9 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:lvc</a>, <a>compound:redup</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:tmod</a></li>
+<li>This corpus uses 10 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:lvc</a>, <a>compound:redup</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nmod:tmod</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:tmod</a></li>
 <li>The following 8 relation types are not used in this corpus at all: <a>csubj</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 2.442308).
+The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 2.307512).
 
 The 1st highest number of forms (1) was observed with the lemma “30”: <em>30?</em>.
 
@@ -29,12 +29,12 @@ The 2nd highest number of forms (1) was observed with the lemma “40”: <em>40
 
 The 3rd highest number of forms (1) was observed with the lemma “πινκε”: <em>πινκε</em>.
 
-`NUM` occurs with 1 features: <tt><a href="xpg_kul-feat-NumType.html">NumType</a></tt> (1; 11% instances)
+`NUM` occurs with 2 features: <tt><a href="xpg_kul-feat-NumForm.html">NumForm</a></tt> (9; 100% instances), <tt><a href="xpg_kul-feat-NumType.html">NumType</a></tt> (9; 100% instances)
 
-`NUM` occurs with 1 feature-value pairs: `NumType=Ord`
+`NUM` occurs with 3 feature-value pairs: `NumForm=Digit`, `NumForm=Word`, `NumType=Card`
 
 `NUM` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (8 tokens).
+The most frequent feature combination is `NumForm=Digit|NumType=Card` (8 tokens).
 Examples: <em>30?, 40?</em>
 
 

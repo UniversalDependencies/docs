@@ -40,7 +40,7 @@ The most frequent other feature values with which `NOUN` and `Typo` co-occurred:
 
 6 <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `PRON` and `Typo` co-occurred: <tt><a href="en_gentle-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="en_gentle-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (6; 100%).
+The most frequent other feature values with which `PRON` and `Typo` co-occurred: <tt><a href="en_gentle-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="en_gentle-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4; 67%).
 
 `PRON` tokens may have the following values of `Typo`:
 
@@ -50,11 +50,11 @@ The most frequent other feature values with which `PRON` and `Typo` co-occurred:
 
 4 <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `ADV` and `Typo` co-occurred: <tt><a href="en_gentle-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (4; 100%).
+The most frequent other feature values with which `ADV` and `Typo` co-occurred: <tt><a href="en_gentle-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="en_gentle-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (3; 75%).
 
 `ADV` tokens may have the following values of `Typo`:
 
-* `Yes` (4; 100% of non-empty `Typo`): <em>justl, than, to</em>
+* `Yes` (4; 100% of non-empty `Typo`): <em>to, than, justl</em>
 
 ### `PROPN`
 

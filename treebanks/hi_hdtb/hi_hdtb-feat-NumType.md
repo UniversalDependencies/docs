@@ -33,7 +33,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (556; 100% of non-empty `NumType`): पहली, दूसरे, दूसरी, पहले, तीसरे, पहला, प्रथम, दूसरा, चौथे, तीसरी
-* `EMPTY` (21089): वाले, शामिल, अन्य, वाली, जारी, पिछले, पूर्व, भारतीय, तैयार, स्थित
+* `EMPTY` (21099): वाले, शामिल, अन्य, वाली, जारी, पिछले, पूर्व, भारतीय, तैयार, स्थित
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (54) occur only with one value of `NumType`.
 

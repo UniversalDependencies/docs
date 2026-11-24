@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-154 nodes (13%) are attached to their parents as `obl`.
+153 nodes (13%) are attached to their parents as `obl`.
 
-115 instances of `obl` (75%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.7012987012987.
+114 instances of `obl` (75%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.69281045751634.
 
-The following 8 pairs of parts of speech are connected with `obl`: <tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt>-<tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt> (123; 80% instances), <tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt>-<tt><a href="xum_ikuvina-pos-PRON.html">PRON</a></tt> (10; 6% instances), <tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt>-<tt><a href="xum_ikuvina-pos-PROPN.html">PROPN</a></tt> (10; 6% instances), <tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt>-<tt><a href="xum_ikuvina-pos-ADJ.html">ADJ</a></tt> (7; 5% instances), <tt><a href="xum_ikuvina-pos-AUX.html">AUX</a></tt>-<tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="xum_ikuvina-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xum_ikuvina-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt>-<tt><a href="xum_ikuvina-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt>-<tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `obl`: <tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt>-<tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt> (123; 80% instances), <tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt>-<tt><a href="xum_ikuvina-pos-PRON.html">PRON</a></tt> (10; 7% instances), <tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt>-<tt><a href="xum_ikuvina-pos-PROPN.html">PROPN</a></tt> (10; 7% instances), <tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt>-<tt><a href="xum_ikuvina-pos-ADJ.html">ADJ</a></tt> (7; 5% instances), <tt><a href="xum_ikuvina-pos-AUX.html">AUX</a></tt>-<tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt>-<tt><a href="xum_ikuvina-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt>-<tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

@@ -35,7 +35,7 @@ The following 1 pairs of parts of speech are connected with `fixed`: <tt><a href
 11	mu-šar-re-e	mušarû	NOUN	_	_	16	obj	_	_
 12	LUGAL	šarru	NOUN	_	_	11	nmod	_	_
 13	a-lik	āliku	NOUN	_	_	12	nmod	_	_
-14	ma-aḫ-ri	mahru	NOUN	_	_	13	obl	_	_
+14	ma-aḫ-ri	mahru	NOUN	_	_	13	nmod	_	_
 15	-ía	-ia	PRON	_	_	14	det	_	_
 16	a-mu-ru	amāru	VERB	_	_	6	ccomp	_	_
 17	-ma	-ma	CCONJ	_	_	21	cc	_	_

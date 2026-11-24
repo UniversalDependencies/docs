@@ -11,7 +11,7 @@ This relation is universal.
 2 nodes (0%) are attached to their parents as `dislocated`.
 
 2 instances of `dislocated` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 14.5.
+Average distance between parent and child is 15.
 
 The following 2 pairs of parts of speech are connected with `dislocated`: <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt> (1; 50% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (1; 50% instances).
 
@@ -69,18 +69,19 @@ The following 2 pairs of parts of speech are connected with `dislocated`: <tt><a
 45	دی	ول	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	46	aux:perf	_	Translit=dëy|LTranslit=wël|Gloss=is
 46	ژباړل	ژباړل	VERB	_	Aspect=Imp|Case=Nom|VerbForm=Inf	21	conj	_	Translit=žbâṛë́l|LTranslit=žbâṛë́l|Gloss=to translate
 47	شوی	کېدل	AUX	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	46	aux:pass	_	Translit=šë́way|LTranslit=kedë́l|Gloss=done|SpaceAfter=No
-48	،	،	PUNCT	_	_	52	punct	_	Translit=,|LTranslit=,|Gloss=,
-49	چې	چې	SCONJ	_	_	52	mark	_	Translit=če|LTranslit=če|Gloss=that
-50	نړۍ	نړۍ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	52	nsubj	_	Translit=naṛë́y|LTranslit=naṛë́y|Gloss=world
-51	يې	يې	PRON	_	Person=3|PronType=Prs|Variant=Weak	52	obj	_	Translit=ye|LTranslit=ye|Gloss=it
-52	ولولي	لوستل	VERB	_	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	46	advcl	_	Translit=wë́lwali|LTranslit=lwastë́l|Gloss=read
-53	او	او	CCONJ	_	_	58	cc	_	Translit=aw|LTranslit=aw|Gloss=and
-54	ځان	ځان	PRON	_	Number=Sing|PronType=Prs|Reflex=Yes	58	obj	_	Translit=żân|LTranslit=żân|Gloss=self
-55	پر	پر	ADP	_	Case=Loc	56	case	_	Translit=për|LTranslit=për|Gloss=on
-56	يې	يې	PRON	_	Person=3|PronType=Prs|Variant=Weak	57	nmod	_	Translit=ye|LTranslit=ye|Gloss=it
-57	خبر	خبر	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	58	compound:lvc	_	Translit=xabár|LTranslit=xabár|Gloss=informed
-58	کړي	کول	VERB	_	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	52	conj	_	Translit=kṛi|LTranslit=kawë́l|Gloss=do|SpaceAfter=No
-59	.	.	PUNCT	_	_	21	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
+48	،	،	PUNCT	_	_	53	punct	_	Translit=,|LTranslit=,|Gloss=,
+49	چې	چې	SCONJ	_	_	53	mark	_	Translit=če|LTranslit=če|Gloss=that
+50	نړۍ	نړۍ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	53	nsubj	_	Translit=naṛë́y|LTranslit=naṛë́y|Gloss=world
+51	يې	يې	PRON	_	Person=3|PronType=Prs|Variant=Weak	53	obj	_	Translit=ye|LTranslit=ye|Gloss=it
+52	و	و	AUX	_	Aspect=Perf	53	aux:preverb	_	Translit=wë|LTranslit=wë|Gloss=_
+53	لولي	لوستل	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	46	advcl	_	Translit=lwalí|LTranslit=lwastë́l|Gloss=read
+54	او	او	CCONJ	_	_	59	cc	_	Translit=aw|LTranslit=aw|Gloss=and
+55	ځان	ځان	PRON	_	Number=Sing|PronType=Prs|Reflex=Yes	59	obj	_	Translit=żân|LTranslit=żân|Gloss=self
+56	پر	پر	ADP	_	Case=Loc	57	case	_	Translit=për|LTranslit=për|Gloss=on
+57	يې	يې	PRON	_	Person=3|PronType=Prs|Variant=Weak	58	nmod	_	Translit=ye|LTranslit=ye|Gloss=it
+58	خبر	خبر	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	59	compound:lvc	_	Translit=xabár|LTranslit=xabár|Gloss=informed
+59	کړي	کول	VERB	_	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	53	conj	_	Translit=kṛi|LTranslit=kawë́l|Gloss=do|SpaceAfter=No
+60	.	.	PUNCT	_	_	21	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
 
 ~~~
 
@@ -88,40 +89,41 @@ The following 2 pairs of parts of speech are connected with `dislocated`: <tt><a
 ~~~ conllu
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
-# visual-style 21	bgColor:blue
-# visual-style 21	fgColor:white
-# visual-style 21 12 dislocated	color:blue
+# visual-style 22	bgColor:blue
+# visual-style 22	fgColor:white
+# visual-style 22 12 dislocated	color:blue
 1	په	پۀ	ADP	_	Case=Loc	3	case	_	Translit=pë|LTranslit=pë|Gloss=at
 2	دې	دا	DET	_	Case=Loc|Deixis=Prox|Gender=Fem|Number=Sing|PronType=Dem|Variant=Short	3	det	_	Translit=de|LTranslit=dâ|Gloss=this
 3	برخه	برخه	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	7	nmod	_	Translit=bárxa|LTranslit=bárxa|Gloss=section
 4	کې	کې	ADP	_	Case=Loc	3	case	_	Translit=ke|LTranslit=ke|Gloss=in
 5	که	کۀ	SCONJ	_	_	7	mark	_	Translit=kë|LTranslit=kë|Gloss=if
 6	کتابونه	کتاب	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	7	nsubj:pass	_	Translit=kitâbúna|LTranslit=kitấb|Gloss=books
-7	ژباړل	ژباړل	VERB	_	Aspect=Imp|Case=Nom|VerbForm=Inf	21	advcl	_	Translit=žbâṛë́l|LTranslit=žbâṛë́l|Gloss=translate
+7	ژباړل	ژباړل	VERB	_	Aspect=Imp|Case=Nom|VerbForm=Inf	22	advcl	_	Translit=žbâṛë́l|LTranslit=žbâṛë́l|Gloss=translate
 8	کېږي	کېدل	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux:pass	_	Translit=kéǧi|LTranslit=kedë́l|Gloss=is-done|SpaceAfter=No
 9	،	،	PUNCT	_	_	7	punct	_	Translit=,|LTranslit=,|Gloss=,
-10	نو	نو	ADV	_	_	21	advmod	_	Translit=no|LTranslit=no|Gloss=so
+10	نو	نو	ADV	_	_	22	advmod	_	Translit=no|LTranslit=no|Gloss=so
 11	یوه	یو	NUM	_	Case=Nom|Gender=Fem|NumType=Card	12	nummod	_	Translit=yawá|LTranslit=yaw|Gloss=one
-12	ستونزه	ستونزه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	21	dislocated	_	Translit=stúnza|LTranslit=stúnza|Gloss=difficulty
-13	چې	چې	SCONJ	_	_	19	mark	_	Translit=če|LTranslit=če|Gloss=that
-14	زموږ	موږ	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	15	nmod	_	Translit=zmuǧ|LTranslit=muǧ|Gloss=our
-15	لیکوال	لیکوال	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	19	nsubj	_	Translit=likwấl|LTranslit=likwấl|Gloss=writer
-16	ور	ور	PRON	_	Person=3|PronType=Prs|Variant=Dir	13	obl	_	Translit=war|LTranslit=war|Gloss=it
-17	سره	سره	ADP	_	Case=Acc	16	case	_	Translit=sará|LTranslit=sará|Gloss=with
-18	مخ	مخ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	19	compound:lvc	_	Translit=mëx|LTranslit=mëx|Gloss=face
-19	کېږي	کېدل	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	Translit=kéǧi|LTranslit=kedë́l|Gloss=is-done|SpaceAfter=No
-20	،	،	PUNCT	_	_	19	punct	_	Translit=,|LTranslit=,|Gloss=,
-21	هغه	هغه	PRON	_	Case=Nom|Deixis=Remt|PronType=Dem	0	root	_	Translit=háġa|LTranslit=háġa|Gloss=that
-22	په	پۀ	ADP	_	Case=Loc	23	case	_	Translit=pë|LTranslit=pë|Gloss=at
-23	پښتو	پښتو	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	29	nmod	_	Translit=pax̌tó|LTranslit=pax̌tó|Gloss=Pashto
-24	کې	کې	ADP	_	Case=Loc	23	case	_	Translit=ke|LTranslit=ke|Gloss=in
-25	د	د	ADP	_	Case=Acc	28	case	_	Translit=dë|LTranslit=dë|Gloss=of
-26	ځینو	ځینې	DET	_	Case=Acc|PronType=Ind	28	det	_	Translit=żíno|LTranslit=żíne|Gloss=some
-27	پوهنیزو	پوهنیز	ADJ	_	Case=Acc|Gender=Masc|Number=Plur	28	amod	_	Translit=pohanízo|LTranslit=pohaníz|Gloss=educational
-28	اصطلاحاتو	اصطلاح	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	29	nmod	_	Translit=istilâhấto|LTranslit=istilấh|Gloss=terminology
-29	نشتوالی	نشتوالی	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	21	nsubj	_	Translit=nëštwấlay|LTranslit=nëštwấlay|Gloss=absence
-30	دی	ول	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	cop	_	Translit=dëy|LTranslit=wël|Gloss=is|SpaceAfter=No
-31	.	.	PUNCT	_	_	21	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
+12	ستونزه	ستونزه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	22	dislocated	_	Translit=stúnza|LTranslit=stúnza|Gloss=difficulty
+13	چې	چې	SCONJ	_	_	20	mark	_	Translit=če|LTranslit=če|Gloss=that
+14	د	د	ADP	_	Case=Acc	15	case	_	Translit=dë|LTranslit=dë|Gloss=of
+15	موږ	موږ	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	16	nmod	_	Translit=muǧ|LTranslit=muǧ|Gloss=us
+16	لیکوال	لیکوال	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	20	nsubj	_	Translit=likwấl|LTranslit=likwấl|Gloss=writer
+17	ور	ور	PRON	_	Person=3|PronType=Prs|Variant=Dir	13	obl	_	Translit=war|LTranslit=war|Gloss=it
+18	سره	سره	ADP	_	Case=Acc	17	case	_	Translit=sará|LTranslit=sará|Gloss=with
+19	مخ	مخ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	20	compound:lvc	_	Translit=mëx|LTranslit=mëx|Gloss=face
+20	کېږي	کېدل	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	Translit=kéǧi|LTranslit=kedë́l|Gloss=is-done|SpaceAfter=No
+21	،	،	PUNCT	_	_	20	punct	_	Translit=,|LTranslit=,|Gloss=,
+22	هغه	هغه	PRON	_	Case=Nom|Deixis=Remt|PronType=Dem	0	root	_	Translit=háġa|LTranslit=háġa|Gloss=that
+23	په	پۀ	ADP	_	Case=Loc	24	case	_	Translit=pë|LTranslit=pë|Gloss=at
+24	پښتو	پښتو	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	30	nmod	_	Translit=pax̌tó|LTranslit=pax̌tó|Gloss=Pashto
+25	کې	کې	ADP	_	Case=Loc	24	case	_	Translit=ke|LTranslit=ke|Gloss=in
+26	د	د	ADP	_	Case=Acc	29	case	_	Translit=dë|LTranslit=dë|Gloss=of
+27	ځینو	ځینې	DET	_	Case=Acc|PronType=Ind	29	det	_	Translit=żíno|LTranslit=żíne|Gloss=some
+28	پوهنیزو	پوهنیز	ADJ	_	Case=Acc|Gender=Masc|Number=Plur	29	amod	_	Translit=pohanízo|LTranslit=pohaníz|Gloss=educational
+29	اصطلاحاتو	اصطلاح	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	30	nmod	_	Translit=istilâhấto|LTranslit=istilấh|Gloss=terminology
+30	نشتوالی	نشتوالی	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	22	nsubj	_	Translit=nëštwấlay|LTranslit=nëštwấlay|Gloss=absence
+31	دی	ول	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	cop	_	Translit=dëy|LTranslit=wël|Gloss=is|SpaceAfter=No
+32	.	.	PUNCT	_	_	22	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
 
 ~~~
 

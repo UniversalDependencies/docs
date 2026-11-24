@@ -27,7 +27,7 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 13603 sentences, 208613 tokens and 208614 syntactic words.</li>
+      <li>This corpus contains 13603 sentences and 208613 tokens.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -75,8 +75,6 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 1 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-      <li>There are 1 types of multi-word tokens. Examples: nogeens.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -1303,7 +1301,7 @@ udver: '2'
                 <li>INTJ: Ja, hallo</li>
                 <li>NOUN: Basistakenpakket, Wet, Dm, Oom, verkeer, AVRO's, Akademie, Aktie, Bericht, Bestemming</li>
                 <li>NUM: Drie, Duizend, Vijf</li>
-                <li>PROPN: Olympia's, Ulster, Adam, Balkum, Fiat, GOD, Josef, Máxima, Porsche, Sydney</li>
+                <li>PROPN: Olympia's, Ulster, Adam, Balkum, Fiat, GOD, Josef, Porsche, Sydney, TT</li>
                 <li>VERB-Inf: Denken</li>
                 <li>VERB-Part: Verwoeste</li>
                 <li>X: the, Grand, Le, A, All, Caland-, Die, Financial, Guinness, I</li>
@@ -1491,7 +1489,7 @@ udver: '2'
             <li>VERB-Fin--NOUN (3746)</li>
             <li>VERB-Fin--NOUN-ADP(van) (1)</li>
             <li>VERB-Fin--NOUN-ADP(voor) (1)</li>
-            <li>VERB-Fin--PRON (1783)</li>
+            <li>VERB-Fin--PRON (1782)</li>
             <li>VERB-Fin--PRON-Nom (2617)</li>
             <li>VERB-Inf--NOUN (594)</li>
             <li>VERB-Inf--PRON (314)</li>
@@ -1530,7 +1528,7 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB-Fin--NOUN (2777)</li>
+            <li>VERB-Fin--NOUN (2778)</li>
             <li>VERB-Fin--NOUN-ADP(voor) (1)</li>
             <li>VERB-Fin--PRON (528)</li>
             <li>VERB-Fin--PRON-Acc (210)</li>
@@ -1539,7 +1537,7 @@ udver: '2'
             <li>VERB-Inf--NOUN-ADP(voor) (1)</li>
             <li>VERB-Inf--PRON (265)</li>
             <li>VERB-Inf--PRON-Acc (102)</li>
-            <li>VERB-Part--NOUN (721)</li>
+            <li>VERB-Part--NOUN (728)</li>
             <li>VERB-Part--PRON (183)</li>
             <li>VERB-Part--PRON-Acc (48)</li>
           </ul>
@@ -1661,7 +1659,7 @@ udver: '2'
       <ul>
       <li>This corpus uses 12 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>csubj:outer</a>, <a>csubj:pass</a>, <a>expl:pv</a>, <a>nmod:poss</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:arg</a></li>
       <li>The following 1 main types are not used alone, they are always subtyped: <a>compound</a></li>
-      <li>The following 8 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
+      <li>The following 7 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
       </ul>
     </td>
     <td width="50%" valign="top">

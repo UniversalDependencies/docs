@@ -23,7 +23,7 @@ The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 # visual-style 4	fgColor:white
 # visual-style 4 3 aux:pass	color:blue
 1	Друкарні	друкарня	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	4	nsubj	_	_
-2	просто	просто	PART	PART	_	4	discourse	_	_
+2	просто	просто	PART	PART	_	4	advmod:emph	_	_
 3	будуть	бути	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	4	aux:pass	_	_
 4	закриватися	закриватися	VERB	VERB	Aspect=Imp|Reflex=Yes|VerbForm=Inf	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	PUNCT	_	4	punct	_	_

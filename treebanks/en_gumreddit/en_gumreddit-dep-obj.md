@@ -67,12 +67,12 @@ The following 12 pairs of parts of speech are connected with `obj`: <tt><a href=
 13	_	_	ADV	RB	_	14	advmod	14:advmod	Bridge=41<47:comparison-sense;set-subset|Entity=(47-object-acc:inf-nnnnn-cf1-2-coref|Lem=_|Len=2
 14	_	_	ADJ	JJ	Degree=Pos	12	nsubj	12:nsubj	CxnElt=12:Existential-CopPred-ThereExpl.Pivot|Lem=_|Len=4
 15	_	_	ADP	IN	_	16	case	16:case	Lem=_|Len=2
-16	_	_	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	14	obl	14:obl:of	Entity=47)|Lem=they|Len=4
+16	_	_	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	14	nmod	14:nmod:of	Entity=47)|Lem=they|Len=4
 17	_	_	CCONJ	CC	_	19	cc	19:cc	Discourse=joint-list_m:40->39:0:dm-and-254-gold|Lem=_|Len=3|PDTB=Explicit:Expansion.Conjunction:and:254:247-253:255-259
 18	_	_	PRON	NN	Number=Sing|PronType=Tot	19	nsubj	19:nsubj	Entity=(48-person-new-nnnnn-cf5-1-coref)|Lem=_|Len=8|MSeg=every-one
 19	_	_	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	conj	7:advcl:because|12:conj:and	Lem=have|Len=3|MSeg=ha-s
 20	_	_	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	19	obj	19:obj	Entity=(47-object-giv:act-nnnnn-cf1-1-ana)|Lem=_|Len=2
-21	_	_	ADV	RB	_	19	advmod	19:advmod	Lem=_|Len=3|SpaceAfter=No
+21	_	_	ADV	RB	PronType=Dem	19	advmod	19:advmod	Lem=_|Len=3|SpaceAfter=No
 22	_	_	PUNCT	.	_	7	punct	7:punct	Lem=_|Len=1
 
 ~~~

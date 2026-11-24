@@ -23,7 +23,7 @@ The most frequent other feature values with which `DET` and `Foreign` co-occurre
 `DET` tokens may have the following values of `Foreign`:
 
 * `Yes` (33; 100% of non-empty `Foreign`): <em>les, le, Al, A, la, una</em>
-* `EMPTY` (84401): <em>el, la, los, un, las, una, su, sus, este, esta</em>
+* `EMPTY` (84420): <em>el, la, los, un, las, una, su, sus, este, esta</em>
 
 ### `ADJ`
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (19; 100% of non-empty `Foreign`): <em>Baix, Catalanes, Catalans, Socials</em>
-* `EMPTY` (36854): <em>pasado, primer, gran, primera, nuevo, nueva, mayor, próximo, últimos, mejor</em>
+* `EMPTY` (36881): <em>pasado, primer, gran, primera, nuevo, nueva, mayor, próximo, últimos, mejor</em>
 
 ### `NOUN`
 
@@ -45,7 +45,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (18; 100% of non-empty `Foreign`): <em>Comerç, Conselleria, Flors, Indústria, Institució, Mercat, Monde, Turisme, Boulevard, Ciències</em>
-* `EMPTY` (101010): <em>años, gobierno, presidente, millones, año, equipo, partido, país, parte, vez</em>
+* `EMPTY` (100558): <em>años, gobierno, presidente, millones, año, equipo, partido, país, parte, vez</em>
 
 `Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (14) occur only with one value of `Foreign`.
 
@@ -56,7 +56,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `ADP` tokens may have the following values of `Foreign`:
 
 * `Yes` (9; 100% of non-empty `Foreign`): <em>de, du</em>
-* `EMPTY` (87920): <em>de, en, a, por, con, para, entre, sobre, sin, desde</em>
+* `EMPTY` (87860): <em>de, en, a, por, con, para, entre, sobre, sin, desde</em>
 
 ### `PROPN`
 
@@ -65,7 +65,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `PROPN` tokens may have the following values of `Foreign`:
 
 * `Yes` (9; 100% of non-empty `Foreign`): <em>Lletres, Crime, Frederick, Generalitat, Glòries, Balears, Illes, Inc</em>
-* `EMPTY` (41316): <em>España, Madrid, Barcelona, José, Estado, PP, Juan, Nacional, Estados, Aznar</em>
+* `EMPTY` (41320): <em>España, Madrid, Barcelona, José, Estado, PP, Juan, Nacional, Estados, Aznar</em>
 
 ### `CCONJ`
 
@@ -74,7 +74,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `CCONJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (4; 100% of non-empty `Foreign`): <em>i, ou</em>
-* `EMPTY` (14915): <em>y, pero, o, e, ni, sino, i, u, bien, como</em>
+* `EMPTY` (14910): <em>y, pero, o, e, ni, sino, i, u, bien, ó</em>
 
 ### `X`
 
@@ -93,7 +93,7 @@ The most frequent other feature values with which `NUM` and `Foreign` co-occurre
 `NUM` tokens may have the following values of `Foreign`:
 
 * `Yes` (2; 100% of non-empty `Foreign`): <em>1.000</em>
-* `EMPTY` (9173): <em>dos, ciento, tres, cinco, cuatro, seis, 20, 30, ambos, siete</em>
+* `EMPTY` (9181): <em>dos, ciento, tres, cinco, cuatro, seis, 20, 30, ambos, siete</em>
 
 ## Relations with Agreement in `Foreign`
 

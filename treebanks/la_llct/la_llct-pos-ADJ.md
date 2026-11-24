@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>septembris</em> (<tt><a href="la_llct
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 2.696970 (the average of all parts of speech is 2.623423).
+The form / lemma ratio of `ADJ` is 2.696970 (the average of all parts of speech is 2.623868).
 
 The 1st highest number of forms (16) was observed with the lemma “bonus”: <em>bona, bonam, bonan, bonas, bone, boni, bono, bonorum, bonos, bonum, meliore, meliorem, melioris, obtimo, optimo, optimum</em>.
 

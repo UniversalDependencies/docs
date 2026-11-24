@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-509 nodes (1%) are attached to their parents as `iobj`.
+510 nodes (1%) are attached to their parents as `iobj`.
 
-507 instances of `iobj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.85265225933202.
+508 instances of `iobj` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.85490196078431.
 
-The following 10 pairs of parts of speech are connected with `iobj`: <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (287; 56% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-DET.html">DET</a></tt> (98; 19% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt> (54; 11% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-PRON.html">PRON</a></tt> (48; 9% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-ADP.html">ADP</a></tt> (15; 3% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt>-<tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `iobj`: <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (288; 56% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-DET.html">DET</a></tt> (98; 19% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt> (54; 11% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-PRON.html">PRON</a></tt> (48; 9% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-ADP.html">ADP</a></tt> (15; 3% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt>-<tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

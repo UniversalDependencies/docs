@@ -79,10 +79,10 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 ## Relations with Agreement in `Aspect`
 
 The 10 most frequent relations where parent and child node agree in `Aspect`:
-<tt>VERB --[<tt><a href="uk_parlamint-dep-conj.html">conj</a></tt>]--> VERB</tt> (1018; 81%),
+<tt>VERB --[<tt><a href="uk_parlamint-dep-conj.html">conj</a></tt>]--> VERB</tt> (1017; 81%),
 <tt>VERB --[<tt><a href="uk_parlamint-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (400; 59%),
 <tt>VERB --[<tt><a href="uk_parlamint-dep-aux.html">aux</a></tt>]--> AUX</tt> (276; 55%),
-<tt>VERB --[<tt><a href="uk_parlamint-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (273; 58%),
+<tt>VERB --[<tt><a href="uk_parlamint-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (271; 58%),
 <tt>VERB --[<tt><a href="uk_parlamint-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (245; 52%),
 <tt>ADJ --[<tt><a href="uk_parlamint-dep-conj.html">conj</a></tt>]--> ADJ</tt> (26; 53%),
 <tt>VERB --[<tt><a href="uk_parlamint-dep-compound-svc.html">compound:svc</a></tt>]--> VERB</tt> (20; 53%),

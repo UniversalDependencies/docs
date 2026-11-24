@@ -14,17 +14,23 @@ It is meant for the maintenance task force rather than individual treebank teams
 * Make sure that you have local clones of all UD_* repositories that should be released.
   This step cannot be automated (unless you write a script that queries Github about all
   repositories belonging to the UniversalDependencies organization).
-* Make sure you have the most current content of all the repositories (note that this
-  command assumes you have not modified your local copy of the data without pushing it
-  back; if this is the case, you will see lists of modified files in the output and you
-  will have to resolve it). Also make sure that you are working with the `dev` branch:<br />
+* New in November 2026: The following two steps can now be replaced by calling one script:
+
+	```bash
+	perl tools/update_repositories.pl
+	```
+
+  * Make sure you have the most current content of all the repositories (note that this
+    command assumes you have not modified your local copy of the data without pushing it
+    back; if this is the case, you will see lists of modified files in the output and you
+    will have to resolve it). Also make sure that you are working with the `dev` branch:<br />
 
 	```bash
 	for i in UD_* ; do echo $i ; cd $i ; git checkout dev ; git pull --no-edit ; cd .. ; echo ; done
 	```
 
-* Make sure there are no untracked files in your local copies of the repositories.
-  Otherwise they could be mistakenly picked for the release.<br />
+  * Make sure there are no untracked files in your local copies of the repositories.
+    Otherwise they could be mistakenly picked for the release.<br />
 
 	```bash
 	for i in UD_* ; do echo $i ; cd $i ; git status ; if git status | grep -P '(Untracked files|ahead of)' > /dev/null ; then echo XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX UNCLEAN GIT STATUS XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX ; sleep 10 ; fi; cd .. ; echo ; done
@@ -46,7 +52,7 @@ It is meant for the maintenance task force rather than individual treebank teams
   It will also collect information such as the list of contributors (we need this metadata for Lindat).
 
 	```bash
-	tools/check_release.pl --release 2.18 --next-expected 'November 2026' --oldpath /net/data/universal-dependencies-2.17 |& tee release-2.18-report.txt | less
+	tools/check_release.pl --release 2.19 --next-expected 'May 2027' --oldpath /net/data/universal-dependencies-2.18 |& tee release-2.19-report.txt | less
 	```
 
 * Freeze the list of treebanks that will be released (i.e., contain valid data).
@@ -76,8 +82,7 @@ It is meant for the maintenance task force rather than individual treebank teams
   place and form in the future.
 
 	```bash
-	# TODO: Restrict this to released_treebanks.txt
-	tools/survey_parallel_treebanks.pl | tee parallel.log
+	tools/survey_parallel_treebanks.pl --datapath `pwd -P` --tbklist released_treebanks.txt | tee parallel.log
 	```
 
 * Check the [validation report](http://quest.ms.mff.cuni.cz/udvalidator/) for legacy exceptions that are no longer needed.
@@ -92,7 +97,7 @@ It is meant for the maintenance task force rather than individual treebank teams
   by running
 
 	```bash
-	docs-automation/valdan/save-release-json.pl --json docs-automation/valdan/releases.json --releasenum 2.18 --releasedate 2026-05-15 $(cat released_treebanks.txt) ; cd docs-automation ; git commit -a -m 'Updated release list.' ; git push ; cd ..
+	docs-automation/valdan/save-release-json.pl --json docs-automation/valdan/releases.json --releasenum 2.19 --releasedate 2026-11-15 $(cat released_treebanks.txt) ; cd docs-automation ; git commit -a -m 'Updated release list.' ; git push ; cd ..
 	```
 
   Note that if a treebank was renamed between the last two releases, it must be entered manually in a separate structure in `releases.json` before running the script!
@@ -122,7 +127,8 @@ It is meant for the maintenance task force rather than individual treebank teams
   <br />
 
 	```bash
-	for i in $(cat released_treebanks.txt) ; do echo $i ; cd $i ; git checkout master ; git pull --no-edit ; git merge dev --no-edit ; git push ; git checkout dev ; cd .. ; echo ; done
+	perl tools/update_repositories.pl --merge --datapath . --tbklist released_treebanks.txt
+	# for i in $(cat released_treebanks.txt) ; do echo $i ; cd $i ; git checkout master ; git pull --no-edit ; git merge dev --no-edit ; git push ; git checkout dev ; cd .. ; echo ; done
 	```
 
   * Check for conflicts from the previous step. If people misbehaved and pushed commits to `master`, even after a revert automatic merging may no longer be possible. We must resolve all conflicts manually before going on! The conflicted repositories are still switched to the `master` branch and git will not allow any further operations with them!
@@ -142,7 +148,7 @@ It is meant for the maintenance task force rather than individual treebank teams
 * Re-evaluate the treebanks for the star ranking on the website. This is done only in the master branch and the result is stored there.
 
 	```bash
-	for i in $(cat released_treebanks.txt) ; do echo $i ; cd $i ; git checkout master ; cd .. ; perl -I ./tools ./tools/evaluate_treebank.pl $i --verbose &gt;&amp; $i/eval.log ; cd $i ; git add eval.log ; git commit -m 'Updated treebank evaluation.' ; git push ; git checkout dev ; cd .. ; done
+	for i in $(cat released_treebanks.txt) ; do echo $i ; cd $i ; git checkout master ; cd .. ; perl -I ./tools ./tools/evaluate_treebank.pl $i --verbose >& $i/eval.log ; cd $i ; git add eval.log ; git commit -m 'Updated treebank evaluation.' ; git push ; git checkout dev ; cd .. ; done
 	```
 
 ## Updating automatically generated parts of documentation
@@ -156,7 +162,7 @@ It is meant for the maintenance task force rather than individual treebank teams
 * Run the `conllu-stats.pl` script again (but with different settings) and generate the long statistics that are displayed in the docs; note that the script takes the release number as a parameter and puts it in the generated index page:
 
 	```bash
-	cd docs ; git pull --no-edit ; cd .. ; for i in $(cat released_treebanks.txt) ; do echo $i ; tools/conllu-stats.pl --oformat newdetailed --release 2.18 --treebank $i --docs docs ; echo ; done ; cd docs ; git add treebanks/*/*.md ; git commit -m 'Updated statistics.' ; git push ; cd ..
+	cd docs ; git pull --no-edit ; cd .. ; for i in $(cat released_treebanks.txt) ; do echo $i ; tools/conllu-stats.pl --oformat newdetailed --release 2.19 --treebank $i --docs docs ; echo ; done ; cd docs ; git add treebanks/*/*.md ; git commit -m 'Updated statistics.' ; git push ; cd ..
 	```
 
 * Generate side-by-side comparison whenever there are multiple treebanks of one language:
@@ -169,24 +175,24 @@ It is meant for the maintenance task force rather than individual treebank teams
   relation subtypes for the docs repository.
 
 	```bash
-	perl tools/survey_features.pl --tbklist released_treebanks.txt &gt; docs/survey-feats.md
-	perl tools/survey_deprel_subtypes.pl --tbklist released_treebanks.txt &gt; docs/survey-deprel.md
-	perl tools/survey_misc.pl --tbklist released_treebanks.txt &gt; docs/survey-misc.md
-	perl tools/survey_scripts.pl --tbklist released_treebanks.txt --countby treebank &gt; docs/survey-scripts.md
+	perl tools/survey_features.pl --tbklist released_treebanks.txt > docs/survey-feats.md
+	perl tools/survey_deprel_subtypes.pl --tbklist released_treebanks.txt > docs/survey-deprel.md
+	perl tools/survey_misc.pl --tbklist released_treebanks.txt > docs/survey-misc.md
+	perl tools/survey_scripts.pl --tbklist released_treebanks.txt --countby treebank > docs/survey-scripts.md
 	cd docs ; git pull --no-edit ; git status ; git commit -a -m 'Updated list of features and relations.' ; git push ; cd ..
 	```
 
 	```bash
-	# This script scans a final UD release folder. We may want to modify it to also accept the list of treebanks to be released. Other survey scripts accept such input.
-	tools/survey_language_families.pl --input release --udpath /net/data/universal-dependencies-2.18 --langyaml docs-automation/codes_and_flags.yaml --output tbkstats > tbkstats.2.18.txt
-	tools/survey_language_families.pl --input tbkstats --langyaml docs-automation/codes_and_flags.yaml --output fampie --languages --families --complatex < tbkstats.2.18.txt | pdflatex
+	tools/survey_language_families.pl --input release --udpath . --tbklist released_treebanks.txt --langyaml docs-automation/codes_and_flags.yaml --output tbkstats > tbkstats.2.19.txt
+	tools/survey_language_families.pl --input tbkstats --langyaml docs-automation/codes_and_flags.yaml --output fampie --languages --families --complatex < tbkstats.2.19.txt | pdflatex
 	pdftoppm -png -r 600 texput.pdf > docs/img/lang_per_fam.png
-	tools/survey_language_families.pl --input tbkstats --langyaml docs-automation/codes_and_flags.yaml --output fampie --words --families --complatex < tbkstats.2.18.txt | pdflatex
+	tools/survey_language_families.pl --input tbkstats --langyaml docs-automation/codes_and_flags.yaml --output fampie --words --families --complatex < tbkstats.2.19.txt | pdflatex
 	pdftoppm -png -r 600 texput.pdf > docs/img/word_per_fam.png
-	tools/survey_language_families.pl --input tbkstats --langyaml docs-automation/codes_and_flags.yaml --output fampie --languages --genera IE --complatex < tbkstats.2.18.txt | pdflatex
+	tools/survey_language_families.pl --input tbkstats --langyaml docs-automation/codes_and_flags.yaml --output fampie --languages --genera IE --complatex < tbkstats.2.19.txt | pdflatex
 	pdftoppm -png -r 600 texput.pdf > docs/img/lang_per_gen_ie.png
-	tools/survey_language_families.pl --input tbkstats --langyaml docs-automation/codes_and_flags.yaml --output fampie --words --genera IE --complatex < tbkstats.2.18.txt | pdflatex
+	tools/survey_language_families.pl --input tbkstats --langyaml docs-automation/codes_and_flags.yaml --output fampie --words --genera IE --complatex < tbkstats.2.19.txt | pdflatex
 	pdftoppm -png -r 600 texput.pdf > docs/img/word_per_gen_ie.png
+	rm textput.pdf
 	cd docs ; git pull --no-edit ; git commit -a -m 'Updated diversity pie charts.' ; git push ; cd ..
 	```
 
@@ -197,7 +203,7 @@ It is meant for the maintenance task force rather than individual treebank teams
 	cd docs ; ./makedata.pl ; git commit -a -m 'Updated crosslingual links.' ; git push ; cd ..
 	```
 
-* Tag the current commit in all repositories including docs with the tag of the current release (`git tag r2.18` for UD 2.18).
+* Tag the current commit in all repositories including docs with the tag of the current release (`git tag r2.19` for UD 2.19).
   Push the tag to Github: `git push origin --tags`.
   You may even tag a particular commit retroactively: `git tag -a r2.1 9fceb02`.
   If the repository is updated after you assigned the tag and you need to re-assign the tag to a newer commit,
@@ -205,26 +211,34 @@ It is meant for the maintenance task force rather than individual treebank teams
   And this is how you remove it from Github: `git push origin :refs/tags/r2.1`.
 
 	```bash
-	for i in $(cat released_treebanks.txt) docs tools ; do echo $i ; cd $i ; git tag r2.18 ; git push --tags ; cd .. ; echo ; done
+	perl tools/update_repositories.pl --tag r2.19 --datapath . --tbklist released_treebanks.txt
+	# for i in $(cat released_treebanks.txt) docs tools ; do echo $i ; cd $i ; git tag r2.19 ; git push --tags ; cd .. ; echo ; done
 	```
 
 ## Releasing the data
 
+* Check again that <tt>tools</tt> does not contain any <tt>__pycache__</tt>! It could appear there
+  even during the release process, regardless that we cleaned it up in the beginning!
 * Run the script <tt>tools/package_ud_release.sh</tt>, which must find the release number in the environment,
   and its arguments are names of folders to be released.<br />
-  <code>RELEASE=2.18 tools/package_ud_release.sh $(cat released_treebanks.txt)</code>
+  <code>RELEASE=2.19 tools/package_ud_release.sh $(cat released_treebanks.txt)</code>
   * If there are new treebanks that have too large training data that must be split to multiple files on GitHub
     (we know it because we had to add a new exception in the function `check_files()` in `udlib.pm`),
     we must first edit the script `package_ud_release.sh` and make sure that these files are concatenated
     in the release package.
   * If we later find out that we need to fix a bug in one (or a few) repository, we can update the release folder without building everything from scratch:<br />
-    <code>RELEASE=2.18 tools/package_ud_release.sh --update UD_X UD_Y</code>
-* Make the release packages temporarily available for download somewhere and ask the treebank providers to check them before we archive them in Lindat.
-* Tell Milan Straka that he can start training UDPipe models of the new data.
-  Tell Maarten Janssen that he can start importing the data to TEITOK.
-  Tell Bruno Guillaume that he can start importing the data to Grew-Match.
-  Tell Leonie Weißweiler that she can start updating the UD dataset on Hugging Face.
-  Tell myself to start import to PML-TQ :-)
+    <code>RELEASE=2.19 tools/package_ud_release.sh --update UD_X UD_Y</code>
+* Make the release packages temporarily available for download/preview somewhere.
+  * We used to ask a few people from the core group to eye-ball the packages for potential issues before we archive
+    the packages in Lindat. With growing number of treebanks, it is nearly impossible to spot anything this way.
+    We might ask the larger crowd of treebank providers to check each their own part of the package; but then many
+    people would download the package from the temporary place and Lindat download statistics would miss them.
+  * Nevertheless, the pre-release packages are important for other people who want to act on them:
+    Tell Milan Straka that he can start training UDPipe models of the new data.
+    Tell Maarten Janssen that he can start importing the data to TEITOK / Pando.
+    Tell Bruno Guillaume that he can start importing the data to Grew-Match.
+    Tell Leonie Weißweiler that she can start updating the UD dataset on Hugging Face.
+    Tell myself to start import to PML-TQ :-)
 * Update the list of licenses for Lindat. See the [LICENSE repository](https://github.com/UniversalDependencies/LICENSE)
   and the README file there.
   The script <tt>generate_license_for_lindat.pl</tt> can be invoked from the parent folder
@@ -264,11 +278,11 @@ It is meant for the maintenance task force rather than individual treebank teams
 
 # Check that Treex knows all new language codes (the script will say what to do if not).
 # Then copy the new release from Dan's workspace to /net/data/universal-dependencies-2.xx.
-$HAMLEDT/release_ud_ufal.pl --release 2.18
+$HAMLEDT/release_ud_ufal.pl --release 2.19
 
 # Import the data to PML-TQ.
 cd $HAMLEDT
-perl ./populate_ud.pl 2.18
+perl ./populate_ud.pl 2.19
 cd normalize
 make clean
 make qpmltq

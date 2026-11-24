@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.0 release.
 The following people have contributed to making this treebank part of UD: Riyaz Ahmad Bhat, Daniel Zeman.
 
 Repository: [UD_Urdu-UDTB](https://github.com/UniversalDependencies/UD_Urdu-UDTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udur_udtb218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udur_udtb219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -83,11 +83,11 @@ year={2009}
 
 ## Features
 
-[AdpType](ur_udtb-feat-AdpType.html) – [AdvType](ur_udtb-feat-AdvType.html) – [Aspect](ur_udtb-feat-Aspect.html) – [Case](ur_udtb-feat-Case.html) – [Echo](ur_udtb-feat-Echo.html) – [Foreign](ur_udtb-feat-Foreign.html) – [Gender](ur_udtb-feat-Gender.html) – [Mood](ur_udtb-feat-Mood.html) – [Number](ur_udtb-feat-Number.html) – [NumType](ur_udtb-feat-NumType.html) – [Person](ur_udtb-feat-Person.html) – [Polarity](ur_udtb-feat-Polarity.html) – [Polite](ur_udtb-feat-Polite.html) – [Poss](ur_udtb-feat-Poss.html) – [PronType](ur_udtb-feat-PronType.html) – [Tense](ur_udtb-feat-Tense.html) – [VerbForm](ur_udtb-feat-VerbForm.html) – [Voice](ur_udtb-feat-Voice.html)
+[AdpType](ur_udtb-feat-AdpType.html) – [AdvType](ur_udtb-feat-AdvType.html) – [Aspect](ur_udtb-feat-Aspect.html) – [Case](ur_udtb-feat-Case.html) – [Echo](ur_udtb-feat-Echo.html) – [ExtPos](ur_udtb-feat-ExtPos.html) – [Foreign](ur_udtb-feat-Foreign.html) – [Gender](ur_udtb-feat-Gender.html) – [Mood](ur_udtb-feat-Mood.html) – [Number](ur_udtb-feat-Number.html) – [NumType](ur_udtb-feat-NumType.html) – [Person](ur_udtb-feat-Person.html) – [Polarity](ur_udtb-feat-Polarity.html) – [Polite](ur_udtb-feat-Polite.html) – [Poss](ur_udtb-feat-Poss.html) – [PronType](ur_udtb-feat-PronType.html) – [Tense](ur_udtb-feat-Tense.html) – [VerbForm](ur_udtb-feat-VerbForm.html) – [Voice](ur_udtb-feat-Voice.html)
 
 ## Relations
 
-[acl](ur_udtb-dep-acl.html) – [acl:relcl](ur_udtb-dep-acl-relcl.html) – [advcl](ur_udtb-dep-advcl.html) – [advmod](ur_udtb-dep-advmod.html) – [amod](ur_udtb-dep-amod.html) – [aux](ur_udtb-dep-aux.html) – [case](ur_udtb-dep-case.html) – [cc](ur_udtb-dep-cc.html) – [ccomp](ur_udtb-dep-ccomp.html) – [compound](ur_udtb-dep-compound.html) – [conj](ur_udtb-dep-conj.html) – [cop](ur_udtb-dep-cop.html) – [dep](ur_udtb-dep-dep.html) – [det](ur_udtb-dep-det.html) – [discourse](ur_udtb-dep-discourse.html) – [dislocated](ur_udtb-dep-dislocated.html) – [flat](ur_udtb-dep-flat.html) – [iobj](ur_udtb-dep-iobj.html) – [mark](ur_udtb-dep-mark.html) – [nmod](ur_udtb-dep-nmod.html) – [nsubj](ur_udtb-dep-nsubj.html) – [nummod](ur_udtb-dep-nummod.html) – [obj](ur_udtb-dep-obj.html) – [obl](ur_udtb-dep-obl.html) – [punct](ur_udtb-dep-punct.html) – [root](ur_udtb-dep-root.html) – [vocative](ur_udtb-dep-vocative.html) – [xcomp](ur_udtb-dep-xcomp.html)
+[acl](ur_udtb-dep-acl.html) – [acl:relcl](ur_udtb-dep-acl-relcl.html) – [advcl](ur_udtb-dep-advcl.html) – [advmod](ur_udtb-dep-advmod.html) – [amod](ur_udtb-dep-amod.html) – [appos](ur_udtb-dep-appos.html) – [aux](ur_udtb-dep-aux.html) – [case](ur_udtb-dep-case.html) – [cc](ur_udtb-dep-cc.html) – [ccomp](ur_udtb-dep-ccomp.html) – [compound](ur_udtb-dep-compound.html) – [conj](ur_udtb-dep-conj.html) – [cop](ur_udtb-dep-cop.html) – [dep](ur_udtb-dep-dep.html) – [det](ur_udtb-dep-det.html) – [discourse](ur_udtb-dep-discourse.html) – [dislocated](ur_udtb-dep-dislocated.html) – [fixed](ur_udtb-dep-fixed.html) – [flat](ur_udtb-dep-flat.html) – [iobj](ur_udtb-dep-iobj.html) – [mark](ur_udtb-dep-mark.html) – [nmod](ur_udtb-dep-nmod.html) – [nsubj](ur_udtb-dep-nsubj.html) – [nummod](ur_udtb-dep-nummod.html) – [obj](ur_udtb-dep-obj.html) – [obl](ur_udtb-dep-obl.html) – [punct](ur_udtb-dep-punct.html) – [root](ur_udtb-dep-root.html) – [vocative](ur_udtb-dep-vocative.html) – [xcomp](ur_udtb-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -286,7 +286,7 @@ year={2009}
       <li>AUX-Fin: ہیں, ہےں, تھے, گے, جائے, جائیں_گے, جائیں, تھیں, جائےگا, گی</li>
       <li>AUX-Inf: جانے, سکنے</li>
       <li>AUX-Part: ہوئے, گئے, رہے, سکتے, سکے, جاتے, گئیں, سکیں, کرتے, گیا</li>
-      <li>DET: ان, یہ, جن, ایسے, اُن, اتنے, ایسی, سارے, ہم, اس</li>
+      <li>DET: ان, یہ, جن, ایسے, اُن, ایسی, سارے, ہم, اتنے, اس</li>
       <li>NOUN: افراد, ارکان, انتخابات, عہدیداروں, قائدین, مسائل, ممالک, عوام, مسلمانوں, علاقوں</li>
       <li>NOUN-Part: گئے</li>
       <li>NUM: دونوں, تینوں, ہزاروں, چاروں, درجنوں, سینکڑوں, لاکھوں, کروڑوں</li>
@@ -355,7 +355,7 @@ year={2009}
       <li>AUX-Inf: جانے, کرنے, پڑنے, جانا, رہنے, پانے</li>
       <li>AUX-Part: پڑا, جانے</li>
       <li>CCONJ: اور, و</li>
-      <li>DET: اس, ان, ایسے, اسی, دیگر, کسی, جن, جس, ایسی, اُس</li>
+      <li>DET: اس, ان, ایسے, اسی, کسی, جن, دیگر, جس, ایسی, اُس</li>
       <li>NOUN: حکومت, عوام, پولیس, طور, انتخابات, ملک, عہدیداروں, عمل, اجلاس, پارٹی</li>
       <li>NOUN-Inf: پینے, جلنے, ڈرا</li>
       <li>NOUN-Part: چھایا</li>
@@ -422,7 +422,7 @@ year={2009}
       <li>NOUN-Part: گرمائی</li>
       <li>NUM: دونوں, ایک, لاکھ, 02, 4, 50, آدھ, ارب, اےک, تین</li>
       <li>PART: مسٹر, جناب, جیسے, تر, فی, مبارک, مسز, گویا, تعالیٰ, حضرات</li>
-      <li>PRON: وہ, جو, یہ, کوئی, اب, یہاں, اپنے, جب, اپنی, جہاں</li>
+      <li>PRON: وہ, جو, یہ, کوئی, اب, یہاں, اپنے, جب, اپنی, اپنا</li>
       <li>PROPN: پی, سی, بی, ایس, آئی, ٹی, ڈی, محمد, آر, جے</li>
       <li>SCONJ: ،, اگر, تب, گویا</li>
       <li>VERB: کی, دیا, کرنے, کرنا, جانا, پڑھنا, کر, کھیل, گھرے, آنے</li>
@@ -602,7 +602,7 @@ year={2009}
 <ul>
   <li>Dem
     <ul>
-      <li>DET: اس, یہ, ان, اسی, ایسے, جو, وہ, یہی, ایسی, ایسا</li>
+      <li>DET: اس, یہ, ان, اسی, ایسے, جو, وہ, دیگر, یہی, ایسی</li>
       <li>PRON: اس, ان, اسی, ایسے, جہاں, وہی, یہ</li>
     </ul>
   </li>
@@ -611,8 +611,9 @@ year={2009}
 <ul>
   <li>Ind
     <ul>
-      <li>DET: کئی, تمام, کچھ, ہر, چند, بعض, زیادہ, کم, بہت, اور</li>
+      <li>DET: کئی, تمام, کچھ, ہر, چند, بعض, زیادہ, کم, بہت, کوئی</li>
       <li>PART: کم</li>
+      <li>PRON: اےک, کچھ</li>
     </ul>
   </li>
 </ul>
@@ -622,7 +623,8 @@ year={2009}
     <ul>
       <li>DET: کیا, کس, کونسا, کتنے, کون, کیسا</li>
       <li>DET-Part: کیا</li>
-      <li>PRON: کیوں, کیا, کہاں, آیا, کس, کیسے, کون, کب, کتنا, کونسی</li>
+      <li>PRON: کیا, کیوں, آیا, کہاں, کس, کیسے, کون, کیسا, کب, کتنا</li>
+      <li>PRON-Part: آیا, کیا</li>
     </ul>
   </li>
 </ul>
@@ -638,7 +640,23 @@ year={2009}
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: اس, وہ, ان, انہوں, اپنے, جس, جو, یہ, اپنی, انہیں</li>
+      <li>PRON: اس, وہ, ان, انہوں, جو, اپنے, جس, یہ, اپنی, اب</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Rel
+    <ul>
+      <li>DET: جتنے</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Tot
+    <ul>
+      <li>DET: تمام, سارے, پورے, تمام_تر, ساری</li>
     </ul>
   </li>
 </ul>
@@ -829,6 +847,19 @@ year={2009}
 </ul>
 
 <ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADV
+        <ul>
+          <li>ADJ: کم</li>
+          <li>ADV: جلد</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Foreign</a>
     <ul>
       <li>Yes
@@ -865,10 +896,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-Acc-ADP(سے) (2)</li>
       <li>VERB--NOUN-Acc-ADP(نے) (150)</li>
       <li>VERB--NOUN-Acc-ADP(کا) (1)</li>
-      <li>VERB--NOUN-Acc-ADP(کو) (32)</li>
-      <li>VERB--NOUN-Acc-ADP(کے)-ADP(ساتھ) (1)</li>
+      <li>VERB--NOUN-Acc-ADP(کو) (31)</li>
       <li>VERB--NOUN-Acc-ADP(کے)-ADP(سبب) (1)</li>
-      <li>VERB--NOUN-Nom (481)</li>
+      <li>VERB--NOUN-Nom (478)</li>
       <li>VERB--NOUN-Nom-ADP(100)-ADP(سے) (1)</li>
       <li>VERB--NOUN-Nom-ADP(نے) (4)</li>
       <li>VERB--PRON (12)</li>
@@ -877,10 +907,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--PRON-Acc,Dat (12)</li>
       <li>VERB--PRON-Acc,Dat-ADP(نے) (1)</li>
       <li>VERB--PRON-Acc,Gen (2)</li>
-      <li>VERB--PRON-Acc-ADP(سے) (1)</li>
       <li>VERB--PRON-Acc-ADP(نے) (42)</li>
       <li>VERB--PRON-Acc-ADP(کا) (1)</li>
-      <li>VERB--PRON-Acc-ADP(کو) (8)</li>
+      <li>VERB--PRON-Acc-ADP(کو) (5)</li>
       <li>VERB--PRON-Nom (237)</li>
       <li>VERB-Conv--NOUN-Nom (6)</li>
       <li>VERB-Conv--PRON-Acc-ADP(نے) (1)</li>
@@ -888,14 +917,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN (1)</li>
       <li>VERB-Fin--NOUN-Acc (50)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(سے)-ADP(لے) (1)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(مےں) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(کا)-ADP(وجہ) (1)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(کو) (29)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(کو) (28)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(کو)-ADP(کو) (1)</li>
-      <li>VERB-Fin--NOUN-Nom (220)</li>
-      <li>VERB-Fin--PRON (10)</li>
+      <li>VERB-Fin--NOUN-Nom (218)</li>
+      <li>VERB-Fin--PRON (8)</li>
       <li>VERB-Fin--PRON-Acc (9)</li>
-      <li>VERB-Fin--PRON-Acc,Dat (19)</li>
+      <li>VERB-Fin--PRON-Acc,Dat (16)</li>
       <li>VERB-Fin--PRON-Acc,Gen (1)</li>
       <li>VERB-Fin--PRON-Acc-ADP(سے) (1)</li>
       <li>VERB-Fin--PRON-Acc-ADP(مےں) (1)</li>
@@ -908,7 +936,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN-Acc-ADP(سے) (1)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(نے) (7)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(کا) (15)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(کو) (57)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(کو) (56)</li>
       <li>VERB-Inf--NOUN-Nom (97)</li>
       <li>VERB-Inf--PRON (2)</li>
       <li>VERB-Inf--PRON-Acc (3)</li>
@@ -921,20 +949,19 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--NOUN-ADP(نے) (6)</li>
       <li>VERB-Part--NOUN-Acc (129)</li>
       <li>VERB-Part--NOUN-Acc-ADP(بشمول)-ADP(نے) (1)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(سے) (3)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(سے) (2)</li>
       <li>VERB-Part--NOUN-Acc-ADP(عملہ) (1)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(مےں) (2)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(نے) (636)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(مےں) (1)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(نے) (635)</li>
       <li>VERB-Part--NOUN-Acc-ADP(کا) (2)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(کو) (40)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(کے)-ADP(دوران) (1)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(کو) (37)</li>
       <li>VERB-Part--NOUN-Acc-ADP(کے)-ADP(ذرائع)-ADP(نے) (1)</li>
-      <li>VERB-Part--NOUN-Nom (643)</li>
+      <li>VERB-Part--NOUN-Nom (634)</li>
       <li>VERB-Part--NOUN-Nom-ADP(سمیت) (1)</li>
       <li>VERB-Part--NOUN-Nom-ADP(سے) (1)</li>
       <li>VERB-Part--NOUN-Nom-ADP(نے) (26)</li>
       <li>VERB-Part--NOUN-Nom-ADP(کو) (1)</li>
-      <li>VERB-Part--PRON (26)</li>
+      <li>VERB-Part--PRON (24)</li>
       <li>VERB-Part--PRON-ADP(نے) (12)</li>
       <li>VERB-Part--PRON-Acc (11)</li>
       <li>VERB-Part--PRON-Acc,Dat (33)</li>
@@ -944,10 +971,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--PRON-Acc-ADP(نے) (548)</li>
       <li>VERB-Part--PRON-Acc-ADP(کا) (1)</li>
       <li>VERB-Part--PRON-Acc-ADP(کو) (5)</li>
-      <li>VERB-Part--PRON-Nom (313)</li>
+      <li>VERB-Part--PRON-Nom (312)</li>
       <li>VERB-Part--PRON-Nom-ADP(نے) (18)</li>
       <li>VERB-Part--PRON-Nom-ADP(وہ) (1)</li>
-      <li>VERB-Part--PRON-Nom-ADP(کو) (1)</li>
     </ul>
   </li>
 </ul>
@@ -966,7 +992,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-Acc-ADP(کے)-ADP(خلاف) (2)</li>
       <li>VERB--NOUN-Acc-ADP(کے)-ADP(ذریعہ) (1)</li>
       <li>VERB--NOUN-Acc-ADP(کے)-ADP(ساتھ) (5)</li>
-      <li>VERB--NOUN-Nom (529)</li>
+      <li>VERB--NOUN-Nom (530)</li>
       <li>VERB--NOUN-Nom-ADP(سب)-ADP(سے) (1)</li>
       <li>VERB--NOUN-Nom-ADP(سے) (2)</li>
       <li>VERB--NOUN-Nom-ADP(کو) (6)</li>
@@ -975,7 +1001,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--PRON-Acc,Dat (36)</li>
       <li>VERB--PRON-Acc-ADP(سے) (5)</li>
       <li>VERB--PRON-Acc-ADP(کا) (3)</li>
-      <li>VERB--PRON-Acc-ADP(کو) (30)</li>
+      <li>VERB--PRON-Acc-ADP(کو) (32)</li>
       <li>VERB--PRON-Acc-ADP(کے)-ADP(ساتھ) (1)</li>
       <li>VERB--PRON-Nom (11)</li>
       <li>VERB-Conv--NOUN-Acc-ADP(سے) (1)</li>
@@ -990,7 +1016,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Acc-ADP(کے) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(کے)-ADP(حوالہ)-ADP(سے) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(کے)-ADP(ساتھ) (4)</li>
-      <li>VERB-Fin--NOUN-Nom (185)</li>
+      <li>VERB-Fin--NOUN-Nom (187)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(زیر) (1)</li>
       <li>VERB-Fin--PRON (3)</li>
       <li>VERB-Fin--PRON-Acc,Dat (2)</li>
@@ -1032,11 +1058,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--NOUN-Acc-ADP(کا)-ADP(لگ) (1)</li>
       <li>VERB-Part--NOUN-Acc-ADP(کا)-ADP(وجہ) (1)</li>
       <li>VERB-Part--NOUN-Acc-ADP(کا)-ADP(کو) (1)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(کو) (386)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(کو) (387)</li>
       <li>VERB-Part--NOUN-Acc-ADP(کے)-ADP(بموجب) (1)</li>
       <li>VERB-Part--NOUN-Acc-ADP(کے)-ADP(خلاف) (1)</li>
       <li>VERB-Part--NOUN-Acc-ADP(کے)-ADP(ساتھ) (10)</li>
-      <li>VERB-Part--NOUN-Nom (1399)</li>
+      <li>VERB-Part--NOUN-Nom (1402)</li>
       <li>VERB-Part--NOUN-Nom-ADP(زیر) (2)</li>
       <li>VERB-Part--NOUN-Nom-ADP(سے) (3)</li>
       <li>VERB-Part--NOUN-Nom-ADP(کا) (1)</li>
@@ -1061,7 +1087,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-Acc-ADP(سے) (11)</li>
       <li>VERB--NOUN-Acc-ADP(کا) (2)</li>
       <li>VERB--NOUN-Acc-ADP(کا)-ADP(ہاتھ) (1)</li>
-      <li>VERB--NOUN-Acc-ADP(کو) (45)</li>
+      <li>VERB--NOUN-Acc-ADP(کو) (46)</li>
       <li>VERB--NOUN-Acc-ADP(کے)-ADP(حوالے) (1)</li>
       <li>VERB--NOUN-Acc-ADP(کے)-ADP(لئے) (2)</li>
       <li>VERB--NOUN-Acc-ADP(کے)-ADP(پاس) (1)</li>
@@ -1069,20 +1095,20 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-Nom-ADP(کو) (3)</li>
       <li>VERB--PRON-Acc,Dat (13)</li>
       <li>VERB--PRON-Acc-ADP(سے) (4)</li>
-      <li>VERB--PRON-Acc-ADP(کو) (3)</li>
+      <li>VERB--PRON-Acc-ADP(کو) (4)</li>
       <li>VERB--PRON-Nom (6)</li>
       <li>VERB-Fin--NOUN-Acc (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(سے) (9)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(کو) (19)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(کو) (20)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(سے) (3)</li>
-      <li>VERB-Fin--PRON-Acc,Dat (8)</li>
+      <li>VERB-Fin--PRON-Acc,Dat (11)</li>
       <li>VERB-Fin--PRON-Acc-ADP(کو) (2)</li>
       <li>VERB-Fin--PRON-Acc-ADP(کے)-ADP(پاس) (1)</li>
       <li>VERB-Fin--PRON-Nom (2)</li>
       <li>VERB-Fin--PRON-Nom-ADP(کو) (1)</li>
       <li>VERB-Inf--NOUN-Acc (1)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(سے) (4)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(کو) (45)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(کو) (47)</li>
       <li>VERB-Inf--NOUN-Nom (1)</li>
       <li>VERB-Inf--NOUN-Nom-ADP(کو) (1)</li>
       <li>VERB-Inf--PRON-Acc,Dat (9)</li>
@@ -1097,7 +1123,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--NOUN-Acc-ADP(مےں) (1)</li>
       <li>VERB-Part--NOUN-Acc-ADP(نے) (4)</li>
       <li>VERB-Part--NOUN-Acc-ADP(کا) (4)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(کو) (176)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(کو) (177)</li>
       <li>VERB-Part--NOUN-Acc-ADP(کے)-ADP(ساتھ) (2)</li>
       <li>VERB-Part--NOUN-Acc-ADP(کے)-ADP(لئے) (1)</li>
       <li>VERB-Part--NOUN-Acc-ADP(کے)-ADP(لیے) (1)</li>
@@ -1113,6 +1139,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--PRON-Acc-ADP(کو) (10)</li>
       <li>VERB-Part--PRON-Acc-ADP(کے)-ADP(لئے) (1)</li>
       <li>VERB-Part--PRON-Nom (6)</li>
+      <li>VERB-Part--PRON-Nom-ADP(کو) (1)</li>
     </ul>
   </li>
 </ul>
@@ -1124,5 +1151,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 1 relation subtypes: <a>acl:relcl</a></li>
-<li>The following 10 relation types are not used in this corpus at all: <a>csubj</a>, <a>expl</a>, <a>appos</a>, <a>clf</a>, <a>fixed</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>The following 8 relation types are not used in this corpus at all: <a>csubj</a>, <a>expl</a>, <a>clf</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

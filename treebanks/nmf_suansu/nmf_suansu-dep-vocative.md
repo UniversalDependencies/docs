@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-32 nodes (1%) are attached to their parents as `vocative`.
+30 nodes (1%) are attached to their parents as `vocative`.
 
-18 instances of `vocative` (56%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.25.
+16 instances of `vocative` (53%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.33333333333333.
 
-The following 8 pairs of parts of speech are connected with `vocative`: <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt>-<tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt> (11; 34% instances), <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt>-<tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> (8; 25% instances), <tt><a href="nmf_suansu-pos-INTJ.html">INTJ</a></tt>-<tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> (3; 9% instances), <tt><a href="nmf_suansu-pos-INTJ.html">INTJ</a></tt>-<tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt> (3; 9% instances), <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt> (3; 9% instances), <tt><a href="nmf_suansu-pos-AUX.html">AUX</a></tt>-<tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt> (2; 6% instances), <tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt>-<tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> (1; 3% instances).
+The following 8 pairs of parts of speech are connected with `vocative`: <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt>-<tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt> (10; 33% instances), <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt>-<tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> (7; 23% instances), <tt><a href="nmf_suansu-pos-INTJ.html">INTJ</a></tt>-<tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> (3; 10% instances), <tt><a href="nmf_suansu-pos-INTJ.html">INTJ</a></tt>-<tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt> (3; 10% instances), <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt> (3; 10% instances), <tt><a href="nmf_suansu-pos-AUX.html">AUX</a></tt>-<tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt> (2; 7% instances), <tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt>-<tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> (1; 3% instances).
 
 
 ~~~ conllu

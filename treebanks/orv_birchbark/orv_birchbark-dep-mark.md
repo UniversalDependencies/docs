@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-345 nodes (1%) are attached to their parents as `mark`.
+360 nodes (1%) are attached to their parents as `mark`.
 
-344 instances of `mark` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.71884057971014.
+359 instances of `mark` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.725.
 
-The following 14 pairs of parts of speech are connected with `mark`: <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-SCONJ.html">SCONJ</a></tt> (269; 78% instances), <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_birchbark-pos-SCONJ.html">SCONJ</a></tt> (25; 7% instances), <tt><a href="orv_birchbark-pos-X.html">X</a></tt>-<tt><a href="orv_birchbark-pos-SCONJ.html">SCONJ</a></tt> (15; 4% instances), <tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_birchbark-pos-SCONJ.html">SCONJ</a></tt> (12; 3% instances), <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_birchbark-pos-SCONJ.html">SCONJ</a></tt> (6; 2% instances), <tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_birchbark-pos-SCONJ.html">SCONJ</a></tt> (5; 1% instances), <tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_birchbark-pos-SCONJ.html">SCONJ</a></tt> (4; 1% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-X.html">X</a></tt> (3; 1% instances), <tt><a href="orv_birchbark-pos-ADP.html">ADP</a></tt>-<tt><a href="orv_birchbark-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_birchbark-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt>-<tt><a href="orv_birchbark-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-PART.html">PART</a></tt>-<tt><a href="orv_birchbark-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-X.html">X</a></tt>-<tt><a href="orv_birchbark-pos-X.html">X</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `mark`: <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-SCONJ.html">SCONJ</a></tt> (284; 79% instances), <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_birchbark-pos-SCONJ.html">SCONJ</a></tt> (27; 8% instances), <tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_birchbark-pos-SCONJ.html">SCONJ</a></tt> (13; 4% instances), <tt><a href="orv_birchbark-pos-X.html">X</a></tt>-<tt><a href="orv_birchbark-pos-SCONJ.html">SCONJ</a></tt> (13; 4% instances), <tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_birchbark-pos-SCONJ.html">SCONJ</a></tt> (6; 2% instances), <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_birchbark-pos-SCONJ.html">SCONJ</a></tt> (4; 1% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-X.html">X</a></tt> (4; 1% instances), <tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_birchbark-pos-SCONJ.html">SCONJ</a></tt> (3; 1% instances), <tt><a href="orv_birchbark-pos-ADP.html">ADP</a></tt>-<tt><a href="orv_birchbark-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_birchbark-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt>-<tt><a href="orv_birchbark-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_birchbark-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-PART.html">PART</a></tt>-<tt><a href="orv_birchbark-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,37 +22,36 @@ The following 14 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 mark	color:blue
-1	ажь	аже	SCONJ	_	_	2	mark	_	wf="ажь"|addr="065:_Внешняя_сторона:1б"|line_id=1б|_
-2	водѧ	водити	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	advcl	_	wf="водѧ"|comment="tense_nonpast"|ctxt_comment="знач.?"|addr="065:_Внешняя_сторона:1б"|_
-3	по	по	ADP	_	_	5	case	_	wf="по"|addr="065:_Внешняя_сторона:1б"|_
-4	:г҃:	·г҃·	NUM	_	NumForm=Digit|NumType=Card	5	nummod:gov	_	wf=":г҃:"|addr="065:_Внешняя_сторона:1б"|_
-5	рꙋблѧ	рубль	NOUN	_	Case=Acc|Gender=Masc|Number=Count	6	obl	_	wf="рꙋблѧ"|addr="065:_Внешняя_сторона:1б"|_
-6	про<lbr/>да	продаꙗти	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	wf="прода"|comment=unfinished|addr="065:_Внешняя_сторона:1б"|_
-7	:	:	PUNCT	_	_	12	punct	_	wf=":"|line_id=2б|_
-8	али	али	SCONJ	_	_	10	mark	_	wf="али"|addr="065:_Внешняя_сторона:2б"|_
-9	не	не	PART	_	_	10	advmod	_	wf="не"|addr="065:_Внешняя_сторона:2б"|_
-10	водѧ	водити	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	12	advcl	_	wf="водѧ"|comment="tense_nonpast"|ctxt_comment="знач.?"|addr="065:_Внешняя_сторона:2б"|_
-11	нь	не	PART	_	_	12	advmod	_	wf="нь"|addr="065:_Внешняя_сторона:2б"|_
-12	продаӏ	продаꙗти	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	6	conj	_	wf="продаӏ"|addr="065:_Внешняя_сторона:2б"|_
+1	ажь	аже	SCONJ	CONJ	_	2	mark	_	wf="ажь"|line_id="1б"|addr="065:_Внешняя_сторона:1б"
+2	водѧ	водити	VERB	V,partcp,praes,sg,m,nom	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	advcl	_	wf="водя"|ctxt_comment="знач.?"|comment="alt_ana:lemma=водити:gr=V,nonpast?,pl?,3p?"|addr="065:_Внешняя_сторона:1б"
+3	по	по	ADP	PR,gvrn:acc	_	5	case	_	wf="по"|comment="gvrn:acc"|addr="065:_Внешняя_сторона:1б"
+4	:г҃:	·г҃·	NUM	NUM,card,digit	NumForm=Cyril|NumType=Card	5	nummod:gov	_	wf="г"|addr="065:_Внешняя_сторона:1б"
+5	рꙋблѧ	рубль	NOUN	S,m,acc,adnum	Case=Acc|Gender=Masc|Number=Count	6	obl	_	wf="рубля"|addr="065:_Внешняя_сторона:1б"
+6	про<lbr/>да	продаꙗти	VERB	V,imper,sg,2p,unfinished	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	wf="прода"|comment="unfinished"|addr="065:_Внешняя_сторона:1б"
+7	:	:	PUNCT	_	_	12	punct	_	wf=":"|line_id="2б"|addr="065: Внешняя сторона:2б"
+8	али	али	SCONJ	CONJ	_	10	mark	_	wf="али"|addr="065: Внешняя сторона:2б"
+9	не	не	PART	PART	Polarity=Neg	10	advmod	_	wf="не"|addr="065:_Внешняя_сторона:2б"
+10	водѧ	водити	VERB	V,partcp,praes,act,sg,m,nom	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	12	advcl	_	wf="водя"|ctxt_comment="знач.?"|comment="alt_ana:lemma=водити:gr=V,nonpast?,pl?,3p?"|addr="065:_Внешняя_сторона:2б"
+11	нь	не	PART	PART	Polarity=Neg	12	advmod	_	wf="нь"|addr="065:_Внешняя_сторона:2б"
+12	продаӏ	продаꙗти	VERB	V,imper,sg,2p	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	6	conj	_	wf="продаи"|addr="065:_Внешняя_сторона:2б"
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 6 mark	color:blue
-1	…[е]	вирныи	ADJ	_	Case=Gen|Number=Plur	4	obj	_	wf="…е"|addr="812:2"|line_id=2|_
-2	ти	ти	PART	_	_	4	advmod	_	wf="ти"|comment=APRO?|addr="812:2"|_
-3	не	не	PART	_	_	4	advmod	_	wf="не"|addr="812:2"|_
-4	во[дад]ѧт[ь]	вдати	VERB	_	Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	_	wf="водадѧть"|comment="tense_nonpast"|addr="812:2"|_
-5	а	а	CCONJ	_	_	9	cc	_	wf="а"|addr="812:2"|_
-6	то	то	SCONJ	_	_	9	mark	_	wf="то"|comment=in_compound_CONJ|addr="812:2"|_
-7	ти	ти	PART	_	_	6	fixed	_	wf="ти"|comment=CONJ|comment=in_compound_CONJ|addr="812:2"|_
-8	дова	два	NUM	_	Case=Nom|NumType=Card	9	nummod:gov	_	wf="дова"|comment=case_unsure|addr="812:2"|_
-9	мѹ<lbr/>…	мужь	NOUN	_	Case=Nom|Gender=Masc|Number=Count	0	root	_	wf="мѹ…"|comment=case_unsure|comment=lemma_unsure|addr="812:2"|after:line_id=3|_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 2 mark	color:blue
+1	а	а	CCONJ	CONJ	_	5	cc	_	wf="а"|line_id="4"|addr="099:4"
+2	цто	что	SCONJ	CONJ,topic_intro	_	5	mark	_	wf="цто"|comment="topic_intro"|addr="099:4"
+3	ѹ	у	ADP	PR,gvrn:gen	_	4	case	_	wf="у"|comment="gvrn:gen"|addr="099:4"
+4	тебе	ты	PRON	SPRO,sg,2p,gen	Case=Gen|Number=Sing|Person=2|PronType=Prs	5	nmod	_	wf="тебе"|addr="099:4"
+5	недоборе	недоборъ	NOUN	S,m,sg,nom	Case=Nom|Gender=Masc|Number=Sing	7	dislocated	_	wf="недоборе"|addr="099:4"
+6	стари	старыи	ADJ	A,m,sg,nom	Case=Nom|Gender=Masc|Number=Sing	5	amod	_	wf="стари"|addr="099:4"
+7	пришли	прислати	VERB	V,imper,sg,2p	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	wf="пришли"|addr="099:4"
+8	зеребе	жеребии	NOUN	S,m,pl,acc	Case=Acc|Gender=Masc|Number=Plur	7	obj	_	wf="зеребе"|comment="alt_ana:lemma=жеребии:gr=S,m,sg?,acc?"|addr="099:4"
 
 ~~~
 
@@ -60,22 +59,13 @@ The following 14 pairs of parts of speech are connected with `mark`: <tt><a href
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 1 mark	color:blue
-1	аже	аже	SCONJ	_	_	4	mark	_	wf="аже"|comment=in_compound_CONJ|addr="102:8"|_
-2	ти	ти	PART	_	_	4	advmod	_	wf="ти"|comment=in_compound_CONJ|addr="102:8"|_
-3	·	·	PUNCT	_	_	4	punct	_	wf="·"|_
-4	-----	-----	X	_	_	11	advcl	_	wf="-----"|addr="102:8"|_
-5	·	·	PUNCT	_	_	6	punct	_	wf="·"|_
-6	ꙩкупити	окупити	VERB	_	VerbForm=Inf|Voice=Act	4	csubj	_	wf="ꙩкупити"|addr="102:8"|_
-7	·	·	PUNCT	_	_	8	punct	_	wf="·"|_
-8	ӏх<lbr/>ъ	и	PRON	_	Case=Acc|Gender=Masc|Number=Plur	6	obj	_	wf="ӏхъ"|addr="102:8"|_
-9	·	·	PUNCT	_	_	4	punct	_	wf="·"|line_id=9|_
-10	тꙑ	ты	PRON	_	Case=Nom|Number=Sing|Person=2	11	nsubj	_	wf="тꙑ"|addr="102:9"|_
-11	ꙩтошли	отослати	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	wf="ꙩтошли"|addr="102:9"|_
-12	·	·	PUNCT	_	_	11	punct	_	wf="·"|_
-13	…	…	PUNCT	_	_	11	punct	_	wf="…"|_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 mark	color:blue
+1	оти	оти	SCONJ	CONJ	_	3	mark	_	wf="оти"|meaning="пусть, чтобы"|addr="635:3"
+2	и…	и…	X	NONLEX	_	3	dep	_	wf="и…"|addr="635:3"
+3	…(л)юб[ъес]…	любыи	ADJ	A,m,sg,nom,brev,lemma_unsure	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	0	root	_	wf="…любъес…"|comment="lemma_unsure"|line_id="4"|addr="635:4"
+4	(…)	(…)	PUNCT	_	_	3	punct	_	wf="…"|line_id="5"|addr="635:5"
 
 ~~~
 

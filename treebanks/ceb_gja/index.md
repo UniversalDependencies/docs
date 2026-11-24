@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.10 release
 The following people have contributed to making this treebank part of UD: Glyd Aranes.
 
 Repository: [UD_Cebuano-GJA](https://github.com/UniversalDependencies/UD_Cebuano-GJA)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udceb_gja218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udceb_gja219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 
@@ -29,7 +29,7 @@ Genre: grammar-examples
 Questions, comments?
 General annotation questions (either Cebuano-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Cebuano-GJA/issues).
-If you want to collaborate, please contact [glyd&nbsp;•&nbsp;aranes&nbsp;(æt)&nbsp;gmail&nbsp;•&nbsp;com].
+If you want to collaborate, please contact [glyd&nbsp;•&nbsp;aranes&nbsp;(æt)&nbsp;helsinki&nbsp;•&nbsp;fi; glyd&nbsp;•&nbsp;aranes&nbsp;(æt)&nbsp;gmail&nbsp;•&nbsp;com].
 Development of the treebank happens directly in the UD repository, so you may submit bug fixes as pull requests against the dev branch.
 
 | Annotation | Source |
@@ -42,13 +42,13 @@ Development of the treebank happens directly in the UD repository, so you may su
 
 ## Description
 
-UD_Cebuano_GJA is a collection of annotated Cebuano sample sentences randomly taken from three different sources: community-contributed samples from the website Tatoeba, a Cebuano grammar book by Bunye & Yap (1971) and Tanangkinsing's reference grammar on Cebuano (2011). This project is currently work in progress.
+UD_Cebuano_GJA is a collection of annotated Cebuano sample sentences randomly taken from three different sources: community-contributed samples from the website Tatoeba, a Cebuano grammar book by Bunye & Yap (1971) and Tanangkinsing's reference grammar on Cebuano (2011).
 
 
 
-This treebank is composed of 188 sample sentences across three corpora: 58 sentences from Bunye and Yap's book, 46 sentences from Tanangkinsing's books, and 84 sentences taken from Tatoeba. Annotation was done manually by Glyd Jun Arañes as part of his MA Thesis at the University of Eastern Finland for his Master's Degree in Linguistic Data Sciences.
+This treebank is composed of 208 sample sentences across various sources: 58 sentences from Bunye and Yap's book, 46 sentences from Tanangkinsing's books, 84 sentences taken from Tatoeba, and 20 sentences which are translations of the Cairo sentences. Annotation was done manually by Glyd Jun Arañes as part of his MA Thesis at the University of Eastern Finland for his Master's Degree in Linguistic Data Sciences.
 
-For suggestions on the treebank, you can contact Glyd through this email: glyd.aranes@gmail.com
+For suggestions on the treebank, you can contact Glyd through this email: glyd.aranes@helsinki.fi; glyd.aranes@gmail.com
 
 ## Acknowledgments
 
@@ -69,21 +69,21 @@ For suggestions on the treebank, you can contact Glyd through this email: glyd.a
 
 ## Features
 
-[Aspect](ceb_gja-feat-Aspect.html) – [Case](ceb_gja-feat-Case.html) – [Clusivity](ceb_gja-feat-Clusivity.html) – [Definitizer](ceb_gja-feat-Definitizer.html) – [Degree](ceb_gja-feat-Degree.html) – [Deixis](ceb_gja-feat-Deixis.html) – [Foreign](ceb_gja-feat-Foreign.html) – [Gender](ceb_gja-feat-Gender.html) – [Mood](ceb_gja-feat-Mood.html) – [Neutral](ceb_gja-feat-Neutral.html) – [Number](ceb_gja-feat-Number.html) – [PartType](ceb_gja-feat-PartType.html) – [Person](ceb_gja-feat-Person.html) – [Polarity](ceb_gja-feat-Polarity.html) – [PronType](ceb_gja-feat-PronType.html) – [Voice](ceb_gja-feat-Voice.html)
+[Aspect](ceb_gja-feat-Aspect.html) – [Case](ceb_gja-feat-Case.html) – [Clusivity](ceb_gja-feat-Clusivity.html) – [Definitizer](ceb_gja-feat-Definitizer.html) – [Degree](ceb_gja-feat-Degree.html) – [Deixis](ceb_gja-feat-Deixis.html) – [ExtPos](ceb_gja-feat-ExtPos.html) – [Foreign](ceb_gja-feat-Foreign.html) – [Gender](ceb_gja-feat-Gender.html) – [Mood](ceb_gja-feat-Mood.html) – [Neutral](ceb_gja-feat-Neutral.html) – [Number](ceb_gja-feat-Number.html) – [PartType](ceb_gja-feat-PartType.html) – [Person](ceb_gja-feat-Person.html) – [Polarity](ceb_gja-feat-Polarity.html) – [PronType](ceb_gja-feat-PronType.html) – [Voice](ceb_gja-feat-Voice.html)
 
 ## Relations
 
-[acl](ceb_gja-dep-acl.html) – [advcl](ceb_gja-dep-advcl.html) – [advmod](ceb_gja-dep-advmod.html) – [amod](ceb_gja-dep-amod.html) – [appos](ceb_gja-dep-appos.html) – [case](ceb_gja-dep-case.html) – [cc](ceb_gja-dep-cc.html) – [ccomp](ceb_gja-dep-ccomp.html) – [compound](ceb_gja-dep-compound.html) – [compound:redup](ceb_gja-dep-compound-redup.html) – [conj](ceb_gja-dep-conj.html) – [csubj](ceb_gja-dep-csubj.html) – [det](ceb_gja-dep-det.html) – [discourse](ceb_gja-dep-discourse.html) – [fixed](ceb_gja-dep-fixed.html) – [flat](ceb_gja-dep-flat.html) – [mark](ceb_gja-dep-mark.html) – [nmod](ceb_gja-dep-nmod.html) – [nsubj](ceb_gja-dep-nsubj.html) – [nummod](ceb_gja-dep-nummod.html) – [obj](ceb_gja-dep-obj.html) – [obl](ceb_gja-dep-obl.html) – [orphan](ceb_gja-dep-orphan.html) – [parataxis](ceb_gja-dep-parataxis.html) – [punct](ceb_gja-dep-punct.html) – [root](ceb_gja-dep-root.html) – [vocative](ceb_gja-dep-vocative.html)
+[acl](ceb_gja-dep-acl.html) – [advcl](ceb_gja-dep-advcl.html) – [advmod](ceb_gja-dep-advmod.html) – [amod](ceb_gja-dep-amod.html) – [appos](ceb_gja-dep-appos.html) – [case](ceb_gja-dep-case.html) – [cc](ceb_gja-dep-cc.html) – [ccomp](ceb_gja-dep-ccomp.html) – [compound](ceb_gja-dep-compound.html) – [compound:redup](ceb_gja-dep-compound-redup.html) – [conj](ceb_gja-dep-conj.html) – [csubj](ceb_gja-dep-csubj.html) – [det](ceb_gja-dep-det.html) – [discourse](ceb_gja-dep-discourse.html) – [fixed](ceb_gja-dep-fixed.html) – [flat](ceb_gja-dep-flat.html) – [mark](ceb_gja-dep-mark.html) – [nmod](ceb_gja-dep-nmod.html) – [nsubj](ceb_gja-dep-nsubj.html) – [nummod](ceb_gja-dep-nummod.html) – [obj](ceb_gja-dep-obj.html) – [obl](ceb_gja-dep-obl.html) – [parataxis](ceb_gja-dep-parataxis.html) – [punct](ceb_gja-dep-punct.html) – [root](ceb_gja-dep-root.html) – [vocative](ceb_gja-dep-vocative.html) – [xcomp](ceb_gja-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 198 sentences, 1295 tokens and 1394 syntactic words.</li>
+<li>This corpus contains 208 sentences, 1412 tokens and 1519 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 216 tokens (17%) that are not followed by a space.</li>
+<li>This corpus contains 227 tokens (16%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -91,12 +91,12 @@ For suggestions on the treebank, you can contact Glyd through this email: glyd.a
 </ul>
 
 <ul>
-<li>This corpus contains 22 types of words that contain both letters and punctuation. Examples: -ng, -g, bag-o, pag-abot, Gi-hold, Mag-unsa, Maka-iningles, Nag-unsa, Pag-ayo, gitudloa-, himo-an, ing-ana, ju-, kanus-a, mag-idad, naga-ulan, nagtan-aw, nawad-an, nitan-aw, panghuna-huna, second-hand, ting-init</li>
+<li>This corpus contains 23 types of words that contain both letters and punctuation. Examples: -ng, -g, bag-o, kanus-a, pag-abot, Gi-hold, Mag-unsa, Maka-iningles, Nag-unsa, Pag-ayo, ginatan-awan, gitudloa-, himo-an, ing-ana, ju-, mag-idad, naga-ulan, nagtan-aw, nawad-an, nitan-aw, panghuna-huna, second-hand, ting-init</li>
 </ul>
 
 <ul>
-<li>This corpus contains 97 multi-word tokens. On average, one multi-word token consists of 2.02 syntactic words.</li>
-<li>There are 51 types of multi-word tokens. Examples: akong, iyang, imong, Nganong, among, Daghang, anang, bag-ong, ilang, inyong, kag, kanang, katong, kog, silang, siyag, Ayawg, Karong, Maayong, Mura'g, Pag-ayo-ayo, Pasayloang, Siging, Totong, adis-adis, bang, batang, gitudloag, gustog, igsoong, imohang, inusarang, iyahang, jung, kadugayg, kong, labing, mig, ming, mipasiugdang, mong, nagtuong, nakog, nang, natawhang, ning, pagpatakag, pang, rag, rang.</li>
+<li>This corpus contains 105 multi-word tokens. On average, one multi-word token consists of 2.02 syntactic words.</li>
+<li>There are 55 types of multi-word tokens. Examples: iyang, akong, imong, Nganong, among, Daghang, anang, bag-ong, ilang, inyong, kag, kanang, katong, kog, pwedeng, silang, siyag, Ayawg, Karong, Maayong, Mura'g, Pag-ayo-ayo, Pasayloang, Siging, Totong, adis-adis, bang, batang, gitudloag, gustog, igsoong, imohang, inusarang, iyahang, jung, kadugayg, kang, kaning, kong, labing, mig, ming, mipasiugdang, mong, nagtuong, nakog, nang, natawhang, niadtong, ning.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -113,7 +113,7 @@ For suggestions on the treebank, you can contact Glyd through this email: glyd.a
 </ul>
 
 <ul>
-<li>This corpus contains 18 lemmas tagged as pronouns (PRON): ako, ana, ani, asa, ikaw, imo, inyo, iya, kadto, kami, kamo, kana, kini, kinsa, kita, sila, siya, unsa</li>
+<li>This corpus contains 18 lemmas tagged as pronouns (PRON): ako, ana, ani, ikaw, imo, inyo, iya, kadto, kami, kamo, kana, kani, kini, kinsa, kita, sila, siya, unsa</li>
 </ul>
 
 <ul>
@@ -145,7 +145,7 @@ For suggestions on the treebank, you can contact Glyd through this email: glyd.a
   <li>Fem
     <ul>
       <li>ADJ: gwapa, Guwapa</li>
-      <li>NOUN: babaye, amiga</li>
+      <li>NOUN: babaye, amiga, babae</li>
       <li>PROPN: Mary, Ditang, Maria, Alicia, Ana, Carmen, Inday, Josie</li>
     </ul>
   </li>
@@ -155,8 +155,8 @@ For suggestions on the treebank, you can contact Glyd through this email: glyd.a
   <li>Masc
     <ul>
       <li>ADJ: gwapo</li>
-      <li>NOUN: lalake, tatay</li>
-      <li>PROPN: Tom, Pedro, Juan, Adot, Lito, Rolando, Ruben, Tonying, Toto, Undo</li>
+      <li>NOUN: amigo, lalake, tatay</li>
+      <li>PROPN: Tom, Pedro, Peter, Juan, Adot, Lito, Rolando, Ruben, Tonying, Toto</li>
     </ul>
   </li>
 </ul>
@@ -177,9 +177,9 @@ For suggestions on the treebank, you can contact Glyd through this email: glyd.a
 <ul>
   <li>Plur
     <ul>
-      <li>DET: mga</li>
+      <li>DET: mga, Daghan</li>
       <li>NOUN: kaislahan</li>
-      <li>PRON: mi, sila, amo, ila, inyo, kamiy, miy, ta</li>
+      <li>PRON: mi, sila, amo, ila, inyo, ta, kamiy, miy, silay</li>
     </ul>
   </li>
 </ul>
@@ -187,7 +187,7 @@ For suggestions on the treebank, you can contact Glyd through this email: glyd.a
 <ul>
   <li>Sing
     <ul>
-      <li>PRON: ko, siya, ka, ako, iya, imo, nako, nimo, imoha, koy</li>
+      <li>PRON: ko, siya, iya, ka, ako, imo, nako, nimo, niya, imoha</li>
     </ul>
   </li>
 </ul>
@@ -199,7 +199,7 @@ For suggestions on the treebank, you can contact Glyd through this email: glyd.a
 <ul>
   <li>Dat
     <ul>
-      <li>ADP: sa, kang, ug, -g</li>
+      <li>ADP: sa, kang, ug, -g, kay, og</li>
     </ul>
   </li>
 </ul>
@@ -207,8 +207,8 @@ For suggestions on the treebank, you can contact Glyd through this email: glyd.a
 <ul>
   <li>Gen
     <ul>
-      <li>ADP: ni, -g, ug, sa, og</li>
-      <li>PRON: siya, iya, imo, nako, ko, nimo, amo, imoha, ila, inyo</li>
+      <li>ADP: ni, ug, -g, sa, og</li>
+      <li>PRON: siya, iya, imo, nako, ko, nimo, niya, amo, imoha, ila</li>
     </ul>
   </li>
 </ul>
@@ -217,7 +217,7 @@ For suggestions on the treebank, you can contact Glyd through this email: glyd.a
   <li>Nom
     <ul>
       <li>ADP: ang, si, -g, -ng</li>
-      <li>PRON: ko, ka, ako, mi, sila, koy, ikaw, taka, tika, Akoy</li>
+      <li>PRON: ko, ka, ako, mi, sila, koy, ikaw, ta, taka, tika</li>
     </ul>
   </li>
 </ul>
@@ -234,7 +234,7 @@ For suggestions on the treebank, you can contact Glyd through this email: glyd.a
 <ul>
   <li>Pos
     <ul>
-      <li>ADJ: Maayo, adis, bag-o, hawod, taas, gwapa, Buutan, Dako, Duol, Hapit</li>
+      <li>ADJ: Maayo, adis, bag-o, dako, hawod, taas, gwapa, Buutan, Duol, Hapit</li>
     </ul>
   </li>
 </ul>
@@ -254,7 +254,7 @@ For suggestions on the treebank, you can contact Glyd through this email: glyd.a
 <ul>
   <li>Neg
     <ul>
-      <li>ADV: Wala</li>
+      <li>ADV: Wala, dili</li>
       <li>PART: dili, wala, ayaw, di, Ambot</li>
       <li>VERB: wala</li>
     </ul>
@@ -280,7 +280,7 @@ For suggestions on the treebank, you can contact Glyd through this email: glyd.a
 <ul>
   <li>Perf
     <ul>
-      <li>VERB: gibuhat, Gitawag, gihigugma, Gi-hold, Gibilanggo, Gibutang, Gidungog, Gikinahanglan, Gikuha, Gimaotan</li>
+      <li>VERB: gibuhat, Gisulayan, Gitawag, gihigugma, nagsulat, Gi-hold, Gibilanggo, Gibutang, Gidungog, Gikinahanglan</li>
     </ul>
   </li>
 </ul>
@@ -300,7 +300,7 @@ For suggestions on the treebank, you can contact Glyd through this email: glyd.a
 <ul>
   <li>Imp
     <ul>
-      <li>VERB: Ipalit, Padayona, Pag-ayo, Pagdali, Pakitaa, ipasa, kaguol, pagpataka, paliti, patoo</li>
+      <li>VERB: Ipalit, Padayona, Pag-ayo, Pagdali, Pakitaa, abrihi, ipasa, kaguol, pagpataka, paliti</li>
     </ul>
   </li>
 </ul>
@@ -308,7 +308,7 @@ For suggestions on the treebank, you can contact Glyd through this email: glyd.a
 <ul>
   <li>Ind
     <ul>
-      <li>VERB: moadto, ganahan, gibuhat, tabangan, Gitawag, Kinahanglan, Liguon, Silhigan, gihigugma, kasabot</li>
+      <li>VERB: moadto, ganahan, gibuhat, tabangan, Gisulayan, Gitawag, Kinahanglan, Liguon, Silhigan, gihigugma</li>
     </ul>
   </li>
 </ul>
@@ -316,7 +316,7 @@ For suggestions on the treebank, you can contact Glyd through this email: glyd.a
 <ul>
   <li>Pot
     <ul>
-      <li>VERB: Maka-iningles, Nakabantay, Nakahukom, Nakalimtan, Nakamedalya, Nasuka, himo-an, mahimo, mainitan, makahinapon</li>
+      <li>VERB: Maka-iningles, Nakabantay, Nakahukom, Nakalimtan, Nakamedalya, Nasuka, himo-an, mahimo, mainitan, makaadto</li>
     </ul>
   </li>
 </ul>
@@ -329,7 +329,7 @@ For suggestions on the treebank, you can contact Glyd through this email: glyd.a
 <ul>
   <li>Act
     <ul>
-      <li>VERB: moadto, masayod, Mag-unsa, Magpabilin, Magtigom, Maka-iningles, Mamalit, Moabot, Mobalik, Mohulat</li>
+      <li>VERB: moadto, masayod, nagsulat, Mag-unsa, Magpabilin, Magtigom, Maka-iningles, Mamalit, Moabot, Mobalik</li>
     </ul>
   </li>
 </ul>
@@ -337,7 +337,7 @@ For suggestions on the treebank, you can contact Glyd through this email: glyd.a
 <ul>
   <li>Ifoc
     <ul>
-      <li>VERB: Ipalit, Pakitaa, ipasa</li>
+      <li>VERB: Ipalit, Pakitaa, abrihi, ipasa</li>
     </ul>
   </li>
 </ul>
@@ -353,7 +353,7 @@ For suggestions on the treebank, you can contact Glyd through this email: glyd.a
 <ul>
   <li>Pass
     <ul>
-      <li>VERB: ganahan, gibuhat, tabangan, Gitawag, Kinahanglan, Liguon, Silhigan, gihigugma, kasabot, Gi-hold</li>
+      <li>VERB: ganahan, gibuhat, tabangan, Gisulayan, Gitawag, Kinahanglan, Liguon, Silhigan, gihigugma, kasabot</li>
     </ul>
   </li>
 </ul>
@@ -370,7 +370,15 @@ For suggestions on the treebank, you can contact Glyd through this email: glyd.a
   <li>Dem
     <ul>
       <li>ADV: Niay, Toa, Tua, nia, to</li>
-      <li>PRON: kini, ana, kana, Kato, ani, ato, to</li>
+      <li>PRON: kini, ana, kana, kato, ni, niadto, Unsay, ani, ato, kani</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ind
+    <ul>
+      <li>DET: mga, Daghan</li>
     </ul>
   </li>
 </ul>
@@ -378,8 +386,8 @@ For suggestions on the treebank, you can contact Glyd through this email: glyd.a
 <ul>
   <li>Int
     <ul>
-      <li>ADV: Ngano, Asa, Pilay, Tagpila</li>
-      <li>PRON: Unsa, Kinsa, Unsay</li>
+      <li>ADV: Ngano, Asa, Kanus-a, Pilay, Tagpila</li>
+      <li>PRON: unsa, kinsa, Unsay</li>
     </ul>
   </li>
 </ul>
@@ -387,7 +395,7 @@ For suggestions on the treebank, you can contact Glyd through this email: glyd.a
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: ko, siya, ka, ako, iya, imo, mi, nako, nimo, sila</li>
+      <li>PRON: ko, siya, iya, ka, ako, imo, mi, nako, nimo, niya</li>
     </ul>
   </li>
 </ul>
@@ -402,7 +410,7 @@ For suggestions on the treebank, you can contact Glyd through this email: glyd.a
 <ul>
   <li>1
     <ul>
-      <li>PRON: ko, ako, mi, nako, amo, koy, taka, tika, Akoy, kamiy</li>
+      <li>PRON: ko, ako, mi, nako, amo, koy, ta, taka, tika, Akoy</li>
     </ul>
   </li>
 </ul>
@@ -418,7 +426,7 @@ For suggestions on the treebank, you can contact Glyd through this email: glyd.a
 <ul>
   <li>3
     <ul>
-      <li>PRON: siya, iya, sila, ila, siyay, iyaha, niya</li>
+      <li>PRON: siya, iya, niya, sila, ila, siyay, iyaha, silay</li>
     </ul>
   </li>
 </ul>
@@ -439,7 +447,7 @@ For suggestions on the treebank, you can contact Glyd through this email: glyd.a
       </li>
       <li>In
         <ul>
-          <li>PRON: taka, tika, ta</li>
+          <li>PRON: ta, taka, tika</li>
         </ul>
       </li>
     </ul>
@@ -470,13 +478,35 @@ For suggestions on the treebank, you can contact Glyd through this email: glyd.a
       <li>Prox
         <ul>
           <li>ADV: Ari, Dira, dinhi, Niay, nia</li>
-          <li>PRON: kini, ni, ana, ani</li>
+          <li>PRON: kini, ni, ana, ani, kani, niini</li>
         </ul>
       </li>
       <li>Remt
         <ul>
           <li>ADV: didto, Tua, Toa, to</li>
-          <li>PRON: kato, ato, to</li>
+          <li>PRON: kato, niadto, ato, to</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADP
+        <ul>
+          <li>ADP: para, alang, bahin, gikan, hangtud</li>
+        </ul>
+      </li>
+      <li>ADV
+        <ul>
+          <li>ADV: pipila</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>SCONJ: sukad, tungod</li>
         </ul>
       </li>
     </ul>
@@ -488,7 +518,7 @@ For suggestions on the treebank, you can contact Glyd through this email: glyd.a
     <ul>
       <li>Yes
         <ul>
-          <li>NOUN: frog, orange, pet</li>
+          <li>NOUN: bronze, frog, gold, orange, pet, silver</li>
           <li>NUM: thirty</li>
         </ul>
       </li>
@@ -543,10 +573,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB--NOUN (3)</li>
-      <li>VERB--NOUN-ADP(ang) (26)</li>
-      <li>VERB--PRON (3)</li>
-      <li>VERB--PRON-Gen (26)</li>
-      <li>VERB--PRON-Nom (58)</li>
+      <li>VERB--NOUN-ADP(ang) (27)</li>
+      <li>VERB--PRON-Gen (33)</li>
+      <li>VERB--PRON-Nom (62)</li>
     </ul>
   </li>
 </ul>
@@ -554,10 +583,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (13)</li>
+      <li>VERB--NOUN (14)</li>
       <li>VERB--NOUN-ADP(sa) (20)</li>
       <li>VERB--NOUN-ADP(ug) (17)</li>
-      <li>VERB--PRON-Gen (7)</li>
+      <li>VERB--PRON-Gen (9)</li>
+      <li>VERB--PRON-Gen-ADP(sa) (1)</li>
       <li>VERB--PRON-Nom (5)</li>
     </ul>
   </li>
@@ -577,5 +607,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 1 relation subtypes: <a>compound:redup</a></li>
-<li>The following 11 relation types are not used in this corpus at all: <a>iobj</a>, <a>xcomp</a>, <a>expl</a>, <a>dislocated</a>, <a>aux</a>, <a>cop</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
+<li>The following 11 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>dislocated</a>, <a>aux</a>, <a>cop</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

@@ -56,17 +56,17 @@ The 10 most frequent ambiguous types:  <em>to</em> (<tt><a href="cpg_amgic-pos-D
 
 The form / lemma ratio of `PRON` is 2.250000 (the average of all parts of speech is 1.244253).
 
-The 1st highest number of forms (27) was observed with the lemma “(e)γó”: <em>da, do, du, m, m', mas, me, mu, s', sas, se, su, séna, ta, to, tu, tun, tus, zin, zis, či, čis, ši, ǰi, ǰis, γo, δa</em>.
+The 1st highest number of forms (27) was observed with the lemma “(e)γó”: <em>da, do, du, m, m', mas, me, mu, s', sas, se, su, séna, ta, to, tu, tun, tus, zis, či, čis, ši, ǰi, ǰin, ǰis, γo, δa</em>.
 
 The 2nd highest number of forms (3) was observed with the lemma “(e)tútus”: <em>tútunu, tútus, Τúta</em>.
 
 The 3rd highest number of forms (2) was observed with the lemma “emís”: <em>emís, más</em>.
 
-`PRON` occurs with 7 features: <tt><a href="cpg_amgic-feat-PronType.html">PronType</a></tt> (94; 100% instances), <tt><a href="cpg_amgic-feat-Number.html">Number</a></tt> (86; 91% instances), <tt><a href="cpg_amgic-feat-Case.html">Case</a></tt> (85; 90% instances), <tt><a href="cpg_amgic-feat-Person.html">Person</a></tt> (85; 90% instances), <tt><a href="cpg_amgic-feat-Gender.html">Gender</a></tt> (50; 53% instances), <tt><a href="cpg_amgic-feat-Clitic.html">Clitic</a></tt> (47; 50% instances), <tt><a href="cpg_amgic-feat-Poss.html">Poss</a></tt> (27; 29% instances)
+`PRON` occurs with 7 features: <tt><a href="cpg_amgic-feat-PronType.html">PronType</a></tt> (94; 100% instances), <tt><a href="cpg_amgic-feat-Number.html">Number</a></tt> (86; 91% instances), <tt><a href="cpg_amgic-feat-Case.html">Case</a></tt> (85; 90% instances), <tt><a href="cpg_amgic-feat-Person.html">Person</a></tt> (85; 90% instances), <tt><a href="cpg_amgic-feat-Gender.html">Gender</a></tt> (50; 53% instances), <tt><a href="cpg_amgic-feat-Clitic.html">Clitic</a></tt> (48; 51% instances), <tt><a href="cpg_amgic-feat-Poss.html">Poss</a></tt> (27; 29% instances)
 
 `PRON` occurs with 18 feature-value pairs: `Case=Acc`, `Case=Gen`, `Case=Nom`, `Clitic=Yes`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Poss=Yes`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Prs`, `PronType=Rel`
 
-`PRON` occurs with 42 feature combinations.
+`PRON` occurs with 41 feature combinations.
 The most frequent feature combination is `Case=Acc|Clitic=Yes|Gender=Neut|Number=Sing|Person=3|PronType=Prs` (11 tokens).
 Examples: <em>da, do, ta, to, δa</em>
 

@@ -51,7 +51,7 @@ The following 10 pairs of parts of speech are connected with `obl:agent`: <tt><a
 3	your	your	PRON	PRP$	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	Entity=(12-person-giv:act-sssns-cf1-2-coref(13-person-acc:com-nnnnn-cf3-1-ana)
 4	host	host	NOUN	NN	Number=Sing	0	root	0:root	Entity=12)
 5	as	as	ADP	IN	_	6	case	6:case	_
-6	always	always	ADV	RB	_	4	obl	4:obl:as	MSeg=al-way-s|SpaceAfter=No
+6	always	always	ADV	RB	PronType=Tot	4	obl	4:obl:as	MSeg=al-way-s|SpaceAfter=No
 7	,	,	PUNCT	,	_	8	punct	8:punct	_
 8	Dave	Dave	PROPN	NNP	Number=Sing	4	appos	4:appos	Entity=(12-person-giv:act-sssns-cf1-1-appos)|SpaceAfter=No
 9	,	,	PUNCT	,	_	13	punct	13:punct	_
@@ -79,7 +79,7 @@ The following 10 pairs of parts of speech are connected with `obl:agent`: <tt><a
 5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux:pass	6:aux:pass	_
 6	alarmed	alarm	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	ccomp	3:ccomp	MSeg=alarm-ed
 7	by	by	ADP	IN	_	8	case	8:case	_
-8	what	what	PRON	WP	PronType=Rel	6	obl:agent	6:obl:agent	_
+8	what	what	PRON	WP	Case=Acc|PronType=Rel	6	obl:agent	6:obl:agent	_
 9	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	10:nsubj	Entity=(8-person-giv:inact-nnnnn-cf2-1-ana)
 10	found	find	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	8	acl:relcl	8:acl:relcl	SpaceAfter=No
 11	.	.	PUNCT	.	_	3	punct	3:punct	_

@@ -158,6 +158,5 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>ADP --[<tt><a href="bor_bdt-dep-obl.html">obl</a></tt>]--> ADP</tt> (6; 55%),
 <tt>NOUN --[<tt><a href="bor_bdt-dep-advcl.html">advcl</a></tt>]--> ADP</tt> (1; 100%),
 <tt>NOUN --[<tt><a href="bor_bdt-dep-dep.html">dep</a></tt>]--> ADP</tt> (1; 100%),
-<tt>NOUN --[<tt><a href="bor_bdt-dep-obl.html">obl</a></tt>]--> SCONJ</tt> (1; 100%),
 <tt>VERB --[<tt><a href="bor_bdt-dep-nsubj.html">nsubj</a></tt>]--> PART</tt> (1; 100%).
 

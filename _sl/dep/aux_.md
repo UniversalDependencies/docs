@@ -3,6 +3,9 @@ layout: relation
 title: 'aux'
 shortdef: 'auxiliary'
 udver: '2'
+# The filename "aux" is not allowed on Windows, so we redirect instead
+# (see https://github.com/UniversalDependencies/docs/issues/20)
+redirect_from: "sl/dep/aux.html"
 ---
 
 An auxiliary of a clause is a function word associated with a verbal predicate that expresses categories such as tense, mood, aspect, voice or evidentiality. In contrast to the languages and grammatical theories that also categorize other function words as auxiliaries, the `aux` relation in Slovene is used exclusively for the auxiliary verb **biti** (_to be_), e.g. to form non-present tense. 
@@ -36,4 +39,4 @@ cop(jezna,bila)
 aux(angry,she-aux-PAST)
 cop(angry,was)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:43 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:24 CET -->

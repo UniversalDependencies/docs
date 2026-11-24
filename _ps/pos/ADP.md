@@ -85,4 +85,4 @@ multiword expressions are accounted for in the syntactic annotation.
 ### Examples
 
 -ㅤپۀ کور کې _pë kor ke_ “in the house” / “at home”
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:33 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:25 CET -->

@@ -40,7 +40,7 @@ The following 5 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 6 5 det	color:blue
 1	Бірақ	бірақ	CCONJ	cnjcoo	_	18	cc	_	_
 2	1918	1918	NUM	num	NumType=Ord	3	amod	_	_
-3	ж.	ж.	NOUN	abbr	_	6	obl	_	_
+3	ж.	ж.	NOUN	abbr	_	6	nmod	_	_
 4	ағылшындар	ағылшын	NOUN	n	Case=Nom|Number=Plur	6	nsubj	_	_
 5	бүкіл	бүкіл	DET	det	PronType=Tot	6	det	_	_
 6	Иранды	Иран	PROPN	np	Case=Acc	8	obj	_	_

@@ -12,7 +12,7 @@ It occurs with 1 different values: `Yes`.
 2170 tokens (1%) have a non-empty value of `Abbr`.
 291 types (0%) occur at least once with a non-empty value of `Abbr`.
 298 lemmas (1%) occur at least once with a non-empty value of `Abbr`.
-The feature is used with 6 part-of-speech tags: <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt> (1484; 0% instances), <tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt> (299; 0% instances), <tt><a href="pl_pdb-pos-PROPN.html">PROPN</a></tt> (271; 0% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> (61; 0% instances), <tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (39; 0% instances), <tt><a href="pl_pdb-pos-ADP.html">ADP</a></tt> (16; 0% instances).
+The feature is used with 6 part-of-speech tags: <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt> (1484; 0% instances), <tt><a href="pl_pdb-pos-PROPN.html">PROPN</a></tt> (271; 0% instances), <tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt> (264; 0% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> (89; 0% instances), <tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (39; 0% instances), <tt><a href="pl_pdb-pos-ADP.html">ADP</a></tt> (23; 0% instances).
 
 ### `NOUN`
 
@@ -27,19 +27,6 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 
 `Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (137) occur only with one value of `Abbr`.
 
-### `ADV`
-
-299 <tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt> tokens (3% of all `ADV` tokens) have a non-empty value of `Abbr`.
-
-The most frequent other feature values with which `ADV` and `Abbr` co-occurred: <tt><a href="pl_pdb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (299; 100%), <tt><a href="pl_pdb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (299; 100%).
-
-`ADV` tokens may have the following values of `Abbr`:
-
-* `Yes` (299; 100% of non-empty `Abbr`): <em>np, m.in, tzw, itp, itd, pt, a, n.p.m, tzn, b</em>
-* `EMPTY` (11137): <em>tak, kiedy, jak, gdy, bardzo, teraz, tu, tam, gdzie, dlatego</em>
-
-`Abbr` seems to be **lexical feature** of `ADV`. 100% lemmas (99) occur only with one value of `Abbr`.
-
 ### `PROPN`
 
 271 <tt><a href="pl_pdb-pos-PROPN.html">PROPN</a></tt> tokens (2% of all `PROPN` tokens) have a non-empty value of `Abbr`.
@@ -53,18 +40,31 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 
 `Abbr` seems to be **lexical feature** of `PROPN`. 100% lemmas (32) occur only with one value of `Abbr`.
 
+### `ADV`
+
+264 <tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt> tokens (2% of all `ADV` tokens) have a non-empty value of `Abbr`.
+
+The most frequent other feature values with which `ADV` and `Abbr` co-occurred: <tt><a href="pl_pdb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (264; 100%), <tt><a href="pl_pdb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (264; 100%).
+
+`ADV` tokens may have the following values of `Abbr`:
+
+* `Yes` (264; 100% of non-empty `Abbr`): <em>np, m.in, itp, itd, a, n.p.m, tzn, b, por, SJL</em>
+* `EMPTY` (11137): <em>tak, kiedy, jak, gdy, bardzo, teraz, tu, tam, gdzie, dlatego</em>
+
+`Abbr` seems to be **lexical feature** of `ADV`. 100% lemmas (97) occur only with one value of `Abbr`.
+
 ### `ADJ`
 
-61 <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Abbr`.
+89 <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: <tt><a href="pl_pdb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (61; 100%), <tt><a href="pl_pdb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (61; 100%), <tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (61; 100%), <tt><a href="pl_pdb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (61; 100%), <tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (61; 100%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (61; 100%), <tt><a href="pl_pdb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (61; 100%), <tt><a href="pl_pdb-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (61; 100%), <tt><a href="pl_pdb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (61; 100%).
+The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: <tt><a href="pl_pdb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (89; 100%), <tt><a href="pl_pdb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (89; 100%), <tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (89; 100%), <tt><a href="pl_pdb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (89; 100%), <tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (89; 100%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (89; 100%), <tt><a href="pl_pdb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (89; 100%), <tt><a href="pl_pdb-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (89; 100%), <tt><a href="pl_pdb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (89; 100%).
 
 `ADJ` tokens may have the following values of `Abbr`:
 
-* `Yes` (61; 100% of non-empty `Abbr`): <em>św, b, ww, Gd, d, in, kw, pn, proc, st</em>
+* `Yes` (89; 100% of non-empty `Abbr`): <em>tzw, św, b, ww, Gd, d, in, kw, pn, proc</em>
 * `EMPTY` (35865): <em>innych, jeden, sam, inne, europejskiej, pierwszy, różnych, jednym, cały, 1</em>
 
-`Abbr` seems to be **lexical feature** of `ADJ`. 100% lemmas (27) occur only with one value of `Abbr`.
+`Abbr` seems to be **lexical feature** of `ADJ`. 100% lemmas (28) occur only with one value of `Abbr`.
 
 ### `PART`
 
@@ -79,13 +79,13 @@ The most frequent other feature values with which `PART` and `Abbr` co-occurred:
 
 ### `ADP`
 
-16 <tt><a href="pl_pdb-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Abbr`.
+23 <tt><a href="pl_pdb-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `ADP` and `Abbr` co-occurred: <tt><a href="pl_pdb-feat-AdpType.html">AdpType</a></tt><tt>=EMPTY</tt> (16; 100%), <tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (16; 100%).
+The most frequent other feature values with which `ADP` and `Abbr` co-occurred: <tt><a href="pl_pdb-feat-AdpType.html">AdpType</a></tt><tt>=EMPTY</tt> (23; 100%), <tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (23; 100%).
 
 `ADP` tokens may have the following values of `Abbr`:
 
-* `Yes` (16; 100% of non-empty `Abbr`): <em>ds, nt</em>
+* `Yes` (23; 100% of non-empty `Abbr`): <em>ds, pt, nt</em>
 * `EMPTY` (37143): <em>w, na, z, do, o, po, za, od, przez, dla</em>
 
 ## Relations with Agreement in `Abbr`

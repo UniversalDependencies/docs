@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.16 release
 The following people have contributed to making this treebank part of UD: Mutee-u Rahman.
 
 Repository: [UD_Sindhi-Isra](https://github.com/UniversalDependencies/UD_Sindhi-Isra)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsd_isra218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsd_isra219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 
@@ -94,11 +94,11 @@ Publication out for review.
 
 
 <ul>
-<li>This corpus contains 5756 sentences and 95227 tokens.</li>
+<li>This corpus contains 5766 sentences and 95358 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 6742 tokens (7%) that are not followed by a space.</li>
+<li>This corpus contains 6758 tokens (7%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -106,7 +106,7 @@ Publication out for review.
 </ul>
 
 <ul>
-<li>This corpus contains 12 types of words that contain both letters and punctuation. Examples: ’مـُون‘, B.T, D.I.G, http://www.cctv.com.pk, https://www.facebook.com/Birdsofsindh/, https://www.facebook.com/groups/499653667487200/, talpuraltaf@gmail.com, اي–ميل, اڻ-ڌريو, تخليق-, ن-ع, ’مون‘</li>
+<li>This corpus contains 11 types of words that contain both letters and punctuation. Examples: ’مـُون‘, B.T, D.I.G, http://www.cctv.com.pk, https://www.facebook.com/Birdsofsindh/, https://www.facebook.com/groups/499653667487200/, talpuraltaf@gmail.com, اي–ميل, اڻ-ڌريو, ن-ع, ’مون‘</li>
 </ul>
 
 <ul>
@@ -126,11 +126,11 @@ Publication out for review.
 </ul>
 
 <ul>
-<li>This corpus contains 70 lemmas tagged as pronouns (PRON): _, آء, آءٌ, آءَ, آءُ, آئون, آهي, ائين, اسانجو, اسين, ان, اوهان, اوهين, تنهن, تنهنجو, تنهنجي, تنھن, تنھنجو, تهڙو, تو, توسان, تون, توهان, توھان, تي, تيڏا, جن, جنھن, جهڙو, جو, جوئي, جي, جيئن, جيو, جھڙو, خود, سا, ساڻس, سـو, سندس, سندو, سنڌي, سو, سي, سين, مان, منهنجو, مهنجو, مون, مونسان, ميري, هتي, ٻيئي, پاڻ, پاڻي, پنهنجو, پنهنجي, پنهنجيءَ, پنھنجو, ڄڻ, ڇا, ڇو, کي, ڪـو, ڪهڙو, ڪو, ڪيئن, ڪير, ڪھڙو, ھي</li>
+<li>This corpus contains 74 lemmas tagged as pronouns (PRON): _, آء, آءٌ, آءَ, آءُ, آئون, آهي, ائين, اسانجو, اسين, ان, اوهان, اوهين, ايتري, تنهن, تنهنجو, تنهنجي, تنھن, تنھنجو, تهڙو, تو, توسان, تون, توهان, توھان, تي, تيڏا, جتي, جن, جنھن, جهڙو, جو, جوئي, جي, جيئن, جيترو, جيتري, جيو, جھڙو, خود, سا, ساڻس, سـو, سندس, سندو, سنڌي, سو, سي, سين, مان, منهنجو, مهنجو, مون, مونسان, ميري, هتي, ٻيئي, پاڻ, پاڻي, پنهنجو, پنهنجي, پنهنجيءَ, پنھنجو, ڄڻ, ڇا, ڇو, کي, ڪـو, ڪهڙو, ڪو, ڪيئن, ڪير, ڪھڙو, ھي</li>
 </ul>
 
 <ul>
-<li>This corpus contains 41 lemmas tagged as determiners (DET): _, اسين, ان, اها, اهائي, اهو, اهوئي, اهڙو, اُن, اُها, اُهو, اِها, اِهو, اھا, اھو, اھڙو, جنهن, جهڙو, جو, جي, جيڪو, سي, مان, نه, هر, هرڪو, هـُن, هن, هو, هوءَ, هي, هيءُ, هُو, هُوءَ, هِن, پنهنجو, ڪهڙو, ڪو, ڪوبه, ڪي, ھي</li>
+<li>This corpus contains 40 lemmas tagged as determiners (DET): _, اسين, ان, اها, اهو, اهوئي, اهڙو, اُن, اُها, اُهو, اِها, اِهو, اھا, اھو, اھڙو, جنهن, جهڙو, جو, جي, جيڪو, سي, مان, نه, هر, هرڪو, هـُن, هن, هو, هوءَ, هي, هيءُ, هُو, هُوءَ, هِن, پنهنجو, ڪهڙو, ڪو, ڪوبه, ڪي, ھي</li>
 </ul>
 
 <ul>
@@ -190,7 +190,7 @@ Publication out for review.
       <li>AUX: ٿي, هئي, آهي, هيون, نٿي, ٿيون, ڪانهي, هوندي, سگهندي, سگهنديون</li>
       <li>DET: اها, ڪا, هوءَ, جيڪا, هيءَ, ڪهڙي, اهڙي, اهڙيءَ, اِها, جهڙي</li>
       <li>NOUN: ڳالهه, حڪومت, پوليس, زال, دنيا, طرح, طور, خبر, دل, زمين</li>
-      <li>PRON: پنهنجي, منهنجي, تنهنجي, پنهنجيءَ, پنهنجون, مونکي, پنهنجيون, اسانجي, انجو, انجي</li>
+      <li>PRON: پنهنجي, منهنجي, تنهنجي, پنهنجيءَ, پنهنجون, جيتري, مونکي, پنهنجيون, اسانجي, انجو</li>
       <li>PROPN: سنڌ, پ, ڪابيرو, ڪمپا, بي, شام, ماليڪٽ, پارٽي, نومبر, بينظير</li>
       <li>VERB: ڪئي, ويئي, آئي, ٿيندي, لڳي, ڏني, پيئي, ويون, هوندي, وئي</li>
       <li>VERB-Conv: هلي, لڳي, ڪانڊرجي</li>
@@ -201,13 +201,13 @@ Publication out for review.
 <ul>
   <li>Masc
     <ul>
-      <li>ADJ: هڪڙي, وڏي, هڪڙو, نئين, وڏو, ڏاڍو, گهڻو, سٺو, ٿورو, ڪيترائي</li>
+      <li>ADJ: هڪڙي, هڪڙو, وڏي, نئين, وڏو, ڏاڍو, گهڻو, سٺو, ٿورو, ڪيترائي</li>
       <li>ADP: جي, جو, جا, واري, وارو, وارا, وارن, جهڙو, جون, سان</li>
       <li>ADV: اڄ, جڏهن, جهٽ, سڀاڻي, اصل, ايتري, ايتريتائين, اڄڪلھ, نافذ, هوڏانهن</li>
       <li>AUX: هو, ٿو, ٿيو, هئا, ٿي, ٿا, نٿو, سگهيو, آهي, نٿا</li>
-      <li>DET: اهو, ڪو, جيڪو, هو, هُو, اهڙو, ڪي, هي, ڪنهن, اُهي</li>
-      <li>NOUN: شينهن, ملڪ, گدڙ, وقت, ڏينهن, ماڻهو, پاڻي, وزير, بادشاهه, ماڻهن</li>
-      <li>PRON: پنهنجي, سندس, پنهنجو, سو, سندن, پنهنجا, پنهنجن, منهنجو, تنهنجو, منهنجي</li>
+      <li>DET: اهو, ڪو, جيڪو, هو, هُو, اهڙو, ڪي, جو, هي, ڪنهن</li>
+      <li>NOUN: شينهن, ملڪ, وقت, گدڙ, ڏينهن, ماڻهو, پاڻي, وزير, بادشاهه, ماڻهن</li>
+      <li>PRON: پنهنجي, پنهنجو, سو, پنهنجا, پنهنجن, منهنجو, تنهنجو, منهنجي, ڪهڙو, منهنجا</li>
       <li>PROPN: پاڪستان, علي, ڪراچي, محمد, آمريڪا, احمد, اسلام, الله, نواز, آباد</li>
       <li>VERB: ويو, ڪيو, ويا, ڏنو, چيو, آيو, لڳو, ڇڏيو, رهيو, رهيا</li>
       <li>VERB-Conv: ڏيئي</li>
@@ -227,7 +227,7 @@ Publication out for review.
       <li>ADJ: ٻين, سڀ, ٻنهي, ڪيترائي, ٻئي, ڪيترن, ٻيا, سمورن, نوان, وڏا</li>
       <li>ADP: جا, جون, وارا, کين, وارن, واريون, وارين, جهڙا, جي, جهڙن</li>
       <li>ADV: مٿن, هـُـنهين, ايتريتائين, هيٺين</li>
-      <li>AUX: آهن, ٿا, هئا, آهيون, هيون, ٿيون, سگهن, هجن, نٿا, آھن</li>
+      <li>AUX: آهن, ٿا, هئا, آهيون, هيون, ٿيون, سگهن, هجن, آھن, نٿا</li>
       <li>DET: اسان, انهن, اهي, جيڪي, هنن, ڪي, ڪن, اُهي, ڪهڙا, جن</li>
       <li>NOUN: ماڻهن, ماڻهو, ٻارن, سالن, سيڪڙو, ادارن, دهشتگردن, علائقن, قيدين, ملڪن</li>
       <li>NUM: هزارن, لکن, ٽن, چار</li>
@@ -279,8 +279,8 @@ Publication out for review.
       <li>ADV: جڏهن, تيئن, جيئن, اڳتي, آهستي, ايئن, اڄ, ايتريتائين, اڄڪلھ, بس</li>
       <li>DET: هن, ان, اسان, جنهن, انهن, ڪنهن, انهيءَ, هنن, ھن, انهي</li>
       <li>NOUN: ملڪ, ماڻهن, دنيا, شينهن, گهر, گدڙ, بئراج, ڏينهن, حڪومت, زمين</li>
-      <li>NUM: ٻن, هزار, لک, هزارن, لکن, ٽن</li>
-      <li>PRON: مون, پاڻ, اوهان, جن, توهان, تنهن, تو, سندن, تن, توکي</li>
+      <li>NUM: ٻن, هزار, هزارن, لک, لکن, ٽن</li>
+      <li>PRON: مون, پاڻ, اوهان, جن, توهان, تنهن, تو, تن, توکي, مونکي</li>
       <li>PROPN: پاڪستان, ڪابيرو, سنڌ, ماليڪٽ, ڪراچي, پارٽي, شريف, پ, آباد, کام</li>
       <li>VERB: چيس, چين, اچيـَو, لڳين, ويندس, ٻڌايس, پڇيس, پڇين, ٿيم, ڏينم</li>
     </ul>
@@ -507,7 +507,7 @@ Publication out for review.
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: سندن</li>
+      <li>PRON: سندس, سندن, منهنجو, تنهنجو, منهنجا, سندم, تنهنجا, تنھنجي</li>
     </ul>
   </li>
 </ul>
@@ -515,7 +515,7 @@ Publication out for review.
 <ul>
   <li>Rel
     <ul>
-      <li>PRON: ائين, سو, تنهن, جهڙو, تيئن, جي, ڄڻ, تنھن, تهڙي, جا</li>
+      <li>PRON: ائين, سو, تنهن, جيتري, جهڙو, تيئن, جي, ڄڻ, ايتري, تنھن</li>
     </ul>
   </li>
 </ul>
@@ -536,7 +536,7 @@ Publication out for review.
 <ul>
   <li>Yes
     <ul>
-      <li>PRON: سندن</li>
+      <li>PRON: سندس, سندن, منهنجو, تنهنجو, منهنجا, سندم, تنهنجا, تنھنجي</li>
     </ul>
   </li>
 </ul>
@@ -576,7 +576,7 @@ Publication out for review.
       <li>AUX: هو, هئي, آهي, ٿيو, هئا, سگهي, هجي, ٿي, ٿو, سگهجي</li>
       <li>DET: جنهن, هن, هنن, ھن, هو, اهائي, اهوئي, هـُن, ڪنهن, انهيءَ</li>
       <li>NOUN: مڙسس, هاٿي, کيس</li>
-      <li>PRON: جن, سندس, اوهان, سندن, تنهن, توهان, پاڻ, تن, جنھن, ھو</li>
+      <li>PRON: سندس, جن, اوهان, سندن, تنهن, توهان, پاڻ, تن, جنھن, ھو</li>
       <li>VERB: ويو, ڪيو, وڃي, ڪئي, ڏنو, ڇڏيو, آيو, لڳو, رهيو, رهي</li>
       <li>VERB-Conv: چئي, ڏسي</li>
       <li>VERB-Vnoun: وٺرائيندڙ</li>
@@ -777,7 +777,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN-Acc (45)</li>
+      <li>VERB--NOUN-Acc (46)</li>
       <li>VERB--NOUN-Acc-ADP(جو) (6)</li>
       <li>VERB--NOUN-Acc-ADP(طرفان) (1)</li>
       <li>VERB--NOUN-Acc-ADP(لاءِ) (2)</li>
@@ -786,7 +786,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-Acc-ADP(پڻ) (1)</li>
       <li>VERB--NOUN-Acc-ADP(کان) (2)</li>
       <li>VERB--NOUN-Acc-ADP(کي) (37)</li>
-      <li>VERB--NOUN-Nom (2520)</li>
+      <li>VERB--NOUN-Nom (2521)</li>
       <li>VERB--NOUN-Nom-ADP(بجاءِ) (1)</li>
       <li>VERB--NOUN-Nom-ADP(جو) (7)</li>
       <li>VERB--NOUN-Nom-ADP(جي) (6)</li>
@@ -802,13 +802,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--PRON-Acc (123)</li>
       <li>VERB--PRON-Acc-ADP(جو) (1)</li>
       <li>VERB--PRON-Acc-ADP(کي) (31)</li>
-      <li>VERB--PRON-Nom (314)</li>
+      <li>VERB--PRON-Nom (315)</li>
       <li>VERB--PRON-Nom-ADP(_) (1)</li>
       <li>VERB--PRON-Nom-ADP(جو) (1)</li>
-      <li>VERB-Conv--NOUN-Acc (6)</li>
+      <li>VERB-Conv--NOUN-Acc (7)</li>
       <li>VERB-Conv--NOUN-Acc-ADP(کان) (1)</li>
       <li>VERB-Conv--NOUN-Acc-ADP(کي) (4)</li>
-      <li>VERB-Conv--NOUN-Nom (237)</li>
+      <li>VERB-Conv--NOUN-Nom (238)</li>
       <li>VERB-Conv--NOUN-Nom-ADP(بنا) (1)</li>
       <li>VERB-Conv--NOUN-Nom-ADP(تي) (1)</li>
       <li>VERB-Conv--NOUN-Nom-ADP(جو) (1)</li>
@@ -853,7 +853,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-Acc-ADP(ڏانهن) (2)</li>
       <li>VERB--NOUN-Acc-ADP(کان) (1)</li>
       <li>VERB--NOUN-Acc-ADP(کي) (394)</li>
-      <li>VERB--NOUN-Nom (1696)</li>
+      <li>VERB--NOUN-Nom (1698)</li>
       <li>VERB--NOUN-Nom-ADP(جو) (8)</li>
       <li>VERB--NOUN-Nom-ADP(جي) (2)</li>
       <li>VERB--NOUN-Nom-ADP(کان) (1)</li>
@@ -892,14 +892,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN-Acc-ADP(پاران) (2)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(کان) (2)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(کي) (153)</li>
-      <li>VERB-Inf--NOUN-Nom (585)</li>
+      <li>VERB-Inf--NOUN-Nom (586)</li>
       <li>VERB-Inf--NOUN-Nom-ADP(تي) (2)</li>
       <li>VERB-Inf--NOUN-Nom-ADP(جي) (1)</li>
       <li>VERB-Inf--NOUN-Nom-ADP(سواءِ) (2)</li>
       <li>VERB-Inf--NOUN-Nom-ADP(کي) (4)</li>
       <li>VERB-Inf--PRON-Acc (5)</li>
       <li>VERB-Inf--PRON-Acc-ADP(کي) (14)</li>
-      <li>VERB-Inf--PRON-Gen (3)</li>
+      <li>VERB-Inf--PRON-Gen (2)</li>
       <li>VERB-Inf--PRON-Nom (7)</li>
       <li>VERB-Vnoun--NOUN-Acc-ADP(کي) (2)</li>
       <li>VERB-Vnoun--NOUN-Nom (24)</li>
@@ -914,7 +914,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-Acc (3)</li>
       <li>VERB--NOUN-Acc-ADP(جو) (6)</li>
       <li>VERB--NOUN-Acc-ADP(جي) (1)</li>
-      <li>VERB--NOUN-Acc-ADP(کي) (169)</li>
+      <li>VERB--NOUN-Acc-ADP(کي) (170)</li>
       <li>VERB--NOUN-Nom (5)</li>
       <li>VERB--NOUN-Nom-ADP(جو) (1)</li>
       <li>VERB--NOUN-Nom-ADP(لاءِ) (1)</li>

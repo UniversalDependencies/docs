@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-95 nodes (1%) are attached to their parents as `xcomp`.
+91 nodes (1%) are attached to their parents as `xcomp`.
 
-95 instances of `xcomp` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.53684210526316.
+91 instances of `xcomp` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.32967032967033.
 
-The following 5 pairs of parts of speech are connected with `xcomp`: <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-VERB.html">VERB</a></tt> (76; 80% instances), <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-ADJ.html">ADJ</a></tt> (8; 8% instances), <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-NOUN.html">NOUN</a></tt> (8; 8% instances), <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-ADV.html">ADV</a></tt> (1; 1% instances).
+The following 4 pairs of parts of speech are connected with `xcomp`: <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-VERB.html">VERB</a></tt> (71; 78% instances), <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-ADJ.html">ADJ</a></tt> (9; 10% instances), <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-NOUN.html">NOUN</a></tt> (8; 9% instances), <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-PRON.html">PRON</a></tt> (3; 3% instances).
 
 
 ~~~ conllu
@@ -41,23 +41,23 @@ The following 5 pairs of parts of speech are connected with `xcomp`: <tt><a href
 ~~~ conllu
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 4 xcomp	color:blue
-1	Gh'	ghe	PRON	_	PronType=Dem	2	expl:pv	_	SpaceAfter=No
-2	ò	avei	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	mäi	mäi	ADV	_	_	4	advmod	_	_
-4	tanto	tanto	ADJ	_	Gender=Masc|Number=Sing	2	xcomp	_	_
-5	de	de	ADP	_	_	7	case	_	_
-6	quello	quello	DET	_	Gender=Masc|Number=Sing|PronType=Dem	7	det	_	_
-7	seunno	seunno	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
-8	che	che	SCONJ	_	_	10	mark	_	_
-9	no	no	ADV	_	_	10	advmod	_	_
-10	staggo	stâ	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	advcl	_	_
-11	ciù	ciù	ADV	_	_	10	advmod	_	_
-12	in	in	ADP	_	_	13	case	_	_
-13	pê	pê	NOUN	_	Gender=Masc|Number=Plur	10	obl	_	SpaceAfter=No
-14	.	.	PUNCT	_	_	2	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 xcomp	color:blue
+1	L'	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	SpaceAfter=No
+2	ò	avei	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	trovou	trovâ	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	imbrægo	imbrægo	ADJ	_	Gender=Masc|Number=Sing	3	xcomp	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	cösa	cösa	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+7	ch'	che	PRON	_	PronType=Rel	12	nsubj	_	SpaceAfter=No
+8	a	o	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	expl	_	_
+9	no	no	ADV	_	_	12	advmod	_	_
+10	m'	me	PRON	_	Number=Sing|Person=1|PronType=Prs	12	iobj	_	SpaceAfter=No
+11	é	ëse	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	gustâ	gustâ	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	6	acl:relcl	_	_
+13	guæi	guæi	ADV	_	_	12	advmod	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

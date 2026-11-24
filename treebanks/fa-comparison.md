@@ -1143,6 +1143,24 @@ udver: '2'
   </tr>
   <tr>
     <td width="50%" valign="top">
+
+    </td>
+    <td width="50%" valign="top">
+      <ul>
+        <li><a>ExtPos</a>
+          <ul>
+            <li>ADV
+              <ul>
+                <li>PRON: آن</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <ul>
         <li><a>Typo</a>
           <ul>
@@ -1200,7 +1218,7 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB--NOUN (13845)</li>
+            <li>VERB--NOUN (13844)</li>
             <li>VERB--NOUN-ADP(در) (1)</li>
             <li>VERB--NOUN-ADP(مثل) (1)</li>
             <li>VERB--NOUN-ADP(میان) (1)</li>
@@ -1222,17 +1240,16 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB--NOUN (3513)</li>
-            <li>VERB--NOUN-ADP(ای) (2)</li>
-            <li>VERB--NOUN-ADP(را) (8)</li>
-            <li>VERB--PRON (774)</li>
-            <li>VERB-Fin--NOUN (463)</li>
+            <li>VERB--NOUN (3471)</li>
+            <li>VERB--NOUN-ADP(را) (4)</li>
+            <li>VERB--PRON (767)</li>
+            <li>VERB-Fin--NOUN (458)</li>
             <li>VERB-Fin--NOUN-ADP(ای) (1)</li>
             <li>VERB-Fin--NOUN-ADP(را) (2)</li>
-            <li>VERB-Fin--PRON (130)</li>
+            <li>VERB-Fin--PRON (131)</li>
             <li>VERB-Fin--PRON-ADP(را) (1)</li>
-            <li>VERB-Part--NOUN (820)</li>
-            <li>VERB-Part--PRON (118)</li>
+            <li>VERB-Part--NOUN (817)</li>
+            <li>VERB-Part--PRON (117)</li>
             <li>VERB-Part--PRON-ADP(را) (1)</li>
           </ul>
         </li>
@@ -1290,8 +1307,8 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB--NOUN (813)</li>
-            <li>VERB--NOUN-ADP(را) (1172)</li>
+            <li>VERB--NOUN (826)</li>
+            <li>VERB--NOUN-ADP(را) (1176)</li>
             <li>VERB--PRON (21)</li>
             <li>VERB--PRON-ADP(را) (175)</li>
             <li>VERB-Fin--NOUN (234)</li>
@@ -1301,7 +1318,7 @@ udver: '2'
             <li>VERB-Fin--PRON (9)</li>
             <li>VERB-Fin--PRON-ADP(را) (85)</li>
             <li>VERB-Part--NOUN (220)</li>
-            <li>VERB-Part--NOUN-ADP(را) (332)</li>
+            <li>VERB-Part--NOUN-ADP(را) (333)</li>
             <li>VERB-Part--PRON (6)</li>
             <li>VERB-Part--PRON-ADP(را) (35)</li>
           </ul>
@@ -1323,6 +1340,7 @@ udver: '2'
       <ul>
         <li><a>iobj</a>
           <ul>
+            <li>VERB-Part--NOUN (1)</li>
           </ul>
         </li>
       </ul>
@@ -1363,15 +1381,15 @@ udver: '2'
       <ul>
       <li>This corpus uses 5 relation subtypes: <a>compound:lvc</a>, <a>flat:name</a>, <a>flat:num</a>, <a>nsubj:pass</a>, <a>obl:arg</a></li>
       <li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
-      <li>The following 7 relation types are not used in this corpus at all: <a>expl</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>reparandum</a></li>
+      <li>The following 6 relation types are not used in this corpus at all: <a>expl</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>list</a>, <a>reparandum</a></li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 10 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:lvc</a>, <a>compound:prt</a>, <a>det:predet</a>, <a>flat:foreign</a>, <a>nmod:poss</a>, <a>nsubj:nc</a>, <a>nsubj:pass</a></li>
-      <li>The following 8 relation types are not used in this corpus at all: <a>iobj</a>, <a>csubj</a>, <a>expl</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+      <li>This corpus uses 11 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:lvc</a>, <a>compound:prt</a>, <a>det:predet</a>, <a>flat:foreign</a>, <a>nmod:poss</a>, <a>nsubj:nc</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a></li>
+      <li>The following 6 relation types are not used in this corpus at all: <a>csubj</a>, <a>expl</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a></li>
       </ul>
     </td>
   </tr>

@@ -11,16 +11,16 @@ It occurs with 3 different values: `Fem`, `Masc`, `Neut`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="ab_abnc-feat-Gender.html">Gender</a></tt>, <tt><a href="ab_abnc-feat-Gender-cs.html">Gender[cs]</a></tt>, <tt><a href="ab_abnc-feat-Gender-io.html">Gender[io]</a></tt>, <tt><a href="ab_abnc-feat-Gender-lo.html">Gender[lo]</a></tt>, <tt><a href="ab_abnc-feat-Gender-obj.html">Gender[obj]</a></tt>, <tt><a href="ab_abnc-feat-Gender-po.html">Gender[po]</a></tt>, <tt><a href="ab_abnc-feat-Gender-psor.html">Gender[psor]</a></tt>, <tt><a href="ab_abnc-feat-Gender-refl.html">Gender[refl]</a></tt>, <tt><a href="ab_abnc-feat-Gender-ro.html">Gender[ro]</a></tt>, <tt><a href="ab_abnc-feat-Gender-subj.html">Gender[subj]</a></tt>.
 
-817 tokens (6%) have a non-empty value of `Gender[psor]`.
-443 types (9%) occur at least once with a non-empty value of `Gender[psor]`.
-260 lemmas (12%) occur at least once with a non-empty value of `Gender[psor]`.
-The feature is used with 5 part-of-speech tags: <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (485; 4% instances), <tt><a href="ab_abnc-pos-ADP.html">ADP</a></tt> (253; 2% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (54; 0% instances), <tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (17; 0% instances), <tt><a href="ab_abnc-pos-ADJ.html">ADJ</a></tt> (8; 0% instances).
+895 tokens (6%) have a non-empty value of `Gender[psor]`.
+484 types (9%) occur at least once with a non-empty value of `Gender[psor]`.
+285 lemmas (12%) occur at least once with a non-empty value of `Gender[psor]`.
+The feature is used with 5 part-of-speech tags: <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (526; 4% instances), <tt><a href="ab_abnc-pos-ADP.html">ADP</a></tt> (278; 2% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (63; 0% instances), <tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (19; 0% instances), <tt><a href="ab_abnc-pos-ADJ.html">ADJ</a></tt> (9; 0% instances).
 
 ### `NOUN`
 
-485 <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> tokens (20% of all `NOUN` tokens) have a non-empty value of `Gender[psor]`.
+526 <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> tokens (20% of all `NOUN` tokens) have a non-empty value of `Gender[psor]`.
 
-The most frequent other feature values with which `NOUN` and `Gender[psor]` co-occurred: <tt><a href="ab_abnc-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (485; 100%), <tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (485; 100%), <tt><a href="ab_abnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (443; 91%), <tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (429; 88%), <tt><a href="ab_abnc-feat-Animacy.html">Animacy</a></tt><tt>=Nhum</tt> (395; 81%).
+The most frequent other feature values with which `NOUN` and `Gender[psor]` co-occurred: <tt><a href="ab_abnc-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (526; 100%), <tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (526; 100%), <tt><a href="ab_abnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (475; 90%), <tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (462; 88%), <tt><a href="ab_abnc-feat-Animacy.html">Animacy</a></tt><tt>=Nhum</tt> (420; 80%).
 
 `NOUN` tokens may have the following values of `Gender[psor]`:
 
@@ -36,25 +36,26 @@ The most frequent other feature values with which `NOUN` and `Gender[psor]` co-o
 
 ### `ADP`
 
-253 <tt><a href="ab_abnc-pos-ADP.html">ADP</a></tt> tokens (74% of all `ADP` tokens) have a non-empty value of `Gender[psor]`.
+278 <tt><a href="ab_abnc-pos-ADP.html">ADP</a></tt> tokens (74% of all `ADP` tokens) have a non-empty value of `Gender[psor]`.
 
-The most frequent other feature values with which `ADP` and `Gender[psor]` co-occurred: <tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (253; 100%), <tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (246; 97%).
+The most frequent other feature values with which `ADP` and `Gender[psor]` co-occurred: <tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (278; 100%), <tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (268; 96%).
 
 `ADP` tokens may have the following values of `Gender[psor]`:
 
 
 <table>
   <tr><th>Paradigm <i>а́иҧш</i></th><th><tt>Fem</tt></th><th><tt>Masc</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="ab_abnc-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Masc</tt></tt></td><td></td><td><em>иеиҧш</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ab_abnc-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Fem</tt></tt></td><td><em>леиҧш</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="ab_abnc-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Neut</tt></tt></td><td></td><td></td><td><em>еиҧш</em></td></tr>
+  <tr><td><tt><tt><a href="ab_abnc-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Masc</tt>|<tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt></tt></td><td></td><td><em>уеиҧш</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ab_abnc-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Masc</tt>|<tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>иеиҧш</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ab_abnc-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Fem</tt>|<tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td><em>леиҧш</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ab_abnc-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Neut</tt>|<tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td></td><td><em>еиҧш</em></td></tr>
 </table>
 
 ### `VERB`
 
-54 <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Gender[psor]`.
+63 <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Gender[psor]`.
 
-The most frequent other feature values with which `VERB` and `Gender[psor]` co-occurred: <tt><a href="ab_abnc-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (54; 100%), <tt><a href="ab_abnc-feat-Person-io.html">Person[io]</a></tt><tt>=EMPTY</tt> (53; 98%), <tt><a href="ab_abnc-feat-Person-lo.html">Person[lo]</a></tt><tt>=EMPTY</tt> (53; 98%), <tt><a href="ab_abnc-feat-RelType.html">RelType</a></tt><tt>=EMPTY</tt> (53; 98%), <tt><a href="ab_abnc-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (52; 96%), <tt><a href="ab_abnc-feat-Dyn.html">Dyn</a></tt><tt>=Yes</tt> (43; 80%), <tt><a href="ab_abnc-feat-Gender-subj.html">Gender[subj]</a></tt><tt>=EMPTY</tt> (37; 69%), <tt><a href="ab_abnc-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (36; 67%), <tt><a href="ab_abnc-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (33; 61%).
+The most frequent other feature values with which `VERB` and `Gender[psor]` co-occurred: <tt><a href="ab_abnc-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (63; 100%), <tt><a href="ab_abnc-feat-Gender-lo.html">Gender[lo]</a></tt><tt>=EMPTY</tt> (62; 98%), <tt><a href="ab_abnc-feat-Number-lo.html">Number[lo]</a></tt><tt>=EMPTY</tt> (62; 98%), <tt><a href="ab_abnc-feat-Person-io.html">Person[io]</a></tt><tt>=EMPTY</tt> (62; 98%), <tt><a href="ab_abnc-feat-RelType.html">RelType</a></tt><tt>=EMPTY</tt> (62; 98%), <tt><a href="ab_abnc-feat-Person-lo.html">Person[lo]</a></tt><tt>=EMPTY</tt> (61; 97%), <tt><a href="ab_abnc-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (61; 97%), <tt><a href="ab_abnc-feat-Dyn.html">Dyn</a></tt><tt>=Yes</tt> (51; 81%), <tt><a href="ab_abnc-feat-Gender-subj.html">Gender[subj]</a></tt><tt>=EMPTY</tt> (43; 68%), <tt><a href="ab_abnc-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (42; 67%).
 
 `VERB` tokens may have the following values of `Gender[psor]`:
 
@@ -68,11 +69,11 @@ The most frequent other feature values with which `VERB` and `Gender[psor]` co-o
   <tr><td><tt><tt><a href="ab_abnc-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Neut</tt>|<tt><a href="ab_abnc-feat-Gender-subj.html">Gender[subj]</a></tt><tt>=Neut</tt>|<tt><a href="ab_abnc-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td></td><td></td><td><em>аҿынанахон</em></td></tr>
 </table>
 
-`Gender[psor]` seems to be **lexical feature** of `VERB`. 91% lemmas (30) occur only with one value of `Gender[psor]`.
+`Gender[psor]` seems to be **lexical feature** of `VERB`. 93% lemmas (38) occur only with one value of `Gender[psor]`.
 
 ### `ADV`
 
-17 <tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> tokens (2% of all `ADV` tokens) have a non-empty value of `Gender[psor]`.
+19 <tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> tokens (2% of all `ADV` tokens) have a non-empty value of `Gender[psor]`.
 
 `ADV` tokens may have the following values of `Gender[psor]`:
 
@@ -86,9 +87,9 @@ The most frequent other feature values with which `VERB` and `Gender[psor]` co-o
 
 ### `ADJ`
 
-8 <tt><a href="ab_abnc-pos-ADJ.html">ADJ</a></tt> tokens (4% of all `ADJ` tokens) have a non-empty value of `Gender[psor]`.
+9 <tt><a href="ab_abnc-pos-ADJ.html">ADJ</a></tt> tokens (4% of all `ADJ` tokens) have a non-empty value of `Gender[psor]`.
 
-The most frequent other feature values with which `ADJ` and `Gender[psor]` co-occurred: <tt><a href="ab_abnc-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (8; 100%), <tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (7; 88%).
+The most frequent other feature values with which `ADJ` and `Gender[psor]` co-occurred: <tt><a href="ab_abnc-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (9; 100%).
 
 `ADJ` tokens may have the following values of `Gender[psor]`:
 
@@ -102,5 +103,5 @@ The most frequent other feature values with which `ADJ` and `Gender[psor]` co-oc
 ## Relations with Agreement in `Gender[psor]`
 
 The 10 most frequent relations where parent and child node agree in `Gender[psor]`:
-<tt>NOUN --[<tt><a href="ab_abnc-dep-conj.html">conj</a></tt>]--> NOUN</tt> (10; 83%).
+<tt>NOUN --[<tt><a href="ab_abnc-dep-conj.html">conj</a></tt>]--> NOUN</tt> (11; 79%).
 

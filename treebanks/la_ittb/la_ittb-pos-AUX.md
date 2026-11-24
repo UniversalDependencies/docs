@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>esse</em> (<tt><a href="la_ittb-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 57.000000 (the average of all parts of speech is 3.337170).
+The form / lemma ratio of `AUX` is 57.000000 (the average of all parts of speech is 3.337008).
 
 The 1st highest number of forms (57) was observed with the lemma “sum”: <em>ens, entia, entium, eram, eramus, erant, eras, erat, eratis, erimus, eris, erit, eritis, ero, erunt, es, esse, essemus, essendi, essendo, essendum, essent, esset, est, estis, esto, estote, fore, foret, fuerant, fuerat, fuerimus, fuerint, fuerit, fuerunt, fuisse, fuissent, fuisset, fuistis, fuit, futura, futurae, futuram, futuras, futuri, futuris, futuro, futuros, futurum, futurus, sim, simus, sint, sit, sum, sumus, sunt</em>.
 

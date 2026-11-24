@@ -22,7 +22,7 @@ The following 15 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 8 ccomp	color:blue
-1	_	_	ADV	RB	_	2	advmod	2:advmod	Discourse=attribution-positive:36->37:0:sem-atsrc-221-_+lex-indwd-221-_+syn-rpr-222-_|Lem=*LOWER*|Len=3|PDTB=Implicit:Comparison.Contrast:but:_:197-219:220-237
+1	_	_	ADV	RB	PronType=Dem	2	advmod	2:advmod	Discourse=attribution-positive:36->37:0:sem-atsrc-221-_+lex-indwd-221-_+syn-rpr-222-_|Lem=*LOWER*|Len=3|PDTB=Implicit:Comparison.Contrast:but:_:197-219:220-237
 2	_	_	VERB	VB	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	0:root	Lem=_|Len=7
 3	_	_	SCONJ	IN	_	8	mark	8:mark	Discourse=contingency-condition:37->38:1:dm-if-222-gold|Lem=_|Len=2|PDTB=Explicit:Contingency.Condition.Arg1-as-cond:if:222:220-221,223-237:238-259
 4	_	_	DET	DT	Definite=Def|PronType=Art	6	det	6:det	Bridge=41<44:entity-associative|Entity=(44-organization-acc:inf-nnnnn-cf3-3-coref|Lem=_|Len=3

@@ -8,26 +8,28 @@ udver: '2'
 
 This relation is universal.
 
-198 nodes (1%) are attached to their parents as `acl`.
+224 nodes (1%) are attached to their parents as `acl`.
 
-197 instances of `acl` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.52525252525253.
+223 instances of `acl` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.50892857142857.
 
-The following 11 pairs of parts of speech are connected with `acl`: <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (121; 61% instances), <tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (28; 14% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (27; 14% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt> (10; 5% instances), <tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="ota_dudu-pos-PRON.html">PRON</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 11 pairs of parts of speech are connected with `acl`: <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (143; 64% instances), <tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (29; 13% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (28; 13% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt> (10; 4% instances), <tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (4; 2% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="ota_dudu-pos-PRON.html">PRON</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 acl	color:blue
-1	ḳonya	ḳonya	PROPN	Place	Case=Nom|NameType=Geo|Number=Sing|Person=3	2	nmod:poss	_	_
-2	mużāfātından	mużāf	NOUN	_	Case=Abl|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	3	nmod	_	_
-3	ḳaraman	ḳaraman	PROPN	Place	Case=Nom|NameType=Geo|Number=Sing|Person=3	4	nsubj	_	_
-4	denilen	de	VERB	Ptcp	Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	5	acl	_	_
-5	memlekette	memleket	NOUN	_	Case=Loc|Gender=Fem|Number=Sing|Person=3	6	obl	_	_
-6	doġdu	doġ	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 acl	color:blue
+1	āḫir	āḫir	CCONJ	_	_	7	cc	_	_
+2	öldürdügi	öldür	VERB	Ptcp	Aspect=Perf|Number[psor]=Sing|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part	3	acl	_	_
+3	beg	beg	NOUN	_	Case=Nom|Number=Sing|Person=3	7	nsubj	_	_
+4	hind	hind	PROPN	Place	Case=Nom|NameType=Geo|Number=Sing|Person=3	7	nmod	_	_
+5	ve	ve	CCONJ	_	_	6	cc	_	_
+6	sind	sind	PROPN	Place	Case=Nom|NameType=Geo|Number=Sing|Person=3	4	conj	_	_
+7	begi	beg	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	0	root	_	_
+8	yidi	y	AUX	Overt	Aspect=Perf|Evident=Fh|Number=Sing|Person=3|Polarity=Pos|Tense=Past	7	cop	_	_
 
 ~~~
 
@@ -51,20 +53,18 @@ The following 11 pairs of parts of speech are connected with `acl`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 5 acl	color:blue
-1	her	her	DET	Det	Definite=Def|PronType=Art	2	det	_	_
-2	meclisüñ	meclis	NOUN	_	Case=Gen|Number=Sing|Person=3	3	nmod:poss	_	_
-3	levnini	levn	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	8	obj	_	_
-4	anda	o	PRON	Demons	Case=Loc|Number=Sing|Person=3|PronType=Dem	5	obl	_	_
-5	vażʿ	vażʿ	NOUN	_	Case=Nom|Number=Sing|Person=3	7	acl	_	_
-6	olınan	ol	VERB	Ptcp	Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	5	compound:lvc	_	_
-7	ṣūrete	ṣūret	NOUN	_	Case=Dat|Gender=Fem|Number=Sing|Person=3	9	obl	_	_
-8	müşākil	müşākil	ADJ	Adj	_	0	root	_	_
-9	eyledi	eyle	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	8	compound:lvc	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 acl	color:blue
+1	velākin	velākin	CCONJ	_	_	7	cc	_	_
+2	iʿtiẕār	iʿtiẕār	NOUN	_	Case=Nom|Number=Sing|Person=3	4	acl	_	_
+3	itdügi	it	VERB	Ptcp	Aspect=Perf|Number[psor]=Sing|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part	2	compound:lvc	_	_
+4	eclden	ecl	NOUN	_	Case=Abl|Number=Sing|Person=3	7	obl	_	_
+5	ḳonya	ḳonya	PROPN	Place	Case=Nom|NameType=Geo|Number=Sing|Person=3	7	nsubj	_	_
+6	yine	yine	ADV	_	_	7	advmod	_	_
+7	virildi	vir	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
 
 ~~~
 

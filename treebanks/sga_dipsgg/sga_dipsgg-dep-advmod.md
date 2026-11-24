@@ -13,7 +13,7 @@ This relation is universal.
 24 instances of `advmod` (83%) are right-to-left (child precedes parent).
 Average distance between parent and child is 2.13793103448276.
 
-The following 8 pairs of parts of speech are connected with `advmod`: <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sga_dipsgg-pos-ADV.html">ADV</a></tt> (15; 52% instances), <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt>-<tt><a href="sga_dipsgg-pos-ADV.html">ADV</a></tt> (5; 17% instances), <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt>-<tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> (3; 10% instances), <tt><a href="sga_dipsgg-pos-PRON.html">PRON</a></tt>-<tt><a href="sga_dipsgg-pos-ADV.html">ADV</a></tt> (2; 7% instances), <tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sga_dipsgg-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt>-<tt><a href="sga_dipsgg-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt>-<tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="sga_dipsgg-pos-X.html">X</a></tt>-<tt><a href="sga_dipsgg-pos-ADV.html">ADV</a></tt> (1; 3% instances).
+The following 9 pairs of parts of speech are connected with `advmod`: <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sga_dipsgg-pos-ADV.html">ADV</a></tt> (14; 48% instances), <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt>-<tt><a href="sga_dipsgg-pos-ADV.html">ADV</a></tt> (5; 17% instances), <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt>-<tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> (3; 10% instances), <tt><a href="sga_dipsgg-pos-PRON.html">PRON</a></tt>-<tt><a href="sga_dipsgg-pos-ADV.html">ADV</a></tt> (2; 7% instances), <tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sga_dipsgg-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt>-<tt><a href="sga_dipsgg-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="sga_dipsgg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sga_dipsgg-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt>-<tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="sga_dipsgg-pos-X.html">X</a></tt>-<tt><a href="sga_dipsgg-pos-ADV.html">ADV</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -59,7 +59,7 @@ The following 8 pairs of parts of speech are connected with `advmod`: <tt><a hre
 5	ó	ó	INTJ	_	_	7	discourse	_	_
 6	ní	ní	PART	_	Polarity=Neg	7	advmod	_	SpaceAfter=No
 7	epur	asbeir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	1	parataxis	_	_
-8	na	nach	DET	_	Case=Acc|Definite=Ind|Number=Sing	9	det	_	_
+8	na	nach	DET	_	Case=Acc|Number=Sing|PronType=Neg	9	det	_	_
 9	haill	aile	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	_
 
 ~~~

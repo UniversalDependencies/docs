@@ -32,7 +32,7 @@ udver: '2'
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 5971 sentences, 117419 tokens and 119001 syntactic words.</li>
+      <li>This corpus contains 8418 sentences, 155379 tokens and 156961 syntactic words.</li>
       </ul>
     </td>
   </tr>
@@ -44,7 +44,7 @@ udver: '2'
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 15451 tokens (13%) that are not followed by a space.</li>
+      <li>This corpus contains 20971 tokens (13%) that are not followed by a space.</li>
       </ul>
     </td>
   </tr>
@@ -68,7 +68,7 @@ udver: '2'
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 125 types of words that contain both letters and punctuation. Examples: d', l', qu', n', s', c', j', m', .VJ., Saint-Pol, .IIIJ., .IXe., .XL., aujourd', .IIJcIIIJxx., .V., .XV., Nostre-Dame, .VIJ., .VJe., .Ve., .XVJe., puisqu', .IIIJc., .IIIJe., .M., .VJc., .XIIJe., .XIJm., .XVe., .XXIIIJe., .XXIIJe., .XXIJe., .XXIXe., .XXX., .XXe., Chasteau-Gontier, Grant-Lande, quatre-vingts, .IV., .LX., .LXm., .VIIJ., .VIJc., .VIJe., .Vm., .XIIIJ., .XIIm., .XIJe., .XIXe.</li>
+      <li>This corpus contains 210 types of words that contain both letters and punctuation. Examples: l', d', qu', n', s', c', j', m', X., t', IIJ., .IIIJ., .IXe., VJ., .VJ., Saint-Pol, .XL., .XXIIIJe., .XXIIJe., .XXIJe., .XXIXe., aujourd', puisqu', .IIJcIIIJxx., .V., .XIIJe., .XIXe., .XV., .XXe., Nostre-Dame, VIIJ., jusqu', .VIJ., .VJe., .Ve., .XVIJe., .XVJe., XV., XXX., .IIIJc., .IIIJe., .M., .VIIJ., .VIJe., .VJc., .XIJe., .XIJm., .XVe., .XXIe., .XXVIIJe.</li>
       </ul>
     </td>
   </tr>
@@ -162,7 +162,7 @@ udver: '2'
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 9 lemmas tagged as auxiliaries (AUX): _, avoir, devoir, falloir, pouvoir, ravoir, rêtre, vouloir, être</li>
+      <li>This corpus contains 8 lemmas tagged as auxiliaries (AUX): _, avoir, devoir, pouvoir, ravoir, rêtre, vouloir, être</li>
       </ul>
     </td>
   </tr>
@@ -174,7 +174,7 @@ udver: '2'
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>Out of the above, 8 lemmas occurred sometimes as AUX and sometimes as VERB: _, avoir, devoir, falloir, pouvoir, rêtre, vouloir, être</li>
+      <li>Out of the above, 7 lemmas occurred sometimes as AUX and sometimes as VERB: _, avoir, devoir, pouvoir, rêtre, vouloir, être</li>
       </ul>
     </td>
   </tr>
@@ -935,7 +935,17 @@ udver: '2'
       </ul>
     </td>
     <td width="50%" valign="top">
-
+      <ul>
+        <li><a>ExtPos</a>
+          <ul>
+            <li>SCONJ
+              <ul>
+                <li>ADV: si</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -966,6 +976,7 @@ udver: '2'
           <ul>
             <li>Yes
               <ul>
+                <li>PRON: l'a</li>
                 <li>X: veilleusement</li>
               </ul>
             </li>
@@ -1003,7 +1014,7 @@ udver: '2'
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus uses 7 lemmas as auxiliaries (<a>aux</a>). Examples: avoir, _, pouvoir, être, devoir, rêtre, ravoir.</li>
+      <li>This corpus uses 7 lemmas as auxiliaries (<a>aux</a>). Examples: _, avoir, pouvoir, être, devoir, rêtre, ravoir.</li>
       <li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: être, _.</li>
       </ul>
     </td>
@@ -1037,9 +1048,10 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB--NOUN (575)</li>
-            <li>VERB--NOUN-ADP(_) (2)</li>
-            <li>VERB--PRON (814)</li>
+            <li>VERB--NOUN (1353)</li>
+            <li>VERB--NOUN-ADP(_) (4)</li>
+            <li>VERB--PRON (2573)</li>
+            <li>VERB--PRON-ADP(_) (1)</li>
             <li>VERB-Fin--NOUN (1313)</li>
             <li>VERB-Fin--NOUN-ADP(_) (6)</li>
             <li>VERB-Fin--NOUN-ADP(de) (6)</li>
@@ -1080,10 +1092,10 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB--NOUN (482)</li>
-            <li>VERB--NOUN-ADP(_) (18)</li>
-            <li>VERB--PRON (221)</li>
-            <li>VERB--PRON-ADP(_) (1)</li>
+            <li>VERB--NOUN (1567)</li>
+            <li>VERB--NOUN-ADP(_) (66)</li>
+            <li>VERB--PRON (921)</li>
+            <li>VERB--PRON-ADP(_) (4)</li>
             <li>VERB-Fin--NOUN (1200)</li>
             <li>VERB-Fin--NOUN-ADP(_) (18)</li>
             <li>VERB-Fin--NOUN-ADP(de) (63)</li>
@@ -1125,7 +1137,7 @@ udver: '2'
       <ul>
         <li><a>iobj</a>
           <ul>
-            <li>VERB--PRON (109)</li>
+            <li>VERB--PRON (600)</li>
             <li>VERB--PRON-ADP(à) (1)</li>
             <li>VERB-Fin--PRON (542)</li>
             <li>VERB-Fin--PRON-ADP(chez) (1)</li>
@@ -1180,7 +1192,7 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 11 relation subtypes: <a>acl:relcl</a>, <a>advcl:relcl</a>, <a>aux:pass</a>, <a>case:det</a>, <a>cc:nc</a>, <a>csubj:pass</a>, <a>expl:pass</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:mod</a></li>
+      <li>This corpus uses 12 relation subtypes: <a>acl:relcl</a>, <a>advcl:relcl</a>, <a>aux:pass</a>, <a>case:det</a>, <a>cc:nc</a>, <a>csubj:pass</a>, <a>expl:pass</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:mod</a></li>
       <li>The following 4 relation types are not used in this corpus at all: <a>clf</a>, <a>compound</a>, <a>list</a>, <a>goeswith</a></li>
       </ul>
     </td>

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-718 nodes (4%) are attached to their parents as `obj`.
+717 nodes (4%) are attached to their parents as `obj`.
 
-686 instances of `obj` (96%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.20891364902507.
+685 instances of `obj` (96%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.21059972105997.
 
-The following 17 pairs of parts of speech are connected with `obj`: <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (478; 67% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> (131; 18% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt> (45; 6% instances), <tt><a href="en_gentle-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (22; 3% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (10; 1% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> (7; 1% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-DET.html">DET</a></tt> (6; 1% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-NUM.html">NUM</a></tt> (6; 1% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="en_gentle-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="en_gentle-pos-ADP.html">ADP</a></tt>-<tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-AUX.html">AUX</a></tt>-<tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-X.html">X</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `obj`: <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (481; 67% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> (131; 18% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt> (45; 6% instances), <tt><a href="en_gentle-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (23; 3% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (10; 1% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> (7; 1% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-DET.html">DET</a></tt> (6; 1% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-NUM.html">NUM</a></tt> (6; 1% instances), <tt><a href="en_gentle-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="en_gentle-pos-ADP.html">ADP</a></tt>-<tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-AUX.html">AUX</a></tt>-<tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -26,9 +26,9 @@ The following 17 pairs of parts of speech are connected with `obj`: <tt><a href=
 2	,	,	PUNCT	,	_	3	punct	3:punct	_
 3	please	please	INTJ	UH	_	1	discourse	1:discourse	SpaceAfter=No
 4	,	,	PUNCT	,	_	7	punct	7:punct	_
-5	do	do	AUX	VB	VerbForm=Inf	7	aux	7:aux	Discourse=joint-list_m:131->130:0:_
+5	do	do	AUX	VB	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	7	aux	7:aux	Discourse=joint-list_m:131->130:0:_
 6	n't	not	PART	RB	Polarity=Neg	7	advmod	7:advmod	Negation=Yes
-7	hold	hold	VERB	VB	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	1	parataxis	1:parataxis	_
+7	hold	hold	VERB	VB	VerbForm=Inf	1	parataxis	1:parataxis	_
 8	up	up	ADP	RP	_	7	compound:prt	7:compound:prt	_
 9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	Entity=(170-abstract-acc:com-nnnnn-cf1-2-sgl
 10	queue	queue	NOUN	NN	Number=Sing	7	obj	7:obj	Entity=170)|SpaceAfter=No

@@ -22,7 +22,7 @@ The following 9 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 goeswith	color:blue
-1	Robert	RobertBryngelson@AZURIX	PROPN	GW	Typo=Yes	0	root	0:root	_
+1	Robert	RobertBryngelson@AZURIX	PROPN	GW	Number=Sing|Typo=Yes	0	root	0:root	_
 2	Bryngelson@AZURIX	_	X	ADD	_	1	goeswith	1:goeswith	_
 
 ~~~

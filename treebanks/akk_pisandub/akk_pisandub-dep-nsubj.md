@@ -87,7 +87,7 @@ The following 5 pairs of parts of speech are connected with `nsubj`: <tt><a href
 21	i-na	ina	ADP	_	_	22	case	_	_
 22	ša-li-im-tim	šalimtu	NOUN	_	_	26	obl	_	_
 23	i-na	ina	ADP	_	_	24	case	_	_
-24	maš-ta-ki	maštaku	NOUN	_	_	28	obl	_	_
+24	maš-ta-ki	maštaku	NOUN	_	_	28	nmod	_	_
 25	-šu-nu	-šunu	PRON	_	_	24	det	_	_
 26	ú-še-ši-ib	wašābu	VERB	_	_	0	root	_	_
 27	šu-ba-at	šubtu	NOUN	_	_	26	obj	_	_

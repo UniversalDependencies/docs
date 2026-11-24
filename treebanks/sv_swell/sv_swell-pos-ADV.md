@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Swedish-SweLL: POS Tags: `ADV`
 
-There are 182 `ADV` lemmas (11%), 209 `ADV` types (9%) and 755 `ADV` tokens (7%).
+There are 183 `ADV` lemmas (11%), 209 `ADV` types (9%) and 756 `ADV` tokens (7%).
 Out of 16 observed tags, the rank of `ADV` is: 4 in number of lemmas, 4 in number of types and 7 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: <em>hur, så, mycket, där, också, därför, här, kanske, bara, ut</em>
@@ -15,7 +15,7 @@ The 10 most frequent `ADV` types:  <em>hur, så, där, mycket, därför, också,
 
 The 10 most frequent ambiguous lemmas: <em>så</em> (<tt><a href="sv_swell-pos-ADV.html">ADV</a></tt> 46, <tt><a href="sv_swell-pos-SCONJ.html">SCONJ</a></tt> 11, <tt><a href="sv_swell-pos-PART.html">PART</a></tt> 7, <tt><a href="sv_swell-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="sv_swell-pos-ADJ.html">ADJ</a></tt> 1), <em>mycket</em> (<tt><a href="sv_swell-pos-ADV.html">ADV</a></tt> 41, <tt><a href="sv_swell-pos-ADJ.html">ADJ</a></tt> 17, <tt><a href="sv_swell-pos-PRON.html">PRON</a></tt> 1), <em>bra</em> (<tt><a href="sv_swell-pos-ADJ.html">ADJ</a></tt> 58, <tt><a href="sv_swell-pos-ADV.html">ADV</a></tt> 16), <em>nu</em> (<tt><a href="sv_swell-pos-ADV.html">ADV</a></tt> 13, <tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt> 1), <em>då</em> (<tt><a href="sv_swell-pos-ADV.html">ADV</a></tt> 10, <tt><a href="sv_swell-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt> 1), <em>när</em> (<tt><a href="sv_swell-pos-SCONJ.html">SCONJ</a></tt> 55, <tt><a href="sv_swell-pos-ADV.html">ADV</a></tt> 7), <em>ihåg</em> (<tt><a href="sv_swell-pos-ADV.html">ADV</a></tt> 6, <tt><a href="sv_swell-pos-ADP.html">ADP</a></tt> 1), <em>sedan</em> (<tt><a href="sv_swell-pos-ADV.html">ADV</a></tt> 6, <tt><a href="sv_swell-pos-ADP.html">ADP</a></tt> 1), <em>för</em> (<tt><a href="sv_swell-pos-ADP.html">ADP</a></tt> 163, <tt><a href="sv_swell-pos-ADV.html">ADV</a></tt> 5, <tt><a href="sv_swell-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="sv_swell-pos-SCONJ.html">SCONJ</a></tt> 1), <em>sist</em> (<tt><a href="sv_swell-pos-ADV.html">ADV</a></tt> 5, <tt><a href="sv_swell-pos-ADJ.html">ADJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>så</em> (<tt><a href="sv_swell-pos-ADV.html">ADV</a></tt> 43, <tt><a href="sv_swell-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="sv_swell-pos-PART.html">PART</a></tt> 7, <tt><a href="sv_swell-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="sv_swell-pos-CCONJ.html">CCONJ</a></tt> 1), <em>mycket</em> (<tt><a href="sv_swell-pos-ADV.html">ADV</a></tt> 25, <tt><a href="sv_swell-pos-ADJ.html">ADJ</a></tt> 9), <em>här</em> (<tt><a href="sv_swell-pos-ADV.html">ADV</a></tt> 20, <tt><a href="sv_swell-pos-AUX.html">AUX</a></tt> 1), <em>nu</em> (<tt><a href="sv_swell-pos-ADV.html">ADV</a></tt> 8, <tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt> 1), <em>bra</em> (<tt><a href="sv_swell-pos-ADJ.html">ADJ</a></tt> 30, <tt><a href="sv_swell-pos-ADV.html">ADV</a></tt> 10), <em>då</em> (<tt><a href="sv_swell-pos-ADV.html">ADV</a></tt> 5, <tt><a href="sv_swell-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt> 1), <em>mer</em> (<tt><a href="sv_swell-pos-ADV.html">ADV</a></tt> 10, <tt><a href="sv_swell-pos-ADJ.html">ADJ</a></tt> 8, <tt><a href="sv_swell-pos-PRON.html">PRON</a></tt> 1), <em>lite</em> (<tt><a href="sv_swell-pos-ADV.html">ADV</a></tt> 7, <tt><a href="sv_swell-pos-ADJ.html">ADJ</a></tt> 1), <em>när</em> (<tt><a href="sv_swell-pos-SCONJ.html">SCONJ</a></tt> 34, <tt><a href="sv_swell-pos-ADV.html">ADV</a></tt> 6), <em>för</em> (<tt><a href="sv_swell-pos-ADP.html">ADP</a></tt> 146, <tt><a href="sv_swell-pos-ADV.html">ADV</a></tt> 6, <tt><a href="sv_swell-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>så</em> (<tt><a href="sv_swell-pos-ADV.html">ADV</a></tt> 43, <tt><a href="sv_swell-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="sv_swell-pos-PART.html">PART</a></tt> 7, <tt><a href="sv_swell-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="sv_swell-pos-CCONJ.html">CCONJ</a></tt> 1), <em>mycket</em> (<tt><a href="sv_swell-pos-ADV.html">ADV</a></tt> 25, <tt><a href="sv_swell-pos-ADJ.html">ADJ</a></tt> 9), <em>här</em> (<tt><a href="sv_swell-pos-ADV.html">ADV</a></tt> 20, <tt><a href="sv_swell-pos-AUX.html">AUX</a></tt> 1), <em>nu</em> (<tt><a href="sv_swell-pos-ADV.html">ADV</a></tt> 8, <tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt> 1), <em>bra</em> (<tt><a href="sv_swell-pos-ADJ.html">ADJ</a></tt> 30, <tt><a href="sv_swell-pos-ADV.html">ADV</a></tt> 10), <em>då</em> (<tt><a href="sv_swell-pos-ADV.html">ADV</a></tt> 5, <tt><a href="sv_swell-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt> 1), <em>mer</em> (<tt><a href="sv_swell-pos-ADV.html">ADV</a></tt> 10, <tt><a href="sv_swell-pos-ADJ.html">ADJ</a></tt> 8, <tt><a href="sv_swell-pos-PRON.html">PRON</a></tt> 1), <em>när</em> (<tt><a href="sv_swell-pos-SCONJ.html">SCONJ</a></tt> 34, <tt><a href="sv_swell-pos-ADV.html">ADV</a></tt> 6), <em>för</em> (<tt><a href="sv_swell-pos-ADP.html">ADP</a></tt> 146, <tt><a href="sv_swell-pos-ADV.html">ADV</a></tt> 6, <tt><a href="sv_swell-pos-SCONJ.html">SCONJ</a></tt> 1), <em>ofta</em> (<tt><a href="sv_swell-pos-ADV.html">ADV</a></tt> 5, <tt><a href="sv_swell-pos-X.html">X</a></tt> 1)
 
 
 * <em>så</em>
@@ -44,9 +44,6 @@ The 10 most frequent ambiguous types:  <em>så</em> (<tt><a href="sv_swell-pos-A
   * <tt><a href="sv_swell-pos-ADV.html">ADV</a></tt> 10: <em>Jag heter Alex och har bott i Petersborg i <b>mer</b> än ett år .</em>
   * <tt><a href="sv_swell-pos-ADJ.html">ADJ</a></tt> 8: <em>Men det ångras jätte ofta för att personer vill har <b>mer</b> .</em>
   * <tt><a href="sv_swell-pos-PRON.html">PRON</a></tt> 1: <em>När jag precis hade började gymnastik träffade jag min första kärlek och funderade hur dum jag var den har tiden , Det tar <b>mer</b> om six månader från mig för att prata om mina känslor med Sara .</em>
-* <em>lite</em>
-  * <tt><a href="sv_swell-pos-ADV.html">ADV</a></tt> 7: <em>Jag bara spelar fotbol med kompisar eller min <b>lite</b> son om jag orkar .</em>
-  * <tt><a href="sv_swell-pos-ADJ.html">ADJ</a></tt> 1: <em>Vi har <b>lite</b> balkong med olika blomma ute .</em>
 * <em>när</em>
   * <tt><a href="sv_swell-pos-SCONJ.html">SCONJ</a></tt> 34: <em>Jag ska berätta om mina forsta intryck <b>när</b> jag kom till Sverige .</em>
   * <tt><a href="sv_swell-pos-ADV.html">ADV</a></tt> 6: <em>I situationen <b>när</b> man inte kan inte uttrycka sin stil kan man ofta hitta på några kreativa ideer .</em>
@@ -54,10 +51,13 @@ The 10 most frequent ambiguous types:  <em>så</em> (<tt><a href="sv_swell-pos-A
   * <tt><a href="sv_swell-pos-ADP.html">ADP</a></tt> 146: <em>10 månader däref$nt vi bestämde oss <b>för</b> att sluta se varandra .</em>
   * <tt><a href="sv_swell-pos-ADV.html">ADV</a></tt> 6: <em>Jag bodde i Mongoliet <b>för</b> , i Bagdad .</em>
   * <tt><a href="sv_swell-pos-SCONJ.html">SCONJ</a></tt> 1: <em>Men jag tycker att det är bra <b>för</b> vi kommer in i sämhellet snabbare och ni blir fortta självstandiga .</em>
+* <em>ofta</em>
+  * <tt><a href="sv_swell-pos-ADV.html">ADV</a></tt> 5: <em>Fotbollsplanen är <b>ofta</b> lika från utsida . gammlar och Tustar , men det är annat insida .</em>
+  * <tt><a href="sv_swell-pos-X.html">X</a></tt> 1: <em>Men det ångras jätte <b>ofta</b> för att personer vill har mer .</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.148352 (the average of all parts of speech is 1.401542).
+The form / lemma ratio of `ADV` is 1.142077 (the average of all parts of speech is 1.400119).
 
 The 1st highest number of forms (4) was observed with the lemma “lite”: <em>lite, litte, mindre, minst</em>.
 
@@ -65,7 +65,7 @@ The 2nd highest number of forms (4) was observed with the lemma “mycket”: <e
 
 The 3rd highest number of forms (4) was observed with the lemma “också”: <em>ackså, ocksä, också, ocskå</em>.
 
-`ADV` occurs with 5 features: <tt><a href="sv_swell-feat-Degree.html">Degree</a></tt> (164; 22% instances), <tt><a href="sv_swell-feat-Typo.html">Typo</a></tt> (35; 5% instances), <tt><a href="sv_swell-feat-ExtPos.html">ExtPos</a></tt> (14; 2% instances), <tt><a href="sv_swell-feat-Abbr.html">Abbr</a></tt> (5; 1% instances), <tt><a href="sv_swell-feat-Case.html">Case</a></tt> (1; 0% instances)
+`ADV` occurs with 5 features: <tt><a href="sv_swell-feat-Degree.html">Degree</a></tt> (165; 22% instances), <tt><a href="sv_swell-feat-Typo.html">Typo</a></tt> (35; 5% instances), <tt><a href="sv_swell-feat-ExtPos.html">ExtPos</a></tt> (14; 2% instances), <tt><a href="sv_swell-feat-Abbr.html">Abbr</a></tt> (5; 1% instances), <tt><a href="sv_swell-feat-Case.html">Case</a></tt> (1; 0% instances)
 
 `ADV` occurs with 8 feature-value pairs: `Abbr=Yes`, `Case=Nom`, `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `ExtPos=ADV`, `ExtPos=SCONJ`, `Typo=Yes`
 
@@ -76,11 +76,11 @@ Examples: <em>hur, så, där, också, här, bara, kanske, ut, även, därför</e
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 18 different relations: <tt><a href="sv_swell-dep-advmod.html">advmod</a></tt> (627; 83% instances), <tt><a href="sv_swell-dep-compound-prt.html">compound:prt</a></tt> (51; 7% instances), <tt><a href="sv_swell-dep-mark.html">mark</a></tt> (24; 3% instances), <tt><a href="sv_swell-dep-conj.html">conj</a></tt> (19; 3% instances), <tt><a href="sv_swell-dep-root.html">root</a></tt> (8; 1% instances), <tt><a href="sv_swell-dep-discourse.html">discourse</a></tt> (7; 1% instances), <tt><a href="sv_swell-dep-case.html">case</a></tt> (3; 0% instances), <tt><a href="sv_swell-dep-amod.html">amod</a></tt> (2; 0% instances), <tt><a href="sv_swell-dep-fixed.html">fixed</a></tt> (2; 0% instances), <tt><a href="sv_swell-dep-obj.html">obj</a></tt> (2; 0% instances), <tt><a href="sv_swell-dep-obl.html">obl</a></tt> (2; 0% instances), <tt><a href="sv_swell-dep-xcomp.html">xcomp</a></tt> (2; 0% instances), <tt><a href="sv_swell-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="sv_swell-dep-csubj.html">csubj</a></tt> (1; 0% instances), <tt><a href="sv_swell-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="sv_swell-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="sv_swell-dep-orphan.html">orphan</a></tt> (1; 0% instances), <tt><a href="sv_swell-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
+`ADV` nodes are attached to their parents using 18 different relations: <tt><a href="sv_swell-dep-advmod.html">advmod</a></tt> (627; 83% instances), <tt><a href="sv_swell-dep-compound-prt.html">compound:prt</a></tt> (51; 7% instances), <tt><a href="sv_swell-dep-mark.html">mark</a></tt> (24; 3% instances), <tt><a href="sv_swell-dep-conj.html">conj</a></tt> (19; 3% instances), <tt><a href="sv_swell-dep-root.html">root</a></tt> (8; 1% instances), <tt><a href="sv_swell-dep-discourse.html">discourse</a></tt> (7; 1% instances), <tt><a href="sv_swell-dep-amod.html">amod</a></tt> (3; 0% instances), <tt><a href="sv_swell-dep-case.html">case</a></tt> (3; 0% instances), <tt><a href="sv_swell-dep-fixed.html">fixed</a></tt> (2; 0% instances), <tt><a href="sv_swell-dep-obj.html">obj</a></tt> (2; 0% instances), <tt><a href="sv_swell-dep-obl.html">obl</a></tt> (2; 0% instances), <tt><a href="sv_swell-dep-xcomp.html">xcomp</a></tt> (2; 0% instances), <tt><a href="sv_swell-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="sv_swell-dep-csubj.html">csubj</a></tt> (1; 0% instances), <tt><a href="sv_swell-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="sv_swell-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="sv_swell-dep-orphan.html">orphan</a></tt> (1; 0% instances), <tt><a href="sv_swell-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
 
-Parents of `ADV` nodes belong to 10 different parts of speech: <tt><a href="sv_swell-pos-VERB.html">VERB</a></tt> (483; 64% instances), <tt><a href="sv_swell-pos-ADJ.html">ADJ</a></tt> (135; 18% instances), <tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt> (70; 9% instances), <tt><a href="sv_swell-pos-ADV.html">ADV</a></tt> (38; 5% instances), <tt><a href="sv_swell-pos-NUM.html">NUM</a></tt> (9; 1% instances),  (8; 1% instances), <tt><a href="sv_swell-pos-PRON.html">PRON</a></tt> (7; 1% instances), <tt><a href="sv_swell-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="sv_swell-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="sv_swell-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
+Parents of `ADV` nodes belong to 10 different parts of speech: <tt><a href="sv_swell-pos-VERB.html">VERB</a></tt> (483; 64% instances), <tt><a href="sv_swell-pos-ADJ.html">ADJ</a></tt> (135; 18% instances), <tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt> (71; 9% instances), <tt><a href="sv_swell-pos-ADV.html">ADV</a></tt> (38; 5% instances), <tt><a href="sv_swell-pos-NUM.html">NUM</a></tt> (9; 1% instances),  (8; 1% instances), <tt><a href="sv_swell-pos-PRON.html">PRON</a></tt> (7; 1% instances), <tt><a href="sv_swell-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="sv_swell-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="sv_swell-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
 
-661 (88%) `ADV` nodes are leaves.
+662 (88%) `ADV` nodes are leaves.
 
 69 (9%) `ADV` nodes have one child.
 

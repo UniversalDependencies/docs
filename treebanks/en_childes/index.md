@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.16 release
 The following people have contributed to making this treebank part of UD: Xiulin Yang, Zhuoxuan Ju, Lanni Bu, Zoey Liu, Nathan Schneider.
 
 Repository: [UD_English-CHILDES](https://github.com/UniversalDependencies/UD_English-CHILDES)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_childes218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_childes219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 
@@ -100,7 +100,7 @@ We acknowledge Ida Szubert, Omri Abend, Samuel Gibbon, Louis Mahon, Sharon Goldw
 
 
 <ul>
-<li>This corpus contains 48183 sentences, 289817 tokens and 302740 syntactic words.</li>
+<li>This corpus contains 48183 sentences, 289817 tokens and 302739 syntactic words.</li>
 </ul>
 
 <ul>
@@ -112,11 +112,11 @@ We acknowledge Ida Szubert, Omri Abend, Samuel Gibbon, Louis Mahon, Sharon Goldw
 </ul>
 
 <ul>
-<li>This corpus contains 21 types of words that contain both letters and punctuation. Examples: 's, n't, 're, 't, 'm, 'll, 've, 'd, o'clock, all_gone, dum-dum, my_goodness, night-night, cock-a-doodle-doo, ones', Peters', Sophies', Ups-a-daisy, cats', dark_time, it's</li>
+<li>This corpus contains 22 types of words that contain both letters and punctuation. Examples: 's, n't, 're, 't, 'm, 'll, 've, 'd, o'clock, all_gone, dum-dum, my_goodness, night-night, cock-a-doodle-doo, ones', Peters', Sophies', Ups-a-daisy, Who's, cats', dark_time, it's</li>
 </ul>
 
 <ul>
-<li>This corpus contains 12905 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>This corpus contains 12904 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
 <li>There are 425 types of multi-word tokens. Examples: don't, it's, that's, I'm, wanna, gonna, you're, what's, hafta, he's, didn't, can't, let's, I'll, there's, where's, they're, doesn't, we're, here's, she's, won't, isn't, we'll, who's, you've, aren't, haven't, needta, wasn't, you'll, I've, daddy's, what're, mommy's, dat's, one's, we've, gotta, sposta, baby's, hasta, Mummy's, I'd, useta, wouldn't, couldn't, it'll, you'd, where'd.</li>
 </ul>
 
@@ -237,7 +237,7 @@ We acknowledge Ida Szubert, Omri Abend, Samuel Gibbon, Louis Mahon, Sharon Goldw
           <li>ADV: inside, may</li>
           <li>INTJ: Uh, Mm, Ah, Wee, Whoo</li>
           <li>NOUN: Beep, Bok, Night, P, Woof, u</li>
-          <li>PRON: Who, it</li>
+          <li>PRON: Who's, it</li>
           <li>PROPN: pa, Arf, R, hm</li>
           <li>VERB: let</li>
         </ul>
@@ -288,7 +288,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-ADP(to) (4)</li>
       <li>VERB--NOUN-ADP(up) (1)</li>
       <li>VERB--NOUN-ADP(with) (4)</li>
-      <li>VERB--PRON (9380)</li>
+      <li>VERB--PRON (9381)</li>
       <li>VERB--PRON-ADP(about) (2)</li>
       <li>VERB--PRON-ADP(at) (3)</li>
       <li>VERB--PRON-ADP(for) (4)</li>

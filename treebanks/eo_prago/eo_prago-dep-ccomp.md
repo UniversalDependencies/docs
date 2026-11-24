@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-32 nodes (1%) are attached to their parents as `ccomp`.
+33 nodes (1%) are attached to their parents as `ccomp`.
 
-32 instances of `ccomp` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.9375.
+33 instances of `ccomp` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 8.78787878787879.
 
-The following 6 pairs of parts of speech are connected with `ccomp`: <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> (22; 69% instances), <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (6; 19% instances), <tt><a href="eo_prago-pos-AUX.html">AUX</a></tt>-<tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="eo_prago-pos-PRON.html">PRON</a></tt>-<tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-ADV.html">ADV</a></tt> (1; 3% instances).
+The following 7 pairs of parts of speech are connected with `ccomp`: <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> (22; 67% instances), <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (6; 18% instances), <tt><a href="eo_prago-pos-ADV.html">ADV</a></tt>-<tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="eo_prago-pos-AUX.html">AUX</a></tt>-<tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="eo_prago-pos-PRON.html">PRON</a></tt>-<tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-ADV.html">ADV</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 6 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 6	fgColor:white
 # visual-style 6 10 ccomp	color:blue
 1	Mi	mi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
-2	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	_
 3	Homarano	homarano	NOUN	_	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
 4	;	;	PUNCT	_	_	6	punct	_	_
 5	tio	tio	PRON	_	Case=Nom|Number=Sing|PronType=Dem	6	nsubj	_	_
@@ -72,96 +72,134 @@ The following 6 pairs of parts of speech are connected with `ccomp`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 27	bgColor:blue
-# visual-style 27	fgColor:white
-# visual-style 22	bgColor:blue
-# visual-style 22	fgColor:white
-# visual-style 22 27 ccomp	color:blue
-1	Kiam	kiam	SCONJ	_	_	9	mark	_	_
-2	la	la	DET	_	Definite=Def|PronType=Art	3	det	_	_
-3	nombro	nombro	NOUN	_	Case=Nom|Number=Sing	9	nsubj	_	_
-4	de	de	ADP	_	_	6	case	_	_
-5	la	la	DET	_	Definite=Def|PronType=Art	6	det	_	_
-6	Homaranoj	Homarano	NOUN	_	Case=Nom|Number=Plur	3	nmod	_	_
-7	estos	esti	AUX	_	Mood=Ind|Tense=Fut|VerbForm=Fin	9	cop	_	_
-8	sufiĉe	sufiĉe	ADV	_	_	9	advmod	_	_
-9	granda	granda	ADJ	_	_	13	advcl	_	SpaceAfter=No
-10	,	,	PUNCT	_	_	13	punct	_	_
-11	tiam	tiam	ADV	_	_	13	advmod	_	_
-12	estos	esti	AUX	_	Mood=Ind|Tense=Fut|VerbForm=Fin	13	aux:pass	_	_
-13	aranĝita	aranĝi	VERB	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
-14	la	la	DET	_	Definite=Def|PronType=Art	16	det	_	_
-15	unua	unua	ADJ	_	_	16	amod	_	_
-16	kongreso	kongreso	NOUN	_	Case=Nom|Number=Sing	13	nsubj:pass	_	_
-17	de	de	ADP	_	_	18	case	_	_
-18	Homaranoj	Homarano	NOUN	_	Case=Nom|Number=Plur	16	nmod	_	SpaceAfter=No
-19	,	,	PUNCT	_	_	22	punct	_	_
-20	kies	kies	PRON	_	Poss=Yes|PronType=Rel	21	nmod:poss	_	_
-21	taskoj	tasko	NOUN	_	Case=Nom|Number=Plur	22	nsubj	_	_
-22	estos	esti	AUX	_	Mood=Ind|Tense=Fut|VerbForm=Fin	16	acl:relcl	_	SpaceAfter=No
-23	:	:	PUNCT	_	_	27	punct	_	_
-24	1	1	NUM	_	NumType=Card	27	discourse	_	SpaceAfter=No
-25	)	)	PUNCT	_	_	24	punct	_	_
-26	detale	detale	ADV	_	_	27	advmod	_	_
-27	pridiskuti	pridiskuti	VERB	_	VerbForm=Inf	22	ccomp	_	_
-28	la	la	DET	_	Definite=Def|PronType=Art	30	det	_	_
-29	tutan	tuta	ADJ	_	Case=Acc|Degree=Pos|Number=Sing	30	amod	_	_
-30	enhavon	enhavo	NOUN	_	Case=Acc|Number=Sing	27	obj	_	_
-31	de	de	ADP	_	_	34	case	_	_
-32	la	la	DET	_	Definite=Def|PronType=Art	34	det	_	_
-33	«	«	PUNCT	_	_	34	punct	_	SpaceAfter=No
-34	Deklaracio	deklaracio	NOUN	_	Case=Nom|Number=Sing	30	nmod	_	_
-35	pri	pri	ADP	_	_	36	case	_	_
-36	Homaranismo	Homaranismo	NOUN	_	Case=Nom|Number=Sing	34	nmod	_	SpaceAfter=No
-37	»	»	PUNCT	_	_	34	punct	_	_
-38	kaj	kaj	CCONJ	_	_	45	cc	_	_
-39	per	per	ADP	_	_	42	case	_	_
-40	matura	matura	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	42	amod	_	_
-41	komuna	komuna	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	42	amod	_	_
-42	interkonsiliĝo	interkonsiliĝo	NOUN	_	Case=Nom|Number=Sing	45	obl	_	_
-43	kaj	kaj	CCONJ	_	_	44	cc	_	_
-44	interkonsento	interkonsento	NOUN	_	Case=Nom|Number=Sing	42	conj	_	_
-45	fari	fari	VERB	_	VerbForm=Inf	27	conj	_	_
-46	en	en	ADP	_	_	47	case	_	_
-47	ĝi	ĝi	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	45	nmod	_	_
-48	ĉiujn	ĉiu	DET	_	Case=Acc|Number=Plur|PronType=Tot	49	det	_	_
-49	ŝanĝojn	ŝanĝo	NOUN	_	Case=Acc|Number=Plur	45	obj	_	SpaceAfter=No
-50	,	,	PUNCT	_	_	51	punct	_	_
-51	elĵetojn	elĵeto	NOUN	_	Case=Acc|Number=Plur	49	conj	_	_
-52	aŭ	aŭ	CCONJ	_	_	53	cc	_	_
-53	aldonojn	aldono	NOUN	_	Case=Acc|Number=Plur	51	conj	_	SpaceAfter=No
-54	,	,	PUNCT	_	_	57	punct	_	_
-55	kiuj	kiu	PRON	_	Case=Nom|Number=Plur|PronType=Rel	57	nsubj	_	_
-56	eble	eble	ADV	_	_	57	advmod	_	_
-57	montriĝos	montriĝi	VERB	_	Mood=Ind|Tense=Fut|VerbForm=Fin	49	acl:relcl	_	_
-58	necesaj	necesa	ADJ	_	Case=Nom|Number=Plur	57	xcomp	_	SpaceAfter=No
-59	;	;	PUNCT	_	_	62	punct	_	_
-60	2	2	NUM	_	NumType=Card	62	discourse	_	SpaceAfter=No
-61	)	)	PUNCT	_	_	60	punct	_	_
-62	interkonsiliĝi	interkonsiliĝi	VERB	_	VerbForm=Inf	27	conj	_	_
-63	pri	pri	ADP	_	_	64	case	_	_
-64	tio	tio	PRON	_	Case=Nom|Number=Sing|PronType=Dem	62	obl	_	SpaceAfter=No
-65	,	,	PUNCT	_	_	71	punct	_	_
-66	kiamaniere	kiamaniere	ADV	_	_	71	advmod	_	_
-67	oni	oni	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	71	nsubj	_	_
-68	povas	povi	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	71	aux	_	_
-69	plej	plej	ADV	_	_	70	advmod	_	_
-70	bone	bone	ADV	_	_	71	advmod	_	_
-71	doni	doni	VERB	_	VerbForm=Inf	64	acl:relcl	_	_
-72	al	al	ADP	_	_	74	case	_	_
-73	la	la	DET	_	Definite=Def|PronType=Art	74	det	_	_
-74	Homaranismo	Homaranismo	NOUN	_	Case=Nom|Number=Sing	71	obl	_	_
-75	formon	formo	NOUN	_	Case=Acc|Number=Sing	71	obj	_	_
-76	aktivan	aktiva	ADJ	_	Case=Acc|Number=Sing	75	amod	_	_
-77	kaj	kaj	CCONJ	_	_	79	cc	_	_
-78	reale	reale	ADV	_	_	79	advmod	_	_
-79	enkonduki	enkonduki	VERB	_	VerbForm=Inf	71	conj	_	_
-80	ĝin	ĝi	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	79	obj	_	_
-81	en	en	ADP	_	_	83	case	_	_
-82	la	la	DET	_	Definite=Def|PronType=Art	83	det	_	_
-83	vivon	vivo	NOUN	_	Case=Acc|Number=Sing	79	obl	_	_
-84	praktikan	praktika	ADJ	_	Case=Acc|Number=Sing	83	amod	_	SpaceAfter=No
-85	.	.	PUNCT	_	_	13	punct	_	_
+# visual-style 88	bgColor:blue
+# visual-style 88	fgColor:white
+# visual-style 84	bgColor:blue
+# visual-style 84	fgColor:white
+# visual-style 84 88 ccomp	color:blue
+1	2	2	NUM	_	_	15	nummod	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	15	punct	_	_
+3	Ĉar	ĉar	SCONJ	_	_	15	mark	_	_
+4	en	en	ADP	_	_	7	case	_	_
+5	la	la	DET	_	Definite=Def|PronType=Art	7	det	_	_
+6	nuna	nuna	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	7	amod	_	_
+7	tempo	tempo	NOUN	_	Case=Nom|Number=Sing	15	nmod	_	_
+8	neniu	neniu	PRON	_	Case=Nom|Number=Sing|PronType=Neg	9	det	_	_
+9	esploranto	esploranto	NOUN	_	Case=Nom|Number=Sing	15	nsubj	_	_
+10	en	en	ADP	_	_	13	case	_	_
+11	la	la	DET	_	Definite=Def|PronType=Art	13	det	_	_
+12	tuta	tuta	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	13	amod	_	_
+13	mondo	mondo	NOUN	_	Case=Nom|Number=Sing	9	nmod	_	_
+14	jam	jam	ADV	_	_	13	advmod	_	_
+15	dubas	dubi	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	107	advcl	_	_
+16	pri	pri	ADP	_	_	17	case	_	_
+17	tio	tio	PRON	_	Case=Nom|Number=Sing|PronType=Dem	15	obl	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	25	punct	_	_
+19	ke	ke	SCONJ	_	_	25	mark	_	_
+20	lingvo	lingvo	NOUN	_	Case=Nom|Number=Sing	25	nsubj	_	_
+21	internacia	internacia	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	20	amod	_	_
+22	povas	povi	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	25	aux	_	_
+23	esti	esti	AUX	_	VerbForm=Inf	25	aux	_	_
+24	nur	nur	ADV	_	_	25	advmod	_	_
+25	lingvo	lingvo	NOUN	_	Case=Nom|Number=Sing	17	acl:relcl	_	_
+26	arta	arta	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	25	amod	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	46	punct	_	_
+28	kaj	kaj	CCONJ	_	_	46	cc	_	_
+29	ĉar	ĉar	SCONJ	_	_	46	mark	_	_
+30	el	el	ADP	_	_	33	case	_	_
+31	ĉiuj	ĉiuj	PRON	_	Case=Nom|Number=Plur|PronType=Tot	33	nmod	_	_
+32	multegaj	multega	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	33	amod	_	_
+33	provoj	provo	NOUN	_	Case=Nom|Number=Plur	46	obl	_	SpaceAfter=No
+34	,	,	PUNCT	_	_	35	punct	_	_
+35	faritaj	fari	VERB	_	Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	33	amod	_	_
+36	en	en	ADP	_	_	38	case	_	_
+37	la	la	DET	_	Definite=Def|PronType=Art	38	det	_	_
+38	daŭro	daŭro	NOUN	_	Case=Nom|Number=Sing	35	nmod	_	_
+39	de	de	ADP	_	_	43	case	_	_
+40	la	la	DET	_	Definite=Def|PronType=Art	43	det	_	_
+41	lastaj	lasta	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	43	amod	_	_
+42	du	du	NUM	_	_	43	nummod	_	_
+43	centjaroj	centjaro	NOUN	_	Case=Nom|Number=Plur	38	nmod	_	SpaceAfter=No
+44	,	,	PUNCT	_	_	46	punct	_	_
+45	ĉiuj	ĉiuj	PRON	_	Case=Nom|Number=Plur|PronType=Tot	46	nsubj	_	_
+46	prezentas	prezenti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	15	conj	_	_
+47	nur	nur	ADV	_	_	46	advmod	_	_
+48	teoriajn	teoria	ADJ	_	Case=Acc|Degree=Pos|Number=Plur	49	amod	_	_
+49	projektojn	projekto	NOUN	_	Case=Acc|Number=Plur	46	obj	_	SpaceAfter=No
+50	,	,	PUNCT	_	_	67	punct	_	_
+51	kaj	kaj	CCONJ	_	_	67	cc	_	_
+52	lingvo	lingvo	NOUN	_	Case=Nom|Number=Sing	67	nsubj	_	_
+53	efektive	efektive	ADV	_	_	54	advmod	_	_
+54	finita	fini	VERB	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	52	amod	_	SpaceAfter=No
+55	,	,	PUNCT	_	_	57	punct	_	_
+56	ĉiuflanke	ĉiuflanke	ADV	_	_	57	advmod	_	_
+57	elprovita	elprovi	VERB	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	54	conj	_	SpaceAfter=No
+58	,	,	PUNCT	_	_	60	punct	_	_
+59	perfekte	perfekte	ADV	_	_	60	advmod	_	_
+60	vivipova	vivipova	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	57	conj	_	_
+61	kaj	kaj	CCONJ	_	_	66	cc	_	_
+62	en	en	ADP	_	_	64	case	_	_
+63	ĉiuj	ĉiuj	PRON	_	Case=Nom|Number=Plur|PronType=Tot	64	nmod	_	_
+64	rilatoj	rilato	NOUN	_	Case=Nom|Number=Plur	66	obl	_	_
+65	pleje	pleje	ADV	_	_	66	advmod	_	_
+66	taŭga	taŭga	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	60	conj	_	_
+67	montriĝis	montriĝi	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	46	conj	_	_
+68	nur	nur	ADV	_	_	67	advmod	_	_
+69	unu	unu	NUM	_	_	71	nummod	_	_
+70	sola	sola	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	71	amod	_	_
+71	lingvo	lingvo	NOUN	_	Case=Nom|Number=Sing	67	xcomp	_	_
+72	Esperanto	Esperanto	NOUN	_	Case=Nom|Number=Sing	71	appos	_	SpaceAfter=No
+73	,	,	PUNCT	_	_	107	punct	_	_
+74	tial	tial	ADV	_	_	107	advmod	_	_
+75	la	la	DET	_	Definite=Def|PronType=Art	76	det	_	_
+76	amikoj	amiko	NOUN	_	Case=Nom|Number=Plur	107	nsubj	_	_
+77	de	de	ADP	_	_	79	case	_	_
+78	la	la	DET	_	Definite=Def|PronType=Art	79	det	_	_
+79	ideo	ideo	NOUN	_	Case=Nom|Number=Sing	76	nmod	_	_
+80	de	de	ADP	_	_	81	case	_	_
+81	lingvo	lingvo	NOUN	_	Case=Nom|Number=Sing	79	nmod	_	_
+82	internacia	internacia	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	81	amod	_	SpaceAfter=No
+83	,	,	PUNCT	_	_	84	punct	_	_
+84	konsciante	konsciante	ADV	_	_	107	advmod	_	_
+85	ke	ke	SCONJ	_	_	88	mark	_	_
+86	teoria	teoria	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	87	amod	_	_
+87	disputado	disputado	NOUN	_	Case=Nom|Number=Sing	88	nsubj	_	_
+88	kondukos	konduki	VERB	_	Mood=Ind|Tense=Fut|VerbForm=Fin	84	ccomp	_	_
+89	al	al	ADP	_	_	90	case	_	_
+90	nenio	nenio	PRON	_	Case=Nom|Number=Sing|PronType=Neg	88	obl	_	_
+91	kaj	kaj	CCONJ	_	_	97	cc	_	_
+92	ke	ke	SCONJ	_	_	97	mark	_	_
+93	la	la	DET	_	Definite=Def|PronType=Art	94	det	_	_
+94	celo	celo	NOUN	_	Case=Nom|Number=Sing	97	nsubj	_	_
+95	povas	povi	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	97	aux	_	_
+96	esti	esti	AUX	_	VerbForm=Inf	97	aux	_	_
+97	atingata	atingi	VERB	_	Case=Nom|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	88	conj	_	_
+98	nur	nur	ADV	_	_	97	advmod	_	_
+99	per	per	ADP	_	_	100	case	_	_
+100	laborado	laborado	NOUN	_	Case=Nom|Number=Sing	97	obl	_	_
+101	praktika	praktika	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	100	amod	_	SpaceAfter=No
+102	,	,	PUNCT	_	_	103	punct	_	_
+103	jam	jam	ADV	_	_	107	advmod	_	_
+104	de	de	ADP	_	_	105	case	_	_
+105	longe	longe	ADV	_	_	103	obl	_	_
+106	ĉiuj	ĉiuj	PRON	_	Case=Nom|Number=Plur|PronType=Tot	76	appos	_	_
+107	grupiĝis	grupiĝi	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+108	ĉirkaŭ	ĉirkaŭ	ADV	_	_	107	advmod	_	_
+109	la	la	DET	_	Definite=Def|PronType=Art	111	det	_	_
+110	sola	sola	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	111	amod	_	_
+111	lingvo	lingvo	NOUN	_	Case=Nom|Number=Sing	107	obl	_	_
+112	Esperanto	Esperanto	NOUN	_	Case=Nom|Number=Sing	111	appos	_	_
+113	kaj	kaj	CCONJ	_	_	114	cc	_	_
+114	laboras	labori	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	107	conj	_	_
+115	por	por	ADP	_	_	117	case	_	_
+116	ĝia	ĝia	PRON	_	Case=Nom|Gender=Neut|Gender[psor]=Neut|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Poss=Yes|PronType=Prs	117	nmod:poss	_	_
+117	disvastigado	disvastigado	NOUN	_	Case=Nom|Number=Sing	114	obl	_	_
+118	kaj	kaj	CCONJ	_	_	119	cc	_	_
+119	riĉigado	riĉigado	NOUN	_	Case=Nom|Number=Sing	117	conj	_	_
+120	de	de	ADP	_	_	122	case	_	_
+121	ĝia	ĝia	PRON	_	Case=Nom|Gender=Neut|Gender[psor]=Neut|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Poss=Yes|PronType=Prs	122	nmod:poss	_	_
+122	literaturo	literaturo	NOUN	_	Case=Nom|Number=Sing	117	nmod	_	SpaceAfter=No
+123	.	.	PUNCT	_	_	107	punct	_	_
 
 ~~~
 

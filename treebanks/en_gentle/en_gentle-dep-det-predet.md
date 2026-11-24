@@ -26,7 +26,7 @@ The following 1 pairs of parts of speech are connected with `det:predet`: <tt><a
 2	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	Entity=(133-object-new-nnnnn-cf2-2-sgl(1-animal-giv:act-sssss-cf1*-1-ana)
 3	eyes	eye	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj	Entity=133)|MSeg=eye-s
 4	have	have	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-5	all	all	DET	RB	PronType=Ind	7	det:predet	7:det:predet	Entity=(134-abstract-new-nnnnn-cf3-3-sgl
+5	all	all	DET	PDT	PronType=Ind	7	det:predet	7:det:predet	Entity=(134-abstract-new-nnnnn-cf3-3-sgl
 6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
 7	seeming	seeming	NOUN	NN	Number=Sing	4	obj	4:obj	MSeg=seem-ing
 8	of	of	ADP	IN	_	10	case	10:case	_

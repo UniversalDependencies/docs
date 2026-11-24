@@ -57,7 +57,7 @@ The most frequent other feature values with which `PRON` and `NumType` co-occurr
 `PRON` tokens may have the following values of `NumType`:
 
 * `Card` (5; 100% of non-empty `NumType`): <em>poco, Cuántos, poca, pocas</em>
-* `EMPTY` (899): <em>se, lo, yo, que, eso, le, te, me, cómo, qué</em>
+* `EMPTY` (901): <em>se, lo, yo, que, eso, le, te, me, cómo, qué</em>
 
 ## Relations with Agreement in `NumType`
 

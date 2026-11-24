@@ -22,17 +22,17 @@ The following 13 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 8 det	color:blue
-1	make	make	AUX	_	Mood=Opt	5	aux	_	AlignBegin=35610|AlignEnd=35840|Gloss=SBJV
-2	me	me	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	dislocated	_	AlignBegin=35840|AlignEnd=35960|Gloss=NOM.SG.1
-3	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	AlignBegin=35960|AlignEnd=36120|Gloss=NOM.SG.1
-4	con	con	AUX	_	Aspect=Cons	5	aux	_	AlignBegin=36120|AlignEnd=36270|Gloss=CONS
-5	help	help	VERB	_	_	0	root	_	AlignBegin=36270|AlignEnd=36500|Gloss=help
-6	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	5	obj	_	AlignBegin=36500|AlignEnd=36640|Gloss=ACC.SG.3
-7	for	for	ADP	_	_	9	case	_	AlignBegin=36640|AlignEnd=36800|Gloss=for
-8	some	some	DET	_	_	9	det	_	AlignBegin=36800|AlignEnd=37069|Gloss=some
-9	times	time	NOUN	_	Number=Plur	5	obl:mod	_	AlignBegin=37069|AlignEnd=37350|Gloss=time.PL
-10	first	first	ADV	_	_	5	advmod	_	AlignBegin=37350|AlignEnd=37538|Gloss=first
-11	//	//	PUNCT	_	_	5	punct	_	AlignBegin=37538|AlignEnd=37538|Gloss=PUNCT
+1	make	make	AUX	_	Mood=Opt	5	aux	_	Gloss=SBJV|WordAlignmentBegin=35610|WordAlignmentEnd=35840
+2	me	me	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	dislocated	_	Gloss=NOM.SG.1|WordAlignmentBegin=35840|WordAlignmentEnd=35960
+3	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Gloss=NOM.SG.1|WordAlignmentBegin=35960|WordAlignmentEnd=36120
+4	con	con	AUX	_	Aspect=Cons	5	aux	_	Gloss=CONS|WordAlignmentBegin=36120|WordAlignmentEnd=36270
+5	help	help	VERB	_	_	0	root	_	Gloss=help|WordAlignmentBegin=36270|WordAlignmentEnd=36500
+6	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	5	obj	_	Gloss=ACC.SG.3|WordAlignmentBegin=36500|WordAlignmentEnd=36640
+7	for	for	ADP	_	_	9	case	_	Gloss=for|WordAlignmentBegin=36640|WordAlignmentEnd=36800
+8	some	some	DET	_	_	9	det	_	Gloss=some|WordAlignmentBegin=36800|WordAlignmentEnd=37069
+9	times	time	NOUN	_	Number=Plur	5	obl:mod	_	Gloss=time.PL|WordAlignmentBegin=37069|WordAlignmentEnd=37350
+10	first	first	ADV	_	_	5	advmod	_	Gloss=first|WordAlignmentBegin=37350|WordAlignmentEnd=37538
+11	//	//	PUNCT	_	_	5	punct	_	Gloss=PUNCT|WordAlignmentBegin=37538|WordAlignmentEnd=37538
 
 ~~~
 
@@ -43,21 +43,21 @@ The following 13 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 14	bgColor:blue
 # visual-style 14	fgColor:white
 # visual-style 14 13 det	color:blue
-1	#	#	PUNCT	_	_	12	punct	_	AlignBegin=473230|AlignEnd=473658|Gloss=PUNCT
-2	after	after	ADP	_	_	3	case	_	AlignBegin=473658|AlignEnd=473964|Gloss=after
-3	register	register	NOUN	_	_	6	obl:mod	_	AlignBegin=473964|AlignEnd=474464|Gloss=register
-4	<	<	PUNCT	_	_	3	punct	_	AlignBegin=474464|AlignEnd=474464|Gloss=PUNCT
-5	{	{	PUNCT	_	_	6	punct	_	AlignBegin=474434|AlignEnd=474464|Gloss=PUNCT
-6	con	con	AUX	_	Aspect=Cons	12	reparandum	_	AlignBegin=474464|AlignEnd=474933|Gloss=CONS
-7	||	||	PUNCT	_	_	6	punct	_	AlignBegin=474933|AlignEnd=474933|Gloss=PUNCT
-8	#	#	PUNCT	_	_	6	punct	_	AlignBegin=474933|AlignEnd=475505|Gloss=PUNCT
-9	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	AlignBegin=475505|AlignEnd=475580|Gloss=NOM.SG.1
-10	con	con	AUX	_	Aspect=Cons	12	aux	_	AlignBegin=475580|AlignEnd=475760|Gloss=CONS
-11	}	}	PUNCT	_	_	12	punct	_	AlignBegin=475760|AlignEnd=475760|Gloss=PUNCT
-12	write	write	VERB	_	_	0	root	_	AlignBegin=475760|AlignEnd=475990|Gloss=write
-13	di	di	DET	_	Definite=Def|PronType=Art	14	det	_	AlignBegin=475990|AlignEnd=476120|Gloss=DEF.ART
-14	JAMB	JAMB	PROPN	_	_	12	obj	_	AlignBegin=476120|AlignEnd=476367|Gloss=JAMB
-15	//	//	PUNCT	_	_	12	punct	_	AlignBegin=476367|AlignEnd=476367|Gloss=PUNCT
+1	#	#	PUNCT	_	_	12	punct	_	Gloss=PUNCT|WordAlignmentBegin=473230|WordAlignmentEnd=473658
+2	after	after	ADP	_	_	3	case	_	Gloss=after|WordAlignmentBegin=473658|WordAlignmentEnd=473964
+3	register	register	NOUN	_	_	6	obl:mod	_	Gloss=register|WordAlignmentBegin=473964|WordAlignmentEnd=474464
+4	<	<	PUNCT	_	_	3	punct	_	Gloss=PUNCT|WordAlignmentBegin=474464|WordAlignmentEnd=474464
+5	{	{	PUNCT	_	_	6	punct	_	Gloss=PUNCT|WordAlignmentBegin=474434|WordAlignmentEnd=474464
+6	con	con	AUX	_	Aspect=Cons	12	reparandum	_	Gloss=CONS|WordAlignmentBegin=474464|WordAlignmentEnd=474933
+7	||	||	PUNCT	_	_	6	punct	_	Gloss=PUNCT|WordAlignmentBegin=474933|WordAlignmentEnd=474933
+8	#	#	PUNCT	_	_	6	punct	_	Gloss=PUNCT|WordAlignmentBegin=474933|WordAlignmentEnd=475505
+9	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	Gloss=NOM.SG.1|WordAlignmentBegin=475505|WordAlignmentEnd=475580
+10	con	con	AUX	_	Aspect=Cons	12	aux	_	Gloss=CONS|WordAlignmentBegin=475580|WordAlignmentEnd=475760
+11	}	}	PUNCT	_	_	12	punct	_	Gloss=PUNCT|WordAlignmentBegin=475760|WordAlignmentEnd=475760
+12	write	write	VERB	_	_	0	root	_	Gloss=write|WordAlignmentBegin=475760|WordAlignmentEnd=475990
+13	di	di	DET	_	Definite=Def|PronType=Art	14	det	_	Gloss=DEF.ART|WordAlignmentBegin=475990|WordAlignmentEnd=476120
+14	JAMB	JAMB	PROPN	_	_	12	obj	_	Gloss=JAMB|WordAlignmentBegin=476120|WordAlignmentEnd=476367
+15	//	//	PUNCT	_	_	12	punct	_	Gloss=PUNCT|WordAlignmentBegin=476367|WordAlignmentEnd=476367
 
 ~~~
 
@@ -68,17 +68,17 @@ The following 13 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 det	color:blue
-1	#	#	PUNCT	_	_	3	punct	_	AlignBegin=286620|AlignEnd=287220|Gloss=PUNCT
-2	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	AlignBegin=287220|AlignEnd=287280|Gloss=NOM.SG.1
-3	say	say	VERB	_	_	0	root	_	AlignBegin=287280|AlignEnd=287400|Gloss=say
-4	[	[	PUNCT	_	_	6	punct	_	AlignBegin=287400|AlignEnd=287400|Gloss=PUNCT
-5	which	which	DET	_	PronType=Int	6	det	_	AlignBegin=287400|AlignEnd=287540|Gloss=which
-6	kind	kind	ADJ	_	_	3	parataxis	_	AlignBegin=287540|AlignEnd=287830|Gloss=kind
-7	dis	dis	DET	_	Number=Sing|PronType=Dem	8	det	_	AlignBegin=287830|AlignEnd=287970|Gloss=SG.DEM
-8	ting	ting	NOUN	_	_	9	nsubj	_	AlignBegin=287970|AlignEnd=288080|Gloss=thing
-9	be	be	VERB	_	PartType=Cop	6	advcl:cleft	_	AlignBegin=288080|AlignEnd=288253|Gloss=be
-10	?//]	?//]	PUNCT	_	_	6	punct	_	AlignBegin=288253|AlignEnd=288253|Gloss=PUNCT
-11	//	//	PUNCT	_	_	3	punct	_	AlignBegin=288223|AlignEnd=288253|Gloss=PUNCT
+1	#	#	PUNCT	_	_	3	punct	_	Gloss=PUNCT|WordAlignmentBegin=286620|WordAlignmentEnd=287220
+2	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=NOM.SG.1|WordAlignmentBegin=287220|WordAlignmentEnd=287280
+3	say	say	VERB	_	_	0	root	_	Gloss=say|WordAlignmentBegin=287280|WordAlignmentEnd=287400
+4	[	[	PUNCT	_	_	6	punct	_	Gloss=PUNCT|WordAlignmentBegin=287400|WordAlignmentEnd=287400
+5	which	which	DET	_	PronType=Int	6	det	_	Gloss=which|WordAlignmentBegin=287400|WordAlignmentEnd=287540
+6	kind	kind	ADJ	_	_	3	parataxis	_	Gloss=kind|WordAlignmentBegin=287540|WordAlignmentEnd=287830
+7	dis	dis	DET	_	Number=Sing|PronType=Dem	8	det	_	Gloss=SG.DEM|WordAlignmentBegin=287830|WordAlignmentEnd=287970
+8	ting	ting	NOUN	_	_	9	nsubj	_	Gloss=thing|WordAlignmentBegin=287970|WordAlignmentEnd=288080
+9	be	be	VERB	_	PartType=Cop	6	advcl:cleft	_	Gloss=be|WordAlignmentBegin=288080|WordAlignmentEnd=288253
+10	?//]	?//]	PUNCT	_	_	6	punct	_	Gloss=PUNCT|WordAlignmentBegin=288253|WordAlignmentEnd=288253
+11	//	//	PUNCT	_	_	3	punct	_	Gloss=PUNCT|WordAlignmentBegin=288223|WordAlignmentEnd=288253
 
 ~~~
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1716 nodes (1%) are attached to their parents as `xcomp`.
+2309 nodes (1%) are attached to their parents as `xcomp`.
 
-1701 instances of `xcomp` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.17365967365967.
+2286 instances of `xcomp` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.17756604590732.
 
-The following 19 pairs of parts of speech are connected with `xcomp`: <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (1322; 77% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (133; 8% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt> (78; 5% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (57; 3% instances), <tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (56; 3% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (40; 2% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (6; 0% instances), <tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 21 pairs of parts of speech are connected with `xcomp`: <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (1793; 78% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (150; 6% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (107; 5% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt> (92; 4% instances), <tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (77; 3% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (49; 2% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (6; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -59,25 +59,16 @@ The following 19 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 8 xcomp	color:blue
-1	«	«	PUNCT	PONpga	_	5	punct	_	XmlId=w_42_08362
-2	Mon	mon1	DET	DETpos	Poss=Yes	3	det	_	XmlId=w_42_08363
-3	amy	ami	NOUN	NOMcom	_	5	vocative	_	SpaceAfter=No|XmlId=w_42_08364
-4	,	,	PUNCT	PONfbl	_	5	punct	_	XmlId=w_42_08365
-5	dictes	dire1	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_42_08366
-6	luy	lui	PRON	PROper	PronType=Prs	5	iobj	_	XmlId=w_42_08367
-7	que	que	SCONJ	CONsub	_	12	mark	_	XmlId=w_42_08368
-8	Jehan	Jean	PROPN	NOMpro	_	12	xcomp	_	XmlId=w_42_08369
-9	de	de	ADP	PRE	_	10	case	_	XmlId=w_42_08370
-10	Paris	Paris	PROPN	NOMpro	_	8	nmod	_	XmlId=w_42_08371
-11	suis	être	AUX	VERcjg	VerbForm=Fin	12	aux:pass	_	XmlId=w_42_08372
-12	appellé	appeler	VERB	VERppe	Tense=Past|VerbForm=Part	5	ccomp	_	SpaceAfter=No|XmlId=w_42_08373
-13	.	.	PUNCT	PONfrt	_	5	punct	_	XmlId=w_42_08374
-14	»	»	PUNCT	PONpdr	_	5	punct	_	XmlId=w_42_08375
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 5 xcomp	color:blue
+1	et	et	CCONJ	CONcoo	_	2	cc:nc	_	XmlId=w_32_14300
+2	declaira	déclarer	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_32_14301
+3	les	le	DET	DETdef	Definite=Def|PronType=Art	4	det	_	XmlId=w_32_14302
+4	filles	fille1	NOUN	NOMcom	_	2	obj	_	XmlId=w_32_14303
+5	bastardes	bâtard	ADJ	ADJqua	_	2	xcomp	_	XmlId=w_32_14304
 
 ~~~
 

@@ -44,7 +44,7 @@ The following 8 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 4 det	color:blue
-1	هل	هَل	AUX	F---------	_	2	aux	2:aux	Vform=هَل|Gloss=whether|Root=hal|Translit=hal|LTranslit=hal
+1	هل	هَل	PART	F---------	_	2	discourse	2:discourse	Vform=هَل|Gloss=whether|Root=hal|Translit=hal|LTranslit=hal
 2	هناك	هُنَاكَ	ADV	D---------	_	0	root	0:root	Vform=هُنَاكَ|Gloss=there|Root=hunA|Translit=hunāka|LTranslit=hunāka
 3	في	فِي	ADP	P---------	AdpType=Prep	6	case	6:case	Vform=فِي|Gloss=in|Root=fI|Translit=fī|LTranslit=fī
 4	هذه	هٰذَا	DET	SD----FS2-	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	6	det	6:det	Vform=هٰذِهِ|Gloss=this,these|Root=h|Translit=hāḏihi|LTranslit=hāḏā

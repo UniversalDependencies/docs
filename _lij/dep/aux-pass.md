@@ -19,3 +19,4 @@ The `aux:pass` relation links an auxiliary marking the passive voice to the main
 ~~~
 
 In an auxiliary chain, only the auxiliary marking the passive voice takes [aux:pass](); preceding tense, aspect or modal auxiliaries take plain [aux](). When the participle is an adjectival predicate, _ëse_ takes [cop]() instead.
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:23 CET -->

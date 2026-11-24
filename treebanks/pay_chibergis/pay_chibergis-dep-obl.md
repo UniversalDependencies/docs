@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 4 language-specific subtypes of `obl`: <tt><a href="pay_chibergis-dep-obl-arg.html">obl:arg</a></tt>, <tt><a href="pay_chibergis-dep-obl-lmod.html">obl:lmod</a></tt>, <tt><a href="pay_chibergis-dep-obl-mod.html">obl:mod</a></tt>, <tt><a href="pay_chibergis-dep-obl-tmod.html">obl:tmod</a></tt>.
 
-39 nodes (1%) are attached to their parents as `obl`.
+40 nodes (1%) are attached to their parents as `obl`.
 
-25 instances of `obl` (64%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.17948717948718.
+26 instances of `obl` (65%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.2.
 
-The following 8 pairs of parts of speech are connected with `obl`: <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (13; 33% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-X.html">X</a></tt> (11; 28% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (10; 26% instances), <tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-X.html">X</a></tt> (1; 3% instances), <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> (1; 3% instances), <tt><a href="pay_chibergis-pos-X.html">X</a></tt>-<tt><a href="pay_chibergis-pos-X.html">X</a></tt> (1; 3% instances).
+The following 8 pairs of parts of speech are connected with `obl`: <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (13; 33% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (11; 28% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-X.html">X</a></tt> (11; 28% instances), <tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-X.html">X</a></tt> (1; 3% instances), <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> (1; 3% instances), <tt><a href="pay_chibergis-pos-X.html">X</a></tt>-<tt><a href="pay_chibergis-pos-X.html">X</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -34,21 +34,6 @@ The following 8 pairs of parts of speech are connected with `obl`: <tt><a href="
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 1 obl	color:blue
-1	###	_	X	_	_	3	obl	_	AlignBegin=179848|AlignEnd=180509|MSeg=###|nWord=1
-2	tʃas	tʃas	ADV	_	AdvType=Ideoph	3	advmod	_	AlignBegin=180509|AlignEnd=181170|Gloss=IDEO|MGloss=IDEO|MSeg=tʃas|nWord=2|RX=[IDEO]|TokenType=Root
-3	kaiwa	ka	VERB	_	_	0	root	_	AlignBegin=181170|AlignEnd=181831|Gloss=make|MGloss=O3SG- make -S3SG -PFV|MSeg=Ø-ka-i-wa|nWord=3|RX=[VT]|TokenType=Root|wordform=Ø-ka-i-wa
-4	=ma	_	SCONJ	_	_	3	mark	_	AlignBegin=181831|AlignEnd=182492|Gloss==when|MGloss==when|MSeg==ma|nWord=4|RX=[PRT]|TokenType=Clit
-5	.	_	PUNCT	_	_	3	punct	_	AlignBegin=182492|AlignEnd=183151|Gloss=.|MGloss=.|MSeg=.|nWord=5
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 1 obl	color:blue
@@ -57,6 +42,21 @@ The following 8 pairs of parts of speech are connected with `obl`: <tt><a href="
 3	ã	ã	PRON	PRO	_	5	obl:lmod	_	AlignBegin=259445|AlignEnd=259797|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=2|RX=[PRO]|TokenType=Root|Word=ã
 4	=yã	=yã	ADP	POST	_	3	case	_	AlignBegin=259797|AlignEnd=260149|Gloss==LOC|MGloss==LOC|MSeg==yã|nWord=3|RX=[POST]|TokenType=Clit|Word=yã
 5	tartʃuiʃkerri	tʃuiʃk	VERB	V:ANY	Voice=Appl	0	root	_	AlignBegin=260149|AlignEnd=260500|Gloss=learn|MGloss=O1- APPL.P- learn -S3PL -PST|MSeg=ta-r-tʃuiʃk-er-ri|nWord=4|RX=[V]|TokenType=Root|Word=tarʃuiʃkri|wordform=ta-r-tʃuiʃk-er-ri
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 obl	color:blue
+1	###	_	X	_	_	3	obl	_	AlignBegin=179848|AlignEnd=180509|MSeg=###|nWord=1
+2	tʃas	tʃas	ADV	_	AdvType=Ideoph	3	advmod	_	AlignBegin=180509|AlignEnd=181170|Gloss=IDEO|MGloss=IDEO|MSeg=tʃas|nWord=2|RX=[IDEO]|TokenType=Root
+3	kaiwa	ka	VERB	_	_	0	root	_	AlignBegin=181170|AlignEnd=181831|Gloss=make|MGloss=O3SG- make -S3SG -PFV|MSeg=Ø-ka-i-wa|nWord=3|RX=[VT]|TokenType=Root|wordform=Ø-ka-i-wa
+4	=ma	_	SCONJ	_	_	3	mark	_	AlignBegin=181831|AlignEnd=182492|Gloss==when|MGloss==when|MSeg==ma|nWord=4|RX=[PRT]|TokenType=Clit
+5	.	_	PUNCT	_	_	3	punct	_	AlignBegin=182492|AlignEnd=183151|Gloss=.|MGloss=.|MSeg=.|nWord=5
 
 ~~~
 

@@ -35,4 +35,4 @@ punct(tehdä-3, .-5)
 
 FinnTreeBank (FI_FTB) does not use the `aux:pass` relation,
 but uses [`aux`]() instead.
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:42 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:23 CET -->

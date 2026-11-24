@@ -29,4 +29,4 @@ Common nouns and names that are known to refer to masculine beings have value 'm
 - _brād_ "brother" 
 - _srōš_ (divine being).
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:54 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:43 CET -->

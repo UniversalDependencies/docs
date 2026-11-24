@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="da_ddt-dep-obl.html">obl</a></tt>.
 There are also 1 other language-specific subtypes of `obl`: <tt><a href="da_ddt-dep-obl-tmod.html">obl:tmod</a></tt>.
 
-50 nodes (0%) are attached to their parents as `obl:lmod`.
+47 nodes (0%) are attached to their parents as `obl:lmod`.
 
-48 instances of `obl:lmod` (96%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.58.
+45 instances of `obl:lmod` (96%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.51063829787234.
 
-The following 6 pairs of parts of speech are connected with `obl:lmod`: <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt> (29; 58% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-ADP.html">ADP</a></tt> (15; 30% instances), <tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="da_ddt-pos-VERB.html">VERB</a></tt> (3; 6% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-X.html">X</a></tt> (1; 2% instances).
+The following 5 pairs of parts of speech are connected with `obl:lmod`: <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt> (29; 62% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-ADP.html">ADP</a></tt> (15; 32% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-X.html">X</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -66,24 +66,17 @@ The following 6 pairs of parts of speech are connected with `obl:lmod`: <tt><a h
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 10 obl:lmod	color:blue
-1	-	-	PUNCT	_	_	4	punct	_	_
-2	Mine	min	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
-3	elskere	elsker	NOUN	_	Definite=Ind|Gender=Com|Number=Plur	4	nsubj	_	_
-4	er	være	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-5	godt	godt	ADV	_	Degree=Pos	7	advmod	_	_
-6	på	på	ADP	_	AdpType=Prep	5	case	_	_
-7	vej	vej	NOUN	_	Definite=Ind|Gender=Com|Number=Sing	4	obl	_	_
-8	til	til	ADP	_	AdpType=Prep	10	mark	_	_
-9	at	at	PART	_	PartType=Inf	10	mark	_	_
-10	gøre	gøre	VERB	_	VerbForm=Inf|Voice=Act	7	obl:lmod	_	_
-11	mig	jeg	PRON	_	Case=Acc|Gender=Com|Number=Sing|Person=1|PronType=Prs	10	obj	_	_
-12	skizofren	skizofren	ADJ	_	Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	10	amod	_	SpaceAfter=No
-13	.	.	PUNCT	_	_	4	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 5 obl:lmod	color:blue
+1	Eller	eller	CCONJ	_	_	3	cc	_	_
+2	man	man	PRON	_	Case=Nom|Gender=Com|PronType=Ind	3	nsubj	_	_
+3	stiller	stille	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	den	den	PRON	_	Case=Acc|Gender=Com|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+5	allerinderst	indre	ADJ	_	Definite=Def|Degree=Abs	3	obl:lmod	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

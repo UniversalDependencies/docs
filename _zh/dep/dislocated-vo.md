@@ -37,4 +37,4 @@ The `dislocated:vo` relation is used when the object of a verb-object compound (
 12	up."	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:07 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:44 CET -->

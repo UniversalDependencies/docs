@@ -9,4 +9,4 @@ udver: '2'
 complements. In Uralic languages, also non-complement infinitival or temporal
 clauses marked as `advcl`. If there is a subordinating conjunction present, it
 is marked with the dependency type [mark]().
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:28 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:12 CET -->

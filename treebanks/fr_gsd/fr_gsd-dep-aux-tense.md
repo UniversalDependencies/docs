@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="fr_gsd-dep-aux.html">aux</a></tt>.
 There are also 2 other language-specific subtypes of `aux`: <tt><a href="fr_gsd-dep-aux-caus.html">aux:caus</a></tt>, <tt><a href="fr_gsd-dep-aux-pass.html">aux:pass</a></tt>.
 
-3837 nodes (1%) are attached to their parents as `aux:tense`.
+3838 nodes (1%) are attached to their parents as `aux:tense`.
 
-3830 instances of `aux:tense` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.50899139953088.
+3831 instances of `aux:tense` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.50859822824388.
 
-The following 10 pairs of parts of speech are connected with `aux:tense`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (3691; 96% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (80; 2% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (49; 1% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (9; 0% instances), <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `aux:tense`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (3691; 96% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (80; 2% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (50; 1% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (9; 0% instances), <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -28,7 +28,7 @@ The following 10 pairs of parts of speech are connected with `aux:tense`: <tt><a
 3	j'	moi	PRON	_	Case=Nom|Emph=No|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	SpaceAfter=No
 4	y	y	PRON	_	Emph=No|Person=3|PronType=Prs	6	obl:mod	_	_
 5	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux:tense	_	_
-6	passé	passer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	Tense[denom]=Past
+6	passé	passer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	Status[Tense]=Denom
 7	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 8	bon	bon	ADJ	_	Gender=Masc|Number=Sing	9	amod	_	_
 9	temps	temps	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent
@@ -50,7 +50,7 @@ The following 10 pairs of parts of speech are connected with `aux:tense`: <tt><a
 1	Il	lui	PRON	_	Case=Nom|Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	wordform=il
 2	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:tense	_	_
 3	également	également	ADV	_	_	5	advmod	_	_
-4	été	être	AUX	_	Gender=Masc|Number=Sing|VerbForm=Part	5	cop	_	Tense[denom]=Past
+4	été	être	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	cop	_	Status[Tense]=Denom
 5	capitaine	capitaine	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Exponence[Gender]=Inherent
 6	de	de	ADP	_	_	8	case	_	_
 7	l'	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	Exponence[Gender]=Absent|SpaceAfter=No
@@ -67,12 +67,15 @@ The following 10 pairs of parts of speech are connected with `aux:tense`: <tt><a
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 3 aux:tense	color:blue
-1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	wordform=la
-2	pose	pose	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	Exponence[Gender]=Inherent
+1	Le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	wordform=le
+2	Funtenseealm	Funtenseealm	PROPN	_	Gender=Masc|Number=Sing	5	nsubj	_	CorrectSpaceAfter=Yes|Exponence[Gender]=Inherent|SpaceAfter=No
 3	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:tense	_	_
-4	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Typo=Yes|VerbForm=Fin	5	cop	_	CorrectForm=été|CorrectVerbForm=Part
-5	parfaite	parfait	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
-6	!	!	PUNCT	_	_	5	punct	_	_
+4	été	être	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	cop	_	CorrectForm=était|CorrectGender=none|CorrectPerson=3|CorrectTense=Imp|CorrectVerbForm=Fin|Status[Tense]=Denom
+5	actif	actif	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+6	jusqu'	jusque	ADP	_	_	8	case	_	SpaceAfter=No
+7	en	en	ADP	_	_	8	case	_	_
+8	1964	1964	NUM	_	ExtPos=PROPN|Number=Sing	5	obl:mod	_	Exponence[Number]=Inherent|SpaceAfter=No
+9	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
 

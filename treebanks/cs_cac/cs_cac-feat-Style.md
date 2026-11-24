@@ -34,7 +34,7 @@ The most frequent other feature values with which `NOUN` and `Style` co-occurred
 
 47 <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `ADJ` and `Style` co-occurred: <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (41; 87%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (41; 87%), <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (39; 83%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (39; 83%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (27; 57%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (24; 51%).
+The most frequent other feature values with which `ADJ` and `Style` co-occurred: <tt><a href="cs_cac-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (46; 98%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (41; 87%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (41; 87%), <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (39; 83%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (39; 83%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (27; 57%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (24; 51%).
 
 `ADJ` tokens may have the following values of `Style`:
 

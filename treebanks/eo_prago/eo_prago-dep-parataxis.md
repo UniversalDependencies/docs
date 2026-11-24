@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-8 nodes (0%) are attached to their parents as `parataxis`.
+9 nodes (0%) are attached to their parents as `parataxis`.
 
-6 instances of `parataxis` (75%) are left-to-right (parent precedes child).
-Average distance between parent and child is 26.125.
+7 instances of `parataxis` (78%) are left-to-right (parent precedes child).
+Average distance between parent and child is 27.3333333333333.
 
-The following 2 pairs of parts of speech are connected with `parataxis`: <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> (7; 88% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> (1; 13% instances).
+The following 2 pairs of parts of speech are connected with `parataxis`: <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> (7; 78% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> (2; 22% instances).
 
 
 ~~~ conllu
@@ -30,7 +30,7 @@ The following 2 pairs of parts of speech are connected with `parataxis`: <tt><a 
 6	landon	lando	NOUN	_	Case=Acc|Number=Sing	4	obj	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	9	punct	_	_
 8	en	en	ADP	_	_	9	case	_	_
-9	kiu	ku	PRON	_	Case=Nom|Number=Sing|PronType=Rel	11	nmod	_	_
+9	kiu	ku	PRON	_	Case=Nom|Number=Sing|PronType=Rel	11	obl	_	_
 10	mi	mi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	_
 11	naskiĝis	naskiĝi	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	6	acl:relcl	_	SpaceAfter=No
 12	;	;	PUNCT	_	_	16	punct	_	_
@@ -61,7 +61,7 @@ The following 2 pairs of parts of speech are connected with `parataxis`: <tt><a 
 # visual-style 3	fgColor:white
 # visual-style 3 6 parataxis	color:blue
 1	Mi	mi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
-2	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	_
 3	Homarano	homarano	NOUN	_	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
 4	;	;	PUNCT	_	_	6	punct	_	_
 5	tio	tio	PRON	_	Case=Nom|Number=Sing|PronType=Dem	6	nsubj	_	_

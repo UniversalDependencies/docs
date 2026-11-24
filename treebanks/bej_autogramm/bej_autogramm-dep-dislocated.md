@@ -12,28 +12,9 @@ There are 3 language-specific subtypes of `dislocated`: <tt><a href="bej_autogra
 28 nodes (0%) are attached to their parents as `dislocated`.
 
 24 instances of `dislocated` (86%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.92857142857143.
+Average distance between parent and child is 4.07142857142857.
 
-The following 5 pairs of parts of speech are connected with `dislocated`: <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_autogramm-pos-ADP.html">ADP</a></tt> (15; 54% instances), <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt> (10; 36% instances), <tt><a href="bej_autogramm-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="bej_autogramm-pos-ADP.html">ADP</a></tt> (1; 4% instances), <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_autogramm-pos-ADV.html">ADV</a></tt> (1; 4% instances), <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_autogramm-pos-PRON.html">PRON</a></tt> (1; 4% instances).
-
-
-~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 8 dislocated	color:blue
-1	mirkʷaːj	_	NOUN	V1	_	4	nsubj	_	AlignBegin=214581|AlignEnd=214917|Gloss=fear|MGloss=N.AC-fear|MSeg=mi-rkʷaːj|RX=[N].[V]-[V1]|TokenType=Root
-2	hoː	_	PRON	PRO	Number=Sing|Person=1	4	iobj	_	AlignBegin=214917|AlignEnd=215253|Gloss=1SG.DAT/ABL|RX=[PRO]|TokenType=Root
-3	ka=	_	PART	PTCL	Aspect=Imp|Polarity=Neg	4	advmod	_	AlignBegin=215253|AlignEnd=215365|Gloss=NEG.IPFV=|RX=[PTCL]=|TokenType=Clit
-4	daja	_	VERB	V2	Gender=Masc|Number=Sing|VerbClass=2	0	root	_	AlignBegin=215365|AlignEnd=215589|Gloss=be_there|MGloss=be_there-PFV.3SG.M|MSeg=da-ja|RX=[V2]-[TAM].[PNG]|TokenType=Root
-5	nuːn	_	PART	PTCL	_	7	advmod	_	AlignBegin=215589|AlignEnd=215925|Gloss=only|RX=[PTCL]|TokenType=Root
-6	i=	_	DET	DET	Definite=Def|Gender=Masc	7	det	_	AlignBegin=215925|AlignEnd=216037|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
-7	ginʔ	_	NOUN	N	Gender=Masc	8	dep:comp	_	AlignBegin=216037|AlignEnd=216149|Gloss=heart|RX=[N].[M]|TokenType=Root
-8	=iːb	_	ADP	POSTP	Case=Loc|Number=Sing	4	dislocated	_	AlignBegin=216149|AlignEnd=216261|Gloss==LOC.SG|RX==[POSTP]|TokenType=Clit
-9	/	_	PUNCT	_	_	4	punct	_	AlignBegin=216261|AlignEnd=216597|Gloss=/|TokenType=Break
-
-~~~
+The following 5 pairs of parts of speech are connected with `dislocated`: <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt> (24; 86% instances), <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_autogramm-pos-ADP.html">ADP</a></tt> (1; 4% instances), <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_autogramm-pos-ADV.html">ADV</a></tt> (1; 4% instances), <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_autogramm-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_autogramm-pos-X.html">X</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -42,15 +23,15 @@ The following 5 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 4 dislocated	color:blue
-1	hoːj	_	PRON	PRO	_	2	iobj	_	AlignBegin=141614|AlignEnd=142009|Gloss=3.DAT/ABL|RX=[PRO]|TokenType=Root
-2	libaːban	_	VERB	V2	Number=Sing|VerbClass=2	0	root	_	AlignBegin=142009|AlignEnd=142404|Gloss=be_happy|MGloss=be_happy-PFV.1SG|MSeg=libaːb-an|RX=[V2]-[TAM].[PNG]|TokenType=Root
-3	i=	_	DET	DET	Definite=Def|Gender=Masc	4	det	_	AlignBegin=142404|AlignEnd=142536|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
-4	ɖa~ɖib	_	NOUN	N	Gender=Masc	2	dislocated	_	AlignBegin=142536|AlignEnd=142668|Gloss=job|RX=[N].[M]|TokenType=Root
-5	=i	_	PRON	PRO	Case=Acc|Number=Sing|Person=1|Poss=Yes	4	nmod:poss	_	AlignBegin=142668|AlignEnd=142799|Gloss==POSS.1SG.ACC|RX==[PRO]|TokenType=Clit
-6	i=	_	DET	DET	Definite=Def|Gender=Masc	7	det	_	AlignBegin=142799|AlignEnd=142931|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
-7	raw	_	NOUN	N	_	8	dep:comp	_	AlignBegin=142931|AlignEnd=143063|Gloss=other|RX=[N]|TokenType=Root
-8	=eːb	_	ADP	POSTP	Case=Loc|Number=Plur	4	dep	_	AlignBegin=143063|AlignEnd=143194|Gloss==LOC.PL|RX==[POSTP]|TokenType=Clit
-9	/	_	PUNCT	PUNCT	_	2	punct	_	AlignBegin=143194|AlignEnd=143591|Gloss=/|TokenType=Break
+1	hoːj	_	PRON	PRO	_	2	iobj	_	Gloss=3|RX=[PRO]|TokenType=Root|WordAlignmentBegin=141614|WordAlignmentEnd=142009
+2	libaːban	_	VERB	V2	Number=Sing|VerbClass=2	0	root	_	Gloss=be_happy|MGloss=be_happy-PFV.1SG|MSeg=libaːb-an|RX=[V2]-[TAM].[PNG]|TokenType=Root|WordAlignmentBegin=142009|WordAlignmentEnd=142404
+3	i=	_	DET	DET	Definite=Def|Gender=Masc	4	det	_	Gloss=DEF|RX=[DET]=|TokenType=Clit|WordAlignmentBegin=142404|WordAlignmentEnd=142536
+4	ɖa~ɖib	_	NOUN	N	Gender=Masc	2	dislocated	_	Gloss=job|RX=[N].[M]|TokenType=Root|WordAlignmentBegin=142536|WordAlignmentEnd=142668
+5	=i	_	PRON	PRO	Case=Acc|Number=Sing|Person=1|Poss=Yes	4	nmod:poss	_	Gloss=POSS|RX==[PRO]|TokenType=Clit|WordAlignmentBegin=142668|WordAlignmentEnd=142799
+6	i=	_	DET	DET	Definite=Def|Gender=Masc	7	det	_	Gloss=DEF|RX=[DET]=|TokenType=Clit|WordAlignmentBegin=142799|WordAlignmentEnd=142931
+7	raw	_	NOUN	N	_	4	nmod	_	Gloss=other|RX=[N]|TokenType=Root|WordAlignmentBegin=142931|WordAlignmentEnd=143063
+8	=eːb	_	ADP	POSTP	Case=Loc|Number=Plur	7	case	_	Gloss=LOC|RX==[POSTP]|TokenType=Clit|WordAlignmentBegin=143063|WordAlignmentEnd=143194
+9	/	_	PUNCT	PUNCT	_	2	punct	_	Gloss=/|TokenType=Break|WordAlignmentBegin=143194|WordAlignmentEnd=143591
 
 ~~~
 
@@ -58,24 +39,48 @@ The following 5 pairs of parts of speech are connected with `dislocated`: <tt><a
 ~~~ conllu
 # visual-style 14	bgColor:blue
 # visual-style 14	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 14 dislocated	color:blue
-1	ʔiʃa	_	NOUN	N	Gender=Fem|Number=Plur	3	obj	_	AlignBegin=124012|AlignEnd=124197|Gloss=urine|RX=[N].[PL].[F]|TokenType=Root
-2	=t	_	DET	DET	Gender=Fem	1	det	_	AlignBegin=124197|AlignEnd=124383|Gloss==INDF.F|RX==[DET]|TokenType=Clit
-3	ʔoːʃaː	_	VERB	V2	VerbClass=2	4	ccomp	_	AlignBegin=124383|AlignEnd=124754|Gloss=urinate|MGloss=urinate-CVB.MNR|MSeg=ʔoːʃ-aː|RX=[V2]-.|TokenType=Root
-4	diːt	_	VERB	V1.CVB	VerbClass=1|VerbForm=Conv	5	advcl	_	AlignBegin=124754|AlignEnd=125125|Gloss=say\CVB.SEQ|RX=[V1].[IRG]|TokenType=Root
-5	jʔi	_	VERB	V2	Gender=Masc|Number=Sing|VerbClass=2	6	dep:comp	_	AlignBegin=125125|AlignEnd=125372|Gloss=come|MGloss=come-AOR.3SG.M|MSeg=jʔ-i|RX=[V2].[IRG]-[TAM].[PNG]|TokenType=Root
-6	=jeːk	_	SCONJ	CONJ	_	0	root	_	AlignBegin=125372|AlignEnd=125496|Gloss==if|RX==[CONJ]|TokenType=Clit
-7	/	_	PUNCT	PUNCT	_	14	punct	_	AlignBegin=125496|AlignEnd=125868|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
-8	naː	_	NOUN	N	Gender=Fem	13	dep:comp	_	AlignBegin=125868|AlignEnd=126056|Gloss=thing|RX=[N].[F]|TokenType=Root
-9	=t	_	DET	DET	Gender=Fem	8	det	_	AlignBegin=126056|AlignEnd=126245|Gloss==INDF.F|RX==[DET]|TokenType=Clit
-10	gaːl	_	NUM	NUM	_	11	nummod	_	AlignBegin=126245|AlignEnd=126320|Gloss=one|RX=[NUM]|TokenType=Root
-11	=na	_	NOUN	CONJ	_	8	reparandum	_	AlignBegin=126320|AlignEnd=126395|Gloss==thing|RX==[CONJ]|TokenType=Clit
-12	=t	_	DET	DET	Gender=Fem	11	det	_	AlignBegin=126395|AlignEnd=126471|Gloss==INDF.F|RX==[DET]|TokenType=Clit
-13	=i	_	ADP	CASE	Case=Gen	14	dep	_	AlignBegin=126471|AlignEnd=126546|Gloss==GEN|RX==[CASE]|TokenType=Clit
-14	=da	_	ADP	POSTP	_	6	dislocated	_	AlignBegin=126546|AlignEnd=126622|Gloss==DIR|RX==[POSTP]|TokenType=Clit
-15	/	_	PUNCT	PUNCT	_	6	punct	_	AlignBegin=126622|AlignEnd=126999|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 14 dislocated	color:blue
+1	ʔiʃa	_	NOUN	N	Gender=Fem|Number=Plur	3	obj	_	Gloss=urine|RX=[N].[PL].[F]|TokenType=Root|WordAlignmentBegin=124012|WordAlignmentEnd=124197
+2	=t	_	DET	DET	Gender=Fem	1	det	_	Gloss=INDF|RX==[DET]|TokenType=Clit|WordAlignmentBegin=124197|WordAlignmentEnd=124383
+3	ʔoːʃaː	_	VERB	V2	VerbClass=2	4	ccomp	_	Gloss=urinate.CVB.MNR|MGloss=urinate-CVB.MNR|MSeg=ʔoːʃ-aː|RX=[V2]-.|TokenType=Root|WordAlignmentBegin=124383|WordAlignmentEnd=124754
+4	diːt	_	VERB	V1.CVB	VerbClass=1|VerbForm=Conv	5	advcl	_	Gloss=say|RX=[V1].[IRG]|TokenType=Root|WordAlignmentBegin=124754|WordAlignmentEnd=125125
+5	jʔi	_	VERB	V2	Gender=Masc|Number=Sing|VerbClass=2	0	root	_	Gloss=come|MGloss=come-AOR.3SG.M|MSeg=jʔ-i|RX=[V2].[IRG]-[TAM].[PNG]|TokenType=Root|WordAlignmentBegin=125125|WordAlignmentEnd=125372
+6	=jeːk	_	SCONJ	CONJ	_	5	mark	_	Gloss=if|RX==[CONJ]|TokenType=Clit|WordAlignmentBegin=125372|WordAlignmentEnd=125496
+7	/	_	PUNCT	PUNCT	_	14	punct	_	Gloss=PUNCT|RX=[PUNCT]|TokenType=Break|WordAlignmentBegin=125496|WordAlignmentEnd=125868
+8	naː	_	NOUN	N	Gender=Fem	14	dep	_	Gloss=thing|RX=[N].[F]|TokenType=Root|WordAlignmentBegin=125868|WordAlignmentEnd=126056
+9	=t	_	DET	DET	Gender=Fem	8	det	_	Gloss=INDF|RX==[DET]|TokenType=Clit|WordAlignmentBegin=126056|WordAlignmentEnd=126245
+10	gaːl	_	NUM	NUM	_	11	nummod	_	Gloss=one|RX=[NUM]|TokenType=Root|WordAlignmentBegin=126245|WordAlignmentEnd=126320
+11	=na	_	NOUN	CONJ	_	8	reparandum	_	Gloss=thing|RX==[CONJ]|TokenType=Clit|WordAlignmentBegin=126320|WordAlignmentEnd=126395
+12	=t	_	DET	DET	Gender=Fem	11	det	_	Gloss=INDF|RX==[DET]|TokenType=Clit|WordAlignmentBegin=126395|WordAlignmentEnd=126471
+13	=i	_	ADP	CASE	Case=Gen	8	case	_	Gloss=GEN|RX==[CASE]|TokenType=Clit|WordAlignmentBegin=126471|WordAlignmentEnd=126546
+14	=da	_	ADP	POSTP	_	5	dislocated	_	Gloss=DIR|RX==[POSTP]|TokenType=Clit|WordAlignmentBegin=126546|WordAlignmentEnd=126622
+15	/	_	PUNCT	PUNCT	_	5	punct	_	Gloss=PUNCT|RX=[PUNCT]|TokenType=Break|WordAlignmentBegin=126622|WordAlignmentEnd=126999
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 7 dislocated	color:blue
+1	indi	_	VERB	V1	Aspect=Imp|Gender=Masc|Number=Sing|VerbClass=1	5	advcl	_	Gloss=say|MGloss=3SG.M-say\IPFV|MSeg=i-ndi|RX=[PNG]-[V1].[IRG]|TokenType=Root|WordAlignmentBegin=313613|WordAlignmentEnd=313748
+2	=hoːb	_	SCONJ	CONJ	_	1	mark	_	Gloss=when|RX==[CONJ]|TokenType=Clit|WordAlignmentBegin=313748|WordAlignmentEnd=313816
+3	//	_	PUNCT	PUNCT	_	1	punct	_	Gloss=PUNCT|RX=[PUNCT]|TokenType=Break|WordAlignmentBegin=313816|WordAlignmentEnd=314020
+4	oːw	_	INTJ	INTJ	_	5	obj	_	Gloss=yep|Reported=Yes|RX=[INTJ]|TokenType=Root|WordAlignmentBegin=314020|WordAlignmentEnd=314302
+5	ijadna	_	VERB	V1	Aspect=Imp|Number=Plur|VerbClass=1	0	root	_	Gloss=say|MGloss=3-say\IPFV-PL|MSeg=i-jad-na|RX=[PNG]-[V1].[IRG]-[PNG]|TokenType=Root|WordAlignmentBegin=314302|WordAlignmentEnd=314585
+6	eːn	_	VERB	V1	Aspect=Perf|Number=Plur|Person=3|VerbClass=1	5	discourse	_	Gloss=say|RX=[V1].[IRG]|TokenType=Root|WordAlignmentBegin=314585|WordAlignmentEnd=314868
+7	ʤuwwaːb	_	ADV	ADV	Foreign=Yes	5	dislocated	_	Gloss=inside|Lang=ar|RX=[ADV].[BORR].[ARA]|TokenType=Root|WordAlignmentBegin=314868|WordAlignmentEnd=315151
+8	/	_	PUNCT	PUNCT	_	13	punct	_	Gloss=PUNCT|RX=[PUNCT]|TokenType=Break|WordAlignmentBegin=315151|WordAlignmentEnd=315434
+9	i=	_	DET	DET	Definite=Def|Gender=Masc	10	det	_	Gloss=DEF|RX=[DET]=|TokenType=Clit|WordAlignmentBegin=315434|WordAlignmentEnd=315517
+10	kalawa	_	NOUN	N	Gender=Masc	12	nmod	_	Gloss=belly|RX=[N].[M]|TokenType=Root|WordAlignmentBegin=315517|WordAlignmentEnd=315601
+11	=iː	_	ADP	POSTP	Case=Abl|Number=Sing	10	case	_	Gloss=ABL|RX==[POSTP]|TokenType=Clit|WordAlignmentBegin=315601|WordAlignmentEnd=315685
+12	aːdim	_	PROPN	N	_	13	dep	_	Gloss=Adam|RX=[N].[PROP]|TokenType=Root|WordAlignmentBegin=315685|WordAlignmentEnd=315810
+13	=i	_	ADP	CASE	Case=Gen	7	obl:arg	_	Gloss=GEN|RX==[CASE]|TokenType=Clit|WordAlignmentBegin=315810|WordAlignmentEnd=315936
+14	/	_	PUNCT	PUNCT	_	5	punct	_	Gloss=PUNCT|RX=[PUNCT]|TokenType=Break|WordAlignmentBegin=315936|WordAlignmentEnd=316585
 
 ~~~
 

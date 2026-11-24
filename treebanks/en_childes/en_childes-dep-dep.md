@@ -29,7 +29,7 @@ The following 26 pairs of parts of speech are connected with `dep`: <tt><a href=
 5	dat	that	PRON	PRP$	_	6	det	6:det	_
 6	egg	egg	NOUN	NN	_	7	nsubj	7:nsubj	_
 7	doing	do	VERB	VBG	_	2	parataxis	2:parataxis	SpaceAfter=No
-8	?	?	PUNCT	?	_	2	punct	2:punct	_
+8	?	?	PUNCT	.	_	2	punct	2:punct	_
 
 ~~~
 
@@ -55,7 +55,7 @@ The following 26 pairs of parts of speech are connected with `dep`: <tt><a href=
 # visual-style 1 2 dep	color:blue
 1	She	she	PRON	PRP	_	0	root	0:root	_
 2	house	house	VERB	VBD	_	1	dep	1:dep	SpaceAfter=No
-3	?	?	PUNCT	?	_	1	punct	1:punct	_
+3	?	?	PUNCT	.	_	1	punct	1:punct	_
 
 ~~~
 

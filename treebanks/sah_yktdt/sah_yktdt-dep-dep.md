@@ -25,7 +25,7 @@ The following 2 pairs of parts of speech are connected with `dep`: <tt><a href="
 1	Петя	Петя	PROPN	_	_	8	nsubj	_	_
 2	оҕолорго	оҕо	NOUN	n	Case=Dat|Number=Plur	8	obl	_	child
 3	ол	ол	DET	det	_	4	det	_	_
-4	кинигэттэн	_	NOUN	n	Case=Abl	7	obl	_	_
+4	кинигэттэн	_	NOUN	n	Case=Abl	7	nmod	_	_
 5	араас	араас	ADJ	_	_	7	amod	_	various
 6	үчүгэй	үчүгэй	ADJ	_	_	7	amod	_	good
 7	кэпсээннэри	кэпсээн	NOUN	n	Case=Acc|Number=Plur	8	obj	_	story

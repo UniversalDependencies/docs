@@ -6,73 +6,89 @@ udver: '2'
 
 ## Treebank Statistics: UD_Northwest_Gbaya-Autogramm: POS Tags: `DET`
 
-There are 8 `DET` lemmas (2%), 11 `DET` types (2%) and 49 `DET` tokens (2%).
-Out of 14 observed tags, the rank of `DET` is: 10 in number of lemmas, 10 in number of types and 10 in number of tokens.
+There are 33 `DET` lemmas (5%), 38 `DET` types (4%) and 141 `DET` tokens (3%).
+Out of 15 observed tags, the rank of `DET` is: 6 in number of lemmas, 8 in number of types and 9 in number of tokens.
 
-The 10 most frequent `DET` lemmas: <em>ʔó, ʔá̰-nɛ̀, zɔ̀m, mà, ʔò, mɛ̀, mɛ̀-nɛ́, ʔá̰</em>
+The 10 most frequent `DET` lemmas: <em>ʔó, ʔá̰-nɛ̀, mà, _, zɔ̀m, nɔ̀, nɛ̀, ʔá̰, ʔò, màrà</em>
 
-The 10 most frequent `DET` types:  <em>ʔó, ʔá̰-nɛ̀, =ó, mà, zɔ̀m, =á̰-nɛ̀, mɛ̀, mɛ̀-nɛ́, zɔ̌m, ʔá̰</em>
+The 10 most frequent `DET` types:  <em>ʔó, ʔá̰-nɛ̀, mà, zɔ̀m, nɔ̀, nɛ̀, ʔá̰, ʔò, =ó, màrà</em>
 
-The 10 most frequent ambiguous lemmas: <em>ʔá̰-nɛ̀</em> (<tt><a href="gya_autogramm-pos-CCONJ.html">CCONJ</a></tt> 77, <tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> 13), <em>mà</em> (<tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt> 3, <tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> 2), <em>ʔò</em> (<tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> 2, <tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt> 1), <em>mɛ̀</em> (<tt><a href="gya_autogramm-pos-ADV.html">ADV</a></tt> 10, <tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> 1), <em>ʔá̰</em> (<tt><a href="gya_autogramm-pos-CCONJ.html">CCONJ</a></tt> 9, <tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>ʔó</em> (<tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> 57, <tt><a href="gya_autogramm-pos-INTJ.html">INTJ</a></tt> 2), <em>ʔá̰-nɛ̀</em> (<tt><a href="gya_autogramm-pos-CCONJ.html">CCONJ</a></tt> 81, <tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> 18), <em>mà</em> (<tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> 15, <tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt> 9), <em>_</em> (<tt><a href="gya_autogramm-pos-AUX.html">AUX</a></tt> 86, <tt><a href="gya_autogramm-pos-CCONJ.html">CCONJ</a></tt> 13, <tt><a href="gya_autogramm-pos-PROPN.html">PROPN</a></tt> 12, <tt><a href="gya_autogramm-pos-ADV.html">ADV</a></tt> 8, <tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt> 7, <tt><a href="gya_autogramm-pos-ADP.html">ADP</a></tt> 5, <tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> 5, <tt><a href="gya_autogramm-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="gya_autogramm-pos-SCONJ.html">SCONJ</a></tt> 1), <em>nɔ̀</em> (<tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> 3, <tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt> 2), <em>nɛ̀</em> (<tt><a href="gya_autogramm-pos-ADP.html">ADP</a></tt> 62, <tt><a href="gya_autogramm-pos-SCONJ.html">SCONJ</a></tt> 53, <tt><a href="gya_autogramm-pos-CCONJ.html">CCONJ</a></tt> 37, <tt><a href="gya_autogramm-pos-PART.html">PART</a></tt> 27, <tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> 3), <em>ʔá̰</em> (<tt><a href="gya_autogramm-pos-CCONJ.html">CCONJ</a></tt> 13, <tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> 3, <tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt> 1), <em>ʔò</em> (<tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt> 4, <tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> 3), <em>nɛ́</em> (<tt><a href="gya_autogramm-pos-PART.html">PART</a></tt> 4, <tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> 2), <em>ʔà̰</em> (<tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt> 148, <tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> 2)
 
-The 10 most frequent ambiguous types:  <em>ʔá̰-nɛ̀</em> (<tt><a href="gya_autogramm-pos-CCONJ.html">CCONJ</a></tt> 77, <tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> 12), <em>mà</em> (<tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> 2, <tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt> 2), <em>mɛ̀</em> (<tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt> 13, <tt><a href="gya_autogramm-pos-ADV.html">ADV</a></tt> 10, <tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> 1), <em>mɛ̀-nɛ́</em> (<tt><a href="gya_autogramm-pos-AUX.html">AUX</a></tt> 2, <tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> 1), <em>ʔá̰</em> (<tt><a href="gya_autogramm-pos-CCONJ.html">CCONJ</a></tt> 9, <tt><a href="gya_autogramm-pos-AUX.html">AUX</a></tt> 8, <tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> 1), <em>ʔò</em> (<tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> 1, <tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>ʔó</em> (<tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> 54, <tt><a href="gya_autogramm-pos-INTJ.html">INTJ</a></tt> 2), <em>ʔá̰-nɛ̀</em> (<tt><a href="gya_autogramm-pos-CCONJ.html">CCONJ</a></tt> 84, <tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> 19), <em>mà</em> (<tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> 15, <tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt> 9), <em>nɔ̀</em> (<tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> 3, <tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt> 1), <em>nɛ̀</em> (<tt><a href="gya_autogramm-pos-ADP.html">ADP</a></tt> 62, <tt><a href="gya_autogramm-pos-SCONJ.html">SCONJ</a></tt> 47, <tt><a href="gya_autogramm-pos-CCONJ.html">CCONJ</a></tt> 36, <tt><a href="gya_autogramm-pos-PART.html">PART</a></tt> 27, <tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> 3), <em>ʔá̰</em> (<tt><a href="gya_autogramm-pos-CCONJ.html">CCONJ</a></tt> 13, <tt><a href="gya_autogramm-pos-AUX.html">AUX</a></tt> 10, <tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> 3, <tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt> 1), <em>ʔò</em> (<tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt> 4, <tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> 3), <em>mɛ̀-nɛ́</em> (<tt><a href="gya_autogramm-pos-AUX.html">AUX</a></tt> 3, <tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> 2), <em>nɛ́</em> (<tt><a href="gya_autogramm-pos-AUX.html">AUX</a></tt> 19, <tt><a href="gya_autogramm-pos-PART.html">PART</a></tt> 4, <tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> 2), <em>ʔà̰</em> (<tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt> 57, <tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> 2)
 
 
+* <em>ʔó</em>
+  * <tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> 54: <em><b>ʔó</b> báà kɔ́ bêm H-gbin tɛ̀ HHa-mbɛr nàà kɔ́ =à̰ ʔèááá</em>
+  * <tt><a href="gya_autogramm-pos-INTJ.html">INTJ</a></tt> 2: <em>sá mí <b>ʔó</b> zɔ́k nɛ́ ʔó ɗáŋ béí</em>
 * <em>ʔá̰-nɛ̀</em>
-  * <tt><a href="gya_autogramm-pos-CCONJ.html">CCONJ</a></tt> 77: <em><b>ʔá̰-nɛ̀</b> =à̰ nɛ̀ɛ̀ gbó táá kɔ̀zér mɛ̀</em>
-  * <tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> 12: <em>tó gàì kɔ́ nàà kɔ́ bêm nɛ̀ gáí nɛ̀ yì <b>ʔá̰-nɛ̀</b> =ám tɛ́-tɔ̰̀</em>
+  * <tt><a href="gya_autogramm-pos-CCONJ.html">CCONJ</a></tt> 84: <em><b>ʔá̰-nɛ̀</b> =à̰ BHa-nɛ H-gbo táá kɔ̀zér mɛ̀</em>
+  * <tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> 19: <em>tò B-gai kɔ́ nàà kɔ́ bêm nɛ̀ H-gai nɛ̀ yì <b>ʔá̰-nɛ̀</b> =ám tɛ́-B-tɔ̰</em>
 * <em>mà</em>
-  * <tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> 2: <em>ʔó <b>mà</b> bókóbêm ʔín bóíbêm ʔá̰-nɛ̀ =wà nɛ̀ɛ́ hɛ̀n... nɛ̀ɛ̀ gúɗù ʔín bókáɲá =à</em>
-  * <tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt> 2: <em>ʔèé [mà kpɔ́kɔ́ɗí] ʔèè <b>mà</b> yíítòó fé kɔ́ =éí</em>
-* <em>mɛ̀</em>
-  * <tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt> 13: <em>ʔó dáà bóíbêmmɛ̀ <b>mɛ̀</b> ndák bé sàɗì kɔ́ =ɛ́ɛ́</em>
-  * <tt><a href="gya_autogramm-pos-ADV.html">ADV</a></tt> 10: <em>ʔá̰-nɛ̀ =à̰ nɛ̀ɛ̀ gbó táá kɔ̀zér <b>mɛ̀</b></em>
-  * <tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> 1: <em>ʔèè ʔá̰-nɛ̀ =à̰ yèè táá tí tùà <b>mɛ̀</b></em>
-* <em>mɛ̀-nɛ́</em>
-  * <tt><a href="gya_autogramm-pos-AUX.html">AUX</a></tt> 2: <em>Wàntò <b>mɛ̀-nɛ́</b> ʔò ʔùsà yíwár há̰ =mɛ́ ʔò-ndé</em>
-  * <tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> 1: <em><b>mɛ̀-nɛ́</b> gé fóáà nɛ̀ =ám fó ʔá̰-nɛ̀ yíà ndɔ́r ʔá kɔ̀-nú =m ʔèá</em>
+  * <tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> 15: <em><b>mà</b> ngìmbì ʔá̰-sɛ̀nɛ́</em>
+  * <tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt> 9: <em>wà H-dɛ <b>mà</b> ʔîn-H-ám</em>
+* <em>nɔ̀</em>
+  * <tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> 3: <em>ʔèè wà H-fo mà ʔóí <b>nɔ̀</b> hɛ̰̀ H-ʔa nù</em>
+  * <tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt> 1: <em>mɔ́ ndàyà mɔ̀ nɛ̀ ʔéí H-nɛ <b>nɔ̀</b> ʔé</em>
+* <em>nɛ̀</em>
+  * <tt><a href="gya_autogramm-pos-ADP.html">ADP</a></tt> 62: <em>ʔá̰-nɛ̀ gbàzù BHa-gbin <b>nɛ̀</b> ʔò bêm</em>
+  * <tt><a href="gya_autogramm-pos-SCONJ.html">SCONJ</a></tt> 47: <em>tò B-gai kɔ́ nàà kɔ́ bêm <b>nɛ̀</b> H-gai nɛ̀ yì ʔá̰-nɛ̀ =ám tɛ́-B-tɔ̰</em>
+  * <tt><a href="gya_autogramm-pos-CCONJ.html">CCONJ</a></tt> 36: <em><b>nɛ̀</b> =à̰ BHa-kpe gbàzù nɛ̀ BHa-ʔɔ̰si káɗí</em>
+  * <tt><a href="gya_autogramm-pos-PART.html">PART</a></tt> 27: <em>tò B-gai kɔ́ nàà kɔ́ bêm nɛ̀ H-gai <b>nɛ̀</b> yì ʔá̰-nɛ̀ =ám tɛ́-B-tɔ̰</em>
+  * <tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> 3: <em>wà <b>nɛ̀</b> wà BHa-kur ʔé nɛ̀ ɗúká zɛ̀ mɔ́ tɛ̀ midi zɛ̀</em>
 * <em>ʔá̰</em>
-  * <tt><a href="gya_autogramm-pos-CCONJ.html">CCONJ</a></tt> 9: <em><b>ʔá̰</b> hɛ̌n hı̰̀ı̰́</em>
-  * <tt><a href="gya_autogramm-pos-AUX.html">AUX</a></tt> 8: <em>kà =à̰ pı̰́ ʔɛ́r =à̰ kɔ̀ gúé ká gúé ká gúé <b>ʔá̰</b> hɛ̰̀ɛ̰́-hɛ̰̀</em>
-  * <tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> 1: <em>nàà kɔ́ bêm <b>ʔá̰</b> bàà bêm bá tòè yák sí kɔ̀zér</em>
+  * <tt><a href="gya_autogramm-pos-CCONJ.html">CCONJ</a></tt> 13: <em><b>ʔá̰</b> mí ʔòé màrà mɔ̀ nɛ̀ Kólíngbá H-dɛ ʔám BHa-ta hɔ̰́gɔ̰́ ʔòé</em>
+  * <tt><a href="gya_autogramm-pos-AUX.html">AUX</a></tt> 10: <em>kà =à̰ H-pḭ ʔɛ́r =à̰ kɔ̀ gúé ká gúé ká gúé <b>ʔá̰</b> hɛ̰̀ɛ̰́-hɛ̰̀</em>
+  * <tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> 3: <em>nàà kɔ́ bêm <b>ʔá̰</b> BHa-ba bêm H-ba tòè H-yak H-si kɔ̀zér</em>
+  * <tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt> 1: <em>ʔèè ʔóí B-gbin ndútùà <b>ʔá̰</b> H-gbin kɔ́-éí nɛ́nɛ́-ìí</em>
 * <em>ʔò</em>
-  * <tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> 1: <em>ʔá̰-nɛ̀ gbàzù gbìná nɛ̀ <b>ʔò</b> bêm</em>
-  * <tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt> 1: <em>Wàntò mɛ̀-nɛ́ <b>ʔò</b> ʔùsà yíwár há̰ =mɛ́ ʔò-ndé</em>
+  * <tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt> 4: <em>Wàntò mɛ̀-nɛ́ <b>ʔò</b> BHa-ʔusi yíwár há̰ =mɛ́ ʔò-ndé</em>
+  * <tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> 3: <em>ʔá̰-nɛ̀ gbàzù BHa-gbin nɛ̀ <b>ʔò</b> bêm</em>
+* <em>mɛ̀-nɛ́</em>
+  * <tt><a href="gya_autogramm-pos-AUX.html">AUX</a></tt> 3: <em><b>mɛ̀-nɛ́</b> mɔ̀ kɔ́ sɔ̰̀</em>
+  * <tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> 2: <em>Wàntò <b>mɛ̀-nɛ́</b> ʔò BHa-ʔusi yíwár há̰ =mɛ́ ʔò-ndé</em>
+* <em>nɛ́</em>
+  * <tt><a href="gya_autogramm-pos-AUX.html">AUX</a></tt> 19: <em>ɲîn =ám <b>nɛ́</b> ʔánà zàngé</em>
+  * <tt><a href="gya_autogramm-pos-PART.html">PART</a></tt> 4: <em>B-ʔám H-ɗafi <b>nɛ́</b> nú pàyà kɔ́ =ám há̰ =ám H-ɲɔŋ nɛ̀nɛ́</em>
+  * <tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> 2: <em>mí mɔ́ wàntò gásá zɔ̰́ kɔ́-ám <b>nɛ́</b> mí ʔám tɛ́-B sa</em>
+* <em>ʔà̰</em>
+  * <tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt> 57: <em><b>ʔà̰</b> H-pḭ kàmbú</em>
+  * <tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> 2: <em>mà sàɗì <b>ʔà̰</b> H-ʔɔ hɛ̰̀</em>
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.375000 (the average of all parts of speech is 1.513447).
+The form / lemma ratio of `DET` is 1.151515 (the average of all parts of speech is 1.484897).
 
-The 1st highest number of forms (2) was observed with the lemma “zɔ̀m”: <em>zɔ̀m, zɔ̌m</em>.
+The 1st highest number of forms (3) was observed with the lemma “_”: <em>dák-ɗáár, kùsùkù-kùsùkù, ʔá̰-nɛ̀</em>.
 
-The 2nd highest number of forms (2) was observed with the lemma “ʔá̰-nɛ̀”: <em>=á̰-nɛ̀, ʔá̰-nɛ̀</em>.
+The 2nd highest number of forms (3) was observed with the lemma “ʔá̰-nɛ̀”: <em>=á̰-nɛ̀, ʔá̰-nɛ̀, ʔá̰-nɛ̀-ám</em>.
 
-The 3rd highest number of forms (2) was observed with the lemma “ʔò”: <em>ʔò, ʔó</em>.
+The 3rd highest number of forms (3) was observed with the lemma “ʔó”: <em>=ó, ʔó, ʔó-B</em>.
 
-`DET` occurs with 3 features: <tt><a href="gya_autogramm-feat-Number.html">Number</a></tt> (18; 37% instances), <tt><a href="gya_autogramm-feat-Polite.html">Polite</a></tt> (5; 10% instances), <tt><a href="gya_autogramm-feat-Degree.html">Degree</a></tt> (3; 6% instances)
+`DET` occurs with 4 features: <tt><a href="gya_autogramm-feat-Number.html">Number</a></tt> (20; 14% instances), <tt><a href="gya_autogramm-feat-Polite.html">Polite</a></tt> (5; 4% instances), <tt><a href="gya_autogramm-feat-Degree.html">Degree</a></tt> (3; 2% instances), <tt><a href="gya_autogramm-feat-Person.html">Person</a></tt> (2; 1% instances)
 
-`DET` occurs with 3 feature-value pairs: `Degree=Aug`, `Number=Plur`, `Polite=Form`
+`DET` occurs with 5 feature-value pairs: `Degree=Aug`, `Number=Plur`, `Number=Sing`, `Person=3`, `Polite=Form`
 
-`DET` occurs with 4 feature combinations.
-The most frequent feature combination is `_` (23 tokens).
-Examples: <em>ʔá̰-nɛ̀, ʔó, mà, =á̰-nɛ̀, mɛ̀, mɛ̀-nɛ́, ʔá̰, ʔò</em>
+`DET` occurs with 5 feature combinations.
+The most frequent feature combination is `_` (113 tokens).
+Examples: <em>ʔó, ʔá̰-nɛ̀, mà, nɔ̀, nɛ̀, ʔá̰, ʔò, màrà, mɛ̀-nɛ́, nɛ́</em>
 
 
 ## Relations
 
-`DET` nodes are attached to their parents using 3 different relations: <tt><a href="gya_autogramm-dep-det.html">det</a></tt> (44; 90% instances), <tt><a href="gya_autogramm-dep-dep.html">dep</a></tt> (4; 8% instances), <tt><a href="gya_autogramm-dep-root.html">root</a></tt> (1; 2% instances)
+`DET` nodes are attached to their parents using 3 different relations: <tt><a href="gya_autogramm-dep-dep.html">dep</a></tt> (137; 97% instances), <tt><a href="gya_autogramm-dep-conj.html">conj</a></tt> (2; 1% instances), <tt><a href="gya_autogramm-dep-root.html">root</a></tt> (2; 1% instances)
 
-Parents of `DET` nodes belong to 6 different parts of speech: <tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt> (42; 86% instances), <tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt> (2; 4% instances), <tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="gya_autogramm-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="gya_autogramm-pos-PROPN.html">PROPN</a></tt> (1; 2% instances),  (1; 2% instances)
+Parents of `DET` nodes belong to 7 different parts of speech: <tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt> (102; 72% instances), <tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt> (16; 11% instances), <tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt> (11; 8% instances), <tt><a href="gya_autogramm-pos-PROPN.html">PROPN</a></tt> (6; 4% instances), <tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> (3; 2% instances),  (2; 1% instances), <tt><a href="gya_autogramm-pos-ADJ.html">ADJ</a></tt> (1; 1% instances)
 
-48 (98%) `DET` nodes are leaves.
+133 (94%) `DET` nodes are leaves.
 
-0 (0%) `DET` nodes have one child.
+7 (5%) `DET` nodes have one child.
 
-1 (2%) `DET` nodes have two children.
+1 (1%) `DET` nodes have two children.
 
 The highest child degree of a `DET` node is 2.
 
-Children of `DET` nodes are attached using 2 different relations: <tt><a href="gya_autogramm-dep-advcl-cleft.html">advcl:cleft</a></tt> (1; 50% instances), <tt><a href="gya_autogramm-dep-dep.html">dep</a></tt> (1; 50% instances)
+Children of `DET` nodes are attached using 5 different relations: <tt><a href="gya_autogramm-dep-dep.html">dep</a></tt> (5; 56% instances), <tt><a href="gya_autogramm-dep-advmod.html">advmod</a></tt> (1; 11% instances), <tt><a href="gya_autogramm-dep-ccomp.html">ccomp</a></tt> (1; 11% instances), <tt><a href="gya_autogramm-dep-nsubj.html">nsubj</a></tt> (1; 11% instances), <tt><a href="gya_autogramm-dep-obj.html">obj</a></tt> (1; 11% instances)
 
-Children of `DET` nodes belong to 1 different parts of speech: <tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt> (2; 100% instances)
+Children of `DET` nodes belong to 6 different parts of speech: <tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> (3; 33% instances), <tt><a href="gya_autogramm-pos-ADP.html">ADP</a></tt> (2; 22% instances), <tt><a href="gya_autogramm-pos-ADV.html">ADV</a></tt> (1; 11% instances), <tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt> (1; 11% instances), <tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt> (1; 11% instances), <tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt> (1; 11% instances)
 

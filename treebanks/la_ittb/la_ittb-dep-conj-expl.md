@@ -48,7 +48,7 @@ The following 44 pairs of parts of speech are connected with `conj:expl`: <tt><a
 3	quod	quod	SCONJ	O4	_	4	mark	_	_
 4	timeas	timeo	VERB	K3|modB|tem1|gen5	Aspect=Imp|InflClass=LatE|Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	TraditionalMood=Subiunctivus|TraditionalTense=Praesens
 5	dominum	dominus	NOUN	B1|grn1|casD|gen1	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Sing	4	obj	_	_
-6	idest	idest	CCONJ	O4	VerbForm=Fin	10	cc	_	SpaceAfter=No
+6	idest	idest	CCONJ	O4	_	10	cc	_	SpaceAfter=No
 7	,	,	PUNCT	Punc	_	6	punct	_	_
 8	nunc	nunc	ADV	O4	AdvType=Tim	10	advmod:tmod	_	_
 9	cognoscere	cognosco	VERB	L3|modH|tem1	Aspect=Imp|InflClass=LatX|VerbForm=Inf|Voice=Act	10	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens

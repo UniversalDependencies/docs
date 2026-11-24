@@ -9,22 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Anim`, `Inan`.
 
-6276 tokens (32%) have a non-empty value of `Animacy`.
-4138 types (54%) occur at least once with a non-empty value of `Animacy`.
-2799 lemmas (55%) occur at least once with a non-empty value of `Animacy`.
-The feature is used with 7 part-of-speech tags: <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (4892; 25% instances), <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt> (1101; 6% instances), <tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> (144; 1% instances), <tt><a href="ru_pud-pos-DET.html">DET</a></tt> (45; 0% instances), <tt><a href="ru_pud-pos-NUM.html">NUM</a></tt> (38; 0% instances), <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> (32; 0% instances), <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (24; 0% instances).
+6470 tokens (33%) have a non-empty value of `Animacy`.
+4158 types (54%) occur at least once with a non-empty value of `Animacy`.
+2801 lemmas (55%) occur at least once with a non-empty value of `Animacy`.
+The feature is used with 7 part-of-speech tags: <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (4890; 25% instances), <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt> (1094; 6% instances), <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> (228; 1% instances), <tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> (144; 1% instances), <tt><a href="ru_pud-pos-DET.html">DET</a></tt> (52; 0% instances), <tt><a href="ru_pud-pos-NUM.html">NUM</a></tt> (38; 0% instances), <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (24; 0% instances).
 
 ### `NOUN`
 
-4892 <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Animacy`.
+4890 <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3522; 72%).
+The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3520; 72%).
 
 `NOUN` tokens may have the following values of `Animacy`:
 
-* `Anim` (629; 13% of non-empty `Animacy`): <em>людей, человек, люди, детей, жителей, императора, представителей, президента, режиссера, агентов</em>
+* `Anim` (627; 13% of non-empty `Animacy`): <em>людей, человек, люди, детей, жителей, императора, представителей, президента, режиссера, агентов</em>
 * `Inan` (4263; 87% of non-empty `Animacy`): <em>году, года, время, лет, войны, города, компании, результате, течение, века</em>
-* `EMPTY` (5): <em>Film, Wi-Fi, GIF</em>
 
 <table>
   <tr><th>Paradigm <i>лицо</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -39,15 +38,14 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
 
 ### `PROPN`
 
-1101 <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt> tokens (91% of all `PROPN` tokens) have a non-empty value of `Animacy`.
+1094 <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `PROPN` and `Animacy` co-occurred: <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1051; 95%), <tt><a href="ru_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (728; 66%).
+The most frequent other feature values with which `PROPN` and `Animacy` co-occurred: <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1045; 96%), <tt><a href="ru_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (722; 66%).
 
 `PROPN` tokens may have the following values of `Animacy`:
 
-* `Anim` (577; 52% of non-empty `Animacy`): <em>Клинтон, Ахеменидов, Трамп, Трампа, Блант, Валентино, Джон, Джордж, Жасмин, Кеша</em>
-* `Inan` (524; 48% of non-empty `Animacy`): <em>США, Великобритании, Америки, Италии, Китай, Австралии, Европы, Онтарио, Америке, Англии</em>
-* `EMPTY` (108): <em>BBC, CNN, RECO, Spotify, Twitter, Uber, Academy, Adidas, Agora, Assistant</em>
+* `Anim` (577; 53% of non-empty `Animacy`): <em>Клинтон, Ахеменидов, Трамп, Трампа, Блант, Валентино, Джон, Джордж, Жасмин, Кеша</em>
+* `Inan` (517; 47% of non-empty `Animacy`): <em>США, Великобритании, Америки, Италии, Китай, Австралии, Европы, Онтарио, Америке, Англии</em>
 
 <table>
   <tr><th>Paradigm <i>Дисней</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -57,7 +55,21 @@ The most frequent other feature values with which `PROPN` and `Animacy` co-occur
   <tr><td><tt><tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td></td><td><em>Дисней</em></td></tr>
 </table>
 
-`Animacy` seems to be **lexical feature** of `PROPN`. 99% lemmas (726) occur only with one value of `Animacy`.
+`Animacy` seems to be **lexical feature** of `PROPN`. 99% lemmas (719) occur only with one value of `Animacy`.
+
+### `PRON`
+
+228 <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> tokens (35% of all `PRON` tokens) have a non-empty value of `Animacy`.
+
+The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt><a href="ru_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (228; 100%), <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (225; 99%), <tt><a href="ru_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (207; 91%), <tt><a href="ru_pud-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (157; 69%), <tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt> (115; 50%).
+
+`PRON` tokens may have the following values of `Animacy`:
+
+* `Anim` (21; 9% of non-empty `Animacy`): <em>кто, кого, все, кто-то, никто, всех, кого-то</em>
+* `Inan` (207; 91% of non-empty `Animacy`): <em>это, того, что, то, том, тем, этого, все, этом, всего</em>
+* `EMPTY` (425): <em>он, они, она, я, мы, его, себя, них, ее, мне</em>
+
+`Animacy` seems to be **lexical feature** of `PRON`. 100% lemmas (13) occur only with one value of `Animacy`.
 
 ### `ADJ`
 
@@ -81,15 +93,15 @@ The most frequent other feature values with which `ADJ` and `Animacy` co-occurre
 
 ### `DET`
 
-45 <tt><a href="ru_pud-pos-DET.html">DET</a></tt> tokens (9% of all `DET` tokens) have a non-empty value of `Animacy`.
+52 <tt><a href="ru_pud-pos-DET.html">DET</a></tt> tokens (8% of all `DET` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `DET` and `Animacy` co-occurred: <tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt> (45; 100%), <tt><a href="ru_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (24; 53%), <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt> (24; 53%).
+The most frequent other feature values with which `DET` and `Animacy` co-occurred: <tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt> (52; 100%), <tt><a href="ru_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (32; 62%), <tt><a href="ru_pud-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (32; 62%), <tt><a href="ru_pud-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (32; 62%), <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt> (29; 56%).
 
 `DET` tokens may have the following values of `Animacy`:
 
-* `Anim` (4; 9% of non-empty `Animacy`): <em>своих, своего</em>
-* `Inan` (41; 91% of non-empty `Animacy`): <em>свои, этот, свой, эти, все, тот, какое-либо, весь, каждый, любой</em>
-* `EMPTY` (448): <em>его, их, ее, своей, н., это, этой, этот, такие, этого</em>
+* `Anim` (4; 8% of non-empty `Animacy`): <em>своих, своего</em>
+* `Inan` (48; 92% of non-empty `Animacy`): <em>свои, этот, которые, который, свой, эти, все, тот, весь, каждый</em>
+* `EMPTY` (584): <em>его, которые, который, их, ее, которая, своей, н., это, этой</em>
 
 <table>
   <tr><th>Paradigm <i>свой</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -115,27 +127,6 @@ The most frequent other feature values with which `NUM` and `Animacy` co-occurre
   <tr><td><tt><tt><a href="ru_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td></td><td><em>две</em></td></tr>
 </table>
 
-### `PRON`
-
-32 <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> tokens (4% of all `PRON` tokens) have a non-empty value of `Animacy`.
-
-The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt><a href="ru_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (32; 100%), <tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt> (24; 75%), <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (24; 75%), <tt><a href="ru_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (20; 63%).
-
-`PRON` tokens may have the following values of `Animacy`:
-
-* `Anim` (3; 9% of non-empty `Animacy`): <em>все, всех</em>
-* `Inan` (29; 91% of non-empty `Animacy`): <em>то, это, все, которые, который</em>
-* `EMPTY` (762): <em>он, это, они, она, которые, я, который, того, мы, его</em>
-
-<table>
-  <tr><th>Paradigm <i>все</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ru_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>все</em></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>всех</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_pud-feat-ExtPos.html">ExtPos</a></tt><tt>=ADV</tt>|<tt><a href="ru_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>все</em></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>все</em></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>все</em></td><td></td></tr>
-</table>
-
 ### `VERB`
 
 24 <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Animacy`.
@@ -146,21 +137,21 @@ The most frequent other feature values with which `VERB` and `Animacy` co-occurr
 
 * `Anim` (7; 29% of non-empty `Animacy`): <em>имеющих, нападающих, населяющих, настроенных, присутствующих, ставшего, уткнувшихся</em>
 * `Inan` (17; 71% of non-empty `Animacy`): <em>вдохновленные, вызывающий, используемые, описывающие, отражающие, позволившие, поступавшие, предшествующие, приземляющийся, присланные</em>
-* `EMPTY` (2091): <em>является, может, сказал, говорит, стало, могут, можно, заявил, находится, стал</em>
+* `EMPTY` (2092): <em>является, может, сказал, говорит, стало, могут, можно, заявил, находится, стал</em>
 
 `Animacy` seems to be **lexical feature** of `VERB`. 100% lemmas (24) occur only with one value of `Animacy`.
 
 ## Relations with Agreement in `Animacy`
 
 The 10 most frequent relations where parent and child node agree in `Animacy`:
-<tt>NOUN --[<tt><a href="ru_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1165; 82%),
-<tt>NOUN --[<tt><a href="ru_pud-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (260; 70%),
+<tt>NOUN --[<tt><a href="ru_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1170; 82%),
+<tt>NOUN --[<tt><a href="ru_pud-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (258; 72%),
 <tt>NOUN --[<tt><a href="ru_pud-dep-conj.html">conj</a></tt>]--> NOUN</tt> (231; 94%),
-<tt>PROPN --[<tt><a href="ru_pud-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (102; 99%),
+<tt>PROPN --[<tt><a href="ru_pud-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (102; 100%),
 <tt>NOUN --[<tt><a href="ru_pud-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (94; 98%),
-<tt>PROPN --[<tt><a href="ru_pud-dep-conj.html">conj</a></tt>]--> PROPN</tt> (56; 98%),
-<tt>NOUN --[<tt><a href="ru_pud-dep-appos.html">appos</a></tt>]--> NOUN</tt> (34; 94%),
-<tt>NOUN --[<tt><a href="ru_pud-dep-appos.html">appos</a></tt>]--> PROPN</tt> (26; 84%),
-<tt>NOUN --[<tt><a href="ru_pud-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (26; 84%),
-<tt>PROPN --[<tt><a href="ru_pud-dep-appos.html">appos</a></tt>]--> NOUN</tt> (22; 92%).
+<tt>PROPN --[<tt><a href="ru_pud-dep-conj.html">conj</a></tt>]--> PROPN</tt> (55; 98%),
+<tt>NOUN --[<tt><a href="ru_pud-dep-appos.html">appos</a></tt>]--> NOUN</tt> (38; 95%),
+<tt>NOUN --[<tt><a href="ru_pud-dep-appos.html">appos</a></tt>]--> PROPN</tt> (26; 100%),
+<tt>NOUN --[<tt><a href="ru_pud-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (26; 81%),
+<tt>PROPN --[<tt><a href="ru_pud-dep-appos.html">appos</a></tt>]--> NOUN</tt> (22; 100%).
 

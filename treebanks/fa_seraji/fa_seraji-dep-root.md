@@ -11,9 +11,9 @@ This relation is universal.
 5997 nodes (4%) are attached to their parents as `root`.
 
 5997 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 10.8884442221111.
+Average distance between parent and child is 10.8877772219443.
 
-The following 8 pairs of parts of speech are connected with `root`: -<tt><a href="fa_seraji-pos-VERB.html">VERB</a></tt> (4116; 69% instances), -<tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> (1013; 17% instances), -<tt><a href="fa_seraji-pos-ADJ.html">ADJ</a></tt> (713; 12% instances), -<tt><a href="fa_seraji-pos-PRON.html">PRON</a></tt> (85; 1% instances), -<tt><a href="fa_seraji-pos-ADV.html">ADV</a></tt> (47; 1% instances), -<tt><a href="fa_seraji-pos-NUM.html">NUM</a></tt> (17; 0% instances), -<tt><a href="fa_seraji-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), -<tt><a href="fa_seraji-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances).
+The following 8 pairs of parts of speech are connected with `root`: -<tt><a href="fa_seraji-pos-VERB.html">VERB</a></tt> (4115; 69% instances), -<tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> (1015; 17% instances), -<tt><a href="fa_seraji-pos-ADJ.html">ADJ</a></tt> (712; 12% instances), -<tt><a href="fa_seraji-pos-PRON.html">PRON</a></tt> (85; 1% instances), -<tt><a href="fa_seraji-pos-ADV.html">ADV</a></tt> (47; 1% instances), -<tt><a href="fa_seraji-pos-NUM.html">NUM</a></tt> (17; 0% instances), -<tt><a href="fa_seraji-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), -<tt><a href="fa_seraji-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances).
 
 
 ~~~ conllu

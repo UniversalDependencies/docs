@@ -51,7 +51,7 @@ The following 5 pairs of parts of speech are connected with `orphan`: <tt><a hre
 10	for	for	ADP	IN	_	11	case	11:case	_
 11	evaluation	evaluation	NOUN	NN	Number=Sing	7	obl	7:obl:for	Entity=(83-event-new-nnnnn-cf6-1-sgl)|MSeg=e-valu-at-ion
 12	or	or	CCONJ	CC	_	16	cc	16:cc	_
-13	possibly	possibly	ADV	RB	Degree=Pos	16	orphan	16:orphan	MSeg=possib-ly
+13	possibly	possibly	ADV	RB	Degree=Pos	16	orphan	16:orphan	MSeg=possibl-y
 14	a	a	DET	DT	Definite=Ind|PronType=Art	16	det	16:det	Entity=(84-person-new-nnnns-cf5-3-sgl
 15	spinal	spinal	ADJ	JJ	Degree=Pos	16	amod	16:amod	MSeg=spin-al
 16	surgeon	surgeon	NOUN	NN	Number=Sing	7	conj	2:ccomp|7:conj:or	Entity=84)

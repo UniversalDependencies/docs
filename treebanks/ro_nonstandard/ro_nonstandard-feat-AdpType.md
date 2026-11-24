@@ -9,20 +9,20 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Prep`.
 
-66921 tokens (12%) have a non-empty value of `AdpType`.
+66919 tokens (12%) have a non-empty value of `AdpType`.
 351 types (1%) occur at least once with a non-empty value of `AdpType`.
 134 lemmas (1%) occur at least once with a non-empty value of `AdpType`.
-The feature is used with 1 part-of-speech tags: <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> (66921; 12% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> (66919; 12% instances).
 
 ### `ADP`
 
-66921 <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> tokens (100% of all `ADP` tokens) have a non-empty value of `AdpType`.
+66919 <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> tokens (100% of all `ADP` tokens) have a non-empty value of `AdpType`.
 
-The most frequent other feature values with which `ADP` and `AdpType` co-occurred: <tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc</tt> (66023; 99%), <tt><a href="ro_nonstandard-feat-Compound.html">Compound</a></tt><tt>=EMPTY</tt> (56957; 85%).
+The most frequent other feature values with which `ADP` and `AdpType` co-occurred: <tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc</tt> (66021; 99%), <tt><a href="ro_nonstandard-feat-Compound.html">Compound</a></tt><tt>=EMPTY</tt> (56955; 85%).
 
 `ADP` tokens may have the following values of `AdpType`:
 
-* `Prep` (66921; 100% of non-empty `AdpType`): <em>de, cu, la, în, pre, din, pe, ca, pentru, după</em>
+* `Prep` (66919; 100% of non-empty `AdpType`): <em>de, cu, la, în, pre, din, pe, ca, pentru, după</em>
 
 `AdpType` seems to be **lexical feature** of `ADP`. 100% lemmas (134) occur only with one value of `AdpType`.
 

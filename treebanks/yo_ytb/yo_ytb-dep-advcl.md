@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-87 nodes (1%) are attached to their parents as `advcl`.
+90 nodes (1%) are attached to their parents as `advcl`.
 
-57 instances of `advcl` (66%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.33333333333333.
+59 instances of `advcl` (66%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.34444444444444.
 
-The following 9 pairs of parts of speech are connected with `advcl`: <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (73; 84% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (4; 5% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (3; 3% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 10 pairs of parts of speech are connected with `advcl`: <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (73; 81% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (5; 6% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (3; 3% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 9 pairs of parts of speech are connected with `advcl`: <tt><a href
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 9 advcl	color:blue
-1	Àwọn	Àwọn	DET	_	_	2	det	_	Gloss=the|Ref=JOHN_10.31
+1	Àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	2	det	_	Gloss=the|Ref=JOHN_10.31
 2	Júù	Júù	PROPN	_	_	5	nsubj	_	Gloss=jews|Ref=JOHN_10.31
 3	sì	sì	CCONJ	_	_	5	cc	_	Gloss=and|Ref=JOHN_10.31
 4	tún	tún	ADV	_	_	5	advmod	_	Gloss=again|Ref=JOHN_10.31
@@ -46,8 +46,8 @@ The following 9 pairs of parts of speech are connected with `advcl`: <tt><a href
 # visual-style 2 5 advcl	color:blue
 1	Ní	ní	ADP	_	_	2	case	_	_
 2	Nollywood,	nollywood,	NOUN	_	_	0	root	_	_
-3	Genevieve	Genevieve	NOUN	_	_	2	nmod	_	_
-4	Nnaji	Nnaji	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	nmod	_	_
+3	Genevieve	genevieve	NOUN	_	_	2	nmod	_	_
+4	Nnaji	nnaji	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	nmod	_	_
 5	jẹ́	jẹ́	VERB	_	_	2	advcl	_	_
 6	ọ̀kan	ọ̀kan	NOUN	_	_	5	obj	_	_
 7	nínú	nínú	ADP	_	_	9	case	_	_
@@ -68,8 +68,8 @@ The following 9 pairs of parts of speech are connected with `advcl`: <tt><a href
 # visual-style 25	bgColor:blue
 # visual-style 25	fgColor:white
 # visual-style 25 19 advcl	color:blue
-1	Nítorí	Nítorí	SCONJ	_	_	8	mark	_	Gloss=for|Ref=JOHN_11.12
-2	náà	náà	PRON	_	_	1	fixed	_	Gloss=that|Ref=JOHN_11.12
+1	Nítorí	nítorí	SCONJ	_	ExtPos=SCONJ	8	mark	_	Gloss=for|Ref=JOHN_11.12
+2	náà	náà	PRON	_	PronType=Dem	1	fixed	_	Gloss=that|Ref=JOHN_11.12
 3	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	4	det	_	Gloss=his|Ref=JOHN_11.12
 4	ọmọ	ọmọ	NOUN	_	_	8	nsubj	_	Gloss=child|Ref=JOHN_11.12|SpaceAfter=No
 5	-	-	PUNCT	_	_	6	punct	_	Gloss=-|Ref=JOHN_11.12|SpaceAfter=No

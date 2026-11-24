@@ -54,7 +54,7 @@ The following 25 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 10	to	to	PART	TO	_	11	mark	11:mark	_
 11	save	save	VERB	VB	VerbForm=Inf	9	xcomp	9:xcomp	_
 12	precious	precious	ADJ	JJ	Degree=Pos	13	amod	13:amod	Entity=(142-abstract-new-nnnnn-cf2-2-sgl
-13	energy	energy	NOUN	NN	Number=Sing	11	obj	11:obj	Entity=142)141)|SpaceAfter=No
+13	energy	energy	NOUN	NN	Number=Sing	11	obj	11:obj	Entity=142)141)|MSeg=energ-y|SpaceAfter=No
 14	.	.	PUNCT	.	_	1	punct	1:punct	_
 
 ~~~

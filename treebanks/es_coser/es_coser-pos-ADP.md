@@ -32,32 +32,32 @@ The 2nd highest number of forms (2) was observed with the lemma “para”: <em>
 
 The 3rd highest number of forms (2) was observed with the lemma “por”: <em>po, por</em>.
 
-`ADP` occurs with 1 features: <tt><a href="es_coser-feat-ExtPos.html">ExtPos</a></tt> (30; 5% instances)
+`ADP` occurs with 1 features: <tt><a href="es_coser-feat-ExtPos.html">ExtPos</a></tt> (26; 4% instances)
 
-`ADP` occurs with 3 feature-value pairs: `ExtPos=ADP`, `ExtPos=ADV`, `ExtPos=SCONJ`
+`ADP` occurs with 2 feature-value pairs: `ExtPos=ADP`, `ExtPos=ADV`
 
-`ADP` occurs with 4 feature combinations.
-The most frequent feature combination is `_` (630 tokens).
+`ADP` occurs with 3 feature combinations.
+The most frequent feature combination is `_` (634 tokens).
 Examples: <em>de, a, en, por, con, para, pa, hasta, desde, sin</em>
 
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 8 different relations: <tt><a href="es_coser-dep-case.html">case</a></tt> (530; 80% instances), <tt><a href="es_coser-dep-mark.html">mark</a></tt> (88; 13% instances), <tt><a href="es_coser-dep-reparandum.html">reparandum</a></tt> (17; 3% instances), <tt><a href="es_coser-dep-advmod.html">advmod</a></tt> (14; 2% instances), <tt><a href="es_coser-dep-fixed.html">fixed</a></tt> (8; 1% instances), <tt><a href="es_coser-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="es_coser-dep-parataxis.html">parataxis</a></tt> (1; 0% instances), <tt><a href="es_coser-dep-root.html">root</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 8 different relations: <tt><a href="es_coser-dep-case.html">case</a></tt> (536; 81% instances), <tt><a href="es_coser-dep-mark.html">mark</a></tt> (85; 13% instances), <tt><a href="es_coser-dep-reparandum.html">reparandum</a></tt> (17; 3% instances), <tt><a href="es_coser-dep-advmod.html">advmod</a></tt> (13; 2% instances), <tt><a href="es_coser-dep-fixed.html">fixed</a></tt> (6; 1% instances), <tt><a href="es_coser-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="es_coser-dep-parataxis.html">parataxis</a></tt> (1; 0% instances), <tt><a href="es_coser-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 13 different parts of speech: <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt> (357; 54% instances), <tt><a href="es_coser-pos-VERB.html">VERB</a></tt> (101; 15% instances), <tt><a href="es_coser-pos-PRON.html">PRON</a></tt> (73; 11% instances), <tt><a href="es_coser-pos-ADV.html">ADV</a></tt> (43; 7% instances), <tt><a href="es_coser-pos-PROPN.html">PROPN</a></tt> (34; 5% instances), <tt><a href="es_coser-pos-ADP.html">ADP</a></tt> (13; 2% instances), <tt><a href="es_coser-pos-NUM.html">NUM</a></tt> (10; 2% instances), <tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt> (8; 1% instances), <tt><a href="es_coser-pos-X.html">X</a></tt> (8; 1% instances), <tt><a href="es_coser-pos-DET.html">DET</a></tt> (6; 1% instances), <tt><a href="es_coser-pos-AUX.html">AUX</a></tt> (4; 1% instances), <tt><a href="es_coser-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances),  (1; 0% instances)
+Parents of `ADP` nodes belong to 13 different parts of speech: <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt> (361; 55% instances), <tt><a href="es_coser-pos-VERB.html">VERB</a></tt> (99; 15% instances), <tt><a href="es_coser-pos-PRON.html">PRON</a></tt> (73; 11% instances), <tt><a href="es_coser-pos-ADV.html">ADV</a></tt> (44; 7% instances), <tt><a href="es_coser-pos-PROPN.html">PROPN</a></tt> (34; 5% instances), <tt><a href="es_coser-pos-ADP.html">ADP</a></tt> (11; 2% instances), <tt><a href="es_coser-pos-NUM.html">NUM</a></tt> (10; 2% instances), <tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt> (8; 1% instances), <tt><a href="es_coser-pos-X.html">X</a></tt> (8; 1% instances), <tt><a href="es_coser-pos-DET.html">DET</a></tt> (6; 1% instances), <tt><a href="es_coser-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="es_coser-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances),  (1; 0% instances)
 
-605 (92%) `ADP` nodes are leaves.
+609 (92%) `ADP` nodes are leaves.
 
-36 (5%) `ADP` nodes have one child.
+35 (5%) `ADP` nodes have one child.
 
-17 (3%) `ADP` nodes have two children.
+14 (2%) `ADP` nodes have two children.
 
 2 (0%) `ADP` nodes have three or more children.
 
 The highest child degree of a `ADP` node is 4.
 
-Children of `ADP` nodes are attached using 8 different relations: <tt><a href="es_coser-dep-fixed.html">fixed</a></tt> (33; 42% instances), <tt><a href="es_coser-dep-punct.html">punct</a></tt> (25; 32% instances), <tt><a href="es_coser-dep-reparandum.html">reparandum</a></tt> (15; 19% instances), <tt><a href="es_coser-dep-cc.html">cc</a></tt> (1; 1% instances), <tt><a href="es_coser-dep-cop.html">cop</a></tt> (1; 1% instances), <tt><a href="es_coser-dep-dep.html">dep</a></tt> (1; 1% instances), <tt><a href="es_coser-dep-discourse-filler.html">discourse:filler</a></tt> (1; 1% instances), <tt><a href="es_coser-dep-mark.html">mark</a></tt> (1; 1% instances)
+Children of `ADP` nodes are attached using 8 different relations: <tt><a href="es_coser-dep-fixed.html">fixed</a></tt> (26; 37% instances), <tt><a href="es_coser-dep-punct.html">punct</a></tt> (25; 35% instances), <tt><a href="es_coser-dep-reparandum.html">reparandum</a></tt> (15; 21% instances), <tt><a href="es_coser-dep-cc.html">cc</a></tt> (1; 1% instances), <tt><a href="es_coser-dep-cop.html">cop</a></tt> (1; 1% instances), <tt><a href="es_coser-dep-dep.html">dep</a></tt> (1; 1% instances), <tt><a href="es_coser-dep-discourse-filler.html">discourse:filler</a></tt> (1; 1% instances), <tt><a href="es_coser-dep-mark.html">mark</a></tt> (1; 1% instances)
 
-Children of `ADP` nodes belong to 13 different parts of speech: <tt><a href="es_coser-pos-PUNCT.html">PUNCT</a></tt> (25; 32% instances), <tt><a href="es_coser-pos-ADP.html">ADP</a></tt> (13; 17% instances), <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt> (12; 15% instances), <tt><a href="es_coser-pos-PRON.html">PRON</a></tt> (9; 12% instances), <tt><a href="es_coser-pos-X.html">X</a></tt> (4; 5% instances), <tt><a href="es_coser-pos-ADV.html">ADV</a></tt> (3; 4% instances), <tt><a href="es_coser-pos-DET.html">DET</a></tt> (3; 4% instances), <tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="es_coser-pos-CCONJ.html">CCONJ</a></tt> (2; 3% instances), <tt><a href="es_coser-pos-SCONJ.html">SCONJ</a></tt> (2; 3% instances), <tt><a href="es_coser-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="es_coser-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="es_coser-pos-VERB.html">VERB</a></tt> (1; 1% instances)
+Children of `ADP` nodes belong to 13 different parts of speech: <tt><a href="es_coser-pos-PUNCT.html">PUNCT</a></tt> (25; 35% instances), <tt><a href="es_coser-pos-ADP.html">ADP</a></tt> (11; 15% instances), <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt> (9; 13% instances), <tt><a href="es_coser-pos-PRON.html">PRON</a></tt> (9; 13% instances), <tt><a href="es_coser-pos-X.html">X</a></tt> (4; 6% instances), <tt><a href="es_coser-pos-DET.html">DET</a></tt> (3; 4% instances), <tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="es_coser-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="es_coser-pos-CCONJ.html">CCONJ</a></tt> (2; 3% instances), <tt><a href="es_coser-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="es_coser-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="es_coser-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="es_coser-pos-VERB.html">VERB</a></tt> (1; 1% instances)
 

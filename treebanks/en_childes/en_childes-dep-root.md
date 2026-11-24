@@ -11,7 +11,7 @@ This relation is universal.
 48183 nodes (16%) are attached to their parents as `root`.
 
 48183 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.8475395886516.
+Average distance between parent and child is 2.84751883444368.
 
 The following 17 pairs of parts of speech are connected with `root`: -<tt><a href="en_childes-pos-VERB.html">VERB</a></tt> (27921; 58% instances), -<tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt> (9693; 20% instances), -<tt><a href="en_childes-pos-ADJ.html">ADJ</a></tt> (2623; 5% instances), -<tt><a href="en_childes-pos-PRON.html">PRON</a></tt> (1928; 4% instances), -<tt><a href="en_childes-pos-ADV.html">ADV</a></tt> (1850; 4% instances), -<tt><a href="en_childes-pos-AUX.html">AUX</a></tt> (1317; 3% instances), -<tt><a href="en_childes-pos-PROPN.html">PROPN</a></tt> (1246; 3% instances), -<tt><a href="en_childes-pos-INTJ.html">INTJ</a></tt> (790; 2% instances), -<tt><a href="en_childes-pos-NUM.html">NUM</a></tt> (367; 1% instances), -<tt><a href="en_childes-pos-DET.html">DET</a></tt> (172; 0% instances), -<tt><a href="en_childes-pos-ADP.html">ADP</a></tt> (90; 0% instances), -<tt><a href="en_childes-pos-SCONJ.html">SCONJ</a></tt> (81; 0% instances), -<tt><a href="en_childes-pos-PART.html">PART</a></tt> (33; 0% instances), -<tt><a href="en_childes-pos-PUNCT.html">PUNCT</a></tt> (31; 0% instances), -<tt><a href="en_childes-pos-CCONJ.html">CCONJ</a></tt> (19; 0% instances), -<tt><a href="en_childes-pos-X.html">X</a></tt> (16; 0% instances), -<tt><a href="en_childes-pos-SYM.html">SYM</a></tt> (6; 0% instances).
 
@@ -62,7 +62,7 @@ The following 17 pairs of parts of speech are connected with `root`: -<tt><a hre
 9	you	you	PRON	PRP	_	10	nsubj	10:nsubj	_
 10	want	want	VERB	VB	_	5	parataxis	5:parataxis	_
 11	avocado	avocado	NOUN	NN	_	10	obj	10:obj	SpaceAfter=No
-12	?	?	PUNCT	?	_	5	punct	5:punct	_
+12	?	?	PUNCT	.	_	5	punct	5:punct	_
 
 ~~~
 

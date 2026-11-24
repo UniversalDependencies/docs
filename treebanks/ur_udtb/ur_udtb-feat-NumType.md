@@ -21,6 +21,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="ur_udtb-pos-NUM.htm
 `NUM` tokens may have the following values of `NumType`:
 
 * `Card` (2461; 100% of non-empty `NumType`): اےک، ایک، دو، تین، دونوں، لاکھ، ہزار، پانچ، کروڑ، چار
+* `EMPTY` (2): 10، 146
 
 `NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (334) occur only with one value of `NumType`.
 

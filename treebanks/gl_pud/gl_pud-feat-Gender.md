@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Com`, `Fem`, `Masc`, `Neut`.
 
-9587 tokens (41%) have a non-empty value of `Gender`.
-2603 types (44%) occur at least once with a non-empty value of `Gender`.
-2052 lemmas (46%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 7 part-of-speech tags: <tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt> (4545; 19% instances), <tt><a href="gl_pud-pos-DET.html">DET</a></tt> (3809; 16% instances), <tt><a href="gl_pud-pos-PRON.html">PRON</a></tt> (924; 4% instances), <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt> (244; 1% instances), <tt><a href="gl_pud-pos-ADJ.html">ADJ</a></tt> (53; 0% instances), <tt><a href="gl_pud-pos-NUM.html">NUM</a></tt> (9; 0% instances), <tt><a href="gl_pud-pos-PROPN.html">PROPN</a></tt> (3; 0% instances).
+9591 tokens (41%) have a non-empty value of `Gender`.
+2602 types (44%) occur at least once with a non-empty value of `Gender`.
+2051 lemmas (46%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 7 part-of-speech tags: <tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt> (4544; 19% instances), <tt><a href="gl_pud-pos-DET.html">DET</a></tt> (3812; 16% instances), <tt><a href="gl_pud-pos-PRON.html">PRON</a></tt> (926; 4% instances), <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt> (244; 1% instances), <tt><a href="gl_pud-pos-ADJ.html">ADJ</a></tt> (53; 0% instances), <tt><a href="gl_pud-pos-NUM.html">NUM</a></tt> (9; 0% instances), <tt><a href="gl_pud-pos-PROPN.html">PROPN</a></tt> (3; 0% instances).
 
 ### `NOUN`
 
-4545 <tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Gender`.
+4544 <tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="gl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3206; 71%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="gl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3205; 71%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
 * `Com` (85; 2% of non-empty `Gender`): <em>parte, final, partes, axentes, cápita, defensa, mañá, axente, modelo, C</em>
-* `Fem` (2016; 44% of non-empty `Gender`): <em>persoas, guerra, cidade, vez, rexión, vida, historia, maioría, forma, policía</em>
+* `Fem` (2015; 44% of non-empty `Gender`): <em>persoas, guerra, cidade, vez, rexión, vida, historia, maioría, forma, policía</em>
 * `Masc` (2444; 54% of non-empty `Gender`): <em>anos, lugar, ano, estado, goberno, mar, día, millóns, mundo, século</em>
 * `EMPTY` (31): <em>Estados, San, Punta, mil, Asociación, Cidade, Comúns, Escola, Head, Lord</em>
 
@@ -33,19 +33,19 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
   <tr><td><tt><tt><a href="gl_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>partes</em></td><td><em>partes</em></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 98% lemmas (1754) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 98% lemmas (1753) occur only with one value of `Gender`.
 
 ### `DET`
 
-3809 <tt><a href="gl_pud-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Gender`.
+3812 <tt><a href="gl_pud-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="gl_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (3450; 91%), <tt><a href="gl_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (3113; 82%), <tt><a href="gl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2908; 76%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="gl_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (3453; 91%), <tt><a href="gl_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (3116; 82%), <tt><a href="gl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2911; 76%).
 
 `DET` tokens may have the following values of `Gender`:
 
-* `Fem` (1677; 44% of non-empty `Gender`): <em>a, as, unha, súa, súas, esta, varias, outra, cada, estas</em>
-* `Masc` (2132; 56% of non-empty `Gender`): <em>o, os, un, seu, este, seus, todo, moitos, outros, algúns</em>
-* `EMPTY` (6): <em>o, a, cada, calquera, quenquera</em>
+* `Fem` (1678; 44% of non-empty `Gender`): <em>a, as, unha, súa, súas, esta, varias, outra, cada, estas</em>
+* `Masc` (2134; 56% of non-empty `Gender`): <em>o, os, un, seu, este, seus, todo, moitos, outros, algúns</em>
+* `EMPTY` (3): <em>cada, calquera, quenquera</em>
 
 <table>
   <tr><th>Paradigm <i>o</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -56,17 +56,17 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 ### `PRON`
 
-924 <tt><a href="gl_pud-pos-PRON.html">PRON</a></tt> tokens (98% of all `PRON` tokens) have a non-empty value of `Gender`.
+926 <tt><a href="gl_pud-pos-PRON.html">PRON</a></tt> tokens (98% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="gl_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (824; 89%), <tt><a href="gl_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (644; 70%), <tt><a href="gl_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (512; 55%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="gl_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (826; 89%), <tt><a href="gl_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (645; 70%), <tt><a href="gl_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (512; 55%).
 
 `PRON` tokens may have the following values of `Gender`:
 
 * `Com` (403; 44% of non-empty `Gender`): <em>se, lle, me, nos, eu, lles, mesmo, min, nós, que</em>
-* `Fem` (54; 6% of non-empty `Gender`): <em>a, ela, unha, esta, moitas, as, estas, que, Outras, algunhas</em>
+* `Fem` (55; 6% of non-empty `Gender`): <em>a, ela, unha, esta, moitas, as, estas, que, Outras, algunhas</em>
 * `Masc` (137; 15% of non-empty `Gender`): <em>o, el, un, eles, todo, os, que, ambos, estes, outros</em>
-* `Neut` (330; 36% of non-empty `Gender`): <em>que, isto, iso, cal, alguén, cales, algo, nada, ninguén, aquilo</em>
-* `EMPTY` (18): <em>quen, que, Algo, Esta, tales</em>
+* `Neut` (331; 36% of non-empty `Gender`): <em>que, isto, iso, cal, alguén, cales, algo, nada, ninguén, aquilo</em>
+* `EMPTY` (16): <em>quen, que, Algo, tales</em>
 
 <table>
   <tr><th>Paradigm <i>que</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th><th><tt>Com</tt></th></tr>
@@ -131,14 +131,14 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="gl_pud-dep-det.html">det</a></tt>]--> DET</tt> (3292; 97%),
+<tt>NOUN --[<tt><a href="gl_pud-dep-det.html">det</a></tt>]--> DET</tt> (3293; 97%),
 <tt>NOUN --[<tt><a href="gl_pud-dep-conj.html">conj</a></tt>]--> NOUN</tt> (142; 57%),
 <tt>NOUN --[<tt><a href="gl_pud-dep-amod.html">amod</a></tt>]--> VERB</tt> (49; 92%),
-<tt>PRON --[<tt><a href="gl_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (30; 81%),
+<tt>PRON --[<tt><a href="gl_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (30; 75%),
 <tt>NOUN --[<tt><a href="gl_pud-dep-appos.html">appos</a></tt>]--> NOUN</tt> (18; 62%),
 <tt>VERB --[<tt><a href="gl_pud-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (17; 85%),
 <tt>NOUN --[<tt><a href="gl_pud-dep-compound.html">compound</a></tt>]--> NOUN</tt> (5; 71%),
 <tt>NOUN --[<tt><a href="gl_pud-dep-conj.html">conj</a></tt>]--> PRON</tt> (4; 100%),
 <tt>NUM --[<tt><a href="gl_pud-dep-compound.html">compound</a></tt>]--> NUM</tt> (3; 100%),
-<tt>ADJ --[<tt><a href="gl_pud-dep-compound.html">compound</a></tt>]--> ADJ</tt> (2; 100%).
+<tt>PRON --[<tt><a href="gl_pud-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (3; 75%).
 

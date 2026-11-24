@@ -18,3 +18,4 @@ Personal names are a common use of `flat`, as in _o scrittô Poulo Foggetta_ “
 ~~~
 
 Names and foreign expressions whose internal syntactic structure is clear are analysed using their ordinary dependency relations.
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:46 CET -->

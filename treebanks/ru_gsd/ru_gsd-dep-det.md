@@ -47,7 +47,7 @@ The following 10 pairs of parts of speech are connected with `det`: <tt><a href=
 5	V	V	ADJ	ORD	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
 6	--	--	PUNCT	--	_	7	punct	_	_
 7	III	III	ADJ	ORD	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	5	nmod	_	_
-8	веками	век	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	2	obl	_	_
+8	веками	век	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	2	obl:tmod	_	_
 9	до	до	ADP	IN	_	11	case	_	_
 10	н.	наш	DET	PRP$	Case=Gen|Gender=Fem|Number=Sing	11	det	_	_
 11	э	эра	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No

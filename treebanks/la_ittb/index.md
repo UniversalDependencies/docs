@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 The following people have contributed to making this treebank part of UD: Marco Passarotti, Marinella Testori, Daniel Zeman, Berta González Saavedra, Flavio Massimiliano Cecchini.
 
 Repository: [UD_Latin-ITTB](https://github.com/UniversalDependencies/UD_Latin-ITTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_ittb218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_ittb219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -150,7 +150,7 @@ year = {2010}
 </ul>
 
 <ul>
-<li>This corpus contains 54 lemmas tagged as determiners (DET): aliqualis, aliquantus, aliqui, alius, alter, ambo, ceterus, cuiusmodi, cunctus, hic, huiusmodi, idem, ille, ipse, iste, ly, meus, multus, neuter, nonnullus, noster, nullus, omnis, paruus, paucus, plerusque, qualis, qualiscumque, quantus, quantuscumque, quantuslibet, quicumque, quidam, quilibet, quisquam, quisque, quot, quotlibet, quotquot, reliquus, solus, suus, talis, tantus, tot, totus, tuus, uester, ullus, uniuersus, unus, unusquisque, uterlibet, uterque</li>
+<li>This corpus contains 53 lemmas tagged as determiners (DET): aliqualis, aliquantus, aliqui, alius, alter, ambo, ceterus, cuiusmodi, cunctus, hic, huiusmodi, idem, ille, ipse, iste, ly, meus, multus, neuter, nonnullus, noster, nullus, omnis, paucus, plerusque, qualis, qualiscumque, quantus, quantuscumque, quantuslibet, quicumque, quidam, quilibet, quisquam, quisque, quot, quotlibet, quotquot, reliquus, solus, suus, talis, tantus, tot, totus, tuus, uester, ullus, uniuersus, unus, unusquisque, uterlibet, uterque</li>
 </ul>
 
 <ul>
@@ -170,10 +170,7 @@ year = {2010}
 <ul>
   <li>Fin
   <ul>
-    <li>ADV: puta, scilicet, idest</li>
     <li>AUX: est, sit, sunt, esset, sint, erit, fuit, erat, fuerit, essent</li>
-    <li>CCONJ: scilicet, idest, puta, uidelicet</li>
-    <li>SCONJ: puta</li>
     <li>VERB: potest, oportet, dicitur, habet, patet, dicit, uidetur, fit, possunt, habent</li>
   </ul>
   </li>
@@ -183,7 +180,6 @@ year = {2010}
   <li>Inf
   <ul>
     <li>AUX: esse, fuisse, fore</li>
-    <li>NOUN: necesse-esse</li>
     <li>VERB: intelligere, dici, fieri, habere, facere, dicere, uelle, agere, intelligi, moueri</li>
   </ul>
   </li>
@@ -192,9 +188,7 @@ year = {2010}
 <ul>
   <li>Part
   <ul>
-    <li>ADJ: notum, nota, notae, notissima, notus, inconueniens, inhaerens, noti, notissimas, notissimum</li>
     <li>AUX: essendi, essendo, ens, futura, futuram, futurum, entia, futuri, futuris, futuro</li>
-    <li>NOUN: accidens, agens, conuerso, agente, agentia, debitum, patiens, praedicatum</li>
     <li>VERB: ostensum, dicendum, dictum, mouens, separatae, dictis, consequens, probatum, agens, separata</li>
   </ul>
   </li>
@@ -211,7 +205,6 @@ year = {2010}
   <li>Fem
     <ul>
       <li>ADJ: diuina, diuinae, diuinam, prima, humana, intellectualis, humanae, propria, substantialis, humanam</li>
-      <li>ADJ-Part: notae, inhaerens, notissima, notissimas, perfectas</li>
       <li>AUX-Part: futuram, futura, ens, futurae, futuras</li>
       <li>DET: suam, sua, aliqua, ipsa, aliquam, una, omnis, haec, quaedam, suae</li>
       <li>NOUN: forma, formam, formae, materia, anima, potentia, causa, natura, substantia, naturae</li>
@@ -227,11 +220,9 @@ year = {2010}
   <li>Masc
     <ul>
       <li>ADJ: christi, possibilis, christus, christo, sanctus, primo, ultimum, ultimus, sancti, sanctum</li>
-      <li>ADJ-Part: notus, noti, sancto, sanctos, sanctus</li>
       <li>AUX-Part: futuro, futurus, futuri, futuris, futuros</li>
       <li>DET: ipse, ipso, quidam, ipsum, unus, omnes, ipsius, alio, hunc, hic</li>
       <li>NOUN: deus, intellectus, dei, deo, homo, actu, finem, modo, deum, hominis</li>
-      <li>NOUN-Part: accidens</li>
       <li>NUM: duo, tres, duobus, duos, tribus, duorum, trium</li>
       <li>PRON: qui, eius, quo, eo, aliquis, ei, quem, eum, quis, seipsum</li>
       <li>PROPN: aristoteles, aristotelis, iob, dionysius, augustinus, plato, boetius, iesu, isaiae, iesum</li>
@@ -244,13 +235,11 @@ year = {2010}
   <li>Neut
     <ul>
       <li>ADJ: impossibile, manifestum, primum, possibile, necessarium, proprium, infinitum, uerum, contrarium, naturale</li>
-      <li>ADJ-Part: notum, nota, inconueniens, notissima, notissimum</li>
       <li>AUX: essendi, essendo, ens, futurum, futura, entia, esse, entium, essendum, futuri</li>
       <li>AUX-Inf: esse</li>
       <li>AUX-Part: essendi, essendo, ens, futurum, futura, entia, entium, essendum, futuri, futuris</li>
       <li>DET: hoc, omnia, illud, unum, aliud, omne, ipsum, his, alia, aliquod</li>
       <li>NOUN: corpus, bonum, principium, corporis, malum, agens, uerbum, accidens, corpore, corpora</li>
-      <li>NOUN-Part: accidens, agens, conuerso, agente, agentia, debitum, patiens, praedicatum</li>
       <li>NUM: duo, duobus, tria, duorum, tribus, millia, centena, duos, millium, trium</li>
       <li>PRON: quod, quae, aliquid, ea, quo, id, eo, eius, eorum, quibus</li>
       <li>PROPN: euangelio, euangelium, euangelii, euangeliis</li>
@@ -268,12 +257,10 @@ year = {2010}
   <li>Plur
     <ul>
       <li>ADJ: intellectuales, intelligibiles, diuersis, intelligibilia, caelestia, caelestium, inferioribus, naturalibus, naturales, superioribus</li>
-      <li>ADJ-Part: nota, notae, noti, notissima, notissimas, perfectas, sanctos</li>
       <li>AUX-Fin: sunt, sint, essent, erunt, fuerunt, sumus, erant, fuerint, estis, simus</li>
       <li>AUX-Part: futura, entia, futuris, entium, futuras, futuros</li>
       <li>DET: omnia, his, omnes, aliis, omnibus, alia, omnium, haec, quaedam, quidam</li>
       <li>NOUN: rerum, rebus, formae, res, corpora, formas, homines, substantiae, corporibus, corporum</li>
-      <li>NOUN-Part: agentia</li>
       <li>NUM: duo, duobus, duae, tres, tria, duabus, duas, duorum, tribus, duos</li>
       <li>PRON: quae, ea, qui, quibus, nobis, eorum, eis, nos, quorum, earum</li>
       <li>PROPN: euangeliis</li>
@@ -287,14 +274,12 @@ year = {2010}
   <li>Sing
     <ul>
       <li>ADJ: diuina, impossibile, diuinae, diuinam, christi, primum, manifestum, prima, humana, possibilis</li>
-      <li>ADJ-Part: notum, notus, inconueniens, inhaerens, notissima, notissimum, sancto, sanctus</li>
       <li>AUX: est, sit, esset, erit, fuit, essendi, erat, fuerit, fuisset, sum</li>
       <li>AUX-Fin: est, sit, esset, erit, fuit, erat, fuerit, fuisset, sum, es</li>
       <li>AUX-Inf: esse</li>
       <li>AUX-Part: essendi, essendo, ens, futuram, futurum, futura, futuri, futuro, futurus, essendum</li>
       <li>DET: hoc, ipsum, unum, suam, illud, sua, aliqua, aliud, omnis, suum</li>
       <li>NOUN: forma, deus, intellectus, formam, dei, deo, materia, anima, potentia, homo</li>
-      <li>NOUN-Part: accidens, agens, conuerso, agente, debitum, patiens, praedicatum</li>
       <li>NUM: duobus, una</li>
       <li>PRON: quod, quae, eius, aliquid, qui, quo, eo, quam, ei, id</li>
       <li>PROPN: aristoteles, aristotelis, iob, dionysius, augustinus, plato, boetius, iesu, isaiae, iesum</li>
@@ -316,7 +301,6 @@ year = {2010}
       <li>AUX-Part: essendo, futuris, futuro</li>
       <li>DET: hoc, his, ipso, alio, aliis, sua, omnibus, aliquo, uno, hac</li>
       <li>NOUN: deo, actu, forma, modo, materia, potentia, rebus, ratione, intellectu, corpore</li>
-      <li>NOUN-Part: conuerso, agente</li>
       <li>NUM: duobus, duabus, tribus, una</li>
       <li>PRON: quo, eo, quibus, qua, se, nobis, eis, ea, aliquo, seipso</li>
       <li>PROPN: aristotele, iesu, euangelio, maria, platone, socrate, dionysio, euangeliis, moyse, ario</li>
@@ -329,13 +313,11 @@ year = {2010}
   <li>Acc
     <ul>
       <li>ADJ: diuinam, humanam, ultimum, propriam, primum, infinitum, naturalem, proprium, sanctum, primam</li>
-      <li>ADJ-Part: notissimas, notum, perfectas, sanctos</li>
       <li>AUX: futuram, ens, futurum, esse, futura, entia, essendum, futuras, futuros</li>
       <li>AUX-Inf: esse</li>
       <li>AUX-Part: futuram, ens, futurum, futura, entia, essendum, futuras, futuros</li>
       <li>DET: hoc, suam, omnia, ipsum, aliquam, illud, suum, unum, alia, omnes</li>
       <li>NOUN: formam, finem, deum, naturam, modum, intellectum, materiam, rationem, speciem, animam</li>
-      <li>NOUN-Part: accidens, agentia, patiens, praedicatum</li>
       <li>NUM: duo, duas, tres, duos, tria</li>
       <li>PRON: se, quod, quam, aliquid, quae, ea, seipsum, id, quem, eam</li>
       <li>PROPN: iesum, aristotelem, augustinum, moysen, platonem, socratem, gregorium, euangelium, ioannem, alexandrum</li>
@@ -357,7 +339,6 @@ year = {2010}
   <li>Dat
     <ul>
       <li>ADJ: diuinae, humanae, sancto, christo, naturali, primo, diuersis, intellectualibus, singulis, humano</li>
-      <li>ADJ-Part: sancto</li>
       <li>DET: aliis, omnibus, huic, alteri, his, illi, alicui, unicuique, suae, cuilibet</li>
       <li>NOUN: deo, corpori, homini, formae, rebus, hominibus, materiae, rei, corporibus, animae</li>
       <li>NUM: duobus, duabus, tribus</li>
@@ -395,11 +376,9 @@ year = {2010}
   <li>Nom
     <ul>
       <li>ADJ: impossibile, diuina, manifestum, prima, humana, possibile, possibilis, christus, necessarium, primum</li>
-      <li>ADJ-Part: notum, nota, notae, notissima, notus, inconueniens, inhaerens, noti, notissimum, sanctus</li>
       <li>AUX-Part: ens, futura, entia, futurum, futurus</li>
       <li>DET: hoc, haec, ipse, quaedam, aliqua, omnis, omnia, omne, unum, alia</li>
       <li>NOUN: forma, deus, intellectus, homo, anima, causa, materia, corpus, substantia, actus</li>
-      <li>NOUN-Part: accidens, agens, debitum</li>
       <li>NUM: duo, duae, tres, tria, millia, centena, duos</li>
       <li>PRON: quae, quod, qui, aliquid, aliquis, id, ea, quis, quid, ego</li>
       <li>PROPN: aristoteles, dionysius, augustinus, plato, boetius, gregorius, auerroes, iesus, auicenna, petrus</li>
@@ -432,7 +411,6 @@ year = {2010}
   <li>Abs
     <ul>
       <li>ADJ: ultimum, ultimus, ultima, ultimo, ultimam, optimum, perfectissimum, ultimi, infima, maxima</li>
-      <li>ADJ-Part: notissima, notissimas, notissimum</li>
       <li>ADV: primo, maxime, perfectissime, conuenientissime, optime, potissime, minime, primum, summe, ultimo</li>
       <li>DET: plurima, plurimi, plurimas, plurimae, plurimum, paucissimis, paucissimos, plurimam, plurimis, plurimorum</li>
       <li>VERB-Part: conuenientissimum, expedientissimum, remotissima, abiectissimam, excellentissima, excellentissimae, excellentissimam, ordinatissima, ordinatissimus, temperatissimum</li>
@@ -878,9 +856,7 @@ year = {2010}
           <li>ADJ: manifestum, duplex, extrinseco, extrinsecum, manifesta, multiplex, intrinsecum, particeps, primogenitus, unigenitus</li>
           <li>ADP: quoad, etsi</li>
           <li>ADV: etiam, praeterea, ideo, quasi, sicut, nunquam, nondum, quomodo, aliquando, quare</li>
-          <li>ADV-Fin: scilicet</li>
-          <li>CCONJ: scilicet, idest, utpote, uidelicet, necnon, sicut, uelut</li>
-          <li>CCONJ-Fin: scilicet, idest, uidelicet</li>
+          <li>CCONJ: scilicet, idest, uidelicet, utpote, necnon, sicut, uelut</li>
           <li>DET: huiusmodi, aliqua, aliquam, aliquod, alicuius, aliquo, unumquodque, cuiuslibet, aliquem, uniuersi</li>
           <li>NOUN: artificis, artifex, artifice, artifices, artificem, artificum, unigenitum, legislatores, reipublicae, misericors</li>
           <li>NUM: duodecim</li>
@@ -903,10 +879,8 @@ year = {2010}
       <li>ADV
         <ul>
           <li>ADV: puta, tunc</li>
-          <li>ADV-Fin: puta</li>
           <li>CCONJ: scilicet</li>
           <li>SCONJ: ut, puta</li>
-          <li>SCONJ-Fin: puta</li>
         </ul>
       </li>
       <li>CCONJ
@@ -961,7 +935,6 @@ year = {2010}
       <li>IndEurA
         <ul>
           <li>ADJ: diuina, diuinae, diuinam, prima, humana, humanae, propria, humanam, propriam, ultima</li>
-          <li>ADJ-Part: notae, notissima, notissimas, perfectas</li>
           <li>DET: suam, sua, suae, nostra, nostrae, suis, suas, nostram, multae, mea</li>
           <li>NOUN: forma, formam, formae, materia, anima, potentia, causa, natura, substantia, naturae</li>
           <li>NUM: duae, duabus, duas, duarum, duo, duobus</li>
@@ -976,10 +949,8 @@ year = {2010}
       <li>IndEurI
         <ul>
           <li>ADJ: impossibile, possibilis, naturalis, possibile, intellectualis, substantialis, naturali, intellectuales, rationalis, intelligibiles</li>
-          <li>ADJ-Part: inconueniens, inhaerens</li>
           <li>DET: omnia, omnes, omnis, omne, omnibus, omnium, talis, omni, omnem, tali</li>
           <li>NOUN: finem, finis, agens, accidens, ens, parte, agentis, ignis, fine, pars</li>
-          <li>NOUN-Part: accidens, agens, agente, agentia, patiens</li>
           <li>NUM: tres, tria, tribus, trium, millia, millium</li>
           <li>PROPN: aristoteles, aristotelis, auerroes, aristotelem, moyses, ioannes, socrates, aristotele, ioannis, origenis</li>
         </ul>
@@ -987,10 +958,8 @@ year = {2010}
       <li>IndEurO
         <ul>
           <li>ADJ: christi, primum, manifestum, primo, proprium, necessarium, christus, christo, sanctus, infinitum</li>
-          <li>ADJ-Part: notum, nota, notus, noti, notissima, notissimum, sancto, sanctos, sanctus</li>
           <li>DET: suum, sui, suo, multa, noster, uniuersi, nostro, nostrum, multis, suos</li>
           <li>NOUN: deus, dei, deo, bonum, modo, deum, principium, modum, malum, filius</li>
-          <li>NOUN-Part: conuerso, debitum, praedicatum</li>
           <li>NUM: duo, duobus, duorum, duos, centena</li>
           <li>PRON: nihilo, nihilum, nihil, quae</li>
           <li>PROPN: dionysius, augustinus, boetius, gregorius, petrus, alexander, arius, euangelio, augustini, augustinum</li>

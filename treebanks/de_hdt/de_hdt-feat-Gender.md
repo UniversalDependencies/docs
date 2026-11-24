@@ -14,7 +14,7 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 
 1392292 tokens (40%) have a non-empty value of `Gender`.
 125497 types (67%) occur at least once with a non-empty value of `Gender`.
-99515 lemmas (69%) occur at least once with a non-empty value of `Gender`.
+99523 lemmas (66%) occur at least once with a non-empty value of `Gender`.
 The feature is used with 8 part-of-speech tags: <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (687983; 20% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt> (456716; 13% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (175354; 5% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (44113; 1% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> (27734; 1% instances), <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> (188; 0% instances), <tt><a href="de_hdt-pos-X.html">X</a></tt> (178; 0% instances), <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> (26; 0% instances).
 
 ### `NOUN`
@@ -31,17 +31,15 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 * `EMPTY` (41117): <em>Kunden, Pentium, Teil, Teile, Steuern, Befragten, Beschäftigten, informations-, Angestellten, Deutschen</em>
 
 <table>
-  <tr><th>Paradigm <i>unknown</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>256bittigen</em></td><td><em>Milliardstel</em></td><td><em>48bittige, COmputergestütztes</em></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>Wirtschaftswissenschaftlichen</em></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>Milliaren</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Internationbalen</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>Rekonfigurierbaren</em></td><td><em>128bittigen, Zellularen</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Miliarden, Milliardenn</em></td><td><em>Amyotrophe</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>Kostenpflichtige</em></td><td><em>Regenerative</em></td><td></td></tr>
+  <tr><th>Paradigm <i>Deutsch</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>Deutschen</em></td><td></td><td><em>Deutsche, Deutsch</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>Deutschen</em></td><td><em>Deutscher, Deutschen</em></td><td><em>Deutsch, Deutschen</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>Deutschen</em></td><td><em>Deutschen</em></td><td><em>Deutschen</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>Deutsche, Deutscher</em></td><td><em>Deutsche</em></td><td><em>Deutsch</em></td></tr>
+  <tr><td><tt></tt></td><td></td><td><em>Deutsche, Deutscher</em></td><td><em>Deutsch</em></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 100% lemmas (86791) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 100% lemmas (86798) occur only with one value of `Gender`.
 
 ### `DET`
 
@@ -80,7 +78,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 * `Fem` (72803; 42% of non-empty `Gender`): <em>neue, deutsche, neuen, weitere, eigenen, deutschen, erste, ersten, eigene, große</em>
 * `Masc` (59147; 34% of non-empty `Gender`): <em>neuen, neue, ersten, deutschen, heutigen, 1., großen, letzten, neuer, eigenen</em>
 * `Neut` (43404; 25% of non-empty `Gender`): <em>ersten, neue, neuen, vergangenen, letzten, nächsten, erste, zweiten, neues, dritten</em>
-* `EMPTY` (87257): <em>möglich, gut, ganz, weltweit, deutlich, beiden, knapp, künftig, bekannt, schnell</em>
+* `EMPTY` (87268): <em>möglich, gut, ganz, weltweit, deutlich, beiden, knapp, künftig, bekannt, schnell</em>
 
 <table>
   <tr><th>Paradigm <i>neu</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -189,7 +187,7 @@ The most frequent other feature values with which `X` and `Gender` co-occurred: 
 `X` tokens may have the following values of `Gender`:
 
 * `Neut` (178; 100% of non-empty `Gender`): <em>Inc., Corp.</em>
-* `EMPTY` (53513): <em>of, internet, the, and, digital, mobile, media, for, OS, network</em>
+* `EMPTY` (53514): <em>of, internet, the, and, digital, mobile, media, for, OS, network</em>
 
 ### `NUM`
 

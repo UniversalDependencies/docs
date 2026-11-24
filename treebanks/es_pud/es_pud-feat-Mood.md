@@ -12,19 +12,19 @@ It occurs with 4 different values: `Cnd`, `Imp`, `Ind`, `Sub`.
 1908 tokens (8%) have a non-empty value of `Mood`.
 921 types (16%) occur at least once with a non-empty value of `Mood`.
 452 lemmas (10%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (1331; 6% instances), <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> (577; 2% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (1330; 6% instances), <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> (578; 2% instances).
 
 ### `VERB`
 
-1331 <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> tokens (59% of all `VERB` tokens) have a non-empty value of `Mood`.
+1330 <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> tokens (59% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="es_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1331; 100%), <tt><a href="es_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1331; 100%), <tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1267; 95%), <tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (967; 73%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="es_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1330; 100%), <tt><a href="es_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1330; 100%), <tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1266; 95%), <tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (966; 73%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Cnd` (28; 2% of non-empty `Mood`): <em>aplicaría, estaría, asistiría, ayudaría, conocerían, convertiría, echaría, estudiaría, gustaría, irían</em>
 * `Imp` (1; 0% of non-empty `Mood`): <em>Knuck</em>
-* `Ind` (1221; 92% of non-empty `Mood`): <em>dijo, tiene, es, hay, hace, está, tienen, dice, afirmó, convirtió</em>
+* `Ind` (1220; 92% of non-empty `Mood`): <em>dijo, tiene, es, hay, hace, está, tienen, dice, afirmó, convirtió</em>
 * `Sub` (81; 6% of non-empty `Mood`): <em>fuese, escogiera, produzcan, tuviese, utilice, vaya, Avancemos, Digamos, Fueran, acepten</em>
 * `EMPTY` (939): <em>hacer, tener, debido, ver, hecho, establecer, escrito, tenido, ayudar, dado</em>
 
@@ -47,15 +47,15 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 ### `AUX`
 
-577 <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> tokens (91% of all `AUX` tokens) have a non-empty value of `Mood`.
+578 <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> tokens (91% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="es_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (577; 100%), <tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (548; 95%), <tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (422; 73%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="es_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (578; 100%), <tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (549; 95%), <tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (423; 73%).
 
 `AUX` tokens may have the following values of `Mood`:
 
-* `Cnd` (26; 5% of non-empty `Mood`): <em>podría, sería, debería, podrían, serían, habrían</em>
+* `Cnd` (26; 4% of non-empty `Mood`): <em>podría, sería, debería, podrían, serían, habrían</em>
 * `Imp` (1; 0% of non-empty `Mood`): <em>Do</em>
-* `Ind` (521; 90% of non-empty `Mood`): <em>es, fue, ha, había, está, era, puede, son, fueron, han</em>
+* `Ind` (522; 90% of non-empty `Mood`): <em>es, fue, ha, había, está, era, puede, son, fueron, han</em>
 * `Sub` (29; 5% of non-empty `Mood`): <em>sea, hayan, hubiera, fueran, sean, estuviese, esté, estén, fuera, haya</em>
 * `EMPTY` (57): <em>ser, sido, haber, siendo, estar, estado, poder, Habiendo</em>
 

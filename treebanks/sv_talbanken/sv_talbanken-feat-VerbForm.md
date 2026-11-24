@@ -66,7 +66,7 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 `ADJ` tokens may have the following values of `VerbForm`:
 
 * `Part` (1274; 100% of non-empty `VerbForm`): <em>följande, beroende, särskild, särskilda, ökad, motsvarande, liknande, ökade, gifta, nuvarande</em>
-* `EMPTY` (7279): <em>olika, andra, nya, många, stora, stor, samma, större, vissa, första</em>
+* `EMPTY` (7276): <em>olika, andra, nya, många, stora, stor, samma, större, vissa, första</em>
 
 `VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (500) occur only with one value of `VerbForm`.
 
@@ -79,7 +79,7 @@ The most frequent other feature values with which `ADV` and `VerbForm` co-occurr
 `ADV` tokens may have the following values of `VerbForm`:
 
 * `Part` (7; 100% of non-empty `VerbForm`): <em>flytande, förfärande, försvinnande, imponerande, koncentrerat, oroande, renodlat</em>
-* `EMPTY` (6921): <em>också, så, hur, där, här, nu, bara, ut, mycket, även</em>
+* `EMPTY` (6924): <em>också, så, hur, där, här, nu, bara, ut, mycket, även</em>
 
 ## Relations with Agreement in `VerbForm`
 

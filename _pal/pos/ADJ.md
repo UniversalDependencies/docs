@@ -42,4 +42,4 @@ If an [adverb](ADV) modifies a deverbal noun, it is still annotated as an adverb
 - _kōšišn ī **gyānapattūyīhā**_ "the struggling **with dwindling life force**"
 
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:33 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:24 CET -->

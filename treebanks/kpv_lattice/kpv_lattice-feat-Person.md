@@ -11,22 +11,22 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt>, <tt><a href="kpv_lattice-feat-Person-psor.html">Person[psor]</a></tt>.
 
-1372 tokens (17%) have a non-empty value of `Person`.
-781 types (22%) occur at least once with a non-empty value of `Person`.
-484 lemmas (21%) occur at least once with a non-empty value of `Person`.
-The feature is used with 3 part-of-speech tags: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (800; 10% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (322; 4% instances), <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (250; 3% instances).
+1376 tokens (17%) have a non-empty value of `Person`.
+782 types (22%) occur at least once with a non-empty value of `Person`.
+485 lemmas (21%) occur at least once with a non-empty value of `Person`.
+The feature is used with 3 part-of-speech tags: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (804; 10% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (322; 4% instances), <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (250; 3% instances).
 
 ### `VERB`
 
-800 <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> tokens (59% of all `VERB` tokens) have a non-empty value of `Person`.
+804 <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> tokens (59% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (800; 100%), <tt><a href="kpv_lattice-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (790; 99%), <tt><a href="kpv_lattice-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (771; 96%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (575; 72%), <tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (505; 63%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (804; 100%), <tt><a href="kpv_lattice-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (790; 98%), <tt><a href="kpv_lattice-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (775; 96%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (579; 72%), <tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (509; 63%).
 
 `VERB` tokens may have the following values of `Person`:
 
 * `1` (80; 10% of non-empty `Person`): <em>аддза, думайта, гӧгӧрволім, мӧдӧдчи, пукси, сувті, шуам, юалі, Арендуйтам, Ветла</em>
-* `2` (52; 7% of non-empty `Person`): <em>Кӧсъян, аддзан, бӧрйы, Аддзывлан, Вайӧ, Водінныд, Идралін, Кутчысь, Кывзы, Локтін</em>
-* `3` (668; 84% of non-empty `Person`): <em>воис, лои, видзӧдліс, кыліс, мунӧ, Локтас, воисны, муніс, шуис, шыасис</em>
+* `2` (52; 6% of non-empty `Person`): <em>Кӧсъян, аддзан, бӧрйы, Аддзывлан, Вайӧ, Водінныд, Идралін, Кутчысь, Кывзы, Локтін</em>
+* `3` (672; 84% of non-empty `Person`): <em>воис, лои, видзӧдліс, кыліс, мунӧ, Локтас, воисны, муніс, шуис, шыасис</em>
 * `EMPTY` (566): <em>идралӧм, лоны, шуны, идралӧмын, мунны, вӧчны, пов, восьлавны, жалит, кольӧм</em>
 
 <table>
@@ -37,7 +37,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
   <tr><td><tt><tt><a href="kpv_lattice-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>шуам</em></td><td></td><td><em>шуӧны</em></td></tr>
 </table>
 
-`Person` seems to be **lexical feature** of `VERB`. 90% lemmas (421) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `VERB`. 90% lemmas (422) occur only with one value of `Person`.
 
 ### `PRON`
 
@@ -102,7 +102,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="kpv_lattice-dep-conj.html">conj</a></tt>]--> VERB</tt> (161; 70%),
+<tt>VERB --[<tt><a href="kpv_lattice-dep-conj.html">conj</a></tt>]--> VERB</tt> (162; 70%),
 <tt>VERB --[<tt><a href="kpv_lattice-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (85; 64%),
 <tt>VERB --[<tt><a href="kpv_lattice-dep-aux-tense.html">aux:tense</a></tt>]--> AUX</tt> (10; 67%),
 <tt>PRON --[<tt><a href="kpv_lattice-dep-cop.html">cop</a></tt>]--> AUX</tt> (3; 75%),

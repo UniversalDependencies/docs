@@ -218,7 +218,7 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="qtd_sagt-dep-det.html">det</a></tt>]--> DET</tt> (869; 57%),
-<tt>NOUN --[<tt><a href="qtd_sagt-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (193; 58%),
+<tt>NOUN --[<tt><a href="qtd_sagt-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (194; 58%),
 <tt>NOUN --[<tt><a href="qtd_sagt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (128; 72%),
 <tt>NOUN --[<tt><a href="qtd_sagt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (66; 61%),
 <tt>NOUN --[<tt><a href="qtd_sagt-dep-reparandum.html">reparandum</a></tt>]--> NOUN</tt> (55; 68%),

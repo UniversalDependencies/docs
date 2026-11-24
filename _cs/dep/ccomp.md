@@ -36,4 +36,4 @@ The key difference here is that, while it is possible to interpret the first
 sentence to mean that the boss will not be doing any digging, in the second
 sentence it is clear that the subject of __digging__ can only be __we__. This is
 what distinguishes `ccomp` and `xcomp`.
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:46 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:26 CET -->

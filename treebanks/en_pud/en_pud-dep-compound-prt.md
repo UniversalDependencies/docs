@@ -80,7 +80,7 @@ The following 3 pairs of parts of speech are connected with `compound:prt`: <tt>
 # visual-style 3 4 compound:prt	color:blue
 1	Mr	Mr.	PROPN	NNP	Number=Sing	2	nmod:desc	2:nmod:desc	_
 2	Osborne	Osborne	PROPN	NNP	Number=Sing	3	nsubj	3:nsubj	_
-3	signed	sign	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	signed	sign	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 4	up	up	PART	RP	_	3	compound:prt	3:compound:prt	_
 5	with	with	ADP	IN	_	9	case	9:case	_
 6	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	9:det	_
@@ -88,8 +88,8 @@ The following 3 pairs of parts of speech are connected with `compound:prt`: <tt>
 8	speakers	speaker	NOUN	NNS	Number=Plur	9	compound	9:compound	_
 9	agency	agency	NOUN	NN	Number=Sing	3	obl	3:obl:with	_
 10	after	after	SCONJ	IN	_	12	mark	12:mark	_
-11	being	be	AUX	VBG	VerbForm=Ger	12	aux:pass	12:aux:pass	_
-12	sacked	sack	VERB	VBN	Tense=Past|VerbForm=Part	3	advcl	3:advcl:after	_
+11	being	be	AUX	VBG	Tense=Pres|VerbForm=Part	12	aux:pass	12:aux:pass	_
+12	sacked	sack	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	advcl	3:advcl:after	_
 13	in	in	ADP	IN	_	14	case	14:case	_
 14	July	July	PROPN	NNP	Number=Sing	12	obl	12:obl:in	SpaceAfter=No
 15	.	.	PUNCT	.	_	3	punct	3:punct	_

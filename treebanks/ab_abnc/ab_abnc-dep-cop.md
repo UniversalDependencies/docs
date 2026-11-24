@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-125 nodes (1%) are attached to their parents as `cop`.
+131 nodes (1%) are attached to their parents as `cop`.
 
-125 instances of `cop` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.144.
+131 instances of `cop` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.13740458015267.
 
-The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-AUX.html">AUX</a></tt> (44; 35% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ab_abnc-pos-AUX.html">AUX</a></tt> (30; 24% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-AUX.html">AUX</a></tt> (23; 18% instances), <tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ab_abnc-pos-AUX.html">AUX</a></tt> (19; 15% instances), <tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ab_abnc-pos-AUX.html">AUX</a></tt> (6; 5% instances), <tt><a href="ab_abnc-pos-NUM.html">NUM</a></tt>-<tt><a href="ab_abnc-pos-AUX.html">AUX</a></tt> (3; 2% instances).
+The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-AUX.html">AUX</a></tt> (46; 35% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ab_abnc-pos-AUX.html">AUX</a></tt> (31; 24% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-AUX.html">AUX</a></tt> (24; 18% instances), <tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ab_abnc-pos-AUX.html">AUX</a></tt> (21; 16% instances), <tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ab_abnc-pos-AUX.html">AUX</a></tt> (6; 5% instances), <tt><a href="ab_abnc-pos-NUM.html">NUM</a></tt>-<tt><a href="ab_abnc-pos-AUX.html">AUX</a></tt> (3; 2% instances).
 
 
 ~~~ conllu

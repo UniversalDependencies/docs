@@ -52,4 +52,4 @@ If a word meaning "pair" is used as a quantifier.
 #### Examples:
 - _ǰuxt_ "pair"
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:04 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:51 CET -->

@@ -51,9 +51,10 @@ In general, tokens are delimited by whitespace characters and punctuation. This 
 
 ## Treebanks
 ---
-As of UD 2.14, there are two Ottoman Turkish UD treebanks:
+As of UD 2.19, there are three Ottoman Turkish UD treebanks:
 
   * [Ottoman Turkish-BOUN](../treebanks/ota_boun/index.html)
   * [Ottoman Turkish-DUDU](../treebanks/ota_dudu/index.html)
+  * [Ottoman Turkish-TUECL](../treebanks/ota_tuecl/index.html)
   
 ---

@@ -90,5 +90,5 @@ A nominal expression identifying or further specifying another nominal may inste
 8	Յովնանեանը	Յովնանեան	PROPN	_	Animacy=Hum|Case=Nom|Definite=Def|NameType=Sur|Number=Sing	5	flat:name	_	Translit=Yovnaneanë|LTranslit=Yovnanean
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:16 CEST -->
 
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:52 CET -->

@@ -73,7 +73,7 @@ The following 4 pairs of parts of speech are connected with `fixed`: <tt><a href
 # visual-style 1 2 fixed	color:blue
 1	Neyse	neyse	ADV	RB	_	21	advmod	_	_
 2	ki	ki	SCONJ	SCONJ	_	1	fixed	_	_
-3	Sony	Sony	PROPN	PROPN	Number=Sing	5	obl	_	Proper=True
+3	Sony	Sony	PROPN	PROPN	Number=Sing	5	nmod	_	Proper=True
 4	Avustralya'da	Avustralya	PROPN	PROPN	Case=Loc|Number=Sing	3	flat	_	Proper=True
 5	birisi	biri	PRON	PRI	Case=Nom|Number=Sing|Person=3|Polarity=Pos	21	nsubj	_	_
 6	"	"	PUNCT	``	_	13	punct	_	SpaceAfter=No

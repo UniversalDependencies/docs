@@ -67,7 +67,7 @@ The following 8 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 4	esse	sum	AUX	N3|modH|tem1	Aspect=Imp|InflClass=LatAnom|VerbForm=Inf	7	csubj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 5	per	per	ADP	S4	_	6	case	_	_
 6	se	sui	PRON	F1|grn1|casD|gen3	Case=Acc|InflClass=LatAnom|Person=3|PronType=Prs|Reflex=Yes	7	obl	_	_
-7	notum	notus	ADJ	L2|modM|tem4|grp1|casA|gen3	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|VerbForm=Part	1	csubj:pass	_	TraditionalMood=Participium|TraditionalTense=Perfectum
+7	notum	notus	ADJ	L2|modM|tem4|grp1|casA|gen3	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	1	csubj:pass	_	TraditionalMood=Participium|TraditionalTense=Perfectum
 8	est	sum	AUX	N3|modA|tem1|gen6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
 9	.	.	PUNCT	Punc	_	1	punct	_	_
 

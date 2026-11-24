@@ -49,7 +49,7 @@ The following 4 pairs of parts of speech are connected with `advcl`: <tt><a href
 8	ind	in	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	9	det	_	SpaceAfter=No
 9	inducbál	inducbál	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 10	ó	ó	ADP	_	AdpType=Prep|Definite=Ind	11	case	_	_
-11	dia	día	NOUN	_	Case=Dat|Number=Sing	9	nmod	_	_
+11	dia	día	PROPN	_	Case=Dat|Number=Sing	9	nmod	_	_
 12	tar	tar	ADP	_	AdpType=Prep|Definite=Ind	13	case	_	SpaceAfter=No
 13	hési	éis	NOUN	_	Case=Acc|Number=Sing	9	nmod	_	_
 14	denmo	dénum	NOUN	_	Case=Gen|Number=Sing	13	nmod	_	_

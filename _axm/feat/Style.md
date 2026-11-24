@@ -17,10 +17,11 @@ udver: '2'
 </tr>
 </table>
 
-This
-may be a lexical feature (some words-lemmas are archaic, some are colloquial) or a morphological feature (inflectional patterns may systematically change between dialects or styles).
+This may be a lexical feature (some words-lemmas are archaic, some are colloquial) or a morphological feature (inflectional patterns may systematically change between dialects or styles). 
 
 ### <a name="Arch">`Arch`</a>: archaic, obsolete
+
+Note that the value `Style=Arch` is used also for present and imperfect indicative forms that lack the Middle Armenian [AUX]() _կու_/_kow_. 
 
 #### Examples
 
@@ -65,4 +66,4 @@ This value is used for variant forms of the same word.
 
 * _դատւոր, դատուոր_/_datwor, datowor_, _թեպուր, թեփուր_/_t’epowr, t’ep’owr_, _մգռա, մքռա_/_mgṙa, mk’ṙa_
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:19 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:04 CET -->

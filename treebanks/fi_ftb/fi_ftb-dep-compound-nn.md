@@ -37,11 +37,11 @@ The following 9 pairs of parts of speech are connected with `compound:nn`: <tt><
 # visual-style 5	fgColor:white
 # visual-style 5 4 compound:nn	color:blue
 1	Loistavaa	loistaa	VERB	V,Act,PcpVa,Sg,Par	Case=Par|Number=Sing|PartForm=Pres|VerbForm=Part|Voice=Act	0	root	_	_
-2	,	,	PUNCT	Pun	_	1	punct	_	_
+2	,	,	PUNCT	Pun	_	5	punct	_	_
 3	aivan	aivan	ADV	Adv,Pcle	_	4	advmod	_	_
 4	nappi	nappi	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	5	compound:nn	_	Alt=compound:nn
 5	suoritus	suoritus	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	1	conj	_	_
-6	.	.	PUNCT	Pun	_	5	punct	_	_
+6	.	.	PUNCT	Pun	_	1	punct	_	_
 
 ~~~
 
@@ -57,7 +57,7 @@ The following 9 pairs of parts of speech are connected with `compound:nn`: <tt><
 3	erikoiskoe	erikoiskoe	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	4	compound:nn	_	Alt=compound:nn
 4	20:n	20	NUM	Num,Card,Sg,Gen	Case=Gen|Number=Sing|NumType=Card	1	nummod	_	_
 5	jälkeen	jälkeen	ADP	Adp	_	4	case	_	_
-6	.	.	PUNCT	Pun	_	4	punct	_	Was18=punct:5:case
+6	.	.	PUNCT	Pun	_	1	punct	_	Was18=punct:5:case
 
 ~~~
 

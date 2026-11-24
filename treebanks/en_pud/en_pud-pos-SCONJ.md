@@ -58,7 +58,7 @@ The 10 most frequent ambiguous types:  <em>that</em> (<tt><a href="en_pud-pos-SC
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.151116).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.151896).
 
 The 1st highest number of forms (1) was observed with the lemma “about”: <em>about</em>.
 
@@ -77,9 +77,9 @@ Examples: <em>that, as, of, if, after, for, while, by, because, than</em>
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 3 different relations: <tt><a href="en_pud-dep-mark.html">mark</a></tt> (281; 97% instances), <tt><a href="en_pud-dep-fixed.html">fixed</a></tt> (5; 2% instances), <tt><a href="en_pud-dep-case.html">case</a></tt> (3; 1% instances)
+`SCONJ` nodes are attached to their parents using 2 different relations: <tt><a href="en_pud-dep-mark.html">mark</a></tt> (284; 98% instances), <tt><a href="en_pud-dep-fixed.html">fixed</a></tt> (5; 2% instances)
 
-Parents of `SCONJ` nodes belong to 7 different parts of speech: <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (241; 83% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (20; 7% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (14; 5% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (5; 2% instances), <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> (4; 1% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (2; 1% instances)
+Parents of `SCONJ` nodes belong to 7 different parts of speech: <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (243; 84% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (20; 7% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (14; 5% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> (4; 1% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances)
 
 283 (98%) `SCONJ` nodes are leaves.
 

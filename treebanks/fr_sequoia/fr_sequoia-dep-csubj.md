@@ -50,7 +50,7 @@ The following 6 pairs of parts of speech are connected with `csubj`: <tt><a href
 1	Il	lui	PRON	_	Case=Nom|Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl:subj	_	_
 2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:tense	_	_
 3	rapidement	rapidement	ADV	_	_	4	advmod	_	_
-4	apparu	apparaître	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	Tense[denom]=Past
+4	apparu	apparaître	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	Status[Tense]=Denom
 5	que	que	SCONJ	_	_	10	mark	_	_
 6	l'	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	Exponence[Gender]=Absent|SpaceAfter=No
 7	armée	armée	NOUN	_	Gender=Fem|Number=Sing	10	nsubj	_	Exponence[Gender]=Inherent
@@ -89,11 +89,11 @@ The following 6 pairs of parts of speech are connected with `csubj`: <tt><a href
 12	affaire	affaire	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	Exponence[Gender]=Inherent
 13	dès	dès	ADP	_	_	14	case	_	_
 14	septembre	septembre	NOUN	_	Gender=Masc|Number=Sing	9	obl:mod	_	Exponence[Gender]=Inherent
-15	2004	2004	NUM	_	Number=Sing|NumType=Card	14	nmod	_	Exponence[Number]=Inherent|SpaceAfter=No
+15	2004	2004	NUM	_	ExtPos=PROPN|Number=Sing|NumType=Card	14	nmod	_	Exponence[Number]=Inherent|SpaceAfter=No
 16	,	,	PUNCT	_	_	19	punct	_	_
 17	mais	mais	CCONJ	_	_	19	cc	_	_
 18	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	aux:tense	_	_
-19	gardé	garder	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	9	conj	_	Tense[denom]=Past
+19	gardé	garder	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	9	conj	_	Status[Tense]=Denom
 20	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
 21	silence	silence	NOUN	_	Gender=Masc|Number=Sing	19	obj	_	Exponence[Gender]=Inherent
 22	sans	sans	ADP	_	_	23	mark	_	_
@@ -104,7 +104,7 @@ The following 6 pairs of parts of speech are connected with `csubj`: <tt><a href
 27	jusqu'	jusque	ADP	_	_	29	case	_	SpaceAfter=No
 28	à	à	ADP	_	_	29	case	_	_
 29	début	début	NOUN	_	Gender=Masc|Number=Sing	19	obl:mod	_	Exponence[Gender]=Inherent
-30	2006	2006	NUM	_	Number=Sing|NumType=Card	29	nmod	_	Exponence[Number]=Inherent|SpaceAfter=No
+30	2006	2006	NUM	_	ExtPos=PROPN|Number=Sing|NumType=Card	29	nmod	_	Exponence[Number]=Inherent|SpaceAfter=No
 31	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~

@@ -12,19 +12,19 @@ It occurs with 4 different values: `Cnd`, `Imp`, `Ind`, `Qot`.
 11478 tokens (13%) have a non-empty value of `Mood`.
 2820 types (14%) occur at least once with a non-empty value of `Mood`.
 899 lemmas (8%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (7031; 8% instances), <tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (4447; 5% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (7032; 8% instances), <tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (4446; 5% instances).
 
 ### `VERB`
 
-7031 <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> tokens (65% of all `VERB` tokens) have a non-empty value of `Mood`.
+7032 <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> tokens (65% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="et_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7030; 100%), <tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (6610; 94%), <tt><a href="et_ewt-feat-Connegative.html">Connegative</a></tt><tt>=EMPTY</tt> (5924; 84%), <tt><a href="et_ewt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5429; 77%), <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4166; 59%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="et_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7031; 100%), <tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (6611; 94%), <tt><a href="et_ewt-feat-Connegative.html">Connegative</a></tt><tt>=EMPTY</tt> (5925; 84%), <tt><a href="et_ewt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5430; 77%), <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4166; 59%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Cnd` (445; 6% of non-empty `Mood`): <em>tahaks, tuleks, oleks, saaks, läheks, hakkaks, jääks, ütleks, annaks, teeks</em>
 * `Imp` (350; 5% of non-empty `Mood`): <em>vaata, mine, mõtle, minge, tee, võta, proovi, kirjuta, osta, ütle</em>
-* `Ind` (6227; 89% of non-empty `Mood`): <em>on, tuleb, saab, tea, läheb, pole, saa, tuli, läks, sain</em>
+* `Ind` (6228; 89% of non-empty `Mood`): <em>on, tuleb, saab, tea, läheb, pole, saa, tuli, läks, sain</em>
 * `Qot` (9; 0% of non-empty `Mood`): <em>Räägitavat, andvat, hoidvat, mainivat, meeldivat, minevat, säilivat, tahetavat, tegevat</em>
 * `EMPTY` (3850): <em>teha, saada, minna, teada, olemas, öelda, panna, saanud, osta, näha</em>
 
@@ -60,15 +60,15 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 ### `AUX`
 
-4447 <tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> tokens (72% of all `AUX` tokens) have a non-empty value of `Mood`.
+4446 <tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> tokens (72% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="et_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4447; 100%), <tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4444; 100%), <tt><a href="et_ewt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (4064; 91%), <tt><a href="et_ewt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3909; 88%), <tt><a href="et_ewt-feat-Person.html">Person</a></tt><tt>=3</tt> (2786; 63%), <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2781; 63%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="et_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4446; 100%), <tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4443; 100%), <tt><a href="et_ewt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (4064; 91%), <tt><a href="et_ewt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3908; 88%), <tt><a href="et_ewt-feat-Person.html">Person</a></tt><tt>=3</tt> (2786; 63%), <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2781; 63%).
 
 `AUX` tokens may have the following values of `Mood`:
 
 * `Cnd` (514; 12% of non-empty `Mood`): <em>oleks, peaks, võiks, saaks, poleks, oleksin, peaksid, võiksid, tohiks, oleksid</em>
 * `Imp` (51; 1% of non-empty `Mood`): <em>ära, olgu, ole, ärge, olge, olgem, ärgu, 0le, do, Ärgem</em>
-* `Ind` (3860; 87% of non-empty `Mood`): <em>on, oli, pole, ole, olen, võib, saab, peab, saa, oled</em>
+* `Ind` (3859; 87% of non-empty `Mood`): <em>on, oli, pole, ole, olen, võib, saab, peab, saa, oled</em>
 * `Qot` (22; 0% of non-empty `Mood`): <em>olevat, pidavat</em>
 * `EMPTY` (1696): <em>ei, olla, olema, olnud, võinud, olles, pidanud, saanud, mai, olemagi</em>
 

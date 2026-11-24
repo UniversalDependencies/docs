@@ -11,7 +11,7 @@ It occurs with 2 different values: `Imp`, `Ind`.
 
 19337 tokens (9%) have a non-empty value of `Mood`.
 2213 types (8%) occur at least once with a non-empty value of `Mood`.
-1394 lemmas (6%) occur at least once with a non-empty value of `Mood`.
+1395 lemmas (6%) occur at least once with a non-empty value of `Mood`.
 The feature is used with 2 part-of-speech tags: <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (10666; 5% instances), <tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (8671; 4% instances).
 
 ### `VERB`
@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 * `Imp` (122; 1% of non-empty `Mood`): <em>Noem, Geef, kom, zie, Kijk, Doe, Laat, Neem, Wacht, bewaar</em>
 * `Ind` (10544; 99% of non-empty `Mood`): <em>heeft, komt, heet, wil, is, gaat, zei, kwam, noemt, hebben</em>
-* `EMPTY` (11303): <em>komen, gaan, maken, zien, doen, gemaakt, gehouden, genoemd, nemen, laten</em>
+* `EMPTY` (11301): <em>komen, gaan, maken, zien, doen, gemaakt, gehouden, genoemd, nemen, laten</em>
 
 <table>
   <tr><th>Paradigm <i>hebben</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th></tr>
@@ -34,7 +34,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
   <tr><td><tt><tt><a href="nl_alpino-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="nl_alpino-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>hebben</em></td><td></td></tr>
 </table>
 
-`Mood` seems to be **lexical feature** of `VERB`. 97% lemmas (1355) occur only with one value of `Mood`.
+`Mood` seems to be **lexical feature** of `VERB`. 97% lemmas (1356) occur only with one value of `Mood`.
 
 ### `AUX`
 
@@ -46,7 +46,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 
 * `Imp` (1; 0% of non-empty `Mood`): <em>Wees</em>
 * `Ind` (8670; 100% of non-empty `Mood`): <em>is, was, heeft, zijn, werd, wordt, zal, zou, kan, hebben</em>
-* `EMPTY` (1147): <em>worden, zijn, kunnen, moeten, hebben, geweest, zullen, mogen, krijgen, wezen</em>
+* `EMPTY` (1148): <em>worden, zijn, kunnen, moeten, hebben, geweest, zullen, mogen, krijgen, wezen</em>
 
 <table>
   <tr><th>Paradigm <i>zijn</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th></tr>
@@ -59,8 +59,8 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="nl_alpino-dep-conj.html">conj</a></tt>]--> VERB</tt> (508; 65%),
-<tt>VERB --[<tt><a href="nl_alpino-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (240; 56%),
+<tt>VERB --[<tt><a href="nl_alpino-dep-conj.html">conj</a></tt>]--> VERB</tt> (509; 65%),
+<tt>VERB --[<tt><a href="nl_alpino-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (239; 56%),
 <tt>AUX --[<tt><a href="nl_alpino-dep-conj.html">conj</a></tt>]--> AUX</tt> (8; 100%),
 <tt>VERB --[<tt><a href="nl_alpino-dep-csubj-outer.html">csubj:outer</a></tt>]--> VERB</tt> (7; 58%),
 <tt>AUX --[<tt><a href="nl_alpino-dep-conj.html">conj</a></tt>]--> VERB</tt> (2; 100%),

@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  있다 (<tt><a href="ko_gsd-pos-VERB.html
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 7.400000 (the average of all parts of speech is 1.001499).
+The form / lemma ratio of `AUX` is 7.400000 (the average of all parts of speech is 1.001527).
 
 The 1st highest number of forms (22) was observed with the lemma “이”: 는, 라, 라고, 라는, 라며, 란, 며, 였고, 였는데, 였던, 였으나, 이거나, 이고, 이다, 이라, 이라고, 이라는, 이라며, 이라면서, 이며, 인, 인데.
 

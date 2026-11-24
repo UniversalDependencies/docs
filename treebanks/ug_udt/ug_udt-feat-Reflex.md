@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="ug_udt-pos-PRON.htm
 
 147 <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> tokens (5% of all `PRON` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="ug_udt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (147; 100%), <tt><a href="ug_udt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (147; 100%), <tt><a href="ug_udt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (147; 100%).
+The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="ug_udt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (147; 100%), <tt><a href="ug_udt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (147; 100%), <tt><a href="ug_udt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (147; 100%).
 
 `PRON` tokens may have the following values of `Reflex`:
 

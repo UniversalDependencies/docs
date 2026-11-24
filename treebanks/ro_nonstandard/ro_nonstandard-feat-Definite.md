@@ -9,20 +9,20 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Def`, `Ind`.
 
-134886 tokens (24%) have a non-empty value of `Definite`.
-21212 types (67%) occur at least once with a non-empty value of `Definite`.
-9344 lemmas (76%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 6 part-of-speech tags: <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (96781; 17% instances), <tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt> (19968; 3% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt> (11426; 2% instances), <tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt> (3246; 1% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (2607; 0% instances), <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (858; 0% instances).
+134884 tokens (24%) have a non-empty value of `Definite`.
+21209 types (67%) occur at least once with a non-empty value of `Definite`.
+9342 lemmas (76%) occur at least once with a non-empty value of `Definite`.
+The feature is used with 6 part-of-speech tags: <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (96780; 17% instances), <tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt> (19967; 3% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt> (11426; 2% instances), <tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt> (3246; 1% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (2607; 0% instances), <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (858; 0% instances).
 
 ### `NOUN`
 
-96781 <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Definite`.
+96780 <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `NOUN` and `Definite` co-occurred: <tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt> (87449; 90%), <tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=Sing</tt> (71134; 73%), <tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (49597; 51%).
+The most frequent other feature values with which `NOUN` and `Definite` co-occurred: <tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt> (87448; 90%), <tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=Sing</tt> (71133; 73%), <tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (49596; 51%).
 
 `NOUN` tokens may have the following values of `Definite`:
 
-* `Def` (44543; 46% of non-empty `Definite`): <em>domnul, țara, omul, domnului, cuvîntul, împăratul, turcii, oamenii, numele, fiiul</em>
+* `Def` (44542; 46% of non-empty `Definite`): <em>domnul, țara, omul, domnului, cuvîntul, împăratul, turcii, oamenii, numele, fiiul</em>
 * `Ind` (52238; 54% of non-empty `Definite`): <em>vodă, doamne, țară, om, oaste, lume, oameni, pace, parte, bani</em>
 * `EMPTY` (1): <em>neamure</em>
 
@@ -39,14 +39,14 @@ The most frequent other feature values with which `NOUN` and `Definite` co-occur
 
 ### `PROPN`
 
-19968 <tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt> tokens (99% of all `PROPN` tokens) have a non-empty value of `Definite`.
+19967 <tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt> tokens (99% of all `PROPN` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `PROPN` and `Definite` co-occurred: <tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=Sing</tt> (19121; 96%), <tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt> (18754; 94%), <tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (16817; 84%).
+The most frequent other feature values with which `PROPN` and `Definite` co-occurred: <tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=Sing</tt> (19120; 96%), <tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt> (18753; 94%), <tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (16816; 84%).
 
 `PROPN` tokens may have the following values of `Definite`:
 
 * `Def` (4690; 23% of non-empty `Definite`): <em>Duca, Moldova, Evangheliia, Brîncovanul, Tighine, Lupul, Dumitraşco-, Ducăi, Gruia, Moscului</em>
-* `Ind` (15278; 77% of non-empty `Definite`): <em>dumnezău, Hristos, Iisus, Pavel, David, Poartă, Pătru, Ioan, Mihai-, Costantin</em>
+* `Ind` (15277; 77% of non-empty `Definite`): <em>dumnezău, Hristos, Iisus, Pavel, David, Poartă, Pătru, Ioan, Mihai-, Costantin</em>
 * `EMPTY` (167): <em>tîrgu, târgu, greșală, Dunărea, războiu, boer, iarăș, Catargiul, Chipru, Filimon</em>
 
 <table>
@@ -91,7 +91,7 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 `DET` tokens may have the following values of `Definite`:
 
 * `Def` (3246; 100% of non-empty `Definite`): <em>lui, -lea, -a, lu, un, -le, iui, niște, -lui</em>
-* `EMPTY` (20612): <em>a, un, o, toată, ta, toate, tot, al, cel, cea</em>
+* `EMPTY` (20613): <em>a, un, o, toată, ta, toate, tot, al, cel, cea</em>
 
 ### `PRON`
 
@@ -102,7 +102,7 @@ The most frequent other feature values with which `PRON` and `Definite` co-occur
 `PRON` tokens may have the following values of `Definite`:
 
 * `Def` (2607; 100% of non-empty `Definite`): <em>carele, carii, carea, unii, totul, alții, toții, unul, toțîi, alțîi</em>
-* `EMPTY` (62020): <em>să, ce, lui, el, -i, -l, s-, lor, ei, le</em>
+* `EMPTY` (62018): <em>să, ce, lui, el, -i, -l, s-, lor, ei, le</em>
 
 `Definite` seems to be **lexical feature** of `PRON`. 100% lemmas (10) occur only with one value of `Definite`.
 
@@ -132,10 +132,10 @@ The most frequent other feature values with which `NUM` and `Definite` co-occurr
 
 The 10 most frequent relations where parent and child node agree in `Definite`:
 <tt>NOUN --[<tt><a href="ro_nonstandard-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (8747; 75%),
-<tt>NOUN --[<tt><a href="ro_nonstandard-dep-conj.html">conj</a></tt>]--> NOUN</tt> (5774; 85%),
-<tt>NOUN --[<tt><a href="ro_nonstandard-dep-amod.html">amod</a></tt>]--> ADJ</tt> (4401; 58%),
+<tt>NOUN --[<tt><a href="ro_nonstandard-dep-conj.html">conj</a></tt>]--> NOUN</tt> (5775; 85%),
+<tt>NOUN --[<tt><a href="ro_nonstandard-dep-amod.html">amod</a></tt>]--> ADJ</tt> (4402; 58%),
 <tt>PROPN --[<tt><a href="ro_nonstandard-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1933; 64%),
-<tt>NOUN --[<tt><a href="ro_nonstandard-dep-appos.html">appos</a></tt>]--> NOUN</tt> (770; 73%),
+<tt>NOUN --[<tt><a href="ro_nonstandard-dep-appos.html">appos</a></tt>]--> NOUN</tt> (773; 73%),
 <tt>PROPN --[<tt><a href="ro_nonstandard-dep-conj.html">conj</a></tt>]--> PROPN</tt> (751; 75%),
 <tt>PROPN --[<tt><a href="ro_nonstandard-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (708; 66%),
 <tt>ADJ --[<tt><a href="ro_nonstandard-dep-conj.html">conj</a></tt>]--> ADJ</tt> (640; 99%),

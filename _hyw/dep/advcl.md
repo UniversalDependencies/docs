@@ -49,4 +49,4 @@ This relation is also used for optional depictive adjectives, where the adjectiv
 
 *երջանիկ*/*erǰanik* “happy” describes those who are smiling, not the manner of smiling—but is still taken to modify the verb.
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:28 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:11 CET -->

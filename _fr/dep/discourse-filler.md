@@ -16,3 +16,4 @@ discourse:filler(alors,euh)
 je vais traverser, euh, le boulevard Gambetta . \n I'm going to cross, um, Gambetta Boulevard
 discourse:filler(traverser,euh)
 ~~~
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:42 CET -->

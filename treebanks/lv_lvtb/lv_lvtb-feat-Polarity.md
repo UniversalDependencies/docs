@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Neg`, `Pos`.
 
-59466 tokens (18%) have a non-empty value of `Polarity`.
-19031 types (35%) occur at least once with a non-empty value of `Polarity`.
+59446 tokens (18%) have a non-empty value of `Polarity`.
+19030 types (35%) occur at least once with a non-empty value of `Polarity`.
 4364 lemmas (19%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 4 part-of-speech tags: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (49723; 15% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (9002; 3% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (454; 0% instances), <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (287; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (49703; 15% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (9002; 3% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (454; 0% instances), <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (287; 0% instances).
 
 ### `VERB`
 
-49723 <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Polarity`.
+49703 <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="lv_lvtb-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (41910; 84%), <tt><a href="lv_lvtb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (38424; 77%), <tt><a href="lv_lvtb-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (37151; 75%), <tt><a href="lv_lvtb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (37151; 75%), <tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (36968; 74%), <tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (36968; 74%), <tt><a href="lv_lvtb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (32429; 65%), <tt><a href="lv_lvtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (32308; 65%), <tt><a href="lv_lvtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (27333; 55%), <tt><a href="lv_lvtb-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (25579; 51%).
+The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="lv_lvtb-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (41886; 84%), <tt><a href="lv_lvtb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (38403; 77%), <tt><a href="lv_lvtb-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (37151; 75%), <tt><a href="lv_lvtb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (37151; 75%), <tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (36968; 74%), <tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (36968; 74%), <tt><a href="lv_lvtb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (32431; 65%), <tt><a href="lv_lvtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (32308; 65%), <tt><a href="lv_lvtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (27333; 55%), <tt><a href="lv_lvtb-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (25559; 51%).
 
 `VERB` tokens may have the following values of `Polarity`:
 
-* `Neg` (3335; 7% of non-empty `Polarity`): <em>nav, nevar, nebija, nedrīkst, nevajag, nevaru, nezinu, nebūs, nespēj, nespēja</em>
-* `Pos` (46388; 93% of non-empty `Polarity`): <em>ir, var, varētu, bija, būs, teica, notiek, sāka, saka, uzskata</em>
+* `Neg` (3340; 7% of non-empty `Polarity`): <em>nav, nevar, nebija, nedrīkst, nevajag, nevaru, nezinu, nebūs, nespēj, nespēja</em>
+* `Pos` (46363; 93% of non-empty `Polarity`): <em>ir, var, varētu, bija, būs, teica, notiek, sāka, saka, uzskata</em>
 * `EMPTY` (3): <em>sk.</em>
 
 <table>
@@ -161,7 +161,7 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 
 * `Neg` (358; 79% of non-empty `Polarity`): <em>ne, nē</em>
 * `Pos` (96; 21% of non-empty `Polarity`): <em>jā</em>
-* `EMPTY` (6643): <em>arī, tikai, pat, kā, vai, gan, kaut, vien, jau, tieši</em>
+* `EMPTY` (6662): <em>arī, tikai, pat, kā, vai, gan, kaut, vien, jau, tieši</em>
 
 ### `CCONJ`
 
@@ -175,13 +175,13 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 ## Relations with Agreement in `Polarity`
 
 The 10 most frequent relations where parent and child node agree in `Polarity`:
-<tt>VERB --[<tt><a href="lv_lvtb-dep-conj.html">conj</a></tt>]--> VERB</tt> (7177; 89%),
+<tt>VERB --[<tt><a href="lv_lvtb-dep-conj.html">conj</a></tt>]--> VERB</tt> (7175; 89%),
 <tt>VERB --[<tt><a href="lv_lvtb-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (3808; 87%),
 <tt>VERB --[<tt><a href="lv_lvtb-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (3511; 87%),
-<tt>VERB --[<tt><a href="lv_lvtb-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (3282; 81%),
+<tt>VERB --[<tt><a href="lv_lvtb-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (3281; 81%),
 <tt>VERB --[<tt><a href="lv_lvtb-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (1748; 86%),
 <tt>VERB --[<tt><a href="lv_lvtb-dep-aux.html">aux</a></tt>]--> AUX</tt> (1730; 82%),
-<tt>VERB --[<tt><a href="lv_lvtb-dep-cop.html">cop</a></tt>]--> AUX</tt> (412; 75%),
+<tt>VERB --[<tt><a href="lv_lvtb-dep-cop.html">cop</a></tt>]--> AUX</tt> (411; 75%),
 <tt>VERB --[<tt><a href="lv_lvtb-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (225; 87%),
 <tt>VERB --[<tt><a href="lv_lvtb-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (220; 88%),
 <tt>VERB --[<tt><a href="lv_lvtb-dep-csubj-pass.html">csubj:pass</a></tt>]--> VERB</tt> (120; 98%).

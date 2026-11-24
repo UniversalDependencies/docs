@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-37 nodes (1%) are attached to their parents as `cop`.
+38 nodes (1%) are attached to their parents as `cop`.
 
-28 instances of `cop` (76%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.51351351351351.
+29 instances of `cop` (76%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.57894736842105.
 
-The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (16; 43% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (8; 22% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (4; 11% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (4; 11% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (4; 11% instances), <tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (1; 3% instances).
+The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (16; 42% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (8; 21% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (5; 13% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (4; 11% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (4; 11% instances), <tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -56,14 +56,14 @@ The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="
 ~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 cop	color:blue
-1	Čeäkkleemaainâs	čeäkkleemaainâs	NOUN	N	Case=Nom|Number=Sing	3	nsubj:cop	_	GTtags=Sg,Nom
-2	lij	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	GTtags=Ind,Prs,Sg3,@+FMAINV
-3	nuʹt	nuʹtt	ADV	Adv	_	0	root	_	GTtags=Err/Orth,@<ADVL
-4	što	što	SCONJ	CS	_	3	ccomp	_	GTtags=@CVP
-5	...	...	PUNCT	CLB	_	3	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 cop	color:blue
+1	Son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj:cop	_	GTtags=Pers,Sg3,Nom
+2	leäi	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	GTtags=Ind,Prt,Sg3
+3	pieʹʒʒid	pieʹcc	NOUN	N	Case=Acc|Number=Plur	4	obj	_	GTtags=Pl,Acc
+4	vueʹtǩǩmen	vueʹtǩǩed	VERB	V	Case=Ess|Derivation=Men	0	root	_	GTtags=Actio,Ess|SpaceAfter=No
+5	.	.	PUNCT	CLB	_	4	punct	_	_
 
 ~~~
 

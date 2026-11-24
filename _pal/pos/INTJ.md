@@ -13,3 +13,4 @@ Interjections are rare in the written corpus of Middle Persian. They are words t
 
 ### Border cases
 Words with lexical meaning that are used in exclamations are not annotated as interjections because this usage does not constitute a separate sense (e.g. *wāy* 'woe').
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:27 CET -->

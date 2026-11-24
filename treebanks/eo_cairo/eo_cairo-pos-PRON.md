@@ -40,7 +40,7 @@ Examples: <em>vi</em>
 
 ## Relations
 
-`PRON` nodes are attached to their parents using 5 different relations: <tt><a href="eo_cairo-dep-nsubj.html">nsubj</a></tt> (15; 63% instances), <tt><a href="eo_cairo-dep-nmod-poss.html">nmod:poss</a></tt> (5; 21% instances), <tt><a href="eo_cairo-dep-obj.html">obj</a></tt> (2; 8% instances), <tt><a href="eo_cairo-dep-nmod.html">nmod</a></tt> (1; 4% instances), <tt><a href="eo_cairo-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 4% instances)
+`PRON` nodes are attached to their parents using 5 different relations: <tt><a href="eo_cairo-dep-nsubj.html">nsubj</a></tt> (15; 63% instances), <tt><a href="eo_cairo-dep-nmod-poss.html">nmod:poss</a></tt> (5; 21% instances), <tt><a href="eo_cairo-dep-obj.html">obj</a></tt> (2; 8% instances), <tt><a href="eo_cairo-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 4% instances), <tt><a href="eo_cairo-dep-obl.html">obl</a></tt> (1; 4% instances)
 
 Parents of `PRON` nodes belong to 3 different parts of speech: <tt><a href="eo_cairo-pos-VERB.html">VERB</a></tt> (18; 75% instances), <tt><a href="eo_cairo-pos-NOUN.html">NOUN</a></tt> (5; 21% instances), <tt><a href="eo_cairo-pos-ADJ.html">ADJ</a></tt> (1; 4% instances)
 

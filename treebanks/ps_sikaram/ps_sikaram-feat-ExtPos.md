@@ -9,24 +9,32 @@ udver: '2'
 This feature is language-specific.
 It occurs with 3 different values: `ADJ`, `ADV`, `SCONJ`.
 
-24 tokens (0%) have a non-empty value of `ExtPos`.
-10 types (1%) occur at least once with a non-empty value of `ExtPos`.
-10 lemmas (1%) occur at least once with a non-empty value of `ExtPos`.
-The feature is used with 5 part-of-speech tags: <tt><a href="ps_sikaram-pos-ADV.html">ADV</a></tt> (11; 0% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="ps_sikaram-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ps_sikaram-pos-X.html">X</a></tt> (1; 0% instances).
+34 tokens (0%) have a non-empty value of `ExtPos`.
+12 types (1%) occur at least once with a non-empty value of `ExtPos`.
+12 lemmas (1%) occur at least once with a non-empty value of `ExtPos`.
+The feature is used with 6 part-of-speech tags: <tt><a href="ps_sikaram-pos-ADV.html">ADV</a></tt> (15; 0% instances), <tt><a href="ps_sikaram-pos-SCONJ.html">SCONJ</a></tt> (8; 0% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ps_sikaram-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `ADV`
 
-11 <tt><a href="ps_sikaram-pos-ADV.html">ADV</a></tt> tokens (5% of all `ADV` tokens) have a non-empty value of `ExtPos`.
+15 <tt><a href="ps_sikaram-pos-ADV.html">ADV</a></tt> tokens (5% of all `ADV` tokens) have a non-empty value of `ExtPos`.
 
 `ADV` tokens may have the following values of `ExtPos`:
 
-* `ADV` (7; 64% of non-empty `ExtPos`): <em>کله, همدا</em>
-* `SCONJ` (4; 36% of non-empty `ExtPos`): <em>کله</em>
+* `ADV` (10; 67% of non-empty `ExtPos`): <em>کله, همدا, اوس, بیا</em>
+* `SCONJ` (5; 33% of non-empty `ExtPos`): <em>کله</em>
 
 <table>
   <tr><th>Paradigm <i>کله</i></th><th><tt>ADV</tt></th><th><tt>SCONJ</tt></th></tr>
   <tr><td><tt></tt></td><td><em>کله</em></td><td><em>کله</em></td></tr>
 </table>
+
+### `SCONJ`
+
+8 <tt><a href="ps_sikaram-pos-SCONJ.html">SCONJ</a></tt> tokens (4% of all `SCONJ` tokens) have a non-empty value of `ExtPos`.
+
+`SCONJ` tokens may have the following values of `ExtPos`:
+
+* `SCONJ` (8; 100% of non-empty `ExtPos`): <em>که, لکه, ځکه, چې</em>
 
 ### `ADJ`
 
@@ -39,13 +47,15 @@ The most frequent other feature values with which `ADJ` and `ExtPos` co-occurred
 * `ADJ` (3; 60% of non-empty `ExtPos`): <em>هـ</em>
 * `ADV` (2; 40% of non-empty `ExtPos`): <em>لږ</em>
 
-### `SCONJ`
+### `PRON`
 
-5 <tt><a href="ps_sikaram-pos-SCONJ.html">SCONJ</a></tt> tokens (3% of all `SCONJ` tokens) have a non-empty value of `ExtPos`.
+3 <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `ExtPos`.
 
-`SCONJ` tokens may have the following values of `ExtPos`:
+The most frequent other feature values with which `PRON` and `ExtPos` co-occurred: <tt><a href="ps_sikaram-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="ps_sikaram-feat-Deixis.html">Deixis</a></tt><tt>=Prox</tt> (3; 100%), <tt><a href="ps_sikaram-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="ps_sikaram-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="ps_sikaram-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="ps_sikaram-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (3; 100%), <tt><a href="ps_sikaram-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (3; 100%).
 
-* `SCONJ` (5; 100% of non-empty `ExtPos`): <em>که, لکه, ځکه, چې</em>
+`PRON` tokens may have the following values of `ExtPos`:
+
+* `ADV` (3; 100% of non-empty `ExtPos`): <em>همدا</em>
 
 ### `NOUN`
 

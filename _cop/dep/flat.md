@@ -14,4 +14,4 @@ This label is used to connect parts of multi-word names, pointing from left to r
 flat(ⲁⲡⲁ, ⲡⲁⲡⲛⲟⲩⲧⲉ)
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:09 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:46 CET -->

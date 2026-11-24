@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Cnd`, `Imp`, `Ind`, `Sub`.
 
-12732 tokens (5%) have a non-empty value of `Mood`.
+12733 tokens (5%) have a non-empty value of `Mood`.
 1551 types (10%) occur at least once with a non-empty value of `Mood`.
 608 lemmas (6%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt> (7391; 3% instances), <tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> (5341; 2% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt> (7391; 3% instances), <tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> (5342; 2% instances).
 
 ### `VERB`
 
@@ -45,16 +45,16 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 ### `AUX`
 
-5341 <tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> tokens (81% of all `AUX` tokens) have a non-empty value of `Mood`.
+5342 <tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> tokens (81% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="pt_petrogold-feat-Person.html">Person</a></tt><tt>=3</tt> (5341; 100%), <tt><a href="pt_petrogold-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5341; 100%), <tt><a href="pt_petrogold-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3482; 65%), <tt><a href="pt_petrogold-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3373; 63%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="pt_petrogold-feat-Person.html">Person</a></tt><tt>=3</tt> (5342; 100%), <tt><a href="pt_petrogold-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5342; 100%), <tt><a href="pt_petrogold-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3483; 65%), <tt><a href="pt_petrogold-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3374; 63%).
 
 `AUX` tokens may have the following values of `Mood`:
 
 * `Cnd` (89; 2% of non-empty `Mood`): <em>seria, seriam, estaria, teriam, estariam, teria, iria</em>
-* `Ind` (5079; 95% of non-empty `Mood`): <em>é, são, foi, foram, estão, está, será, serão, era, tem</em>
+* `Ind` (5080; 95% of non-empty `Mood`): <em>é, são, foi, foram, estão, está, será, serão, era, tem</em>
 * `Sub` (173; 3% of non-empty `Mood`): <em>seja, for, sejam, fosse, estejam, tenha, esteja, fossem, estiver, forem</em>
-* `EMPTY` (1233): <em>ser, sendo, estar, sido, serem, ter, tendo, estando, terem, é</em>
+* `EMPTY` (1232): <em>ser, sendo, estar, sido, serem, ter, tendo, estando, terem, é</em>
 
 <table>
   <tr><th>Paradigm <i>ser</i></th><th><tt>Ind</tt></th><th><tt>Cnd</tt></th><th><tt>Sub</tt></th></tr>

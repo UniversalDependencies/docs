@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Phrygian-KUL: POS Tags: `ADV`
 
-There are 11 `ADV` lemmas (3%), 19 `ADV` types (2%) and 26 `ADV` tokens (1%).
-Out of 16 observed tags, the rank of `ADV` is: 6 in number of lemmas, 12 in number of types and 14 in number of tokens.
+There are 11 `ADV` lemmas (3%), 18 `ADV` types (2%) and 26 `ADV` tokens (1%).
+Out of 16 observed tags, the rank of `ADV` is: 8 in number of lemmas, 12 in number of types and 14 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: <em>kakey, t, σεμουν, ibey, kan, υψοδαν, eḳ, me2, εικ, ερα</em>
 
-The 10 most frequent `ADV` types:  <em>κακε, κακεν, ς, -t, [ο?υ]ψοδ̣αν, eḳ, i]ḅey, iḅẹy, t, εικ</em>
+The 10 most frequent `ADV` types:  <em>-t, κακε, κακεν, ς, [ο?υ]ψοδ̣αν, eḳ, i]ḅey, iḅẹy, εικ, ερα</em>
 
-The 10 most frequent ambiguous lemmas: <em>σεμουν</em> (<tt><a href="xpg_kul-pos-DET.html">DET</a></tt> 102, <tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt> 7, <tt><a href="xpg_kul-pos-ADV.html">ADV</a></tt> 3, <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> 1), <em>me2</em> (<tt><a href="xpg_kul-pos-PART.html">PART</a></tt> 3, <tt><a href="xpg_kul-pos-ADV.html">ADV</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>σεμουν</em> (<tt><a href="xpg_kul-pos-DET.html">DET</a></tt> 105, <tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt> 6, <tt><a href="xpg_kul-pos-ADV.html">ADV</a></tt> 3, <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> 1), <em>me2</em> (<tt><a href="xpg_kul-pos-PART.html">PART</a></tt> 3, <tt><a href="xpg_kul-pos-ADV.html">ADV</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>με</em> (<tt><a href="xpg_kul-pos-ADP.html">ADP</a></tt> 14, <tt><a href="xpg_kul-pos-PART.html">PART</a></tt> 3, <tt><a href="xpg_kul-pos-ADV.html">ADV</a></tt> 1)
 
@@ -25,7 +25,7 @@ The 10 most frequent ambiguous types:  <em>με</em> (<tt><a href="xpg_kul-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.727273 (the average of all parts of speech is 2.442308).
+The form / lemma ratio of `ADV` is 1.636364 (the average of all parts of speech is 2.307512).
 
 The 1st highest number of forms (5) was observed with the lemma “kakey”: <em>κα̣κε̣, κακε, κακεν, κακην, κακιν</em>.
 

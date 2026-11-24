@@ -42,7 +42,7 @@ The following 4 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 8 acl	color:blue
-1	Daghan	daghan	DET	_	_	3	det	_	Gloss=many
+1	Daghan	daghan	DET	_	Number=Plur|PronType=Ind	3	det	_	Gloss=many
 2	-g	ang	ADP	_	Case=Nom	3	case	_	_
 3	nagalgal	galgal	VERB	_	Aspect=Prosp|Mood=Pot|Voice=Pass	0	root	_	Gloss=influenced
 4	ana	ana	PRON	_	Deixis=Med|PronType=Dem	6	nmod	_	Gloss=that
@@ -61,7 +61,7 @@ The following 4 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 1 acl	color:blue
-1	Unsay	unsa	PRON	_	Neutral=Yes	5	acl	_	Gloss=what
+1	Unsay	unsa	PRON	_	Neutral=Yes|PronType=Dem	5	acl	_	Gloss=what
 2	buot	buot	NOUN	_	_	5	nmod	_	Gloss=want
 3	mo	ikaw	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	5	nmod	_	Gloss=you
 4	-ng	nga	PART	_	_	3	mark	_	_

@@ -20,14 +20,14 @@ The 10 most frequent ambiguous types:  <em>а</em> (<tt><a href="koi_uh-pos-CCON
 
 * <em>а</em>
   * <tt><a href="koi_uh-pos-CCONJ.html">CCONJ</a></tt> 8: <em>Томмес менӧ озӧ вежӧртӧ , <b>а</b> пӧриссес — кокаласӧ ...</em>
-  * <tt><a href="koi_uh-pos-PART.html">PART</a></tt> 1: <em>Сія эз мун удж вылö , тшöктісö <b>а</b> .</em>
+  * <tt><a href="koi_uh-pos-PART.html">PART</a></tt> 1: <em>Сія эз мун удж вылӧ , тшӧктісӧ <b>а</b> .</em>
 * <em>и</em>
   * <tt><a href="koi_uh-pos-CCONJ.html">CCONJ</a></tt> 15: <em>Ордчӧн мекӧт пукалӧ сьӧд тошока <b>и</b> гардчӧмкодь уссэза мужик .</em>
   * <tt><a href="koi_uh-pos-PART.html">PART</a></tt> 1: <em>А мукӧдпырся семьяэзӧ пыравліс <b>и</b> гаж .</em>
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.260870).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.239604).
 
 The 1st highest number of forms (1) was observed with the lemma “а”: <em>а</em>.
 

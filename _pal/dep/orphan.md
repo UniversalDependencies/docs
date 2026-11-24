@@ -31,4 +31,4 @@ advmod(čārag, tisiz)
 case(wattarīh, ō-8)
 dep:conj(šāyēd, gōhr)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:38 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:39:09 CET -->

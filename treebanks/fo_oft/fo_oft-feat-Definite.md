@@ -129,11 +129,11 @@ The 10 most frequent relations where parent and child node agree in `Definite`:
 <tt>NOUN --[<tt><a href="fo_oft-dep-amod.html">amod</a></tt>]--> ADJ</tt> (452; 75%),
 <tt>NOUN --[<tt><a href="fo_oft-dep-conj.html">conj</a></tt>]--> NOUN</tt> (136; 91%),
 <tt>NOUN --[<tt><a href="fo_oft-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (92; 56%),
+<tt>NOUN --[<tt><a href="fo_oft-dep-obl.html">obl</a></tt>]--> NOUN</tt> (58; 50%),
 <tt>NOUN --[<tt><a href="fo_oft-dep-parataxis.html">parataxis</a></tt>]--> NOUN</tt> (36; 80%),
 <tt>NOUN --[<tt><a href="fo_oft-dep-nmod-poss.html">nmod:poss</a></tt>]--> PROPN</tt> (23; 52%),
 <tt>ADJ --[<tt><a href="fo_oft-dep-conj.html">conj</a></tt>]--> ADJ</tt> (21; 95%),
 <tt>ADJ --[<tt><a href="fo_oft-dep-obl.html">obl</a></tt>]--> NOUN</tt> (17; 63%),
 <tt>PROPN --[<tt><a href="fo_oft-dep-conj.html">conj</a></tt>]--> PROPN</tt> (12; 80%),
-<tt>NOUN --[<tt><a href="fo_oft-dep-appos.html">appos</a></tt>]--> NOUN</tt> (7; 78%),
-<tt>ADJ --[<tt><a href="fo_oft-dep-conj.html">conj</a></tt>]--> NOUN</tt> (5; 100%).
+<tt>NOUN --[<tt><a href="fo_oft-dep-appos.html">appos</a></tt>]--> NOUN</tt> (7; 78%).
 

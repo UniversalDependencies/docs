@@ -24,7 +24,7 @@ The following 31 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 9 6 cc	color:blue
 1	Провёл	провести	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	полтора	полтора	NUM	CD	Case=Acc|Gender=Masc|NumType=Card	3	nummod:gov	_	_
-3	года	год	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	obl	_	_
+3	года	год	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	obl:tmod	_	_
 4	в	в	ADP	IN	_	5	case	_	_
 5	Риме	Рим	PROPN	NNP	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	obl	_	_
 6	и	и	CCONJ	CC	_	9	cc	_	_
@@ -45,7 +45,7 @@ The following 31 pairs of parts of speech are connected with `cc`: <tt><a href="
 1	Но	но	CCONJ	CC	_	7	cc	_	_
 2	в	в	ADP	IN	_	4	case	_	_
 3	1990	1990	ADJ	ORD	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
-4	г.	год	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	obl	_	_
+4	г.	год	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	obl:tmod	_	_
 5	безоблачная	безоблачный	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
 6	жизнь	жизнь	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	_
 7	закончилась	закончиться	VERB	VBC	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No

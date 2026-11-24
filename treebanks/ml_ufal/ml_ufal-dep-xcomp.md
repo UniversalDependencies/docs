@@ -23,10 +23,10 @@ The following 4 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 7	fgColor:white
 # visual-style 7 6 xcomp	color:blue
 1	അവൻ	അവൻ	PRON	_	Case=Nom|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Translit=avan̕|LTranslit=avan̕
-2	പുകവലി	പുകവലി	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	6	obj	_	Translit=pukavali|LTranslit=pukavali
-3	ഉം	ഉം	CCONJ	_	_	2	cc	_	Translit=uṁ|LTranslit=uṁ
-4	മദ്യപാനം	മദ്യപാനം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	2	conj	_	Translit=madyapānaṁ|LTranslit=madyapānaṁ
-5	ഉം	ഉം	CCONJ	_	_	4	cc	_	Translit=uṁ|LTranslit=uṁ
+2	പുകവലി	പുകവലി	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	6	obj	_	LTranslit=pukavali|Translit=pukavali
+3	ഉം	ഉം	CCONJ	_	_	2	cc	_	LTranslit=uṁ|Translit=uṁ
+4	മദ്യപാനം	മദ്യപാനം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	2	conj	_	LTranslit=madyapānaṁ|Translit=madyapānaṁ
+5	ഉം	ഉം	CCONJ	_	_	4	cc	_	LTranslit=uṁ|Translit=uṁ
 6	നിർത്താൻ	നിർത്ത്	VERB	_	Polarity=Pos|VerbForm=Inf|Voice=Act	7	xcomp	_	Translit=niṟ̕ttān̕|LTranslit=niṟ̕tt
 7	ശ്രമിച്ചു	ശ്രമിക്	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=śramiccu|LTranslit=śramik
 8	.	.	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.
@@ -44,8 +44,8 @@ The following 4 pairs of parts of speech are connected with `xcomp`: <tt><a href
 2	അംഗീകരിച്ചില്ലെങ്കിൽ	അംഗീകരിക്കക	VERB	_	Mood=Cnd|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	7	advcl	_	Translit=aṁgīkariccilleṅkil̕|LTranslit=aṁgīkarikkaka
 3	സുപ്രീം	സുപ്രീം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	4	nmod	_	Translit=suprīṁ|LTranslit=suprīṁ
 4	കോടതിയെ	കോടതി	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	5	obj	_	Translit=kōṭatiye|LTranslit=kōṭati
-5	സമീപിക്കാന	സമീപിക്കക	VERB	_	Polarity=Pos|VerbForm=Inf	7	xcomp	_	Translit=samīpikkāna|LTranslit=samīpikkaka
-6	ഉം	ഉം	PART	_	_	5	advmod:emph	_	Translit=uṁ|LTranslit=uṁ
+5	സമീപിക്കാന	സമീപിക്കക	VERB	_	Polarity=Pos|VerbForm=Inf	7	xcomp	_	LTranslit=samīpikkaka|Translit=samīpikkāna
+6	ഉം	ഉം	PART	_	_	5	advmod:emph	_	LTranslit=uṁ|Translit=uṁ
 7	തീരുമാനം	തീരുമാനം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	SpaceAfter=No|Translit=tīrumānaṁ|LTranslit=tīrumānaṁ
 8	.	.	PUNCT	_	_	7	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 

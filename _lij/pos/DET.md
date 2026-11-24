@@ -29,3 +29,4 @@ The same surface forms receive different analyses in other contexts:
 
 * the preposition _de_ “of, about” is [ADP](), as in _parlâ de Zena_ “to talk about Genoa”;
 * a preposition-article contraction is split into an `ADP` and a definite `DET`, as in _a pòrta do giardin_ “the garden gate”, where _do_ = _de_ + _o_.
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:26 CET -->

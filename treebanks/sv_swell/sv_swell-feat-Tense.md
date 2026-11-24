@@ -58,7 +58,7 @@ The most frequent other feature values with which `ADJ` and `Tense` co-occurred:
 
 * `Past` (32; 73% of non-empty `Tense`): <em>jämfört, tvungen, övertygad, anpassat, baserade, begagnade, begränsad, berömda, chockad, född</em>
 * `Pres` (12; 27% of non-empty `Tense`): <em>beroende, beröende, dominerande, fungerande, grundläggande, liknande, lärande, tagande, tillhörande, ökande</em>
-* `EMPTY` (833): <em>olika, många, bra, andra, nya, viktigt, bättre, första, själv, stor</em>
+* `EMPTY` (832): <em>olika, många, bra, andra, nya, viktigt, bättre, första, själv, stor</em>
 
 `Tense` seems to be **lexical feature** of `ADJ`. 100% lemmas (37) occur only with one value of `Tense`.
 

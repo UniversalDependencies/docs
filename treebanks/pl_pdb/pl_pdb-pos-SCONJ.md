@@ -58,7 +58,7 @@ The 10 most frequent ambiguous types:  <em>że</em> (<tt><a href="pl_pdb-pos-SCO
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.037736 (the average of all parts of speech is 1.965463).
+The form / lemma ratio of `SCONJ` is 1.037736 (the average of all parts of speech is 1.965431).
 
 The 1st highest number of forms (2) was observed with the lemma “gdyż”: <em>gdyź, gdyż</em>.
 

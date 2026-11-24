@@ -21,7 +21,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="it_postwita-pos-X.h
 `X` tokens may have the following values of `Foreign`:
 
 * `Yes` (583; 100% of non-empty `Foreign`): <em>of, Prince, live, i, and, on, a, the, in, my</em>
-* `EMPTY` (395): <em>cc, cont, d..., l..., i, xx, AAA, G..., c…, o</em>
+* `EMPTY` (393): <em>cc, cont, d..., l..., i, xx, AAA, G..., c…, o</em>
 
 `Foreign` seems to be **lexical feature** of `X`. 100% lemmas (390) occur only with one value of `Foreign`.
 

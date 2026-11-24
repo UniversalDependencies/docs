@@ -51,7 +51,7 @@ Examples: <em>pe, rehe, riki, ipe</em>
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 2 different relations: <tt><a href="urb_tudet-dep-case.html">case</a></tt> (7; 78% instances), <tt><a href="urb_tudet-dep-obl.html">obl</a></tt> (2; 22% instances)
+`ADP` nodes are attached to their parents using 3 different relations: <tt><a href="urb_tudet-dep-case.html">case</a></tt> (7; 78% instances), <tt><a href="urb_tudet-dep-nmod.html">nmod</a></tt> (1; 11% instances), <tt><a href="urb_tudet-dep-obl.html">obl</a></tt> (1; 11% instances)
 
 Parents of `ADP` nodes belong to 5 different parts of speech: <tt><a href="urb_tudet-pos-NOUN.html">NOUN</a></tt> (4; 44% instances), <tt><a href="urb_tudet-pos-PRON.html">PRON</a></tt> (2; 22% instances), <tt><a href="urb_tudet-pos-ADV.html">ADV</a></tt> (1; 11% instances), <tt><a href="urb_tudet-pos-PROPN.html">PROPN</a></tt> (1; 11% instances), <tt><a href="urb_tudet-pos-VERB.html">VERB</a></tt> (1; 11% instances)
 

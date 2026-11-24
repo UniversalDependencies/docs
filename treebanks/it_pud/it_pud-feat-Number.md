@@ -12,9 +12,9 @@ It occurs with 2 different values: `Plur`, `Sing`.
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="it_pud-feat-Number.html">Number</a></tt>, <tt><a href="it_pud-feat-Number-psor.html">Number[psor]</a></tt>.
 
 14685 tokens (62%) have a non-empty value of `Number`.
-5429 types (89%) occur at least once with a non-empty value of `Number`.
-4250 lemmas (91%) occur at least once with a non-empty value of `Number`.
-The feature is used with 10 part-of-speech tags: <tt><a href="it_pud-pos-NOUN.html">NOUN</a></tt> (4385; 18% instances), <tt><a href="it_pud-pos-DET.html">DET</a></tt> (3785; 16% instances), <tt><a href="it_pud-pos-PROPN.html">PROPN</a></tt> (1755; 7% instances), <tt><a href="it_pud-pos-ADJ.html">ADJ</a></tt> (1606; 7% instances), <tt><a href="it_pud-pos-VERB.html">VERB</a></tt> (1353; 6% instances), <tt><a href="it_pud-pos-AUX.html">AUX</a></tt> (919; 4% instances), <tt><a href="it_pud-pos-PRON.html">PRON</a></tt> (824; 3% instances), <tt><a href="it_pud-pos-ADP.html">ADP</a></tt> (54; 0% instances), <tt><a href="it_pud-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="it_pud-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances).
+5416 types (89%) occur at least once with a non-empty value of `Number`.
+4249 lemmas (91%) occur at least once with a non-empty value of `Number`.
+The feature is used with 10 part-of-speech tags: <tt><a href="it_pud-pos-NOUN.html">NOUN</a></tt> (4385; 18% instances), <tt><a href="it_pud-pos-DET.html">DET</a></tt> (3836; 16% instances), <tt><a href="it_pud-pos-PROPN.html">PROPN</a></tt> (1755; 7% instances), <tt><a href="it_pud-pos-ADJ.html">ADJ</a></tt> (1606; 7% instances), <tt><a href="it_pud-pos-VERB.html">VERB</a></tt> (1353; 6% instances), <tt><a href="it_pud-pos-AUX.html">AUX</a></tt> (919; 4% instances), <tt><a href="it_pud-pos-PRON.html">PRON</a></tt> (824; 3% instances), <tt><a href="it_pud-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="it_pud-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="it_pud-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances).
 
 ### `NOUN`
 
@@ -35,14 +35,14 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 ### `DET`
 
-3785 <tt><a href="it_pud-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
+3836 <tt><a href="it_pud-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="it_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (3493; 92%), <tt><a href="it_pud-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (2309; 61%), <tt><a href="it_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2183; 58%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="it_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (3544; 92%), <tt><a href="it_pud-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (2309; 60%), <tt><a href="it_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2220; 58%).
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (945; 25% of non-empty `Number`): <em>i, le, gli, molti, alcuni, altri, altre, molte, queste, questi</em>
-* `Sing` (2840; 75% of non-empty `Number`): <em>il, la, l', un, una, lo, un', questo, questa, ciò</em>
+* `Plur` (949; 25% of non-empty `Number`): <em>i, le, gli, molti, alcuni, altri, altre, molte, queste, questi</em>
+* `Sing` (2887; 75% of non-empty `Number`): <em>il, la, l', un, una, lo, un', questo, questa, ciò</em>
 
 <table>
   <tr><th>Paradigm <i>il</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -169,19 +169,13 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `ADP`
 
-54 <tt><a href="it_pud-pos-ADP.html">ADP</a></tt> tokens (1% of all `ADP` tokens) have a non-empty value of `Number`.
+3 <tt><a href="it_pud-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Number`.
 
 `ADP` tokens may have the following values of `Number`:
 
-* `Plur` (5; 9% of non-empty `Number`): <em>Da, ai, alle, dagli, dai</em>
-* `Sing` (49; 91% of non-empty `Number`): <em>al, alla, dell', del, all', della, Sulla, allo, dal, dall'</em>
-* `EMPTY` (3754): <em>di, in, a, per, da, con, su, come, tra, dopo</em>
-
-<table>
-  <tr><th>Paradigm <i>a</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="it_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>al, all', allo</em></td><td><em>ai</em></td></tr>
-  <tr><td><tt><tt><a href="it_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>alla</em></td><td><em>alle</em></td></tr>
-</table>
+* `Plur` (1; 33% of non-empty `Number`): <em>Da</em>
+* `Sing` (2; 67% of non-empty `Number`): <em>Sulla, del</em>
+* `EMPTY` (3805): <em>di, in, a, da, per, con, su, come, tra, dopo</em>
 
 ### `ADV`
 
@@ -206,10 +200,10 @@ The most frequent other feature values with which `ADV` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="it_pud-dep-det.html">det</a></tt>]--> DET</tt> (3026; 100%),
+<tt>NOUN --[<tt><a href="it_pud-dep-det.html">det</a></tt>]--> DET</tt> (3064; 100%),
 <tt>NOUN --[<tt><a href="it_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1218; 99%),
 <tt>NOUN --[<tt><a href="it_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (646; 58%),
-<tt>PROPN --[<tt><a href="it_pud-dep-det.html">det</a></tt>]--> DET</tt> (517; 100%),
+<tt>PROPN --[<tt><a href="it_pud-dep-det.html">det</a></tt>]--> DET</tt> (520; 100%),
 <tt>PROPN --[<tt><a href="it_pud-dep-flat.html">flat</a></tt>]--> PROPN</tt> (412; 100%),
 <tt>VERB --[<tt><a href="it_pud-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (355; 73%),
 <tt>NOUN --[<tt><a href="it_pud-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (317; 70%),

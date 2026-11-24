@@ -23,23 +23,23 @@ The following 7 pairs of parts of speech are connected with `compound:prt`: <tt>
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 7 compound:prt	color:blue
-1	#	#	PUNCT	_	_	4	punct	_	AlignBegin=214469|AlignEnd=215220|Gloss=PUNCT
-2	make	make	AUX	_	Mood=Opt	4	aux	_	AlignBegin=215220|AlignEnd=215310|Gloss=SBJV
-3	dem	dem	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	AlignBegin=215310|AlignEnd=215536|Gloss=NOM.PL.3
-4	keep	keep	VERB	_	_	0	root	_	AlignBegin=215536|AlignEnd=215716|Gloss=keep
-5	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	4	obj	_	AlignBegin=215716|AlignEnd=215887|Gloss=ACC.SG.3
-6	{	{	PUNCT	_	_	7	punct	_	AlignBegin=215887|AlignEnd=215887|Gloss=PUNCT
-7	up	up	ADP	_	_	4	compound:prt	_	AlignBegin=215887|AlignEnd=216026|Gloss=up
-8	|r	|r	PUNCT	_	_	10	punct	_	AlignBegin=216026|AlignEnd=216026|Gloss=PUNCT
-9	#	#	PUNCT	_	_	10	punct	_	AlignBegin=216026|AlignEnd=216332|Gloss=PUNCT
-10	up	up	ADP	_	_	7	compound:redup	_	AlignBegin=216332|AlignEnd=216699|Gloss=up
-11	}	}	PUNCT	_	_	7	punct	_	AlignBegin=216699|AlignEnd=216699|Gloss=PUNCT
-12	as	as	ADP	_	_	14	mark	_	AlignBegin=216699|AlignEnd=216957|Gloss=as
-13	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	AlignBegin=216957|AlignEnd=217042|Gloss=NOM.SG.3
-14	dey	dey	VERB	_	VerbType=Cop	4	advcl	_	AlignBegin=217042|AlignEnd=217211|Gloss=be
-15	like	like	ADP	_	_	16	case	_	AlignBegin=217211|AlignEnd=217429|Gloss=like
-16	dat	dat	PRON	_	Number=Sing	14	xcomp	_	AlignBegin=217429|AlignEnd=217616|Gloss=SG.DEM
-17	//	//	PUNCT	_	_	4	punct	_	AlignBegin=217616|AlignEnd=217616|Gloss=PUNCT
+1	#	#	PUNCT	_	_	4	punct	_	Gloss=PUNCT|WordAlignmentBegin=214469|WordAlignmentEnd=215220
+2	make	make	AUX	_	Mood=Opt	4	aux	_	Gloss=SBJV|WordAlignmentBegin=215220|WordAlignmentEnd=215310
+3	dem	dem	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	Gloss=NOM.PL.3|WordAlignmentBegin=215310|WordAlignmentEnd=215536
+4	keep	keep	VERB	_	_	0	root	_	Gloss=keep|WordAlignmentBegin=215536|WordAlignmentEnd=215716
+5	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	4	obj	_	Gloss=ACC.SG.3|WordAlignmentBegin=215716|WordAlignmentEnd=215887
+6	{	{	PUNCT	_	_	7	punct	_	Gloss=PUNCT|WordAlignmentBegin=215887|WordAlignmentEnd=215887
+7	up	up	ADP	_	_	4	compound:prt	_	Gloss=up|WordAlignmentBegin=215887|WordAlignmentEnd=216026
+8	|r	|r	PUNCT	_	_	10	punct	_	Gloss=PUNCT|WordAlignmentBegin=216026|WordAlignmentEnd=216026
+9	#	#	PUNCT	_	_	10	punct	_	Gloss=PUNCT|WordAlignmentBegin=216026|WordAlignmentEnd=216332
+10	up	up	ADP	_	_	7	compound:redup	_	Gloss=up|WordAlignmentBegin=216332|WordAlignmentEnd=216699
+11	}	}	PUNCT	_	_	7	punct	_	Gloss=PUNCT|WordAlignmentBegin=216699|WordAlignmentEnd=216699
+12	as	as	ADP	_	_	14	mark	_	Gloss=as|WordAlignmentBegin=216699|WordAlignmentEnd=216957
+13	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	Gloss=NOM.SG.3|WordAlignmentBegin=216957|WordAlignmentEnd=217042
+14	dey	dey	VERB	_	VerbType=Cop	4	advcl	_	Gloss=be|WordAlignmentBegin=217042|WordAlignmentEnd=217211
+15	like	like	ADP	_	_	16	case	_	Gloss=like|WordAlignmentBegin=217211|WordAlignmentEnd=217429
+16	dat	dat	PRON	_	Number=Sing	14	xcomp	_	Gloss=SG.DEM|WordAlignmentBegin=217429|WordAlignmentEnd=217616
+17	//	//	PUNCT	_	_	4	punct	_	Gloss=PUNCT|WordAlignmentBegin=217616|WordAlignmentEnd=217616
 
 ~~~
 
@@ -50,14 +50,14 @@ The following 7 pairs of parts of speech are connected with `compound:prt`: <tt>
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 compound:prt	color:blue
-1	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	AlignBegin=216520|AlignEnd=216763|Gloss=NOM.SG.1
-2	go	go	AUX	_	Aspect=Prosp	3	aux	_	AlignBegin=216763|AlignEnd=217007|Gloss=PROSP
-3	come	come	VERB	_	_	0	root	_	AlignBegin=217007|AlignEnd=217250|Gloss=come
-4	back	back	ADV	_	_	3	compound:prt	_	AlignBegin=217250|AlignEnd=217493|Gloss=back
-5	>	>	PUNCT	_	_	6	punct	_	AlignBegin=217493|AlignEnd=217493|Gloss=PUNCT
-6	mama	mama	NOUN	_	_	3	vocative	_	AlignBegin=217493|AlignEnd=217737|Gloss=mama
-7	oh	oh	INTJ	_	_	6	discourse	_	AlignBegin=217737|AlignEnd=217980|Gloss=oh
-8	//	//	PUNCT	_	_	3	punct	_	AlignBegin=217980|AlignEnd=217980|Gloss=PUNCT
+1	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=NOM.SG.1|WordAlignmentBegin=216520|WordAlignmentEnd=216763
+2	go	go	AUX	_	Aspect=Prosp	3	aux	_	Gloss=PROSP|WordAlignmentBegin=216763|WordAlignmentEnd=217007
+3	come	come	VERB	_	_	0	root	_	Gloss=come|WordAlignmentBegin=217007|WordAlignmentEnd=217250
+4	back	back	ADV	_	_	3	compound:prt	_	Gloss=back|WordAlignmentBegin=217250|WordAlignmentEnd=217493
+5	>	>	PUNCT	_	_	6	punct	_	Gloss=PUNCT|WordAlignmentBegin=217493|WordAlignmentEnd=217493
+6	mama	mama	NOUN	_	_	3	vocative	_	Gloss=mama|WordAlignmentBegin=217493|WordAlignmentEnd=217737
+7	oh	oh	INTJ	_	_	6	discourse	_	Gloss=oh|WordAlignmentBegin=217737|WordAlignmentEnd=217980
+8	//	//	PUNCT	_	_	3	punct	_	Gloss=PUNCT|WordAlignmentBegin=217980|WordAlignmentEnd=217980
 
 ~~~
 
@@ -68,34 +68,34 @@ The following 7 pairs of parts of speech are connected with `compound:prt`: <tt>
 # visual-style 25	bgColor:blue
 # visual-style 25	fgColor:white
 # visual-style 25 26 compound:prt	color:blue
-1	#	#	PUNCT	_	_	12	punct	_	AlignBegin=230050|AlignEnd=230710|Gloss=PUNCT
-2	school	school	NOUN	_	_	3	nsubj	_	AlignBegin=230710|AlignEnd=231090|Gloss=school
-3	dey	dey	VERB	_	VerbType=Cop	12	csubj	_	AlignBegin=231090|AlignEnd=231160|Gloss=be
-4	only	only	ADJ	_	_	8	advcl	_	AlignBegin=231160|AlignEnd=231328|Gloss=only
-5	wey	when	SCONJ	_	_	8	mark	_	AlignBegin=231328|AlignEnd=231477|Gloss=when
-6	we	we	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	8	nsubj	_	AlignBegin=231477|AlignEnd=231590|Gloss=NOM.PL.1
-7	dey	dey	AUX	_	Aspect=Imp	8	aux	_	AlignBegin=231590|AlignEnd=231710|Gloss=IPFV
-8	go	go	VERB	_	_	3	ccomp	_	AlignBegin=231710|AlignEnd=231960|Gloss=go
-9	#	#	PUNCT	_	_	12	punct	_	AlignBegin=231960|AlignEnd=232410|Gloss=PUNCT
-10	no	no	AUX	_	Polarity=Neg	12	aux	_	AlignBegin=232410|AlignEnd=232560|Gloss=NEG
-11	fit	fit	AUX	_	Mood=Pot	12	aux	_	AlignBegin=232560|AlignEnd=232680|Gloss=ABIL
-12	make	make	VERB	_	_	0	root	_	AlignBegin=232680|AlignEnd=232870|Gloss=make
-13	us	us	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	12	obj	_	AlignBegin=232870|AlignEnd=233000|Gloss=ACC.PL.1
-14	become	become	VERB	_	_	12	xcomp	_	AlignBegin=233000|AlignEnd=233280|Gloss=become
-15	better	beta	ADJ	_	Degree=Cmp	16	amod	_	AlignBegin=233280|AlignEnd=233490|Gloss=good.CMPR
-16	people	people	NOUN	_	Number=Plur	14	xcomp	_	AlignBegin=233490|AlignEnd=233730|Gloss=people.PL
-17	because	because	SCONJ	_	_	22	mark	_	AlignBegin=233730|AlignEnd=233975|Gloss=because
-18	dis	dis	DET	_	Number=Sing|PronType=Dem	19	det	_	AlignBegin=233975|AlignEnd=234111|Gloss=SG.DEM
-19	school	school	NOUN	_	_	22	nsubj	_	AlignBegin=234111|AlignEnd=234280|Gloss=school
-20	na	na	AUX	_	PartType=Cop	22	cop	_	AlignBegin=234280|AlignEnd=234450|Gloss=be
-21	{	{	PUNCT	_	_	22	punct	_	AlignBegin=234450|AlignEnd=234450|Gloss=PUNCT
-22	garbage	garbage	NOUN	_	_	14	advcl	_	AlignBegin=234450|AlignEnd=234840|Gloss=garbage
-23	in	in	ADP	_	_	22	compound:prt	_	AlignBegin=234840|AlignEnd=235030|Gloss=in
-24	|c	|c	PUNCT	_	_	25	punct	_	AlignBegin=235030|AlignEnd=235030|Gloss=PUNCT
-25	garbage	garbage	NOUN	_	_	22	conj	_	AlignBegin=235030|AlignEnd=235360|Gloss=garbage
-26	out	out	ADP	_	_	25	compound:prt	_	AlignBegin=235360|AlignEnd=235680|Gloss=out
-27	}	}	PUNCT	_	_	22	punct	_	AlignBegin=235680|AlignEnd=235680|Gloss=PUNCT
-28	//	//	PUNCT	_	_	12	punct	_	AlignBegin=235650|AlignEnd=235680|Gloss=PUNCT
+1	#	#	PUNCT	_	_	12	punct	_	Gloss=PUNCT|WordAlignmentBegin=230050|WordAlignmentEnd=230710
+2	school	school	NOUN	_	_	3	nsubj	_	Gloss=school|WordAlignmentBegin=230710|WordAlignmentEnd=231090
+3	dey	dey	VERB	_	VerbType=Cop	12	csubj	_	Gloss=be|WordAlignmentBegin=231090|WordAlignmentEnd=231160
+4	only	only	ADJ	_	_	8	advcl	_	Gloss=only|WordAlignmentBegin=231160|WordAlignmentEnd=231328
+5	wey	when	SCONJ	_	_	8	mark	_	Gloss=when|WordAlignmentBegin=231328|WordAlignmentEnd=231477
+6	we	we	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	8	nsubj	_	Gloss=NOM.PL.1|WordAlignmentBegin=231477|WordAlignmentEnd=231590
+7	dey	dey	AUX	_	Aspect=Imp	8	aux	_	Gloss=IPFV|WordAlignmentBegin=231590|WordAlignmentEnd=231710
+8	go	go	VERB	_	_	3	ccomp	_	Gloss=go|WordAlignmentBegin=231710|WordAlignmentEnd=231960
+9	#	#	PUNCT	_	_	12	punct	_	Gloss=PUNCT|WordAlignmentBegin=231960|WordAlignmentEnd=232410
+10	no	no	AUX	_	Polarity=Neg	12	aux	_	Gloss=NEG|WordAlignmentBegin=232410|WordAlignmentEnd=232560
+11	fit	fit	AUX	_	Mood=Pot	12	aux	_	Gloss=ABIL|WordAlignmentBegin=232560|WordAlignmentEnd=232680
+12	make	make	VERB	_	_	0	root	_	Gloss=make|WordAlignmentBegin=232680|WordAlignmentEnd=232870
+13	us	us	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	12	obj	_	Gloss=ACC.PL.1|WordAlignmentBegin=232870|WordAlignmentEnd=233000
+14	become	become	VERB	_	_	12	xcomp	_	Gloss=become|WordAlignmentBegin=233000|WordAlignmentEnd=233280
+15	better	beta	ADJ	_	Degree=Cmp	16	amod	_	Gloss=good.CMPR|WordAlignmentBegin=233280|WordAlignmentEnd=233490
+16	people	people	NOUN	_	Number=Plur	14	xcomp	_	Gloss=people.PL|WordAlignmentBegin=233490|WordAlignmentEnd=233730
+17	because	because	SCONJ	_	_	22	mark	_	Gloss=because|WordAlignmentBegin=233730|WordAlignmentEnd=233975
+18	dis	dis	DET	_	Number=Sing|PronType=Dem	19	det	_	Gloss=SG.DEM|WordAlignmentBegin=233975|WordAlignmentEnd=234111
+19	school	school	NOUN	_	_	22	nsubj	_	Gloss=school|WordAlignmentBegin=234111|WordAlignmentEnd=234280
+20	na	na	AUX	_	PartType=Cop	22	cop	_	Gloss=be|WordAlignmentBegin=234280|WordAlignmentEnd=234450
+21	{	{	PUNCT	_	_	22	punct	_	Gloss=PUNCT|WordAlignmentBegin=234450|WordAlignmentEnd=234450
+22	garbage	garbage	NOUN	_	_	14	advcl	_	Gloss=garbage|WordAlignmentBegin=234450|WordAlignmentEnd=234840
+23	in	in	ADP	_	_	22	compound:prt	_	Gloss=in|WordAlignmentBegin=234840|WordAlignmentEnd=235030
+24	|c	|c	PUNCT	_	_	25	punct	_	Gloss=PUNCT|WordAlignmentBegin=235030|WordAlignmentEnd=235030
+25	garbage	garbage	NOUN	_	_	22	conj	_	Gloss=garbage|WordAlignmentBegin=235030|WordAlignmentEnd=235360
+26	out	out	ADP	_	_	25	compound:prt	_	Gloss=out|WordAlignmentBegin=235360|WordAlignmentEnd=235680
+27	}	}	PUNCT	_	_	22	punct	_	Gloss=PUNCT|WordAlignmentBegin=235680|WordAlignmentEnd=235680
+28	//	//	PUNCT	_	_	12	punct	_	Gloss=PUNCT|WordAlignmentBegin=235650|WordAlignmentEnd=235680
 
 ~~~
 

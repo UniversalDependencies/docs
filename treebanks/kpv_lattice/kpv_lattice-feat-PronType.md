@@ -10,7 +10,7 @@ This feature is universal.
 It occurs with 8 different values: `Dem`, `Ind`, `Int`, `Neg`, `Prs`, `Rcp`, `Rel`, `Tot`.
 
 665 tokens (8%) have a non-empty value of `PronType`.
-206 types (6%) occur at least once with a non-empty value of `PronType`.
+205 types (6%) occur at least once with a non-empty value of `PronType`.
 62 lemmas (3%) occur at least once with a non-empty value of `PronType`.
 The feature is used with 4 part-of-speech tags: <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (538; 7% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (56; 1% instances), <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> (52; 1% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (19; 0% instances).
 
@@ -54,8 +54,8 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 
 * `Ind` (5; 9% of non-empty `PronType`): <em>коркӧ, кӧнкӧ, мыйлакӧ, кытчӧкӧ</em>
 * `Int` (28; 50% of non-empty `PronType`): <em>кыдзи, кыдз, кӧні, кымын, Кытчӧ, Кытысь, кор, кыті, кӧнӧсь</em>
-* `Rel` (23; 41% of non-empty `PronType`): <em>кор, кыдзи, кӧні, кoр, коръясӧ, кутшӧма, кыдз, кытчӧ, кытысь, кытӧн</em>
-* `EMPTY` (832): <em>нин, жӧ, на, и, сӧмын, сэсся, зэв, пыр, бара, дзик</em>
+* `Rel` (23; 41% of non-empty `PronType`): <em>кор, кыдзи, кӧні, коръясӧ, кутшӧма, кыдз, кытчӧ, кытысь, кытӧн</em>
+* `EMPTY` (835): <em>нин, жӧ, на, и, сӧмын, сэсся, зэв, пыр, бара, дзик</em>
 
 <table>
   <tr><th>Paradigm <i>кытчӧ</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th><th><tt>Ind</tt></th></tr>
@@ -94,7 +94,7 @@ The most frequent other feature values with which `ADJ` and `PronType` co-occurr
 * `Dem` (15; 79% of non-empty `PronType`): <em>сэтшӧм, мӧд, сэтшӧмӧсь, Татшӧмъясыд, сэтшӧм-татшӧм, сэтшӧм-татшӧмъяс, сэтшӧмъясыслӧн, татшӧмсӧ</em>
 * `Int` (1; 5% of non-empty `PronType`): <em>Кутшӧм</em>
 * `Rel` (3; 16% of non-empty `PronType`): <em>кутшӧм</em>
-* `EMPTY` (480): <em>ыджыд, кодь, бур, важ, мича, еджыд, ичӧтик, том, выль, кодьӧсь</em>
+* `EMPTY` (481): <em>ыджыд, кодь, бур, важ, мича, еджыд, ичӧтик, том, выль, кодьӧсь</em>
 
 <table>
   <tr><th>Paradigm <i>кутшӧм</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th></tr>

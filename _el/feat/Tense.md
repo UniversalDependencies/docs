@@ -99,4 +99,4 @@ e.g. *το έχει λεομένο* “He/she has said it”
 Here, the participle is assigned the tag [VERB]() and the feature-value pair [VerbForm=Part]().
 
 ----------------------------
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:20 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:05 CET -->

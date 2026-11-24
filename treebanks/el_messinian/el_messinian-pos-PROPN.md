@@ -37,8 +37,8 @@ The 3rd highest number of forms (2) was observed with the lemma “Καλαμά�
 `PROPN` occurs with 9 feature-value pairs: `Case=Acc`, `Case=Gen`, `Case=Nom`, `Case=Voc`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`
 
 `PROPN` occurs with 7 feature combinations.
-The most frequent feature combination is `Case=Acc|Gender=Fem|Number=Sing` (4 tokens).
-Examples: <em>Καλαμάτα, Αθήνα, Σπάρτη</em>
+The most frequent feature combination is `Case=Nom|Gender=Masc|Number=Sing` (4 tokens).
+Examples: <em>Δημόπ'λος, Βασιλάκης, Νίκωνας</em>
 
 
 ## Relations

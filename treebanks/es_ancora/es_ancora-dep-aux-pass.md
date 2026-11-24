@@ -8,92 +8,67 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="es_ancora-dep-aux.html">aux</a></tt>.
 
-24 nodes (0%) are attached to their parents as `aux:pass`.
+922 nodes (0%) are attached to their parents as `aux:pass`.
 
-24 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.
+922 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.05639913232104.
 
-The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (23; 96% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (1; 4% instances).
+The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (917; 99% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (5; 1% instances).
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 aux:pass	color:blue
-1	Se	él	PRON	p0300000	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl:pv	2:expl:pv	_
-2	mostró	mostrar	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
-3	cauto	cauto	ADJ	aq0ms0	Gender=Masc|Number=Sing	2	obj	2:obj	ArgTem=arg2:atr
-4	a	a	ADP	spcms	_	7	mark	7:mark	_
-5	el	el	DET	_	Gender=Masc|Number=Sing|PronType=Dem	7	det	7:det	_
-6	ser	ser	AUX	vsn0000	VerbForm=Inf	7	aux:pass	7:aux:pass	_
-7	preguntado	preguntar	VERB	vmp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	advcl	2:advcl	ArgTem=argM:tmp
-8	sobre	sobre	ADP	sps00	_	11	case	11:case	_
-9	los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	11:det	Entity=(CESSCASTP1998120167c7--3-gstype:gen,HomoDD
-10	futuros	futuro	ADJ	aq0mp0	Gender=Masc|Number=Plur	11	amod	11:amod	_
-11	sorteos	sorteo	NOUN	ncmp000	Gender=Masc|Number=Plur	7	obl:arg	7:obl:arg	ArgTem=arg2:tem|Entity=CESSCASTP1998120167c7)|SpaceAfter=No
-12	.	.	PUNCT	fp	PunctType=Peri	2	punct	2:punct	_
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 11 aux:pass	color:blue
+1	Su	su	DET	dp3cs0	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	2:det	Entity=(CESSCASTP2000060269c3--2-CorefType:ident,gstype:gen(CESSCASTP2000060269c1-person-1-CorefType:ident,gstype:spec)
+2	compañero	compañero	NOUN	ncms000	Gender=Masc|Number=Sing	12	nsubj:pass	12:nsubj:pass	ArgTem=arg1:pat|SpaceAfter=No
+3	,	,	PUNCT	fc	PunctType=Comm	7	punct	7:punct	_
+4	con	con	ADP	sps00	_	6	case	6:case	_
+5	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	6:det	Entity=(CESSCASTP2000060269c3--2-CorefType:ident,gstype:gen
+6	que	que	PRON	pr0cn000	PronType=Rel	7	obl	7:obl	ArgTem=argM:adv|Entity=CESSCASTP2000060269c3)
+7	tiene	tener	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	2:acl:relcl	_
+8	dos	dos	NUM	dn0cp0	Number=Plur|NumForm=Word|NumType=Card	9	nummod	9:nummod	Entity=(NOCOREF:Gen--2-gstype:gen
+9	hijos	hijo	NOUN	ncmp000	Gender=Masc|Number=Plur	7	obj	7:obj	ArgTem=arg2:atr|Entity=NOCOREF:Gen)|SpaceAfter=No
+10	,	,	PUNCT	fc	PunctType=Comm	7	punct	7:punct	Entity=CESSCASTP2000060269c3)
+11	fue	ser	AUX	vsis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	aux:pass	12:aux:pass	_
+12	detenido	detener	VERB	vmp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	0:root	SpaceAfter=No
+13	.	.	PUNCT	fp	PunctType=Peri	12	punct	12:punct	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 aux:pass	color:blue
-1	Este	este	DET	dd0ms0	Gender=Masc|Number=Sing|PronType=Dem	2	det	2:det	Entity=(CESSCASTAA2000092824050c5--2-CorefType:ident,gstype:gen
-2	descenso	descenso	NOUN	ncms000	Gender=Masc|Number=Sing	4	nsubj:pass	4:nsubj:pass	ArgTem=arg1:tem|Entity=CESSCASTAA2000092824050c5)
-3	está	estar	AUX	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	4:aux:pass	_
-4	provocado	provocado	ADJ	aq0msp	Gender=Masc|Number=Sing|VerbForm=Part	0	root	0:root	ArgTem=arg2:atr
-5	por	por	ADP	sps00	_	7	case	7:case	_
-6	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	7:det	Entity=(CESSCASTAA2000092824050c6--2-gstype:gen,HomoDD
-7	disminución	disminución	NOUN	ncfs000	Gender=Fem|Number=Sing	4	obl:agent	4:obl:agent	ArgTem=arg0:agt,arg0:agt
-8	de	de	ADP	sps00	_	10	case	10:case	_
-9	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	10:det	Entity=(NOCOREF:Gen--2-gstype:gen,HomoDD
-10	necesidad	necesidad	NOUN	ncfs000	Gender=Fem|Number=Sing	7	nmod	7:nmod	ArgTem=arg1:tem
-11	de	de	ADP	sps00	_	12	case	12:case	_
-12	endeudamiento	endeudamiento	NOUN	ncms000	Gender=Masc|Number=Sing	10	nmod	10:nmod	Entity=(NOCOREF:Gen--1-gstype:gen
-13	de	de	ADP	spcms	_	15	case	15:case	_
-14	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	15:det	_
-15	Estado	Estado	PROPN	np00000	_	12	nmod	12:nmod	ArgTem=arg1:tem|Entity=(CESSCASTAA2000092824050c13-organization-1-gstype:spec)NOCOREF:Gen)NOCOREF:Gen)CESSCASTAA2000092824050c6)
-16	y	y	CCONJ	cc	_	20	cc	20:cc	_
-17	por	por	ADP	sps00	_	20	case	20:case	_
-18	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	20:det	Entity=(CESSCASTAA2000092824050c7--3-gstype:gen,HomoDD
-19	menor	menor	ADJ	aq0cs0	Degree=Cmp|Number=Sing	20	amod	20:amod	_
-20	vencimiento	vencimiento	NOUN	ncms000	Gender=Masc|Number=Sing	7	conj	7:conj	_
-21	de	de	ADP	sps00	_	22	case	22:case	_
-22	deuda	deuda	NOUN	ncfs000	Gender=Fem|Number=Sing	20	nmod	20:nmod	ArgTem=arg1:tem|Entity=(CESSCASTAA2000092824050c9--1-gstype:gen)CESSCASTAA2000092824050c7)|SpaceAfter=No
-23	,	,	PUNCT	fc	PunctType=Comm	26	punct	26:punct	_
-24	que	que	PRON	pr0cn000	PronType=Rel	26	nsubj	26:nsubj	ArgTem=arg0:agt|Entity=(CESSCASTAA2000092824050c6_PLUS_CESSCASTAA2000092824050c7--1-CorefType:ident,gstype:gen)|SplitAnte=CESSCASTAA2000092824050c6<CESSCASTAA2000092824050c6_PLUS_CESSCASTAA2000092824050c7,CESSCASTAA2000092824050c7<CESSCASTAA2000092824050c6_PLUS_CESSCASTAA2000092824050c7
-25	han	haber	AUX	vaip3p0	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	26	aux	26:aux	_
-26	permitido	permitir	VERB	vmp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	acl:relcl	7:acl:relcl	_
-27	que	que	SCONJ	cs	_	38	mark	38:mark	SpaceAfter=No
-28	,	,	PUNCT	fc	PunctType=Comm	33	punct	33:punct	_
-29	en	en	ADP	sps00	_	33	case	33:case	_
-30	los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	33	det	33:det	Entity=(NOCOREF:Gen--4-gstype:gen,HomoDD
-31	últimos	último	ADJ	ao0mp0	Gender=Masc|Number=Plur|NumType=Ord	33	amod	33:amod	_
-32	cuatro	cuatro	NUM	dn0cp0	Number=Plur|NumForm=Word|NumType=Card	33	nummod	33:nummod	_
-33	años	año	NOUN	ncmp000	Gender=Masc|Number=Plur	38	obl	38:obl	ArgTem=argM:tmp|Entity=NOCOREF:Gen)|SpaceAfter=No
-34	,	,	PUNCT	fc	PunctType=Comm	33	punct	33:punct	_
-35	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	36	det	36:det	Entity=(CESSCASTAA2000092824050c3-organization-2-CorefType:ident,gstype:spec
-36	Tesoro	Tesoro	PROPN	np00000	_	38	nsubj	38:nsubj	ArgTem=arg0:cau|Entity=CESSCASTAA2000092824050c3)
-37	haya	haber	AUX	vasp3s0	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	38	aux	38:aux	_
-38	reducido	reducir	VERB	vmp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	26	ccomp	26:ccomp	ArgTem=arg1:pat
-39	a	a	ADP	sps00	_	41	case	41:case	_
-40	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	41	det	41:det	Entity=(NOCOREF:Gen--2-gstype:gen,HomoDD
-41	mitad	mitad	NOUN	ncfs000	Gender=Fem|Number=Sing	38	obl	38:obl	ArgTem=arg4:efi|Entity=NOCOREF:Gen)
-42	los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	43	det	43:det	Entity=(CESSCASTAA2000092824050c8--2-gstype:gen,HomoDD
-43	fondos	fondo	NOUN	ncmp000	Gender=Masc|Number=Plur	38	obj	38:obj	ArgTem=arg1:tem
-44	que	que	PRON	pr0cn000	PronType=Rel	46	obj	46:obj	ArgTem=arg1:pat|Entity=(CESSCASTAA2000092824050c8--1-CorefType:ident,gstype:gen)
-45	debe	deber	AUX	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	46	aux	46:aux	_
-46	obtener	obtener	VERB	vmn0000	VerbForm=Inf	43	acl:relcl	43:acl:relcl	_
-47	en	en	ADP	sps00	_	49	case	49:case	_
-48	los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	49	det	49:det	Entity=(CESSCASTAA2000092824050c24--2-gstype:gen,HomoDD
-49	mercados	mercado	NOUN	ncmp000	Gender=Masc|Number=Plur	46	obl	46:obl	ArgTem=argM:loc|Entity=CESSCASTAA2000092824050c24)CESSCASTAA2000092824050c8)|SpaceAfter=No
-50	.	.	PUNCT	fp	PunctType=Peri	4	punct	4:punct	_
+# visual-style 20	bgColor:blue
+# visual-style 20	fgColor:white
+# visual-style 21	bgColor:blue
+# visual-style 21	fgColor:white
+# visual-style 21 20 aux:pass	color:blue
+1	Uno	uno	PRON	pi0ms000	Gender=Masc|Number=Sing|PronType=Ind	16	nsubj	16:nsubj	ArgTem=arg0:agt|Entity=(CESSCASTP20010401119c15--1-gstype:gen
+2	de	de	ADP	sps00	_	4	case	4:case	_
+3	los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	4:det	Entity=(CESSCASTP20010401119c2--2-CorefType:ident,gstype:gen
+4	montañeros	montañero	NOUN	ncmp000	Gender=Masc|Number=Plur	1	nmod	1:nmod	Entity=CESSCASTP20010401119c2)|SpaceAfter=No
+5	,	,	PUNCT	fc	PunctType=Comm	7	punct	7:punct	_
+6	que	que	PRON	pr0cn000	PronType=Rel	7	nsubj	7:nsubj	ArgTem=arg1:tem|Entity=(CESSCASTP20010401119c15--1-CorefType:ident,gstype:gen)
+7	quedó	quedar	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	acl:relcl	1:acl:relcl	_
+8	atrapado	atrapado	ADJ	aq0msp	Gender=Masc|Number=Sing|VerbForm=Part	7	obj	7:obj	ArgTem=arg2:atr
+9	en	en	ADP	sps00	_	11	case	11:case	_
+10	una	uno	DET	di0fs0	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	11:det	Entity=(NOCOREF:Gen--2-gstype:gen
+11	oquedad	oquedad	NOUN	ncfs000	Gender=Fem|Number=Sing	8	obl	8:obl	ArgTem=argM:loc
+12	de	de	ADP	sps00	_	14	case	14:case	_
+13	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	14:det	Entity=(NOCOREF:Gen--2-gstype:gen
+14	nieve	nieve	NOUN	ncfs000	Gender=Fem|Number=Sing	11	nmod	11:nmod	Entity=NOCOREF:Gen)NOCOREF:Gen)|SpaceAfter=No
+15	,	,	PUNCT	fc	PunctType=Comm	7	punct	7:punct	Entity=CESSCASTP20010401119c15)
+16	tardó	tardar	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
+17	cuatro	cuatro	NUM	dn0cp0	Number=Plur|NumForm=Word|NumType=Card	18	nummod	18:nummod	_
+18	horas	hora	NOUN	ncfp000	Gender=Fem|Number=Plur	16	obj	16:obj	ArgTem=arg1:ext
+19	en	en	ADP	sps00	_	16	obl:arg	16:obl:arg	_
+20	ser	ser	AUX	vsn0000	VerbForm=Inf	21	aux:pass	21:aux:pass	ArgTem=arg2:tem
+21	localizado	localizado	ADJ	aq0msp	Gender=Masc|Number=Sing|VerbForm=Part	19	advmod	19:advmod	ArgTem=arg2:atr
+22	y	y	CCONJ	cc	_	23	cc	23:cc	_
+23	extraído	extraído	ADJ	aq0msp	Gender=Masc|Number=Sing|VerbForm=Part	21	conj	21:conj	SpaceAfter=No
+24	.	.	PUNCT	fp	PunctType=Peri	16	punct	16:punct	_
 
 ~~~
 

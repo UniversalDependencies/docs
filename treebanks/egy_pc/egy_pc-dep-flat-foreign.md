@@ -23,12 +23,12 @@ The following 1 pairs of parts of speech are connected with `flat:foreign`: <tt>
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 flat:foreign	color:blue
-1	č̣(ṭ)	č̣ṭ	VERB	_	Gender=Masc|VerbClass=2lit|VerbForm=Inf	0	root	_	Hiero=𓆓|ID=185810
+1	č̣(ṭ)	č̣ṭ	VERB	_	Gender=Masc|VerbClass=2lit|VerbForm=Inf	0	root	_	Hiero=𓆓|ID=185810|Trans=Yes
 2	mṭw	mṭw	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	Hiero=𓌃|ID=78150
 3	kw	kw	PRON	_	Gender=Masc|Number=Sing|Person=2|PronClass=Dep|PronType=Prs	4	vocative	_	Hiero=𓎡𓅱|ID=163890
-4	ꜣꜣꜣ	ꜣꜣꜣ	X	_	Foreign=Yes	1	ccomp:speech	_	Hiero=𓄿𓄿𓄿|ID=No
-5	ꞽmḥw	ꞽmḥw	X	_	Foreign=Yes	4	flat:foreign	_	Hiero=𓇋𓅓𓐜𓎛𓅱|ID=No
-6	ꞽmḥw	ꞽmḥw	X	_	Foreign=Yes	4	flat:foreign	_	Hiero=𓇋𓅓𓐜𓎛𓅱|ID=No
+4	ꜣꜣꜣ	ꜣꜣꜣ	X	_	Foreign=Yes	1	ccomp:speech	_	Hiero=𓄿𓄿𓄿|ID=50
+5	ꞽmḥw	ꞽmḥw	X	_	Foreign=Yes	4	flat:foreign	_	Hiero=𓇋𓅓𓐜𓎛𓅱|ID=891824
+6	ꞽmḥw	ꞽmḥw	X	_	Foreign=Yes	4	flat:foreign	_	Hiero=𓇋𓅓𓐜𓎛𓅱|ID=891824
 
 ~~~
 

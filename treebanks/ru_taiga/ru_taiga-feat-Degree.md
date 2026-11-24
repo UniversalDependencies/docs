@@ -25,7 +25,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 * `Cmp` (1866; 1% of non-empty `Degree`): <em>лучше, хуже, больше, выше, легче, старше, ближе, сильнее, большей, меньше</em>
 * `Pos` (140782; 97% of non-empty `Degree`): <em>русского, нужно, большой, русской, русском, разных, хорошо, хороший, должен, новые</em>
 * `Sup` (1753; 1% of non-empty `Degree`): <em>лучшие, лучших, дальнейшем, лучший, крупнейших, лучшее, древнейших, древнейшие, лучшего, высшей</em>
-* `EMPTY` (10674): <em>XIX, первый, п., XVIII, второй, XX, XVII, первой, первые, XVI</em>
+* `EMPTY` (10672): <em>XIX, первый, п., XVIII, второй, XX, XVII, первой, первые, XVI</em>
 
 <table>
   <tr><th>Paradigm <i>хороший</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -80,7 +80,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 * `Cmp` (4897; 6% of non-empty `Degree`): <em>более, больше, раньше, лучше, скорее, чаще, дальше, позднее, позже, менее</em>
 * `Pos` (73802; 93% of non-empty `Degree`): <em>уже, так, очень, еще, как, ещё, где, совсем, вдруг, снова</em>
 * `Sup` (306; 0% of non-empty `Degree`): <em>наиболее, строжайше, ближайше, всемилостивейше, лютейше, наименее</em>
-* `EMPTY` (5000): <em>например, конечно, т., д., наверное, наконец, впрочем, однако, видимо, несмотря</em>
+* `EMPTY` (4999): <em>например, конечно, т., д., наверное, наконец, впрочем, однако, видимо, несмотря</em>
 
 <table>
   <tr><th>Paradigm <i>часто</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th></tr>

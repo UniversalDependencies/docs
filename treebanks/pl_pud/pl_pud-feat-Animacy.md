@@ -10,7 +10,7 @@ This feature is universal.
 It occurs with 3 different values: `Hum`, `Inan`, `Nhum`.
 
 5003 tokens (27%) have a non-empty value of `Animacy`.
-3403 types (45%) occur at least once with a non-empty value of `Animacy`.
+3402 types (45%) occur at least once with a non-empty value of `Animacy`.
 2453 lemmas (49%) occur at least once with a non-empty value of `Animacy`.
 The feature is used with 8 part-of-speech tags: <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (2003; 11% instances), <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> (1156; 6% instances), <tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt> (756; 4% instances), <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> (440; 2% instances), <tt><a href="pl_pud-pos-DET.html">DET</a></tt> (258; 1% instances), <tt><a href="pl_pud-pos-PRON.html">PRON</a></tt> (161; 1% instances), <tt><a href="pl_pud-pos-NUM.html">NUM</a></tt> (145; 1% instances), <tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> (84; 0% instances).
 
@@ -136,7 +136,7 @@ The most frequent other feature values with which `PRON` and `Animacy` co-occurr
 `PRON` tokens may have the following values of `Animacy`:
 
 * `Hum` (140; 87% of non-empty `Animacy`): <em>jego, ich, mu, go, ktoś, im, nich, ja, kto, mnie</em>
-* `Inan` (21; 13% of non-empty `Animacy`): <em>go, ich, jego, niego, one, je, on, ń</em>
+* `Inan` (21; 13% of non-empty `Animacy`): <em>go, ich, niego, jego, one, je, on</em>
 * `EMPTY` (477): <em>się, to, jej, tym, co, ją, tego, siebie, sobie, ona</em>
 
 <table>
@@ -150,7 +150,7 @@ The most frequent other feature values with which `PRON` and `Animacy` co-occurr
   <tr><td><tt><tt><a href="pl_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pud-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt>|<tt><a href="pl_pud-feat-Variant.html">Variant</a></tt><tt>=Long</tt></tt></td><td><em>jego</em></td><td><em>jego</em></td></tr>
   <tr><td><tt><tt><a href="pl_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pud-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt>|<tt><a href="pl_pud-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td></td><td><em>go</em></td></tr>
   <tr><td><tt><tt><a href="pl_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pud-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt>|<tt><a href="pl_pud-feat-Variant.html">Variant</a></tt><tt>=Long</tt></tt></td><td><em>niego</em></td><td><em>niego</em></td></tr>
-  <tr><td><tt><tt><a href="pl_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pud-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt>|<tt><a href="pl_pud-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td></td><td><em>ń</em></td></tr>
+  <tr><td><tt><tt><a href="pl_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pud-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt>|<tt><a href="pl_pud-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td></td><td><em>niego</em></td></tr>
   <tr><td><tt><tt><a href="pl_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pl_pud-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt>|<tt><a href="pl_pud-feat-Variant.html">Variant</a></tt><tt>=Long</tt></tt></td><td><em>ich</em></td><td><em>ich</em></td></tr>
   <tr><td><tt><tt><a href="pl_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pl_pud-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt>|<tt><a href="pl_pud-feat-Variant.html">Variant</a></tt><tt>=Long</tt></tt></td><td><em>nich</em></td><td></td></tr>
   <tr><td><tt><tt><a href="pl_pud-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pud-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt>|<tt><a href="pl_pud-feat-Variant.html">Variant</a></tt><tt>=Long</tt></tt></td><td><em>nim</em></td><td></td></tr>

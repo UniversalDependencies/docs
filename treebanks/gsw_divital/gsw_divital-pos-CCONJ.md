@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Alemannic-DIVITAL: POS Tags: `CCONJ`
 
-There are 1 `CCONJ` lemmas (6%), 30 `CCONJ` types (1%) and 729 `CCONJ` tokens (4%).
+There are 1 `CCONJ` lemmas (6%), 30 `CCONJ` types (1%) and 730 `CCONJ` tokens (4%).
 Out of 17 observed tags, the rank of `CCONJ` is: 5 in number of lemmas, 14 in number of types and 10 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>_</em>
 
 The 10 most frequent `CCONJ` types:  <em>ùn, un, oder, odder, àwer, àwwer, et, awer, sowie, denn</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="gsw_divital-pos-PUNCT.html">PUNCT</a></tt> 3196, <tt><a href="gsw_divital-pos-NOUN.html">NOUN</a></tt> 2914, <tt><a href="gsw_divital-pos-DET.html">DET</a></tt> 2712, <tt><a href="gsw_divital-pos-VERB.html">VERB</a></tt> 1796, <tt><a href="gsw_divital-pos-ADP.html">ADP</a></tt> 1640, <tt><a href="gsw_divital-pos-PRON.html">PRON</a></tt> 1458, <tt><a href="gsw_divital-pos-ADV.html">ADV</a></tt> 1365, <tt><a href="gsw_divital-pos-AUX.html">AUX</a></tt> 1350, <tt><a href="gsw_divital-pos-ADJ.html">ADJ</a></tt> 1096, <tt><a href="gsw_divital-pos-CCONJ.html">CCONJ</a></tt> 729, <tt><a href="gsw_divital-pos-PROPN.html">PROPN</a></tt> 413, <tt><a href="gsw_divital-pos-PART.html">PART</a></tt> 313, <tt><a href="gsw_divital-pos-SCONJ.html">SCONJ</a></tt> 313, <tt><a href="gsw_divital-pos-NUM.html">NUM</a></tt> 222, <tt><a href="gsw_divital-pos-INTJ.html">INTJ</a></tt> 169, <tt><a href="gsw_divital-pos-X.html">X</a></tt> 46, <tt><a href="gsw_divital-pos-SYM.html">SYM</a></tt> 11)
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="gsw_divital-pos-PUNCT.html">PUNCT</a></tt> 3196, <tt><a href="gsw_divital-pos-NOUN.html">NOUN</a></tt> 2914, <tt><a href="gsw_divital-pos-DET.html">DET</a></tt> 2712, <tt><a href="gsw_divital-pos-VERB.html">VERB</a></tt> 1796, <tt><a href="gsw_divital-pos-ADP.html">ADP</a></tt> 1639, <tt><a href="gsw_divital-pos-PRON.html">PRON</a></tt> 1458, <tt><a href="gsw_divital-pos-ADV.html">ADV</a></tt> 1365, <tt><a href="gsw_divital-pos-AUX.html">AUX</a></tt> 1350, <tt><a href="gsw_divital-pos-ADJ.html">ADJ</a></tt> 1096, <tt><a href="gsw_divital-pos-CCONJ.html">CCONJ</a></tt> 730, <tt><a href="gsw_divital-pos-PROPN.html">PROPN</a></tt> 413, <tt><a href="gsw_divital-pos-PART.html">PART</a></tt> 313, <tt><a href="gsw_divital-pos-SCONJ.html">SCONJ</a></tt> 313, <tt><a href="gsw_divital-pos-NUM.html">NUM</a></tt> 222, <tt><a href="gsw_divital-pos-INTJ.html">INTJ</a></tt> 169, <tt><a href="gsw_divital-pos-X.html">X</a></tt> 46, <tt><a href="gsw_divital-pos-SYM.html">SYM</a></tt> 11)
 
-The 10 most frequent ambiguous types:  <em>àwer</em> (<tt><a href="gsw_divital-pos-CCONJ.html">CCONJ</a></tt> 22, <tt><a href="gsw_divital-pos-ADV.html">ADV</a></tt> 4), <em>àwwer</em> (<tt><a href="gsw_divital-pos-CCONJ.html">CCONJ</a></tt> 9, <tt><a href="gsw_divital-pos-ADV.html">ADV</a></tt> 5), <em>sowie</em> (<tt><a href="gsw_divital-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="gsw_divital-pos-ADP.html">ADP</a></tt> 1), <em>denn</em> (<tt><a href="gsw_divital-pos-CCONJ.html">CCONJ</a></tt> 5, <tt><a href="gsw_divital-pos-ADV.html">ADV</a></tt> 4), <em>dann</em> (<tt><a href="gsw_divital-pos-ADV.html">ADV</a></tt> 6, <tt><a href="gsw_divital-pos-CCONJ.html">CCONJ</a></tt> 6), <em>wie</em> (<tt><a href="gsw_divital-pos-PRON.html">PRON</a></tt> 155, <tt><a href="gsw_divital-pos-SCONJ.html">SCONJ</a></tt> 43, <tt><a href="gsw_divital-pos-ADP.html">ADP</a></tt> 25, <tt><a href="gsw_divital-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="gsw_divital-pos-ADV.html">ADV</a></tt> 3), <em>awwer</em> (<tt><a href="gsw_divital-pos-ADV.html">ADV</a></tt> 1, <tt><a href="gsw_divital-pos-CCONJ.html">CCONJ</a></tt> 1), <em>àss</em> (<tt><a href="gsw_divital-pos-SCONJ.html">SCONJ</a></tt> 105, <tt><a href="gsw_divital-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="gsw_divital-pos-ADP.html">ADP</a></tt> 2, <tt><a href="gsw_divital-pos-ADV.html">ADV</a></tt> 1), <em>àls</em> (<tt><a href="gsw_divital-pos-ADV.html">ADV</a></tt> 26, <tt><a href="gsw_divital-pos-ADP.html">ADP</a></tt> 19, <tt><a href="gsw_divital-pos-SCONJ.html">SCONJ</a></tt> 5, <tt><a href="gsw_divital-pos-CCONJ.html">CCONJ</a></tt> 2), <em>Awr</em> (<tt><a href="gsw_divital-pos-ADV.html">ADV</a></tt> 1, <tt><a href="gsw_divital-pos-CCONJ.html">CCONJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>àwer</em> (<tt><a href="gsw_divital-pos-CCONJ.html">CCONJ</a></tt> 22, <tt><a href="gsw_divital-pos-ADV.html">ADV</a></tt> 4), <em>àwwer</em> (<tt><a href="gsw_divital-pos-CCONJ.html">CCONJ</a></tt> 9, <tt><a href="gsw_divital-pos-ADV.html">ADV</a></tt> 5), <em>denn</em> (<tt><a href="gsw_divital-pos-CCONJ.html">CCONJ</a></tt> 5, <tt><a href="gsw_divital-pos-ADV.html">ADV</a></tt> 4), <em>dann</em> (<tt><a href="gsw_divital-pos-ADV.html">ADV</a></tt> 6, <tt><a href="gsw_divital-pos-CCONJ.html">CCONJ</a></tt> 6), <em>wie</em> (<tt><a href="gsw_divital-pos-PRON.html">PRON</a></tt> 155, <tt><a href="gsw_divital-pos-SCONJ.html">SCONJ</a></tt> 43, <tt><a href="gsw_divital-pos-ADP.html">ADP</a></tt> 25, <tt><a href="gsw_divital-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="gsw_divital-pos-ADV.html">ADV</a></tt> 3), <em>awwer</em> (<tt><a href="gsw_divital-pos-ADV.html">ADV</a></tt> 1, <tt><a href="gsw_divital-pos-CCONJ.html">CCONJ</a></tt> 1), <em>àss</em> (<tt><a href="gsw_divital-pos-SCONJ.html">SCONJ</a></tt> 105, <tt><a href="gsw_divital-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="gsw_divital-pos-ADP.html">ADP</a></tt> 2, <tt><a href="gsw_divital-pos-ADV.html">ADV</a></tt> 1), <em>àls</em> (<tt><a href="gsw_divital-pos-ADV.html">ADV</a></tt> 26, <tt><a href="gsw_divital-pos-ADP.html">ADP</a></tt> 19, <tt><a href="gsw_divital-pos-SCONJ.html">SCONJ</a></tt> 5, <tt><a href="gsw_divital-pos-CCONJ.html">CCONJ</a></tt> 2), <em>Awr</em> (<tt><a href="gsw_divital-pos-ADV.html">ADV</a></tt> 1, <tt><a href="gsw_divital-pos-CCONJ.html">CCONJ</a></tt> 1), <em>bis</em> (<tt><a href="gsw_divital-pos-ADP.html">ADP</a></tt> 19, <tt><a href="gsw_divital-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="gsw_divital-pos-CCONJ.html">CCONJ</a></tt> 1)
 
 
 * <em>àwer</em>
@@ -24,9 +24,6 @@ The 10 most frequent ambiguous types:  <em>àwer</em> (<tt><a href="gsw_divital-
 * <em>àwwer</em>
   * <tt><a href="gsw_divital-pos-CCONJ.html">CCONJ</a></tt> 9: <em>Mr het ìhre <b>àwwer</b> gsäät , àss es nìt de Wart ìsch , waj de Kìnni kleinmuetig un e richtiger Nixnùtz ìsch .</em>
   * <tt><a href="gsw_divital-pos-ADV.html">ADV</a></tt> 5: <em>Wie er <b>àwwer</b> noch wit eweg isch g’sinn , het ’ne siner Vàtter g’sähn .</em>
-* <em>sowie</em>
-  * <tt><a href="gsw_divital-pos-CCONJ.html">CCONJ</a></tt> 6: <em>Unseri Muetersproch isch e Grundelemant vùn ùnsere Persöhnlichkeit , <b>sowie</b> d' Fùrm vùn ùnserem Gsicht oder ùnser Fàmilienàme .</em>
-  * <tt><a href="gsw_divital-pos-ADP.html">ADP</a></tt> 1: <em>Es geht eijetlich do drùm vùn ne ebbs ànders ze bekùmme , àls Üssawe wie ze nix fuehre , <b>sowie</b> : Ich hàb die scheene Sproche , wie Teil vùn ùnserem Patrimoine sin eso gare .</em>
 * <em>denn</em>
   * <tt><a href="gsw_divital-pos-CCONJ.html">CCONJ</a></tt> 5: <em>In de Maternelle ùn i m CP wùrd d Regionàlsproch sogàr exklusiv benùtzt , <b>denn</b> in dem Alter lehre d Kinder à m Beste .</em>
   * <tt><a href="gsw_divital-pos-ADV.html">ADV</a></tt> 4: <em>Ja , worum kumme-n- r <b>denn</b> nit nuff ?</em>
@@ -55,10 +52,14 @@ The 10 most frequent ambiguous types:  <em>àwer</em> (<tt><a href="gsw_divital-
 * <em>Awr</em>
   * <tt><a href="gsw_divital-pos-ADV.html">ADV</a></tt> 1: <em><b>Awr</b> ayner hàn' i ärkennt fon ana .</em>
   * <tt><a href="gsw_divital-pos-CCONJ.html">CCONJ</a></tt> 1: <em><b>Awr</b> séé uns !</em>
+* <em>bis</em>
+  * <tt><a href="gsw_divital-pos-ADP.html">ADP</a></tt> 19: <em>Die Steck sin voll Honig gstackt <b>bis</b> ... uf 's üsserschte .</em>
+  * <tt><a href="gsw_divital-pos-SCONJ.html">SCONJ</a></tt> 3: <em>No seht mer öi widder we sie e so làngsàm , gànz làngsàm , furtzoddle , do geht eins furt , un dert geht eins furt , un we die Paarle e so e bessele àbnamme , <b>bis</b> gajen' em Eins , Zweie , Morje , do kumme se widder zeruck .</em>
+  * <tt><a href="gsw_divital-pos-CCONJ.html">CCONJ</a></tt> 1: <em>Frühjer bin ich i me Gschäft gsin , vun morjes a m achte <b>bis</b> a m Owes a m siewwene , halwer bucklicht haw i mich gschafft , un dodrfor haw i drissig Franke Lohn bekumme monetlich .</em>
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 30.000000 (the average of all parts of speech is 312.588235).
+The form / lemma ratio of `CCONJ` is 30.000000 (the average of all parts of speech is 312.529412).
 
 The 1st highest number of forms (30) was observed with the lemma “_”: <em>-ed-, Awr, Unn, awer, awwer, bis, dann, denn, edder, eder, entwedder, et, nämlich, ob, od'r, odder, oder, od´r, sowie, un, und, wie, ze, àls, àss, àwer, àwwer, ù, ùn, †</em>.
 
@@ -67,17 +68,17 @@ The 1st highest number of forms (30) was observed with the lemma “_”: <em>-e
 `CCONJ` occurs with 1 feature-value pairs: `Foreign=Yes`
 
 `CCONJ` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (719 tokens).
+The most frequent feature combination is `_` (720 tokens).
 Examples: <em>ùn, un, oder, odder, àwer, àwwer, awer, sowie, denn, dann</em>
 
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 10 different relations: <tt><a href="gsw_divital-dep-cc.html">cc</a></tt> (696; 95% instances), <tt><a href="gsw_divital-dep-fixed.html">fixed</a></tt> (13; 2% instances), <tt><a href="gsw_divital-dep-case.html">case</a></tt> (4; 1% instances), <tt><a href="gsw_divital-dep-cc-preconj.html">cc:preconj</a></tt> (4; 1% instances), <tt><a href="gsw_divital-dep-orphan.html">orphan</a></tt> (3; 0% instances), <tt><a href="gsw_divital-dep-reparandum.html">reparandum</a></tt> (3; 0% instances), <tt><a href="gsw_divital-dep-mark.html">mark</a></tt> (2; 0% instances), <tt><a href="gsw_divital-dep-root.html">root</a></tt> (2; 0% instances), <tt><a href="gsw_divital-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="gsw_divital-dep-conj.html">conj</a></tt> (1; 0% instances)
+`CCONJ` nodes are attached to their parents using 10 different relations: <tt><a href="gsw_divital-dep-cc.html">cc</a></tt> (697; 95% instances), <tt><a href="gsw_divital-dep-fixed.html">fixed</a></tt> (13; 2% instances), <tt><a href="gsw_divital-dep-case.html">case</a></tt> (4; 1% instances), <tt><a href="gsw_divital-dep-cc-preconj.html">cc:preconj</a></tt> (4; 1% instances), <tt><a href="gsw_divital-dep-orphan.html">orphan</a></tt> (3; 0% instances), <tt><a href="gsw_divital-dep-reparandum.html">reparandum</a></tt> (3; 0% instances), <tt><a href="gsw_divital-dep-mark.html">mark</a></tt> (2; 0% instances), <tt><a href="gsw_divital-dep-root.html">root</a></tt> (2; 0% instances), <tt><a href="gsw_divital-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="gsw_divital-dep-conj.html">conj</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 15 different parts of speech: <tt><a href="gsw_divital-pos-VERB.html">VERB</a></tt> (324; 44% instances), <tt><a href="gsw_divital-pos-NOUN.html">NOUN</a></tt> (233; 32% instances), <tt><a href="gsw_divital-pos-ADJ.html">ADJ</a></tt> (75; 10% instances), <tt><a href="gsw_divital-pos-ADV.html">ADV</a></tt> (31; 4% instances), <tt><a href="gsw_divital-pos-PROPN.html">PROPN</a></tt> (18; 2% instances), <tt><a href="gsw_divital-pos-DET.html">DET</a></tt> (16; 2% instances), <tt><a href="gsw_divital-pos-AUX.html">AUX</a></tt> (10; 1% instances), <tt><a href="gsw_divital-pos-PRON.html">PRON</a></tt> (9; 1% instances), <tt><a href="gsw_divital-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="gsw_divital-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="gsw_divital-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="gsw_divital-pos-PART.html">PART</a></tt> (2; 0% instances),  (2; 0% instances), <tt><a href="gsw_divital-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="gsw_divital-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 15 different parts of speech: <tt><a href="gsw_divital-pos-VERB.html">VERB</a></tt> (325; 45% instances), <tt><a href="gsw_divital-pos-NOUN.html">NOUN</a></tt> (233; 32% instances), <tt><a href="gsw_divital-pos-ADJ.html">ADJ</a></tt> (75; 10% instances), <tt><a href="gsw_divital-pos-ADV.html">ADV</a></tt> (31; 4% instances), <tt><a href="gsw_divital-pos-PROPN.html">PROPN</a></tt> (18; 2% instances), <tt><a href="gsw_divital-pos-DET.html">DET</a></tt> (16; 2% instances), <tt><a href="gsw_divital-pos-AUX.html">AUX</a></tt> (10; 1% instances), <tt><a href="gsw_divital-pos-PRON.html">PRON</a></tt> (9; 1% instances), <tt><a href="gsw_divital-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="gsw_divital-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="gsw_divital-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="gsw_divital-pos-PART.html">PART</a></tt> (2; 0% instances),  (2; 0% instances), <tt><a href="gsw_divital-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="gsw_divital-pos-X.html">X</a></tt> (1; 0% instances)
 
-720 (99%) `CCONJ` nodes are leaves.
+721 (99%) `CCONJ` nodes are leaves.
 
 5 (1%) `CCONJ` nodes have one child.
 

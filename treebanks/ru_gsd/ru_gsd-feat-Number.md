@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-57002 tokens (58%) have a non-empty value of `Number`.
-28199 types (94%) occur at least once with a non-empty value of `Number`.
-16273 lemmas (87%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (26755; 27% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (12231; 12% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> (7320; 7% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (6584; 7% instances), <tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> (1834; 2% instances), <tt><a href="ru_gsd-pos-DET.html">DET</a></tt> (1194; 1% instances), <tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt> (756; 1% instances), <tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt> (328; 0% instances).
+57003 tokens (58%) have a non-empty value of `Number`.
+28200 types (94%) occur at least once with a non-empty value of `Number`.
+16274 lemmas (87%) occur at least once with a non-empty value of `Number`.
+The feature is used with 8 part-of-speech tags: <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (26755; 27% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (12231; 12% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> (7320; 7% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (6585; 7% instances), <tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> (1834; 2% instances), <tt><a href="ru_gsd-pos-DET.html">DET</a></tt> (1194; 1% instances), <tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt> (756; 1% instances), <tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt> (328; 0% instances).
 
 ### `NOUN`
 
@@ -42,7 +42,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 12231 <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="ru_gsd-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (12157; 99%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="ru_gsd-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (12097; 99%).
 
 `ADJ` tokens may have the following values of `Number`:
 
@@ -78,13 +78,13 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 7320 <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> tokens (86% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="ru_gsd-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (6376; 87%), <tt><a href="ru_gsd-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (5280; 72%), <tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (5278; 72%), <tt><a href="ru_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5278; 72%), <tt><a href="ru_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5257; 72%), <tt><a href="ru_gsd-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5199; 71%), <tt><a href="ru_gsd-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (4803; 66%), <tt><a href="ru_gsd-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4257; 58%), <tt><a href="ru_gsd-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (3784; 52%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="ru_gsd-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (6376; 87%), <tt><a href="ru_gsd-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (5280; 72%), <tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (5278; 72%), <tt><a href="ru_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5278; 72%), <tt><a href="ru_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5257; 72%), <tt><a href="ru_gsd-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5199; 71%), <tt><a href="ru_gsd-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (4803; 66%), <tt><a href="ru_gsd-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4257; 58%), <tt><a href="ru_gsd-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (3785; 52%).
 
 `VERB` tokens may have the following values of `Number`:
 
 * `Plur` (1918; 26% of non-empty `Number`): <em>могут, являются, имеют, стали, были, используются, называют, находятся, могли, появились</em>
 * `Sing` (5402; 74% of non-empty `Number`): <em>является, стал, составляет, может, находится, входит, получил, родился, имеет, начал</em>
-* `EMPTY` (1174): <em>можно, начиная, быть, заниматься, играть, сделать, включая, использовать, работать, стать</em>
+* `EMPTY` (1175): <em>можно, начиная, быть, заниматься, играть, сделать, включая, использовать, работать, стать</em>
 
 <table>
   <tr><th>Paradigm <i>стать</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -107,15 +107,15 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `PROPN`
 
-6584 <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Number`.
+6585 <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (4523; 69%), <tt><a href="ru_gsd-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (3299; 50%).
+The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (4524; 69%), <tt><a href="ru_gsd-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (3300; 50%).
 
 `PROPN` tokens may have the following values of `Number`:
 
 * `Plur` (202; 3% of non-empty `Number`): <em>США, ВВС, ВС, ЕХБ, СС, IPO, Лейкерс, Нидерландов, 4Kids, IBM</em>
-* `Sing` (6382; 97% of non-empty `Number`): <em>России, СССР, Украины, Франции, Германии, Европы, Испании, РФ, Александра, Москве</em>
-* `EMPTY` (33): <em>НЧ, В., 154М, 22М, 22Р, 25С, 3О, 400Т, 60К, 60Н</em>
+* `Sing` (6383; 97% of non-empty `Number`): <em>России, СССР, Украины, Франции, Германии, Европы, Испании, РФ, Александра, Москве</em>
+* `EMPTY` (32): <em>НЧ, В., 154М, 22М, 22Р, 25С, 3О, 400Т, 60К, 60Н</em>
 
 <table>
   <tr><th>Paradigm <i>ССР</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -124,7 +124,7 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
   <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>ССР</em></td><td></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `PROPN`. 100% lemmas (4445) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `PROPN`. 100% lemmas (4446) occur only with one value of `Number`.
 
 ### `PRON`
 
@@ -291,18 +291,18 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
   <tr><td><tt><tt><a href="ru_gsd-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>одно</em></td><td></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `NUM`. 97% lemmas (76) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `NUM`. 99% lemmas (78) occur only with one value of `Number`.
 
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="ru_gsd-dep-amod.html">amod</a></tt>]--> ADJ</tt> (9583; 98%),
-<tt>NOUN --[<tt><a href="ru_gsd-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (5749; 68%),
-<tt>VERB --[<tt><a href="ru_gsd-dep-obl.html">obl</a></tt>]--> NOUN</tt> (3518; 63%),
+<tt>NOUN --[<tt><a href="ru_gsd-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (5759; 68%),
+<tt>VERB --[<tt><a href="ru_gsd-dep-obl.html">obl</a></tt>]--> NOUN</tt> (2700; 60%),
 <tt>VERB --[<tt><a href="ru_gsd-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (2278; 94%),
 <tt>NOUN --[<tt><a href="ru_gsd-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1628; 80%),
-<tt>NOUN --[<tt><a href="ru_gsd-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (1175; 75%),
-<tt>NOUN --[<tt><a href="ru_gsd-dep-appos.html">appos</a></tt>]--> PROPN</tt> (1014; 88%),
+<tt>NOUN --[<tt><a href="ru_gsd-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (1178; 75%),
+<tt>NOUN --[<tt><a href="ru_gsd-dep-appos.html">appos</a></tt>]--> PROPN</tt> (1015; 89%),
 <tt>PROPN --[<tt><a href="ru_gsd-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (965; 99%),
 <tt>NOUN --[<tt><a href="ru_gsd-dep-det.html">det</a></tt>]--> DET</tt> (925; 72%),
 <tt>NOUN --[<tt><a href="ru_gsd-dep-acl.html">acl</a></tt>]--> VERB</tt> (884; 92%).

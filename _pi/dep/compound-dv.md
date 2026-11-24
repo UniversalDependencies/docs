@@ -26,3 +26,4 @@ compound:dv(maraṇa, jāti-)
 compound:dv(and-death, aging)
 compound:dv(and-death, birth)
 ~~~
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:30 CET -->

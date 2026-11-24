@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Joakim Nivre, Bernadeta Griciūtė, Victor Norrman.
 
 Repository: [UD_Swedish-PUD](https://github.com/UniversalDependencies/UD_Swedish-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsv_pud218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsv_pud219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 
@@ -222,7 +222,7 @@ Ingelstam, Sara Stymne, Eva Petterson, Stella Lundqvist, and Ida Nilsson.
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: många, flera, andra, nya, stora, olika, fler, vissa, inhemska, små</li>
+      <li>ADJ: många, flera, andra, nya, stora, fler, olika, vissa, inhemska, små</li>
       <li>ADJ-Part: förenta, kända, inblandade, Finansierade, allierade, avlidna, besvarade, beväpnade, erövrade, försakade</li>
       <li>DET: de, dessa, alla, några, båda, inga</li>
       <li>NOUN: år, personer, miljoner, dollar, barn, människor, åren, delar, företag, gånger</li>
@@ -292,7 +292,7 @@ Ingelstam, Sara Stymne, Eva Petterson, Stella Lundqvist, and Ida Nilsson.
 <ul>
   <li>Def
     <ul>
-      <li>ADJ: hela, senaste, sista, högsta, nya, brittiska, norra, största, södra, bästa</li>
+      <li>ADJ: hela, senaste, sista, högsta, nya, brittiska, norra, största, södra, andra</li>
       <li>ADJ-Part: allierade, misstänkte, Förenade, befästa, bildade, bundna, frusna, frånskilda, föreslagna, hyllade</li>
       <li>DET: den, de, det, denna, dessa, detta, båda</li>
       <li>NOUN: havet, världen, delen, kriget, tiden, gången, regeringen, regionen, staden, åren</li>
@@ -328,7 +328,7 @@ Ingelstam, Sara Stymne, Eva Petterson, Stella Lundqvist, and Ida Nilsson.
   <li>Cmp
     <ul>
       <li>ADJ: flera, fler, större, tidigare, högre, mer, senare, bättre, färre, ytterligare</li>
-      <li>ADV: mer, senare, tidigare, längre, mindre, bättre, hellre, snarare, närmare, vidare</li>
+      <li>ADV: mer, senare, tidigare, längre, mindre, bättre, hellre, snarare, närmare, ytterligare</li>
     </ul>
   </li>
 </ul>
@@ -598,9 +598,9 @@ Ingelstam, Sara Stymne, Eva Petterson, Stella Lundqvist, and Ida Nilsson.
       </li>
       <li>ADV
         <ul>
+          <li>ADP: som</li>
           <li>ADV: så, till</li>
           <li>PART: icke</li>
-          <li>SCONJ: som</li>
         </ul>
       </li>
     </ul>
@@ -687,8 +687,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN (1)</li>
       <li>VERB--PRON (2)</li>
       <li>VERB-Fin--NOUN (3)</li>
-      <li>VERB-Fin--NOUN-Gen (2)</li>
-      <li>VERB-Fin--NOUN-Nom (378)</li>
+      <li>VERB-Fin--NOUN-Gen (1)</li>
+      <li>VERB-Fin--NOUN-Nom (379)</li>
       <li>VERB-Fin--PRON (28)</li>
       <li>VERB-Fin--PRON-Acc (52)</li>
       <li>VERB-Inf--NOUN (2)</li>

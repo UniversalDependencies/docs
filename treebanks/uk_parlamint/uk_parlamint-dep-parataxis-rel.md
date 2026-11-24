@@ -7,7 +7,6 @@ udver: '2'
 ## Treebank Statistics: UD_Ukrainian-ParlaMint: Relations: `parataxis:rel`
 
 This relation is a language-specific subtype of <tt><a href="uk_parlamint-dep-parataxis.html">parataxis</a></tt>.
-There are also 1 other language-specific subtypes of `parataxis`: <tt><a href="uk_parlamint-dep-parataxis-discourse.html">parataxis:discourse</a></tt>.
 
 9 nodes (0%) are attached to their parents as `parataxis:rel`.
 
@@ -77,14 +76,14 @@ The following 4 pairs of parts of speech are connected with `parataxis:rel`: <tt
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 22 parataxis:rel	color:blue
-1	Вірогідність	вірогідність	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	9	nsubj:outer	_	_
+1	Вірогідність	вірогідність	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	_
 2	військової	військовий	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	3	amod	_	_
 3	операції	операція	NOUN	NOUN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
 4	з	з	ADP	ADP	Case=Gen|ExtPos=ADP	6	case	_	_
 5	боку	бік	NOUN	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	fixed	_	_
 6	Росії	Росія	PROPN	PROPN	Animacy=Inan|Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	3	nmod	_	_
 7	—	—	PUNCT	PUNCT	_	9	punct	_	_
-8	це	це	PRON	PRON	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	9	nsubj	_	_
+8	це	це	PRON	PRON	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	9	expl	_	_
 9	означає	означати	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 10	блокування	блокування	NOUN	NOUN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	9	obj	_	_
 11	військово-морських	військово-морський	ADJ	ADJ	Case=Gen|Number=Plur	12	amod	_	_
@@ -93,7 +92,7 @@ The following 4 pairs of parts of speech are connected with `parataxis:rel`: <tt
 14	,	,	PUNCT	PUNCT	_	22	punct	_	_
 15	що	що	SCONJ	SCONJ	_	22	mark	_	_
 16	є	бути	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	cop	_	_
-17	ніщо	ніщо	PRON	PRON	Animacy=Inan|Case=Nom|ExtPos=DET|PronType=Neg	22	discourse	_	_
+17	ніщо	ніщо	PRON	PRON	Animacy=Inan|Case=Nom|ExtPos=DET|PronType=Neg	22	det	_	_
 18	інше	інше	DET	DET	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	17	fixed	_	SpaceAfter=No
 19	,	,	PUNCT	PUNCT	_	20	punct	_	_
 20	як	як	SCONJ	SCONJ	_	17	fixed	_	_

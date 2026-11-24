@@ -17,34 +17,17 @@ The following 19 pairs of parts of speech are connected with `case`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 case	color:blue
-1	Implantus	implants	NOUN	ncmpa1	Case=Acc|Gender=Masc|Number=Plur	3	obj	3:obj	LvtbNodeId=a-c58-p41s5w1
-2	šobrīd	šobrīd	ADV	r0n	_	3	advmod	3:advmod	LvtbNodeId=a-c58-p41s5w2
-3	liek	likt	VERB	vmnipt130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-c58-p41s5w3
-4	uz	uz	ADP	spsa	_	5	case	5:case	LvtbNodeId=a-c58-p41s5w4
-5	mūžu	mūžs	NOUN	ncmsa1	Case=Acc|Gender=Masc|Number=Sing	3	obl	3:obl:uz	LvtbNodeId=a-c58-p41s5w5
-6	.	.	PUNCT	zs	_	3	punct	3:punct	LvtbNodeId=a-c58-p41s5w6
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 2 case	color:blue
-1	Viņš	viņš	PRON	pp3msnn	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	6:nsubj	LvtbNodeId=a-d177-p171s4w1
-2	par	par	ADP	spsa	_	3	case	3:case	LvtbNodeId=a-d177-p171s4w2
-3	to	tas	DET	pd3msan	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	iobj	6:iobj	LvtbNodeId=a-d177-p171s4w3
-4	jau	jau	ADV	r0n	_	6	advmod	6:advmod	LvtbNodeId=a-d177-p171s4w4
-5	bija	būt	AUX	vcnisii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	6	aux	6:aux	LvtbNodeId=a-d177-p171s4w5
-6	iedomājies	iedomāties	VERB	vmypdmsnasnpn	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Reflex=Yes|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	LvtbNodeId=a-d177-p171s4w6|SpaceAfter=No
-7	.	.	PUNCT	zs	_	6	punct	6:punct	LvtbNodeId=a-d177-p171s4w7
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 3 case	color:blue
+1	Viņas	viņa	PRON	pp3fpnn	Case=Nom|Gender=Fem|Number=Plur|Person=3|PronType=Prs	2	nsubj	2:nsubj	LvtbNodeId=a-d87-p475s1w1
+2	norāpās	norāpties	VERB	vmyisi130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Reflex=Yes|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-d87-p475s1w2
+3	uz	uz	ADP	spsa	_	5	case	5:case	LvtbNodeId=a-d87-p475s1w3
+4	pēdējās	pēdējais	ADJ	arfsgyp	Case=Gen|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	5	amod	5:amod	LvtbNodeId=a-d87-p475s1w4
+5	lāvas	lāva	NOUN	ncfsg4	Case=Gen|Gender=Fem|Number=Sing	2	obl	2:obl:uz	LvtbNodeId=a-d87-p475s1w5|SpaceAfter=No
+6	.	.	PUNCT	zs	_	2	punct	2:punct	LvtbNodeId=a-d87-p475s1w6
 
 ~~~
 
@@ -55,13 +38,37 @@ The following 19 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 case	color:blue
-1	Putni	putns	NOUN	ncmpn1	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	2:nsubj	LvtbNodeId=a-d1293-p1s2w1
-2	brīnās	brīnīties	VERB	vmyipi330an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Reflex=Yes|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-d1293-p1s2w2
-3	par	par	ADP	spsa	_	4	case	4:case	LvtbNodeId=a-d1293-p1s2w3
-4	Liepāju	Liepāja	PROPN	npfsa4	Case=Acc|Gender=Fem|Number=Sing	2	iobj	2:iobj	LvtbNodeId=a-d1293-p1s2w4
-5	(	(	PUNCT	zb	_	6	punct	6:punct	LvtbNodeId=a-d1293-p1s2w5|SpaceAfter=No
-6	2024	2024	NUM	xn	NumType=Card	2	parataxis	2:parataxis	LvtbNodeId=a-d1293-p1s2w6|SpaceAfter=No
-7	)	)	PUNCT	zb	_	6	punct	6:punct	LvtbNodeId=a-d1293-p1s2w7
+1	Viss	viss	DET	pg0msnn	Case=Nom|Gender=Masc|Number=Sing|PronType=Tot	2	nsubj	2:nsubj	LvtbNodeId=a-p3767-p6s4w1
+2	atkarīgs	atkarīgs	ADJ	afmsnnp	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	0	root	0:root	LvtbNodeId=a-p3767-p6s4w2
+3	no	no	ADP	spsg	_	4	case	4:case	LvtbNodeId=a-p3767-p6s4w3
+4	tā	tas	DET	pd3msgn	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	obl	2:obl:no	LvtbNodeId=a-p3767-p6s4w4|SpaceAfter=No
+5	,	,	PUNCT	zc	_	7	punct	7:punct	LvtbNodeId=a-p3767-p6s4w5
+6	kā	kā	ADV	r0n	PronType=Int	7	advmod	7:advmod	LvtbNodeId=a-p3767-p6s4w6
+7	palaimējies	palaimēties	VERB	veypdmsnasnpn	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Reflex=Yes|Tense=Past|VerbForm=Part|Voice=Act	2	advcl	2:advcl	LvtbNodeId=a-p3767-p6s4w7
+8	nodzīvot	nodzīvot	VERB	vmnn0t2000n	Polarity=Pos|VerbForm=Inf	7	xcomp	7:xcomp	LvtbNodeId=a-p3767-p6s4w8
+9	dzīvi	dzīve	NOUN	ncfsa5	Case=Acc|Gender=Fem|Number=Sing	8	obj	8:obj	LvtbNodeId=a-p3767-p6s4w9|SpaceAfter=No
+10	.	.	PUNCT	zs	_	2	punct	2:punct	LvtbNodeId=a-p3767-p6s4w10
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 7 case	color:blue
+1	Sporta	sports	NOUN	ncmsg1	Case=Gen|Gender=Masc|Number=Sing	2	nmod	2:nmod:gen	LvtbNodeId=a-p9974-p54s1w1
+2	hallē	halle	NOUN	ncfsl5	Case=Loc|Gender=Fem|Number=Sing	6	nmod	6:nmod:loc	LvtbNodeId=a-p9974-p54s1w2
+3	6.	6.	ADJ	xo	NumType=Ord	4	amod	4:amod	LvtbNodeId=a-p9974-p54s1w3|SpaceAfter=No
+4	II	II	NUM	xn	NumType=Card	6	nummod	6:nummod	LvtbNodeId=a-p9974-p54s1w4
+5	22.00	22.00	NUM	xn	NumType=Card	6	nummod	6:nummod	LvtbNodeId=a-p9974-p54s1w5
+6	balle	balle	NOUN	ncfsn5	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	LvtbNodeId=a-p9974-p54s1w6
+7	ar	ar	ADP	spsa	_	10	case	10:case	LvtbNodeId=a-p9974-p54s1w7
+8	grupu	grupa	NOUN	ncfsa4	Case=Acc|Gender=Fem|Number=Sing	10	nmod	10:nmod	LvtbNodeId=a-p9974-p54s1w8
+9	Brekšu	breksis	NOUN	ncmpg2	Case=Gen|Gender=Masc|Number=Plur	10	nmod	10:nmod:gen	LvtbNodeId=a-p9974-p54s1w9
+10	Pekši	Peksis	PROPN	npmpn2	Case=Nom|Gender=Masc|Number=Plur	6	nmod	6:nmod:ar	LvtbNodeId=a-p9974-p54s1w10|SpaceAfter=No
+11	.	.	PUNCT	zs	_	6	punct	6:punct	LvtbNodeId=a-p9974-p54s1w11
 
 ~~~
 

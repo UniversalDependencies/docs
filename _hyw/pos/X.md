@@ -20,4 +20,4 @@ Note that articles, prepositions, and filiation markers occurring in foreign nam
 - _քունաֆէ <b>պըլ ճըպնէ</b> կը ծախէր_/_k’ownafē <b>pël č̣ëpnē</b> kë çaxēr_ “He used to sell knafeh with cheese”,
 - _<b>Matomo Analytics</b> համակարգը_/_<b>Matomo Analytics</b> hamakargë_ “The Matomo Analytics system”,
 - _Մուրատ <b>Ապու</b> Եուսէֆ_/_Mowrat <b>Apow</b> Eowsēf_ “Mourad Abu Youssef”.
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:39 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:31 CET -->

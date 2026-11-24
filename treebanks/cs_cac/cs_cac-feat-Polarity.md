@@ -18,7 +18,7 @@ The feature is used with 4 part-of-speech tags: <tt><a href="cs_cac-pos-ADJ.html
 
 72708 <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> tokens (98% of all `ADJ` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `ADJ` and `Polarity` co-occurred: <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (67903; 93%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (60476; 83%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (60476; 83%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (46005; 63%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (44316; 61%).
+The most frequent other feature values with which `ADJ` and `Polarity` co-occurred: <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (67903; 93%), <tt><a href="cs_cac-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (61863; 85%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (60476; 83%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (60476; 83%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (46005; 63%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (44316; 61%).
 
 `ADJ` tokens may have the following values of `Polarity`:
 
@@ -146,7 +146,7 @@ The most frequent other feature values with which `ADJ` and `Polarity` co-occurr
 
 38748 <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (30773; 79%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (28549; 74%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (21014; 54%), <tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (20575; 53%), <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (20566; 53%).
+The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (30773; 79%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (28549; 74%), <tt><a href="cs_cac-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (25197; 65%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (21014; 54%), <tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (20575; 53%), <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (20566; 53%).
 
 `VERB` tokens may have the following values of `Polarity`:
 
@@ -219,7 +219,7 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 
 ### `ADV`
 
-10610 <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> tokens (38% of all `ADV` tokens) have a non-empty value of `Polarity`.
+10610 <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> tokens (37% of all `ADV` tokens) have a non-empty value of `Polarity`.
 
 The most frequent other feature values with which `ADV` and `Polarity` co-occurred: <tt><a href="cs_cac-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (10610; 100%), <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (8629; 81%).
 
@@ -227,7 +227,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 
 * `Neg` (400; 4% of non-empty `Polarity`): <em>neustále, nezřídka, neméně, neobyčejně, nesmírně, nesporně, nepřímo, nepochybně, nezávisle, nedostatečně</em>
 * `Pos` (10210; 96% of non-empty `Polarity`): <em>tedy, více, dále, často, stále, dobře, přímo, současně, stejně, hlavně</em>
-* `EMPTY` (17465): <em>tak, také, jak, proto, již, už, ještě, pak, kde, velmi</em>
+* `EMPTY` (17684): <em>tak, také, jak, proto, již, už, ještě, pak, kde, velmi</em>
 
 <table>
   <tr><th>Paradigm <i>málo</i></th><th><tt>Pos</tt></th><th><tt>Neg</tt></th></tr>
@@ -244,7 +244,7 @@ The 10 most frequent relations where parent and child node agree in `Polarity`:
 <tt>VERB --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> VERB</tt> (4766; 88%),
 <tt>ADJ --[<tt><a href="cs_cac-dep-cop.html">cop</a></tt>]--> AUX</tt> (3963; 87%),
 <tt>ADJ --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> ADJ</tt> (3729; 94%),
-<tt>ADJ --[<tt><a href="cs_cac-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (3047; 51%),
+<tt>ADJ --[<tt><a href="cs_cac-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (3050; 51%),
 <tt>VERB --[<tt><a href="cs_cac-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (2818; 84%),
 <tt>ADJ --[<tt><a href="cs_cac-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (2383; 95%),
 <tt>VERB --[<tt><a href="cs_cac-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1347; 80%),

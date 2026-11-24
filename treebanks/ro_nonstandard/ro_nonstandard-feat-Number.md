@@ -11,21 +11,21 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt>, <tt><a href="ro_nonstandard-feat-Number-psor.html">Number[psor]</a></tt>.
 
-272644 tokens (48%) have a non-empty value of `Number`.
-30409 types (95%) occur at least once with a non-empty value of `Number`.
-11173 lemmas (91%) occur at least once with a non-empty value of `Number`.
-The feature is used with 9 part-of-speech tags: <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (96781; 17% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (47551; 8% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (41027; 7% instances), <tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (29369; 5% instances), <tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt> (23251; 4% instances), <tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt> (19968; 3% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt> (11404; 2% instances), <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (3292; 1% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+272645 tokens (48%) have a non-empty value of `Number`.
+30406 types (95%) occur at least once with a non-empty value of `Number`.
+11171 lemmas (91%) occur at least once with a non-empty value of `Number`.
+The feature is used with 9 part-of-speech tags: <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (96780; 17% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (47550; 8% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (41031; 7% instances), <tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (29363; 5% instances), <tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt> (23257; 4% instances), <tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt> (19967; 3% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt> (11404; 2% instances), <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (3292; 1% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-96781 <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
+96780 <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt> (87449; 90%), <tt><a href="ro_nonstandard-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (52238; 54%), <tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (49597; 51%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt> (87448; 90%), <tt><a href="ro_nonstandard-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (52238; 54%), <tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (49596; 51%).
 
 `NOUN` tokens may have the following values of `Number`:
 
 * `Plur` (25647; 27% of non-empty `Number`): <em>oameni, turcii, bani, oamenii, ani, boierii, moscalii, ucenicii, boieri, turci</em>
-* `Sing` (71134; 73% of non-empty `Number`): <em>vodă, domnul, doamne, țara, țară, omul, om, domnului, oaste, cuvîntul</em>
+* `Sing` (71133; 73% of non-empty `Number`): <em>vodă, domnul, doamne, țara, țară, omul, om, domnului, oaste, cuvîntul</em>
 * `EMPTY` (1): <em>neamure</em>
 
 <table>
@@ -41,15 +41,15 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 ### `PRON`
 
-47551 <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> tokens (74% of all `PRON` tokens) have a non-empty value of `Number`.
+47550 <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> tokens (74% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="ro_nonstandard-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (35045; 74%), <tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt> (33214; 70%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="ro_nonstandard-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (35046; 74%), <tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt> (33214; 70%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (16606; 35% of non-empty `Number`): <em>lor, le, -i, ei, voi, carii, noi, vă, ne, voao</em>
+* `Plur` (16605; 35% of non-empty `Number`): <em>lor, le, -i, ei, voi, carii, noi, vă, ne, voao</em>
 * `Sing` (30945; 65% of non-empty `Number`): <em>lui, el, -l, -i, carele, l-, o, mă, eu, -mi</em>
-* `EMPTY` (17076): <em>să, ce, s-, se, cine, s, care, ce-, -să, -și</em>
+* `EMPTY` (17075): <em>să, ce, s-, se, cine, s, care, ce-, -să, -și</em>
 
 <table>
   <tr><th>Paradigm <i>el</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -83,13 +83,13 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `VERB`
 
-41027 <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> tokens (55% of all `VERB` tokens) have a non-empty value of `Number`.
+41031 <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> tokens (55% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="ro_nonstandard-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (36406; 89%), <tt><a href="ro_nonstandard-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (34392; 84%), <tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (30903; 75%), <tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt> (26683; 65%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="ro_nonstandard-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (36404; 89%), <tt><a href="ro_nonstandard-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (34397; 84%), <tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (30908; 75%), <tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt> (26688; 65%).
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (9652; 24% of non-empty `Number`): <em>au, zisără, fac, zic, știți, veniră, arată, faceți, știm, am</em>
+* `Plur` (9656; 24% of non-empty `Number`): <em>au, zisără, fac, zic, știți, veniră, arată, faceți, știm, am</em>
 * `Sing` (31375; 76% of non-empty `Number`): <em>zise, era, are, avea, face, făcea, zicea, da, dă, zice</em>
 * `EMPTY` (34096): <em>făcut, dat, luat, facă, dea, da, zicînd, face, pus, scris</em>
 
@@ -118,14 +118,14 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `AUX`
 
-29369 <tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> tokens (92% of all `AUX` tokens) have a non-empty value of `Number`.
+29363 <tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> tokens (92% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (29051; 99%), <tt><a href="ro_nonstandard-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (27457; 93%), <tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt> (23640; 80%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (29045; 99%), <tt><a href="ro_nonstandard-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (27451; 93%), <tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt> (23634; 80%).
 
 `AUX` tokens may have the following values of `Number`:
 
-* `Plur` (14215; 48% of non-empty `Number`): <em>au, am, vor, sînt, -s, veți, ați, or, ar, vom</em>
-* `Sing` (15154; 52% of non-empty `Number`): <em>va, -i, -au, era, a, iaste, e, ai, este, voiu</em>
+* `Plur` (14211; 48% of non-empty `Number`): <em>au, am, vor, sînt, -s, veți, ați, or, ar, vom</em>
+* `Sing` (15152; 52% of non-empty `Number`): <em>va, -i, -au, era, a, iaste, e, ai, este, voiu</em>
 * `EMPTY` (2557): <em>fi, fost, fie, fiind, hi, putut, fostu, vrut, putea, poată</em>
 
 <table>
@@ -141,15 +141,15 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 ### `DET`
 
-23251 <tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt> tokens (97% of all `DET` tokens) have a non-empty value of `Number`.
+23257 <tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt> tokens (97% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="ro_nonstandard-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (20095; 86%), <tt><a href="ro_nonstandard-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (20005; 86%), <tt><a href="ro_nonstandard-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (18498; 80%), <tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt> (16452; 71%), <tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (12041; 52%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="ro_nonstandard-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (20098; 86%), <tt><a href="ro_nonstandard-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (20011; 86%), <tt><a href="ro_nonstandard-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (18501; 80%), <tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt> (16448; 71%), <tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (12043; 52%).
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (5205; 22% of non-empty `Number`): <em>toate, multe, cei, toți, mulți, tale, alte, ale, voastre, sale</em>
-* `Sing` (18046; 78% of non-empty `Number`): <em>lui, a, un, o, toată, ta, tot, al, cel, cea</em>
-* `EMPTY` (607): <em>ce, care, vo, orice, verice, oare, niscaiva, oarece, vreo, vro</em>
+* `Plur` (5204; 22% of non-empty `Number`): <em>toate, multe, cei, toți, mulți, tale, alte, ale, voastre, sale</em>
+* `Sing` (18053; 78% of non-empty `Number`): <em>lui, a, un, o, toată, ta, tot, al, cel, cea</em>
+* `EMPTY` (602): <em>ce, care, vo, orice, verice, oare, niscaiva, oarece, vreo, vro</em>
 
 <table>
   <tr><th>Paradigm <i>-ul</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -164,14 +164,14 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 ### `PROPN`
 
-19968 <tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt> tokens (99% of all `PROPN` tokens) have a non-empty value of `Number`.
+19967 <tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt> tokens (99% of all `PROPN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt> (18754; 94%), <tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (16817; 84%), <tt><a href="ro_nonstandard-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (15278; 77%).
+The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt> (18753; 94%), <tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (16816; 84%), <tt><a href="ro_nonstandard-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (15277; 77%).
 
 `PROPN` tokens may have the following values of `Number`:
 
 * `Plur` (847; 4% of non-empty `Number`): <em>Ieşi, Iași, Iaşi, Ieș, București, Iașii, Gălați, Focșani, Galați, Bucureștii</em>
-* `Sing` (19121; 96% of non-empty `Number`): <em>dumnezău, Iisus, Hristos, Pavel, David, Poartă, Pătru, Ioan, Mihai-, Duca</em>
+* `Sing` (19120; 96% of non-empty `Number`): <em>dumnezău, Iisus, Hristos, Pavel, David, Poartă, Pătru, Ioan, Mihai-, Duca</em>
 * `EMPTY` (167): <em>tîrgu, târgu, greșală, Dunărea, războiu, boer, iarăș, Catargiul, Chipru, Filimon</em>
 
 <table>
@@ -182,7 +182,7 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
   <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Voc</tt>|<tt><a href="ro_nonstandard-feat-Definite.html">Definite</a></tt><tt>=Def</tt></tt></td><td><em>Dumnezeule, Dumnezăule</em></td><td></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `PROPN`. 97% lemmas (2317) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `PROPN`. 97% lemmas (2316) occur only with one value of `Number`.
 
 ### `ADJ`
 
@@ -245,19 +245,19 @@ The most frequent other feature values with which `ADV` and `Number` co-occurred
 `ADV` tokens may have the following values of `Number`:
 
 * `Sing` (1; 100% of non-empty `Number`): <em>cît</em>
-* `EMPTY` (34595): <em>nu, mai, și, cum, n-, cînd, numai, şi, tot, unde</em>
+* `EMPTY` (34598): <em>nu, mai, și, cum, n-, cînd, numai, şi, tot, unde</em>
 
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="ro_nonstandard-dep-det.html">det</a></tt>]--> DET</tt> (15311; 93%),
-<tt>NOUN --[<tt><a href="ro_nonstandard-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (7836; 67%),
-<tt>VERB --[<tt><a href="ro_nonstandard-dep-conj.html">conj</a></tt>]--> VERB</tt> (7450; 70%),
-<tt>NOUN --[<tt><a href="ro_nonstandard-dep-amod.html">amod</a></tt>]--> ADJ</tt> (7124; 93%),
-<tt>NOUN --[<tt><a href="ro_nonstandard-dep-conj.html">conj</a></tt>]--> NOUN</tt> (5421; 79%),
-<tt>NOUN --[<tt><a href="ro_nonstandard-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (4190; 86%),
-<tt>PROPN --[<tt><a href="ro_nonstandard-dep-det.html">det</a></tt>]--> DET</tt> (3615; 98%),
+<tt>NOUN --[<tt><a href="ro_nonstandard-dep-det.html">det</a></tt>]--> DET</tt> (15316; 93%),
+<tt>NOUN --[<tt><a href="ro_nonstandard-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (7837; 67%),
+<tt>VERB --[<tt><a href="ro_nonstandard-dep-conj.html">conj</a></tt>]--> VERB</tt> (7449; 70%),
+<tt>NOUN --[<tt><a href="ro_nonstandard-dep-amod.html">amod</a></tt>]--> ADJ</tt> (7125; 93%),
+<tt>NOUN --[<tt><a href="ro_nonstandard-dep-conj.html">conj</a></tt>]--> NOUN</tt> (5422; 79%),
+<tt>NOUN --[<tt><a href="ro_nonstandard-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (4189; 86%),
+<tt>PROPN --[<tt><a href="ro_nonstandard-dep-det.html">det</a></tt>]--> DET</tt> (3619; 98%),
 <tt>PROPN --[<tt><a href="ro_nonstandard-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2930; 97%),
 <tt>NOUN --[<tt><a href="ro_nonstandard-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (2514; 64%),
-<tt>NOUN --[<tt><a href="ro_nonstandard-dep-cop.html">cop</a></tt>]--> AUX</tt> (2430; 64%).
+<tt>NOUN --[<tt><a href="ro_nonstandard-dep-cop.html">cop</a></tt>]--> AUX</tt> (2435; 64%).
 

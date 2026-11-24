@@ -8,42 +8,30 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ota_dudu-dep-nmod.html">nmod</a></tt>.
 
-1237 nodes (6%) are attached to their parents as `nmod:poss`.
+1350 nodes (5%) are attached to their parents as `nmod:poss`.
 
-712 instances of `nmod:poss` (58%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.21503637833468.
+815 instances of `nmod:poss` (60%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.21259259259259.
 
-The following 20 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (729; 59% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt> (235; 19% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-PRON.html">PRON</a></tt> (188; 15% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt> (26; 2% instances), <tt><a href="ota_dudu-pos-PRON.html">PRON</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (16; 1% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (11; 1% instances), <tt><a href="ota_dudu-pos-NUM.html">NUM</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt> (6; 0% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="ota_dudu-pos-PRON.html">PRON</a></tt>-<tt><a href="ota_dudu-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ota_dudu-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 2 nmod:poss	color:blue
-1	bir	bir	DET	Indef	Definite=Ind|PronType=Art	2	det	_	_
-2	devenüñ	deve	NOUN	_	Case=Gen|Number=Sing|Person=3	4	nmod:poss	_	_
-3	iki	iki	NUM	ANum	NumType=Card	4	nummod	_	_
-4	ayaġı	ayaḳ	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	6	nsubj	_	_
-5	ṣuya	ṣu	NOUN	_	Case=Dat|Number=Sing|Person=3	6	obl	_	_
-6	düşdi	düş	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	_	_
-
-~~~
+The following 20 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (763; 57% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt> (272; 20% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-PRON.html">PRON</a></tt> (225; 17% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt> (28; 2% instances), <tt><a href="ota_dudu-pos-PRON.html">PRON</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (16; 1% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (14; 1% instances), <tt><a href="ota_dudu-pos-NUM.html">NUM</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt> (6; 0% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="ota_dudu-pos-PRON.html">PRON</a></tt>-<tt><a href="ota_dudu-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ota_dudu-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 nmod:poss	color:blue
-1	ḳonya	ḳonya	PROPN	Place	Case=Nom|NameType=Geo|Number=Sing|Person=3	2	nmod:poss	_	_
-2	mużāfātından	mużāf	NOUN	_	Case=Abl|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	3	nmod	_	_
-3	ḳaraman	ḳaraman	PROPN	Place	Case=Nom|NameType=Geo|Number=Sing|Person=3	4	nsubj	_	_
-4	denilen	de	VERB	Ptcp	Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	5	acl	_	_
-5	memlekette	memleket	NOUN	_	Case=Loc|Gender=Fem|Number=Sing|Person=3	6	obl	_	_
-6	doġdu	doġ	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 7 nmod:poss	color:blue
+1	mezbūr	mezbūr	ADJ	Adj	_	2	amod	_	_
+2	cānıbeg	cānıbeg	PROPN	Pers	Case=Nom|NameType=Prs|Number=Sing|Person=3	9	nsubj	_	_
+3	ḫān	ḫān	NOUN	_	Case=Nom|Number=Sing|Person=3	2	flat	_	_
+4	daḫı	daḫı	PART	Emph	_	2	advmod:emph	_	_
+5	ol	ol	DET	Demons	Definite=Def|PronType=Art	6	det	_	_
+6	meclisde	meclis	NOUN	_	Case=Loc|Number=Sing|Person=3	9	obl	_	_
+7	sefer	sefer	NOUN	_	Case=Nom|Number=Sing|Person=3	8	nmod:poss	_	_
+8	semtini	semt	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	9	obj	_	_
+9	muḳarrer	muḳarrer	ADJ	Adj	_	0	root	_	_
+10	eyledi	eyle	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	9	compound:lvc	_	_
 
 ~~~
 
@@ -54,11 +42,30 @@ The following 20 pairs of parts of speech are connected with `nmod:poss`: <tt><a
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 nmod:poss	color:blue
-1	belki	belki	ADV	_	_	4	advmod	_	_
-2	senüñ	sen	PRON	Pers	Case=Gen|Number=Sing|Person=2|PronType=Prs	3	nmod:poss	_	_
-3	helāküñe	helāk	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	4	obl	_	_
-4	ḳaṣd	ḳaṣd	NOUN	_	Case=Nom|Number=Sing|Person=3	0	root	_	_
-5	iderler	it	VERB	_	Aspect=Hab|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	compound:lvc	_	_
+1	orada	ora	PRON	Demons	Case=Loc|Number=Sing|Person=3|PronType=Dem	5	obl	_	_
+2	rahmān	rahmān	PROPN	_	Case=Nom|Number=Sing|Person=3	3	nmod:poss	_	_
+3	hakkı	hakk	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	5	obl	_	_
+4	için	için	ADP	PCNom	_	3	case	_	_
+5	övülecek	öv	VERB	Ptcp	Aspect=Prosp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Pass	0	root	_	_
+6	ve	ve	CCONJ	_	_	7	cc	_	_
+7	kutlanacaktır	kutla	VERB	_	Aspect=Prosp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Pass	5	conj	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 nmod:poss	color:blue
+1	andan	o	PRON	Demons	Case=Abl|Number=Sing|Person=3|PronType=Dem	7	obl	_	_
+2	ṣoñra	ṣoñra	ADP	PCAbl	_	1	case	_	_
+3	bunlaruñ	bu	PRON	Demons	Case=Gen|Number=Plur|Person=3|PronType=Dem	4	nmod:poss	_	_
+4	neslleri	nesl	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Plur|Person=3|Person[psor]=3	7	nsubj	_	_
+5	ve	ve	CCONJ	_	_	6	cc	_	_
+6	ẕürriyyetleri	ẕürriyyet	NOUN	_	Case=Nom|Gender=Fem|Number=Plur|Number[psor]=Plur|Person=3|Person[psor]=3	4	conj	_	_
+7	artdı	art	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	_	_
 
 ~~~
 

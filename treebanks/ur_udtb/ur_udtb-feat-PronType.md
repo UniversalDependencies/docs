@@ -7,25 +7,25 @@ udver: '2'
 ## Treebank Statistics: UD_Urdu-UDTB: Features: `PronType`
 
 This feature is universal.
-It occurs with 5 different values: `Dem`, `Ind`, `Int`, `Neg`, `Prs`.
+It occurs with 7 different values: `Dem`, `Ind`, `Int`, `Neg`, `Prs`, `Rel`, `Tot`.
 
-8571 tokens (6%) have a non-empty value of `PronType`.
-149 types (1%) occur at least once with a non-empty value of `PronType`.
-138 lemmas (1%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> (5376; 4% instances), <tt><a href="ur_udtb-pos-DET.html">DET</a></tt> (2388; 2% instances), <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> (807; 1% instances).
+8900 tokens (6%) have a non-empty value of `PronType`.
+168 types (2%) occur at least once with a non-empty value of `PronType`.
+162 lemmas (2%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 3 part-of-speech tags: <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> (5597; 4% instances), <tt><a href="ur_udtb-pos-DET.html">DET</a></tt> (2496; 2% instances), <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> (807; 1% instances).
 
 ### `PRON`
 
-5376 <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> tokens (96% of all `PRON` tokens) have a non-empty value of `PronType`.
+5597 <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4807; 89%), <tt><a href="ur_udtb-feat-Polite.html">Polite</a></tt><tt>=EMPTY</tt> (4620; 86%), <tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt> (3722; 69%), <tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3480; 65%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4983; 89%), <tt><a href="ur_udtb-feat-Polite.html">Polite</a></tt><tt>=EMPTY</tt> (4837; 86%), <tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt> (3755; 67%), <tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3526; 63%).
 
 `PRON` tokens may have the following values of `PronType`:
 
 * `Dem` (18; 0% of non-empty `PronType`): اس، ان، اسی، ایسے، جہاں، وہی، یہ
-* `Int` (65; 1% of non-empty `PronType`): کیوں، کیا، کہاں، آیا، کس، کیسے، کون، کب، کتنا، کونسی
-* `Prs` (5293; 98% of non-empty `PronType`): اس، وہ، ان، انہوں، اپنے، جس، جو، یہ، اپنی، انہیں
-* `EMPTY` (221): جو، سب، تو، جب، اب، دیگر، کچھ، جہاں، اُس، اُن
+* `Ind` (4; 0% of non-empty `PronType`): اےک، کچھ
+* `Int` (77; 1% of non-empty `PronType`): کیا، کیوں، آیا، کہاں، کس، کیسے، کون، کیسا، کب، کتنا
+* `Prs` (5498; 98% of non-empty `PronType`): اس، وہ، ان، انہوں، جو، اپنے، جس، یہ، اپنی، اب
 
 <table>
   <tr><th>Paradigm <i>یہ</i></th><th><tt>Prs</tt></th><th><tt>Dem</tt></th></tr>
@@ -63,31 +63,29 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
   <tr><td><tt><tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ur_udtb-feat-Polite.html">Polite</a></tt><tt>=Form</tt></tt></td><td>انہیں</td><td></td></tr>
 </table>
 
-`PronType` seems to be **lexical feature** of `PRON`. 90% lemmas (82) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `PRON`. 90% lemmas (100) occur only with one value of `PronType`.
 
 ### `DET`
 
-2388 <tt><a href="ur_udtb-pos-DET.html">DET</a></tt> tokens (96% of all `DET` tokens) have a non-empty value of `PronType`.
+2496 <tt><a href="ur_udtb-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt> (1739; 73%), <tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1628; 68%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt> (1778; 71%), <tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1678; 67%).
 
 `DET` tokens may have the following values of `PronType`:
 
-* `Dem` (1885; 79% of non-empty `PronType`): اس، یہ، ان، اسی، ایسے، جو، وہ، یہی، ایسی، ایسا
-* `Ind` (477; 20% of non-empty `PronType`): کئی، تمام، کچھ، ہر، چند، بعض، زیادہ، کم، بہت، اور
-* `Int` (26; 1% of non-empty `PronType`): کیا، کس، کونسا، کتنے، کون، کیسا
-* `EMPTY` (108): کوئی، دیگر، کسی، تمام، مزید، کم، اتنا، سارے، پورے، کچھ
+* `Dem` (1920; 77% of non-empty `PronType`): اس، یہ، ان، اسی، ایسے، جو، وہ، دیگر، یہی، ایسی
+* `Ind` (532; 21% of non-empty `PronType`): کئی، تمام، کچھ، ہر، چند، بعض، زیادہ، کم، بہت، کوئی
+* `Int` (28; 1% of non-empty `PronType`): کیا، کس، کونسا، کتنے، کون، کیسا
+* `Rel` (1; 0% of non-empty `PronType`): جتنے
+* `Tot` (15; 1% of non-empty `PronType`): تمام، سارے، پورے، تمام_تر، ساری
 
 <table>
-  <tr><th>Paradigm <i>کوئی</i></th><th><tt>Dem</tt></th><th><tt>Ind</tt></th></tr>
-  <tr><td><tt>_</tt></td><td></td><td>کوئی</td></tr>
-  <tr><td><tt><tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>کسی</td><td></td></tr>
-  <tr><td><tt><tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>کوئی</td><td></td></tr>
-  <tr><td><tt><tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>کوئی</td><td></td></tr>
-  <tr><td><tt><tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>کوئی</td><td></td></tr>
+  <tr><th>Paradigm <i>تمام</i></th><th><tt>Tot</tt></th><th><tt>Ind</tt></th></tr>
+  <tr><td><tt>_</tt></td><td>تمام</td><td>تمام</td></tr>
+  <tr><td><tt><tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td>تمام</td><td></td></tr>
+  <tr><td><tt><tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td>تمام</td><td></td></tr>
+  <tr><td><tt><tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>تمام_تر</td><td></td></tr>
 </table>
-
-`PronType` seems to be **lexical feature** of `DET`. 96% lemmas (67) occur only with one value of `PronType`.
 
 ### `PART`
 
@@ -106,14 +104,14 @@ The most frequent other feature values with which `PART` and `PronType` co-occur
 ## Relations with Agreement in `PronType`
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
-<tt>PRON --[<tt><a href="ur_udtb-dep-det.html">det</a></tt>]--> PRON</tt> (19; 76%),
-<tt>PRON --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (12; 92%),
+<tt>PRON --[<tt><a href="ur_udtb-dep-det.html">det</a></tt>]--> PRON</tt> (23; 92%),
+<tt>PRON --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (17; 100%),
 <tt>PRON --[<tt><a href="ur_udtb-dep-compound.html">compound</a></tt>]--> PRON</tt> (10; 100%),
-<tt>PRON --[<tt><a href="ur_udtb-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (6; 67%),
-<tt>PRON --[<tt><a href="ur_udtb-dep-obl.html">obl</a></tt>]--> PRON</tt> (4; 80%),
-<tt>PRON --[<tt><a href="ur_udtb-dep-conj.html">conj</a></tt>]--> PRON</tt> (3; 100%),
+<tt>PRON --[<tt><a href="ur_udtb-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (5; 71%),
+<tt>PRON --[<tt><a href="ur_udtb-dep-conj.html">conj</a></tt>]--> PRON</tt> (3; 75%),
 <tt>DET --[<tt><a href="ur_udtb-dep-compound.html">compound</a></tt>]--> DET</tt> (2; 67%),
 <tt>DET --[<tt><a href="ur_udtb-dep-conj.html">conj</a></tt>]--> DET</tt> (2; 100%),
 <tt>PRON --[<tt><a href="ur_udtb-dep-dep.html">dep</a></tt>]--> PRON</tt> (2; 100%),
-<tt>PRON --[<tt><a href="ur_udtb-dep-obj.html">obj</a></tt>]--> PRON</tt> (2; 100%).
+<tt>PRON --[<tt><a href="ur_udtb-dep-obj.html">obj</a></tt>]--> PRON</tt> (2; 100%),
+<tt>PRON --[<tt><a href="ur_udtb-dep-acl-relcl.html">acl:relcl</a></tt>]--> PRON</tt> (1; 100%).
 

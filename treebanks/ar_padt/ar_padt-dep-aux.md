@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="ar_padt-dep-aux-pass.html">aux:pass</a></tt>.
 
-1584 nodes (1%) are attached to their parents as `aux`.
+1562 nodes (1%) are attached to their parents as `aux`.
 
-1577 instances of `aux` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.17045454545455.
+1555 instances of `aux` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.16005121638924.
 
-The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> (1444; 91% instances), <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> (58; 4% instances), <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> (51; 3% instances), <tt><a href="ar_padt-pos-X.html">X</a></tt>-<tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> (17; 1% instances), <tt><a href="ar_padt-pos-ADV.html">ADV</a></tt>-<tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> (9; 1% instances), <tt><a href="ar_padt-pos-DET.html">DET</a></tt>-<tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="ar_padt-pos-NUM.html">NUM</a></tt>-<tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> (2; 0% instances).
+The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> (1432; 92% instances), <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> (52; 3% instances), <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> (49; 3% instances), <tt><a href="ar_padt-pos-X.html">X</a></tt>-<tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> (16; 1% instances), <tt><a href="ar_padt-pos-ADV.html">ADV</a></tt>-<tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> (8; 1% instances), <tt><a href="ar_padt-pos-DET.html">DET</a></tt>-<tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="ar_padt-pos-NUM.html">NUM</a></tt>-<tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -43,23 +43,32 @@ The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 1 aux	color:blue
-1	أ	أَ	AUX	F---------	_	4	aux	4:aux	Gloss=whether,indeed|LTranslit=ʾa|Root='a|Translit=ʾa|Vform=أَ
-2	ليس	لَيس	AUX	VP-A-3MS--	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	4	cop	4:cop	Gloss=be_not,is_not|LTranslit=lays|Root=l y s|Translit=laysa|Vform=لَيسَ
-3	هذا	هٰذَا	DET	SD----MS1-	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	4	nsubj	4:nsubj	Vform=هٰذَا|Gloss=this,these|Root=h|Translit=hāḏā|LTranslit=hāḏā
-4	أفضل	أَفضَل	ADJ	A-----MS4I	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	0	root	0:root	Vform=أَفضَلَ|Gloss=better_/_best|Root=f .d l|Translit=ʾafḍala|LTranslit=ʾafḍal
-5	من	مِن	ADP	P---------	AdpType=Prep	7	mark	7:mark	Vform=مِن|Gloss=from|Root=min|Translit=min|LTranslit=min
-6	أن	أَن	SCONJ	C---------	_	7	mark	7:mark	Vform=أَن|Gloss=to|Root=' n|Translit=ʾan|LTranslit=ʾan
-7	نزرع	زَرَع	VERB	VISA-1MP--	Aspect=Imp|Gender=Masc|Mood=Sub|Number=Plur|Person=1|VerbForm=Fin|Voice=Act	4	advcl	4:advcl:مِن:gen	Vform=نَزرَعَ|Gloss=plant,implant,cultivate|Root=z r `|Translit=nazraʿa|LTranslit=zaraʿ
-8	القمح	قَمح	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	7	obj	7:obj	Vform=اَلقَمحَ|Gloss=wheat,grain|Root=q m .h|Translit=al-qamḥa|LTranslit=qamḥ
-9	في	فِي	ADP	P---------	AdpType=Prep	10	case	10:case	Vform=فِي|Gloss=in|Root=fI|Translit=fī|LTranslit=fī
-10	رومانيا	رُومَانِيَا	X	X---------	Foreign=Yes	7	obl	7:obl:فِي:gen	SpaceAfter=No|Vform=رُومَانِيَا|Gloss=Romania|Root=rUmAn|Translit=rūmāniyā|LTranslit=rūmāniyā
-11	؟	؟	PUNCT	G---------	_	4	punct	4:punct	SpaceAfter=No|Vform=؟|Translit=?
-12	!	!	PUNCT	G---------	_	4	punct	4:punct	Vform=!|Translit=!
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 12 aux	color:blue
+1	و	وَ	CCONJ	C---------	_	0	root	0:root	Gloss=and|LTranslit=wa|Root=wa|Translit=wa|Vform=وَ
+2	أشار	أَشَار	VERB	VP-A-3MS--	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	1	parataxis	1:parataxis	Gloss=indicate,mention,cite|LTranslit=ʾašār|Root=^s w r|Translit=ʾašāra|Vform=أَشَارَ
+3	صالح	صَالِح	NOUN	N------S1I	Case=Nom|Definite=Ind|Number=Sing	2	nsubj	2:nsubj	Vform=صَالِحٌ|Gloss=Salih,Saleh|Root=.s l .h|Translit=ṣāliḥun|LTranslit=ṣāliḥ
+4	الى	إِلَى	ADP	P---------	AdpType=Prep	7	case	7:case	Vform=إِلَى|Gloss=to,towards|Root=' l y|Translit=ʾilā|LTranslit=ʾilā
+5	"	"	PUNCT	G---------	_	7	punct	7:punct	SpaceAfter=No|Vform="|Translit="
+6	ان	أَنَّ	SCONJ	C---------	_	7	mark	7:mark	Vform=أَنَّ|Gloss=that|Root=' n|Translit=ʾanna|LTranslit=ʾanna
+7	المهم	مُهِمّ	ADJ	A-----MS4D	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	2	obl:arg	2:obl:arg:إِلَى_أَنَّ	Vform=اَلمُهِمَّ|Gloss=important,serious|Root=h m m|Translit=al-muhimma|LTranslit=muhimm
+8	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obl	7:obl:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+9	الارادة	إِرَادَة	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	7	nsubj	7:nsubj	Vform=اَلإِرَادَةُ|Gloss=desire,will|Root=r w d|Translit=al-ʾirādatu|LTranslit=ʾirādat
+10	العراقية	عِرَاقِيّ	ADJ	A-----FS1D	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	9	amod	9:amod	Vform=اَلعِرَاقِيَّةُ|Gloss=Iraqi|Root=` r q|Translit=al-ʿirāqīyatu|LTranslit=ʿirāqīy
+11	و	وَ	CCONJ	C---------	_	7	cc	7:cc	Gloss=and|LTranslit=wa|Root=wa|Translit=wa|Vform=وَ
+12	ليس	لَيس	AUX	VP-A-3MS--	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	7	aux	7:aux	Gloss=be_not,is_not|LTranslit=lays|Root=l y s|Translit=laysa|Vform=لَيسَ
+13	التوقعات	تَوَقُّع	NOUN	N------P1D	Case=Nom|Definite=Def|Number=Plur	7	dep	7:dep	Vform=اَلتَّوَقُّعَاتُ|Gloss=expectation,anticipation|Root=w q `|Translit=at-tawaqquʿātu|LTranslit=tawaqquʿ
+14	ب	بِ	ADP	P---------	AdpType=Prep|ExtPos=ADP	16	case	16:case	Gloss=by,with|LTranslit=bi|Root=bi|Translit=bi|Vform=بِ
+15	شأن	شَأن	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	14	fixed	14:fixed	Gloss=matter,affair,concern,regard|LTranslit=šaʾn|Root=^s ' n|Translit=šaʾni|Vform=شَأنِ
+16	مواقف	مَوقِف	NOUN	N------P2R	Case=Gen|Definite=Cons|Number=Plur	13	nmod	13:nmod:بِشَأنِ:gen	Vform=مَوَاقِفِ|Gloss=position|Root=w q f|Translit=mawāqifi|LTranslit=mawqif
+17	اطراف	طَرَف	NOUN	N------P2I	Case=Gen|Definite=Ind|Number=Plur	16	nmod	16:nmod:gen	Vform=أَطرَافٍ|Gloss=party,side|Root=.t r f|Translit=ʾaṭrāfin|LTranslit=ṭaraf
+18	خارجية	خَارِجِيّ	ADJ	A-----FS2I	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	17	amod	17:amod	Vform=خَارِجِيَّةٍ|Gloss=outer,foreign,outside|Root=_h r ^g|Translit=ḫāriǧīyatin|LTranslit=ḫāriǧīy
+19	خارجية	خَارِجِيّ	ADJ	A-----FS2I	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	17	amod	17:amod	SpaceAfter=No|Vform=خَارِجِيَّةٍ|Gloss=outer,foreign,outside|Root=_h r ^g|Translit=ḫāriǧīyatin|LTranslit=ḫāriǧīy
+20	"	"	PUNCT	G---------	_	7	punct	7:punct	Vform="|Translit="
+21	.	.	PUNCT	G---------	_	1	punct	1:punct	Vform=.|Translit=.
 
 ~~~
 

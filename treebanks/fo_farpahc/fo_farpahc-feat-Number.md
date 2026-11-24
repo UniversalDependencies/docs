@@ -62,13 +62,13 @@ The most frequent other feature values with which `ADV` and `Number` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="fo_farpahc-dep-nmod-poss.html">nmod:poss</a></tt>]--> PROPN</tt> (154; 77%),
-<tt>NOUN --[<tt><a href="fo_farpahc-dep-obl.html">obl</a></tt>]--> NOUN</tt> (126; 66%),
 <tt>NOUN --[<tt><a href="fo_farpahc-dep-conj.html">conj</a></tt>]--> NOUN</tt> (119; 83%),
+<tt>NOUN --[<tt><a href="fo_farpahc-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (88; 67%),
 <tt>NOUN --[<tt><a href="fo_farpahc-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (85; 70%),
 <tt>PROPN --[<tt><a href="fo_farpahc-dep-dep.html">dep</a></tt>]--> PROPN</tt> (64; 100%),
 <tt>PROPN --[<tt><a href="fo_farpahc-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (61; 100%),
 <tt>PROPN --[<tt><a href="fo_farpahc-dep-appos.html">appos</a></tt>]--> NOUN</tt> (50; 93%),
-<tt>NOUN --[<tt><a href="fo_farpahc-dep-obl.html">obl</a></tt>]--> PROPN</tt> (46; 64%),
 <tt>PROPN --[<tt><a href="fo_farpahc-dep-conj.html">conj</a></tt>]--> PROPN</tt> (44; 96%),
-<tt>NOUN --[<tt><a href="fo_farpahc-dep-appos.html">appos</a></tt>]--> PROPN</tt> (34; 92%).
+<tt>NOUN --[<tt><a href="fo_farpahc-dep-obl.html">obl</a></tt>]--> NOUN</tt> (38; 63%),
+<tt>NOUN --[<tt><a href="fo_farpahc-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (36; 62%).
 

@@ -28,7 +28,7 @@ The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href=
 4	me	I	PRON	PRP	_	3	iobj	3:iobj	_
 5	worms	worm	NOUN	NNS	_	3	obj	3:obj	_
 6	too	too	ADV	RB	_	3	advmod	3:advmod	SpaceAfter=No
-7	?	?	PUNCT	?	_	3	punct	3:punct	_
+7	?	?	PUNCT	.	_	3	punct	3:punct	_
 
 ~~~
 
@@ -46,7 +46,7 @@ The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href=
 5	what	what	PRON	WP	_	3	ccomp	3:ccomp	_
 6	this	this	PRON	DT	_	5	nsubj	5:nsubj	_
 7	is	be	AUX	VBZ	_	5	cop	5:cop	SpaceAfter=No
-8	?	?	PUNCT	?	_	3	punct	3:punct	_
+8	?	?	PUNCT	.	_	3	punct	3:punct	_
 
 ~~~
 

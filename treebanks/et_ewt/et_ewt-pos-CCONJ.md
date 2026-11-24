@@ -58,7 +58,7 @@ The 10 most frequent ambiguous types:  <em>ja</em> (<tt><a href="et_ewt-pos-CCON
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.350000 (the average of all parts of speech is 1.733800).
+The form / lemma ratio of `CCONJ` is 1.350000 (the average of all parts of speech is 1.733719).
 
 The 1st highest number of forms (5) was observed with the lemma “või”: <em>ja/või, v, voi, vòi, või</em>.
 

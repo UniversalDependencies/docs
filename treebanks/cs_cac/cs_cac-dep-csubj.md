@@ -42,7 +42,7 @@ The following 34 pairs of parts of speech are connected with `csubj`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 6 csubj	color:blue
-1	Zdá	zdát	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+1	Zdá	zdát	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 2	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	1	expl:pv	1:expl:pv	SpaceAfter=No|LGloss=(zvr._zájmeno/částice)
 3	,	,	PUNCT	Z:-------------	_	6	punct	6:punct	_
 4	že	že	SCONJ	J,-------------	_	6	mark	6:mark	_

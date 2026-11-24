@@ -4,6 +4,7 @@ title: 'aux'
 shortdef: 'auxiliary'
 # The filename "aux" is not allowed on Windows, so we redirect instead
 # (see https://github.com/UniversalDependencies/docs/issues/20)
+redirect_from: "ssp/dep/aux.html"
 udver: '2'
 ---
 
@@ -19,4 +20,4 @@ An aux (auxiliary) of a clause is a function word associated with a verbal predi
 1	cl.e(3):PERSONAS3-desplazarse	_	VERB	V.D	_	0	root	_	Gloss=cl
 2	CONTINUAR	_	VERB	V	_	1	aux	_	Gloss=CONTINUE
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:44 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:24 CET -->

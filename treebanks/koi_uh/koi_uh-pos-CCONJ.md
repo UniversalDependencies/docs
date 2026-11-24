@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Permyak-UH: POS Tags: `CCONJ`
 
 There are 6 `CCONJ` lemmas (1%), 6 `CCONJ` types (1%) and 44 `CCONJ` tokens (4%).
-Out of 15 observed tags, the rank of `CCONJ` is: 10 in number of lemmas, 12 in number of types and 7 in number of tokens.
+Out of 15 observed tags, the rank of `CCONJ` is: 10 in number of lemmas, 11 in number of types and 7 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>и, а, да, али, не, но</em>
 
@@ -23,7 +23,7 @@ The 10 most frequent ambiguous types:  <em>и</em> (<tt><a href="koi_uh-pos-CCON
   * <tt><a href="koi_uh-pos-PART.html">PART</a></tt> 1: <em>А мукӧдпырся семьяэзӧ пыравліс <b>и</b> гаж .</em>
 * <em>а</em>
   * <tt><a href="koi_uh-pos-CCONJ.html">CCONJ</a></tt> 8: <em>Томмес менӧ озӧ вежӧртӧ , <b>а</b> пӧриссес — кокаласӧ ...</em>
-  * <tt><a href="koi_uh-pos-PART.html">PART</a></tt> 1: <em>Сія эз мун удж вылö , тшöктісö <b>а</b> .</em>
+  * <tt><a href="koi_uh-pos-PART.html">PART</a></tt> 1: <em>Сія эз мун удж вылӧ , тшӧктісӧ <b>а</b> .</em>
 * <em>да</em>
   * <tt><a href="koi_uh-pos-CCONJ.html">CCONJ</a></tt> 8: <em>Окаліс Митя кыкнаннысӧ <b>да</b> пуксьӧтіс пызан сайӧ .</em>
   * <tt><a href="koi_uh-pos-SCONJ.html">SCONJ</a></tt> 1: <em>Ме эг вермы сійӧ вӧтны , ӧддьӧн чожа котӧртіс <b>да</b> .</em>
@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  <em>и</em> (<tt><a href="koi_uh-pos-CCON
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.260870).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.239604).
 
 The 1st highest number of forms (1) was observed with the lemma “а”: <em>а</em>.
 

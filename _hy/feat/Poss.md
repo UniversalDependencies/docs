@@ -29,4 +29,4 @@ Note that there is no `No` value. If the word is not possessive, the `Poss` feat
 * possessive personal pronouns / determiners: _իմ_/_im_ “my”, _քո_/_kʼo_ “your”, _նրա_/_nra_ “ his/her/its”, _մեր_/_mer_ “our”, _ձեր_/_jer_ “your”, _նրանց_/_nrancʼ_ “their”
 * possessive emphatic pronouns / determiners: _իր_/_ir_ “one’s own”, _իրենց_/_irencʼ_ “their own”
 * possessive adjectives: _հայաստանյայց_/_hayastanyaycʼ_ “of Armenia, pertaining to Armenia”
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:13 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:59 CET -->

@@ -25,9 +25,9 @@ The following 5 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 7 6 nsubj:pass	color:blue
 1	_	_	ADV	RB	_	5	advmod	5:advmod	Discourse=joint-other_m:169->159:1:dm-also-1131-gold|Lem=*LOWER*|Len=4|PDTB=Explicit:Expansion.Conjunction:also:1131:1074-1095:1132-1141|SpaceAfter=No
 2	_	_	PUNCT	,	_	1	punct	1:punct	Lem=_|Len=1
-3	_	_	AUX	VB	VerbForm=Inf	5	aux	5:aux	Lem=_|Len=2
+3	_	_	AUX	VB	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	5	aux	5:aux	Lem=_|Len=2
 4	_	_	PART	RB	Polarity=Neg	5	advmod	5:advmod	Lem=not|Len=3|Negation=Yes
-5	_	_	VERB	VB	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	0:root	Lem=_|Len=3
+5	_	_	VERB	VB	VerbForm=Inf	0	root	0:root	Lem=_|Len=3
 6	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj:pass	7:nsubj:pass	Entity=(145-person-giv:inact-sssss-cf1-1-ana)|Lem=I|Len=2
 7	_	_	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	xcomp	5:xcomp	Lem=start|Len=7|MSeg=start-ed
 8	_	_	ADP	IN	_	10	case	10:case	Lem=_|Len=2

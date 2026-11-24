@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Antonio Stella, Davide Rovati, Martin Popel, Daniel Zeman, Maria Simi, Manuela Sanguinetti.
 
 Repository: [UD_Italian-PUD](https://github.com/UniversalDependencies/UD_Italian-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_pud218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_pud219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 3.0
 
@@ -96,7 +96,7 @@ employ ten-fold cross-validation.
 
 
 <ul>
-<li>This corpus contains 1000 sentences, 22183 tokens and 23732 syntactic words.</li>
+<li>This corpus contains 1000 sentences, 22183 tokens and 23783 syntactic words.</li>
 </ul>
 
 <ul>
@@ -108,12 +108,12 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
-<li>This corpus contains 38 types of words that contain both letters and punctuation. Examples: l', un', d', c', a.C., quest', dell', e-mail, all', d.C., Trent', a.C, nord-occidentale, p.e.v., quell', 's, B-29, Didn', Don', Fa', N., Sant', St., Z., austro-prussiano, co-protagonisti, dall', dopo-show, franco-monegasco, indo-australiana, nord-orientale, nord-ovest, po', post-classico, s', storico-culturale, sud-occidentale, thai-cinesi</li>
+<li>This corpus contains 36 types of words that contain both letters and punctuation. Examples: l', un', d', c', a.C., quest', e-mail, d.C., Trent', a.C, nord-occidentale, p.e.v., quell', 's, B-29, Didn', Don', Fa', N., Sant', St., Z., austro-prussiano, co-protagonisti, dell', dopo-show, franco-monegasco, indo-australiana, nord-orientale, nord-ovest, po', post-classico, s', storico-culturale, sud-occidentale, thai-cinesi</li>
 </ul>
 
 <ul>
-<li>This corpus contains 1547 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 99 types of multi-word tokens. Examples: del, della, nel, dell', al, dei, alla, delle, all', nella, degli, nell', dal, nei, nelle, dalla, sul, ai, dai, dall', negli, alle, sulla, dalle, sull', agli, sui, dagli, dello, sulle, nello, dallo, essersi, allo, col, sullo, dandogli, farlo, Formatasi, Rivolgendosi, abrogandola, accentratesi, accusandolo, allontanandosi, allontanarsi, amarla, andarsene, aspettarsi, assumersi, averlo.</li>
+<li>This corpus contains 1598 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 99 types of multi-word tokens. Examples: del, della, nel, al, dell', dei, alla, delle, all', nella, degli, nell', dal, nei, dalla, nelle, ai, dai, sul, dall', negli, alle, sulla, dalle, sull', agli, sui, dagli, dello, sulle, nello, allo, dallo, essersi, col, sullo, dandogli, farlo, Formatasi, Rivolgendosi, abrogandola, accentratesi, accusandolo, allontanandosi, allontanarsi, amarla, andarsene, aspettarsi, assumersi, averlo.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -164,7 +164,6 @@ employ ten-fold cross-validation.
   <li>Fem
     <ul>
       <li>ADJ: prima, maggior, gran, grande, alta, maggiore, meridionale, americana, nuova, seconda</li>
-      <li>ADP: alla, della, alle, dalla, dell', nella</li>
       <li>AUX: stata, state</li>
       <li>CCONJ: che</li>
       <li>DET: la, le, l', una, un', questa, altre, molte, queste, diverse</li>
@@ -181,7 +180,7 @@ employ ten-fold cross-validation.
   <li>Masc
     <ul>
       <li>ADJ: ultimi, nuovi, nuovo, stesso, primo, tutti, tutto, grande, scorso, ultimo</li>
-      <li>ADP: al, del, dell', all', Da, Sulla, ai, allo, dagli, dai</li>
+      <li>ADP: Da, Sulla, del</li>
       <li>ADV: più</li>
       <li>AUX: stato, stati</li>
       <li>CCONJ: che</li>
@@ -204,7 +203,7 @@ employ ten-fold cross-validation.
   <li>Plur
     <ul>
       <li>ADJ: ultimi, nuovi, grandi, tutti, nuove, primi, americani, entrambi, nazionali, olimpici</li>
-      <li>ADP: Da, ai, alle, dagli, dai</li>
+      <li>ADP: Da</li>
       <li>AUX: sono, hanno, erano, vennero, furono, possono, avevano, stati, vengono, fossero</li>
       <li>DET: i, le, gli, molti, alcuni, altri, altre, molte, queste, questi</li>
       <li>NOUN: anni, persone, dati, dollari, mesi, agenti, città, giorni, membri, effetti</li>
@@ -219,7 +218,7 @@ employ ten-fold cross-validation.
   <li>Sing
     <ul>
       <li>ADJ: prima, grande, maggior, nuovo, stesso, maggiore, gran, nazionale, primo, meridionale</li>
-      <li>ADP: al, alla, dell', del, all', della, Sulla, allo, dal, dall'</li>
+      <li>ADP: Sulla, del</li>
       <li>ADV: più</li>
       <li>AUX: è, ha, era, fu, stato, venne, può, aveva, stata, fosse</li>
       <li>CCONJ: che</li>

@@ -77,7 +77,7 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	expl	5:expl	Discourse=explanation-motivation:84->83:1:mrf-md-632-_|Entity=(105-abstract-new-nnnnn-cf2-1-sgl)|PDTB=Implicit:Contingency.Cause.Reason:because:_:632-644:645-654
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	5:cop	_
 3	not	not	PART	RB	Polarity=Neg	5	advmod	5:advmod	Negation=Yes
-4	too	too	ADV	RB	Degree=Pos	5	advmod	5:advmod	_
+4	too	too	ADV	RB	_	5	advmod	5:advmod	_
 5	late	late	ADJ	JJ	Degree=Pos	0	root	0:root	_
 6	to	to	PART	TO	_	7	mark	7:mark	Discourse=purpose-goal:85->84:0:_|PDTB=Implicit:Contingency.Purpose.Arg2-as-goal:in order:_:645-649:650-654
 7	change	change	VERB	VB	VerbForm=Inf	5	csubj	5:csubj	_

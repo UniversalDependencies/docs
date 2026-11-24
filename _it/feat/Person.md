@@ -55,4 +55,4 @@ speakers nor addressees.
 * _loro_ "their", _sua_ "her"
 * _legge_ "she reads", _abbracciano_ "they hug"
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:09 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:55 CET -->

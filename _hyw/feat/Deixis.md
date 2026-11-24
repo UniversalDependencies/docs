@@ -43,4 +43,4 @@ The entity is far away from the reference point (e.g., from the speaker).
 #### Examples
 
 * _այն_/_ayn_ “that”, _անիկա_/_anika_ “that”, _այնպէս_/_aynpēs_ “that way”, _այնքան_/_aynkʼan_ “that many”, _հոն_/_hon_ “there”, _նոյն_/_nowyn_ “same”
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:49 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:39 CET -->

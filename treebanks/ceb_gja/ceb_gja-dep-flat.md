@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1 nodes (0%) are attached to their parents as `flat`.
+3 nodes (0%) are attached to their parents as `flat`.
 
-1 instances of `flat` (100%) are left-to-right (parent precedes child).
+3 instances of `flat` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 1 pairs of parts of speech are connected with `flat`: <tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt> (1; 100% instances).
+The following 1 pairs of parts of speech are connected with `flat`: <tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt> (3; 100% instances).
 
 
 ~~~ conllu

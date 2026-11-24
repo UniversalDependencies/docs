@@ -21,19 +21,19 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.162584).
+The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.182590).
 
 The 1st highest number of forms (1) was observed with the lemma “daghan”: <em>Daghan</em>.
 
 The 2nd highest number of forms (1) was observed with the lemma “mga”: <em>mga</em>.
 
-`DET` occurs with 1 features: <tt><a href="ceb_gja-feat-Number.html">Number</a></tt> (8; 73% instances)
+`DET` occurs with 2 features: <tt><a href="ceb_gja-feat-Number.html">Number</a></tt> (11; 100% instances), <tt><a href="ceb_gja-feat-PronType.html">PronType</a></tt> (11; 100% instances)
 
-`DET` occurs with 1 feature-value pairs: `Number=Plur`
+`DET` occurs with 2 feature-value pairs: `Number=Plur`, `PronType=Ind`
 
-`DET` occurs with 2 feature combinations.
-The most frequent feature combination is `Number=Plur` (8 tokens).
-Examples: <em>mga</em>
+`DET` occurs with 1 feature combinations.
+The most frequent feature combination is `Number=Plur|PronType=Ind` (11 tokens).
+Examples: <em>mga, Daghan</em>
 
 
 ## Relations

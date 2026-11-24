@@ -148,4 +148,4 @@ Negative pronominal words are distinguished from negating [particles](PART) and 
 * _որևէ, որևիցե_/_orewē, orewicʼe_ “one or another”
 * _այսինչ, այնինչ_/_aysinč, ayninč_ “this and that”
 * _երբևէ, երբևիցե_/_erbewē, erbewicʼe_ “sometime”
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:14 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:00 CET -->

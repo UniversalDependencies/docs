@@ -42,4 +42,4 @@ This feature marks derivation markers on the word.
 #### Examples
 
 * [abq] _бзаза-<b>ща</b>_ [life-<b>NMNR</b>] ‘way of life’
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:50 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:39 CET -->

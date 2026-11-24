@@ -17,3 +17,4 @@ The `acl:relcl` relation is used for a relative clause that modifies a noun. The
 ~~~
 
 Infinitival noun modifiers introduced by _da_ or _pe_ without an overt relative expression, and verbal participial modifiers, take plain [acl](). Adjectival modifiers take [amod]().
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:11 CET -->

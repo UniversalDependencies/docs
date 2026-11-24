@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-131 nodes (4%) are attached to their parents as `root`.
+146 nodes (4%) are attached to their parents as `root`.
 
-131 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.13740458015267.
+146 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 9.45890410958904.
 
-The following 6 pairs of parts of speech are connected with `root`: -<tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> (69; 53% instances), -<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (43; 33% instances), -<tt><a href="eo_prago-pos-NUM.html">NUM</a></tt> (12; 9% instances), -<tt><a href="eo_prago-pos-PROPN.html">PROPN</a></tt> (4; 3% instances), -<tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), -<tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `root`: -<tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> (76; 52% instances), -<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (49; 34% instances), -<tt><a href="eo_prago-pos-NUM.html">NUM</a></tt> (12; 8% instances), -<tt><a href="eo_prago-pos-PROPN.html">PROPN</a></tt> (4; 3% instances), -<tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt> (3; 2% instances), -<tt><a href="eo_prago-pos-ADV.html">ADV</a></tt> (1; 1% instances), -<tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

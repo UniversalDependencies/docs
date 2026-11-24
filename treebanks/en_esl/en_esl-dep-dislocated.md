@@ -22,26 +22,26 @@ The following 2 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 1 dislocated	color:blue
-1	_	_	NOUN	NN	_	11	dislocated	_	_
+1	_	_	NOUN	NN	Number=Sing	11	dislocated	_	_
 2	_	_	CCONJ	CC	_	3	cc	_	_
-3	_	_	NOUN	NN	_	1	conj	_	_
+3	_	_	NOUN	NN	Number=Sing	1	conj	_	_
 4	_	_	PUNCT	,	_	1	punct	_	_
-5	_	_	DET	WDT	_	6	nsubj	_	_
-6	_	_	VERB	VBP	_	1	acl:relcl	_	_
+5	_	_	DET	WDT	PronType=Rel	6	nsubj	_	_
+6	_	_	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
 7	_	_	ADP	IN	_	9	case	_	_
-8	_	_	DET	PRP$	_	9	nmod:poss	_	_
-9	_	_	NOUN	NN	_	6	obl	_	_
+8	_	_	DET	PRP$	Number=Plur|Poss=Yes|PronType=Prs	9	nmod:poss	_	_
+9	_	_	NOUN	NN	Number=Sing	6	obl	_	_
 10	_	_	PUNCT	,	_	11	punct	_	_
-11	_	_	PRON	PRP	_	13	nsubj	_	_
-12	_	_	AUX	MD	_	13	aux	_	_
-13	_	_	VERB	VB	_	0	root	_	_
-14	_	_	PRON	PRP	_	13	obj	_	_
-15	_	_	ADJ	JJR	_	13	xcomp	_	_
+11	_	_	PRON	PRP	Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
+12	_	_	AUX	MD	Mood=Ind|VerbForm=Fin	13	aux	_	_
+13	_	_	VERB	VB	VerbForm=Inf	0	root	_	_
+14	_	_	PRON	PRP	Number=Sing|Person=3|PronType=Prs	13	obj	_	_
+15	_	_	ADJ	JJR	Degree=Cmp	13	xcomp	_	_
 16	_	_	CCONJ	CC	_	18	cc	_	_
-17	_	_	ADV	RB	Polarity=Neg	18	advmod	_	_
-18	_	_	ADJ	JJ	_	15	conj	_	_
+17	_	_	ADV	RB	Degree=Pos|Polarity=Neg	18	advmod	_	_
+18	_	_	ADJ	JJ	Degree=Pos	15	conj	_	_
 19	_	_	PART	TO	_	20	mark	_	_
-20	_	_	VERB	VB	_	18	ccomp	_	_
+20	_	_	VERB	VB	VerbForm=Inf	18	ccomp	_	_
 21	_	_	PUNCT	.	_	13	punct	_	_
 
 ~~~
@@ -56,17 +56,17 @@ The following 2 pairs of parts of speech are connected with `dislocated`: <tt><a
 1	_	_	PROPN	NNP	_	7	nsubj	_	_
 2	_	_	CCONJ	CC	_	3	cc	_	_
 3	_	_	PROPN	NNP	_	1	conj	_	_
-4	_	_	AUX	VBP	_	7	aux	_	_
-5	_	_	AUX	VBN	_	7	cop	_	_
-6	_	_	ADJ	JJ	_	7	amod	_	_
-7	_	_	NOUN	NNS	_	0	root	_	_
+4	_	_	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux	_	_
+5	_	_	AUX	VBN	Tense=Past|VerbForm=Part	7	cop	_	_
+6	_	_	ADJ	JJ	Degree=Pos	7	amod	_	_
+7	_	_	NOUN	NNS	Number=Plur	0	root	_	_
 8	_	_	ADP	IN	_	10	case	_	_
 9	_	_	NUM	CD	_	10	nummod	_	_
-10	_	_	NOUN	NNS	_	7	obl	_	_
+10	_	_	NOUN	NNS	Number=Plur	7	obl	_	_
 11	_	_	PUNCT	,	_	7	punct	_	_
-12	_	_	DET	PRP$	_	13	nmod:poss	_	_
-13	_	_	NOUN	NN	_	1	dislocated	_	_
-14	_	_	ADV	RB	_	13	advmod	_	_
+12	_	_	DET	PRP$	Number=Plur|Poss=Yes|PronType=Prs	13	nmod:poss	_	_
+13	_	_	NOUN	NN	Number=Sing	1	dislocated	_	_
+14	_	_	ADV	RB	Degree=Pos	13	advmod	_	_
 15	_	_	PUNCT	.	_	7	punct	_	_
 
 ~~~

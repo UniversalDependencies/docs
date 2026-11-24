@@ -10,26 +10,25 @@ This feature is universal but the values `Emp` are language-specific.
 It occurs with 9 different values: `Art`, `Dem`, `Emp`, `Ind`, `Int`, `Neg`, `Prs`, `Rel`, `Tot`.
 Some words have combined values of the feature; 1 combinations have been observed: `Int|Rel`.
 
-94017 tokens (16%) have a non-empty value of `PronType`.
+94029 tokens (16%) have a non-empty value of `PronType`.
 1291 types (4%) occur at least once with a non-empty value of `PronType`.
 241 lemmas (2%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 4 part-of-speech tags: <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (64625; 11% instances), <tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt> (23847; 4% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (5424; 1% instances), <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (121; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (64625; 11% instances), <tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt> (23859; 4% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (5424; 1% instances), <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (121; 0% instances).
 
 ### `PRON`
 
 64625 <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt> (50288; 78%), <tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (37306; 58%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt> (50289; 78%), <tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (37307; 58%).
 
 `PRON` tokens may have the following values of `PronType`:
 
 * `Dem` (4463; 7% of non-empty `PronType`): <em>aceaia, aceasta, cela, aceastea, acesta, ceia, cei, acela, cel, aceia</em>
-* `Emp` (137; 0% of non-empty `PronType`): <em>însuși, eiși, voiși, înșivă, mineși, sineși, loruși, însuți, eluși, noiși</em>
-* `Ind` (4094; 6% of non-empty `PronType`): <em>toate, toți, unul, unii, alții, altul, mulți, una, cineva, tot</em>
-* `Int,Rel` (9162; 14% of non-empty `PronType`): <em>ce, carele, cine, carii, care, carea, ce-, căruia, cărora, cui</em>
+* `Emp` (136; 0% of non-empty `PronType`): <em>însuși, eiși, voiși, înșivă, mineși, sineși, loruși, însuți, eluși, noiși</em>
+* `Ind` (4093; 6% of non-empty `PronType`): <em>toate, toți, unul, unii, alții, altul, mulți, una, cineva, tot</em>
+* `Int,Rel` (9165; 14% of non-empty `PronType`): <em>ce, carele, cine, carii, care, carea, ce-, căruia, cărora, cui</em>
 * `Neg` (771; 1% of non-empty `PronType`): <em>nime, nemică, nemic, nimic, nimeni, nimenea, nimică, nemurui, nimica, nemărui</em>
-* `Prs` (45998; 71% of non-empty `PronType`): <em>să, lui, el, -i, -l, s-, lor, ei, le, mă</em>
-* `EMPTY` (2): <em>ce, lui</em>
+* `Prs` (45997; 71% of non-empty `PronType`): <em>să, lui, el, -i, -l, s-, lor, ei, le, mă</em>
 
 <table>
   <tr><th>Paradigm <i>acela</i></th><th><tt>Int,Rel</tt></th><th><tt>Prs</tt></th><th><tt>Dem</tt></th></tr>
@@ -48,31 +47,33 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 ### `DET`
 
-23847 <tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+23859 <tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="ro_nonstandard-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (20697; 87%), <tt><a href="ro_nonstandard-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (20601; 86%), <tt><a href="ro_nonstandard-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (19094; 80%), <tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=Sing</tt> (18046; 76%), <tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt> (17048; 71%), <tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (12035; 50%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="ro_nonstandard-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (20700; 87%), <tt><a href="ro_nonstandard-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (20613; 86%), <tt><a href="ro_nonstandard-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (19103; 80%), <tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=Sing</tt> (18053; 76%), <tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt> (17050; 71%), <tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (12043; 50%).
 
 `DET` tokens may have the following values of `PronType`:
 
 * `Art` (6112; 26% of non-empty `PronType`): <em>lui, a, al, ale, -a, ai, -lea, lu, -al, un</em>
-* `Dem` (4512; 19% of non-empty `PronType`): <em>cel, cea, cei, acel, acea, această, acest, aceasta, ceale, acesta</em>
-* `Emp` (53; 0% of non-empty `PronType`): <em>însuși, înșivă, însuți, înșiși, înșine, însumi, însuşi, însuș, Înșiș, înseși</em>
-* `Ind` (7767; 33% of non-empty `PronType`): <em>un, o, toată, toate, tot, multe, toți, multă, mulți, alte</em>
+* `Dem` (4513; 19% of non-empty `PronType`): <em>cel, cea, cei, acel, acea, această, acest, aceasta, ceale, acesta</em>
+* `Emp` (54; 0% of non-empty `PronType`): <em>însuși, înșivă, însuți, înșiși, înșine, însumi, însuşi, însuș, Înșiș, înseși</em>
+* `Ind` (7768; 33% of non-empty `PronType`): <em>un, o, toată, toate, tot, multe, toți, multă, mulți, alte</em>
 * `Int,Rel` (634; 3% of non-empty `PronType`): <em>ce, care, cîte, câte, cîtă, cîți, câtă, cît, cîțva, carii</em>
 * `Neg` (16; 0% of non-empty `PronType`): <em>nicio, niciun, necio, neșchite, neșchită</em>
-* `Prs` (4753; 20% of non-empty `PronType`): <em>ta, mieu, mea, tău, său, sa, nostru, -său, tale, sale</em>
-* `EMPTY` (11): <em>a, tăi, -o, acestor, ale, mea</em>
+* `Prs` (4762; 20% of non-empty `PronType`): <em>ta, mieu, mea, tău, său, sa, nostru, -său, tale, sale</em>
 
 <table>
-  <tr><th>Paradigm <i>-ul</i></th><th><tt>Art</tt></th><th><tt>Dem</tt></th><th><tt>Ind</tt></th></tr>
-  <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt>|<tt><a href="ro_nonstandard-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>-lea, -le</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt>|<tt><a href="ro_nonstandard-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>-a</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt>|<tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>lui</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Dat,Gen</tt>|<tt><a href="ro_nonstandard-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>-lui</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Dat,Gen</tt>|<tt><a href="ro_nonstandard-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>lui, lu, Iui</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Dat,Gen</tt>|<tt><a href="ro_nonstandard-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>lui</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Dat,Gen</tt>|<tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>lui</em></td></tr>
-  <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Dat,Gen</tt>|<tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>lui</em></td><td></td></tr>
+  <tr><th>Paradigm <i>al</i></th><th><tt>Prs</tt></th><th><tt>Art</tt></th><th><tt>Dem</tt></th><th><tt>Ind</tt></th></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt>|<tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>al</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt>|<tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ro_nonstandard-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>al, -al, alu, a</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt>|<tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>ai</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt>|<tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ro_nonstandard-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>ai, -ai, a</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt>|<tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>a</em></td><td><em>a</em></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt>|<tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ro_nonstandard-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>a, -a, -al, a-, al</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt>|<tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ro_nonstandard-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>ale, -ale, a</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Dat,Gen</tt>|<tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>a</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Dat,Gen</tt>|<tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ro_nonstandard-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>-ale, a, ai</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ro_nonstandard-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td><em>a</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ro_nonstandard-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td><em>ale</em></td><td></td><td></td><td></td></tr>
 </table>
 
 ### `ADV`
@@ -85,7 +86,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 
 * `Ind` (651; 12% of non-empty `PronType`): <em>tot, cumva, atîta, mult, uneori, oarecum, oarecînd, Puţinel, cîndva, multu</em>
 * `Int,Rel` (4773; 88% of non-empty `PronType`): <em>cum, cînd, unde, când, cît, precum, cumu, cîte, cât, cîndu</em>
-* `EMPTY` (29172): <em>nu, mai, și, n-, numai, şi, încă, acolo, bine, atunce</em>
+* `EMPTY` (29175): <em>nu, mai, și, n-, numai, şi, încă, acolo, bine, atunce</em>
 
 <table>
   <tr><th>Paradigm <i>tot</i></th><th><tt>Int,Rel</tt></th><th><tt>Ind</tt></th></tr>

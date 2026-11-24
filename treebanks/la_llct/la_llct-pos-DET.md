@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>qui</em> (<tt><a href="la_llct-pos-PR
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 9.214286 (the average of all parts of speech is 2.623423).
+The form / lemma ratio of `DET` is 9.214286 (the average of all parts of speech is 2.623868).
 
 The 1st highest number of forms (41) was observed with the lemma “hic”: <em>a, ac, ach, ah, ahc, an, anac, anc, as, ec, hac, haec, han, hanc, has, he, hec, hecc, hi, hic, his, hiss, hius, hoc, horum, hos, huic, huiu, huius, hunc, i, in, is, oc, os, uc, uhc, uihus, uius, unc, unch</em>.
 

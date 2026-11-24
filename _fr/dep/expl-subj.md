@@ -20,4 +20,4 @@ And for other impersonal subjects:
 Il existe des variantes dialectales \n There are dialectal variations
 expl:subj(existe,il)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:08 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:45 CET -->

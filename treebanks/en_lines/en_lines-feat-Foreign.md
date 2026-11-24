@@ -9,10 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-7 tokens (0%) have a non-empty value of `Foreign`.
-4 types (0%) occur at least once with a non-empty value of `Foreign`.
-4 lemmas (0%) occur at least once with a non-empty value of `Foreign`.
-The feature is used with 4 part-of-speech tags: <tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="en_lines-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+9 tokens (0%) have a non-empty value of `Foreign`.
+6 types (0%) occur at least once with a non-empty value of `Foreign`.
+6 lemmas (0%) occur at least once with a non-empty value of `Foreign`.
+The feature is used with 5 part-of-speech tags: <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="en_lines-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-X.html">X</a></tt> (1; 0% instances).
+
+### `NOUN`
+
+3 <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Foreign`.
+
+The most frequent other feature values with which `NOUN` and `Foreign` co-occurred: <tt><a href="en_lines-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 67%).
+
+`NOUN` tokens may have the following values of `Foreign`:
+
+* `Yes` (3; 100% of non-empty `Foreign`): <em>calme, foie</em>
+* `EMPTY` (18953): <em>data, man, time, people, field, way, father, eyes, page, room</em>
 
 ### `ADP`
 
@@ -21,7 +32,7 @@ The feature is used with 4 part-of-speech tags: <tt><a href="en_lines-pos-ADP.ht
 `ADP` tokens may have the following values of `Foreign`:
 
 * `Yes` (2; 100% of non-empty `Foreign`): <em>de</em>
-* `EMPTY` (10516): <em>of, in, to, for, with, on, at, from, by, as</em>
+* `EMPTY` (10546): <em>of, in, to, for, with, on, at, from, by, as</em>
 
 ### `DET`
 
@@ -32,18 +43,7 @@ The most frequent other feature values with which `DET` and `Foreign` co-occurre
 `DET` tokens may have the following values of `Foreign`:
 
 * `Yes` (2; 100% of non-empty `Foreign`): <em>le</em>
-* `EMPTY` (9950): <em>the, a, an, this, no, all, that, some, any, these</em>
-
-### `NOUN`
-
-2 <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Foreign`.
-
-The most frequent other feature values with which `NOUN` and `Foreign` co-occurred: <tt><a href="en_lines-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 100%).
-
-`NOUN` tokens may have the following values of `Foreign`:
-
-* `Yes` (2; 100% of non-empty `Foreign`): <em>calme</em>
-* `EMPTY` (18953): <em>data, man, time, people, field, way, father, eyes, page, room</em>
+* `EMPTY` (9954): <em>the, a, an, this, no, all, that, some, any, these</em>
 
 ### `PRON`
 
@@ -56,10 +56,20 @@ The most frequent other feature values with which `PRON` and `Foreign` co-occurr
 * `Yes` (1; 100% of non-empty `Foreign`): <em>te</em>
 * `EMPTY` (11166): <em>he, I, it, you, his, that, they, my, him, her</em>
 
+### `X`
+
+1 <tt><a href="en_lines-pos-X.html">X</a></tt> tokens (2% of all `X` tokens) have a non-empty value of `Foreign`.
+
+`X` tokens may have the following values of `Foreign`:
+
+* `Yes` (1; 100% of non-empty `Foreign`): <em>gras</em>
+* `EMPTY` (46): <em>XSLT, SA, XSL, W3C, .xsl, DB, XSD, maris, stella, .adp</em>
+
 ## Relations with Agreement in `Foreign`
 
 The 10 most frequent relations where parent and child node agree in `Foreign`:
 <tt>NOUN --[<tt><a href="en_lines-dep-case.html">case</a></tt>]--> ADP</tt> (2; 100%),
 <tt>NOUN --[<tt><a href="en_lines-dep-det.html">det</a></tt>]--> DET</tt> (2; 100%),
-<tt>NOUN --[<tt><a href="en_lines-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1; 100%).
+<tt>NOUN --[<tt><a href="en_lines-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1; 100%),
+<tt>NOUN --[<tt><a href="en_lines-dep-flat.html">flat</a></tt>]--> X</tt> (1; 100%).
 

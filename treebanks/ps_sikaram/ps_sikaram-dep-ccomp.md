@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-15 nodes (0%) are attached to their parents as `ccomp`.
+17 nodes (0%) are attached to their parents as `ccomp`.
 
-15 instances of `ccomp` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.33333333333333.
+16 instances of `ccomp` (94%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.52941176470588.
 
-The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (11; 73% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (2; 13% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (1; 7% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-X.html">X</a></tt> (1; 7% instances).
+The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (13; 76% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (2; 12% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (1; 6% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-X.html">X</a></tt> (1; 6% instances).
 
 
 ~~~ conllu

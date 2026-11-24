@@ -42,31 +42,31 @@ The following 7 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 ~~~ conllu
 # visual-style 21	bgColor:blue
 # visual-style 21	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 21 csubj:pass	color:blue
-1	Tajā	tas	DET	pd3msln	Case=Loc|Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	det	3:det	LvtbNodeId=a-s93-p5s3w1
-2	pašā	pats	DET	pg0msln	Case=Loc|Gender=Masc|Number=Sing|PronType=Tot	1	flat	1:flat	LvtbNodeId=a-s93-p5s3w2
-3	laikā	laiks	NOUN	ncmsl1	Case=Loc|Gender=Masc|Number=Sing	5	obl	5:obl:loc	LvtbNodeId=a-s93-p5s3w3
-4	mēs	mēs	PRON	pp10pnn	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	5:nsubj	LvtbNodeId=a-s93-p5s3w4
-5	zinām	zināt	VERB	vmnipt31pan	Evident=Fh|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-s93-p5s3w5|SpaceAfter=No
-6	,	,	PUNCT	zc	_	11	punct	11:punct	LvtbNodeId=a-s93-p5s3w6
-7	ka	ka	SCONJ	cs	_	11	mark	11:mark	LvtbNodeId=a-s93-p5s3w7
-8	Satversmē	Satversme	PROPN	npfsl5	Case=Loc|Gender=Fem|Number=Sing	11	obl	11:obl:loc	LvtbNodeId=a-s93-p5s3w8
-9	mums	mēs	PRON	pp10pdn	Case=Dat|Number=Plur|Person=1|PronType=Prs	11	iobj	11:iobj	LvtbNodeId=a-s93-p5s3w9
-10	ir	būt	AUX	vcnipii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	11	aux:pass	11:aux:pass	LvtbNodeId=a-s93-p5s3w10
-11	pateikts	pateikt	VERB	vmnpdmsnpsnpn	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	5	ccomp	5:ccomp	LvtbNodeId=a-s93-p5s3w11|SpaceAfter=No
-12	,	,	PUNCT	zc	_	21	punct	21:punct	LvtbNodeId=a-s93-p5s3w12
-13	ka	ka	SCONJ	cs	_	21	mark	21:mark	LvtbNodeId=a-s93-p5s3w13
-14	latviešu	latvietis	NOUN	ncmpg2	Case=Gen|Gender=Masc|Number=Plur	15	nmod	15:nmod:gen	LvtbNodeId=a-s93-p5s3w14
-15	valoda	valoda	NOUN	ncfsn4	Case=Nom|Gender=Fem|Number=Sing	21	nsubj	21:nsubj	LvtbNodeId=a-s93-p5s3w15
-16	ir	būt	AUX	vcnipii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	21	cop	21:cop	LvtbNodeId=a-s93-p5s3w16
-17	galvenā	galvenais	ADJ	arfsnyp	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	21	amod	21:amod	LvtbNodeId=a-s93-p5s3w17
-18	un	un	CCONJ	cc	_	19	cc	19:cc	LvtbNodeId=a-s93-p5s3w18
-19	vienīgā	vienīgs	ADJ	arfsnyp	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	17	conj	17:conj|21:amod	LvtbNodeId=a-s93-p5s3w19
-20	valsts	valsts	NOUN	ncfsg6	Case=Gen|Gender=Fem|Number=Sing	21	nmod	21:nmod:gen	LvtbNodeId=a-s93-p5s3w20
-21	valoda	valoda	NOUN	ncfsn4	Case=Nom|Gender=Fem|Number=Sing	11	csubj:pass	11:csubj:pass	LvtbNodeId=a-s93-p5s3w21|SpaceAfter=No
-22	.	.	PUNCT	zs	_	5	punct	5:punct	LvtbNodeId=a-s93-p5s3w22
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 21 csubj:pass	color:blue
+1	Pirmie	pirmais	ADJ	mosmpn	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur|NumType=Ord	2	amod	2:amod	LvtbNodeId=a-p1008-p6s2w1
+2	svētki	svētki	NOUN	ncmdn1	Case=Nom|Gender=Masc|Number=Ptan	3	nsubj	3:nsubj	LvtbNodeId=a-p1008-p6s2w2
+3	patikuši	patikt	VERB	vmnpdmpnasnpn	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	LvtbNodeId=a-p1008-p6s2w3
+4	visai	visa	DET	pg0fsdn	Case=Dat|Gender=Fem|Number=Sing|PronType=Tot	9	det	9:det	LvtbNodeId=a-p1008-p6s2w4
+5	lielajai	liels	ADJ	affsdyp	Case=Dat|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	9	amod	9:amod	LvtbNodeId=a-p1008-p6s2w5
+6	"	"	PUNCT	zq	_	7	punct	7:punct	LvtbNodeId=a-p1008-p6s2w6|SpaceAfter=No
+7	Pasaciņas	Pasaciņa	PROPN	npfsg4	Case=Gen|Gender=Fem|Number=Sing	9	nmod	9:nmod:gen	LvtbNodeId=a-p1008-p6s2w7|SpaceAfter=No
+8	"	"	PUNCT	zq	_	7	punct	7:punct	LvtbNodeId=a-p1008-p6s2w8
+9	saimei	saime	NOUN	ncfsd5	Case=Dat|Gender=Fem|Number=Sing	3	iobj	3:iobj	LvtbNodeId=a-p1008-p6s2w9|SpaceAfter=No
+10	,	,	PUNCT	zc	_	12	punct	12:punct	LvtbNodeId=a-p1008-p6s2w10
+11	tāpēc	tāpēc	ADV	r0n	_	12	cc	12:cc	LvtbNodeId=a-p1008-p6s2w11
+12	nolemts	nolemt	VERB	vmnpdmsnpsnpn	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	3	conj	3:conj	LvtbNodeId=a-p1008-p6s2w12|SpaceAfter=No
+13	,	,	PUNCT	zc	_	21	punct	21:punct	LvtbNodeId=a-p1008-p6s2w13
+14	ka	ka	SCONJ	cs	_	21	mark	21:mark	LvtbNodeId=a-p1008-p6s2w14
+15	to	tā	DET	pd3fpgn	Case=Gen|Gender=Fem|Number=Plur|Person=3|PronType=Dem	16	det	16:det	LvtbNodeId=a-p1008-p6s2w15
+16	rīkošana	rīkošana	NOUN	ncfsn4	Case=Nom|Gender=Fem|Number=Sing	21	nsubj	21:nsubj	LvtbNodeId=a-p1008-p6s2w16
+17	būs	būt	AUX	vcnifii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	21	cop	21:cop	LvtbNodeId=a-p1008-p6s2w17
+18	vēl	vēl	ADV	r0n	_	19	advmod	19:advmod	LvtbNodeId=a-p1008-p6s2w18
+19	viena	viens	NUM	mcsfsn	Case=Nom|Gender=Fem|Number=Sing|NumType=Card	21	nummod	21:nummod	LvtbNodeId=a-p1008-p6s2w19
+20	jauna	jauns	ADJ	affsnnp	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	21	amod	21:amod	LvtbNodeId=a-p1008-p6s2w20
+21	tradīcija	tradīcija	NOUN	ncfsn4	Case=Nom|Gender=Fem|Number=Sing	12	csubj:pass	12:csubj:pass	LvtbNodeId=a-p1008-p6s2w21|SpaceAfter=No
+22	.	.	PUNCT	zs	_	3	punct	3:punct	LvtbNodeId=a-p1008-p6s2w22
 
 ~~~
 

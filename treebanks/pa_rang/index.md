@@ -16,11 +16,11 @@ Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.18 release.
 
-The following people have contributed to making this treebank part of UD: Rimsha Abid, Luigi Talamo, Helena Vaz, Andrew Dyer, Annemarie Verkerk.
+The following people have contributed to making this treebank part of UD: Rimsha Abid, Luigi Talamo, Helena Vaz, Andrew Thomas Dyer, Annemarie Verkerk.
 
 Repository: [UD_Punjabi-Rang](https://github.com/UniversalDependencies/UD_Punjabi-Rang)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpa_rang218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpa_rang219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 

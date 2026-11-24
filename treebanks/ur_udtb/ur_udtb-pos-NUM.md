@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Urdu-UDTB: POS Tags: `NUM`
 
-There are 333 `NUM` lemmas (3%), 325 `NUM` types (3%) and 2461 `NUM` tokens (2%).
+There are 333 `NUM` lemmas (3%), 325 `NUM` types (3%) and 2463 `NUM` tokens (2%).
 Out of 16 observed tags, the rank of `NUM` is: 5 in number of lemmas, 5 in number of types and 13 in number of tokens.
 
 The 10 most frequent `NUM` lemmas: اےک، ایک، دو، تین، لاکھ، ہزار، چھ، چار، کروڑ، پانچ
@@ -62,7 +62,7 @@ The 10 most frequent ambiguous types:  اےک (<tt><a href="ur_udtb-pos-NUM.html
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 0.975976 (the average of all parts of speech is 1.103404).
+The form / lemma ratio of `NUM` is 0.975976 (the average of all parts of speech is 1.103337).
 
 The 1st highest number of forms (6) was observed with the lemma “چھ”: 2, 3, 4, 5, 6, چھ.
 
@@ -74,28 +74,28 @@ The 3rd highest number of forms (2) was observed with the lemma “1”: 1, 1243
 
 `NUM` occurs with 9 feature-value pairs: `Case=Acc`, `Case=Nom`, `Echo=Rdp`, `Gender=Fem`, `Gender=Masc`, `NumType=Card`, `Number=Plur`, `Number=Sing`, `Person=3`
 
-`NUM` occurs with 19 feature combinations.
+`NUM` occurs with 20 feature combinations.
 The most frequent feature combination is `NumType=Card` (2353 tokens).
 Examples: اےک، ایک، دو، تین، دونوں، لاکھ، ہزار، پانچ، کروڑ، چار
 
 
 ## Relations
 
-`NUM` nodes are attached to their parents using 15 different relations: <tt><a href="ur_udtb-dep-nummod.html">nummod</a></tt> (2126; 86% instances), <tt><a href="ur_udtb-dep-compound.html">compound</a></tt> (139; 6% instances), <tt><a href="ur_udtb-dep-obl.html">obl</a></tt> (46; 2% instances), <tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt> (36; 1% instances), <tt><a href="ur_udtb-dep-dep.html">dep</a></tt> (29; 1% instances), <tt><a href="ur_udtb-dep-nsubj.html">nsubj</a></tt> (21; 1% instances), <tt><a href="ur_udtb-dep-conj.html">conj</a></tt> (17; 1% instances), <tt><a href="ur_udtb-dep-obj.html">obj</a></tt> (16; 1% instances), <tt><a href="ur_udtb-dep-amod.html">amod</a></tt> (8; 0% instances), <tt><a href="ur_udtb-dep-root.html">root</a></tt> (7; 0% instances), <tt><a href="ur_udtb-dep-xcomp.html">xcomp</a></tt> (7; 0% instances), <tt><a href="ur_udtb-dep-acl-relcl.html">acl:relcl</a></tt> (5; 0% instances), <tt><a href="ur_udtb-dep-acl.html">acl</a></tt> (2; 0% instances), <tt><a href="ur_udtb-dep-dislocated.html">dislocated</a></tt> (1; 0% instances), <tt><a href="ur_udtb-dep-iobj.html">iobj</a></tt> (1; 0% instances)
+`NUM` nodes are attached to their parents using 16 different relations: <tt><a href="ur_udtb-dep-nummod.html">nummod</a></tt> (2126; 86% instances), <tt><a href="ur_udtb-dep-compound.html">compound</a></tt> (139; 6% instances), <tt><a href="ur_udtb-dep-obl.html">obl</a></tt> (45; 2% instances), <tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt> (38; 2% instances), <tt><a href="ur_udtb-dep-dep.html">dep</a></tt> (29; 1% instances), <tt><a href="ur_udtb-dep-nsubj.html">nsubj</a></tt> (21; 1% instances), <tt><a href="ur_udtb-dep-conj.html">conj</a></tt> (17; 1% instances), <tt><a href="ur_udtb-dep-obj.html">obj</a></tt> (16; 1% instances), <tt><a href="ur_udtb-dep-amod.html">amod</a></tt> (8; 0% instances), <tt><a href="ur_udtb-dep-root.html">root</a></tt> (7; 0% instances), <tt><a href="ur_udtb-dep-xcomp.html">xcomp</a></tt> (7; 0% instances), <tt><a href="ur_udtb-dep-acl-relcl.html">acl:relcl</a></tt> (5; 0% instances), <tt><a href="ur_udtb-dep-acl.html">acl</a></tt> (2; 0% instances), <tt><a href="ur_udtb-dep-dislocated.html">dislocated</a></tt> (1; 0% instances), <tt><a href="ur_udtb-dep-flat.html">flat</a></tt> (1; 0% instances), <tt><a href="ur_udtb-dep-iobj.html">iobj</a></tt> (1; 0% instances)
 
-Parents of `NUM` nodes belong to 8 different parts of speech: <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (2001; 81% instances), <tt><a href="ur_udtb-pos-NUM.html">NUM</a></tt> (242; 10% instances), <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> (92; 4% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (79; 3% instances), <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt> (29; 1% instances), <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> (7; 0% instances),  (7; 0% instances), <tt><a href="ur_udtb-pos-DET.html">DET</a></tt> (4; 0% instances)
+Parents of `NUM` nodes belong to 8 different parts of speech: <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (2001; 81% instances), <tt><a href="ur_udtb-pos-NUM.html">NUM</a></tt> (243; 10% instances), <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> (93; 4% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (79; 3% instances), <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt> (29; 1% instances), <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> (7; 0% instances),  (7; 0% instances), <tt><a href="ur_udtb-pos-DET.html">DET</a></tt> (4; 0% instances)
 
 1987 (81%) `NUM` nodes are leaves.
 
-329 (13%) `NUM` nodes have one child.
+330 (13%) `NUM` nodes have one child.
 
-94 (4%) `NUM` nodes have two children.
+95 (4%) `NUM` nodes have two children.
 
 51 (2%) `NUM` nodes have three or more children.
 
 The highest child degree of a `NUM` node is 9.
 
-Children of `NUM` nodes are attached using 19 different relations: <tt><a href="ur_udtb-dep-dep.html">dep</a></tt> (147; 21% instances), <tt><a href="ur_udtb-dep-compound.html">compound</a></tt> (132; 19% instances), <tt><a href="ur_udtb-dep-case.html">case</a></tt> (114; 16% instances), <tt><a href="ur_udtb-dep-punct.html">punct</a></tt> (65; 9% instances), <tt><a href="ur_udtb-dep-nummod.html">nummod</a></tt> (57; 8% instances), <tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt> (53; 7% instances), <tt><a href="ur_udtb-dep-amod.html">amod</a></tt> (26; 4% instances), <tt><a href="ur_udtb-dep-conj.html">conj</a></tt> (22; 3% instances), <tt><a href="ur_udtb-dep-cop.html">cop</a></tt> (20; 3% instances), <tt><a href="ur_udtb-dep-nsubj.html">nsubj</a></tt> (20; 3% instances), <tt><a href="ur_udtb-dep-cc.html">cc</a></tt> (17; 2% instances), <tt><a href="ur_udtb-dep-obl.html">obl</a></tt> (12; 2% instances), <tt><a href="ur_udtb-dep-det.html">det</a></tt> (8; 1% instances), <tt><a href="ur_udtb-dep-mark.html">mark</a></tt> (4; 1% instances), <tt><a href="ur_udtb-dep-obj.html">obj</a></tt> (4; 1% instances), <tt><a href="ur_udtb-dep-acl-relcl.html">acl:relcl</a></tt> (3; 0% instances), <tt><a href="ur_udtb-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="ur_udtb-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="ur_udtb-dep-iobj.html">iobj</a></tt> (1; 0% instances)
+Children of `NUM` nodes are attached using 20 different relations: <tt><a href="ur_udtb-dep-dep.html">dep</a></tt> (147; 21% instances), <tt><a href="ur_udtb-dep-compound.html">compound</a></tt> (132; 19% instances), <tt><a href="ur_udtb-dep-case.html">case</a></tt> (114; 16% instances), <tt><a href="ur_udtb-dep-punct.html">punct</a></tt> (67; 9% instances), <tt><a href="ur_udtb-dep-nummod.html">nummod</a></tt> (57; 8% instances), <tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt> (53; 7% instances), <tt><a href="ur_udtb-dep-amod.html">amod</a></tt> (26; 4% instances), <tt><a href="ur_udtb-dep-conj.html">conj</a></tt> (22; 3% instances), <tt><a href="ur_udtb-dep-cop.html">cop</a></tt> (20; 3% instances), <tt><a href="ur_udtb-dep-nsubj.html">nsubj</a></tt> (20; 3% instances), <tt><a href="ur_udtb-dep-cc.html">cc</a></tt> (17; 2% instances), <tt><a href="ur_udtb-dep-obl.html">obl</a></tt> (12; 2% instances), <tt><a href="ur_udtb-dep-det.html">det</a></tt> (8; 1% instances), <tt><a href="ur_udtb-dep-mark.html">mark</a></tt> (4; 1% instances), <tt><a href="ur_udtb-dep-obj.html">obj</a></tt> (4; 1% instances), <tt><a href="ur_udtb-dep-acl-relcl.html">acl:relcl</a></tt> (3; 0% instances), <tt><a href="ur_udtb-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="ur_udtb-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="ur_udtb-dep-flat.html">flat</a></tt> (1; 0% instances), <tt><a href="ur_udtb-dep-iobj.html">iobj</a></tt> (1; 0% instances)
 
-Children of `NUM` nodes belong to 14 different parts of speech: <tt><a href="ur_udtb-pos-NUM.html">NUM</a></tt> (242; 34% instances), <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> (129; 18% instances), <tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt> (122; 17% instances), <tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> (65; 9% instances), <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (53; 7% instances), <tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt> (20; 3% instances), <tt><a href="ur_udtb-pos-CCONJ.html">CCONJ</a></tt> (17; 2% instances), <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> (15; 2% instances), <tt><a href="ur_udtb-pos-DET.html">DET</a></tt> (11; 2% instances), <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt> (10; 1% instances), <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> (8; 1% instances), <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> (7; 1% instances), <tt><a href="ur_udtb-pos-SCONJ.html">SCONJ</a></tt> (4; 1% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (4; 1% instances)
+Children of `NUM` nodes belong to 14 different parts of speech: <tt><a href="ur_udtb-pos-NUM.html">NUM</a></tt> (243; 34% instances), <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> (129; 18% instances), <tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt> (122; 17% instances), <tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> (67; 9% instances), <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (53; 7% instances), <tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt> (20; 3% instances), <tt><a href="ur_udtb-pos-CCONJ.html">CCONJ</a></tt> (17; 2% instances), <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> (15; 2% instances), <tt><a href="ur_udtb-pos-DET.html">DET</a></tt> (11; 2% instances), <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt> (10; 1% instances), <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> (8; 1% instances), <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> (7; 1% instances), <tt><a href="ur_udtb-pos-SCONJ.html">SCONJ</a></tt> (4; 1% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (4; 1% instances)
 

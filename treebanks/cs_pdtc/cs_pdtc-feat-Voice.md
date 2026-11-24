@@ -42,7 +42,7 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 
 55612 <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt> tokens (15% of all `ADJ` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `ADJ` and `Voice` co-occurred: <tt><a href="cs_pdtc-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (55612; 100%), <tt><a href="cs_pdtc-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (53739; 97%), <tt><a href="cs_pdtc-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (45583; 82%), <tt><a href="cs_pdtc-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (33127; 60%), <tt><a href="cs_pdtc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (30630; 55%).
+The most frequent other feature values with which `ADJ` and `Voice` co-occurred: <tt><a href="cs_pdtc-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (55612; 100%), <tt><a href="cs_pdtc-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (53739; 97%), <tt><a href="cs_pdtc-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (45583; 82%), <tt><a href="cs_pdtc-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (33127; 60%), <tt><a href="cs_pdtc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (30630; 55%), <tt><a href="cs_pdtc-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (29553; 53%).
 
 `ADJ` tokens may have the following values of `Voice`:
 
@@ -63,6 +63,6 @@ The 10 most frequent relations where parent and child node agree in `Voice`:
 <tt>VERB --[<tt><a href="cs_pdtc-dep-csubj-pass.html">csubj:pass</a></tt>]--> VERB</tt> (522; 72%),
 <tt>VERB --[<tt><a href="cs_pdtc-dep-appos.html">appos</a></tt>]--> VERB</tt> (464; 94%),
 <tt>VERB --[<tt><a href="cs_pdtc-dep-dep.html">dep</a></tt>]--> VERB</tt> (399; 86%),
-<tt>VERB --[<tt><a href="cs_pdtc-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (298; 91%),
-<tt>AUX --[<tt><a href="cs_pdtc-dep-conj.html">conj</a></tt>]--> VERB</tt> (285; 98%).
+<tt>VERB --[<tt><a href="cs_pdtc-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (285; 91%),
+<tt>VERB --[<tt><a href="cs_pdtc-dep-conj.html">conj</a></tt>]--> AUX</tt> (281; 98%).
 

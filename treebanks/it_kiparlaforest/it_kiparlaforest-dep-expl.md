@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `expl`: <tt><a href="it_kiparlaforest-dep-expl-impers.html">expl:impers</a></tt>, <tt><a href="it_kiparlaforest-dep-expl-pass.html">expl:pass</a></tt>.
 
-426 nodes (2%) are attached to their parents as `expl`.
+608 nodes (2%) are attached to their parents as `expl`.
 
-400 instances of `expl` (94%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.19953051643192.
+571 instances of `expl` (94%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.20065789473684.
 
-The following 6 pairs of parts of speech are connected with `expl`: <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> (405; 95% instances), <tt><a href="it_kiparlaforest-pos-AUX.html">AUX</a></tt>-<tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> (9; 2% instances), <tt><a href="it_kiparlaforest-pos-X.html">X</a></tt>-<tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> (6; 1% instances), <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt>-<tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt>-<tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `expl`: <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> (576; 95% instances), <tt><a href="it_kiparlaforest-pos-AUX.html">AUX</a></tt>-<tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> (17; 3% instances), <tt><a href="it_kiparlaforest-pos-X.html">X</a></tt>-<tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> (12; 2% instances), <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt>-<tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,35 +23,33 @@ The following 6 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 expl	color:blue
-1	okay	ok	INTJ	_	_	4	discourse	_	Backchannel=BOD2018_16b::11|Begin=49.76|End=50.42|KID=17-0
-2	e	e	CCONJ	_	_	4	discourse	_	Begin=50.735|KID=18-0
-3	si	si	PRON	_	Person=3|PronType=Prs	4	expl	_	Clitic=Yes|KID=18-1
-4	trova	trovare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=18-2
-5	in	in	ADP	_	_	6	case	_	KID=18-3
-6	centro	centro	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	KID=18-4|Prolonged=Yes
-7	a	a	ADP	_	_	9	case	_	KID=18-5a
-8	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	KID=18-5b
-9	città	città	NOUN	_	Gender=Fem	6	nmod	_	KID=18-6|Prolonged=Yes
-10	o	o	CCONJ	_	_	11	cc	_	KID=18-7
-11	fuori	fuori	ADV	_	_	4	orphan	_	End=53.755|Intonation=Rising|KID=18-8
+1	eh	eh	INTJ	_	_	4	discourse	_	Begin=137.686|End=138.229|KID=59-0|OverlappingGroup=29|Prolonged=Yes
+2	qualcosa	qualcosa	PRON	_	PronType=Ind	4	nsubj	_	Begin=138.295|KID=61-0|OverlappingGroup=30|Prolonged=Yes
+3	c'	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	4	expl	_	KID=61-1|SpaceAfter=No
+4	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=61-2
+5	molto	molto	ADV	_	_	7	advmod	_	KID=61-3
+6	molto	molto	ADV	_	_	7	advmod	_	KID=61-4
+7	poco	poco	ADV	_	_	4	advmod	_	KID=61-5
+8	tendenzialmente	tendenzialmente	ADV	_	_	11	advmod	_	KID=61-6|OverlappingGroup=31
+9	tutti	tutto	DET	_	Gender=Masc|Number=Plur|PronType=Tot	11	det	_	KID=61-7|OverlappingGroup=31
+10	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	KID=61-8|OverlappingGroup=31
+11	lav~	lav~	X	_	_	4	conj	_	End=142.668|Interrupted=Yes|KID=61-9|OverlappingGroup=31
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 expl	color:blue
-1	c'	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	2	expl	_	Begin=28.547|KID=12-0|Truncated=Yes
-2	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=12-1
-3	qualcuno	qualcuno	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	2	nsubj	_	KID=12-2
-4	che	che	SCONJ	_	PronType=Rel	6	nsubj	_	KID=12-3
-5	c'	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	6	expl	_	KID=12-4|Truncated=Yes
-6	ha	avere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	KID=12-5
-7	provato	provare	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	xcomp	_	KID=12-6|Prolonged=Yes
-8	comunque	comunque	CCONJ	_	_	7	cc	_	End=30.444|Intonation=WeaklyRising|KID=12-7
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 expl	color:blue
+1	ci	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	2	expl	_	KID=473-2
+2	vuol	volere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=473-3
+3	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	4	det	_	KID=473-4|SpaceAfter=No
+4	ambulanza	ambulanza	NOUN	_	Gender=Fem|Number=Sing	2	nsubj	_	KID=473-5
+5	per	per	ADP	_	_	6	case	_	KID=473-6
+6	me	me	PRON	_	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	obl	_	End=879.55|KID=473-7
 
 ~~~
 
@@ -63,12 +61,12 @@ The following 6 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 3	fgColor:white
 # visual-style 3 2 expl	color:blue
 1	non	non	ADV	_	PronType=Neg	3	advmod	_	Begin=1180.744|KID=759-0|PaceFast=Yes
-2	si	si	PRON	_	Person=3|PronType=Prs	3	expl	_	Clitic=Yes|KID=759-1
+2	si	si	PRON	_	Clitic=Yes|Person=3|PronType=Prs	3	expl	_	KID=759-1
 3	capi~	capi~	X	_	_	7	reparandum	_	Interrupted=Yes|KID=759-2
 4	ma	ma	CCONJ	_	_	7	cc	_	KID=759-3
 5	non	non	ADV	_	PronType=Neg	7	advmod	_	KID=759-4
 6	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	KID=759-5
-7	pari	pari	ADJ	_	Number=Plur	0	root	_	KID=759-6
+7	pari	pari	ADJ	_	_	0	root	_	KID=759-6
 8	de	di	ADP	_	_	9	case	_	KID=759-7|Variation=Yes
 9	cervello	cervello	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	KID=759-8
 10	cioè	cioè	CCONJ	_	_	7	discourse	_	End=1183.244|KID=759-9|PaceFast=Yes

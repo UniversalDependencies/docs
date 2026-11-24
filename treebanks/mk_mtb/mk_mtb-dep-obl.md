@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-61 nodes (4%) are attached to their parents as `obl`.
+60 nodes (4%) are attached to their parents as `obl`.
 
-55 instances of `obl` (90%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.42622950819672.
+54 instances of `obl` (90%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.43333333333333.
 
-The following 9 pairs of parts of speech are connected with `obl`: <tt><a href="mk_mtb-pos-VERB.html">VERB</a></tt>-<tt><a href="mk_mtb-pos-NOUN.html">NOUN</a></tt> (47; 77% instances), <tt><a href="mk_mtb-pos-VERB.html">VERB</a></tt>-<tt><a href="mk_mtb-pos-PRON.html">PRON</a></tt> (4; 7% instances), <tt><a href="mk_mtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mk_mtb-pos-NOUN.html">NOUN</a></tt> (3; 5% instances), <tt><a href="mk_mtb-pos-VERB.html">VERB</a></tt>-<tt><a href="mk_mtb-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="mk_mtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mk_mtb-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="mk_mtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mk_mtb-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="mk_mtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mk_mtb-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="mk_mtb-pos-VERB.html">VERB</a></tt>-<tt><a href="mk_mtb-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="mk_mtb-pos-VERB.html">VERB</a></tt>-<tt><a href="mk_mtb-pos-DET.html">DET</a></tt> (1; 2% instances).
+The following 8 pairs of parts of speech are connected with `obl`: <tt><a href="mk_mtb-pos-VERB.html">VERB</a></tt>-<tt><a href="mk_mtb-pos-NOUN.html">NOUN</a></tt> (47; 78% instances), <tt><a href="mk_mtb-pos-VERB.html">VERB</a></tt>-<tt><a href="mk_mtb-pos-PRON.html">PRON</a></tt> (4; 7% instances), <tt><a href="mk_mtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mk_mtb-pos-NOUN.html">NOUN</a></tt> (3; 5% instances), <tt><a href="mk_mtb-pos-VERB.html">VERB</a></tt>-<tt><a href="mk_mtb-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="mk_mtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mk_mtb-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="mk_mtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mk_mtb-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="mk_mtb-pos-VERB.html">VERB</a></tt>-<tt><a href="mk_mtb-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="mk_mtb-pos-VERB.html">VERB</a></tt>-<tt><a href="mk_mtb-pos-DET.html">DET</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

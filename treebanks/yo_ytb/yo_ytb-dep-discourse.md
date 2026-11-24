@@ -22,7 +22,7 @@ The following 6 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 22	bgColor:blue
 # visual-style 22	fgColor:white
 # visual-style 22 23 discourse	color:blue
-1	Bí	Bí	SCONJ	_	_	4	mark	_	Gloss=if|Ref=MATT_5.46
+1	Bí	bí	SCONJ	_	_	4	mark	_	Gloss=if|Ref=MATT_5.46
 2	ẹ̀yin	ẹ̀yin	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	Gloss=you|Ref=MATT_5.46
 3	bá	bá	SCONJ	_	_	4	mark	_	Gloss=if|Ref=MATT_5.46
 4	fẹ́ràn	fẹ́ràn	VERB	_	_	0	root	_	Gloss=love|Ref=MATT_5.46
@@ -39,7 +39,7 @@ The following 6 pairs of parts of speech are connected with `discourse`: <tt><a 
 15	ẹ̀yin	ẹ̀yin	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	16	obj	_	Gloss=you|Ref=MATT_5.46
 16	ní	ní	VERB	_	_	4	conj	_	Gloss=have|Ref=MATT_5.46|SpaceAfter=No
 17	?	?	PUNCT	_	_	4	punct	_	Gloss=?|Ref=MATT_5.46
-18	Àwọn	àwọn	DET	_	_	19	det	_	Gloss=the|Ref=MATT_5.46
+18	Àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	19	det	_	Gloss=the|Ref=MATT_5.46
 19	agbowó	agbowó	NOUN	_	_	25	nsubj	_	Gloss=publicans|Ref=MATT_5.46|SpaceAfter=No
 20	-	-	PUNCT	_	_	21	punct	_	Gloss=-|Ref=MATT_5.46|SpaceAfter=No
 21	òde	òde	NOUN	_	_	19	nsubj	_	Gloss=outside|Ref=MATT_5.46
@@ -60,7 +60,7 @@ The following 6 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 23	bgColor:blue
 # visual-style 23	fgColor:white
 # visual-style 23 19 discourse	color:blue
-1	Èmi	Èmi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=i|Ref=JOHN_11.15
+1	Èmi	èmi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=i|Ref=JOHN_11.15
 2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then|Ref=JOHN_11.15
 3	yọ̀	yọ̀	VERB	_	_	0	root	_	Gloss=rejoice|Ref=JOHN_11.15
 4	nítorí	nítorí	SCONJ	_	_	5	case	_	Gloss=because|Ref=JOHN_11.15
@@ -72,7 +72,7 @@ The following 6 pairs of parts of speech are connected with `discourse`: <tt><a 
 10	sí	sí	VERB	_	_	3	advcl	_	Gloss=not|Ref=JOHN_11.15
 11	níbẹ̀	níbẹ̀	ADV	_	_	10	advmod	_	Gloss=there|Ref=JOHN_11.15|SpaceAfter=No
 12	,	,	PUNCT	_	_	16	punct	_	Gloss=,|Ref=JOHN_11.15
-13	Kí	Kí	SCONJ	_	_	16	mark	_	Gloss=so|Ref=JOHN_11.15
+13	Kí	kí	SCONJ	_	_	16	mark	_	Gloss=so|Ref=JOHN_11.15
 14	ẹ	ẹ	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	16	nsubj	_	Gloss=ye|Ref=JOHN_11.15
 15	le	lè	AUX	_	_	16	aux	_	Gloss=may|Ref=JOHN_11.15
 16	gbàgbọ́	gbàgbọ́	VERB	_	_	3	advcl	_	Gloss=believe|Ref=JOHN_11.15|SpaceAfter=No
@@ -96,7 +96,7 @@ The following 6 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 1 discourse	color:blue
-1	Kíyèsí	Kíyèsí	INTJ	_	_	5	discourse	_	Gloss=behold|Ref=PS_133.1|SpaceAfter=No
+1	Kíyèsí	kíyèsí	INTJ	_	_	5	discourse	_	Gloss=behold|Ref=PS_133.1|SpaceAfter=No
 2	,	,	PUNCT	_	_	5	punct	_	Gloss=,|Ref=PS_133.1
 3	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Gloss=it|Ref=PS_133.1
 4	ti	ti	AUX	_	_	5	aux	_	Gloss=have|Ref=PS_133.1

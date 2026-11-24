@@ -12,7 +12,7 @@ There are also 2 other language-specific subtypes of `aux`: <tt><a href="fr_gsd-
 3401 nodes (1%) are attached to their parents as `aux:pass`.
 
 3398 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.25139664804469.
+Average distance between parent and child is 1.25110261687739.
 
 The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (3399; 100% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
@@ -25,9 +25,9 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 # visual-style 3 2 aux:pass	color:blue
 1	Il	lui	PRON	_	Case=Nom|Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj:pass	_	wordform=il
 2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	_
-3	fêté	fêter	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	Tense[denom]=Past
+3	fêté	fêter	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	Status[Tense]=Denom
 4	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
-5	22	22	NUM	_	Number=Sing	3	obl:mod	_	Exponence[Number]=Inherent
+5	22	22	NUM	_	ExtPos=PROPN|Number=Sing	3	obl:mod	_	Exponence[Number]=Inherent
 6	mai	mai	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	Exponence[Gender]=Inherent|SpaceAfter=No
 7	.	.	PUNCT	_	_	3	punct	_	_
 
@@ -46,7 +46,7 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 4	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	Lituanie	Lituanie	PROPN	_	Gender=Fem|Number=Sing	2	conj	_	Exponence[Gender]=Inherent
 6	seront	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	7	aux:pass	_	_
-7	représentées	représenter	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	Tense[denom]=Past
+7	représentées	représenter	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	Status[Tense]=Denom
 8	par	par	ADP	_	_	10	case	_	_
 9	leur	son	DET	_	Number=Sing|Number[psor]=Plur|Person[psor]=3|Poss=Yes|PronType=Prs	10	det	_	_
 10	président	président	NOUN	_	Gender=Masc|Number=Sing	7	obl:agent	_	Exponence[Gender]=Inherent
@@ -61,7 +61,7 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 19	son	son	DET	_	Gender=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	20	det	_	_
 20	roi	roi	NOUN	_	Gender=Masc|Number=Sing	14	obl:agent	_	Exponence[Gender]=Inherent
 21	Carl	Carl	PROPN	_	_	20	appos	_	_
-22	XVI	XVI	NUM	_	Number=Sing	21	nmod	_	Exponence[Number]=Inherent
+22	XVI	XVI	NUM	_	ExtPos=PROPN|Number=Sing	21	nmod	_	Exponence[Number]=Inherent
 23	Gustaf	Gustaf	PROPN	_	_	21	flat:name	_	SpaceAfter=No
 24	.	.	PUNCT	_	_	7	punct	_	_
 
@@ -77,10 +77,10 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	wordform=la
 2	compagnie	compagnie	NOUN	_	Gender=Fem|Number=Sing	5	nsubj:pass	_	Exponence[Gender]=Inherent
 3	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:tense	_	_
-4	été	être	AUX	_	Gender=Masc|Number=Sing|VerbForm=Part	5	aux:pass	_	Tense[denom]=Past
+4	été	être	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	aux:pass	_	Status[Tense]=Denom
 5	publicly-traded	publicly-traded	X	_	ExtPos=VERB	0	root	_	_
 6	depuis	depuis	ADP	_	_	7	case	_	_
-7	1992	1992	NUM	_	Number=Sing	5	obl:mod	_	Exponence[Number]=Inherent|SpaceAfter=No
+7	1992	1992	NUM	_	ExtPos=PROPN|Number=Sing	5	obl:mod	_	Exponence[Number]=Inherent|SpaceAfter=No
 8	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~

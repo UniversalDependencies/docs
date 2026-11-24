@@ -22,24 +22,24 @@ The following 3 pairs of parts of speech are connected with `list`: <tt><a href=
 # visual-style 22	bgColor:blue
 # visual-style 22	fgColor:white
 # visual-style 22 30 list	color:blue
-1	č̣(ṭ)	č̣ṭ	VERB	_	Gender=Masc|VerbClass=2lit|VerbForm=Inf	0	root	_	Hiero=𓆓|ID=185810
+1	č̣(ṭ)	č̣ṭ	VERB	_	Gender=Masc|VerbClass=2lit|VerbForm=Inf	0	root	_	Hiero=𓆓|ID=185810|Trans=Yes
 2	mṭw	mṭw	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	Hiero=𓌃|ID=78150
 3	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc|NameType=God	5	vocative	_	Hiero=(𓊨:𓁹)|ID=49460
 4	Ttꞽ	Ttꞽ	PROPN	_	Gender=Masc|NameType=King	3	appos	_	Hiero=𓍹(𓏏:𓏏)𓇋𓍺|ID=450656
-5	wp	wpi̯	VERB	_	Conjug=Suffix|Mood=Sub|VerbClass=3aeinf|VerbForm=Fin	1	ccomp:speech	_	Hiero=𓅱𓄋|ID=45640
+5	wp	wpi̯	VERB	_	Conjug=Suffix|Mood=Sub|SubForm=No|VerbClass=3aeinf|VerbForm=Fin|Voice=Act	1	ccomp:speech	_	Hiero=𓅱𓄋|ID=45640|Trans=Yes
 6	(⸗ꞽ)	ꞽ	PRON	_	Gender=Com|Number=Sing|Person=1|PronClass=Suffix|PronType=Prs	5	nsubj	_	Hiero=No|ID=10030_Add
 7	rʾ	rʾ	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	Hiero=(𓂋:𓏤)|Hierocl=𓏤|ID=92560
 8	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronClass=Suffix|PronType=Prs	7	nmod	_	Hiero=𓎡|ID=10110
 9	ꞽm	m	ADP	_	Case=Ins|StatPrep=Pron	10	case	_	Hiero=𓇋𓅓|ID=64364
 10	⸗ś	ś	PRON	_	Gender=Fem|Number=Sing|Person=3|PronClass=Suffix|PronType=Prs	5	obl	_	Hiero=𓋴|ID=10090
-11	č̣(ṭ)	č̣ṭ	VERB	_	Gender=Masc|VerbClass=2lit|VerbForm=Inf	1	parataxis	_	Hiero=𓆓|ID=185810
+11	č̣(ṭ)	č̣ṭ	VERB	_	Gender=Masc|VerbClass=2lit|VerbForm=Inf	1	parataxis	_	Hiero=𓆓|ID=185810|Trans=Yes
 12	mṭw	mṭw	NOUN	_	Gender=Masc|Number=Sing	11	obj	_	Hiero=𓌃|ID=78150
 13	sp	sp	NOUN	_	Gender=Masc|Number=Sing	11	obl:unmarked	_	Hiero=𓊗|ID=132310
 14	4	4	NUM	_	NumType=Card	13	nummod	_	Hiero=𓏽|ID=850814
 15	n	n	ADP	_	Case=Dat|StatPrep=Cons	16	case	_	Hiero=𓈖|ID=400055
 16	Ttꞽ	Ttꞽ	PROPN	_	Gender=Masc|NameType=King	11	obl:arg	_	Hiero=𓍹(𓏏:𓏏)𓇋𓍺|ID=450656
 17	pn	pn	DET	_	Gender=Masc|Number=Sing|PronType=Dem	16	det	_	Hiero=(𓊪:𓈖)|ID=59920
-18	fꜣ.t	fꜣi̯	VERB	_	Gender=Masc|VerbClass=3aeinf|VerbForm=Inf	11	conj	_	Hiero=𓆑𓄿(𓏏:𓂠)|Hierocl=𓂠|ID=63460
+18	fꜣ.t	fꜣi̯	VERB	_	Gender=Masc|VerbClass=3aeinf|VerbForm=Inf	11	conj	_	Hiero=𓆑𓄿(𓏏:𓂠)|Hierocl=𓂠|ID=63460|Trans=Yes
 19	sp	sp	NOUN	_	Gender=Masc|Number=Sing	18	obl:unmarked	_	Hiero=𓊗|ID=132310
 20	4	4	NUM	_	NumType=Card	19	nummod	_	Hiero=𓏽|ID=850814
 21	|	|	PUNCT	_	_	22	punct	_	ID=.|LINE=Punct
@@ -73,24 +73,24 @@ The following 3 pairs of parts of speech are connected with `list`: <tt><a href=
 # visual-style 22	bgColor:blue
 # visual-style 22	fgColor:white
 # visual-style 22 39 list	color:blue
-1	č̣(ṭ)	č̣ṭ	VERB	_	Gender=Masc|VerbClass=2lit|VerbForm=Inf	0	root	_	Hiero=𓆓|ID=185810
+1	č̣(ṭ)	č̣ṭ	VERB	_	Gender=Masc|VerbClass=2lit|VerbForm=Inf	0	root	_	Hiero=𓆓|ID=185810|Trans=Yes
 2	mṭw	mṭw	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	Hiero=𓌃|ID=78150
 3	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc|NameType=God	5	vocative	_	Hiero=(𓊨:𓁹)|ID=49460
 4	Ttꞽ	Ttꞽ	PROPN	_	Gender=Masc|NameType=King	3	appos	_	Hiero=𓍹(𓏏:𓏏)𓇋𓍺|ID=450656
-5	wp	wpi̯	VERB	_	Conjug=Suffix|Mood=Sub|VerbClass=3aeinf|VerbForm=Fin	1	ccomp:speech	_	Hiero=𓅱𓄋|ID=45640
+5	wp	wpi̯	VERB	_	Conjug=Suffix|Mood=Sub|SubForm=No|VerbClass=3aeinf|VerbForm=Fin|Voice=Act	1	ccomp:speech	_	Hiero=𓅱𓄋|ID=45640|Trans=Yes
 6	(⸗ꞽ)	ꞽ	PRON	_	Gender=Com|Number=Sing|Person=1|PronClass=Suffix|PronType=Prs	5	nsubj	_	Hiero=No|ID=10030_Add
 7	rʾ	rʾ	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	Hiero=(𓂋:𓏤)|Hierocl=𓏤|ID=92560
 8	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronClass=Suffix|PronType=Prs	7	nmod	_	Hiero=𓎡|ID=10110
 9	ꞽm	m	ADP	_	Case=Ins|StatPrep=Pron	10	case	_	Hiero=𓇋𓅓|ID=64364
 10	⸗ś	ś	PRON	_	Gender=Fem|Number=Sing|Person=3|PronClass=Suffix|PronType=Prs	5	obl	_	Hiero=𓋴|ID=10090
-11	č̣(ṭ)	č̣ṭ	VERB	_	Gender=Masc|VerbClass=2lit|VerbForm=Inf	1	parataxis	_	Hiero=𓆓|ID=185810
+11	č̣(ṭ)	č̣ṭ	VERB	_	Gender=Masc|VerbClass=2lit|VerbForm=Inf	1	parataxis	_	Hiero=𓆓|ID=185810|Trans=Yes
 12	mṭw	mṭw	NOUN	_	Gender=Masc|Number=Sing	11	obj	_	Hiero=𓌃|ID=78150
 13	sp	sp	NOUN	_	Gender=Masc|Number=Sing	11	obl:unmarked	_	Hiero=𓊗|ID=132310
 14	4	4	NUM	_	NumType=Card	13	nummod	_	Hiero=𓏽|ID=850814
 15	n	n	ADP	_	Case=Dat|StatPrep=Cons	16	case	_	Hiero=𓈖|ID=400055
 16	Ttꞽ	Ttꞽ	PROPN	_	Gender=Masc|NameType=King	11	obl:arg	_	Hiero=𓍹(𓏏:𓏏)𓇋𓍺|ID=450656
 17	pn	pn	DET	_	Gender=Masc|Number=Sing|PronType=Dem	16	det	_	Hiero=(𓊪:𓈖)|ID=59920
-18	fꜣ.t	fꜣi̯	VERB	_	Gender=Masc|VerbClass=3aeinf|VerbForm=Inf	11	conj	_	Hiero=𓆑𓄿(𓏏:𓂠)|Hierocl=𓂠|ID=63460
+18	fꜣ.t	fꜣi̯	VERB	_	Gender=Masc|VerbClass=3aeinf|VerbForm=Inf	11	conj	_	Hiero=𓆑𓄿(𓏏:𓂠)|Hierocl=𓂠|ID=63460|Trans=Yes
 19	sp	sp	NOUN	_	Gender=Masc|Number=Sing	18	obl:unmarked	_	Hiero=𓊗|ID=132310
 20	4	4	NUM	_	NumType=Card	19	nummod	_	Hiero=𓏽|ID=850814
 21	|	|	PUNCT	_	_	22	punct	_	ID=.|LINE=Punct
@@ -124,24 +124,24 @@ The following 3 pairs of parts of speech are connected with `list`: <tt><a href=
 # visual-style 22	bgColor:blue
 # visual-style 22	fgColor:white
 # visual-style 22 34 list	color:blue
-1	č̣(ṭ)	č̣ṭ	VERB	_	Gender=Masc|VerbClass=2lit|VerbForm=Inf	0	root	_	Hiero=𓆓|ID=185810
+1	č̣(ṭ)	č̣ṭ	VERB	_	Gender=Masc|VerbClass=2lit|VerbForm=Inf	0	root	_	Hiero=𓆓|ID=185810|Trans=Yes
 2	mṭw	mṭw	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	Hiero=𓌃|ID=78150
 3	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc|NameType=God	5	vocative	_	Hiero=(𓊨:𓁹)|ID=49460
 4	Ttꞽ	Ttꞽ	PROPN	_	Gender=Masc|NameType=King	3	appos	_	Hiero=𓍹(𓏏:𓏏)𓇋𓍺|ID=450656
-5	wp	wpi̯	VERB	_	Conjug=Suffix|Mood=Sub|VerbClass=3aeinf|VerbForm=Fin	1	ccomp:speech	_	Hiero=𓅱𓄋|ID=45640
+5	wp	wpi̯	VERB	_	Conjug=Suffix|Mood=Sub|SubForm=No|VerbClass=3aeinf|VerbForm=Fin|Voice=Act	1	ccomp:speech	_	Hiero=𓅱𓄋|ID=45640|Trans=Yes
 6	(⸗ꞽ)	ꞽ	PRON	_	Gender=Com|Number=Sing|Person=1|PronClass=Suffix|PronType=Prs	5	nsubj	_	Hiero=No|ID=10030_Add
 7	rʾ	rʾ	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	Hiero=(𓂋:𓏤)|Hierocl=𓏤|ID=92560
 8	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronClass=Suffix|PronType=Prs	7	nmod	_	Hiero=𓎡|ID=10110
 9	ꞽm	m	ADP	_	Case=Ins|StatPrep=Pron	10	case	_	Hiero=𓇋𓅓|ID=64364
 10	⸗ś	ś	PRON	_	Gender=Fem|Number=Sing|Person=3|PronClass=Suffix|PronType=Prs	5	obl	_	Hiero=𓋴|ID=10090
-11	č̣(ṭ)	č̣ṭ	VERB	_	Gender=Masc|VerbClass=2lit|VerbForm=Inf	1	parataxis	_	Hiero=𓆓|ID=185810
+11	č̣(ṭ)	č̣ṭ	VERB	_	Gender=Masc|VerbClass=2lit|VerbForm=Inf	1	parataxis	_	Hiero=𓆓|ID=185810|Trans=Yes
 12	mṭw	mṭw	NOUN	_	Gender=Masc|Number=Sing	11	obj	_	Hiero=𓌃|ID=78150
 13	sp	sp	NOUN	_	Gender=Masc|Number=Sing	11	obl:unmarked	_	Hiero=𓊗|ID=132310
 14	4	4	NUM	_	NumType=Card	13	nummod	_	Hiero=𓏽|ID=850814
 15	n	n	ADP	_	Case=Dat|StatPrep=Cons	16	case	_	Hiero=𓈖|ID=400055
 16	Ttꞽ	Ttꞽ	PROPN	_	Gender=Masc|NameType=King	11	obl:arg	_	Hiero=𓍹(𓏏:𓏏)𓇋𓍺|ID=450656
 17	pn	pn	DET	_	Gender=Masc|Number=Sing|PronType=Dem	16	det	_	Hiero=(𓊪:𓈖)|ID=59920
-18	fꜣ.t	fꜣi̯	VERB	_	Gender=Masc|VerbClass=3aeinf|VerbForm=Inf	11	conj	_	Hiero=𓆑𓄿(𓏏:𓂠)|Hierocl=𓂠|ID=63460
+18	fꜣ.t	fꜣi̯	VERB	_	Gender=Masc|VerbClass=3aeinf|VerbForm=Inf	11	conj	_	Hiero=𓆑𓄿(𓏏:𓂠)|Hierocl=𓂠|ID=63460|Trans=Yes
 19	sp	sp	NOUN	_	Gender=Masc|Number=Sing	18	obl:unmarked	_	Hiero=𓊗|ID=132310
 20	4	4	NUM	_	NumType=Card	19	nummod	_	Hiero=𓏽|ID=850814
 21	|	|	PUNCT	_	_	22	punct	_	ID=.|LINE=Punct

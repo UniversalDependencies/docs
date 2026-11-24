@@ -14,4 +14,4 @@ In Norwegian, nouns inflect for definiteness (*bil-bilen*) and usually also for 
 * *tre* "tree"
 * *luft* "air"
 * *skjønnhet* "beauty"
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:36 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:27 CET -->

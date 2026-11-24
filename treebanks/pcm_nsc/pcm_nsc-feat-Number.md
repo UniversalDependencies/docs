@@ -137,7 +137,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>PRON --[<tt><a href="pcm_nsc-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (117; 89%),
+<tt>PRON --[<tt><a href="pcm_nsc-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (116; 89%),
 <tt>DET --[<tt><a href="pcm_nsc-dep-reparandum.html">reparandum</a></tt>]--> DET</tt> (19; 61%),
 <tt>NOUN --[<tt><a href="pcm_nsc-dep-reparandum.html">reparandum</a></tt>]--> NOUN</tt> (16; 55%),
 <tt>PRON --[<tt><a href="pcm_nsc-dep-parataxis-conj.html">parataxis:conj</a></tt>]--> PRON</tt> (9; 82%),

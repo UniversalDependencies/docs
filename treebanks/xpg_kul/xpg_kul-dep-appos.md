@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-12 nodes (1%) are attached to their parents as `appos`.
+13 nodes (1%) are attached to their parents as `appos`.
 
-12 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.83333333333333.
+13 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.76923076923077.
 
-The following 4 pairs of parts of speech are connected with `appos`: <tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (7; 58% instances), <tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt> (3; 25% instances), <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (1; 8% instances), <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt> (1; 8% instances).
+The following 4 pairs of parts of speech are connected with `appos`: <tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (7; 54% instances), <tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt> (3; 23% instances), <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt> (2; 15% instances), <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (1; 8% instances).
 
 
 ~~~ conllu
@@ -51,21 +51,17 @@ The following 4 pairs of parts of speech are connected with `appos`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 6 appos	color:blue
-1	βλασκον	βλασκον	X	_	_	9	dep	_	Ref=TM757243-3-1
-2	κε	ke	CCONJ	_	_	1	cc	_	Ref=TM757243-3-2
-3	τακρις	τακρις	NOUN	_	Case=Nom|Number=Sing	9	nsubj	_	Ref=TM757243-3-3
-4	κε	ke	CCONJ	_	_	3	cc	_	Ref=TM757243-3-4
-5	λο̣υ̣ν̣ι̣ο̣υ̣	λο̣υ̣ν̣ι̣ο̣υ̣	NOUN	_	Case=Gen|Number=Sing	9	dep	_	Ref=TM757243-3-5
-6	μροτις	μροτις	NOUN	_	Case=Nom|Number=Sing	3	appos	_	Ref=TM757243-3-6
-7	λαπτα	λαπτα	ADJ	_	Case=Nom|Number=Sing	6	amod	_	Ref=TM757243-3-7
-8	ματι	ματι	NOUN	_	Number=Sing	9	dep	_	Ref=TM757243-3-8
-9	αοινουν	αοινουν	VERB	_	Number=Sing|Person=3	0	root	_	Ref=TM757243-3-9
-10	:	:	PUNCT	_	_	9	punct	_	Ref=TM757243-3-10
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 appos	color:blue
+1	materan	matar	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	obl	_	Ref=TM756920-1-1
+2	areyastin	areyastin	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	1	appos	_	Ref=TM756920-1-2
+3	bonok	bonok	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	Ref=TM756920-1-3
+4	akenanogavọṣ	akenanogavos	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nmod	_	Ref=TM756920-1-4
+5	vrekun	vrekun	NOUN	_	Case=Acc|Number=Sing	1	nmod	_	Ref=TM756920-1-5
+6	tedatoy	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	Ref=TM756920-1-6
 
 ~~~
 

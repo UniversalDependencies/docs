@@ -7,23 +7,24 @@ udver: '2'
 ## Treebank Statistics: UD_Old_Irish-DipSGG: Features: `PronType`
 
 This feature is universal but the values `Emp` are language-specific.
-It occurs with 5 different values: `Art`, `Dem`, `Emp`, `Prs`, `Rel`.
+It occurs with 7 different values: `Art`, `Dem`, `Emp`, `Neg`, `Prs`, `Rel`, `Tot`.
 
-72 tokens (17%) have a non-empty value of `PronType`.
-38 types (13%) occur at least once with a non-empty value of `PronType`.
-21 lemmas (10%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 6 part-of-speech tags: <tt><a href="sga_dipsgg-pos-DET.html">DET</a></tt> (28; 7% instances), <tt><a href="sga_dipsgg-pos-PRON.html">PRON</a></tt> (22; 5% instances), <tt><a href="sga_dipsgg-pos-ADP.html">ADP</a></tt> (12; 3% instances), <tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> (8; 2% instances), <tt><a href="sga_dipsgg-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="sga_dipsgg-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+75 tokens (18%) have a non-empty value of `PronType`.
+40 types (14%) occur at least once with a non-empty value of `PronType`.
+23 lemmas (11%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 6 part-of-speech tags: <tt><a href="sga_dipsgg-pos-DET.html">DET</a></tt> (31; 7% instances), <tt><a href="sga_dipsgg-pos-PRON.html">PRON</a></tt> (22; 5% instances), <tt><a href="sga_dipsgg-pos-ADP.html">ADP</a></tt> (12; 3% instances), <tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> (8; 2% instances), <tt><a href="sga_dipsgg-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="sga_dipsgg-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `DET`
 
-28 <tt><a href="sga_dipsgg-pos-DET.html">DET</a></tt> tokens (90% of all `DET` tokens) have a non-empty value of `PronType`.
+31 <tt><a href="sga_dipsgg-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="sga_dipsgg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (22; 79%), <tt><a href="sga_dipsgg-feat-Case.html">Case</a></tt><tt>=Nom</tt> (15; 54%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="sga_dipsgg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (25; 81%).
 
 `DET` tokens may have the following values of `PronType`:
 
-* `Art` (28; 100% of non-empty `PronType`): <em>in, a, ind, inna, naib, inḍt, nd, sin, ᚔᚅ, ṅ</em>
-* `EMPTY` (3): <em>cach, na</em>
+* `Art` (28; 90% of non-empty `PronType`): <em>in, a, ind, inna, naib, inḍt, nd, sin, ᚔᚅ, ṅ</em>
+* `Neg` (1; 3% of non-empty `PronType`): <em>na</em>
+* `Tot` (2; 6% of non-empty `PronType`): <em>cach</em>
 
 ### `PRON`
 
@@ -51,14 +52,14 @@ The most frequent other feature values with which `ADP` and `PronType` co-occurr
 
 ### `PART`
 
-8 <tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> tokens (25% of all `PART` tokens) have a non-empty value of `PronType`.
+8 <tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> tokens (23% of all `PART` tokens) have a non-empty value of `PronType`.
 
 The most frequent other feature values with which `PART` and `PronType` co-occurred: <tt><a href="sga_dipsgg-feat-PartType.html">PartType</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="sga_dipsgg-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (8; 100%).
 
 `PART` tokens may have the following values of `PronType`:
 
 * `Dem` (8; 100% of non-empty `PronType`): <em>sin, so, sa, ᚄᚑ</em>
-* `EMPTY` (24): <em>a, fo, ni, ní, Do, at, fu, hí, in, nad</em>
+* `EMPTY` (27): <em>a, fo, ro, ni, ní, Do, at, fu, hí, in</em>
 
 ### `AUX`
 

@@ -13,4 +13,4 @@ dislocated:obl(arrivé, toi)
 ~~~
 
 
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:06 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:44 CET -->

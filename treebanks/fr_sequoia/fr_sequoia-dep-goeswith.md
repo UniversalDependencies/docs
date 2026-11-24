@@ -48,7 +48,7 @@ The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a h
 2	de	de	ADP	_	_	4	case	_	_
 3	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
 4	patients	patient	NOUN	_	Gender=Masc|Number=Plur	1	nmod	_	Exponence[Gender]=Inherent
-5	atteints	atteindre	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	4	acl	_	Tense[denom]=Past
+5	atteints	atteindre	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	4	acl	_	Status[Tense]=Denom
 6	d'	de	ADP	_	_	8	case	_	SpaceAfter=No
 7	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	syndrome	syndrome	NOUN	_	Gender=Masc|Number=Sing	5	obl:agent	_	Exponence[Gender]=Inherent
@@ -76,7 +76,7 @@ The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a h
 30	ST-	ST-	X	_	_	29	flat:name	_	SpaceAfter=No
 31	)	)	PUNCT	_	_	27	punct	_	SpaceAfter=No
 32	)	)	PUNCT	_	_	27	punct	_	_
-33	devant	devoir	VERB	_	VerbForm=Part	4	acl	_	Tense[denom]=Pres
+33	devant	devoir	VERB	_	Tense=Pres|VerbForm=Part	4	acl	_	Status[Tense]=Denom
 34	bénéficier	bénéficier	VERB	_	VerbForm=Inf	33	xcomp	_	Subject=SubjRaising
 35	d'	de	ADP	_	_	37	case	_	SpaceAfter=No
 36	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	37	det	_	_

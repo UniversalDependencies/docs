@@ -59,7 +59,7 @@ The following 3 pairs of parts of speech are connected with `vocative`: <tt><a h
 1	sén	sén	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
 2	a	a	PART	_	PartType=Voc	4	case:voc	_	SpaceAfter=No
 3	nóib	nóib	ADJ	_	Degree=Pos|Prefix=Yes	4	amod	_	SpaceAfter=No
-4	ingen	ingen	NOUN	_	Case=Voc|Number=Sing	1	vocative	_	_
+4	ingen	ingen_1	NOUN	_	Case=Voc|Number=Sing	1	vocative	_	_
 
 ~~~
 

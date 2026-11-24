@@ -9,70 +9,70 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Coll`, `Plur`, `Sing`.
 
-4078 tokens (34%) have a non-empty value of `Number`.
-970 types (51%) occur at least once with a non-empty value of `Number`.
+4071 tokens (34%) have a non-empty value of `Number`.
+969 types (51%) occur at least once with a non-empty value of `Number`.
 1 lemmas (0) occur at least once with a non-empty value of `Number`.
-The feature is used with 12 part-of-speech tags: <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt> (1862; 16% instances), <tt><a href="bej_autogramm-pos-DET.html">DET</a></tt> (798; 7% instances), <tt><a href="bej_autogramm-pos-PRON.html">PRON</a></tt> (715; 6% instances), <tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt> (269; 2% instances), <tt><a href="bej_autogramm-pos-AUX.html">AUX</a></tt> (253; 2% instances), <tt><a href="bej_autogramm-pos-ADP.html">ADP</a></tt> (161; 1% instances), <tt><a href="bej_autogramm-pos-ADJ.html">ADJ</a></tt> (8; 0% instances), <tt><a href="bej_autogramm-pos-INTJ.html">INTJ</a></tt> (5; 0% instances), <tt><a href="bej_autogramm-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="bej_autogramm-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="bej_autogramm-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="bej_autogramm-pos-X.html">X</a></tt> (1; 0% instances).
+The feature is used with 12 part-of-speech tags: <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt> (1859; 16% instances), <tt><a href="bej_autogramm-pos-DET.html">DET</a></tt> (794; 7% instances), <tt><a href="bej_autogramm-pos-PRON.html">PRON</a></tt> (716; 6% instances), <tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt> (268; 2% instances), <tt><a href="bej_autogramm-pos-AUX.html">AUX</a></tt> (253; 2% instances), <tt><a href="bej_autogramm-pos-ADP.html">ADP</a></tt> (161; 1% instances), <tt><a href="bej_autogramm-pos-ADJ.html">ADJ</a></tt> (8; 0% instances), <tt><a href="bej_autogramm-pos-INTJ.html">INTJ</a></tt> (5; 0% instances), <tt><a href="bej_autogramm-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="bej_autogramm-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="bej_autogramm-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="bej_autogramm-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-1862 <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt> tokens (77% of all `VERB` tokens) have a non-empty value of `Number`.
+1859 <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt> tokens (77% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="bej_autogramm-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1549; 83%), <tt><a href="bej_autogramm-feat-VerbClass.html">VerbClass</a></tt><tt>=1</tt> (1274; 68%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="bej_autogramm-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1547; 83%), <tt><a href="bej_autogramm-feat-VerbClass.html">VerbClass</a></tt><tt>=1</tt> (1273; 68%).
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (545; 29% of non-empty `Number`): <em>eːn, jʔeːn, akeːna, eːdna, hiːna, jʔeːna, ijadna, imoːra~rimna, iːfiina, jʔaʃiʃn</em>
-* `Sing` (1317; 71% of non-empty `Number`): <em>indi, ini, jʔi, tindi, iːfi, iːbri, ani, ikati, rhan, tini</em>
+* `Plur` (544; 29% of non-empty `Number`): <em>eːn, jʔeːn, akeːna, eːdna, hiːna, jʔeːna, ijadna, imoːra~rimna, iːfiina, jʔaʃiʃn</em>
+* `Sing` (1315; 71% of non-empty `Number`): <em>indi, ini, jʔi, tindi, iːfi, iːbri, ani, ikati, rhan, tini</em>
 * `EMPTY` (546): <em>jʔeːtiːt, diːtiːt, diːt, akajeː, difeː, hiːreːreː, ɖaːbeː, dʔitiːt, rhaːb, ʔakra</em>
 
 ### `DET`
 
-798 <tt><a href="bej_autogramm-pos-DET.html">DET</a></tt> tokens (46% of all `DET` tokens) have a non-empty value of `Number`.
+794 <tt><a href="bej_autogramm-pos-DET.html">DET</a></tt> tokens (46% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="bej_autogramm-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (670; 84%), <tt><a href="bej_autogramm-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (519; 65%), <tt><a href="bej_autogramm-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (516; 65%), <tt><a href="bej_autogramm-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (511; 64%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="bej_autogramm-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (668; 84%), <tt><a href="bej_autogramm-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (516; 65%), <tt><a href="bej_autogramm-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (513; 65%), <tt><a href="bej_autogramm-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (509; 64%).
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (125; 16% of non-empty `Number`): <em>eːn, aː=, aːn, eː=, eːt, teː=, taː=, aːt, -aː, =eː</em>
-* `Sing` (673; 84% of non-empty `Number`): <em>oː=, w=, uː=, oːn, uːn, toː=, tuː=, beːn, oːt, toːt</em>
-* `EMPTY` (938): <em>=t, i=, ti=, t=, j=, =b, -a, u=</em>
+* `Plur` (123; 15% of non-empty `Number`): <em>eːn, aː=, aːn, eː=, eːt, teː=, taː=, aːt, -aː, baliːnaːj</em>
+* `Sing` (671; 85% of non-empty `Number`): <em>oː=, w=, uː=, oːn, uːn, toː=, tuː=, beːn, oːt, toːt</em>
+* `EMPTY` (936): <em>=t, i=, ti=, t=, j=, =b, -a, u=</em>
 
 ### `PRON`
 
-715 <tt><a href="bej_autogramm-pos-PRON.html">PRON</a></tt> tokens (87% of all `PRON` tokens) have a non-empty value of `Number`.
+716 <tt><a href="bej_autogramm-pos-PRON.html">PRON</a></tt> tokens (87% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="bej_autogramm-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (636; 89%), <tt><a href="bej_autogramm-feat-Case.html">Case</a></tt><tt>=Acc</tt> (374; 52%), <tt><a href="bej_autogramm-feat-Person.html">Person</a></tt><tt>=1</tt> (366; 51%), <tt><a href="bej_autogramm-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (366; 51%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="bej_autogramm-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (638; 89%), <tt><a href="bej_autogramm-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (380; 53%), <tt><a href="bej_autogramm-feat-Case.html">Case</a></tt><tt>=Acc</tt> (375; 52%), <tt><a href="bej_autogramm-feat-Person.html">Person</a></tt><tt>=1</tt> (366; 51%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (164; 23% of non-empty `Number`): <em>=eː, =oːn, =uːn, hinin, =aː, =hoːn, =eːk, =jeː, =aːn, =oːkna</em>
+* `Plur` (165; 23% of non-empty `Number`): <em>=eː, =oːn, =uːn, hinin, =aː, =hoːn, =eːk, =jeː, =aːn, =oːkna</em>
 * `Sing` (551; 77% of non-empty `Number`): <em>=heːb, =i, =oː, ani, =hoːk, =oːk, aneːb, =joː, wi=, =ji</em>
-* `EMPTY` (106): <em>kna, hoːj, ti=, naːn, i=, naː, -t, t=, =hi, =oː</em>
+* `EMPTY` (107): <em>kna, hoːj, ti=, naːn, i=, naː, -t, t=, =hi, =oː</em>
 
 ### `NOUN`
 
-269 <tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt> tokens (16% of all `NOUN` tokens) have a non-empty value of `Number`.
+268 <tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt> tokens (16% of all `NOUN` tokens) have a non-empty value of `Number`.
 
 The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="bej_autogramm-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (166; 62%).
 
 `NOUN` tokens may have the following values of `Number`:
 
 * `Coll` (34; 13% of non-empty `Number`): <em>dhaj, ʤaːntaːji, waːw</em>
-* `Plur` (234; 87% of non-empty `Number`): <em>ʔar, jam, kam, nda, iːjʔaː, wari, ʔarit, far, ʔaraw, fatiːra</em>
+* `Plur` (233; 87% of non-empty `Number`): <em>ʔar, jam, kam, nda, iːjʔaː, wari, ʔarit, far, ʔaraw, fatiːra</em>
 * `Sing` (1; 0% of non-empty `Number`): <em>mbʔi</em>
-* `EMPTY` (1450): <em>tak, doːr, mhiːn, naː, na, kaːm, lhaweː, ʔoːr, meːk, takat</em>
+* `EMPTY` (1448): <em>tak, doːr, mhiːn, naː, na, kaːm, lhaweː, ʔoːr, meːk, takat</em>
 
 ### `AUX`
 
 253 <tt><a href="bej_autogramm-pos-AUX.html">AUX</a></tt> tokens (88% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="bej_autogramm-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (195; 77%), <tt><a href="bej_autogramm-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (136; 54%), <tt><a href="bej_autogramm-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (134; 53%), <tt><a href="bej_autogramm-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (129; 51%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="bej_autogramm-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (195; 77%), <tt><a href="bej_autogramm-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (136; 54%), <tt><a href="bej_autogramm-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (135; 53%), <tt><a href="bej_autogramm-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (129; 51%).
 
 `AUX` tokens may have the following values of `Number`:
 
-* `Plur` (56; 22% of non-empty `Number`): <em>=a, nijad, ijajna, =jaː, eːdna, idʔana, ijadna, iːdna, ndi, ikatin</em>
-* `Sing` (197; 78% of non-empty `Number`): <em>=u, =i, andi, aki, =wa, iki, ihi, indi, adi, =ju</em>
+* `Plur` (55; 22% of non-empty `Number`): <em>=a, nijad, ijajna, =jaː, eːdna, idʔana, ijadna, iːdna, ndi, ikatin</em>
+* `Sing` (198; 78% of non-empty `Number`): <em>=u, =i, andi, aki, =wa, iki, ihi, indi, adi, =ju</em>
 * `EMPTY` (35): <em>akajeː, ba=, dannʔi, diːtiːt, bi=, aha, ahiːt, dieː, diːt, dʔijaːb</em>
 
 ### `ADP`
@@ -85,7 +85,7 @@ The most frequent other feature values with which `ADP` and `Number` co-occurred
 
 * `Plur` (64; 40% of non-empty `Number`): <em>=eːb, =eː, =jeː, =jeːb, =eːt, =jeːt</em>
 * `Sing` (97; 60% of non-empty `Number`): <em>=iːb, =iː, =iːt, =i</em>
-* `EMPTY` (606): <em>=i, dhaːj, hoːj, =ka, haːj, =da, dh, geːb, =ji, whiː</em>
+* `EMPTY` (603): <em>=i, dhaːj, hoːj, =ka, haːj, =da, dh, geːb, =ji, whiː</em>
 
 ### `ADJ`
 
@@ -114,7 +114,7 @@ The most frequent other feature values with which `SCONJ` and `Number` co-occurr
 `SCONJ` tokens may have the following values of `Number`:
 
 * `Sing` (3; 100% of non-empty `Number`): <em>=jeːb, =eːb</em>
-* `EMPTY` (582): <em>=hoːb, =eːb, =ajt, =eːk, =jeːb, =aj, =it, =eːt, =jeːk, =eː</em>
+* `EMPTY` (581): <em>=hoːb, =eːb, =ajt, =eːk, =jeːb, =aj, =it, =eːt, =jeːk, =eː</em>
 
 ### `PART`
 
@@ -126,7 +126,7 @@ The most frequent other feature values with which `PART` and `Number` co-occurre
 
 * `Plur` (1; 50% of non-empty `Number`): <em>malia</em>
 * `Sing` (1; 50% of non-empty `Number`): <em>=hoːk</em>
-* `EMPTY` (319): <em>bak, ka=, han, ontʔa, ki=, baː=, bi=, jaː, bass, tʔa</em>
+* `EMPTY` (319): <em>bak, ka=, ontʔa, han, ki=, baː=, bi=, jaː, bass, tʔa</em>
 
 ### `NUM`
 
@@ -135,7 +135,7 @@ The most frequent other feature values with which `PART` and `Number` co-occurre
 `NUM` tokens may have the following values of `Number`:
 
 * `Plur` (1; 100% of non-empty `Number`): <em>gali</em>
-* `EMPTY` (58): <em>mhaj, gaːl, mhall, alif, asarama, gaːt, mhali, gali, awwal, faɖig</em>
+* `EMPTY` (57): <em>mhaj, gaːl, mhall, alif, asarama, gaːt, mhali, gali, awwal, faɖig</em>
 
 ### `X`
 
@@ -151,14 +151,14 @@ The most frequent other feature values with which `X` and `Number` co-occurred: 
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>VERB --[<tt><a href="bej_autogramm-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (176; 61%),
-<tt>VERB --[<tt><a href="bej_autogramm-dep-dep-conj.html">dep:conj</a></tt>]--> VERB</tt> (136; 68%),
-<tt>VERB --[<tt><a href="bej_autogramm-dep-obj.html">obj</a></tt>]--> PRON</tt> (101; 56%),
+<tt>VERB --[<tt><a href="bej_autogramm-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (191; 61%),
+<tt>VERB --[<tt><a href="bej_autogramm-dep-dep-conj.html">dep:conj</a></tt>]--> VERB</tt> (139; 69%),
+<tt>VERB --[<tt><a href="bej_autogramm-dep-obj.html">obj</a></tt>]--> PRON</tt> (101; 57%),
 <tt>VERB --[<tt><a href="bej_autogramm-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (46; 57%),
 <tt>VERB --[<tt><a href="bej_autogramm-dep-iobj.html">iobj</a></tt>]--> PRON</tt> (38; 53%),
 <tt>VERB --[<tt><a href="bej_autogramm-dep-dislocated-subj.html">dislocated:subj</a></tt>]--> PRON</tt> (11; 85%),
 <tt>AUX --[<tt><a href="bej_autogramm-dep-compound-svc.html">compound:svc</a></tt>]--> VERB</tt> (7; 100%),
 <tt>PRON --[<tt><a href="bej_autogramm-dep-discourse.html">discourse</a></tt>]--> DET</tt> (7; 100%),
-<tt>NOUN --[<tt><a href="bej_autogramm-dep-reparandum.html">reparandum</a></tt>]--> NOUN</tt> (3; 60%),
+<tt>VERB --[<tt><a href="bej_autogramm-dep-dep-redup.html">dep:redup</a></tt>]--> VERB</tt> (4; 100%),
 <tt>VERB --[<tt><a href="bej_autogramm-dep-dep-conj.html">dep:conj</a></tt>]--> AUX</tt> (3; 100%).
 

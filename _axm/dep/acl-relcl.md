@@ -75,4 +75,4 @@ In Middle Armenian, however, the relative pronoun _որ_/_or_ frequently occurs 
 9	ըռիաւլան	ըռիաւլան	NOUN	_	Case=Nom|Definite=Ind|Number=Sing	7	xcomp	_	SpaceAfter=No|Translit=ëṙiawlan|LTranslit=ëṙiawlan
 
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:27 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:10 CET -->

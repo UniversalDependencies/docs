@@ -10,7 +10,7 @@ This feature is universal but the values `Dim` are language-specific.
 It occurs with 2 different values: `Cmp`, `Dim`.
 
 4 tokens (0%) have a non-empty value of `Degree`.
-4 types (1%) occur at least once with a non-empty value of `Degree`.
+4 types (0%) occur at least once with a non-empty value of `Degree`.
 4 lemmas (1%) occur at least once with a non-empty value of `Degree`.
 The feature is used with 2 part-of-speech tags: <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (2; 0% instances).
 
@@ -23,7 +23,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 `ADJ` tokens may have the following values of `Degree`:
 
 * `Cmp` (2; 100% of non-empty `Degree`): <em>lääʹđesmiõllsab, šuurab</em>
-* `EMPTY` (38): <em>nåkkam, kuälmad, jõnn, nuuʹbb, šiõǥǥ, nuʹbb, tiõrvâs, ekksaž, jåʹttel, kaađâš</em>
+* `EMPTY` (41): <em>nåkkam, kuälmad, jõnn, nuuʹbb, šiõǥǥ, nuʹbb, tiõrvâs, 28., Jeeʹres, ekksaž</em>
 
 ### `NOUN`
 
@@ -34,5 +34,5 @@ The most frequent other feature values with which `NOUN` and `Degree` co-occurre
 `NOUN` tokens may have the following values of `Degree`:
 
 * `Dim` (2; 100% of non-empty `Degree`): <em>vuõddjez, äʹrbbaaušu</em>
-* `EMPTY` (420): <em>ooumaž, tueʹllj, mieʹccest, heävaš, nijdd, stäʹlmmstääll, vuâra, ääkka, eččad, niõđ</em>
+* `EMPTY` (447): <em>ooumaž, tueʹllj, mieʹccest, heävaš, nijdd, stäʹlmmstääll, vuâra, ääkka, eččad, niõđ</em>
 

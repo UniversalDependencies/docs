@@ -12,7 +12,7 @@ It occurs with 2 different values: `Fem`, `Masc`.
 185891 tokens (53%) have a non-empty value of `Gender`.
 15289 types (80%) occur at least once with a non-empty value of `Gender`.
 12477 lemmas (80%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 14 part-of-speech tags: <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (77241; 22% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (37639; 11% instances), <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> (26218; 7% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (23926; 7% instances), <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (11065; 3% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (4376; 1% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (3516; 1% instances), <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> (1387; 0% instances), <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (464; 0% instances), <tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (35; 0% instances), <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> (16; 0% instances), <tt><a href="hi_hdtb-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="hi_hdtb-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The feature is used with 14 part-of-speech tags: <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (77241; 22% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (37639; 11% instances), <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> (26218; 7% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (23926; 7% instances), <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (11065; 3% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (4385; 1% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (3516; 1% instances), <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> (1387; 0% instances), <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (455; 0% instances), <tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (35; 0% instances), <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> (16; 0% instances), <tt><a href="hi_hdtb-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="hi_hdtb-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -214,15 +214,15 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 
 ### `ADJ`
 
-4376 <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> tokens (20% of all `ADJ` tokens) have a non-empty value of `Gender`.
+4385 <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> tokens (20% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3430; 78%), <tt><a href="hi_hdtb-feat-Case.html">Case</a></tt><tt>=Acc</tt> (2378; 54%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3436; 78%), <tt><a href="hi_hdtb-feat-Case.html">Case</a></tt><tt>=Acc</tt> (2380; 54%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
-* `Fem` (1419; 32% of non-empty `Gender`): वाली, पूरी, नई, पहली, बड़ी, दूसरी, अच्छी, कड़ी, लंबी, पुरानी
-* `Masc` (2957; 68% of non-empty `Gender`): वाले, पिछले, पूरा, अगले, नए, पूरे, दूसरे, बड़े, वाला, बड़ा
-* `EMPTY` (17269): शामिल, अन्य, जारी, पूर्व, भारतीय, तैयार, स्थित, वरिष्ठ, पेश, दर्ज
+* `Fem` (1422; 32% of non-empty `Gender`): वाली, पूरी, नई, पहली, बड़ी, दूसरी, अच्छी, कड़ी, लंबी, पुरानी
+* `Masc` (2963; 68% of non-empty `Gender`): वाले, पिछले, पूरा, अगले, नए, पूरे, दूसरे, बड़े, वाला, बड़ा
+* `EMPTY` (17270): शामिल, अन्य, जारी, पूर्व, भारतीय, तैयार, स्थित, वरिष्ठ, पेश, दर्ज
 
 <table>
   <tr><th>Paradigm <i>वाला</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -247,7 +247,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 3516 <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> tokens (24% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="hi_hdtb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3505; 100%), <tt><a href="hi_hdtb-feat-Polite.html">Polite</a></tt><tt>=EMPTY</tt> (2826; 80%), <tt><a href="hi_hdtb-feat-Case.html">Case</a></tt><tt>=Acc,Gen</tt> (2038; 58%), <tt><a href="hi_hdtb-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (2038; 58%), <tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2026; 58%), <tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt> (2010; 57%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="hi_hdtb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3506; 100%), <tt><a href="hi_hdtb-feat-Polite.html">Polite</a></tt><tt>=EMPTY</tt> (2826; 80%), <tt><a href="hi_hdtb-feat-Case.html">Case</a></tt><tt>=Acc,Gen</tt> (2038; 58%), <tt><a href="hi_hdtb-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (2038; 58%), <tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2026; 58%), <tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt> (2010; 57%).
 
 `PRON` tokens may have the following values of `Gender`:
 
@@ -296,15 +296,15 @@ The most frequent other feature values with which `ADV` and `Gender` co-occurred
 
 ### `DET`
 
-464 <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> tokens (6% of all `DET` tokens) have a non-empty value of `Gender`.
+455 <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> tokens (6% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (364; 78%), <tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (295; 64%), <tt><a href="hi_hdtb-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (270; 58%), <tt><a href="hi_hdtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (252; 54%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (355; 78%), <tt><a href="hi_hdtb-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (318; 70%), <tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (289; 64%), <tt><a href="hi_hdtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (248; 55%).
 
 `DET` tokens may have the following values of `Gender`:
 
-* `Fem` (148; 32% of non-empty `Gender`): ऐसी, सारी, इतनी, थोड़ी, कितनी, उतनी, आधी, इसी, उसी, जितनी
-* `Masc` (316; 68% of non-empty `Gender`): ऐसे, ऐसा, आधा, इतना, इतने, सारे, सारा, आधे, कितने, इस
-* `EMPTY` (7061): इस, यह, इन, कुछ, कई, सभी, कम, ज्यादा, काफी, उस
+* `Fem` (145; 32% of non-empty `Gender`): ऐसी, सारी, इतनी, थोड़ी, कितनी, उतनी, आधी, इसी, उसी, जितनी
+* `Masc` (310; 68% of non-empty `Gender`): ऐसे, ऐसा, आधा, इतना, इतने, सारे, सारा, आधे, कितने, इस
+* `EMPTY` (7060): इस, यह, इन, कुछ, कई, सभी, कम, ज्यादा, काफी, उस
 
 <table>
   <tr><th>Paradigm <i>यह</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -380,14 +380,14 @@ The most frequent other feature values with which `X` and `Gender` co-occurred: 
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>PROPN --[<tt><a href="hi_hdtb-dep-compound.html">compound</a></tt>]--> PROPN</tt> (8069; 54%),
-<tt>NOUN --[<tt><a href="hi_hdtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (6841; 51%),
-<tt>VERB --[<tt><a href="hi_hdtb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (5125; 61%),
-<tt>VERB --[<tt><a href="hi_hdtb-dep-compound.html">compound</a></tt>]--> NOUN</tt> (5012; 59%),
-<tt>NOUN --[<tt><a href="hi_hdtb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (4558; 55%),
+<tt>PROPN --[<tt><a href="hi_hdtb-dep-compound.html">compound</a></tt>]--> PROPN</tt> (8068; 54%),
+<tt>NOUN --[<tt><a href="hi_hdtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (6845; 51%),
+<tt>VERB --[<tt><a href="hi_hdtb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (5089; 61%),
+<tt>VERB --[<tt><a href="hi_hdtb-dep-compound.html">compound</a></tt>]--> NOUN</tt> (5015; 59%),
+<tt>NOUN --[<tt><a href="hi_hdtb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (4559; 55%),
 <tt>NOUN --[<tt><a href="hi_hdtb-dep-compound.html">compound</a></tt>]--> NOUN</tt> (3607; 52%),
-<tt>VERB --[<tt><a href="hi_hdtb-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (2920; 53%),
-<tt>NOUN --[<tt><a href="hi_hdtb-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (2707; 78%),
-<tt>PROPN --[<tt><a href="hi_hdtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1621; 59%),
-<tt>PROPN --[<tt><a href="hi_hdtb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (1614; 69%).
+<tt>VERB --[<tt><a href="hi_hdtb-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (2911; 53%),
+<tt>NOUN --[<tt><a href="hi_hdtb-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (2709; 78%),
+<tt>PROPN --[<tt><a href="hi_hdtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1622; 59%),
+<tt>PROPN --[<tt><a href="hi_hdtb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (1615; 69%).
 

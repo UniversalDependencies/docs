@@ -62,7 +62,7 @@ The 10 most frequent ambiguous types:  <em>on</em> (<tt><a href="sl_sst-pos-PRON
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.026374 (the average of all parts of speech is 1.751794).
+The form / lemma ratio of `X` is 1.026374 (the average of all parts of speech is 1.752917).
 
 The 1st highest number of forms (14) was observed with the lemma “_”: <em>ci, dej, di, je, ka, ki, kompliciraš, leti, pa, smo, ste, sto, vedno, če</em>.
 

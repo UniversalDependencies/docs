@@ -23,25 +23,25 @@ The following 1 pairs of parts of speech are connected with `flat:foreign`: <tt>
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 10 flat:foreign	color:blue
-1	אַ	אַ	DET	_	_	3	det	_	Translit=a|Translit_Lemma=a
-2	סך	סך	PART	_	_	1	fixed	_	Translit=sakh|Translit_Lemma=sakh
-3	ייִדן	ייִד	NOUN	_	_	4	nsubj	_	Translit=yidn|Translit_Lemma=yid
-4	האַלטן	האַלטן	VERB	_	_	0	root	_	Translit=haltn|Translit_Lemma=haltn
-5	די	דער	DET	_	_	6	det	_	Translit=di|Translit_Lemma=der
-6	פֿראַזע	פֿראַזע	NOUN	_	_	4	obj	_	Translit=fraze|Translit_Lemma=fraze
-7	„	„	PUNCT	_	_	8	punct	_	SpaceAfter=No|Translit=„|Translit_Lemma=„
-8	לא	לא	X	_	_	6	appos	_	Translit=loy|Translit_Lemma=loy
-9	בשמים	בשם	X	_	_	8	flat:foreign	_	Translit=beshomem|Translit_Lemma=besham
-10	הוא	הוא	X	_	_	8	flat:foreign	_	SpaceAfter=No|Translit=hu|Translit_Lemma=hu
-11	״	״	PUNCT	_	_	14	punct	_	Translit=״|Translit_Lemma=״
-12	פֿאַר	פֿאַר	ADP	_	_	14	case	_	Translit=far|Translit_Lemma=far
-13	אַן	אַ	DET	_	_	14	det	_	Translit=an|Translit_Lemma=a
-14	אויסדריקן	אויסדריקן	NOUN	_	_	4	obl	_	Translit=oysdrikn|Translit_Lemma=oysdrikn
-15	פֿון	פֿון	ADP	_	_	18	case	_	Translit=fun|Translit_Lemma=fun
-16	אַ	אַ	DET	_	_	18	det	_	Translit=a|Translit_Lemma=a
-17	טעיִסטישן	טעיִסטיש	ADJ	_	_	18	amod	_	Translit=teistishn|Translit_Lemma=teistish
-18	הומאַניזם	הומאַניזם	NOUN	_	_	14	nmod	_	SpaceAfter=No|Translit=humanizm|Translit_Lemma=humanizm
-19	.	.	PUNCT	_	_	4	punct	_	Translit=.|Translit_Lemma=.
+1	אַ	אַ	DET	_	_	3	det	_	Translit=a|LTranslit=a
+2	סך	סך	PART	_	_	1	fixed	_	Translit=sakh|LTranslit=sakh
+3	ייִדן	ייִד	NOUN	_	_	4	nsubj	_	Translit=yidn|LTranslit=yid
+4	האַלטן	האַלטן	VERB	_	_	0	root	_	Translit=haltn|LTranslit=haltn
+5	די	דער	DET	_	_	6	det	_	Translit=di|LTranslit=der
+6	פֿראַזע	פֿראַזע	NOUN	_	_	4	obj	_	Translit=fraze|LTranslit=fraze
+7	„	„	PUNCT	_	_	8	punct	_	SpaceAfter=No|Translit=„|LTranslit=„
+8	לא	לא	X	_	_	6	appos	_	Translit=loy|LTranslit=loy
+9	בשמים	בשם	X	_	_	8	flat:foreign	_	Translit=beshomem|LTranslit=besham
+10	הוא	הוא	X	_	_	8	flat:foreign	_	SpaceAfter=No|Translit=hu|LTranslit=hu
+11	״	״	PUNCT	_	_	14	punct	_	Translit=״|LTranslit=״
+12	פֿאַר	פֿאַר	ADP	_	_	14	case	_	Translit=far|LTranslit=far
+13	אַן	אַ	DET	_	_	14	det	_	Translit=an|LTranslit=a
+14	אויסדריקן	אויסדריקן	NOUN	_	_	4	obl	_	Translit=oysdrikn|LTranslit=oysdrikn
+15	פֿון	פֿון	ADP	_	_	18	case	_	Translit=fun|LTranslit=fun
+16	אַ	אַ	DET	_	_	18	det	_	Translit=a|LTranslit=a
+17	טעיִסטישן	טעיִסטיש	ADJ	_	_	18	amod	_	Translit=teistishn|LTranslit=teistish
+18	הומאַניזם	הומאַניזם	NOUN	_	_	14	nmod	_	SpaceAfter=No|Translit=humanizm|LTranslit=humanizm
+19	.	.	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

@@ -9,12 +9,30 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="myv_jr-dep-aux.html">aux</a></tt>.
 There are also 3 other language-specific subtypes of `aux`: <tt><a href="myv_jr-dep-aux-aspect.html">aux:aspect</a></tt>, <tt><a href="myv_jr-dep-aux-imp.html">aux:imp</a></tt>, <tt><a href="myv_jr-dep-aux-opt.html">aux:opt</a></tt>.
 
-167 nodes (1%) are attached to their parents as `aux:neg`.
+505 nodes (2%) are attached to their parents as `aux:neg`.
 
-165 instances of `aux:neg` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.13173652694611.
+498 instances of `aux:neg` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.07326732673267.
 
-The following 8 pairs of parts of speech are connected with `aux:neg`: <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (61; 37% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (33; 20% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (25; 15% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (21; 13% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (21; 13% instances), <tt><a href="myv_jr-pos-NUM.html">NUM</a></tt>-<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (4; 2% instances), <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt>-<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt>-<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (1; 1% instances).
+The following 9 pairs of parts of speech are connected with `aux:neg`: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (351; 70% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (61; 12% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (35; 7% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (27; 5% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (22; 4% instances), <tt><a href="myv_jr-pos-NUM.html">NUM</a></tt>-<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (4; 1% instances), <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt>-<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt>-<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt>-<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 aux:neg	color:blue
+1	Велень	веле	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	2	nmod:poss	_	GTtags=Sem/Plc,SP,Gen,Indef
+2	росась	роса	NOUN	N	Case=Nom|Definite=Def|Number=Sing	4	nsubj	_	GTtags=Sg,Nom,Def
+3	эзь	а	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Polarity=Neg|Tense=Past|VerbForm=Fin|VerbType=Aux	4	aux:neg	_	_
+4	костявт	костявомс	VERB	V	Connegative=Yes	0	root	_	GTtags=IV,Ind,ConNeg
+5	валске	валске	NOUN	N	AdvType=Tim|Case=Nom|Definite=Ind|Number=Sing	6	compound	_	GTtags=Temp,Sg,Nom,Indef
+6	мартонь	марто	NOUN	N	Case=Gen|Definite=Ind|NounType=Relat|Number=Plur,Sing	7	nmod	_	GTtags=Der/MWN,N,SP,Gen,Indef
+7	чипайсэнть	чипай	NOUN	N	Case=Ine|Definite=Def|Number=Sing	4	obl	_	GTtags=Sg,Ine,Def|SpaceAfter=No
+8	.	.	PUNCT	CLB	_	4	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -44,28 +62,6 @@ The following 8 pairs of parts of speech are connected with `aux:neg`: <tt><a hr
 2	А	а	AUX	Pcle	Polarity=Neg	3	aux:neg	_	GTtags=Neg
 3	кирдевимашка	кирдевемашка	NOUN	N	Case=Nom|Definite=Ind|Number=Plur,Sing	0	root	_	GTtags=SP,Cmpr,Indef|SpaceAfter=No
 4	...	...	PUNCT	CLB	_	3	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 9 aux:neg	color:blue
-1	―	―	PUNCT	PUNCT	_	3	punct	_	_
-2	Ох	ох	INTJ	Interj	_	3	discourse	_	_
-3	кулан	куломс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres|VerbForm=Fin	0	root	_	GTtags=IV,Ind,Prs,ScSg1|SpaceAfter=No
-4	!	!	PUNCT	CLB	_	3	punct	_	_
-5	―	―	PUNCT	PUNCT	_	7	punct	_	_
-6	таго	таго	ADV	Adv	AdvType=Tim	7	advmod	_	GTtags=Temp
-7	сергедсь	серьгедемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	3	parataxis	_	GTtags=TV,Ind,Prt1,ScSg3
-8	Люба	Люба	PROPN	N	Animacy=Hum|Case=Nom|Definite=Ind|Gender=Fem|NameType=Giv|Number=Sing	7	nsubj	_	GTtags=Prop,Ant_Fem,Sg,Nom,Indef
-9	а	а	AUX	Pcle	Polarity=Neg	10	aux:neg	_	GTtags=Neg
-10	паро	паро	ADJ	A	_	11	amod	_	_
-11	вайгельсэ	вайгель	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	7	obl	_	GTtags=SP,Ine,Indef|SpaceAfter=No
-12	.	.	PUNCT	CLB	_	3	punct	_	_
 
 ~~~
 

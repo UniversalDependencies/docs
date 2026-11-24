@@ -11,9 +11,9 @@ This relation is universal.
 159 nodes (0%) are attached to their parents as `vocative`.
 
 107 instances of `vocative` (67%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.55345911949686.
+Average distance between parent and child is 2.54088050314465.
 
-The following 18 pairs of parts of speech are connected with `vocative`: <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (56; 35% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (49; 31% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (24; 15% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (5; 3% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt>-<tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (4; 3% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (3; 2% instances), <tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt>-<tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt>-<tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt>-<tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="fi_ftb-pos-PART.html">PART</a></tt>-<tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="fi_ftb-pos-PART.html">PART</a></tt>-<tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt>-<tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="fi_ftb-pos-X.html">X</a></tt>-<tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="fi_ftb-pos-X.html">X</a></tt>-<tt><a href="fi_ftb-pos-X.html">X</a></tt> (1; 1% instances).
+The following 18 pairs of parts of speech are connected with `vocative`: <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (55; 35% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (48; 30% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (24; 15% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (5; 3% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt>-<tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (5; 3% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (3; 2% instances), <tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt>-<tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt>-<tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt>-<tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt>-<tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="fi_ftb-pos-PART.html">PART</a></tt>-<tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="fi_ftb-pos-PART.html">PART</a></tt>-<tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="fi_ftb-pos-X.html">X</a></tt>-<tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="fi_ftb-pos-X.html">X</a></tt>-<tt><a href="fi_ftb-pos-X.html">X</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -26,9 +26,9 @@ The following 18 pairs of parts of speech are connected with `vocative`: <tt><a 
 2	mä	minä	PRON	Pron,Pers,Sg1,Nom	Case=Nom|Number=Sing|Person=1|PronType=Prs|Style=Coll	1	nsubj	_	_
 3	koiran	koira	NOUN	N,Sg,Gen	Case=Gen|Number=Sing	1	obj	_	_
 4	äiti	äiti	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	1	vocative	_	_
-5	,	,	PUNCT	Pun	_	4	punct	_	_
+5	,	,	PUNCT	Pun	_	6	punct	_	_
 6	saanhan	saada	VERB	V,Act,Ind,Pres,Sg1,Han	Clitic=Han|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
-7	?	?	PUNCT	Pun	_	6	punct	_	_
+7	?	?	PUNCT	Pun	_	1	punct	_	_
 
 ~~~
 
@@ -47,7 +47,7 @@ The following 18 pairs of parts of speech are connected with `vocative`: <tt><a 
 6	laitetaan	laittaa	VERB	V,Pass,Ind,Pres	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	4	conj	_	_
 7	tää	tämä	PRON	Pron,Dem,Sg,Nom	Case=Nom|Number=Sing|PronType=Dem|Style=Coll	6	obj	_	_
 8	kuntoon	kunto	NOUN	N,Sg,Ill	Case=Ill|Number=Sing	6	obl	_	_
-9	.	.	PUNCT	Pun	_	8	punct	_	_
+9	.	.	PUNCT	Pun	_	4	punct	_	_
 
 ~~~
 
@@ -65,7 +65,7 @@ The following 18 pairs of parts of speech are connected with `vocative`: <tt><a 
 5	minä	minä	PRON	Pron,Pers,Sg1,Nom	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
 6	otan	ottaa	VERB	V,Act,Ind,Pres,Sg1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
 7	tämän	tämä	PRON	Pron,Dem,Sg,Gen	Case=Gen|Number=Sing|PronType=Dem	6	obj	_	_
-8	.	.	PUNCT	Pun	_	7	punct	_	_
+8	.	.	PUNCT	Pun	_	1	punct	_	_
 
 ~~~
 

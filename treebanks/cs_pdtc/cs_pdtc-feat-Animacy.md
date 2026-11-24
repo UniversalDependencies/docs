@@ -48,7 +48,7 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
 
 151657 <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt> tokens (42% of all `ADJ` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `ADJ` and `Animacy` co-occurred: <tt><a href="cs_pdtc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (147913; 98%), <tt><a href="cs_pdtc-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (142757; 94%), <tt><a href="cs_pdtc-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (134616; 89%), <tt><a href="cs_pdtc-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (129172; 85%), <tt><a href="cs_pdtc-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (129172; 85%), <tt><a href="cs_pdtc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (87811; 58%).
+The most frequent other feature values with which `ADJ` and `Animacy` co-occurred: <tt><a href="cs_pdtc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (147913; 98%), <tt><a href="cs_pdtc-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (142757; 94%), <tt><a href="cs_pdtc-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (134616; 89%), <tt><a href="cs_pdtc-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (130985; 86%), <tt><a href="cs_pdtc-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (129172; 85%), <tt><a href="cs_pdtc-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (129172; 85%), <tt><a href="cs_pdtc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (87811; 58%).
 
 `ADJ` tokens may have the following values of `Animacy`:
 

@@ -26,11 +26,11 @@ The following 1 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	3:cop	_
 3	here	here	ADV	RB	PronType=Dem	0	root	0:root	_
 4	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	5:nsubj	_
-5	stole	steal	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	advcl:relcl	3:advcl:relcl	_
+5	stole	steal	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	advcl:relcl	3:advcl:relcl	_
 6	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	8:det	_
 7	small	small	ADJ	JJ	Degree=Pos	8	amod	8:amod	_
 8	canoe	canoe	NOUN	NN	Number=Sing	5	obj	5:obj	_
-9	left	leave	VERB	VBN	Tense=Past|VerbForm=Part	8	acl	8:acl	_
+9	left	leave	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	8	acl	8:acl	_
 10	by	by	ADP	IN	_	13	case	13:case	_
 11	the	the	DET	DT	Definite=Def|PronType=Art	13	det	13:det	_
 12	Australian	Australian	ADJ	JJ	Degree=Pos	13	amod	13:amod	Proper=True

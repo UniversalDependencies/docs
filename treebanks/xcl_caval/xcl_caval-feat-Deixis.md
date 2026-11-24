@@ -9,22 +9,22 @@ udver: '2'
 This feature is language-specific.
 It occurs with 3 different values: `Med`, `Prox`, `Remt`.
 
-10220 tokens (10%) have a non-empty value of `Deixis`.
+10221 tokens (10%) have a non-empty value of `Deixis`.
 141 types (2%) occur at least once with a non-empty value of `Deixis`.
 39 lemmas (1%) occur at least once with a non-empty value of `Deixis`.
-The feature is used with 5 part-of-speech tags: <tt><a href="xcl_caval-pos-DET.html">DET</a></tt> (5378; 5% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (4205; 4% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (452; 0% instances), <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> (124; 0% instances), <tt><a href="xcl_caval-pos-INTJ.html">INTJ</a></tt> (61; 0% instances).
+The feature is used with 5 part-of-speech tags: <tt><a href="xcl_caval-pos-DET.html">DET</a></tt> (5379; 5% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (4205; 4% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (452; 0% instances), <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> (124; 0% instances), <tt><a href="xcl_caval-pos-INTJ.html">INTJ</a></tt> (61; 0% instances).
 
 ### `DET`
 
-5378 <tt><a href="xcl_caval-pos-DET.html">DET</a></tt> tokens (76% of all `DET` tokens) have a non-empty value of `Deixis`.
+5379 <tt><a href="xcl_caval-pos-DET.html">DET</a></tt> tokens (76% of all `DET` tokens) have a non-empty value of `Deixis`.
 
-The most frequent other feature values with which `DET` and `Deixis` co-occurred: <tt><a href="xcl_caval-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4839; 90%), <tt><a href="xcl_caval-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (4839; 90%), <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4839; 90%), <tt><a href="xcl_caval-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (4839; 90%).
+The most frequent other feature values with which `DET` and `Deixis` co-occurred: <tt><a href="xcl_caval-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4840; 90%), <tt><a href="xcl_caval-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (4840; 90%), <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4840; 90%), <tt><a href="xcl_caval-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (4840; 90%).
 
 `DET` tokens may have the following values of `Deixis`:
 
 * `Med` (238; 4% of non-empty `Deixis`): <em>դ, այդ, այդմանէ, այդորիկ, այդր, այդմ, այդմիկ, դմին, դորա, դորին</em>
 * `Prox` (615; 11% of non-empty `Deixis`): <em>ս, այս, այսմ, այսմիկ, այսպիսի, այսորիկ, այսոսիկ, սորա, այսպիսւոյ, այսցանէ</em>
-* `Remt` (4525; 84% of non-empty `Deixis`): <em>ն, այն, նոյն, այնմիկ, այնմ, այնոսիկ, այնորիկ, նմին, այնոցիկ, այսպիսի</em>
+* `Remt` (4526; 84% of non-empty `Deixis`): <em>ն, այն, նոյն, այնմիկ, այնմ, այնոսիկ, այնորիկ, նմին, այնոցիկ, այսպիսի</em>
 
 `Deixis` seems to be **lexical feature** of `DET`. 100% lemmas (12) occur only with one value of `Deixis`.
 

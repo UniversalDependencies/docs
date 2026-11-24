@@ -64,7 +64,7 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 `ADJ` tokens may have the following values of `VerbForm`:
 
 * `Part` (44; 100% of non-empty `VerbForm`): <em>beroende, jämfört, tvungen, övertygad, anpassat, baserade, begagnade, begränsad, beröende, berömda</em>
-* `EMPTY` (833): <em>olika, många, bra, andra, nya, viktigt, bättre, första, själv, stor</em>
+* `EMPTY` (832): <em>olika, många, bra, andra, nya, viktigt, bättre, första, själv, stor</em>
 
 `VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (37) occur only with one value of `VerbForm`.
 

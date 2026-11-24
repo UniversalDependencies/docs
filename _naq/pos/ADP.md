@@ -21,4 +21,4 @@ Some postpositions in Khoekhoe take the form of fixed multiword expressions, e.g
 * _ǃoagu_ "opposite"
 
 * _rondom_ "around" (preposition borrowed from Afrikaans)
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:33 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:25 CET -->

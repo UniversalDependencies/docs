@@ -8,31 +8,34 @@ udver: '2'
 
 This relation is universal.
 
-53 nodes (1%) are attached to their parents as `ccomp`.
+47 nodes (1%) are attached to their parents as `ccomp`.
 
-53 instances of `ccomp` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.30188679245283.
+47 instances of `ccomp` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.63829787234043.
 
-The following 6 pairs of parts of speech are connected with `ccomp`: <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-VERB.html">VERB</a></tt> (39; 74% instances), <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-NOUN.html">NOUN</a></tt> (5; 9% instances), <tt><a href="lij_glt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lij_glt-pos-VERB.html">VERB</a></tt> (3; 6% instances), <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-ADJ.html">ADJ</a></tt> (3; 6% instances), <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-ADV.html">ADV</a></tt> (2; 4% instances), <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-PRON.html">PRON</a></tt> (1; 2% instances).
+The following 6 pairs of parts of speech are connected with `ccomp`: <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-VERB.html">VERB</a></tt> (33; 70% instances), <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-NOUN.html">NOUN</a></tt> (5; 11% instances), <tt><a href="lij_glt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lij_glt-pos-VERB.html">VERB</a></tt> (3; 6% instances), <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-ADJ.html">ADJ</a></tt> (3; 6% instances), <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-ADV.html">ADV</a></tt> (2; 4% instances), <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-PRON.html">PRON</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 8 10 ccomp	color:blue
-1	Ma	ma	CCONJ	_	_	8	cc	_	_
-2	à	à	ADP	_	_	4	case	_	_
-3	quello	quello	DET	_	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
-4	ponto	ponto	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	_
-5	lì	lì	ADV	_	_	4	advmod	_	SpaceAfter=No
+# visual-style 8 11 ccomp	color:blue
+1	Î	ô	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	obj	_	_
+2	ò	avei	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	ciantæ	ciantâ	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+4	in	in	ADP	_	ExtPos=ADV	3	advmod	_	_
+5	gio	gio	NOUN	_	Gender=Masc|Number=Sing	4	fixed	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	8	punct	_	_
-7	cöse	cöse	PRON	_	PronType=Int	8	obl	_	_
-8	serve	servî	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-9	ciù	ciù	ADV	_	_	8	advmod	_	_
-10	cianze	cianze	VERB	_	Tense=Pres|VerbForm=Inf	8	ccomp	_	SpaceAfter=No
-11	?	?	PUNCT	_	_	8	punct	_	_
+7	oua	oua	ADV	_	_	8	advmod	_	_
+8	beseugna	besugnâ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+9	che	che	SCONJ	_	_	11	mark	_	_
+10	me	me	PRON	_	Number=Sing|Person=1|PronType=Prs	11	expl:pv	_	_
+11	pöse	pösâ	VERB	_	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	ccomp	_	_
+12	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	pittin	pittin	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 
@@ -71,7 +74,7 @@ The following 6 pairs of parts of speech are connected with `ccomp`: <tt><a href
 2	ê	ëse	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	ancon	ancon	ADV	_	_	4	advmod	_	_
 4	lesto	lesto	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
-5	de	de	ADP	_	_	6	case	_	_
+5	de	de	ADP	_	_	6	mark	_	_
 6	frigognâ	frigognâ	VERB	_	Tense=Pres|VerbForm=Inf	4	ccomp	_	_
 7	lì	lì	ADV	_	_	6	advmod	_	_
 8	inte	inte	ADP	_	_	10	case	_	_

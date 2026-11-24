@@ -9,24 +9,23 @@ udver: '2'
 This feature is language-specific.
 It occurs with 4 different values: `ADP`, `ADV`, `CCONJ`, `SCONJ`.
 
-61 tokens (1%) have a non-empty value of `ExtPos`.
+57 tokens (1%) have a non-empty value of `ExtPos`.
 22 types (1%) occur at least once with a non-empty value of `ExtPos`.
 16 lemmas (2%) occur at least once with a non-empty value of `ExtPos`.
-The feature is used with 7 part-of-speech tags: <tt><a href="es_coser-pos-ADP.html">ADP</a></tt> (30; 0% instances), <tt><a href="es_coser-pos-ADV.html">ADV</a></tt> (13; 0% instances), <tt><a href="es_coser-pos-DET.html">DET</a></tt> (8; 0% instances), <tt><a href="es_coser-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="es_coser-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="es_coser-pos-ADP.html">ADP</a></tt> (26; 0% instances), <tt><a href="es_coser-pos-ADV.html">ADV</a></tt> (13; 0% instances), <tt><a href="es_coser-pos-DET.html">DET</a></tt> (8; 0% instances), <tt><a href="es_coser-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="es_coser-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 ### `ADP`
 
-30 <tt><a href="es_coser-pos-ADP.html">ADP</a></tt> tokens (5% of all `ADP` tokens) have a non-empty value of `ExtPos`.
+26 <tt><a href="es_coser-pos-ADP.html">ADP</a></tt> tokens (4% of all `ADP` tokens) have a non-empty value of `ExtPos`.
 
 `ADP` tokens may have the following values of `ExtPos`:
 
-* `ADP` (1; 3% of non-empty `ExtPos`): <em>a</em>
-* `ADV` (26; 87% of non-empty `ExtPos`): <em>a, por, de, en</em>
-* `SCONJ` (3; 10% of non-empty `ExtPos`): <em>de, en</em>
+* `ADP` (1; 4% of non-empty `ExtPos`): <em>a</em>
+* `ADV` (25; 96% of non-empty `ExtPos`): <em>a, por, de, en</em>
 
 <table>
-  <tr><th>Paradigm <i>de</i></th><th><tt>ADV</tt></th><th><tt>SCONJ</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>de</em></td><td><em>de</em></td></tr>
+  <tr><th>Paradigm <i>a</i></th><th><tt>ADP</tt></th><th><tt>ADV</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>a</em></td><td><em>a</em></td></tr>
 </table>
 
 ### `ADV`

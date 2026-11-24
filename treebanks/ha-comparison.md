@@ -2495,7 +2495,7 @@ udver: '2'
           <ul>
             <li>ADP
               <ul>
-                <li>ADP: à, dàgà</li>
+                <li>ADP: à, dàgà, gab</li>
                 <li>ADV: duk</li>
                 <li>NOUN: danganèː</li>
               </ul>

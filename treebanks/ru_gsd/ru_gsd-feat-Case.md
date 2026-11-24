@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 8 different values: `Acc`, `Dat`, `Gen`, `Ins`, `Loc`, `Nom`, `Par`, `Voc`.
 
-52548 tokens (54%) have a non-empty value of `Case`.
-26183 types (87%) occur at least once with a non-empty value of `Case`.
-15807 lemmas (84%) occur at least once with a non-empty value of `Case`.
-The feature is used with 9 part-of-speech tags: <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (26755; 27% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (12025; 12% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (6585; 7% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> (2042; 2% instances), <tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt> (2025; 2% instances), <tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> (1918; 2% instances), <tt><a href="ru_gsd-pos-DET.html">DET</a></tt> (1194; 1% instances), <tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+52549 tokens (54%) have a non-empty value of `Case`.
+26184 types (87%) occur at least once with a non-empty value of `Case`.
+15808 lemmas (84%) occur at least once with a non-empty value of `Case`.
+The feature is used with 9 part-of-speech tags: <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (26755; 27% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (12025; 12% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (6586; 7% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> (2042; 2% instances), <tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt> (2025; 2% instances), <tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> (1918; 2% instances), <tt><a href="ru_gsd-pos-DET.html">DET</a></tt> (1194; 1% instances), <tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -42,7 +42,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 12025 <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> tokens (98% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="ru_gsd-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (11950; 99%), <tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9384; 78%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="ru_gsd-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (11890; 99%), <tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9384; 78%).
 
 `ADJ` tokens may have the following values of `Case`:
 
@@ -66,9 +66,9 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 ### `PROPN`
 
-6585 <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Case`.
+6586 <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6382; 97%), <tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (4523; 69%), <tt><a href="ru_gsd-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (3299; 50%).
+The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6383; 97%), <tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (4524; 69%), <tt><a href="ru_gsd-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (3300; 50%).
 
 `PROPN` tokens may have the following values of `Case`:
 
@@ -77,8 +77,8 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 * `Gen` (1967; 30% of non-empty `Case`): <em>России, СССР, Украины, США, Европы, РФ, Александра, Германии, Москвы, Франции</em>
 * `Ins` (311; 5% of non-empty `Case`): <em>Джеймсом, Россией, США, Вильгельмом, Владимиром, Дональдом, Иваном, Италией, Москвой, Навуходоносором</em>
 * `Loc` (655; 10% of non-empty `Case`): <em>России, Москве, Франции, США, Испании, Германии, Японии, Америке, Украине, Азии</em>
-* `Nom` (3054; 46% of non-empty `Case`): <em>Владимир, Франция, США, Александр, Джон, Карл, Михаил, Россия, Сергей, Юрий</em>
-* `EMPTY` (32): <em>НЧ, В., 154М, 22М, 22Р, 25С, 3О, 400Т, 60К, 60Н</em>
+* `Nom` (3055; 46% of non-empty `Case`): <em>Владимир, Франция, США, Александр, Джон, Карл, Михаил, Россия, Сергей, Юрий</em>
+* `EMPTY` (31): <em>НЧ, В., 154М, 22М, 22Р, 25С, 3О, 400Т, 60К, 60Н</em>
 
 <table>
   <tr><th>Paradigm <i>Россия</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
@@ -89,7 +89,7 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 2042 <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> tokens (24% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="ru_gsd-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2042; 100%), <tt><a href="ru_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (2042; 100%), <tt><a href="ru_gsd-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2041; 100%), <tt><a href="ru_gsd-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1645; 81%), <tt><a href="ru_gsd-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (1606; 79%), <tt><a href="ru_gsd-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (1547; 76%), <tt><a href="ru_gsd-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (1463; 72%), <tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1406; 69%), <tt><a href="ru_gsd-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (1098; 54%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="ru_gsd-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2042; 100%), <tt><a href="ru_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (2042; 100%), <tt><a href="ru_gsd-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2041; 100%), <tt><a href="ru_gsd-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1645; 81%), <tt><a href="ru_gsd-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (1606; 79%), <tt><a href="ru_gsd-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (1546; 76%), <tt><a href="ru_gsd-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (1463; 72%), <tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1406; 69%), <tt><a href="ru_gsd-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (1098; 54%).
 
 `VERB` tokens may have the following values of `Case`:
 
@@ -99,7 +99,7 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 * `Ins` (110; 5% of non-empty `Case`): <em>выигравшим, основанной, оставшимися, Подстилающей, адресованными, брошенной, взявшим, возглавившим, вынесенными, голодающими</em>
 * `Loc` (56; 3% of non-empty `Case`): <em>вышедшей, архивируемых, вмещающем, воспроизводившей, вошедших, входящем, готовящейся, дислоцированной, занимаемой, занимаемом</em>
 * `Nom` (1350; 66% of non-empty `Case`): <em>назначен, расположен, основана, основан, награждён, расположена, принято, создана, расположено, назван</em>
-* `EMPTY` (6452): <em>является, стал, составляет, может, находится, входит, получил, можно, родился, имеет</em>
+* `EMPTY` (6453): <em>является, стал, составляет, может, находится, входит, получил, можно, родился, имеет</em>
 
 <table>
   <tr><th>Paradigm <i>находиться</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>

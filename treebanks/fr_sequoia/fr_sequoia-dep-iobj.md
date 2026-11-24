@@ -92,7 +92,7 @@ The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href=
 45	-	-	PUNCT	_	_	16	punct	_	SpaceAfter=No
 46	,	,	PUNCT	_	_	51	punct	_	_
 47	ensuite	ensuite	ADV	_	_	51	advmod	_	_
-48	parce	parce	SCONJ	_	ExtPos=SCONJ	51	mark	_	Idiom=Yes
+48	parce	parce	ADV	_	ExtPos=SCONJ	51	mark	_	Idiom=Yes
 49	qu'	que	SCONJ	_	_	48	fixed	_	InIdiom=Yes|SpaceAfter=No
 50	elle	lui	PRON	_	Case=Nom|Emph=No|Gender=Fem|Number=Sing|Person=3|PronType=Prs	51	nsubj	_	_
 51	va	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_

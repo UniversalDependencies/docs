@@ -223,7 +223,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 11 lemmas tagged as auxiliaries (AUX): أَ, رُبَّمَا, سَ, سَوفَ, عَاد, عَلَّ, قَد, كَان, لَيس, مَا, هَل</li>
+      <li>This corpus contains 8 lemmas tagged as auxiliaries (AUX): رُبَّمَا, سَ, سَوفَ, عَلَّ, قَد, كَان, لَيس, مَا</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -240,7 +240,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>Out of the above, 3 lemmas occurred sometimes as AUX and sometimes as VERB: عَاد, كَان, لَيس</li>
+      <li>Out of the above, 2 lemmas occurred sometimes as AUX and sometimes as VERB: كَان, لَيس</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -274,7 +274,7 @@ udver: '2'
       <ul>
         <li>Fin
         <ul>
-          <li>AUX: يكون, تكون, يكن, تكن, تكونون, كن, أكون, اكون, تعد, نكون</li>
+          <li>AUX: يكون, تكون, يكن, تكن, تكونون, كن, أكون, اكون, نكون, يكونا</li>
           <li>VERB: يتم, يمكن, يكون, تصل, تكون, يجب, يصل, يقول, يذكر, تقوم</li>
         </ul>
         </li>
@@ -366,15 +366,15 @@ udver: '2'
         <li>Fem
           <ul>
             <li>ADJ: المصرية, المتحدة, العربية, جديدة, الدولية, الفلسطينية, خاصة, أخرى, الأمريكية, العامة</li>
-            <li>AUX: تكون, كانت, ليست, تكن, تعد</li>
-            <li>AUX-Fin: تكون, تكن, تعد</li>
+            <li>AUX: تكون, كانت, ليست, تكن</li>
+            <li>AUX-Fin: تكون, تكن</li>
             <li>DET: التي, هذه, التى, تلك, هٰذه, اللتين, اللواتي, ها, اللتان, اللاتى</li>
             <li>NOUN: الحاصلات, البويات, بدايات, عداءة, الآفات, التليفونات, الخضروات, الكابلات, المداهمات, بضعة</li>
             <li>NUM: ثلاث, عشر, الثلاث, خمس, ست, عشرة, اربع, الخمس, الثماني, العشر</li>
             <li>PRON: ها, هي, هما, هن, هى, ك, أعضائها, أهدافها, إليها, بضمانها</li>
             <li>PROPN: العمارة, اللطيفية, الوكرة</li>
             <li>VERB: كانت, قالت, ذكرت, بلغت, تصل, تكون, بدأت, تقوم, أكدت, نقلت</li>
-            <li>VERB-Fin: تصل, تكون, تقوم, تبلغ, تعتبر, تشهد, تضم, تعمل, تتم, تعد</li>
+            <li>VERB-Fin: تصل, تكون, تقوم, تبلغ, تعتبر, تشهد, تضم, تعد, تعمل, تتم</li>
           </ul>
         </li>
       </ul>
@@ -635,7 +635,7 @@ udver: '2'
           <ul>
             <li>ADJ: المصرية, المتحدة, المصري, الماضي, العربية, أي, الحالي, جديدة, الدولية, الفلسطينية</li>
             <li>AUX: كان, يكون, ليس, تكون, كانت, ليست, يكن, تكن, كنت, كن</li>
-            <li>AUX-Fin: يكون, تكون, يكن, تكن, كن, أكون, اكون, تعد</li>
+            <li>AUX-Fin: يكون, تكون, يكن, تكن, كن, أكون, اكون</li>
             <li>DET: التي, الذي, هذه, هذا, ذلك, ذٰلك, التى, هٰذا, تلك, هٰذه</li>
             <li>NOUN: مصر, اليوم, رئيس, دولار, الحكومة, العراق, وزير, كل, الرئيس, غير</li>
             <li>NUM: مليون, مليار, ألف, المئة, بليون, الف, المائة, مليوناً, ملياراً, مليونا</li>
@@ -1180,7 +1180,7 @@ udver: '2'
       <ul>
         <li>Imp
           <ul>
-            <li>AUX-Fin: يكون, تكون, يكن, تكن, تكونون, أكون, اكون, تعد, نكون, يكونا</li>
+            <li>AUX-Fin: يكون, تكون, يكن, تكن, تكونون, أكون, اكون, نكون, يكونا</li>
             <li>VERB-Fin: يتم, يمكن, يكون, تصل, تكون, يجب, يصل, يقول, يذكر, تقوم</li>
           </ul>
         </li>
@@ -1343,7 +1343,7 @@ udver: '2'
       <ul>
         <li>Jus
           <ul>
-            <li>AUX-Fin: يكن, تكن, تعد</li>
+            <li>AUX-Fin: يكن, تكن</li>
             <li>VERB-Fin: يكن, يتم, تكن, يمكن, يصدر, يحدد, يعد, تتجاوز, تعد, يستبعد</li>
           </ul>
         </li>
@@ -1519,7 +1519,7 @@ udver: '2'
         <li>Act
           <ul>
             <li>AUX: كان, يكون, ليس, تكون, كانت, ليست, يكن, تكن, كانوا, كنت</li>
-            <li>AUX-Fin: يكون, تكون, يكن, تكن, تكونون, أكون, اكون, تعد, نكون, يكونا</li>
+            <li>AUX-Fin: يكون, تكون, يكن, تكن, تكونون, أكون, اكون, نكون, يكونا</li>
             <li>VERB: قال, كان, أضاف, كانت, تم, أكد, يتم, يمكن, أشار, أوضح</li>
             <li>VERB-Fin: يتم, يمكن, يكون, تصل, تكون, يجب, يصل, يقول, تقوم, يعني</li>
           </ul>
@@ -1976,8 +1976,8 @@ udver: '2'
       <ul>
         <li>3
           <ul>
-            <li>AUX: كان, يكون, ليس, تكون, كانت, ليست, يكن, تكن, كانوا, تعد</li>
-            <li>AUX-Fin: يكون, تكون, يكن, تكن, تعد, يكونا</li>
+            <li>AUX: كان, يكون, ليس, تكون, كانت, ليست, يكن, تكن, كانوا, ليسوا</li>
+            <li>AUX-Fin: يكون, تكون, يكن, تكن, يكونا</li>
             <li>DET: ه, ها</li>
             <li>PRON: ه, ها, هم, هو, هي, هما, هن, هى, أعضائها, أهدافها</li>
             <li>VERB: قال, كان, أضاف, كانت, تم, أكد, يتم, يمكن, أشار, أوضح</li>
@@ -2327,7 +2327,7 @@ udver: '2'
       <h3>Auxiliary Verbs and Copula</h3>
       
       <ul>
-      <li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: كَان، لَيس.</li>
+      <li>This corpus uses 3 lemmas as copulas (<a>cop</a>). Examples: كَان، هُوَ، لَيس.</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -2348,7 +2348,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus uses 10 lemmas as auxiliaries (<a>aux</a>). Examples: سَ، قَد، سَوفَ، مَا، لَيس، هَل، رُبَّمَا، أَ، عَاد، عَلَّ.</li>
+      <li>This corpus uses 7 lemmas as auxiliaries (<a>aux</a>). Examples: سَ، قَد، سَوفَ، مَا، لَيس، رُبَّمَا، عَلَّ.</li>
       <li>This corpus uses 3 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: سَ، قَد، سَوفَ.</li>
       </ul>
     </td>
@@ -2410,7 +2410,7 @@ udver: '2'
             <li>VERB--PRON-Gen-ADP(وَ) (1)</li>
             <li>VERB--PRON-Nom (18)</li>
             <li>VERB--PRON-Nom-ADP(عَلَى) (1)</li>
-            <li>VERB-Fin--NOUN-Acc (1212)</li>
+            <li>VERB-Fin--NOUN-Acc (1211)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(بِ) (2)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(بِ)-ADP(فِي) (1)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(فِي) (3)</li>

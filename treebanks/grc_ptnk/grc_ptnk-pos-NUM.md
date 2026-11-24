@@ -36,7 +36,7 @@ The 10 most frequent ambiguous types:  <em>μιᾷ</em> (<tt><a href="grc_ptnk-p
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.957447 (the average of all parts of speech is 2.345984).
+The form / lemma ratio of `NUM` is 1.957447 (the average of all parts of speech is 2.346578).
 
 The 1st highest number of forms (9) was observed with the lemma “εἷς”: <em>εἷς, μία, μίαν, μιᾶς, μιᾷ, ἑνὸς, ἓν, ἕν, ἕνα</em>.
 
@@ -44,12 +44,12 @@ The 2nd highest number of forms (6) was observed with the lemma “τρίτος�
 
 The 3rd highest number of forms (5) was observed with the lemma “δεύτερος”: <em>δευτέρα, δευτέρου, δευτέρᾳ, δευτέρῳ, δεύτερον</em>.
 
-`NUM` occurs with 4 features: <tt><a href="grc_ptnk-feat-NumType.html">NumType</a></tt> (492; 100% instances), <tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt> (257; 52% instances), <tt><a href="grc_ptnk-feat-Number.html">Number</a></tt> (257; 52% instances), <tt><a href="grc_ptnk-feat-Case.html">Case</a></tt> (254; 52% instances)
+`NUM` occurs with 4 features: <tt><a href="grc_ptnk-feat-NumType.html">NumType</a></tt> (492; 100% instances), <tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt> (259; 53% instances), <tt><a href="grc_ptnk-feat-Number.html">Number</a></tt> (257; 52% instances), <tt><a href="grc_ptnk-feat-Case.html">Case</a></tt> (255; 52% instances)
 
-`NUM` occurs with 16 feature-value pairs: `Case=Acc`, `Case=Acc,Gen,Nom`, `Case=Acc,Nom`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Gender=Fem`, `Gender=Fem,Masc`, `Gender=Fem,Masc,Neut`, `Gender=Masc`, `Gender=Masc,Neut`, `Gender=Neut`, `NumType=Card`, `NumType=Ord`, `Number=Plur`, `Number=Sing`
+`NUM` occurs with 15 feature-value pairs: `Case=Acc`, `Case=Acc,Gen,Nom`, `Case=Acc,Nom`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Gender=Fem`, `Gender=Fem,Masc,Neut`, `Gender=Masc`, `Gender=Masc,Neut`, `Gender=Neut`, `NumType=Card`, `NumType=Ord`, `Number=Plur`, `Number=Sing`
 
-`NUM` occurs with 35 feature combinations.
-The most frequent feature combination is `NumType=Card` (235 tokens).
+`NUM` occurs with 41 feature combinations.
+The most frequent feature combination is `NumType=Card` (232 tokens).
 Examples: <em>ἑπτὰ, δύο, ἑκατὸν, δέκα, πέντε, τριάκοντα, τεσσαράκοντα, ἑξήκοντα, ἑβδομήκοντα, δώδεκα</em>
 
 

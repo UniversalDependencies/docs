@@ -24,7 +24,7 @@ The following 1 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 28	fgColor:white
 # visual-style 28 27 expl	color:blue
 1	Estudiantes	estudiante	NOUN	NN	Number=Plur	6	nsubj	_	_
-2	como	como	ADP	IN	_	3	case	_	_
+2	como	como	SCONJ	IN	_	3	case	_	_
 3	Rai	Rai	PROPN	NNP	Gender=Fem|Number=Sing	1	nmod	_	_
 4	han	haber	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	aux	_	_
 5	estado	estar	AUX	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	aux	_	_

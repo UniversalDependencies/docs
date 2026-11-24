@@ -43,7 +43,7 @@ The most frequent other feature values with which `PRON` and `Polarity` co-occur
 `PRON` tokens may have the following values of `Polarity`:
 
 * `Neg` (15; 100% of non-empty `Polarity`): <em>nihil, nihel</em>
-* `EMPTY` (18264): <em>ego, me, nos, tibi, qui, eius, mihi, vobis, quas, id</em>
+* `EMPTY` (18263): <em>ego, me, nos, tibi, qui, eius, mihi, vobis, quas, id</em>
 
 ### `ADV`
 

@@ -17,51 +17,40 @@ The following 63 pairs of parts of speech are connected with `parataxis`: <tt><a
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 9 parataxis	color:blue
-1	-	-	PUNCT	zd	_	4	punct	4:punct	LvtbNodeId=a-d197-p47s1w1
-2	Te	te	ADV	r0n	PronType=Dem	5	advmod	5:advmod	LvtbNodeId=a-d197-p47s1w2
-3	daži	dažs	DET	pi0mpnn	Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	4	nsubj	4:nsubj|5:nsubj	LvtbNodeId=a-d197-p47s1w3
-4	gribēja	gribēt	VERB	vonisi330an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-d197-p47s1w4
-5	sēdēt	sēdēt	VERB	vmnn0i3000n	Polarity=Pos|VerbForm=Inf	4	xcomp	4:xcomp	LvtbNodeId=a-d197-p47s1w5|SpaceAfter=No
-6	,	,	PUNCT	zc	_	4	punct	4:punct	LvtbNodeId=a-d197-p47s1w6
-7	-	-	PUNCT	zd	_	4	punct	4:punct	LvtbNodeId=a-d197-p47s1w7
-8	es	es	PRON	pp10snn	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	9:nsubj	LvtbNodeId=a-d197-p47s1w8
-9	teicu	teikt	VERB	vmnist11san	Evident=Fh|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	4:parataxis|14:parataxis	LvtbNodeId=a-d197-p47s1w9|SpaceAfter=No
-10	,	,	PUNCT	zc	_	9	punct	9:punct	LvtbNodeId=a-d197-p47s1w10
-11	-	-	PUNCT	zd	_	4	punct	4:punct	LvtbNodeId=a-d197-p47s1w11
-12	bet	bet	CCONJ	cc	_	14	cc	14:cc	LvtbNodeId=a-d197-p47s1w12
-13	es	es	PRON	pp10snn	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	14:nsubj	LvtbNodeId=a-d197-p47s1w13
-14	neļāvu	ļaut	VERB	vmnist11say	Evident=Fh|Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	4:conj	LvtbNodeId=a-d197-p47s1w14|SpaceAfter=No
-15	.	.	PUNCT	zs	_	4	punct	4:punct	LvtbNodeId=a-d197-p47s1w15
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 2 parataxis	color:blue
+1	Kā	kā	SCONJ	cs	_	2	mark	2:mark	LvtbNodeId=a-p17173-p7s1w1
+2	ziņots	ziņot	VERB	vmnpdmsnpsnpn	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	6	parataxis	6:parataxis	LvtbNodeId=a-p17173-p7s1w2|SpaceAfter=No
+3	,	,	PUNCT	zc	_	2	punct	2:punct	LvtbNodeId=a-p17173-p7s1w3
+4	Latvija	Latvija	PROPN	npfsn4	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	6:nsubj	LvtbNodeId=a-p17173-p7s1w4
+5	šonakt	šonakt	ADV	r0n	_	6	advmod	6:advmod	LvtbNodeId=a-p17173-p7s1w5
+6	pievienojās	pievienoties	VERB	vmyisi230an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Reflex=Yes|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-p17173-p7s1w6
+7	eirozonai	eirozona	NOUN	ncfsd4	Case=Dat|Gender=Fem|Number=Sing	6	iobj	6:iobj	LvtbNodeId=a-p17173-p7s1w7|SpaceAfter=No
+8	.	.	PUNCT	zs	_	6	punct	6:punct	LvtbNodeId=a-p17173-p7s1w8
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 13 parataxis	color:blue
-1	*	*	SYM	xx	_	10	dep	10:dep	LvtbNodeId=a-d1270-p21s1w1|SpaceAfter=No
-2	ONS	ons	NOUN	yn	Abbr=Yes	10	nsubj	10:nsubj	LvtbNodeId=a-d1270-p21s1w2
-3	–	–	PUNCT	zd	_	4	punct	4:punct	LvtbNodeId=a-d1270-p21s1w3
-4	One	One	X	xf	Foreign=Yes	2	dep	2:dep	LvtbNodeId=a-d1270-p21s1w4
-5	Night	Night	X	xf	Foreign=Yes	4	flat:name	4:flat:name	LvtbNodeId=a-d1270-p21s1w5
-6	Stand	Stand	X	xf	Foreign=Yes	4	flat:name	4:flat:name	LvtbNodeId=a-d1270-p21s1w6
-7	–	–	PUNCT	zd	_	10	punct	10:punct	LvtbNodeId=a-d1270-p21s1w7
-8	vienas	viens	NUM	mcsfsg	Case=Gen|Gender=Fem|Number=Sing|NumType=Card	9	nummod	9:nummod	LvtbNodeId=a-d1270-p21s1w8
-9	nakts	nakts	NOUN	ncfsg6	Case=Gen|Gender=Fem|Number=Sing	10	nmod	10:nmod:gen	LvtbNodeId=a-d1270-p21s1w9
-10	sakars	sakars	NOUN	ncmsn1	Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	LvtbNodeId=a-d1270-p21s1w10
-11	(	(	PUNCT	zb	_	13	punct	13:punct	LvtbNodeId=a-d1270-p21s1w11|SpaceAfter=No
-12	angļu	anglis	NOUN	ncmpg2	Case=Gen|Gender=Masc|Number=Plur	13	nmod	13:nmod:gen	LvtbNodeId=a-d1270-p21s1w12
-13	val.	val.	NOUN	yn	Abbr=Yes	10	parataxis	10:parataxis	LvtbNodeId=a-d1270-p21s1w13|SpaceAfter=No
-14	)	)	PUNCT	zb	_	13	punct	13:punct	LvtbNodeId=a-d1270-p21s1w14|SpaceAfter=No
-15	.	.	PUNCT	zs	_	10	punct	10:punct	LvtbNodeId=a-d1270-p21s1w15
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 7 parataxis	color:blue
+1	RJA	RJA	PROPN	yp	Abbr=Yes	2	nmod	2:nmod	LvtbNodeId=a-p139-p37s1w1
+2	lektors	lektors	NOUN	ncmsn1	Case=Nom|Gender=Masc|Number=Sing	9	nmod	9:nmod	LvtbNodeId=a-p139-p37s1w2
+3	LL.	LL.	NOUN	yn	Abbr=Yes	9	nmod	9:nmod	LvtbNodeId=a-p139-p37s1w3|SpaceAfter=No
+4	M.	M.	NOUN	yn	Abbr=Yes	3	flat:name	3:flat:name	LvtbNodeId=a-p139-p37s1w4
+5	(	(	PUNCT	zb	_	7	punct	7:punct	LvtbNodeId=a-p139-p37s1w5|SpaceAfter=No
+6	cilvēktiesību	cilvēktiesības	NOUN	ncfdg4	Case=Gen|Gender=Fem|Number=Ptan	7	nmod	7:nmod:gen	LvtbNodeId=a-p139-p37s1w6
+7	maģistrs	maģistrs	NOUN	ncmsn1	Case=Nom|Gender=Masc|Number=Sing	3	parataxis	3:parataxis	LvtbNodeId=a-p139-p37s1w7|SpaceAfter=No
+8	)	)	PUNCT	zb	_	7	punct	7:punct	LvtbNodeId=a-p139-p37s1w8
+9	MĀRTIŅŠ	Mārtiņš	PROPN	npmsn1	Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	LvtbNodeId=a-p139-p37s1w9
+10	MITS	Mits	PROPN	npmsn1	Case=Nom|Gender=Masc|Number=Sing	9	flat:name	9:flat:name	LvtbNodeId=a-p139-p37s1w10|SpaceAfter=No
+11	:	:	PUNCT	zo	_	9	punct	9:punct	LvtbNodeId=a-p139-p37s1w11
 
 ~~~
 

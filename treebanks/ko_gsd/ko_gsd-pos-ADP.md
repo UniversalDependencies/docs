@@ -58,7 +58,7 @@ The 10 most frequent ambiguous types:  고 (<tt><a href="ko_gsd-pos-ADP.html">AD
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 0.995556 (the average of all parts of speech is 1.001499).
+The form / lemma ratio of `ADP` is 0.995556 (the average of all parts of speech is 1.001527).
 
 The 1st highest number of forms (2) was observed with the lemma “이란”: 란, 이란.
 
@@ -71,9 +71,9 @@ The 3rd highest number of forms (1) was observed with the lemma “가”: 가.
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 7 different relations: <tt><a href="ko_gsd-dep-case.html">case</a></tt> (1534; 86% instances), <tt><a href="ko_gsd-dep-obj.html">obj</a></tt> (154; 9% instances), <tt><a href="ko_gsd-dep-nsubj.html">nsubj</a></tt> (99; 6% instances), <tt><a href="ko_gsd-dep-flat.html">flat</a></tt> (2; 0% instances), <tt><a href="ko_gsd-dep-nmod.html">nmod</a></tt> (2; 0% instances), <tt><a href="ko_gsd-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="ko_gsd-dep-mark.html">mark</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 8 different relations: <tt><a href="ko_gsd-dep-case.html">case</a></tt> (1534; 86% instances), <tt><a href="ko_gsd-dep-obj.html">obj</a></tt> (152; 8% instances), <tt><a href="ko_gsd-dep-nsubj.html">nsubj</a></tt> (99; 6% instances), <tt><a href="ko_gsd-dep-dep.html">dep</a></tt> (2; 0% instances), <tt><a href="ko_gsd-dep-flat.html">flat</a></tt> (2; 0% instances), <tt><a href="ko_gsd-dep-nmod.html">nmod</a></tt> (2; 0% instances), <tt><a href="ko_gsd-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="ko_gsd-dep-mark.html">mark</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 9 different parts of speech: <tt><a href="ko_gsd-pos-NOUN.html">NOUN</a></tt> (1277; 71% instances), <tt><a href="ko_gsd-pos-VERB.html">VERB</a></tt> (180; 10% instances), <tt><a href="ko_gsd-pos-PROPN.html">PROPN</a></tt> (158; 9% instances), <tt><a href="ko_gsd-pos-NUM.html">NUM</a></tt> (85; 5% instances), <tt><a href="ko_gsd-pos-PRON.html">PRON</a></tt> (59; 3% instances), <tt><a href="ko_gsd-pos-ADJ.html">ADJ</a></tt> (31; 2% instances), <tt><a href="ko_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ko_gsd-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="ko_gsd-pos-SYM.html">SYM</a></tt> (1; 0% instances)
+Parents of `ADP` nodes belong to 9 different parts of speech: <tt><a href="ko_gsd-pos-NOUN.html">NOUN</a></tt> (1278; 71% instances), <tt><a href="ko_gsd-pos-VERB.html">VERB</a></tt> (179; 10% instances), <tt><a href="ko_gsd-pos-PROPN.html">PROPN</a></tt> (158; 9% instances), <tt><a href="ko_gsd-pos-NUM.html">NUM</a></tt> (85; 5% instances), <tt><a href="ko_gsd-pos-PRON.html">PRON</a></tt> (59; 3% instances), <tt><a href="ko_gsd-pos-ADJ.html">ADJ</a></tt> (31; 2% instances), <tt><a href="ko_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ko_gsd-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="ko_gsd-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 
 1654 (92%) `ADP` nodes are leaves.
 

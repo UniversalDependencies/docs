@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ru_syntagrus-dep-flat.html">flat</a></tt>.
 There are also 1 other language-specific subtypes of `flat`: <tt><a href="ru_syntagrus-dep-flat-name.html">flat:name</a></tt>.
 
-1163 nodes (0%) are attached to their parents as `flat:foreign`.
+1156 nodes (0%) are attached to their parents as `flat:foreign`.
 
-1163 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.1676698194325.
+1156 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.17041522491349.
 
-The following 9 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="ru_syntagrus-pos-X.html">X</a></tt>-<tt><a href="ru_syntagrus-pos-X.html">X</a></tt> (1139; 98% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_syntagrus-pos-X.html">X</a></tt> (7; 1% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_syntagrus-pos-X.html">X</a></tt> (6; 1% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_syntagrus-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_syntagrus-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-SYM.html">SYM</a></tt>-<tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-X.html">X</a></tt>-<tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="ru_syntagrus-pos-X.html">X</a></tt>-<tt><a href="ru_syntagrus-pos-X.html">X</a></tt> (1144; 99% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_syntagrus-pos-X.html">X</a></tt> (7; 1% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_syntagrus-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_syntagrus-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -83,7 +83,7 @@ The following 9 pairs of parts of speech are connected with `flat:foreign`: <tt>
 6	было	быть	AUX	_	Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	3:cop	SpaceAfter=No
 7	:	:	PUNCT	_	_	9	punct	3:punct	_
 8	"	"	PUNCT	_	_	9	punct	9:punct	SpaceAfter=No
-9	2012	2012	NOUN	_	_	3	parataxis	3:parataxis	_
+9	2012	2012	ADJ	_	NumForm=Digit|NumType=Ord	3	parataxis	3:parataxis	_
 10	PUTINPUTOUT	PUTINPUTOUT	X	_	Foreign=Yes	9	flat:foreign	9:flat:foreign	SpaceAfter=No
 11	"	"	PUNCT	_	_	9	punct	9:punct	SpaceAfter=No
 12	.	.	PUNCT	_	_	3	punct	3:punct	_

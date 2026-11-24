@@ -47,7 +47,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 2230 <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> tokens (98% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (2061; 92%), <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1970; 88%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1814; 81%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1814; 81%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1363; 61%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (2061; 92%), <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1970; 88%), <tt><a href="cs_pud-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (1843; 83%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1814; 81%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1814; 81%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1363; 61%).
 
 `ADJ` tokens may have the following values of `Number`:
 
@@ -73,7 +73,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 1428 <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> tokens (83% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1426; 100%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1339; 94%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1241; 87%), <tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (880; 62%), <tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (880; 62%), <tt><a href="cs_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (878; 61%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (877; 61%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1426; 100%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1339; 94%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1241; 87%), <tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (880; 62%), <tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (880; 62%), <tt><a href="cs_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (878; 61%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (877; 61%), <tt><a href="cs_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (798; 56%).
 
 `VERB` tokens may have the following values of `Number`:
 
@@ -259,7 +259,7 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 `CCONJ` tokens may have the following values of `Number`:
 
 * `Sing` (1; 100% of non-empty `Number`): <em>i</em>
-* `EMPTY` (660): <em>a, ale, i, nebo, však, avšak, nicméně, až, ani, tedy</em>
+* `EMPTY` (653): <em>a, ale, i, nebo, však, avšak, nicméně, až, ani, tedy</em>
 
 ## Relations with Agreement in `Number`
 

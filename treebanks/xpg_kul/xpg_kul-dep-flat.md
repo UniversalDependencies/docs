@@ -22,8 +22,8 @@ The following 2 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 flat	color:blue
-1	eS	ešt	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	3	det	_	Ref=TM1001271-6-1
-2	k	ke	CCONJ	_	_	1	flat	_	Ref=TM1001271-6-2
+1	eS	ešt	DET	_	Case=Acc|Foreign=Yes|Gender=Neut|Number=Sing|PronType=Dem	3	det	_	OrigLang=xld|Ref=TM1001271-6-1|SpaceAfter=No
+2	-k	ke	CCONJ	_	_	1	flat	_	Ref=TM1001271-6-2
 3	ṃrey	_	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	obj	_	Ref=TM1001271-6-3
 4	veiṢ	va	DET	_	Case=Dat|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	6	det	_	Ref=TM1001271-6-4|SpaceAfter=No
 5	-t	t	ADV	_	_	4	advmod	_	Ref=TM1001271-6-5

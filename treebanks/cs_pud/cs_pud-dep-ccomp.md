@@ -24,7 +24,7 @@ The following 8 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 3 10 ccomp	color:blue
 1	Svědek	svědek	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	3:nsubj	_
 2	policii	policie	NOUN	NNFS3-----A----	Case=Dat|Gender=Fem|Number=Sing	3	obl:arg	3:obl:arg:dat	_
-3	řekl	říci	VERB	VpYS---XR-AA---	Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	SpaceAfter=No
+3	řekl	říci	VERB	VpYS---XR-AA---	Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	SpaceAfter=No
 4	,	,	PUNCT	Z:-------------	_	10	punct	10:punct	_
 5	že	že	SCONJ	J,-------------	_	10	mark	10:mark	LId=že-1
 6	oběť	oběť	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	10:nsubj	_
@@ -60,7 +60,7 @@ The following 8 pairs of parts of speech are connected with `ccomp`: <tt><a href
 15	tak	tak	ADV	Db-------------	PronType=Dem	18	advmod	18:advmod	LId=tak-3
 16	to	ten	DET	PDNS1----------	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	18	nsubj:pass	18:nsubj:pass	_
 17	bylo	být	AUX	VpNS---XR-AA---	Aspect=Imp|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	18	aux:pass	18:aux:pass	_
-18	řečeno	řečený	ADJ	VsNS---XX-AP---	Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	4	conj	0:root|4:conj	SpaceAfter=No|LDeriv=říct
+18	řečeno	řečený	ADJ	VsNS---XX-AP---	Aspect=Perf|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	4	conj	0:root|4:conj	SpaceAfter=No|LDeriv=říct
 19	.	.	PUNCT	Z:-------------	_	4	punct	4:punct	_
 
 ~~~

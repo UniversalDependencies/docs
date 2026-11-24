@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Dat`, `Gen`, `Nom`.
 
-332 tokens (24%) have a non-empty value of `Case`.
-45 types (9%) occur at least once with a non-empty value of `Case`.
-15 lemmas (4%) occur at least once with a non-empty value of `Case`.
-The feature is used with 2 part-of-speech tags: <tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> (178; 13% instances), <tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt> (154; 11% instances).
+392 tokens (26%) have a non-empty value of `Case`.
+47 types (9%) occur at least once with a non-empty value of `Case`.
+18 lemmas (4%) occur at least once with a non-empty value of `Case`.
+The feature is used with 2 part-of-speech tags: <tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> (216; 14% instances), <tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt> (176; 12% instances).
 
 ### `ADP`
 
-178 <tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> tokens (83% of all `ADP` tokens) have a non-empty value of `Case`.
+216 <tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> tokens (94% of all `ADP` tokens) have a non-empty value of `Case`.
 
 `ADP` tokens may have the following values of `Case`:
 
-* `Dat` (58; 33% of non-empty `Case`): <em>sa, kang, ug, -g</em>
-* `Gen` (46; 26% of non-empty `Case`): <em>ni, -g, ug, sa, og</em>
-* `Nom` (74; 42% of non-empty `Case`): <em>ang, si, -g, -ng</em>
-* `EMPTY` (37): <em>ang, og, para, -g, sa, si, nga, ug, -ng, alang</em>
+* `Dat` (68; 31% of non-empty `Case`): <em>sa, kang, ug, -g, kay, og</em>
+* `Gen` (55; 25% of non-empty `Case`): <em>ni, ug, -g, sa, og</em>
+* `Nom` (93; 43% of non-empty `Case`): <em>ang, si, -g, -ng</em>
+* `EMPTY` (15): <em>para, -g, -ng, alang, bahin, gikan, hangtud, kay, nga</em>
 
 <table>
   <tr><th>Paradigm <i>sa</i></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th></tr>
@@ -32,15 +32,15 @@ The feature is used with 2 part-of-speech tags: <tt><a href="ceb_gja-pos-ADP.htm
 
 ### `PRON`
 
-154 <tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt> tokens (81% of all `PRON` tokens) have a non-empty value of `Case`.
+176 <tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt> tokens (85% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="ceb_gja-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (154; 100%), <tt><a href="ceb_gja-feat-Number.html">Number</a></tt><tt>=Sing</tt> (129; 84%), <tt><a href="ceb_gja-feat-Person.html">Person</a></tt><tt>=1</tt> (79; 51%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="ceb_gja-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (176; 100%), <tt><a href="ceb_gja-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (176; 100%), <tt><a href="ceb_gja-feat-Number.html">Number</a></tt><tt>=Sing</tt> (148; 84%).
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Gen` (69; 45% of non-empty `Case`): <em>siya, iya, imo, nako, ko, nimo, amo, imoha, ila, inyo</em>
-* `Nom` (85; 55% of non-empty `Case`): <em>ko, ka, ako, mi, sila, koy, ikaw, taka, tika, Akoy</em>
-* `EMPTY` (35): <em>kini, unsa, Unsay, ana, iya, kana, kato, niya, Asa, Kinsa</em>
+* `Gen` (85; 48% of non-empty `Case`): <em>siya, iya, imo, nako, ko, nimo, niya, amo, imoha, ila</em>
+* `Nom` (91; 52% of non-empty `Case`): <em>ko, ka, ako, mi, sila, koy, ikaw, ta, taka, tika</em>
+* `EMPTY` (32): <em>unsa, kini, Unsay, ana, kana, kato, kinsa, ni, niadto, ani</em>
 
 <table>
   <tr><th>Paradigm <i>ako</i></th><th><tt>Nom</tt></th><th><tt>Gen</tt></th></tr>

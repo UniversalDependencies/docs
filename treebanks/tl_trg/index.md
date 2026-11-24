@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Stephanie Samson, Daniel Zeman, Mary Ann C. Tan.
 
 Repository: [UD_Tagalog-TRG](https://github.com/UniversalDependencies/UD_Tagalog-TRG)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtl_trg218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtl_trg219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 
@@ -598,7 +598,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB--NOUN (5)</li>
-      <li>VERB--NOUN-ADP(ng) (21)</li>
+      <li>VERB--NOUN-ADP(ng) (20)</li>
       <li>VERB--PRON-ADP(ang) (1)</li>
       <li>VERB--PRON-Gen (1)</li>
       <li>VERB--PRON-Nom (1)</li>

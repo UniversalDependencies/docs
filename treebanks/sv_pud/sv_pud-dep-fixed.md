@@ -13,7 +13,7 @@ This relation is universal.
 22 instances of `fixed` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.68181818181818.
 
-The following 9 pairs of parts of speech are connected with `fixed`: <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (6; 27% instances), <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (4; 18% instances), <tt><a href="sv_pud-pos-PART.html">PART</a></tt>-<tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (4; 18% instances), <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (2; 9% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="sv_pud-pos-CCONJ.html">CCONJ</a></tt> (2; 9% instances), <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> (1; 5% instances), <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="sv_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 5% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> (1; 5% instances), <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (1; 5% instances).
+The following 8 pairs of parts of speech are connected with `fixed`: <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (6; 27% instances), <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (5; 23% instances), <tt><a href="sv_pud-pos-PART.html">PART</a></tt>-<tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (4; 18% instances), <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (2; 9% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="sv_pud-pos-CCONJ.html">CCONJ</a></tt> (2; 9% instances), <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> (1; 5% instances), <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="sv_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 5% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
@@ -45,34 +45,33 @@ The following 9 pairs of parts of speech are connected with `fixed`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 5 fixed	color:blue
-1	För	för	ADP	PP	ExtPos=ADP	4	case	4:case	_
-2	inte	inte	PART	AB	Polarity=Neg	4	advmod	4:advmod	_
-3	så	så	ADV	AB	_	4	advmod	4:advmod	_
-4	länge	länge	ADV	AB|POS	Degree=Pos	6	advmod	6:advmod	_
-5	sedan	sedan	ADV	AB	_	1	fixed	1:fixed	_
-6	skilde	skilja	VERB	VB|PRT|AKT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	ParsemeMWE=1:IRV
-7	han	han	PRON	PN|UTR|SIN|DEF|SUB	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	6	nsubj	6:nsubj|18:nsubj	_
-8	sig	sig	PRON	PN|UTR/NEU|SIN/PLU|DEF|OBJ	Case=Acc|Definite=Def|PronType=Prs	6	obj	6:obj	ParsemeMWE=1
-9	från	från	ADP	PP	_	10	case	10:case	_
-10	skådespelerskan	skådespelerska	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	6	obl	6:obl:från	SpaceAfter=No
-11	,	,	PUNCT	MID	_	12	punct	12:punct	_
-12	Gloria	Gloria	PROPN	PM|NOM	Case=Nom	10	appos	10:appos	_
-13	Holden	Holden	PROPN	PM|NOM	Case=Nom	12	flat:name	12:flat:name	SpaceAfter=No
-14	,	,	PUNCT	MID	_	12	punct	12:punct	_
-15	men	men	CCONJ	KN	_	18	cc	18:cc	_
-16	var	vara	AUX	VB|PRT|AKT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	18	cop	18:cop	_
-17	fortsatt	fortsatt	ADV	PC|PRF|UTR|SIN|IND|NOM	Degree=Pos|Tense=Past|VerbForm=Part	18	advmod	18:advmod	_
-18	kär	kär	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	6	conj	6:conj:men	_
-19	efter	efter	ADP	PP	_	22	case	22:case	_
-20	det	den	DET	DT|NEU|SIN|DEF	Definite=Def|Gender=Neut|Number=Sing|PronType=Art	22	det	22:det	_
-21	äktenskapliga	äktenskaplig	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos	22	amod	22:amod	_
-22	uppbrottet	uppbrott	NOUN	NN|NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	18	obl	18:obl:efter	SpaceAfter=No|ParsemeMWE=2:NV.IVPC.full
-23	.	.	PUNCT	MAD	_	6	punct	6:punct	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 8 fixed	color:blue
+1	Grundad	grundad	ADJ	PC|PRF|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing|Tense=Past|VerbForm=Part	10	acl	10:acl	_
+2	1925	1925	NUM	RG|NOM	Case=Nom	1	obl	1:obl	_
+3	som	som	ADP	KN	_	4	case	4:case	_
+4	spel	spel	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	1	obl	1:obl:som	_
+5	för	för	ADP	PP	_	6	case	6:case	_
+6	vem	vem	PRON	HP|UTR|SIN|IND	Definite=Ind|Gender=Com|Number=Sing|PronType=Int,Rel	4	nmod	4:nmod:för	ParsemeMWE=1:PronID
+7	som	som	ADP	KN	ExtPos=ADV	6	advmod	6:advmod	ParsemeMWE=1
+8	helst	gärna	ADV	AB|SUV	Degree=Sup	7	fixed	7:fixed	ParsemeMWE=1
+9	drar	dra	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+10	utomhusteatern	utomhusteater	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	9	nsubj	9:nsubj	_
+11	på	på	ADP	PP	_	14	case	14:case	_
+12	de	de	DET	DT|UTR/NEU|PLU|DEF	Definite=Def|Number=Plur|PronType=Art	14	det	14:det	_
+13	stora	stor	ADJ	JJ|POS|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Definite=Def|Degree=Pos	14	amod	14:amod	_
+14	trapporna	trappa	NOUN	NN|UTR|PLU|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Plur	10	nmod	10:nmod:på	_
+15	framför	framför	ADP	PP	_	17	case	17:case	_
+16	St.	sankt	ADJ	JJ|AN	Abbr=Yes|Number=Sing	17	amod	17:amod	_
+17	Michael	Michael	PROPN	PM|NOM	Case=Nom	14	nmod	14:nmod:framför	_
+18	fortfarande	fortfarande	ADV	AB	_	9	advmod	9:advmod	_
+19	en	en	DET	DT|UTR|SIN|IND	Definite=Ind|Gender=Com|Number=Sing|PronType=Art	21	det	21:det	_
+20	blandad	blandad	ADJ	PC|PRF|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing|Tense=Past|VerbForm=Part	21	amod	21:amod	_
+21	publik	publik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	9	obj	9:obj	SpaceAfter=No
+22	.	.	PUNCT	MAD	_	9	punct	9:punct	_
 
 ~~~
 

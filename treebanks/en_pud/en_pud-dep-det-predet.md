@@ -25,7 +25,7 @@ The following 1 pairs of parts of speech are connected with `det:predet`: <tt><a
 1	All	all	DET	PDT	PronType=Tot	3	det:predet	3:det:predet	_
 2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
 3	medics	medic	NOUN	NNS	Number=Plur	5	nsubj	5:nsubj	_
-4	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	cop	5:cop	_
+4	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	cop	5:cop	_
 5	armed	armed	ADJ	JJ	Degree=Pos	0	root	0:root	SpaceAfter=No
 6	,	,	PUNCT	,	_	5	punct	5:punct	_
 7	except	except	ADP	IN	_	8	case	8:case	_

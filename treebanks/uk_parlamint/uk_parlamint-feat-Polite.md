@@ -23,7 +23,7 @@ The most frequent other feature values with which `PRON` and `Polite` co-occurre
 `PRON` tokens may have the following values of `Polite`:
 
 * `Form` (168; 100% of non-empty `Polite`): <em>ви, вас, вам, вами</em>
-* `EMPTY` (5841): <em>ми, я, це, нас, ви, того, вони, те, що, нам</em>
+* `EMPTY` (5839): <em>ми, я, це, нас, ви, того, вони, те, що, нам</em>
 
 ### `DET`
 
@@ -34,5 +34,5 @@ The most frequent other feature values with which `DET` and `Polite` co-occurred
 `DET` tokens may have the following values of `Polite`:
 
 * `Form` (22; 100% of non-empty `Polite`): <em>вашої, вашу, ваше, ваші, ваша, вашими, ваших, Вашого, ваш</em>
-* `EMPTY` (4247): <em>які, цього, який, всі, цей, яка, всіх, цю, ці, це</em>
+* `EMPTY` (4248): <em>які, цього, який, всі, цей, яка, всіх, цю, ці, це</em>
 

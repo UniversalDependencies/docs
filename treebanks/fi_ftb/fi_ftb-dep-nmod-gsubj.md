@@ -29,7 +29,7 @@ The following 5 pairs of parts of speech are connected with `nmod:gsubj`: <tt><a
 4	mielestä	mielestä	ADP	Adp	_	3	case	_	_
 5	kontrollin	kontrolli	NOUN	N,Sg,Gen	Case=Gen|Number=Sing	6	nmod:gsubj	_	Alt=nmod:gsubj
 6	pettämistä	pettäminen	NOUN	N,Sg,Par	Case=Par|Number=Sing	2	obj	_	_
-7	.	.	PUNCT	Pun	_	6	punct	_	_
+7	.	.	PUNCT	Pun	_	2	punct	_	_
 
 ~~~
 
@@ -45,7 +45,7 @@ The following 5 pairs of parts of speech are connected with `nmod:gsubj`: <tt><a
 3	vajoamisensa	vajoaminen	NOUN	N,Sg,Nom,Px3	Case=Nom|Number=Sing|Person[psor]=3	4	obj	_	_
 4	nähtiin	nähdä	VERB	V,Pass,Ind,Past	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
 5	rannalta	ranta	NOUN	N,Sg,Abl	Case=Abl|Number=Sing	4	obl	_	_
-6	.	.	PUNCT	Pun	_	5	punct	_	_
+6	.	.	PUNCT	Pun	_	4	punct	_	_
 
 ~~~
 
@@ -63,7 +63,7 @@ The following 5 pairs of parts of speech are connected with `nmod:gsubj`: <tt><a
 5	on	olla	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 6	kiinni	kiinni	ADV	Adv	_	5	compound:prt	_	_
 7	Itämerestä	itämeri	PROPN	N,Prop,Sg,Ela	Case=Ela|Number=Sing	5	obl	_	_
-8	.	.	PUNCT	Pun	_	7	punct	_	_
+8	.	.	PUNCT	Pun	_	5	punct	_	_
 
 ~~~
 

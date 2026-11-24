@@ -18,7 +18,7 @@ The feature is used with 4 part-of-speech tags: <tt><a href="orv_ruthenian-pos-A
 
 1297 <tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> tokens (60% of all `AUX` tokens) have a non-empty value of `Analyt`.
 
-The most frequent other feature values with which `AUX` and `Analyt` co-occurred: <tt><a href="orv_ruthenian-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1205; 93%), <tt><a href="orv_ruthenian-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (921; 71%), <tt><a href="orv_ruthenian-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (775; 60%), <tt><a href="orv_ruthenian-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (758; 58%).
+The most frequent other feature values with which `AUX` and `Analyt` co-occurred: <tt><a href="orv_ruthenian-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1205; 93%), <tt><a href="orv_ruthenian-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (921; 71%), <tt><a href="orv_ruthenian-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (786; 61%), <tt><a href="orv_ruthenian-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (758; 58%).
 
 `AUX` tokens may have the following values of `Analyt`:
 

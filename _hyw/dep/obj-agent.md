@@ -25,4 +25,4 @@ Note that synthetic causatives derived from middle verbs are treated as regular 
 
 When overtly expressed, the syntactic subject of the causative construction (i.e. the causer) is attached to the infinitive with the [nsubj:caus]() relation.
 
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:28 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:39:01 CET -->

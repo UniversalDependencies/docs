@@ -61,7 +61,7 @@ Parents of `PRON` nodes belong to 4 different parts of speech: <tt><a href="urb_
 
 The highest child degree of a `PRON` node is 2.
 
-Children of `PRON` nodes are attached using 4 different relations: <tt><a href="urb_tudet-dep-nmod.html">nmod</a></tt> (3; 50% instances), <tt><a href="urb_tudet-dep-case.html">case</a></tt> (1; 17% instances), <tt><a href="urb_tudet-dep-discourse.html">discourse</a></tt> (1; 17% instances), <tt><a href="urb_tudet-dep-obl.html">obl</a></tt> (1; 17% instances)
+Children of `PRON` nodes are attached using 3 different relations: <tt><a href="urb_tudet-dep-nmod.html">nmod</a></tt> (4; 67% instances), <tt><a href="urb_tudet-dep-case.html">case</a></tt> (1; 17% instances), <tt><a href="urb_tudet-dep-discourse.html">discourse</a></tt> (1; 17% instances)
 
 Children of `PRON` nodes belong to 3 different parts of speech: <tt><a href="urb_tudet-pos-PART.html">PART</a></tt> (3; 50% instances), <tt><a href="urb_tudet-pos-ADP.html">ADP</a></tt> (2; 33% instances), <tt><a href="urb_tudet-pos-PRON.html">PRON</a></tt> (1; 17% instances)
 

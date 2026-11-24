@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.418345 (the average of all parts of speech is 2.345984).
+The form / lemma ratio of `PROPN` is 1.418345 (the average of all parts of speech is 2.346578).
 
 The 1st highest number of forms (9) was observed with the lemma “Αἰγύπτιος”: <em>Αἰγυπτία, Αἰγυπτίαν, Αἰγυπτίας, Αἰγυπτίοις, Αἰγυπτίου, Αἰγυπτίων, Αἰγυπτίῳ, Αἰγύπτιοι, Αἰγύπτιος</em>.
 
@@ -29,12 +29,12 @@ The 2nd highest number of forms (5) was observed with the lemma “Χανανα�
 
 The 3rd highest number of forms (4) was observed with the lemma “Εὐαῖος”: <em>Εὐαίου, Εὐαίους, Εὐαῖον, Εὐαῖος</em>.
 
-`PROPN` occurs with 3 features: <tt><a href="grc_ptnk-feat-Number.html">Number</a></tt> (2350; 87% instances), <tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt> (2325; 86% instances), <tt><a href="grc_ptnk-feat-Case.html">Case</a></tt> (2015; 75% instances)
+`PROPN` occurs with 3 features: <tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt> (2464; 91% instances), <tt><a href="grc_ptnk-feat-Number.html">Number</a></tt> (2396; 89% instances), <tt><a href="grc_ptnk-feat-Case.html">Case</a></tt> (2015; 75% instances)
 
 `PROPN` occurs with 11 feature-value pairs: `Case=Acc`, `Case=Acc,Nom`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Case=Nom,Voc`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`
 
-`PROPN` occurs with 42 feature combinations.
-The most frequent feature combination is `Case=Nom|Gender=Masc|Number=Sing` (604 tokens).
+`PROPN` occurs with 41 feature combinations.
+The most frequent feature combination is `Case=Nom|Gender=Masc|Number=Sing` (614 tokens).
 Examples: <em>Ἰακὼβ, Ἰωσὴφ, Ἁβραὰμ, Ἡσαῦ, Ἅβραμ, Ἰσαὰκ, Φαραὼ, Νῶε, Λαβὰν, Ἀβιμέλεχ</em>
 
 

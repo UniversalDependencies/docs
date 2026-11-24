@@ -21,7 +21,7 @@ The feature is used with 7 part-of-speech tags: <tt><a href="cs_cltt-pos-NOUN.ht
 
 11016 <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (6564; 60%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (9623; 87%), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (6564; 60%).
 
 `NOUN` tokens may have the following values of `Number`:
 
@@ -43,7 +43,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 6637 <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (6462; 97%), <tt><a href="cs_cltt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (6247; 94%), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3966; 60%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (6462; 97%), <tt><a href="cs_cltt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (6247; 94%), <tt><a href="cs_cltt-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (5283; 80%), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3966; 60%).
 
 `ADJ` tokens may have the following values of `Number`:
 
@@ -82,7 +82,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 1507 <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> tokens (83% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1507; 100%), <tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1394; 93%), <tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1393; 92%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt> (1393; 92%), <tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1393; 92%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1297; 86%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1507; 100%), <tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1394; 93%), <tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1393; 92%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt> (1393; 92%), <tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1393; 92%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1297; 86%), <tt><a href="cs_cltt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (1042; 69%).
 
 `VERB` tokens may have the following values of `Number`:
 
@@ -219,7 +219,7 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1372; 76%),
 <tt>VERB --[<tt><a href="cs_cltt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (628; 92%),
 <tt>NOUN --[<tt><a href="cs_cltt-dep-det.html">det</a></tt>]--> DET</tt> (449; 72%),
-<tt>ADJ --[<tt><a href="cs_cltt-dep-obl.html">obl</a></tt>]--> NOUN</tt> (297; 51%),
+<tt>ADJ --[<tt><a href="cs_cltt-dep-obl.html">obl</a></tt>]--> NOUN</tt> (314; 52%),
 <tt>VERB --[<tt><a href="cs_cltt-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (258; 89%),
 <tt>ADJ --[<tt><a href="cs_cltt-dep-cop.html">cop</a></tt>]--> AUX</tt> (230; 79%),
 <tt>NOUN --[<tt><a href="cs_cltt-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (228; 66%),

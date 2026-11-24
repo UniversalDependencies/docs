@@ -14,7 +14,7 @@ udver: '2'
 </tr>
 </table>
 
-`Person[psor]` is the possessor's person, marked for exmaple on [nouns](NOUN), [emphatic pronouns](PronType), [infinitives](VerbForm), or [adpositions](ADP). In possessive uses, such forms typically correspond to an English possessive pronouns followed by a noun.
+`Person[psor]` is the possessor's person, marked for exmaple on [nouns](NOUN), certain [pronouns](PronType), [infinitives](VerbForm), or [adpositions](ADP). In possessive uses, such forms typically correspond to an English possessive pronouns followed by a noun.
 
 We do not annotate possessive determiners with `Person[psor]`, as they are actually identical to personal pronouns in the genitive case.
 
@@ -42,4 +42,4 @@ See also the related features `Number[psor]` and `Deixis[psor]`.
 
 * _Թագուոր մի կայր, աչուի<b>ն</b> էր խաժ_/_T’agowor mi kayr, ačowin ēr xaž_ “There was a king; <b>his</b> eyes were sea-blue” `Number=Plur|Number[psor]=Sing|Person[psor]=3`
   
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:11 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:57 CET -->

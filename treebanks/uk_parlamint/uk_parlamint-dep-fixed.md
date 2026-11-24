@@ -8,12 +8,26 @@ udver: '2'
 
 This relation is universal.
 
-1316 nodes (1%) are attached to their parents as `fixed`.
+1634 nodes (1%) are attached to their parents as `fixed`.
 
-1316 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.1709726443769.
+1634 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.15238678090575.
 
-The following 43 pairs of parts of speech are connected with `fixed`: <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (434; 33% instances), <tt><a href="uk_parlamint-pos-ADP.html">ADP</a></tt>-<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (205; 16% instances), <tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_parlamint-pos-SCONJ.html">SCONJ</a></tt> (106; 8% instances), <tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_parlamint-pos-ADP.html">ADP</a></tt> (103; 8% instances), <tt><a href="uk_parlamint-pos-PART.html">PART</a></tt>-<tt><a href="uk_parlamint-pos-PART.html">PART</a></tt> (91; 7% instances), <tt><a href="uk_parlamint-pos-ADP.html">ADP</a></tt>-<tt><a href="uk_parlamint-pos-ADP.html">ADP</a></tt> (63; 5% instances), <tt><a href="uk_parlamint-pos-ADP.html">ADP</a></tt>-<tt><a href="uk_parlamint-pos-DET.html">DET</a></tt> (42; 3% instances), <tt><a href="uk_parlamint-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt> (38; 3% instances), <tt><a href="uk_parlamint-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="uk_parlamint-pos-PART.html">PART</a></tt> (37; 3% instances), <tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt> (29; 2% instances), <tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_parlamint-pos-PART.html">PART</a></tt> (28; 2% instances), <tt><a href="uk_parlamint-pos-ADP.html">ADP</a></tt>-<tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt> (24; 2% instances), <tt><a href="uk_parlamint-pos-ADP.html">ADP</a></tt>-<tt><a href="uk_parlamint-pos-PART.html">PART</a></tt> (14; 1% instances), <tt><a href="uk_parlamint-pos-DET.html">DET</a></tt>-<tt><a href="uk_parlamint-pos-DET.html">DET</a></tt> (11; 1% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (11; 1% instances), <tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt> (10; 1% instances), <tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (8; 1% instances), <tt><a href="uk_parlamint-pos-DET.html">DET</a></tt>-<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (8; 1% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt> (7; 1% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_parlamint-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="uk_parlamint-pos-DET.html">DET</a></tt>-<tt><a href="uk_parlamint-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="uk_parlamint-pos-DET.html">DET</a></tt>-<tt><a href="uk_parlamint-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="uk_parlamint-pos-PART.html">PART</a></tt>-<tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_parlamint-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="uk_parlamint-pos-ADP.html">ADP</a></tt>-<tt><a href="uk_parlamint-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="uk_parlamint-pos-ADP.html">ADP</a></tt>-<tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_parlamint-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="uk_parlamint-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-DET.html">DET</a></tt>-<tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-DET.html">DET</a></tt>-<tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-NUM.html">NUM</a></tt>-<tt><a href="uk_parlamint-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-NUM.html">NUM</a></tt>-<tt><a href="uk_parlamint-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-NUM.html">NUM</a></tt>-<tt><a href="uk_parlamint-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-PART.html">PART</a></tt>-<tt><a href="uk_parlamint-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_parlamint-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_parlamint-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="uk_parlamint-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-X.html">X</a></tt>-<tt><a href="uk_parlamint-pos-X.html">X</a></tt> (1; 0% instances).
+The following 45 pairs of parts of speech are connected with `fixed`: <tt><a href="uk_parlamint-pos-ADP.html">ADP</a></tt>-<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (473; 29% instances), <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (434; 27% instances), <tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_parlamint-pos-ADP.html">ADP</a></tt> (113; 7% instances), <tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_parlamint-pos-SCONJ.html">SCONJ</a></tt> (106; 6% instances), <tt><a href="uk_parlamint-pos-PART.html">PART</a></tt>-<tt><a href="uk_parlamint-pos-PART.html">PART</a></tt> (90; 6% instances), <tt><a href="uk_parlamint-pos-ADP.html">ADP</a></tt>-<tt><a href="uk_parlamint-pos-ADP.html">ADP</a></tt> (77; 5% instances), <tt><a href="uk_parlamint-pos-ADP.html">ADP</a></tt>-<tt><a href="uk_parlamint-pos-DET.html">DET</a></tt> (42; 3% instances), <tt><a href="uk_parlamint-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="uk_parlamint-pos-PART.html">PART</a></tt> (39; 2% instances), <tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_parlamint-pos-PART.html">PART</a></tt> (38; 2% instances), <tt><a href="uk_parlamint-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt> (38; 2% instances), <tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt> (30; 2% instances), <tt><a href="uk_parlamint-pos-ADP.html">ADP</a></tt>-<tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt> (24; 1% instances), <tt><a href="uk_parlamint-pos-ADP.html">ADP</a></tt>-<tt><a href="uk_parlamint-pos-PART.html">PART</a></tt> (15; 1% instances), <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-ADP.html">ADP</a></tt> (12; 1% instances), <tt><a href="uk_parlamint-pos-DET.html">DET</a></tt>-<tt><a href="uk_parlamint-pos-DET.html">DET</a></tt> (11; 1% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (11; 1% instances), <tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt> (10; 1% instances), <tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (8; 0% instances), <tt><a href="uk_parlamint-pos-DET.html">DET</a></tt>-<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (8; 0% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_parlamint-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="uk_parlamint-pos-DET.html">DET</a></tt>-<tt><a href="uk_parlamint-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="uk_parlamint-pos-PART.html">PART</a></tt>-<tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_parlamint-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="uk_parlamint-pos-DET.html">DET</a></tt>-<tt><a href="uk_parlamint-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="uk_parlamint-pos-ADP.html">ADP</a></tt>-<tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="uk_parlamint-pos-ADP.html">ADP</a></tt>-<tt><a href="uk_parlamint-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_parlamint-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="uk_parlamint-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-DET.html">DET</a></tt>-<tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-DET.html">DET</a></tt>-<tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-NUM.html">NUM</a></tt>-<tt><a href="uk_parlamint-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-NUM.html">NUM</a></tt>-<tt><a href="uk_parlamint-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-NUM.html">NUM</a></tt>-<tt><a href="uk_parlamint-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-PART.html">PART</a></tt>-<tt><a href="uk_parlamint-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-PART.html">PART</a></tt>-<tt><a href="uk_parlamint-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-PART.html">PART</a></tt>-<tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_parlamint-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_parlamint-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="uk_parlamint-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-X.html">X</a></tt>-<tt><a href="uk_parlamint-pos-X.html">X</a></tt> (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 fixed	color:blue
+1	З	з	ADP	ADP	Case=Gen|ExtPos=ADP	3	case	_	_
+2	приводу	привід	NOUN	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	fixed	_	_
+3	поправки	поправка	NOUN	NOUN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -30,44 +44,19 @@ The following 43 pairs of parts of speech are connected with `fixed`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 4 fixed	color:blue
-1	Тому	тому	ADV	ADV	_	5	advmod	_	_
-2	в	в	ADP	ADP	Case=Acc|ExtPos=ADV	5	discourse	_	_
-3	першу	перший	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing|NumType=Ord	2	fixed	_	_
-4	чергу	черга	NOUN	NOUN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	fixed	_	_
-5	мали	мати	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	0	root	_	_
-6	би	би	AUX	AUX	_	5	aux	_	_
-7	розглядатися	розглядатися	VERB	VERB	Aspect=Imp|Reflex=Yes|VerbForm=Inf	5	xcomp	_	_
-8	ці	цей	DET	DET	Case=Nom|Number=Plur|PronType=Dem	9	det	_	_
-9	закони	закон	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	SpaceAfter=No
-10	.	.	PUNCT	PUNCT	_	5	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 10 fixed	color:blue
-1	Земельна	земельний	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Sing	2	amod	_	_
-2	реформа	реформа	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
-3	вже	вже	ADV	ADV	_	4	advmod	_	_
-4	діє	діяти	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-5	,	,	PUNCT	PUNCT	_	6	punct	_	_
-6	вступила	вступити	VERB	VERB	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	4	conj	_	_
-7	в	в	ADP	ADP	Case=Acc	8	case	_	_
-8	силу	сила	NOUN	NOUN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	obl:arg	_	_
-9	більше	більше	ADV	ADV	Degree=Cmp|ExtPos=ADV	12	advmod	_	_
-10	як	як	SCONJ	SCONJ	_	9	fixed	_	_
-11	пів	пів	NUM	NUM	Case=Acc|NumType=Card|Uninflect=Yes	12	nummod:gov	_	_
-12	року	рік	NOUN	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
-13	.	.	PUNCT	PUNCT	_	4	punct	_	_
+# visual-style 2 3 fixed	color:blue
+1	І	і	CCONJ	CCONJ	_	6	cc	_	_
+2	відповідно	відповідно	ADV	ADV	ExtPos=ADP	4	case	_	_
+3	до	до	ADP	ADP	Case=Gen	2	fixed	_	_
+4	Регламенту	регламент	NOUN	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	obl	_	_
+5	ми	ми	PRON	PRON	Animacy=Anim|Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	_
+6	повинні	повинний	ADJ	ADJ	Case=Nom|Number=Plur	0	root	_	_
+7	діяти	діяти	VERB	VERB	Aspect=Imp|VerbForm=Inf	6	xcomp	_	SpaceAfter=No
+8	.	.	PUNCT	PUNCT	_	6	punct	_	_
 
 ~~~
 

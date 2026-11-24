@@ -27,11 +27,11 @@ The following 7 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 2	commission	commission	NOUN	_	Gender=Fem|Number=Sing	5	nsubj:pass	_	Exponence[Gender]=Inherent
 3	parlementaire	parlementaire	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	Exponence[Gender]=Absent
 4	fut	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux:pass	_	_
-5	constituée	constituer	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	Tense[denom]=Past
+5	constituée	constituer	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	Status[Tense]=Denom
 6	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
-7	2	2	NUM	_	Number=Sing|NumType=Card	5	obl:mod	_	Exponence[Number]=Inherent
+7	2	2	NUM	_	ExtPos=PROPN|Number=Sing|NumType=Card	5	obl:mod	_	Exponence[Number]=Inherent
 8	juillet	juillet	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	Exponence[Gender]=Inherent
-9	1953	1953	NUM	_	Number=Sing|NumType=Card	8	nmod	_	Exponence[Number]=Inherent
+9	1953	1953	NUM	_	ExtPos=PROPN|Number=Sing|NumType=Card	8	nmod	_	Exponence[Number]=Inherent
 10	;	;	PUNCT	_	_	5	punct	_	_
 
 ~~~
@@ -45,10 +45,10 @@ The following 7 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 3 1 nsubj:pass	color:blue
 1	Elle	lui	PRON	_	Case=Nom|Emph=No|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj:pass	_	_
 2	sera	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	3	aux:pass	_	_
-3	annulée	annuler	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	Tense[denom]=Past
+3	annulée	annuler	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	Status[Tense]=Denom
 4	en	en	ADP	_	_	5	case	_	_
 5	octobre	octobre	NOUN	_	Gender=Masc|Number=Sing	3	obl:mod	_	Exponence[Gender]=Inherent
-6	2000	2000	NUM	_	Number=Sing|NumType=Card	5	nmod	_	Exponence[Number]=Inherent|SpaceAfter=No
+6	2000	2000	NUM	_	ExtPos=PROPN|Number=Sing|NumType=Card	5	nmod	_	Exponence[Number]=Inherent|SpaceAfter=No
 7	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
@@ -64,7 +64,7 @@ The following 7 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 2	Angiox	Angiox	PROPN	_	_	5	nsubj:pass	_	_
 3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	SpaceAfter=No
 4	-il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl:subj	_	_
-5	utilisé	utiliser	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	Tense[denom]=Past
+5	utilisé	utiliser	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	Status[Tense]=Denom
 6	?	?	PUNCT	_	_	5	punct	_	_
 
 ~~~

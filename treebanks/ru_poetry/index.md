@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.13 release
 The following people have contributed to making this treebank part of UD: Olga Lyashevskaya, Natalia Vlasova, Dmitri Sitchinava.
 
 Repository: [UD_Russian-Poetry](https://github.com/UniversalDependencies/UD_Russian-Poetry)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udru_poetry218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udru_poetry219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 
@@ -82,7 +82,7 @@ et al. (eds.), Nacional’nyj korpus russkogo jazyka: 2006–2008. Novye rezul�
 
 ## Relations
 
-[acl](ru_poetry-dep-acl.html) – [acl:relcl](ru_poetry-dep-acl-relcl.html) – [advcl](ru_poetry-dep-advcl.html) – [advmod](ru_poetry-dep-advmod.html) – [amod](ru_poetry-dep-amod.html) – [appos](ru_poetry-dep-appos.html) – [aux](ru_poetry-dep-aux.html) – [aux:pass](ru_poetry-dep-aux-pass.html) – [case](ru_poetry-dep-case.html) – [cc](ru_poetry-dep-cc.html) – [ccomp](ru_poetry-dep-ccomp.html) – [compound](ru_poetry-dep-compound.html) – [conj](ru_poetry-dep-conj.html) – [cop](ru_poetry-dep-cop.html) – [csubj](ru_poetry-dep-csubj.html) – [csubj:pass](ru_poetry-dep-csubj-pass.html) – [dep](ru_poetry-dep-dep.html) – [det](ru_poetry-dep-det.html) – [discourse](ru_poetry-dep-discourse.html) – [dislocated](ru_poetry-dep-dislocated.html) – [expl](ru_poetry-dep-expl.html) – [fixed](ru_poetry-dep-fixed.html) – [flat](ru_poetry-dep-flat.html) – [flat:foreign](ru_poetry-dep-flat-foreign.html) – [flat:name](ru_poetry-dep-flat-name.html) – [goeswith](ru_poetry-dep-goeswith.html) – [iobj](ru_poetry-dep-iobj.html) – [list](ru_poetry-dep-list.html) – [mark](ru_poetry-dep-mark.html) – [nmod](ru_poetry-dep-nmod.html) – [nsubj](ru_poetry-dep-nsubj.html) – [nsubj:outer](ru_poetry-dep-nsubj-outer.html) – [nsubj:pass](ru_poetry-dep-nsubj-pass.html) – [nummod](ru_poetry-dep-nummod.html) – [nummod:gov](ru_poetry-dep-nummod-gov.html) – [obj](ru_poetry-dep-obj.html) – [obl](ru_poetry-dep-obl.html) – [obl:agent](ru_poetry-dep-obl-agent.html) – [obl:depict](ru_poetry-dep-obl-depict.html) – [obl:float](ru_poetry-dep-obl-float.html) – [obl:pronmod](ru_poetry-dep-obl-pronmod.html) – [obl:tmod](ru_poetry-dep-obl-tmod.html) – [orphan](ru_poetry-dep-orphan.html) – [parataxis](ru_poetry-dep-parataxis.html) – [parataxis:discourse](ru_poetry-dep-parataxis-discourse.html) – [punct](ru_poetry-dep-punct.html) – [root](ru_poetry-dep-root.html) – [vocative](ru_poetry-dep-vocative.html) – [xcomp](ru_poetry-dep-xcomp.html)
+[acl](ru_poetry-dep-acl.html) – [acl:relcl](ru_poetry-dep-acl-relcl.html) – [advcl](ru_poetry-dep-advcl.html) – [advmod](ru_poetry-dep-advmod.html) – [amod](ru_poetry-dep-amod.html) – [appos](ru_poetry-dep-appos.html) – [aux](ru_poetry-dep-aux.html) – [aux:pass](ru_poetry-dep-aux-pass.html) – [case](ru_poetry-dep-case.html) – [cc](ru_poetry-dep-cc.html) – [ccomp](ru_poetry-dep-ccomp.html) – [compound](ru_poetry-dep-compound.html) – [conj](ru_poetry-dep-conj.html) – [cop](ru_poetry-dep-cop.html) – [csubj](ru_poetry-dep-csubj.html) – [csubj:pass](ru_poetry-dep-csubj-pass.html) – [dep](ru_poetry-dep-dep.html) – [det](ru_poetry-dep-det.html) – [discourse](ru_poetry-dep-discourse.html) – [dislocated](ru_poetry-dep-dislocated.html) – [expl](ru_poetry-dep-expl.html) – [fixed](ru_poetry-dep-fixed.html) – [flat](ru_poetry-dep-flat.html) – [flat:foreign](ru_poetry-dep-flat-foreign.html) – [flat:name](ru_poetry-dep-flat-name.html) – [goeswith](ru_poetry-dep-goeswith.html) – [iobj](ru_poetry-dep-iobj.html) – [list](ru_poetry-dep-list.html) – [mark](ru_poetry-dep-mark.html) – [nmod](ru_poetry-dep-nmod.html) – [nmod:float](ru_poetry-dep-nmod-float.html) – [nmod:pronmod](ru_poetry-dep-nmod-pronmod.html) – [nsubj](ru_poetry-dep-nsubj.html) – [nsubj:outer](ru_poetry-dep-nsubj-outer.html) – [nsubj:pass](ru_poetry-dep-nsubj-pass.html) – [nummod](ru_poetry-dep-nummod.html) – [nummod:gov](ru_poetry-dep-nummod-gov.html) – [obj](ru_poetry-dep-obj.html) – [obl](ru_poetry-dep-obl.html) – [obl:agent](ru_poetry-dep-obl-agent.html) – [obl:depict](ru_poetry-dep-obl-depict.html) – [obl:float](ru_poetry-dep-obl-float.html) – [obl:tmod](ru_poetry-dep-obl-tmod.html) – [orphan](ru_poetry-dep-orphan.html) – [parataxis](ru_poetry-dep-parataxis.html) – [parataxis:discourse](ru_poetry-dep-parataxis-discourse.html) – [punct](ru_poetry-dep-punct.html) – [root](ru_poetry-dep-root.html) – [vocative](ru_poetry-dep-vocative.html) – [xcomp](ru_poetry-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -856,6 +856,11 @@ et al. (eds.), Nacional’nyj korpus russkogo jazyka: 2006–2008. Novye rezul�
           <li>PART: хотя, Лишь, только</li>
         </ul>
       </li>
+      <li>PRON
+        <ul>
+          <li>DET: Самого, сами</li>
+        </ul>
+      </li>
       <li>SCONJ
         <ul>
           <li>ADP: С</li>
@@ -1103,6 +1108,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 14 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:depict</a>, <a>obl:float</a>, <a>obl:pronmod</a>, <a>obl:tmod</a>, <a>parataxis:discourse</a></li>
+<li>This corpus uses 15 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nmod:float</a>, <a>nmod:pronmod</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:depict</a>, <a>obl:float</a>, <a>obl:tmod</a>, <a>parataxis:discourse</a></li>
 <li>The following 2 relation types are not used in this corpus at all: <a>clf</a>, <a>reparandum</a></li>
 </ul>

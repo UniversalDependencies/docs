@@ -19,4 +19,4 @@ An appositional modifier of a noun is a nominal immediately following the first 
 
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:39 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:20 CET -->

@@ -40,7 +40,7 @@ The following 2 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 6	fgColor:white
 # visual-style 6 5 aux	color:blue
 1	die	die	NOUN	_	_	8	obj	_	AlignBegin=18205|AlignEnd=18524|GE=thing|Gloss=thing|nWord=1|RX=[N]
-2	nga	nga	NOUN	_	_	1	obl:lmod	_	AlignBegin=18524|AlignEnd=18684|GE=field|Gloss=field|nWord=2|RX=[N]
+2	nga	nga	NOUN	_	_	1	nmod	_	AlignBegin=18524|AlignEnd=18684|GE=field|Gloss=field|nWord=2|RX=[N]
 3	ske	ske	ADP	_	_	2	case	_	AlignBegin=18684|AlignEnd=18843|GE=[LOC]|Gloss=LOC|nWord=2|RX=[ADP]
 4	cha	cha	PRON	_	_	8	nsubj	_	AlignBegin=18843|AlignEnd=19162|GE=[1SG]|Gloss=1SG|nWord=3|RX=[PRO]
 5	kle	kle	AUX	_	_	6	aux	_	AlignBegin=19162|AlignEnd=19481|GE=be|Gloss=be|nWord=4|RX=[V]

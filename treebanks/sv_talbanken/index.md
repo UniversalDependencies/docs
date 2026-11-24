@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.0 release.
 The following people have contributed to making this treebank part of UD: Joakim Nivre, Aaron Smith, Victor Norrman.
 
 Repository: [UD_Swedish-Talbanken](https://github.com/UniversalDependencies/UD_Swedish-Talbanken)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsv_talbanken218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsv_talbanken219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 
@@ -355,7 +355,7 @@ Department of Linguistics.
 <ul>
   <li>Def
     <ul>
-      <li>ADJ: hela, nya, svenska, flesta, stora, andra, bästa, ekonomiska, sociala, kristna</li>
+      <li>ADJ: hela, nya, svenska, flesta, andra, stora, bästa, ekonomiska, sociala, kristna</li>
       <li>ADJ-Part: ökade, gifta, nämnda, avlönade, dolda, isolerade, kända, minskade, särskilda, angivna</li>
       <li>DET: den, de, det, denna, dessa, detta, båda, ena, bägge, varannan</li>
       <li>NOUN: äktenskapet, barnen, samhället, familjen, kvinnan, barnet, mannen, kvinnorna, världen, föräldrarna</li>
@@ -390,7 +390,7 @@ Department of Linguistics.
   <li>Cmp
     <ul>
       <li>ADJ: större, flera, högre, bättre, mindre, fler, äldre, längre, lättare, lägre</li>
-      <li>ADV: mer, tidigare, mindre, mera, längre, senare, vidare, ytterligare, närmare, bättre</li>
+      <li>ADV: mer, tidigare, mindre, mera, längre, senare, ytterligare, närmare, bättre, sämre</li>
     </ul>
   </li>
 </ul>
@@ -688,13 +688,11 @@ Department of Linguistics.
       </li>
       <li>ADV
         <ul>
-          <li>ADP: i, a</li>
+          <li>ADP: som, i, a</li>
           <li>ADV: så, till, rent, sent</li>
-          <li>CCONJ: som</li>
           <li>NOUN: vice, Poste, stick</li>
           <li>PART: Icke</li>
           <li>PRON: det</li>
-          <li>SCONJ: som</li>
           <li>VERB-Fin: låt, vill</li>
         </ul>
       </li>

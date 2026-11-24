@@ -171,7 +171,7 @@ The most frequent other feature values with which `ADV` and `Number` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>VERB --[<tt><a href="ta_mwtt-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (163; 75%),
-<tt>VERB --[<tt><a href="ta_mwtt-dep-obj.html">obj</a></tt>]--> NOUN</tt> (92; 70%),
+<tt>VERB --[<tt><a href="ta_mwtt-dep-obj.html">obj</a></tt>]--> NOUN</tt> (92; 71%),
 <tt>VERB --[<tt><a href="ta_mwtt-dep-obl.html">obl</a></tt>]--> NOUN</tt> (87; 82%),
 <tt>VERB --[<tt><a href="ta_mwtt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (62; 60%),
 <tt>VERB --[<tt><a href="ta_mwtt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (51; 73%),

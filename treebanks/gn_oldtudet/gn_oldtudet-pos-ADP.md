@@ -40,7 +40,7 @@ Examples: <em>upe, agui, chupe, pype</em>
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 2 different relations: <tt><a href="gn_oldtudet-dep-case.html">case</a></tt> (16; 73% instances), <tt><a href="gn_oldtudet-dep-obl.html">obl</a></tt> (6; 27% instances)
+`ADP` nodes are attached to their parents using 3 different relations: <tt><a href="gn_oldtudet-dep-case.html">case</a></tt> (16; 73% instances), <tt><a href="gn_oldtudet-dep-obl.html">obl</a></tt> (5; 23% instances), <tt><a href="gn_oldtudet-dep-nmod.html">nmod</a></tt> (1; 5% instances)
 
 Parents of `ADP` nodes belong to 4 different parts of speech: <tt><a href="gn_oldtudet-pos-NOUN.html">NOUN</a></tt> (12; 55% instances), <tt><a href="gn_oldtudet-pos-VERB.html">VERB</a></tt> (4; 18% instances), <tt><a href="gn_oldtudet-pos-PRON.html">PRON</a></tt> (3; 14% instances), <tt><a href="gn_oldtudet-pos-PROPN.html">PROPN</a></tt> (3; 14% instances)
 

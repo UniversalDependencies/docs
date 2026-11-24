@@ -63,4 +63,4 @@ These discourse elements are attached to the head of the most relevant nearby un
 9	.	.	PUNCT	_	_	17	punct	_	Translit=.|LTranslit=.
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:03 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:41 CET -->

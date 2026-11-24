@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.680000 (the average of all parts of speech is 2.342815).
+The form / lemma ratio of `PUNCT` is 1.680000 (the average of all parts of speech is 2.343431).
 
 The 1st highest number of forms (10) was observed with the lemma “"”: <em>", '", '', «, », ‘’, ’’, “, ”, „</em>.
 
@@ -42,7 +42,7 @@ Examples: <em>,, ., ", -, –, ), (, ?, ”, :</em>
 
 `PUNCT` nodes are attached to their parents using 2 different relations: <tt><a href="lv_lvtb-dep-punct.html">punct</a></tt> (57978; 100% instances), <tt><a href="lv_lvtb-dep-root.html">root</a></tt> (6; 0% instances)
 
-Parents of `PUNCT` nodes belong to 18 different parts of speech: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (38577; 67% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (9064; 16% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (2683; 5% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (2637; 5% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (1562; 3% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt> (919; 2% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (659; 1% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (624; 1% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (423; 1% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (303; 1% instances), <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> (280; 0% instances), <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (151; 0% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (40; 0% instances), <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (38; 0% instances), <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (9; 0% instances),  (6; 0% instances), <tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances)
+Parents of `PUNCT` nodes belong to 18 different parts of speech: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (38557; 66% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (9064; 16% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (2683; 5% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (2637; 5% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (1562; 3% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt> (919; 2% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (659; 1% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (644; 1% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (423; 1% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (303; 1% instances), <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> (280; 0% instances), <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (151; 0% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (40; 0% instances), <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (38; 0% instances), <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (9; 0% instances),  (6; 0% instances), <tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances)
 
 57982 (100%) `PUNCT` nodes are leaves.
 

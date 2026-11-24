@@ -47,7 +47,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (12; 100% of non-empty `Foreign`): <em>funky, Digital, Versatile, ancien, grand, low-tech, new, old, second-hand, silent</em>
-* `EMPTY` (36845): <em>suur, hea, võimalik, eesti, suurem, uue, suure, raske, esimene, oluline</em>
+* `EMPTY` (36840): <em>suur, hea, võimalik, eesti, suurem, uue, suure, raske, esimene, oluline</em>
 
 `Foreign` seems to be **lexical feature** of `ADJ`. 100% lemmas (12) occur only with one value of `Foreign`.
 

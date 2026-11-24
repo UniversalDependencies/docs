@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.13 release
 The following people have contributed to making this treebank part of UD: Kirian Guiller, Yidi Huang, Yixuan Li, Qishen Wu, Bruno Guillaume, Sylvain Kahane, Kim Gerdes.
 
 Repository: [UD_Chinese-Beginner](https://github.com/UniversalDependencies/UD_Chinese-Beginner)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udzh_beginner218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udzh_beginner219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -45,7 +45,7 @@ A treebank of Chinese sentences adapted for learner of level A1 to C1 (HSK1 to 5
 
 
 
-The syntactic analysis is originally done in SUD on the character level under the name SUD_Chinese-PatentChar. See SUD Guidelines : https://surfacesyntacticud.github.io/guidelines/u/
+The syntactic analysis is originally done in SUD on the character level under the name SUD_Chinese-PatentChar. See SUD Guidelines: https://docs.surfacesyntacticud.org/guidelines/universal/
 
 ## Structure of the Treebank
 The Treebank is partitioned in 5 parts A1, A2, B1, B2 and C1 that represents different level of difficulty (from easiest to hardest).
@@ -325,10 +325,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (1292)</li>
-      <li>VERB--NOUN-ADP(的) (2)</li>
+      <li>VERB--NOUN (1281)</li>
+      <li>VERB--NOUN-ADP(的) (1)</li>
       <li>VERB--NOUN-ADP(通过) (1)</li>
-      <li>VERB--PRON (172)</li>
+      <li>VERB--PRON (148)</li>
       <li>VERB--PRON-ADP(的) (6)</li>
     </ul>
   </li>

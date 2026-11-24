@@ -36,6 +36,6 @@ The most frequent other feature values with which `PRON` and `Emph` co-occurred:
 ## Relations with Agreement in `Emph`
 
 The 10 most frequent relations where parent and child node agree in `Emph`:
-<tt>PRON --[<tt><a href="fr_rhapsodie-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (71; 95%),
-<tt>PRON --[<tt><a href="fr_rhapsodie-dep-obj.html">obj</a></tt>]--> PRON</tt> (1; 100%).
+<tt>PRON --[<tt><a href="fr_rhapsodie-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (73; 97%),
+<tt>PRON --[<tt><a href="fr_rhapsodie-dep-obj.html">obj</a></tt>]--> PRON</tt> (2; 67%).
 

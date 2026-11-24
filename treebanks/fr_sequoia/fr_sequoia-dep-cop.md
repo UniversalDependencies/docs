@@ -11,7 +11,7 @@ This relation is universal.
 575 nodes (1%) are attached to their parents as `cop`.
 
 547 instances of `cop` (95%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.13565217391304.
+Average distance between parent and child is 2.13391304347826.
 
 The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (264; 46% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (242; 42% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (26; 5% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (15; 3% instances), <tt><a href="fr_sequoia-pos-SYM.html">SYM</a></tt>-<tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (13; 2% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (4; 1% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 

@@ -53,3 +53,4 @@ Note that in Western Armenian, the auxiliary verb _տալ_/_tal_ used to constru
 ~~~
 
 
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:24 CET -->

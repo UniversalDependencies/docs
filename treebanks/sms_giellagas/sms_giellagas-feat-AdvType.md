@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="sms_giellagas-pos-A
 
 ### `ADV`
 
-79 <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> tokens (26% of all `ADV` tokens) have a non-empty value of `AdvType`.
+79 <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> tokens (25% of all `ADV` tokens) have a non-empty value of `AdvType`.
 
 `ADV` tokens may have the following values of `AdvType`:
 
@@ -26,7 +26,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="sms_giellagas-pos-A
 
 ### `SCONJ`
 
-1 <tt><a href="sms_giellagas-pos-SCONJ.html">SCONJ</a></tt> tokens (2% of all `SCONJ` tokens) have a non-empty value of `AdvType`.
+1 <tt><a href="sms_giellagas-pos-SCONJ.html">SCONJ</a></tt> tokens (1% of all `SCONJ` tokens) have a non-empty value of `AdvType`.
 
 `SCONJ` tokens may have the following values of `AdvType`:
 

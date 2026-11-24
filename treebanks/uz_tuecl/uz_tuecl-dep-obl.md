@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-84 nodes (9%) are attached to their parents as `obl`.
+79 nodes (8%) are attached to their parents as `obl`.
 
-84 instances of `obl` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.8452380952381.
+79 instances of `obl` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.86075949367089.
 
-The following 8 pairs of parts of speech are connected with `obl`: <tt><a href="uz_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_tuecl-pos-NOUN.html">NOUN</a></tt> (43; 51% instances), <tt><a href="uz_tuecl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uz_tuecl-pos-NOUN.html">NOUN</a></tt> (15; 18% instances), <tt><a href="uz_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_tuecl-pos-PRON.html">PRON</a></tt> (10; 12% instances), <tt><a href="uz_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_tuecl-pos-PROPN.html">PROPN</a></tt> (8; 10% instances), <tt><a href="uz_tuecl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uz_tuecl-pos-NOUN.html">NOUN</a></tt> (5; 6% instances), <tt><a href="uz_tuecl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uz_tuecl-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="uz_tuecl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uz_tuecl-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="uz_tuecl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uz_tuecl-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `obl`: <tt><a href="uz_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_tuecl-pos-NOUN.html">NOUN</a></tt> (43; 54% instances), <tt><a href="uz_tuecl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uz_tuecl-pos-NOUN.html">NOUN</a></tt> (15; 19% instances), <tt><a href="uz_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_tuecl-pos-PRON.html">PRON</a></tt> (10; 13% instances), <tt><a href="uz_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_tuecl-pos-PROPN.html">PROPN</a></tt> (8; 10% instances), <tt><a href="uz_tuecl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uz_tuecl-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="uz_tuecl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uz_tuecl-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="uz_tuecl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uz_tuecl-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

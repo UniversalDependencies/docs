@@ -63,4 +63,4 @@ The quality of the given object is so strong that there is hardly any other obje
 
 * _հզոր_/_hzor_ “powerful”; _<b>գերհզոր</b>_/_<b>gerhzor</b>_ “<b>indescribably, super powerful</b>”
 * _մարդկային_/_mardkayin_ “human”; _<b>գերմարդկային</b>_/_germardkayin_ “<b>superhuman</b>”
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:49 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:39 CET -->

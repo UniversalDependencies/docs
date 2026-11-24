@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fem`, `Masc`, `Neut`.
 
-50176 tokens (51%) have a non-empty value of `Gender`.
-24612 types (82%) occur at least once with a non-empty value of `Gender`.
-15059 lemmas (80%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 8 part-of-speech tags: <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (26754; 27% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (9543; 10% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (6584; 7% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> (3857; 4% instances), <tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> (1428; 1% instances), <tt><a href="ru_gsd-pos-DET.html">DET</a></tt> (824; 1% instances), <tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt> (607; 1% instances), <tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt> (579; 1% instances).
+50177 tokens (51%) have a non-empty value of `Gender`.
+24613 types (82%) occur at least once with a non-empty value of `Gender`.
+15060 lemmas (80%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 8 part-of-speech tags: <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (26754; 27% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (9543; 10% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (6585; 7% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> (3857; 4% instances), <tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> (1428; 1% instances), <tt><a href="ru_gsd-pos-DET.html">DET</a></tt> (824; 1% instances), <tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt> (607; 1% instances), <tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt> (579; 1% instances).
 
 ### `NOUN`
 
@@ -50,7 +50,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 9543 <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> tokens (78% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9541; 100%), <tt><a href="ru_gsd-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (9485; 99%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9541; 100%), <tt><a href="ru_gsd-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (9446; 99%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
@@ -72,16 +72,16 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 ### `PROPN`
 
-6584 <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Gender`.
+6585 <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PROPN` and `Gender` co-occurred: <tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6382; 97%), <tt><a href="ru_gsd-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (3299; 50%).
+The most frequent other feature values with which `PROPN` and `Gender` co-occurred: <tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6383; 97%), <tt><a href="ru_gsd-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (3300; 50%).
 
 `PROPN` tokens may have the following values of `Gender`:
 
 * `Fem` (1842; 28% of non-empty `Gender`): <em>России, Украины, Франции, Германии, Европы, Испании, РФ, Москве, Франция, Англии</em>
-* `Masc` (4523; 69% of non-empty `Gender`): <em>США, СССР, Александра, Владимир, Александр, Джон, КОАТУУ, Карл, Крыма, Михаил</em>
+* `Masc` (4524; 69% of non-empty `Gender`): <em>США, СССР, Александра, Владимир, Александр, Джон, КОАТУУ, Карл, Крыма, Михаил</em>
 * `Neut` (219; 3% of non-empty `Gender`): <em>Дубно, Евровидение, Марокко, ЦРУ, IPO, Борисово, Григорово, Динамо, Домодедово, Закарпатье</em>
-* `EMPTY` (33): <em>НЧ, В., 154М, 22М, 22Р, 25С, 3О, 400Т, 60К, 60Н</em>
+* `EMPTY` (32): <em>НЧ, В., 154М, 22М, 22Р, 25С, 3О, 400Т, 60К, 60Н</em>
 
 <table>
   <tr><th>Paradigm <i>НАТО</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -89,7 +89,7 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
   <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td></td><td><em>НАТО</em></td><td></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `PROPN`. 99% lemmas (4426) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `PROPN`. 99% lemmas (4427) occur only with one value of `Gender`.
 
 ### `VERB`
 
@@ -102,7 +102,7 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 * `Fem` (944; 24% of non-empty `Gender`): <em>стала, получила, основана, была, расположена, создана, вошла, появилась, вышла, род.</em>
 * `Masc` (2308; 60% of non-empty `Gender`): <em>стал, получил, родился, начал, работал, окончил, назначен, участвовал, вышел, умер</em>
 * `Neut` (605; 16% of non-empty `Gender`): <em>было, составляло, стало, удалось, принято, привело, расположено, пришлось, проживало, произошло</em>
-* `EMPTY` (4637): <em>является, составляет, может, находится, входит, можно, имеет, есть, занимает, могут</em>
+* `EMPTY` (4638): <em>является, составляет, может, находится, входит, можно, имеет, есть, занимает, могут</em>
 
 <table>
   <tr><th>Paradigm <i>стать</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -197,7 +197,7 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
   <tr><td><tt><tt><a href="ru_gsd-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>один</em></td><td><em>одна</em></td><td><em>одно</em></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NUM`. 93% lemmas (125) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NUM`. 93% lemmas (126) occur only with one value of `Gender`.
 
 ### `AUX`
 
@@ -226,7 +226,7 @@ The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="ru_gsd-dep-amod.html">amod</a></tt>]--> ADJ</tt> (7460; 76%),
 <tt>NOUN --[<tt><a href="ru_gsd-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1108; 55%),
 <tt>PROPN --[<tt><a href="ru_gsd-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (964; 99%),
-<tt>NOUN --[<tt><a href="ru_gsd-dep-appos.html">appos</a></tt>]--> PROPN</tt> (790; 69%),
+<tt>NOUN --[<tt><a href="ru_gsd-dep-appos.html">appos</a></tt>]--> PROPN</tt> (791; 69%),
 <tt>NOUN --[<tt><a href="ru_gsd-dep-det.html">det</a></tt>]--> DET</tt> (656; 51%),
 <tt>NOUN --[<tt><a href="ru_gsd-dep-acl.html">acl</a></tt>]--> VERB</tt> (509; 53%),
 <tt>VERB --[<tt><a href="ru_gsd-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (470; 69%),

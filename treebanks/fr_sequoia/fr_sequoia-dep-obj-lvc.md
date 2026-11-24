@@ -25,7 +25,7 @@ The following 1 pairs of parts of speech are connected with `obj:lvc`: <tt><a hr
 # visual-style 39 40 obj:lvc	color:blue
 1	C'	ce	PRON	_	Number=Sing|Person=3|PronType=Dem	3	nsubj:pass	_	SpaceAfter=No
 2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	_
-3	connu	connaître	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No|Tense[denom]=Past
+3	connu	connaître	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No|Status[Tense]=Denom
 4	,	,	PUNCT	_	_	8	punct	_	_
 5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
 6	malheurs	malheur	NOUN	_	Gender=Masc|Number=Plur	8	nsubj	_	Exponence[Gender]=Inherent
@@ -41,7 +41,7 @@ The following 1 pairs of parts of speech are connected with `obj:lvc`: <tt><a hr
 16	qui	qui	PRON	_	PronType=Rel	18	nsubj	_	_
 17	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	18	obj	_	_
 18	disait	dire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	14	acl:relcl	_	_
-19	intéressé	intéresser	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	18	ccomp	_	Tense[denom]=Past
+19	intéressé	intéresser	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	18	ccomp	_	Status[Tense]=Denom
 20	par	par	ADP	_	_	22	case	_	_
 21	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
 22	distribution	distribution	NOUN	_	Gender=Fem|Number=Sing	19	obl:agent	_	Exponence[Gender]=Inherent
@@ -51,7 +51,7 @@ The following 1 pairs of parts of speech are connected with `obj:lvc`: <tt><a hr
 26	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	27	det	_	_
 27	plaques	plaque	NOUN	_	Gender=Fem|Number=Plur	22	nmod	_	Exponence[Gender]=Inherent
 28	numériques	numérique	ADJ	_	Gender=Fem|Number=Plur	27	amod	_	Exponence[Gender]=Absent
-29	mises	mettre	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	27	acl	_	Tense[denom]=Past
+29	mises	mettre	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	27	acl	_	Status[Tense]=Denom
 30	à	à	ADP	_	_	32	case	_	_
 31	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	32	det	_	_
 32	point	point	NOUN	_	Gender=Masc|Number=Sing	29	obl:arg	_	Exponence[Gender]=Inherent
@@ -61,7 +61,7 @@ The following 1 pairs of parts of speech are connected with `obj:lvc`: <tt><a hr
 36	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	39	aux:tense	_	_
 37	soudainement	soudainement	ADV	_	_	39	advmod	_	_
 38	plus	plus	ADV	_	Polarity=Neg	39	advmod	_	_
-39	donné	donner	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	8	parataxis	_	Tense[denom]=Past
+39	donné	donner	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	8	parataxis	_	Status[Tense]=Denom
 40	signe	signe	NOUN	_	Gender=Masc|Number=Sing	39	obj:lvc	_	Exponence[Gender]=Inherent
 41	de	de	ADP	_	_	42	case	_	_
 42	vie	vie	NOUN	_	Gender=Fem|Number=Sing	40	nmod	_	Exponence[Gender]=Inherent|SpaceAfter=No

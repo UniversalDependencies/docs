@@ -60,7 +60,7 @@ The feature is used with 7 part-of-speech tags: <tt><a href="en_childes-pos-INTJ
 
 `PRON` tokens may have the following values of `Typo`:
 
-* `Yes` (2; 100% of non-empty `Typo`): <em>Who, it</em>
+* `Yes` (2; 100% of non-empty `Typo`): <em>Who's, it</em>
 
 ### `VERB`
 

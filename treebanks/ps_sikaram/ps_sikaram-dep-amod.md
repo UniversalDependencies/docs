@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-337 nodes (6%) are attached to their parents as `amod`.
+427 nodes (6%) are attached to their parents as `amod`.
 
-334 instances of `amod` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.41246290801187.
+424 instances of `amod` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.39344262295082.
 
-The following 3 pairs of parts of speech are connected with `amod`: <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (331; 98% instances), <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (2; 1% instances).
+The following 3 pairs of parts of speech are connected with `amod`: <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (418; 98% instances), <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (7; 2% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -24,13 +24,14 @@ The following 3 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 7 6 amod	color:blue
 1	د	د	ADP	_	Case=Acc	2	case	_	Translit=dë|LTranslit=dë|Gloss=of
 2	پیتر	پیتر	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	3	nmod	_	Translit=pitr|LTranslit=pitr|Gloss=Peter
-3	ګاونډي	ګاونډی	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	Translit=gâwanḍí|LTranslit=gâwanḍáy|Gloss=neighbor
-4	کټارې	کټاره	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	8	obl	_	Translit=këṭâré|LTranslit=këṭârá|Gloss=fence
+3	ګاونډي	ګاونډی	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	Translit=gâwanḍí|LTranslit=gâwanḍáy|Gloss=neighbor
+4	کټارې	کټاره	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	9	obl	_	Translit=këṭâré|LTranslit=këṭârá|Gloss=fence
 5	ته	ته	ADP	_	Case=Acc	4	case	_	Translit=ta|LTranslit=ta|Gloss=to
 6	سور	سور	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	7	amod	_	Translit=sur|LTranslit=sur|Gloss=red
-7	رنګ	رنګ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	obj	_	Translit=rang|LTranslit=rang|Gloss=color
-8	ورکړ	ورکول	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=wárkëṛ|LTranslit=warkawë́l|Gloss=gave|SpaceAfter=No
-9	.	.	PUNCT	_	_	8	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
+7	رنګ	رنګ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	9	obj	_	Translit=rang|LTranslit=rang|Gloss=color
+8	ور	ور	PRON	_	Aspect=Perf|Person=3|PronType=Prs|Variant=Dir	9	compound:preverb	_	Translit=war|LTranslit=war|Gloss=to-it
+9	کړ	کول	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=këṛ|LTranslit=kawë́l|Gloss=did
+10	.	.	PUNCT	_	_	9	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
 
 ~~~
 

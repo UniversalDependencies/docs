@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="pl_mpdt-dep-aux.html">aux</a></tt>.
 There are also 3 other language-specific subtypes of `aux`: <tt><a href="pl_mpdt-dep-aux-clitic.html">aux:clitic</a></tt>, <tt><a href="pl_mpdt-dep-aux-cnd.html">aux:cnd</a></tt>, <tt><a href="pl_mpdt-dep-aux-imp.html">aux:imp</a></tt>.
 
-163 nodes (0%) are attached to their parents as `aux:pass`.
+203 nodes (0%) are attached to their parents as `aux:pass`.
 
-92 instances of `aux:pass` (56%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.41104294478528.
+115 instances of `aux:pass` (57%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.47290640394089.
 
-The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-AUX.html">AUX</a></tt> (163; 100% instances).
+The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-AUX.html">AUX</a></tt> (203; 100% instances).
 
 
 ~~~ conllu

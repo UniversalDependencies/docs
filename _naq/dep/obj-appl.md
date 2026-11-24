@@ -12,4 +12,4 @@ Tita ge ǁnā khoena sîsenba tama hâ . \n I DECL that people work_for not PFV 
 obj:appl(sîsenba, khoena)
 obj:appl(work_for, people)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:28 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:39:02 CET -->

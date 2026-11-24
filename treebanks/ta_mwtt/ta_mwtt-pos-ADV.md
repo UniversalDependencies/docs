@@ -73,7 +73,7 @@ Examples: இப்போது, இங்கே, இன்று, மட்ட�
 
 `ADV` nodes are attached to their parents using 8 different relations: <tt><a href="ta_mwtt-dep-advmod.html">advmod</a></tt> (133; 83% instances), <tt><a href="ta_mwtt-dep-obl-tmod.html">obl:tmod</a></tt> (14; 9% instances), <tt><a href="ta_mwtt-dep-obl-pmod.html">obl:pmod</a></tt> (5; 3% instances), <tt><a href="ta_mwtt-dep-advcl.html">advcl</a></tt> (3; 2% instances), <tt><a href="ta_mwtt-dep-advmod-emph.html">advmod:emph</a></tt> (2; 1% instances), <tt><a href="ta_mwtt-dep-obl.html">obl</a></tt> (2; 1% instances), <tt><a href="ta_mwtt-dep-amod.html">amod</a></tt> (1; 1% instances), <tt><a href="ta_mwtt-dep-cc.html">cc</a></tt> (1; 1% instances)
 
-Parents of `ADV` nodes belong to 5 different parts of speech: <tt><a href="ta_mwtt-pos-VERB.html">VERB</a></tt> (147; 91% instances), <tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt> (7; 4% instances), <tt><a href="ta_mwtt-pos-ADJ.html">ADJ</a></tt> (4; 2% instances), <tt><a href="ta_mwtt-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="ta_mwtt-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
+Parents of `ADV` nodes belong to 5 different parts of speech: <tt><a href="ta_mwtt-pos-VERB.html">VERB</a></tt> (148; 92% instances), <tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt> (6; 4% instances), <tt><a href="ta_mwtt-pos-ADJ.html">ADJ</a></tt> (4; 2% instances), <tt><a href="ta_mwtt-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="ta_mwtt-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
 
 151 (94%) `ADV` nodes are leaves.
 

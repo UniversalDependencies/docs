@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="zh_pud-dep-obl.html">obl</a></tt>.
 There are also 2 other language-specific subtypes of `obl`: <tt><a href="zh_pud-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="zh_pud-dep-obl-patient.html">obl:patient</a></tt>.
 
-214 nodes (1%) are attached to their parents as `obl:tmod`.
+213 nodes (1%) are attached to their parents as `obl:tmod`.
 
-202 instances of `obl:tmod` (94%) are right-to-left (child precedes parent).
-Average distance between parent and child is 6.07943925233645.
+201 instances of `obl:tmod` (94%) are right-to-left (child precedes parent).
+Average distance between parent and child is 6.09859154929577.
 
-The following 8 pairs of parts of speech are connected with `obl:tmod`: <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> (196; 92% instances), <tt><a href="zh_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> (7; 3% instances), <tt><a href="zh_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> (4; 2% instances), <tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_pud-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="zh_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `obl:tmod`: <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> (196; 92% instances), <tt><a href="zh_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> (7; 3% instances), <tt><a href="zh_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_pud-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="zh_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

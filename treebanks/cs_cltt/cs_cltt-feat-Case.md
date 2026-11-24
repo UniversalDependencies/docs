@@ -18,7 +18,7 @@ The feature is used with 6 part-of-speech tags: <tt><a href="cs_cltt-pos-NOUN.ht
 
 11016 <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7820; 71%), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (6564; 60%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (9623; 87%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7820; 71%), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (6564; 60%).
 
 `NOUN` tokens may have the following values of `Case`:
 
@@ -40,7 +40,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 6283 <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> tokens (95% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (6109; 97%), <tt><a href="cs_cltt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (5893; 94%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4011; 64%), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3772; 60%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (6109; 97%), <tt><a href="cs_cltt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (5893; 94%), <tt><a href="cs_cltt-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (5173; 82%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4011; 64%), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3772; 60%).
 
 `ADJ` tokens may have the following values of `Case`:
 

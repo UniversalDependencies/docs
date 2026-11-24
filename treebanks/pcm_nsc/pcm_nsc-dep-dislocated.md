@@ -22,20 +22,20 @@ The following 59 pairs of parts of speech are connected with `dislocated`: <tt><
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 4 dislocated	color:blue
-1	but	but	CCONJ	_	_	12	discourse	_	AlignBegin=48990|AlignEnd=49170|Gloss=but
-2	any	any	DET	_	_	4	det	_	AlignBegin=49170|AlignEnd=49420|Gloss=any
-3	small	small	ADJ	_	_	4	amod	_	AlignBegin=49420|AlignEnd=49740|Gloss=small
-4	tin	ting	NOUN	_	_	12	dislocated	_	AlignBegin=49740|AlignEnd=49880|Gloss=thing
-5	weh	wey	SCONJ	_	_	7	mark	_	AlignBegin=49880|AlignEnd=50030|Gloss=REL
-6	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	AlignBegin=50030|AlignEnd=50090|Gloss=NOM.2
-7	do	do	VERB	_	_	4	acl:relcl	_	AlignBegin=50090|AlignEnd=50160|Gloss=do
-8	<	<	PUNCT	_	_	4	punct	_	AlignBegin=50160|AlignEnd=50160|Gloss=PUNCT
-9	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	12	nsubj	_	AlignBegin=50160|AlignEnd=50270|Gloss=NOM.2
-10	go	go	AUX	_	Aspect=Prosp	12	aux	_	AlignBegin=50270|AlignEnd=50390|Gloss=PROSP
-11	quick	quick	ADJ	_	_	12	advcl	_	AlignBegin=50390|AlignEnd=50630|Gloss=quick
-12	get	get	VERB	_	_	0	root	_	AlignBegin=50630|AlignEnd=50749|Gloss=get
-13	money	money	NOUN	_	_	12	obj	_	AlignBegin=50749|AlignEnd=51070|Gloss=money
-14	//	//	PUNCT	_	_	12	punct	_	AlignBegin=51070|AlignEnd=51070|Gloss=PUNCT
+1	but	but	CCONJ	_	_	12	discourse	_	Gloss=but|WordAlignmentBegin=48990|WordAlignmentEnd=49170
+2	any	any	DET	_	_	4	det	_	Gloss=any|WordAlignmentBegin=49170|WordAlignmentEnd=49420
+3	small	small	ADJ	_	_	4	amod	_	Gloss=small|WordAlignmentBegin=49420|WordAlignmentEnd=49740
+4	tin	ting	NOUN	_	_	12	dislocated	_	Gloss=thing|WordAlignmentBegin=49740|WordAlignmentEnd=49880
+5	weh	wey	SCONJ	_	_	7	mark	_	Gloss=REL|WordAlignmentBegin=49880|WordAlignmentEnd=50030
+6	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	Gloss=NOM.2|WordAlignmentBegin=50030|WordAlignmentEnd=50090
+7	do	do	VERB	_	_	4	acl:relcl	_	Gloss=do|WordAlignmentBegin=50090|WordAlignmentEnd=50160
+8	<	<	PUNCT	_	_	4	punct	_	Gloss=PUNCT|WordAlignmentBegin=50160|WordAlignmentEnd=50160
+9	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	12	nsubj	_	Gloss=NOM.2|WordAlignmentBegin=50160|WordAlignmentEnd=50270
+10	go	go	AUX	_	Aspect=Prosp	12	aux	_	Gloss=PROSP|WordAlignmentBegin=50270|WordAlignmentEnd=50390
+11	quick	quick	ADJ	_	_	12	advcl	_	Gloss=quick|WordAlignmentBegin=50390|WordAlignmentEnd=50630
+12	get	get	VERB	_	_	0	root	_	Gloss=get|WordAlignmentBegin=50630|WordAlignmentEnd=50749
+13	money	money	NOUN	_	_	12	obj	_	Gloss=money|WordAlignmentBegin=50749|WordAlignmentEnd=51070
+14	//	//	PUNCT	_	_	12	punct	_	Gloss=PUNCT|WordAlignmentBegin=51070|WordAlignmentEnd=51070
 
 ~~~
 
@@ -46,15 +46,15 @@ The following 59 pairs of parts of speech are connected with `dislocated`: <tt><
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 3 dislocated	color:blue
-1	#	#	PUNCT	_	_	5	punct	_	AlignBegin=23422|AlignEnd=23583|Gloss=PUNCT
-2	meh	make	AUX	_	Mood=Opt	5	aux	_	AlignBegin=23583|AlignEnd=23707|Gloss=SBJV
-3	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	dislocated	_	AlignBegin=23707|AlignEnd=23788|Gloss=ACC.SG.1
-4	a	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	AlignBegin=23788|AlignEnd=23907|Gloss=NOM.SG.1
-5	go	go	VERB	_	_	0	root	_	AlignBegin=23907|AlignEnd=24107|Gloss=go
-6	for	for	ADP	_	_	7	case	_	AlignBegin=24107|AlignEnd=24297|Gloss=for
-7	school	school	NOUN	_	_	5	obl:arg	_	AlignBegin=24297|AlignEnd=24577|Gloss=school
-8	first	first	ADV	_	_	5	advmod	_	AlignBegin=24577|AlignEnd=24856|Gloss=first
-9	//	//	PUNCT	_	_	5	punct	_	AlignBegin=24856|AlignEnd=24856|Gloss=PUNCT
+1	#	#	PUNCT	_	_	5	punct	_	Gloss=PUNCT|WordAlignmentBegin=23422|WordAlignmentEnd=23583
+2	meh	make	AUX	_	Mood=Opt	5	aux	_	Gloss=SBJV|WordAlignmentBegin=23583|WordAlignmentEnd=23707
+3	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	dislocated	_	Gloss=ACC.SG.1|WordAlignmentBegin=23707|WordAlignmentEnd=23788
+4	a	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Gloss=NOM.SG.1|WordAlignmentBegin=23788|WordAlignmentEnd=23907
+5	go	go	VERB	_	_	0	root	_	Gloss=go|WordAlignmentBegin=23907|WordAlignmentEnd=24107
+6	for	for	ADP	_	_	7	case	_	Gloss=for|WordAlignmentBegin=24107|WordAlignmentEnd=24297
+7	school	school	NOUN	_	_	5	obl:arg	_	Gloss=school|WordAlignmentBegin=24297|WordAlignmentEnd=24577
+8	first	first	ADV	_	_	5	advmod	_	Gloss=first|WordAlignmentBegin=24577|WordAlignmentEnd=24856
+9	//	//	PUNCT	_	_	5	punct	_	Gloss=PUNCT|WordAlignmentBegin=24856|WordAlignmentEnd=24856
 
 ~~~
 
@@ -65,18 +65,18 @@ The following 59 pairs of parts of speech are connected with `dislocated`: <tt><
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 5 dislocated	color:blue
-1	#	#	PUNCT	_	_	11	punct	_	AlignBegin=316420|AlignEnd=317300|Gloss=PUNCT
-2	because	because	SCONJ	_	_	11	discourse	_	AlignBegin=317300|AlignEnd=317816|Gloss=because
-3	<	<	PUNCT	_	_	2	punct	_	AlignBegin=317816|AlignEnd=317816|Gloss=PUNCT
-4	dis	dis	DET	_	Number=Sing|PronType=Dem	5	det	_	AlignBegin=317816|AlignEnd=318064|Gloss=SG.DEM
-5	gym	gym	NOUN	_	_	11	dislocated	_	AlignBegin=318064|AlignEnd=318322|Gloss=gym
-6	<	<	PUNCT	_	_	5	punct	_	AlignBegin=318322|AlignEnd=318390|Gloss=PUNCT
-7	#	#	PUNCT	_	_	5	punct	_	AlignBegin=318322|AlignEnd=318980|Gloss=PUNCT
-8	na	na	AUX	_	PartType=Cop	11	cop	_	AlignBegin=318980|AlignEnd=319080|Gloss=be
-9	my	my	PRON	_	Number=Sing|Person=1|Poss=Yes	11	nmod:poss	_	AlignBegin=319080|AlignEnd=319240|Gloss=SG.1.POSS
-10	mama	mama	NOUN	_	_	11	nmod	_	AlignBegin=319240|AlignEnd=319580|Gloss=mama
-11	gym	gym	NOUN	_	_	0	root	_	AlignBegin=319580|AlignEnd=319780|Gloss=gym
-12	//	//	PUNCT	_	_	11	punct	_	AlignBegin=319780|AlignEnd=319780|Gloss=PUNCT
+1	#	#	PUNCT	_	_	11	punct	_	Gloss=PUNCT|WordAlignmentBegin=316420|WordAlignmentEnd=317300
+2	because	because	SCONJ	_	_	11	discourse	_	Gloss=because|WordAlignmentBegin=317300|WordAlignmentEnd=317816
+3	<	<	PUNCT	_	_	2	punct	_	Gloss=PUNCT|WordAlignmentBegin=317816|WordAlignmentEnd=317816
+4	dis	dis	DET	_	Number=Sing|PronType=Dem	5	det	_	Gloss=SG.DEM|WordAlignmentBegin=317816|WordAlignmentEnd=318064
+5	gym	gym	NOUN	_	_	11	dislocated	_	Gloss=gym|WordAlignmentBegin=318064|WordAlignmentEnd=318322
+6	<	<	PUNCT	_	_	5	punct	_	Gloss=PUNCT|WordAlignmentBegin=318322|WordAlignmentEnd=318390
+7	#	#	PUNCT	_	_	5	punct	_	Gloss=PUNCT|WordAlignmentBegin=318322|WordAlignmentEnd=318980
+8	na	na	AUX	_	PartType=Cop	11	cop	_	Gloss=be|WordAlignmentBegin=318980|WordAlignmentEnd=319080
+9	my	my	PRON	_	Number=Sing|Person=1|Poss=Yes	11	nmod:poss	_	Gloss=SG.1.POSS|WordAlignmentBegin=319080|WordAlignmentEnd=319240
+10	mama	mama	NOUN	_	_	11	nmod	_	Gloss=mama|WordAlignmentBegin=319240|WordAlignmentEnd=319580
+11	gym	gym	NOUN	_	_	0	root	_	Gloss=gym|WordAlignmentBegin=319580|WordAlignmentEnd=319780
+12	//	//	PUNCT	_	_	11	punct	_	Gloss=PUNCT|WordAlignmentBegin=319780|WordAlignmentEnd=319780
 
 ~~~
 

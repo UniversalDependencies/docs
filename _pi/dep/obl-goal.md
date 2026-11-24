@@ -15,3 +15,4 @@ bodhisatto mātukucchiṃ okkami \n Bodisattva mother's-womb descended-into
 obl:goal(okkami, mātukucchiṃ)
 obl:goal(descended-into, mother's-womb)
 ~~~
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:39:05 CET -->

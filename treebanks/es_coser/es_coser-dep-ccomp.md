@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-62 nodes (1%) are attached to their parents as `ccomp`.
+61 nodes (1%) are attached to their parents as `ccomp`.
 
-61 instances of `ccomp` (98%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.17741935483871.
+60 instances of `ccomp` (98%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.16393442622951.
 
-The following 7 pairs of parts of speech are connected with `ccomp`: <tt><a href="es_coser-pos-VERB.html">VERB</a></tt>-<tt><a href="es_coser-pos-VERB.html">VERB</a></tt> (36; 58% instances), <tt><a href="es_coser-pos-AUX.html">AUX</a></tt>-<tt><a href="es_coser-pos-VERB.html">VERB</a></tt> (15; 24% instances), <tt><a href="es_coser-pos-VERB.html">VERB</a></tt>-<tt><a href="es_coser-pos-AUX.html">AUX</a></tt> (4; 6% instances), <tt><a href="es_coser-pos-VERB.html">VERB</a></tt>-<tt><a href="es_coser-pos-PRON.html">PRON</a></tt> (3; 5% instances), <tt><a href="es_coser-pos-VERB.html">VERB</a></tt>-<tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="es_coser-pos-AUX.html">AUX</a></tt>-<tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="es_coser-pos-VERB.html">VERB</a></tt>-<tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
+The following 7 pairs of parts of speech are connected with `ccomp`: <tt><a href="es_coser-pos-VERB.html">VERB</a></tt>-<tt><a href="es_coser-pos-VERB.html">VERB</a></tt> (35; 57% instances), <tt><a href="es_coser-pos-AUX.html">AUX</a></tt>-<tt><a href="es_coser-pos-VERB.html">VERB</a></tt> (15; 25% instances), <tt><a href="es_coser-pos-VERB.html">VERB</a></tt>-<tt><a href="es_coser-pos-AUX.html">AUX</a></tt> (4; 7% instances), <tt><a href="es_coser-pos-VERB.html">VERB</a></tt>-<tt><a href="es_coser-pos-PRON.html">PRON</a></tt> (3; 5% instances), <tt><a href="es_coser-pos-VERB.html">VERB</a></tt>-<tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="es_coser-pos-AUX.html">AUX</a></tt>-<tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="es_coser-pos-VERB.html">VERB</a></tt>-<tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

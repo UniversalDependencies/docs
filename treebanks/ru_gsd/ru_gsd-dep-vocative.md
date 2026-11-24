@@ -73,7 +73,7 @@ The following 3 pairs of parts of speech are connected with `vocative`: <tt><a h
 27	1219	1219	ADJ	ORD	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	30	amod	_	_
 28	--	--	PUNCT	--	_	29	punct	_	_
 29	1188	1188	ADJ	ORD	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	27	nmod	_	_
-30	годах	год	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	24	obl	_	_
+30	годах	год	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	24	obl:tmod	_	_
 31	до	до	ADP	IN	_	33	case	_	_
 32	н.	наш	DET	PRP$	Abbr=Yes	33	det	_	_
 33	э	э	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	30	nmod	_	SpaceAfter=No

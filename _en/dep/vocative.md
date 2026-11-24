@@ -13,4 +13,4 @@ the addressee's name to its host sentence.
 Guys , take it easy!
 vocative(take, Guys)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:44 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:39:13 CET -->

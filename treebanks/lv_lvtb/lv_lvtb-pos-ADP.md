@@ -19,22 +19,22 @@ The 10 most frequent ambiguous types:  <em>ar</em> (<tt><a href="lv_lvtb-pos-ADP
 
 
 * <em>ar</em>
-  * <tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> 3087: <em>Mamma <b>ar</b> procesiju soļoja neatskatīdamās .</em>
+  * <tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> 3087: <em>Grīda bija patīkami vēsa , to skarot <b>ar</b> pēdām .</em>
   * <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 3: <em>Tu <b>ar</b> kā bērns , tak nav mums te čigānu nekādu .</em>
 * <em>par</em>
   * <tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> 2473: <em>Zinātnieki atzīst , ka šāds uzturs visiem nāks tikai <b>par</b> labu</em>
   * <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 1: <em>Varbūt <b>par</b> otrādi – radījusi tikai jucekli .</em>
 * <em>no</em>
-  * <tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> 2280: <em>– Atzīstieties droši , jūs gribat bēgt pati <b>no</b> sevis .</em>
+  * <tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> 2280: <em>Palīdzība ir nepieciešama un pieejama ikvienam , <b>no</b> tā nav jābaidās .</em>
   * <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 1: <em>Lai <b>no</b> ko , bet kazas sieru desertā daudzi no klātesošajiem negaidīja , tāpēc patīkami pārsteigumi neizpalika arī šajā desertā , kas , patiesībā izpelnījās daudz labu vārdu .</em>
 * <em>uz</em>
-  * <tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> 1966: <em>Implantus šobrīd liek <b>uz</b> mūžu .</em>
+  * <tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> 1966: <em>Viņas norāpās <b>uz</b> pēdējās lāvas .</em>
   * <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> 1: <em>Bet , pēc Rīgas Pedagoģijas un izglītības vadības augstskolas rektores Daces Markus domām , ja samazināsies attiecība starp profesoru <b>uz</b> zemāka līmeņa mācībspēku algām , tas radīs sociālo spriedzi augstskolās .</em>
 * <em>pēc</em>
-  * <tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> 742: <em>Izpirkuma summa – pāris simti latu , <b>pēc</b> tam viņam jāatstrādā .</em>
+  * <tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> 742: <em>" Nē , <b>pēc</b> laika atgriezās Vida , sejs cits .</em>
   * <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> 1: <em>Un tagad jebkurš cilvēks - sieviete vai vīrietis var izlabot jebkuru savu nagu trūkumu , noslēpt <b>pēc</b> traumatiskas sekas , vai tāda paraduma rezultātus , kā nagu graušana .</em>
 * <em>līdz</em>
-  * <tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> 446: <em>Pēc filmas Elki pavadīju <b>līdz</b> frizētavai , kur atradās viņas mašīna .</em>
+  * <tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> 446: <em>DIDZI , VAI PAVADĪSI mani <b>līdz</b> Rozēm ? "</em>
   * <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> 55: <em>Ierušinājos segas mīkstumā un gaidīju , <b>līdz</b> viņš aizies .</em>
   * <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 43: <em>( Pievienota 6. <b>līdz</b> 9. rindkopa . )</em>
   * <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> 6: <em>Vāra 30 <b>līdz</b> 45 minūtes , izkāš caur sietiņu .</em>
@@ -44,7 +44,7 @@ The 10 most frequent ambiguous types:  <em>ar</em> (<tt><a href="lv_lvtb-pos-ADP
   * <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 20: <em>Cik tad ir mūsu te , ciemā , <b>pirms</b> sezona sākusies .</em>
   * <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> 2: <em>Tieši to mēs izjutām , ilgi <b>pirms</b> bijām iemācījušies to izprast .</em>
 * <em>kopš</em>
-  * <tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> 82: <em>Katrā ziņā cilvēka daba <b>kopš</b> manas jaunības laikiem nav mainījusies .</em>
+  * <tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> 82: <em>Zolitūdes traģēdija ir lielākā Latvijā <b>kopš</b> neatkarības atjaunošanas .</em>
   * <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 13: <em>Nupat pagāja gads , <b>kopš</b> strādājat Latvijā .</em>
 * <em>pāri</em>
   * <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> 51: <em>- Viņš man <b>pāri</b> nedarīs , - meitene pēkšņi ļoti pārliecināti teica .</em>
@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>ar</em> (<tt><a href="lv_lvtb-pos-ADP
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.111111 (the average of all parts of speech is 2.342815).
+The form / lemma ratio of `ADP` is 1.111111 (the average of all parts of speech is 2.343431).
 
 The 1st highest number of forms (5) was observed with the lemma “par”: <em>ar, kar, pa, par, pat</em>.
 

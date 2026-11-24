@@ -23,11 +23,11 @@ The following 18 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 # visual-style 4	fgColor:white
 # visual-style 4 6 acl:relcl	color:blue
 1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	4:nsubj	SpaceAfter=No
-2	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	4:cop	_
+2	’re	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	4:cop	_
 3	usually	usually	ADV	RB	_	4	advmod	4:advmod	_
 4	artists	artist	NOUN	NNS	Number=Plur	0	root	0:root|6:nsubj|8:nsubj:xsubj	_
-5	who	who	PRON	WP	PronType=Rel	6	nsubj	4:ref	_
-6	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	acl:relcl	4:acl:relcl	_
+5	who	who	PRON	WP	Case=Nom|PronType=Rel	6	nsubj	4:ref	_
+6	want	want	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	4:acl:relcl	_
 7	to	to	PART	TO	_	8	mark	8:mark	_
 8	do	do	VERB	VB	VerbForm=Inf	6	xcomp	6:xcomp	_
 9	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	10:det	_
@@ -48,13 +48,13 @@ The following 18 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
 2	expedition	expedition	NOUN	NN	Number=Sing	4	nsubj:pass	4:nsubj:pass	_
 3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux:pass	4:aux:pass	_
-4	led	lead	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
+4	led	lead	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
 5	by	by	ADP	IN	_	7	case	7:case	_
 6	General	General	PROPN	NNP	Number=Sing	7	nmod:desc	7:nmod:desc	_
 7	Joseph	Joseph	PROPN	NNP	Number=Sing	4	obl	4:obl:by|10:nsubj|12:nsubj:xsubj	_
 8	Burgoyne	Burgoyne	PROPN	NNP	Number=Sing	7	flat	7:flat	_
-9	who	who	PRON	WP	PronType=Rel	10	nsubj	7:ref	_
-10	intended	intend	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	7	acl:relcl	7:acl:relcl	_
+9	who	who	PRON	WP	Case=Nom|PronType=Rel	10	nsubj	7:ref	_
+10	intended	intend	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	acl:relcl	7:acl:relcl	_
 11	to	to	PART	TO	_	12	mark	12:mark	_
 12	reach	reach	VERB	VB	VerbForm=Inf	10	xcomp	10:xcomp	_
 13	Albany	Albany	PROPN	NNP	Number=Sing	12	obj	12:obj	SpaceAfter=No

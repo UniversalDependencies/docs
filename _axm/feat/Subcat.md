@@ -31,4 +31,4 @@ These verbs can be passivized, in which case the direct object becomes the subje
 #### Examples
 
 * _Եվ այլ <b>տուր</b> փշատի <b>փոխինդ</b>_/_Ev ayl towr p’šati p’oxind_ “And _give_ also oleaster _roasted flour_”
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:20 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:04 CET -->

@@ -17,4 +17,4 @@ obj(finde, was-8)
 advcl:relcl(was-16, find)
 obj(find, which)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:32 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:14 CET -->

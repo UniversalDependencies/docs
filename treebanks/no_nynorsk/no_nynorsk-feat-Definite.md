@@ -66,13 +66,13 @@ The most frequent other feature values with which `VERB` and `Definite` co-occur
 
 The 10 most frequent relations where parent and child node agree in `Definite`:
 <tt>NOUN --[<tt><a href="no_nynorsk-dep-amod.html">amod</a></tt>]--> ADJ</tt> (5583; 52%),
+<tt>NOUN --[<tt><a href="no_nynorsk-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (4147; 50%),
 <tt>NOUN --[<tt><a href="no_nynorsk-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2822; 85%),
 <tt>ADJ --[<tt><a href="no_nynorsk-dep-conj.html">conj</a></tt>]--> ADJ</tt> (603; 85%),
-<tt>NOUN --[<tt><a href="no_nynorsk-dep-obl.html">obl</a></tt>]--> NOUN</tt> (329; 56%),
 <tt>NOUN --[<tt><a href="no_nynorsk-dep-advmod.html">advmod</a></tt>]--> ADJ</tt> (250; 53%),
+<tt>NOUN --[<tt><a href="no_nynorsk-dep-obl.html">obl</a></tt>]--> NOUN</tt> (222; 52%),
 <tt>ADJ --[<tt><a href="no_nynorsk-dep-obj.html">obj</a></tt>]--> NOUN</tt> (185; 83%),
 <tt>ADJ --[<tt><a href="no_nynorsk-dep-xcomp.html">xcomp</a></tt>]--> NOUN</tt> (97; 80%),
 <tt>ADJ --[<tt><a href="no_nynorsk-dep-conj.html">conj</a></tt>]--> NOUN</tt> (69; 56%),
-<tt>ADJ --[<tt><a href="no_nynorsk-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (62; 64%),
-<tt>NOUN --[<tt><a href="no_nynorsk-dep-acl.html">acl</a></tt>]--> ADJ</tt> (42; 53%).
+<tt>ADJ --[<tt><a href="no_nynorsk-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (62; 64%).
 

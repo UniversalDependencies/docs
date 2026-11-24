@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="eo_prago-pos-NUM.ht
 
 ### `NUM`
 
-2 <tt><a href="eo_prago-pos-NUM.html">NUM</a></tt> tokens (5% of all `NUM` tokens) have a non-empty value of `NumForm`.
+2 <tt><a href="eo_prago-pos-NUM.html">NUM</a></tt> tokens (4% of all `NUM` tokens) have a non-empty value of `NumForm`.
 
 The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="eo_prago-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (2; 100%).
 

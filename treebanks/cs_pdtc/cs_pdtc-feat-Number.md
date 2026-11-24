@@ -45,7 +45,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 358889 <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="cs_pdtc-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (335937; 94%), <tt><a href="cs_pdtc-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (319360; 89%), <tt><a href="cs_pdtc-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (303277; 85%), <tt><a href="cs_pdtc-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (303277; 85%), <tt><a href="cs_pdtc-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (207232; 58%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="cs_pdtc-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (335937; 94%), <tt><a href="cs_pdtc-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (319360; 89%), <tt><a href="cs_pdtc-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (307410; 86%), <tt><a href="cs_pdtc-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (303277; 85%), <tt><a href="cs_pdtc-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (303277; 85%), <tt><a href="cs_pdtc-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (207232; 58%).
 
 `ADJ` tokens may have the following values of `Number`:
 
@@ -352,13 +352,13 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="cs_pdtc-dep-amod.html">amod</a></tt>]--> ADJ</tt> (285832; 99%),
-<tt>NOUN --[<tt><a href="cs_pdtc-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (125683; 58%),
-<tt>VERB --[<tt><a href="cs_pdtc-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (74955; 76%),
-<tt>NOUN --[<tt><a href="cs_pdtc-dep-det.html">det</a></tt>]--> DET</tt> (61625; 87%),
-<tt>NOUN --[<tt><a href="cs_pdtc-dep-conj.html">conj</a></tt>]--> NOUN</tt> (32008; 77%),
+<tt>NOUN --[<tt><a href="cs_pdtc-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (125746; 58%),
+<tt>VERB --[<tt><a href="cs_pdtc-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (74963; 76%),
+<tt>NOUN --[<tt><a href="cs_pdtc-dep-det.html">det</a></tt>]--> DET</tt> (61623; 87%),
+<tt>NOUN --[<tt><a href="cs_pdtc-dep-conj.html">conj</a></tt>]--> NOUN</tt> (32022; 77%),
 <tt>VERB --[<tt><a href="cs_pdtc-dep-conj.html">conj</a></tt>]--> VERB</tt> (23610; 72%),
-<tt>NOUN --[<tt><a href="cs_pdtc-dep-cop.html">cop</a></tt>]--> AUX</tt> (22434; 75%),
-<tt>NOUN --[<tt><a href="cs_pdtc-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (21943; 64%),
+<tt>NOUN --[<tt><a href="cs_pdtc-dep-cop.html">cop</a></tt>]--> AUX</tt> (22470; 75%),
+<tt>NOUN --[<tt><a href="cs_pdtc-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (21946; 64%),
 <tt>VERB --[<tt><a href="cs_pdtc-dep-nsubj.html">nsubj</a></tt>]--> DET</tt> (20110; 89%),
 <tt>ADJ --[<tt><a href="cs_pdtc-dep-cop.html">cop</a></tt>]--> AUX</tt> (19934; 86%).
 

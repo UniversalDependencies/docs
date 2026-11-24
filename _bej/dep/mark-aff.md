@@ -13,4 +13,4 @@ another clause.
 text_en: The Aid also had come and I went to wish him a blessed Aid", he said.
 mar:aff(jʔ, -a) ("come", `SCONJ` Manner converb affix)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:14 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:51 CET -->

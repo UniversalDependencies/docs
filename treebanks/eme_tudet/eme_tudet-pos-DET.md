@@ -49,7 +49,7 @@ Examples: <em>aŋ, aʔe, wɨɲ, a, les, ɨɲ</em>
 
 ## Relations
 
-`DET` nodes are attached to their parents using 6 different relations: <tt><a href="eme_tudet-dep-det.html">det</a></tt> (62; 79% instances), <tt><a href="eme_tudet-dep-obl.html">obl</a></tt> (7; 9% instances), <tt><a href="eme_tudet-dep-discourse.html">discourse</a></tt> (3; 4% instances), <tt><a href="eme_tudet-dep-nsubj.html">nsubj</a></tt> (2; 3% instances), <tt><a href="eme_tudet-dep-obj.html">obj</a></tt> (2; 3% instances), <tt><a href="eme_tudet-dep-root.html">root</a></tt> (2; 3% instances)
+`DET` nodes are attached to their parents using 7 different relations: <tt><a href="eme_tudet-dep-det.html">det</a></tt> (62; 79% instances), <tt><a href="eme_tudet-dep-obl.html">obl</a></tt> (6; 8% instances), <tt><a href="eme_tudet-dep-discourse.html">discourse</a></tt> (3; 4% instances), <tt><a href="eme_tudet-dep-nsubj.html">nsubj</a></tt> (2; 3% instances), <tt><a href="eme_tudet-dep-obj.html">obj</a></tt> (2; 3% instances), <tt><a href="eme_tudet-dep-root.html">root</a></tt> (2; 3% instances), <tt><a href="eme_tudet-dep-nmod.html">nmod</a></tt> (1; 1% instances)
 
 Parents of `DET` nodes belong to 6 different parts of speech: <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt> (48; 62% instances), <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt> (23; 29% instances), <tt><a href="eme_tudet-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="eme_tudet-pos-PROPN.html">PROPN</a></tt> (2; 3% instances),  (2; 3% instances), <tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (1; 1% instances)
 

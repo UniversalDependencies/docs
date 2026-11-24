@@ -23,20 +23,20 @@ The following 16 pairs of parts of speech are connected with `compound:redup`: <
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 12 compound:redup	color:blue
-1	dat	dat	DET	_	Number=Sing	2	det	_	AlignBegin=23839|AlignEnd=24094|Gloss=SG.DEM
-2	thing	ting	NOUN	_	_	6	nsubj	_	AlignBegin=24094|AlignEnd=24260|Gloss=thing
-3	dey	dey	AUX	_	Aspect=Imp	6	aux	_	AlignBegin=24260|AlignEnd=24390|Gloss=IPFV
-4	really	really	ADV	_	_	6	advmod	_	AlignBegin=24390|AlignEnd=24601|Gloss=really
-5	dey	dey	AUX	_	Aspect=Imp	6	aux	_	AlignBegin=24601|AlignEnd=24774|Gloss=IPFV
-6	happen	happen	VERB	_	_	0	root	_	AlignBegin=24774|AlignEnd=25181|Gloss=happen
-7	for	for	ADP	_	_	8	case	_	AlignBegin=25181|AlignEnd=25319|Gloss=for
-8	Nigeria	Nigeria	PROPN	_	_	6	obl:arg	_	AlignBegin=25319|AlignEnd=25863|Gloss=Nigeria
-9	{	{	PUNCT	_	_	10	punct	_	AlignBegin=25863|AlignEnd=25863|Gloss=PUNCT
-10	well	well	ADV	_	_	6	advmod	_	AlignBegin=25863|AlignEnd=26068|Gloss=well
-11	|r	|r	PUNCT	_	_	12	punct	_	AlignBegin=26068|AlignEnd=26068|Gloss=PUNCT
-12	well	well	ADV	_	_	10	compound:redup	_	AlignBegin=26068|AlignEnd=26256|Gloss=well
-13	}	}	PUNCT	_	_	10	punct	_	AlignBegin=26256|AlignEnd=26256|Gloss=PUNCT
-14	//	//	PUNCT	_	_	6	punct	_	AlignBegin=26226|AlignEnd=26256|Gloss=PUNCT
+1	dat	dat	DET	_	Number=Sing	2	det	_	Gloss=SG.DEM|WordAlignmentBegin=23839|WordAlignmentEnd=24094
+2	thing	ting	NOUN	_	_	6	nsubj	_	Gloss=thing|WordAlignmentBegin=24094|WordAlignmentEnd=24260
+3	dey	dey	AUX	_	Aspect=Imp	6	aux	_	Gloss=IPFV|WordAlignmentBegin=24260|WordAlignmentEnd=24390
+4	really	really	ADV	_	_	6	advmod	_	Gloss=really|WordAlignmentBegin=24390|WordAlignmentEnd=24601
+5	dey	dey	AUX	_	Aspect=Imp	6	aux	_	Gloss=IPFV|WordAlignmentBegin=24601|WordAlignmentEnd=24774
+6	happen	happen	VERB	_	_	0	root	_	Gloss=happen|WordAlignmentBegin=24774|WordAlignmentEnd=25181
+7	for	for	ADP	_	_	8	case	_	Gloss=for|WordAlignmentBegin=25181|WordAlignmentEnd=25319
+8	Nigeria	Nigeria	PROPN	_	_	6	obl:arg	_	Gloss=Nigeria|WordAlignmentBegin=25319|WordAlignmentEnd=25863
+9	{	{	PUNCT	_	_	10	punct	_	Gloss=PUNCT|WordAlignmentBegin=25863|WordAlignmentEnd=25863
+10	well	well	ADV	_	_	6	advmod	_	Gloss=well|WordAlignmentBegin=25863|WordAlignmentEnd=26068
+11	|r	|r	PUNCT	_	_	12	punct	_	Gloss=PUNCT|WordAlignmentBegin=26068|WordAlignmentEnd=26068
+12	well	well	ADV	_	_	10	compound:redup	_	Gloss=well|WordAlignmentBegin=26068|WordAlignmentEnd=26256
+13	}	}	PUNCT	_	_	10	punct	_	Gloss=PUNCT|WordAlignmentBegin=26256|WordAlignmentEnd=26256
+14	//	//	PUNCT	_	_	6	punct	_	Gloss=PUNCT|WordAlignmentBegin=26226|WordAlignmentEnd=26256
 
 ~~~
 
@@ -47,20 +47,20 @@ The following 16 pairs of parts of speech are connected with `compound:redup`: <
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 6 compound:redup	color:blue
-1	#	#	PUNCT	_	_	4	punct	_	AlignBegin=209247|AlignEnd=209457|Gloss=PUNCT
-2	na	na	AUX	_	PartType=Cop	4	cop	_	AlignBegin=209457|AlignEnd=209622|Gloss=be
-3	{	{	PUNCT	_	_	4	punct	_	AlignBegin=209622|AlignEnd=209622|Gloss=PUNCT
-4	later	later	ADJ	_	Degree=Cmp	0	root	_	AlignBegin=209622|AlignEnd=210012|Gloss=late.CMPR
-5	|r	|r	PUNCT	_	_	6	punct	_	AlignBegin=210012|AlignEnd=210012|Gloss=PUNCT
-6	later	later	ADJ	_	Degree=Cmp	4	compound:redup	_	AlignBegin=210012|AlignEnd=210447|Gloss=late.CMPR
-7	}	}	PUNCT	_	_	4	punct	_	AlignBegin=210447|AlignEnd=210447|Gloss=PUNCT
-8	>+	>+	PUNCT	_	_	13	punct	_	AlignBegin=210417|AlignEnd=210447|Gloss=PUNCT
-9	#	#	PUNCT	_	_	13	punct	_	AlignBegin=210447|AlignEnd=210673|Gloss=PUNCT
-10	di	di	DET	_	Definite=Def|PronType=Art	11	det	_	AlignBegin=210673|AlignEnd=210785|Gloss=DEF.ART
-11	enjoyment	enjoyment	NOUN	_	_	13	nsubj	_	AlignBegin=210785|AlignEnd=211341|Gloss=enjoyment
-12	go	go	AUX	_	Aspect=Prosp	13	aux	_	AlignBegin=211341|AlignEnd=211553|Gloss=PROSP
-13	come	come	VERB	_	_	4	advcl:cleft	_	AlignBegin=211553|AlignEnd=211771|Gloss=come
-14	//	//	PUNCT	_	_	4	punct	_	AlignBegin=211771|AlignEnd=211771|Gloss=PUNCT
+1	#	#	PUNCT	_	_	4	punct	_	Gloss=PUNCT|WordAlignmentBegin=209247|WordAlignmentEnd=209457
+2	na	na	AUX	_	PartType=Cop	4	cop	_	Gloss=be|WordAlignmentBegin=209457|WordAlignmentEnd=209622
+3	{	{	PUNCT	_	_	4	punct	_	Gloss=PUNCT|WordAlignmentBegin=209622|WordAlignmentEnd=209622
+4	later	later	ADJ	_	Degree=Cmp	0	root	_	Gloss=late.CMPR|WordAlignmentBegin=209622|WordAlignmentEnd=210012
+5	|r	|r	PUNCT	_	_	6	punct	_	Gloss=PUNCT|WordAlignmentBegin=210012|WordAlignmentEnd=210012
+6	later	later	ADJ	_	Degree=Cmp	4	compound:redup	_	Gloss=late.CMPR|WordAlignmentBegin=210012|WordAlignmentEnd=210447
+7	}	}	PUNCT	_	_	4	punct	_	Gloss=PUNCT|WordAlignmentBegin=210447|WordAlignmentEnd=210447
+8	>+	>+	PUNCT	_	_	13	punct	_	Gloss=PUNCT|WordAlignmentBegin=210417|WordAlignmentEnd=210447
+9	#	#	PUNCT	_	_	13	punct	_	Gloss=PUNCT|WordAlignmentBegin=210447|WordAlignmentEnd=210673
+10	di	di	DET	_	Definite=Def|PronType=Art	11	det	_	Gloss=DEF.ART|WordAlignmentBegin=210673|WordAlignmentEnd=210785
+11	enjoyment	enjoyment	NOUN	_	_	13	nsubj	_	Gloss=enjoyment|WordAlignmentBegin=210785|WordAlignmentEnd=211341
+12	go	go	AUX	_	Aspect=Prosp	13	aux	_	Gloss=PROSP|WordAlignmentBegin=211341|WordAlignmentEnd=211553
+13	come	come	VERB	_	_	4	advcl:cleft	_	Gloss=come|WordAlignmentBegin=211553|WordAlignmentEnd=211771
+14	//	//	PUNCT	_	_	4	punct	_	Gloss=PUNCT|WordAlignmentBegin=211771|WordAlignmentEnd=211771
 
 ~~~
 
@@ -71,23 +71,23 @@ The following 16 pairs of parts of speech are connected with `compound:redup`: <
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 8 compound:redup	color:blue
-1	#	#	PUNCT	_	_	5	punct	_	AlignBegin=235755|AlignEnd=236418|Gloss=PUNCT
-2	con	con	AUX	_	Aspect=Cons	5	aux	_	AlignBegin=236418|AlignEnd=236571|Gloss=CONS
-3	{	{	PUNCT	_	_	5	punct	_	AlignBegin=236571|AlignEnd=236571|Gloss=PUNCT
-4	dey	dey	AUX	_	Aspect=Imp	5	aux	_	AlignBegin=236571|AlignEnd=236671|Gloss=IPFV
-5	work	work	VERB	_	_	0	root	_	AlignBegin=236671|AlignEnd=236881|Gloss=work
-6	|r	|r	PUNCT	_	_	8	punct	_	AlignBegin=236881|AlignEnd=236881|Gloss=PUNCT
-7	dey	dey	AUX	_	Aspect=Imp	8	aux	_	AlignBegin=236881|AlignEnd=237011|Gloss=IPFV
-8	work	work	VERB	_	_	5	compound:redup	_	AlignBegin=237011|AlignEnd=237201|Gloss=work
-9	|r	|r	PUNCT	_	_	11	punct	_	AlignBegin=237201|AlignEnd=237201|Gloss=PUNCT
-10	dey	dey	AUX	_	Aspect=Imp	11	aux	_	AlignBegin=237201|AlignEnd=237361|Gloss=IPFV
-11	work	work	VERB	_	_	8	compound:redup	_	AlignBegin=237361|AlignEnd=237561|Gloss=work
-12	|r	|r	PUNCT	_	_	14	punct	_	AlignBegin=237561|AlignEnd=237561|Gloss=PUNCT
-13	dey	dey	AUX	_	Aspect=Imp	14	aux	_	AlignBegin=237561|AlignEnd=237671|Gloss=IPFV
-14	work	work	VERB	_	_	11	compound:redup	_	AlignBegin=237671|AlignEnd=237981|Gloss=work
-15	}	}	PUNCT	_	_	5	punct	_	AlignBegin=237981|AlignEnd=237981|Gloss=PUNCT
-16	o	o	PART	_	PartType=Disc	5	advmod	_	AlignBegin=237981|AlignEnd=238164|Gloss=EMPH
-17	//	//	PUNCT	_	_	5	punct	_	AlignBegin=238164|AlignEnd=238164|Gloss=PUNCT
+1	#	#	PUNCT	_	_	5	punct	_	Gloss=PUNCT|WordAlignmentBegin=235755|WordAlignmentEnd=236418
+2	con	con	AUX	_	Aspect=Cons	5	aux	_	Gloss=CONS|WordAlignmentBegin=236418|WordAlignmentEnd=236571
+3	{	{	PUNCT	_	_	5	punct	_	Gloss=PUNCT|WordAlignmentBegin=236571|WordAlignmentEnd=236571
+4	dey	dey	AUX	_	Aspect=Imp	5	aux	_	Gloss=IPFV|WordAlignmentBegin=236571|WordAlignmentEnd=236671
+5	work	work	VERB	_	_	0	root	_	Gloss=work|WordAlignmentBegin=236671|WordAlignmentEnd=236881
+6	|r	|r	PUNCT	_	_	8	punct	_	Gloss=PUNCT|WordAlignmentBegin=236881|WordAlignmentEnd=236881
+7	dey	dey	AUX	_	Aspect=Imp	8	aux	_	Gloss=IPFV|WordAlignmentBegin=236881|WordAlignmentEnd=237011
+8	work	work	VERB	_	_	5	compound:redup	_	Gloss=work|WordAlignmentBegin=237011|WordAlignmentEnd=237201
+9	|r	|r	PUNCT	_	_	11	punct	_	Gloss=PUNCT|WordAlignmentBegin=237201|WordAlignmentEnd=237201
+10	dey	dey	AUX	_	Aspect=Imp	11	aux	_	Gloss=IPFV|WordAlignmentBegin=237201|WordAlignmentEnd=237361
+11	work	work	VERB	_	_	8	compound:redup	_	Gloss=work|WordAlignmentBegin=237361|WordAlignmentEnd=237561
+12	|r	|r	PUNCT	_	_	14	punct	_	Gloss=PUNCT|WordAlignmentBegin=237561|WordAlignmentEnd=237561
+13	dey	dey	AUX	_	Aspect=Imp	14	aux	_	Gloss=IPFV|WordAlignmentBegin=237561|WordAlignmentEnd=237671
+14	work	work	VERB	_	_	11	compound:redup	_	Gloss=work|WordAlignmentBegin=237671|WordAlignmentEnd=237981
+15	}	}	PUNCT	_	_	5	punct	_	Gloss=PUNCT|WordAlignmentBegin=237981|WordAlignmentEnd=237981
+16	o	o	PART	_	PartType=Disc	5	advmod	_	Gloss=EMPH|WordAlignmentBegin=237981|WordAlignmentEnd=238164
+17	//	//	PUNCT	_	_	5	punct	_	Gloss=PUNCT|WordAlignmentBegin=238164|WordAlignmentEnd=238164
 
 ~~~
 

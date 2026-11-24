@@ -22,18 +22,18 @@ The following 20 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 1 cc	color:blue
-1	어쨌든	어쨌든	CCONJ	maj	_	11	cc	_	Translit=.eo.jjaess.deun|LTranslit=.eo.jjaess.deun
-2	경북궁을	경북궁+을	PROPN	nq+jco	_	3	obj	_	Translit=.gyeong.bug.gung.eul|LTranslit=.gyeong.bug.gung+.eul
-3	짓고	짓+고	CCONJ	pvg+ecc	_	0	root	_	Translit=.jis.go|LTranslit=.jis+.go
-4	성을	성+을	NOUN	ncn+jco	_	5	obj	_	Translit=.seong.eul|LTranslit=.seong+.eul
-5	쌓고	쌓+고	CCONJ	pvg+ecc	_	3	conj	_	Translit=.ssah.go|LTranslit=.ssah+.go
-6	성	성	NOUN	ncn	_	7	compound	_	Translit=.seong|LTranslit=.seong
-7	주위에는	주위+에+는	NOUN	ncn+jca+jxt	_	11	dislocated	_	Translit=.ju.wi.e.neun|LTranslit=.ju.wi+.e+.neun
-8	문을	문+을	NOUN	ncn+jco	_	11	obj	_	Translit=.mun.eul|LTranslit=.mun+.eul
-9	여덟	여덟	NUM	nnc	_	10	nummod	_	Translit=.yeo.deorb|LTranslit=.yeo.deorb
-10	개나	개+나	ADV	nbu+jxc	_	11	advcl	_	Translit=.gae.na|LTranslit=.gae+.na
-11	세웠지요	세우+었+지요	VERB	pvg+ep+ef	_	3	conj	_	SpaceAfter=No|Translit=.se.weoss.ji.yo|LTranslit=.se.u+.eoss+.ji.yo
-12	.	.	PUNCT	sf	_	11	punct	_	Translit=.|LTranslit=.
+1	어쨌든	어쨌든	CCONJ	maj	_	11	cc	_	LTranslit=.eo.jjaess.deun|Translit=.eo.jjaess.deun
+2	경북궁을	경북궁+을	PROPN	nq+jco	_	3	obj	_	LTranslit=.gyeong.bug.gung+.eul|Translit=.gyeong.bug.gung.eul
+3	짓고	짓+고	CCONJ	pvg+ecc	_	0	root	_	LTranslit=.jis+.go|Translit=.jis.go
+4	성을	성+을	NOUN	ncn+jco	_	5	obj	_	LTranslit=.seong+.eul|Translit=.seong.eul
+5	쌓고	쌓+고	CCONJ	pvg+ecc	_	3	conj	_	LTranslit=.ssah+.go|Translit=.ssah.go
+6	성	성	NOUN	ncn	_	7	compound	_	LTranslit=.seong|Translit=.seong
+7	주위에는	주위+에+는	NOUN	ncn+jca+jxt	_	11	dislocated	_	LTranslit=.ju.wi+.e+.neun|Translit=.ju.wi.e.neun
+8	문을	문+을	NOUN	ncn+jco	_	11	obj	_	LTranslit=.mun+.eul|Translit=.mun.eul
+9	여덟	여덟	NUM	nnc	_	10	nummod	_	LTranslit=.yeo.deorb|Translit=.yeo.deorb
+10	개나	개+나	ADV	nbu+jxc	_	11	advcl	_	LTranslit=.gae+.na|Translit=.gae.na
+11	세웠지요	세우+었+지요	VERB	pvg+ep+ef	_	3	conj	_	LTranslit=.se.u+.eoss+.ji.yo|SpaceAfter=No|Translit=.se.weoss.ji.yo
+12	.	.	PUNCT	sf	_	11	punct	_	LTranslit=.|Translit=.
 
 ~~~
 
@@ -44,20 +44,20 @@ The following 20 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 9 cc	color:blue
-1	첫째	첫째	NUM	nno	_	13	nummod	_	SpaceAfter=No|Translit=.cheos.jjae|LTranslit=.cheos.jjae
-2	,	,	PUNCT	sp	_	1	punct	_	Translit=,|LTranslit=,
-3	노동을	노동+을	NOUN	ncpa+jco	_	4	obj	_	Translit=.no.dong.eul|LTranslit=.no.dong+.eul
-4	지향하는	지향+하+는	VERB	ncpa+xsv+etm	_	7	acl	_	Translit=.ji.hyang.ha.neun|LTranslit=.ji.hyang+.ha+.neun
-5	인간의	인간+의	NOUN	ncn+jcm	_	7	nmod	_	Translit=.in.gan.yi|LTranslit=.in.gan+.yi
-6	합목적적인	합목적+적+이+ㄴ	VERB	ncn+xsn+jp+etm	_	7	acl	_	Translit=.hab.mog.jeog.jeog.in|LTranslit=.hab.mog.jeog+.jeog+.i+ㄴ
-7	행위	행위	NOUN	ncn	_	13	obj	_	SpaceAfter=No|Translit=.haeng.wi|LTranslit=.haeng.wi
-8	,	,	PUNCT	sp	_	12	punct	_	Translit=,|LTranslit=,
-9	즉	즉	CCONJ	maj	_	12	cc	_	Translit=.jeug|LTranslit=.jeug
-10	노동	노동	NOUN	ncpa	_	12	compound	_	Translit=.no.dong|LTranslit=.no.dong
-11	그	그	DET	mmd	_	12	det	_	Translit=.geu|LTranslit=.geu
-12	자체를	자체+를	NOUN	ncn+jco	_	7	conj	_	Translit=.ja.che.reul|LTranslit=.ja.che+.reul
-13	말한다	말하+ㄴ다	VERB	pvg+ef	_	0	root	_	SpaceAfter=No|Translit=.mal.han.da|LTranslit=.mal.ha+ㄴ.da
-14	.	.	PUNCT	sf	_	13	punct	_	Translit=.|LTranslit=.
+1	첫째	첫째	NUM	nno	_	13	nummod	_	LTranslit=.cheos.jjae|SpaceAfter=No|Translit=.cheos.jjae
+2	,	,	PUNCT	sp	_	1	punct	_	LTranslit=,|Translit=,
+3	노동을	노동+을	NOUN	ncpa+jco	_	4	obj	_	LTranslit=.no.dong+.eul|Translit=.no.dong.eul
+4	지향하는	지향+하+는	VERB	ncpa+xsv+etm	_	7	acl	_	LTranslit=.ji.hyang+.ha+.neun|Translit=.ji.hyang.ha.neun
+5	인간의	인간+의	NOUN	ncn+jcm	_	7	nmod	_	LTranslit=.in.gan+.yi|Translit=.in.gan.yi
+6	합목적적인	합목적+적+이+ㄴ	VERB	ncn+xsn+jp+etm	_	7	acl	_	LTranslit=.hab.mog.jeog+.jeog+.i+ㄴ|Translit=.hab.mog.jeog.jeog.in
+7	행위	행위	NOUN	ncn	_	13	obj	_	LTranslit=.haeng.wi|SpaceAfter=No|Translit=.haeng.wi
+8	,	,	PUNCT	sp	_	12	punct	_	LTranslit=,|Translit=,
+9	즉	즉	CCONJ	maj	_	12	cc	_	LTranslit=.jeug|Translit=.jeug
+10	노동	노동	NOUN	ncpa	_	12	compound	_	LTranslit=.no.dong|Translit=.no.dong
+11	그	그	DET	mmd	PronType=Dem	12	det	_	LTranslit=.geu|Translit=.geu
+12	자체를	자체+를	NOUN	ncn+jco	_	7	conj	_	LTranslit=.ja.che+.reul|Translit=.ja.che.reul
+13	말한다	말하+ㄴ다	VERB	pvg+ef	_	0	root	_	LTranslit=.mal.ha+ㄴ.da|SpaceAfter=No|Translit=.mal.han.da
+14	.	.	PUNCT	sf	_	13	punct	_	LTranslit=.|Translit=.
 
 ~~~
 
@@ -68,11 +68,11 @@ The following 20 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 1 cc	color:blue
-1	즉	즉	CCONJ	maj	_	4	cc	_	Translit=.jeug|LTranslit=.jeug
-2	이론의	이론+의	NOUN	ncn+jcm	_	3	nmod	_	Translit=.i.ron.yi|LTranslit=.i.ron+.yi
-3	부재가	부재+가	NOUN	ncpa+jcs	_	4	nsubj	_	Translit=.bu.jae.ga|LTranslit=.bu.jae+.ga
-4	두드러졌다	두드러지+었+다	ADJ	paa+ep+ef	_	0	root	_	SpaceAfter=No|Translit=.du.deu.reo.jyeoss.da|LTranslit=.du.deu.reo.ji+.eoss+.da
-5	.	.	PUNCT	sf	_	4	punct	_	Translit=.|LTranslit=.
+1	즉	즉	CCONJ	maj	_	4	cc	_	LTranslit=.jeug|Translit=.jeug
+2	이론의	이론+의	NOUN	ncn+jcm	_	3	nmod	_	LTranslit=.i.ron+.yi|Translit=.i.ron.yi
+3	부재가	부재+가	NOUN	ncpa+jcs	_	4	nsubj	_	LTranslit=.bu.jae+.ga|Translit=.bu.jae.ga
+4	두드러졌다	두드러지+었+다	ADJ	paa+ep+ef	_	0	root	_	LTranslit=.du.deu.reo.ji+.eoss+.da|SpaceAfter=No|Translit=.du.deu.reo.jyeoss.da
+5	.	.	PUNCT	sf	_	4	punct	_	LTranslit=.|Translit=.
 
 ~~~
 

@@ -48,3 +48,4 @@ In _son tutti lì che te çercan_ “they are all there looking for you”, the 
 ~~~
 
 In interrogative complements such as _no sò dond’o stà de casa_ “I do not know where he lives”, the subordinate predicate takes [ccomp]() and the interrogative word attaches inside its clause.
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:15 CET -->

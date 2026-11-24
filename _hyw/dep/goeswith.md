@@ -22,4 +22,4 @@ Note also that only the last word part may be annotated with `SpaceAfter=No`.
 7	Ց	ց	X	_	_	2	goeswith	_	Translit=C’|LTranslit=c’|SpaceAfter=No
 8	.	.	PUNCT	_	Foreign=Yes	2	punct	_	Translit=.|LTranslit=.
 
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:12 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:48 CET -->

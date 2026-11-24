@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.14 release
 The following people have contributed to making this treebank part of UD: Johnatan Bonilla.
 
 Repository: [UD_Spanish-COSER](https://github.com/UniversalDependencies/UD_Spanish-COSER)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udes_coser218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udes_coser219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 
@@ -725,7 +725,6 @@ Daniel Zeman (guidelines consulting)
       <li>SCONJ
         <ul>
           <li>ADJ: igual</li>
-          <li>ADP: de, en</li>
           <li>ADV: Así, Asín</li>
           <li>DET: una</li>
           <li>PRON: Na</li>
@@ -833,7 +832,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--PRON (1)</li>
       <li>VERB-Fin--NOUN (96)</li>
-      <li>VERB-Fin--PRON (59)</li>
+      <li>VERB-Fin--PRON (60)</li>
       <li>VERB-Fin--PRON-ADP(con) (1)</li>
       <li>VERB-Fin--PRON-Acc (2)</li>
       <li>VERB-Fin--PRON-Acc,Nom (28)</li>
@@ -846,7 +845,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Acc,Nom (1)</li>
       <li>VERB-Inf--PRON-Nom (4)</li>
       <li>VERB-Part--NOUN (1)</li>
-      <li>VERB-Part--PRON (3)</li>
+      <li>VERB-Part--PRON (4)</li>
       <li>VERB-Part--PRON-Acc,Nom (1)</li>
     </ul>
   </li>

@@ -49,7 +49,7 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 4	работе	работа	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	2	obl	_	_
 5	Морриконе	Морриконе	PROPN	NNP	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
 6	над	над	ADP	IN	_	7	case	_	_
-7	музыкой	музыка	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	4	obl	_	_
+7	музыкой	музыка	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	4	nmod	_	_
 8	к	к	ADP	IN	_	10	case	_	_
 9	нескольким	несколько	NUM	RB	Case=Dat	10	nummod	_	_
 10	фильмам	фильм	NOUN	NN	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	7	nmod	_	SpaceAfter=No
@@ -64,11 +64,11 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 19	dinner	dinner	X	NN	Foreign=Yes	14	flat:foreign	_	SpaceAfter=No
 20	»	»	PUNCT	'	_	14	punct	_	SpaceAfter=No
 21	;	;	PUNCT	:	_	2	punct	_	_
-22	некоторые	некоторый	DET	DT	Case=Nom|Number=Plur	23	det	_	_
+22	некоторые	некоторый	DET	DT	Case=Nom|Number=Plur|PronType=Ind	23	det	_	_
 23	мелодии	мелодия	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	25	nsubj:pass	_	_
 24	были	быть	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	25	aux:pass	_	_
 25	написаны	написать	VERB	VBNH	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	2	parataxis	_	_
-26	ими	они	PRON	PRP	Case=Ins|Number=Plur|Person=3	25	obl:agent	_	_
+26	ими	они	PRON	PRP	Case=Ins|Number=Plur|Person=3|PronType=Prs	25	obl:agent	_	_
 27	совместно	совместно	ADV	RB	Degree=Pos	25	advmod	_	SpaceAfter=No
 28	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -81,7 +81,7 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 6 obl:agent	color:blue
-1	Это	это	DET	DT	Case=Nom|Gender=Neut|Number=Sing	4	det	_	_
+1	Это	этот	DET	DT	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	_
 2	отмеченное	отметить	VERB	VBNL	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	acl	_	_
 3	наградами	награда	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	2	iobj	_	_
 4	здание	здание	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	nsubj:pass	_	_
@@ -90,13 +90,13 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 7	Карлосом	Карлос	PROPN	NNP	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	6	flat:name	_	_
 8	Саласом	Салас	PROPN	NNP	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	6	flat:name	_	_
 9	—	—	PUNCT	-	_	11	punct	_	_
-10	oно	оно	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3	11	nsubj	_	_
+10	oно	оно	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
 11	имеет	иметь	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	_
 12	скульптурный	скульптурный	ADJ	JJ	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	_
 13	вид	вид	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	obj	_	SpaceAfter=No
 14	,	,	PUNCT	,	_	18	punct	_	_
 15	где	где	ADV	WRB	Degree=Pos	18	advmod	_	_
-16	каждая	каждый	DET	DT	Case=Nom|Gender=Fem|Number=Sing	17	det	_	_
+16	каждая	каждый	DET	DT	Case=Nom|Gender=Fem|Number=Sing|PronType=Tot	17	det	_	_
 17	деталь	деталь	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	18	nsubj	_	_
 18	несет	нести	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	acl:relcl	_	_
 19	смысл	смысл	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	18	obj	_	SpaceAfter=No

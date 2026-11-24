@@ -12143,7 +12143,7 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 11 relation subtypes: <a>advmod:emph</a>, <a>aux:q</a>, <a>compound:redup</a>, <a>csubj:cop</a>, <a>csubj:outer</a>, <a>nmod:comp</a>, <a>nmod:part</a>, <a>nsubj:cop</a>, <a>nsubj:outer</a>, <a>obl:agent</a>, <a>obl:tmod</a></li>
+      <li>This corpus uses 12 relation subtypes: <a>advmod:emph</a>, <a>aux:q</a>, <a>compound:redup</a>, <a>csubj:cop</a>, <a>csubj:outer</a>, <a>nmod:comp</a>, <a>nmod:part</a>, <a>nmod:tmod</a>, <a>nsubj:cop</a>, <a>nsubj:outer</a>, <a>obl:agent</a>, <a>obl:tmod</a></li>
       <li>The following 6 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>clf</a>, <a>list</a>, <a>reparandum</a>, <a>dep</a></li>
       </ul>
     </td>

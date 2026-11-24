@@ -10,10 +10,10 @@ This feature is universal but the values `Emp` are language-specific.
 It occurs with 8 different values: `Dem`, `Emp`, `Ind`, `Int`, `Neg`, `Prs`, `Rel`, `Tot`.
 Some words have combined values of the feature; 1 combinations have been observed: `Int|Rel`.
 
-1572 tokens (8%) have a non-empty value of `PronType`.
+1580 tokens (8%) have a non-empty value of `PronType`.
 253 types (3%) occur at least once with a non-empty value of `PronType`.
 69 lemmas (1%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="cs_pud-pos-DET.html">DET</a></tt> (841; 5% instances), <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> (576; 3% instances), <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> (155; 1% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="cs_pud-pos-DET.html">DET</a></tt> (841; 5% instances), <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> (576; 3% instances), <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> (163; 1% instances).
 
 ### `DET`
 
@@ -60,19 +60,19 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 ### `ADV`
 
-155 <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> tokens (19% of all `ADV` tokens) have a non-empty value of `PronType`.
+163 <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> tokens (19% of all `ADV` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (155; 100%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (150; 97%).
+The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (163; 100%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (158; 97%).
 
 `ADV` tokens may have the following values of `PronType`:
 
-* `Dem` (70; 45% of non-empty `PronType`): <em>tak, tam, teď, nyní, tentokrát, tu, zde, dosud, tady, tehdy</em>
+* `Dem` (75; 46% of non-empty `PronType`): <em>tak, tam, teď, nyní, tentokrát, tu, zde, dosud, tady, tehdy</em>
 * `Ind` (8; 5% of non-empty `PronType`): <em>někdy, kdykoli, málokdy, několikrát, mnohokrát</em>
-* `Int,Rel` (66; 43% of non-empty `PronType`): <em>jak, kde, kdy, proč, odkud, kam</em>
+* `Int,Rel` (69; 42% of non-empty `PronType`): <em>jak, kde, kdy, proč, odkud, kam</em>
 * `Neg` (3; 2% of non-empty `PronType`): <em>nikdy</em>
 * `Rel` (3; 2% of non-empty `PronType`): <em>přičemž, zato</em>
 * `Tot` (5; 3% of non-empty `PronType`): <em>vždy</em>
-* `EMPTY` (678): <em>také, poté, už, více, pouze, stejně, ještě, velmi, zcela, nakonec</em>
+* `EMPTY` (677): <em>také, poté, už, více, pouze, stejně, ještě, velmi, zcela, nakonec</em>
 
 `PronType` seems to be **lexical feature** of `ADV`. 100% lemmas (27) occur only with one value of `PronType`.
 

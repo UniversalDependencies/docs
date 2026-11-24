@@ -43,4 +43,4 @@ amod(racer, The_fast)
 nsubj(перший, бігун)
 nsubj(first, racer)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:39 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:20 CET -->

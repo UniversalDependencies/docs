@@ -45,11 +45,11 @@ The following 8 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 1	Rytíř	rytíř	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nmod	2:nmod:nom	_
 2	Lyvet	Lyvet	PROPN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	4	nsubj:pass	4:nsubj:pass	_
 3	byl	být	AUX	VpYS---XR-AA---	Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	4	aux:pass	4:aux:pass	_
-4	propuštěn	propuštěný	ADJ	VsYS---XX-AP---	Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	0:root	LDeriv=propustit
+4	propuštěn	propuštěný	ADJ	VsYS---XX-AP---	Aspect=Perf|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	0:root	LDeriv=propustit
 5	a	a	CCONJ	J^-------------	_	8	cc	8:cc	LId=a-1
 6	jeho	jeho	DET	PSXXXZS3-------	Gender[psor]=Masc,Neut|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	7	det	7:det	LGloss=(přivlast.)
 7	stoupenec	stoupenec	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	nsubj:pass	8:nsubj:pass	_
-8	uvržen	uvržený	ADJ	VsYS---XX-AP---	Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	4	conj	0:root|4:conj	LDeriv=uvrhnout
+8	uvržen	uvržený	ADJ	VsYS---XX-AP---	Aspect=Perf|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	4	conj	0:root|4:conj	LDeriv=uvrhnout
 9	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	10	case	10:case	LId=do-1
 10	Toweru	Tower	PROPN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|NameType=Geo|Number=Sing	8	obl	8:obl:do:gen	SpaceAfter=No
 11	.	.	PUNCT	Z:-------------	_	4	punct	4:punct	_

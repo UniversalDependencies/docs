@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_English-LinES: POS Tags: `SCONJ`
 
-There are 31 `SCONJ` lemmas (0%), 31 `SCONJ` types (0%) and 1844 `SCONJ` tokens (2%).
+There are 29 `SCONJ` lemmas (0%), 29 `SCONJ` types (0%) and 1845 `SCONJ` tokens (2%).
 Out of 17 observed tags, the rank of `SCONJ` is: 9 in number of lemmas, 10 in number of types and 13 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>that, as, when, if, though, because, while, whether, before, so</em>
 
 The 10 most frequent `SCONJ` types:  <em>that, as, when, if, though, because, while, whether, before, so</em>
 
-The 10 most frequent ambiguous lemmas: <em>that</em> (<tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> 538, <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> 514, <tt><a href="en_lines-pos-DET.html">DET</a></tt> 178, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 2), <em>as</em> (<tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> 309, <tt><a href="en_lines-pos-ADP.html">ADP</a></tt> 254, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 91, <tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> 1), <em>when</em> (<tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> 252, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 5), <em>though</em> (<tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> 74, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 5, <tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> 2), <em>because</em> (<tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> 72, <tt><a href="en_lines-pos-ADP.html">ADP</a></tt> 4, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 4), <em>while</em> (<tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> 54, <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> 4), <em>before</em> (<tt><a href="en_lines-pos-ADP.html">ADP</a></tt> 43, <tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> 37, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 17), <em>so</em> (<tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 200, <tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> 37, <tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt> 1), <em>for</em> (<tt><a href="en_lines-pos-ADP.html">ADP</a></tt> 681, <tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> 30, <tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 2), <em>with</em> (<tt><a href="en_lines-pos-ADP.html">ADP</a></tt> 666, <tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> 27)
+The 10 most frequent ambiguous lemmas: <em>that</em> (<tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> 538, <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> 514, <tt><a href="en_lines-pos-DET.html">DET</a></tt> 178, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 2), <em>as</em> (<tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> 309, <tt><a href="en_lines-pos-ADP.html">ADP</a></tt> 254, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 91, <tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> 1), <em>when</em> (<tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> 252, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 5), <em>though</em> (<tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> 74, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 5, <tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> 2), <em>because</em> (<tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> 73, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 4, <tt><a href="en_lines-pos-ADP.html">ADP</a></tt> 3), <em>while</em> (<tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> 54, <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> 4), <em>before</em> (<tt><a href="en_lines-pos-ADP.html">ADP</a></tt> 43, <tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> 37, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 17), <em>so</em> (<tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 200, <tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> 37, <tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt> 1), <em>for</em> (<tt><a href="en_lines-pos-ADP.html">ADP</a></tt> 681, <tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> 30, <tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 2), <em>with</em> (<tt><a href="en_lines-pos-ADP.html">ADP</a></tt> 666, <tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> 27)
 
 The 10 most frequent ambiguous types:  <em>that</em> (<tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> 537, <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> 452, <tt><a href="en_lines-pos-DET.html">DET</a></tt> 146, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 2), <em>as</em> (<tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> 271, <tt><a href="en_lines-pos-ADP.html">ADP</a></tt> 235, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 85, <tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> 1), <em>when</em> (<tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> 168, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 5), <em>though</em> (<tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> 73, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 5), <em>because</em> (<tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> 63, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 4, <tt><a href="en_lines-pos-ADP.html">ADP</a></tt> 3), <em>while</em> (<tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> 45, <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> 4), <em>before</em> (<tt><a href="en_lines-pos-ADP.html">ADP</a></tt> 42, <tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> 30, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 17), <em>so</em> (<tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 173, <tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> 36, <tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> 1), <em>for</em> (<tt><a href="en_lines-pos-ADP.html">ADP</a></tt> 605, <tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> 30, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 2, <tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> 2), <em>with</em> (<tt><a href="en_lines-pos-ADP.html">ADP</a></tt> 657, <tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> 27)
 
@@ -60,7 +60,7 @@ The 10 most frequent ambiguous types:  <em>that</em> (<tt><a href="en_lines-pos-
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.236968).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.237042).
 
 The 1st highest number of forms (1) was observed with the lemma “after”: <em>after</em>.
 
@@ -68,24 +68,24 @@ The 2nd highest number of forms (1) was observed with the lemma “although”: 
 
 The 3rd highest number of forms (1) was observed with the lemma “as”: <em>as</em>.
 
-`SCONJ` occurs with 1 features: <tt><a href="en_lines-feat-ExtPos.html">ExtPos</a></tt> (33; 2% instances)
+`SCONJ` occurs with 1 features: <tt><a href="en_lines-feat-ExtPos.html">ExtPos</a></tt> (36; 2% instances)
 
 `SCONJ` occurs with 2 feature-value pairs: `ExtPos=ADP`, `ExtPos=SCONJ`
 
 `SCONJ` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (1811 tokens).
+The most frequent feature combination is `_` (1809 tokens).
 Examples: <em>that, as, when, if, though, because, while, whether, before, for</em>
 
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 6 different relations: <tt><a href="en_lines-dep-mark.html">mark</a></tt> (1798; 98% instances), <tt><a href="en_lines-dep-fixed.html">fixed</a></tt> (33; 2% instances), <tt><a href="en_lines-dep-case.html">case</a></tt> (7; 0% instances), <tt><a href="en_lines-dep-obj.html">obj</a></tt> (3; 0% instances), <tt><a href="en_lines-dep-nsubj.html">nsubj</a></tt> (2; 0% instances), <tt><a href="en_lines-dep-root.html">root</a></tt> (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 6 different relations: <tt><a href="en_lines-dep-mark.html">mark</a></tt> (1799; 98% instances), <tt><a href="en_lines-dep-fixed.html">fixed</a></tt> (31; 2% instances), <tt><a href="en_lines-dep-case.html">case</a></tt> (9; 0% instances), <tt><a href="en_lines-dep-obj.html">obj</a></tt> (3; 0% instances), <tt><a href="en_lines-dep-nsubj.html">nsubj</a></tt> (2; 0% instances), <tt><a href="en_lines-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 11 different parts of speech: <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (1458; 79% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (140; 8% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (139; 8% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (28; 2% instances), <tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> (27; 1% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> (24; 1% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (12; 1% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (8; 0% instances), <tt><a href="en_lines-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="en_lines-pos-PART.html">PART</a></tt> (3; 0% instances),  (1; 0% instances)
+Parents of `SCONJ` nodes belong to 11 different parts of speech: <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (1457; 79% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (144; 8% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (139; 8% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (28; 2% instances), <tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> (25; 1% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> (24; 1% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (12; 1% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (8; 0% instances), <tt><a href="en_lines-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="en_lines-pos-PART.html">PART</a></tt> (3; 0% instances),  (1; 0% instances)
 
-1781 (97%) `SCONJ` nodes are leaves.
+1784 (97%) `SCONJ` nodes are leaves.
 
-59 (3%) `SCONJ` nodes have one child.
+57 (3%) `SCONJ` nodes have one child.
 
 3 (0%) `SCONJ` nodes have two children.
 
@@ -93,7 +93,7 @@ Parents of `SCONJ` nodes belong to 11 different parts of speech: <tt><a href="en
 
 The highest child degree of a `SCONJ` node is 4.
 
-Children of `SCONJ` nodes are attached using 7 different relations: <tt><a href="en_lines-dep-fixed.html">fixed</a></tt> (35; 51% instances), <tt><a href="en_lines-dep-advmod.html">advmod</a></tt> (19; 28% instances), <tt><a href="en_lines-dep-punct.html">punct</a></tt> (10; 14% instances), <tt><a href="en_lines-dep-cc.html">cc</a></tt> (2; 3% instances), <tt><a href="en_lines-dep-cop.html">cop</a></tt> (1; 1% instances), <tt><a href="en_lines-dep-csubj.html">csubj</a></tt> (1; 1% instances), <tt><a href="en_lines-dep-expl.html">expl</a></tt> (1; 1% instances)
+Children of `SCONJ` nodes are attached using 7 different relations: <tt><a href="en_lines-dep-fixed.html">fixed</a></tt> (33; 49% instances), <tt><a href="en_lines-dep-advmod.html">advmod</a></tt> (19; 28% instances), <tt><a href="en_lines-dep-punct.html">punct</a></tt> (10; 15% instances), <tt><a href="en_lines-dep-cc.html">cc</a></tt> (2; 3% instances), <tt><a href="en_lines-dep-cop.html">cop</a></tt> (1; 1% instances), <tt><a href="en_lines-dep-csubj.html">csubj</a></tt> (1; 1% instances), <tt><a href="en_lines-dep-expl.html">expl</a></tt> (1; 1% instances)
 
-Children of `SCONJ` nodes belong to 10 different parts of speech: <tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> (27; 39% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> (18; 26% instances), <tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt> (10; 14% instances), <tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (5; 7% instances), <tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> (3; 4% instances), <tt><a href="en_lines-pos-PART.html">PART</a></tt> (2; 3% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (1; 1% instances)
+Children of `SCONJ` nodes belong to 10 different parts of speech: <tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> (25; 37% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> (17; 25% instances), <tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt> (10; 15% instances), <tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (6; 9% instances), <tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> (3; 4% instances), <tt><a href="en_lines-pos-PART.html">PART</a></tt> (2; 3% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (1; 1% instances)
 

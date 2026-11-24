@@ -59,6 +59,7 @@ Case-marked infinitives retain `VerbForm=Inf` even when they have an adverbial, 
 * [Case]() has seven values in the Western Armenian documentation: `Nom`, `Gen`, `Dat`, `Acc`, `Abl`, `Ins`, and `Loc`.
   * Nouns do not morphologically distinguish nominative and accusative; direct objects normally have nominative form. `Acc` is used where a pronominal paradigm makes the distinction relevant.
   * For nouns, the genitive-dative distinction is closely connected with definiteness. Possessive personal pronouns distinguish the genitive separately.
+  * Although the locative case is not part of the regular case system of Modern Western Armenian, Case=Loc is used to annotate occasional locative forms occurring in the corpus, particularly those influenced by Eastern Armenian, found in quotations, or preserved from earlier stages of the language. Forms originating from Eastern Armenian are additionally marked with `LangId=Hy`, while archaic forms receive `Style=Arch`.
   * [Case]() is also an inflectional feature of the closed class of postpositional localizers (ADP), e.g. forms based on _մէջ_/_mēǰ_, _վրայ_/_vray_, _տակ_/_tak_, _մօտ_/_mòt_, _ետեւ_/_etew_, and _առջեւ_/_aṙǰew_.
 * [Definite]() has the values `Def` and `Ind` and is used with nominal categories and nominalized verb forms where appropriate.
 * [Degree]() applies to adjectives ([ADJ]()) and some adverbs ([ADV]()). Its values include `Pos`, `Cmp`, `Sup`, and `Abs`.
@@ -69,7 +70,7 @@ Case-marked infinitives retain `VerbForm=Inf` even when they have an adverbial, 
 * [Aspect]() has the values `Dur`, `Imp`, `Iter`, `Perf`, `Prog`, and `Prosp`.
   * The auxiliary _կը_/_kë_ is annotated with `Aspect=Imp`; _պիտի_/_piti_ is annotated with `Aspect=Prosp`; postverbal _կոր_/_kor_ marks `Aspect=Prog`.
   * Participles and other verb forms receive the aspect value appropriate to their morphological form.
-* Finite verbs have one of three [Mood]() values: `Ind`, `Imp`, or `Sub`.
+* Finite verbs have one of three [Mood]() values: `Ind`, `Imp`, or `Sub`. Although the conditional and necessitative moods are not part of the regular mood system of Modern Western Armenian, `Mood=Cnd` and `Mood=Nec` are used to annotate occasional forms occurring in the corpus. Archaic conditional forms are additionally marked with `Style=Arch`, while necessitative forms originating from Eastern Armenian are marked with `LangId=Hy`. In Western Armenian, _պիտի_/_piti_ is used to form the future tense of the indicative mood, whereas in Eastern Armenian it marks the necessitative mood.
   * The present and imperfect indicative are formed analytically with the auxiliary _կը_/_kë_ (_կ՚_/_k՚_, _կու_/_kow_) plus a present or imperfect subjunctive form of the lexical verb.
   * Prospective forms are built with _պիտի_/_piti_ or _պէտք է_/_pētkʼ ē_ plus a present or imperfect subjunctive form.
 * Tense has the values `Pres`, `Imp`, and `Past`. The present and imperfect values used with subjunctive forms are formal morphological labels and may have future or hypothetical interpretations in context.
@@ -102,7 +103,6 @@ Case-marked infinitives retain `VerbForm=Inf` even when they have an adverbial, 
 ### Other Features
 
 * Western Armenian also uses the following language-specific or less widely used features:
-- `Abbr`
 - `AdpType`
 - `Deixis`
 - `Echo`
@@ -173,7 +173,7 @@ The following relation subtypes are documented for Western Armenian:
 * [iobj:agent]() for dative agents in causative constructions
 * [nmod:npmod]() for noun-phrase modifiers
 * [nmod:poss]() for possessive nominal modifiers
-* [nsubj:caus]() for causers in causative constructions
+* [nsubj:caus]() for nominal subjects of causative verbs
 * [nsubj:outer]() for outer nominal subjects
 * [nsubj:pass]() for nominal subjects of passive predicates
 * [obj:agent]() for object-like agents in causative constructions
@@ -365,4 +365,4 @@ as well as Armenian-specific examples scattered across the documentation of cons
 
 There is just one Eastern Armenian UD treebank.
 
-  * [Armenian-ArmTDP](../treebanks/hy_armtdp/index.html)
+  * [Armenian-ArmTDP](https://universaldependencies.org/treebanks/hyw_armtdp/index.html)

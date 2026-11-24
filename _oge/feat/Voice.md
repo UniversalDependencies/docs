@@ -60,4 +60,4 @@ Used for two-place verba sentiendi and similar verbs, in which the experiencer (
 
 * _ვითარმედ მამასა <b>უყვარს</b> იგი._ 'Like the Father loves him.'
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:24 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:07 CET -->

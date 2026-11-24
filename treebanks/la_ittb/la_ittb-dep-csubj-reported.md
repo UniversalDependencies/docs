@@ -33,7 +33,7 @@ The following 1 pairs of parts of speech are connected with `csubj:reported`: <t
 8	iniusta	iniustus	ADJ	B1|grn1|casM|gen3|vgr2	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Plur	9	obj	_	_
 9	agit	ago	VERB	L3|modA|tem1|gen6	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	csubj:reported	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
 10	:	:	PUNCT	Punc	_	11	punct	_	_
-11	scilicet	scilicet	CCONJ	O4	Compound=Yes|VerbForm=Fin	15	cc	_	SpaceAfter=No
+11	scilicet	scilicet	CCONJ	O4	Compound=Yes	15	cc	_	SpaceAfter=No
 12	,	,	PUNCT	Punc	_	11	punct	_	_
 13	inquantum	in	SCONJ	O4|grn8|comZ	_	15	mark	_	_
 14	est	sum	AUX	N3|modA|tem1|gen6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	TraditionalMood=Indicativus|TraditionalTense=Praesens

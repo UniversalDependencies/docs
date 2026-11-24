@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>лангс</em> (<tt><a href="mdf_jr-
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.384615 (the average of all parts of speech is 1.563574).
+The form / lemma ratio of `ADP` is 1.384615 (the average of all parts of speech is 1.563961).
 
 The 1st highest number of forms (5) was observed with the lemma “коряс”: <em>Корязост, корязон, корязонк, корязонт, коряс</em>.
 

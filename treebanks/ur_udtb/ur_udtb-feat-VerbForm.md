@@ -12,20 +12,20 @@ It occurs with 4 different values: `Conv`, `Fin`, `Inf`, `Part`.
 18520 tokens (13%) have a non-empty value of `VerbForm`.
 864 types (8%) occur at least once with a non-empty value of `VerbForm`.
 345 lemmas (4%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 11 part-of-speech tags: <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (10132; 7% instances), <tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt> (8344; 6% instances), <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt> (12; 0% instances), <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (12; 0% instances), <tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> (6; 0% instances), <tt><a href="ur_udtb-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ur_udtb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> (1; 0% instances).
+The feature is used with 11 part-of-speech tags: <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (10130; 7% instances), <tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt> (8346; 6% instances), <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt> (12; 0% instances), <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (12; 0% instances), <tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> (6; 0% instances), <tt><a href="ur_udtb-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ur_udtb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-10132 <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> tokens (80% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+10130 <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> tokens (80% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8700; 86%), <tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (8586; 85%), <tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6731; 66%), <tt><a href="ur_udtb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (5836; 58%), <tt><a href="ur_udtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (5558; 55%), <tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (5526; 55%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8700; 86%), <tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (8584; 85%), <tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6729; 66%), <tt><a href="ur_udtb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (5834; 58%), <tt><a href="ur_udtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (5558; 55%), <tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (5525; 55%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Conv` (26; 0% of non-empty `VerbForm`): کرکے، آکر، اٹھاکر، لےکر، ملکر، ہوکر، دےکر، بتاکر، بجکر، دلاکر
 * `Fin` (1051; 10% of non-empty `VerbForm`): ہے، کریں، ہیں، کریں_گے، ہےں، تھے، تھا، دیں، کرے، تھی
 * `Inf` (1988; 20% of non-empty `VerbForm`): کرنے، ہونے، کرنا، دینے، رکھنے، بنانے، کہنا، آنے، لینے، ہونا
-* `Part` (7067; 70% of non-empty `VerbForm`): کیا، کہا، کی، دیا، کرتے، دی، بتایا، لیا، کیے، ہوا
+* `Part` (7065; 70% of non-empty `VerbForm`): کیا، کہا، کی، دیا، کرتے، دی، بتایا، لیا، کیے، ہوا
 * `EMPTY` (2563): کر، ہو، ہوگا، دے، ہوگی، آ، لے، پہنچ، بن، مل
 
 <table>
@@ -165,15 +165,15 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-8344 <tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt> tokens (91% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+8346 <tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt> tokens (91% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="ur_udtb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (7183; 86%), <tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5892; 71%), <tt><a href="ur_udtb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (5295; 63%), <tt><a href="ur_udtb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4915; 59%), <tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt> (4733; 57%), <tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4395; 53%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="ur_udtb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (7185; 86%), <tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5894; 71%), <tt><a href="ur_udtb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (5295; 63%), <tt><a href="ur_udtb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4915; 59%), <tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt> (4735; 57%), <tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4396; 53%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
 * `Fin` (5112; 61% of non-empty `VerbForm`): ہے، ہیں، تھا، ہےں، تھی، تھے، گے، جائےگا، جائے، گا
 * `Inf` (183; 2% of non-empty `VerbForm`): جانے، جانا، کرنے، جانی، پڑنے، رہنے، سکنے، پانے، کرنا
-* `Part` (3049; 37% of non-empty `VerbForm`): ہوئے، گیا، گئی، گئے، رہی، رہے، رہا، سکتا، جاتا، سکے
+* `Part` (3051; 37% of non-empty `VerbForm`): ہوئے، گیا، گئی، گئے، رہی، رہے، رہا، سکتا، جاتا، سکے
 * `EMPTY` (777): جا، کر، جائے، کے، چاہیے، چاہئے، ہو، ہوئے، ہوگا، ہوں
 
 <table>
@@ -306,7 +306,7 @@ The most frequent other feature values with which `PROPN` and `VerbForm` co-occu
 * `Fin` (3; 50% of non-empty `VerbForm`): رکھیں، کریں، ہیں
 * `Inf` (2; 33% of non-empty `VerbForm`): رہنے، لگنا
 * `Part` (1; 17% of non-empty `VerbForm`): آتے
-* `EMPTY` (17129): پی، سی، آئی، ایس، کانگریس، بی، ہندوستان، ریڈی، اے، سنگھ
+* `EMPTY` (17125): پی، سی، آئی، ایس، کانگریس، بی، ہندوستان، ریڈی، اے، سنگھ
 
 ### `DET`
 
@@ -323,7 +323,7 @@ The most frequent other feature values with which `DET` and `VerbForm` co-occurr
 
 2 <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `PRON` and `VerbForm` co-occurred: <tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2; 100%), <tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 100%), <tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="ur_udtb-feat-Polite.html">Polite</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="ur_udtb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `PRON` and `VerbForm` co-occurred: <tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2; 100%), <tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 100%), <tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="ur_udtb-feat-Polite.html">Polite</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="ur_udtb-feat-PronType.html">PronType</a></tt><tt>=Int</tt> (2; 100%).
 
 `PRON` tokens may have the following values of `VerbForm`:
 
@@ -348,7 +348,7 @@ The most frequent other feature values with which `ADV` and `VerbForm` co-occurr
 `CCONJ` tokens may have the following values of `VerbForm`:
 
 * `Part` (1; 100% of non-empty `VerbForm`): آیا
-* `EMPTY` (3247): اور، و، لیکن، جبکہ، تاہم، یا، مگر، نیز، لہذا، آیا
+* `EMPTY` (3248): اور، و، لیکن، جبکہ، تاہم، یا، مگر، نیز، لہذا، آیا
 
 ### `PART`
 

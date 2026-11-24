@@ -14,7 +14,7 @@ There are 1 language-specific subtypes of `obj`: <tt><a href="sga_dipwbg-dep-obj
 22 instances of `obj` (96%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.91304347826087.
 
-The following 4 pairs of parts of speech are connected with `obj`: <tt><a href="sga_dipwbg-pos-VERB.html">VERB</a></tt>-<tt><a href="sga_dipwbg-pos-NOUN.html">NOUN</a></tt> (14; 61% instances), <tt><a href="sga_dipwbg-pos-VERB.html">VERB</a></tt>-<tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> (6; 26% instances), <tt><a href="sga_dipwbg-pos-VERB.html">VERB</a></tt>-<tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> (2; 9% instances), <tt><a href="sga_dipwbg-pos-VERB.html">VERB</a></tt>-<tt><a href="sga_dipwbg-pos-PROPN.html">PROPN</a></tt> (1; 4% instances).
+The following 4 pairs of parts of speech are connected with `obj`: <tt><a href="sga_dipwbg-pos-VERB.html">VERB</a></tt>-<tt><a href="sga_dipwbg-pos-NOUN.html">NOUN</a></tt> (13; 57% instances), <tt><a href="sga_dipwbg-pos-VERB.html">VERB</a></tt>-<tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> (6; 26% instances), <tt><a href="sga_dipwbg-pos-VERB.html">VERB</a></tt>-<tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> (2; 9% instances), <tt><a href="sga_dipwbg-pos-VERB.html">VERB</a></tt>-<tt><a href="sga_dipwbg-pos-PROPN.html">PROPN</a></tt> (2; 9% instances).
 
 
 ~~~ conllu

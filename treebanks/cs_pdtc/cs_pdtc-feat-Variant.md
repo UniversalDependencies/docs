@@ -28,7 +28,7 @@ The most frequent other feature values with which `PRON` and `Variant` co-occurr
 
 21806 <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt> tokens (6% of all `ADJ` tokens) have a non-empty value of `Variant`.
 
-The most frequent other feature values with which `ADJ` and `Variant` co-occurred: <tt><a href="cs_pdtc-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (21806; 100%), <tt><a href="cs_pdtc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (21783; 100%), <tt><a href="cs_pdtc-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (21574; 99%), <tt><a href="cs_pdtc-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (17958; 82%), <tt><a href="cs_pdtc-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (17958; 82%), <tt><a href="cs_pdtc-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (16008; 73%).
+The most frequent other feature values with which `ADJ` and `Variant` co-occurred: <tt><a href="cs_pdtc-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (21806; 100%), <tt><a href="cs_pdtc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (21783; 100%), <tt><a href="cs_pdtc-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (21574; 99%), <tt><a href="cs_pdtc-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (17958; 82%), <tt><a href="cs_pdtc-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (17958; 82%), <tt><a href="cs_pdtc-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (16008; 73%), <tt><a href="cs_pdtc-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (13780; 63%).
 
 `ADJ` tokens may have the following values of `Variant`:
 

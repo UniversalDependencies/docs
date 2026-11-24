@@ -10,7 +10,7 @@ This feature is language-specific.
 It occurs with 4 different values: `Deg`, `Loc`, `Man`, `Tim`.
 
 95 tokens (1%) have a non-empty value of `AdvType`.
-32 types (1%) occur at least once with a non-empty value of `AdvType`.
+31 types (1%) occur at least once with a non-empty value of `AdvType`.
 27 lemmas (1%) occur at least once with a non-empty value of `AdvType`.
 The feature is used with 3 part-of-speech tags: <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (93; 1% instances), <tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
@@ -25,7 +25,7 @@ The most frequent other feature values with which `ADV` and `AdvType` co-occurre
 * `Deg` (6; 6% of non-empty `AdvType`): <em>дзик, медся</em>
 * `Loc` (3; 3% of non-empty `AdvType`): <em>Татчӧ, некӧн</em>
 * `Man` (22; 24% of non-empty `AdvType`): <em>кыдзи, Тадзи, сідз, сідзи, Тадзнад, кутшӧма, кыдз, кыдзисюрӧ, кыдзкӧ, тадзсӧ</em>
-* `Tim` (62; 67% of non-empty `AdvType`): <em>нин, на, кор, Аскинас, Сэсся, Таво, Талун, бара, коркӧ, сэк</em>
+* `Tim` (62; 67% of non-empty `AdvType`): <em>нин, кор, на, Аскинас, Сэсся, Таво, Талун, бара, коркӧ, сэк</em>
 
 `AdvType` seems to be **lexical feature** of `ADV`. 100% lemmas (25) occur only with one value of `AdvType`.
 

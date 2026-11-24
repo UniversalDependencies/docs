@@ -101,7 +101,7 @@ The following 5 pairs of parts of speech are connected with `dislocated`: <tt><a
 5	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	6:det	Canto=26|Comment=a-l|Verso=136|UniqueTokenId=OldItalian_Dante_Purgatorio-937_5
 6	mostrato	mostrare	VERB	vta1prsm2ms	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	obl	3:obl	Canto=26|Verso=136|UniqueTokenId=OldItalian_Dante_Purgatorio-937_6
 7	innanzi	innanzi	ADP	eiskml	_	6	dislocated	6:dislocated	Canto=26|Dislocated=al|Verso=136|UniqueTokenId=OldItalian_Dante_Purgatorio-937_7
-8	un	uno	DET	_	Gender=Masc|Number=Sing	9	det	9:det	Canto=26|Verso=136|UniqueTokenId=OldItalian_Dante_Purgatorio-937_8
+8	un	uno	DET	_	Gender=Masc|Number=Sing|PronType=Art	9	det	9:det	Canto=26|Verso=136|UniqueTokenId=OldItalian_Dante_Purgatorio-937_8
 9	poco	poco	ADV	_	_	3	advmod	3:advmod	Canto=26|SpaceAfter=No|Verso=136|UniqueTokenId=OldItalian_Dante_Purgatorio-937_9
 10	,	,	PUNCT	_	_	12	punct	12:punct	_
 11	e	e	CCONJ	cscc	_	12	cc	12:cc	Canto=26|Verso=137|UniqueTokenId=OldItalian_Dante_Purgatorio-937_11

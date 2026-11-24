@@ -11,7 +11,7 @@ This relation is universal.
 113 nodes (0%) are attached to their parents as `flat`.
 
 113 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.26548672566372.
+Average distance between parent and child is 1.25663716814159.
 
 The following 10 pairs of parts of speech are connected with `flat`: <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (81; 72% instances), <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (10; 9% instances), <tt><a href="xcl_caval-pos-X.html">X</a></tt>-<tt><a href="xcl_caval-pos-X.html">X</a></tt> (7; 6% instances), <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (6; 5% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (3; 3% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt>-<tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="xcl_caval-pos-DET.html">DET</a></tt>-<tt><a href="xcl_caval-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt>-<tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 

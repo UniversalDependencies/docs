@@ -39,7 +39,7 @@ The following 31 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 5 parataxis	color:blue
-1	Kurasí	kurasí	NOUN	N	Number=Sing	5	nsubj	_	TokenRange=0:6
+1	Kurasí	kurasí	NOUN	N	Number=Sing	2	nsubj	_	TokenRange=0:6
 2	iwaté	iwaté	ADJ	A	_	0	root	_	TokenRange=7:12
 3	ã	ã	PART	PFV	Aspect=Perf	2	advmod	_	SpaceAfter=No|TokenRange=13:14
 4	,	,	PUNCT	PUNCT	_	5	punct	_	TokenRange=14:15

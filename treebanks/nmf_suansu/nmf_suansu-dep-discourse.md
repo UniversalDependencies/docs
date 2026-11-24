@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-46 nodes (1%) are attached to their parents as `discourse`.
+44 nodes (1%) are attached to their parents as `discourse`.
 
-28 instances of `discourse` (61%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.54347826086957.
+26 instances of `discourse` (59%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.22727272727273.
 
-The following 9 pairs of parts of speech are connected with `discourse`: <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt>-<tt><a href="nmf_suansu-pos-INTJ.html">INTJ</a></tt> (22; 48% instances), <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nmf_suansu-pos-INTJ.html">INTJ</a></tt> (8; 17% instances), <tt><a href="nmf_suansu-pos-INTJ.html">INTJ</a></tt>-<tt><a href="nmf_suansu-pos-INTJ.html">INTJ</a></tt> (5; 11% instances), <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt>-<tt><a href="nmf_suansu-pos-PART.html">PART</a></tt> (4; 9% instances), <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nmf_suansu-pos-PART.html">PART</a></tt> (2; 4% instances), <tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt>-<tt><a href="nmf_suansu-pos-INTJ.html">INTJ</a></tt> (2; 4% instances), <tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt>-<tt><a href="nmf_suansu-pos-INTJ.html">INTJ</a></tt> (1; 2% instances), <tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nmf_suansu-pos-INTJ.html">INTJ</a></tt> (1; 2% instances), <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt>-<tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt> (1; 2% instances).
+The following 9 pairs of parts of speech are connected with `discourse`: <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt>-<tt><a href="nmf_suansu-pos-INTJ.html">INTJ</a></tt> (22; 50% instances), <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nmf_suansu-pos-INTJ.html">INTJ</a></tt> (7; 16% instances), <tt><a href="nmf_suansu-pos-INTJ.html">INTJ</a></tt>-<tt><a href="nmf_suansu-pos-INTJ.html">INTJ</a></tt> (5; 11% instances), <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt>-<tt><a href="nmf_suansu-pos-PART.html">PART</a></tt> (4; 9% instances), <tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt>-<tt><a href="nmf_suansu-pos-INTJ.html">INTJ</a></tt> (2; 5% instances), <tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt>-<tt><a href="nmf_suansu-pos-INTJ.html">INTJ</a></tt> (1; 2% instances), <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nmf_suansu-pos-PART.html">PART</a></tt> (1; 2% instances), <tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nmf_suansu-pos-INTJ.html">INTJ</a></tt> (1; 2% instances), <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt>-<tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

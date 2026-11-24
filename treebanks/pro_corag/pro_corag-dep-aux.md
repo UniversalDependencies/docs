@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="pro_corag-dep-aux-pass.html">aux:pass</a></tt>.
 
-443 nodes (1%) are attached to their parents as `aux`.
+568 nodes (1%) are attached to their parents as `aux`.
 
-388 instances of `aux` (88%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.22799097065463.
+511 instances of `aux` (90%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.23591549295775.
 
-The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-AUX.html">AUX</a></tt> (440; 99% instances), <tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pro_corag-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-AUX.html">AUX</a></tt> (565; 99% instances), <tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pro_corag-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -48,14 +48,14 @@ The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="
 1	&	_	CCONJ	_	_	5	cc	_	_
 2	lous	_	DET	_	_	3	det	_	_
 3	expleyts	_	NOUN	_	_	5	nsubj	_	_
-4	seran	_	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	5	aux:pass	_	_
-5	testimoniats	_	VERB	_	Gender=Masc|Number=Plur|Person=3|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+4	seran	_	AUX	_	Number=Plur|Person=3|VerbForm=Fin	5	aux:pass	_	_
+5	testimoniats	_	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
 6	de	_	ADP	_	_	8	case	_	_
 7	deux	_	NUM	_	_	8	nummod	_	_
 8	testimonis	_	NOUN	_	_	5	obl	_	_
 9	qui	_	PRON	_	PronType=Rel	12	nsubj	_	_
-10	seran	_	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	12	aux	_	_
-11	estats	_	AUX	_	Gender=Masc|Number=Plur|Person=3|Tense=Past|VerbForm=Part	12	cop	_	_
+10	seran	_	AUX	_	Number=Plur|Person=3|VerbForm=Fin	12	aux	_	_
+11	estats	_	AUX	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	12	cop	_	_
 12	presens	_	ADJ	_	_	8	acl:relcl	_	_
 13	a-	_	ADP	_	_	15	case	_	_
 14	-losdits	_	DET	_	_	15	det	_	_
@@ -84,7 +84,7 @@ The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="
 11	,	_	PUNCT	_	_	7	punct	_	_
 12	que	_	SCONJ	_	_	15	mark	_	_
 13	no	_	ADV	_	Polarity=Neg	15	advmod	_	_
-14	es	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux:pass	_	_
+14	es	_	AUX	_	Number=Sing|Person=3|VerbForm=Fin	15	aux:pass	_	_
 15	tengut	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
 16	de	_	ADP	_	_	17	mark	_	_
 17	pagar	_	VERB	_	VerbForm=Inf	15	xcomp	_	_

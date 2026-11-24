@@ -23,16 +23,16 @@ The following 19 pairs of parts of speech are connected with `parataxis:discours
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 9 parataxis:discourse	color:blue
-1	everybody	everybody	PRON	_	_	3	nsubj	_	AlignBegin=124480|AlignEnd=124910|Gloss=everybody
-2	dey	dey	AUX	_	Aspect=Imp	3	aux	_	AlignBegin=124910|AlignEnd=125050|Gloss=IPFV
-3	bubble	bubble	VERB	_	_	0	root	_	AlignBegin=125050|AlignEnd=125400|Gloss=bubble
-4	|c	|c	PUNCT	_	_	6	punct	_	AlignBegin=125400|AlignEnd=125400|Gloss=PUNCT
-5	dey	dey	AUX	_	Aspect=Imp	6	aux	_	AlignBegin=125400|AlignEnd=125549|Gloss=IPFV
-6	shuffle	shuffle	VERB	_	_	3	conj	_	AlignBegin=125549|AlignEnd=126100|Gloss=shuffle
-7	>	>	PUNCT	_	_	9	punct	_	AlignBegin=125549|AlignEnd=126070|Gloss=PUNCT
-8	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	9	nsubj	_	AlignBegin=126100|AlignEnd=126160|Gloss=NOM.2
-9	know	know	VERB	_	_	3	parataxis:discourse	_	AlignBegin=126160|AlignEnd=126420|Gloss=know
-10	//	//	PUNCT	_	_	3	punct	_	AlignBegin=126420|AlignEnd=126420|Gloss=PUNCT
+1	everybody	everybody	PRON	_	_	3	nsubj	_	Gloss=everybody|WordAlignmentBegin=124480|WordAlignmentEnd=124910
+2	dey	dey	AUX	_	Aspect=Imp	3	aux	_	Gloss=IPFV|WordAlignmentBegin=124910|WordAlignmentEnd=125050
+3	bubble	bubble	VERB	_	_	0	root	_	Gloss=bubble|WordAlignmentBegin=125050|WordAlignmentEnd=125400
+4	|c	|c	PUNCT	_	_	6	punct	_	Gloss=PUNCT|WordAlignmentBegin=125400|WordAlignmentEnd=125400
+5	dey	dey	AUX	_	Aspect=Imp	6	aux	_	Gloss=IPFV|WordAlignmentBegin=125400|WordAlignmentEnd=125549
+6	shuffle	shuffle	VERB	_	_	3	conj	_	Gloss=shuffle|WordAlignmentBegin=125549|WordAlignmentEnd=126100
+7	>	>	PUNCT	_	_	9	punct	_	Gloss=PUNCT|WordAlignmentBegin=125549|WordAlignmentEnd=126070
+8	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	9	nsubj	_	Gloss=NOM.2|WordAlignmentBegin=126100|WordAlignmentEnd=126160
+9	know	know	VERB	_	_	3	parataxis:discourse	_	Gloss=know|WordAlignmentBegin=126160|WordAlignmentEnd=126420
+10	//	//	PUNCT	_	_	3	punct	_	Gloss=PUNCT|WordAlignmentBegin=126420|WordAlignmentEnd=126420
 
 ~~~
 
@@ -43,16 +43,16 @@ The following 19 pairs of parts of speech are connected with `parataxis:discours
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 3 parataxis:discourse	color:blue
-1	#	#	PUNCT	_	_	9	punct	_	AlignBegin=110015|AlignEnd=110320|Gloss=PUNCT
-2	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	AlignBegin=110320|AlignEnd=110390|Gloss=NOM.2
-3	know	know	VERB	_	_	9	parataxis:discourse	_	AlignBegin=110390|AlignEnd=110460|Gloss=know
-4	base	base	VERB	_	ExtPos=ADP	9	case	_	AlignBegin=110460|AlignEnd=110670|Gloss=base|Idiom=Yes
-5	on	on	ADP	_	_	4	fixed	_	AlignBegin=110670|AlignEnd=110780|Gloss=on|InIdiom=Yes
-6	my	my	PRON	_	Number=Sing|Person=1|Poss=Yes	9	nmod:poss	_	AlignBegin=110780|AlignEnd=111220|Gloss=SG.1.POSS
-7	secondary	secondary	ADJ	_	_	8	amod	_	AlignBegin=111220|AlignEnd=111600|Gloss=secondary
-8	school	school	NOUN	_	_	9	compound	_	AlignBegin=111600|AlignEnd=111760|Gloss=school
-9	experience	experience	NOUN	_	_	0	root	_	AlignBegin=111760|AlignEnd=112230|Gloss=experience
-10	//	//	PUNCT	_	_	9	punct	_	AlignBegin=112230|AlignEnd=112230|Gloss=PUNCT
+1	#	#	PUNCT	_	_	9	punct	_	Gloss=PUNCT|WordAlignmentBegin=110015|WordAlignmentEnd=110320
+2	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	Gloss=NOM.2|WordAlignmentBegin=110320|WordAlignmentEnd=110390
+3	know	know	VERB	_	_	9	parataxis:discourse	_	Gloss=know|WordAlignmentBegin=110390|WordAlignmentEnd=110460
+4	base	base	VERB	_	ExtPos=ADP	9	case	_	Gloss=base|Idiom=Yes|WordAlignmentBegin=110460|WordAlignmentEnd=110670
+5	on	on	ADP	_	_	4	fixed	_	Gloss=on|InIdiom=Yes|WordAlignmentBegin=110670|WordAlignmentEnd=110780
+6	my	my	PRON	_	Number=Sing|Person=1|Poss=Yes	9	nmod:poss	_	Gloss=SG.1.POSS|WordAlignmentBegin=110780|WordAlignmentEnd=111220
+7	secondary	secondary	ADJ	_	_	8	amod	_	Gloss=secondary|WordAlignmentBegin=111220|WordAlignmentEnd=111600
+8	school	school	NOUN	_	_	9	compound	_	Gloss=school|WordAlignmentBegin=111600|WordAlignmentEnd=111760
+9	experience	experience	NOUN	_	_	0	root	_	Gloss=experience|WordAlignmentBegin=111760|WordAlignmentEnd=112230
+10	//	//	PUNCT	_	_	9	punct	_	Gloss=PUNCT|WordAlignmentBegin=112230|WordAlignmentEnd=112230
 
 ~~~
 
@@ -63,14 +63,14 @@ The following 19 pairs of parts of speech are connected with `parataxis:discours
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 1 parataxis:discourse	color:blue
-1	see	see	VERB	_	_	5	parataxis:discourse	_	AlignBegin=193760|AlignEnd=194023|Gloss=see
-2	dis	dis	DET	_	Number=Sing|PronType=Dem	3	det	_	AlignBegin=194023|AlignEnd=194287|Gloss=SG.DEM
-3	one	one	NOUN	_	_	1	obj	_	AlignBegin=194287|AlignEnd=194550|Gloss=one
-4	<	<	PUNCT	_	_	1	punct	_	AlignBegin=194550|AlignEnd=194550|Gloss=PUNCT
-5	plenty	plenty	ADJ	_	_	0	root	_	AlignBegin=194550|AlignEnd=194813|Gloss=plenty
-6	for	for	ADP	_	_	7	case	_	AlignBegin=194813|AlignEnd=195077|Gloss=for
-7	soup	soup	NOUN	_	_	5	obl:mod	_	AlignBegin=195077|AlignEnd=195340|Gloss=soup
-8	//	//	PUNCT	_	_	5	punct	_	AlignBegin=195340|AlignEnd=195340|Gloss=PUNCT
+1	see	see	VERB	_	_	5	parataxis:discourse	_	Gloss=see|WordAlignmentBegin=193760|WordAlignmentEnd=194023
+2	dis	dis	DET	_	Number=Sing|PronType=Dem	3	det	_	Gloss=SG.DEM|WordAlignmentBegin=194023|WordAlignmentEnd=194287
+3	one	one	NOUN	_	_	1	obj	_	Gloss=one|WordAlignmentBegin=194287|WordAlignmentEnd=194550
+4	<	<	PUNCT	_	_	1	punct	_	Gloss=PUNCT|WordAlignmentBegin=194550|WordAlignmentEnd=194550
+5	plenty	plenty	ADJ	_	_	0	root	_	Gloss=plenty|WordAlignmentBegin=194550|WordAlignmentEnd=194813
+6	for	for	ADP	_	_	7	case	_	Gloss=for|WordAlignmentBegin=194813|WordAlignmentEnd=195077
+7	soup	soup	NOUN	_	_	5	obl:mod	_	Gloss=soup|WordAlignmentBegin=195077|WordAlignmentEnd=195340
+8	//	//	PUNCT	_	_	5	punct	_	Gloss=PUNCT|WordAlignmentBegin=195340|WordAlignmentEnd=195340
 
 ~~~
 

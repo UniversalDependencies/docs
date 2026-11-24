@@ -47,4 +47,4 @@ There is also a fused relative pronoun _na_.
 #### Examples
 
 * _ri luchd obrach British Airways <b>a</b> tha ag obair aig puirt adhair_ "with British Airways workers <b>who</b> are working at the airports"
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:14 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:00 CET -->

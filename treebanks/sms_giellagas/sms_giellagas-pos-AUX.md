@@ -6,23 +6,23 @@ udver: '2'
 
 ## Treebank Statistics: UD_Skolt_Sami-Giellagas: POS Tags: `AUX`
 
-There are 6 `AUX` lemmas (1%), 33 `AUX` types (4%) and 170 `AUX` tokens (6%).
+There are 6 `AUX` lemmas (1%), 33 `AUX` types (4%) and 174 `AUX` tokens (6%).
 Out of 16 observed tags, the rank of `AUX` is: 13 in number of lemmas, 5 in number of types and 7 in number of tokens.
 
 The 10 most frequent `AUX` lemmas: <em>leeʹd, ij, õlggâd, iʹlla, i-ǥõl, feʹrttjed</em>
 
 The 10 most frequent `AUX` types:  <em>lij, ij, leäi, jiõk, õõk, liâ, jiõm, õõlǥ, leäk, leäkku</em>
 
-The 10 most frequent ambiguous lemmas: <em>leeʹd</em> (<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> 93, <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> 34), <em>ij</em> (<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> 47, <tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> 6), <em>õlggâd</em> (<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> 20, <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> 8), <em>iʹlla</em> (<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> 6, <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>leeʹd</em> (<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> 96, <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> 34), <em>ij</em> (<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> 48, <tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> 6), <em>õlggâd</em> (<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> 20, <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> 9), <em>iʹlla</em> (<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> 6, <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> 2)
 
-The 10 most frequent ambiguous types:  <em>lij</em> (<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> 36, <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> 9), <em>ij</em> (<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> 18, <tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> 1), <em>leäi</em> (<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> 18, <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> 5), <em>õõk</em> (<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> 11, <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> 2), <em>liâ</em> (<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> 10, <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> 1), <em>õõlǥ</em> (<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> 7, <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> 1), <em>leäkku</em> (<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> 4, <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> 1), <em>iʹlla</em> (<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> 2, <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> 2), <em>leeʹd</em> (<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> 2, <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> 1), <em>leʹjje</em> (<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> 2, <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>lij</em> (<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> 39, <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> 9), <em>ij</em> (<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> 19, <tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> 1), <em>leäi</em> (<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> 18, <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> 5), <em>õõk</em> (<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> 11, <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> 2), <em>liâ</em> (<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> 10, <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> 1), <em>õõlǥ</em> (<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> 7, <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> 1), <em>leäkku</em> (<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> 4, <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> 1), <em>iʹlla</em> (<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> 2, <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> 2), <em>leeʹd</em> (<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> 2, <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> 1), <em>leʹjje</em> (<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> 2, <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> 1)
 
 
 * <em>lij</em>
-  * <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> 36: <em>Čeäkkleemaainâs <b>lij</b> nuʹt što ...</em>
+  * <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> 39: <em>Čeäkkleemaainâs <b>lij</b> nuʹt što ...</em>
   * <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> 9: <em>Leäi kueʹhtt viillj liâ de õhtt nijdd <b>lij</b> .</em>
 * <em>ij</em>
-  * <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> 18: <em>Jiijj puäʹtte ... kuätta puäʹtte , čuõvv <b>ij</b> kueʹst .</em>
+  * <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> 19: <em>Jiijj puäʹtte ... kuätta puäʹtte , čuõvv <b>ij</b> kueʹst .</em>
   * <tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> 1: <em>Tieʹrmes ceälkk što ååʹn õõk , ååʹn õõk väʹldded veäʹšǩǩčåkkam , leeik ja vieʹččer ... <b>ij</b> , viʹlǧǧes reeʹppiǩ .</em>
 * <em>leäi</em>
   * <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> 18: <em>tõt sluužbäiʹǧǧ <b>leäi</b> kuâhttlovitt eeʹjj .</em>
@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>lij</em> (<tt><a href="sms_giellagas-
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 5.500000 (the average of all parts of speech is 1.487500).
+The form / lemma ratio of `AUX` is 5.500000 (the average of all parts of speech is 1.478778).
 
 The 1st highest number of forms (17) was observed with the lemma “leeʹd”: <em>lee, leežž, leeʹd, leäi, leäk, leäk-a, leäkku, leäm, leämmaž, leʹjje, leʹjjem, leʹjjiǩ, leʹččep, leʹččid, lij, lij-a, liâ</em>.
 
@@ -59,28 +59,28 @@ The 2nd highest number of forms (7) was observed with the lemma “ij”: <em>Ij
 
 The 3rd highest number of forms (4) was observed with the lemma “õlggâd”: <em>âlgg, õlggâm, õõk, õõlǥ</em>.
 
-`AUX` occurs with 10 features: <tt><a href="sms_giellagas-feat-VerbForm.html">VerbForm</a></tt> (163; 96% instances), <tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt> (160; 94% instances), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt> (151; 89% instances), <tt><a href="sms_giellagas-feat-Person.html">Person</a></tt> (151; 89% instances), <tt><a href="sms_giellagas-feat-Tense.html">Tense</a></tt> (109; 64% instances), <tt><a href="sms_giellagas-feat-Polarity.html">Polarity</a></tt> (54; 32% instances), <tt><a href="sms_giellagas-feat-Connegative.html">Connegative</a></tt> (11; 6% instances), <tt><a href="sms_giellagas-feat-PartType.html">PartType</a></tt> (3; 2% instances), <tt><a href="sms_giellagas-feat-Aspect.html">Aspect</a></tt> (2; 1% instances), <tt><a href="sms_giellagas-feat-Clitic.html">Clitic</a></tt> (1; 1% instances)
+`AUX` occurs with 10 features: <tt><a href="sms_giellagas-feat-VerbForm.html">VerbForm</a></tt> (165; 95% instances), <tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt> (164; 94% instances), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt> (155; 89% instances), <tt><a href="sms_giellagas-feat-Person.html">Person</a></tt> (155; 89% instances), <tt><a href="sms_giellagas-feat-Tense.html">Tense</a></tt> (112; 64% instances), <tt><a href="sms_giellagas-feat-Polarity.html">Polarity</a></tt> (54; 31% instances), <tt><a href="sms_giellagas-feat-Connegative.html">Connegative</a></tt> (11; 6% instances), <tt><a href="sms_giellagas-feat-PartType.html">PartType</a></tt> (3; 2% instances), <tt><a href="sms_giellagas-feat-Aspect.html">Aspect</a></tt> (2; 1% instances), <tt><a href="sms_giellagas-feat-Clitic.html">Clitic</a></tt> (1; 1% instances)
 
 `AUX` occurs with 19 feature-value pairs: `Aspect=Perf`, `Clitic=QstA`, `Connegative=Yes`, `Mood=Cnd`, `Mood=Imp`, `Mood=Ind`, `Mood=Pot`, `Number=Plur`, `Number=Sing`, `PartType=Int`, `Person=1`, `Person=2`, `Person=3`, `Polarity=Neg`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`
 
-`AUX` occurs with 31 feature combinations.
-The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin` (37 tokens).
+`AUX` occurs with 33 feature combinations.
+The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin` (39 tokens).
 Examples: <em>lij, âlgg</em>
 
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 11 different relations: <tt><a href="sms_giellagas-dep-aux.html">aux</a></tt> (107; 63% instances), <tt><a href="sms_giellagas-dep-cop.html">cop</a></tt> (37; 22% instances), <tt><a href="sms_giellagas-dep-conj.html">conj</a></tt> (11; 6% instances), <tt><a href="sms_giellagas-dep-root.html">root</a></tt> (5; 3% instances), <tt><a href="sms_giellagas-dep-reparandum.html">reparandum</a></tt> (3; 2% instances), <tt><a href="sms_giellagas-dep-ccomp.html">ccomp</a></tt> (2; 1% instances), <tt><a href="sms_giellagas-dep-advcl.html">advcl</a></tt> (1; 1% instances), <tt><a href="sms_giellagas-dep-appos.html">appos</a></tt> (1; 1% instances), <tt><a href="sms_giellagas-dep-aux-neg.html">aux:neg</a></tt> (1; 1% instances), <tt><a href="sms_giellagas-dep-orphan.html">orphan</a></tt> (1; 1% instances), <tt><a href="sms_giellagas-dep-parataxis.html">parataxis</a></tt> (1; 1% instances)
+`AUX` nodes are attached to their parents using 11 different relations: <tt><a href="sms_giellagas-dep-aux.html">aux</a></tt> (109; 63% instances), <tt><a href="sms_giellagas-dep-cop.html">cop</a></tt> (38; 22% instances), <tt><a href="sms_giellagas-dep-conj.html">conj</a></tt> (11; 6% instances), <tt><a href="sms_giellagas-dep-root.html">root</a></tt> (5; 3% instances), <tt><a href="sms_giellagas-dep-reparandum.html">reparandum</a></tt> (3; 2% instances), <tt><a href="sms_giellagas-dep-aux-neg.html">aux:neg</a></tt> (2; 1% instances), <tt><a href="sms_giellagas-dep-ccomp.html">ccomp</a></tt> (2; 1% instances), <tt><a href="sms_giellagas-dep-advcl.html">advcl</a></tt> (1; 1% instances), <tt><a href="sms_giellagas-dep-appos.html">appos</a></tt> (1; 1% instances), <tt><a href="sms_giellagas-dep-orphan.html">orphan</a></tt> (1; 1% instances), <tt><a href="sms_giellagas-dep-parataxis.html">parataxis</a></tt> (1; 1% instances)
 
-Parents of `AUX` nodes belong to 8 different parts of speech: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (116; 68% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (20; 12% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> (11; 6% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (8; 5% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (5; 3% instances),  (5; 3% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (4; 2% instances), <tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
+Parents of `AUX` nodes belong to 8 different parts of speech: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (120; 69% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (20; 11% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> (11; 6% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (8; 5% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (5; 3% instances),  (5; 3% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (4; 2% instances), <tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
 
-147 (86%) `AUX` nodes are leaves.
+151 (87%) `AUX` nodes are leaves.
 
 2 (1%) `AUX` nodes have one child.
 
 8 (5%) `AUX` nodes have two children.
 
-13 (8%) `AUX` nodes have three or more children.
+13 (7%) `AUX` nodes have three or more children.
 
 The highest child degree of a `AUX` node is 9.
 

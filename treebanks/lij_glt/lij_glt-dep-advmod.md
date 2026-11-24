@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-412 nodes (6%) are attached to their parents as `advmod`.
+397 nodes (6%) are attached to their parents as `advmod`.
 
-266 instances of `advmod` (65%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.23300970873786.
+248 instances of `advmod` (62%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.36523929471033.
 
-The following 12 pairs of parts of speech are connected with `advmod`: <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-ADV.html">ADV</a></tt> (255; 62% instances), <tt><a href="lij_glt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lij_glt-pos-ADV.html">ADV</a></tt> (59; 14% instances), <tt><a href="lij_glt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lij_glt-pos-ADV.html">ADV</a></tt> (47; 11% instances), <tt><a href="lij_glt-pos-ADV.html">ADV</a></tt>-<tt><a href="lij_glt-pos-ADV.html">ADV</a></tt> (20; 5% instances), <tt><a href="lij_glt-pos-PRON.html">PRON</a></tt>-<tt><a href="lij_glt-pos-ADV.html">ADV</a></tt> (16; 4% instances), <tt><a href="lij_glt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lij_glt-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="lij_glt-pos-AUX.html">AUX</a></tt>-<tt><a href="lij_glt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="lij_glt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lij_glt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="lij_glt-pos-NUM.html">NUM</a></tt>-<tt><a href="lij_glt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `advmod`: <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-ADV.html">ADV</a></tt> (242; 61% instances), <tt><a href="lij_glt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lij_glt-pos-ADV.html">ADV</a></tt> (50; 13% instances), <tt><a href="lij_glt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lij_glt-pos-ADV.html">ADV</a></tt> (45; 11% instances), <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-ADP.html">ADP</a></tt> (21; 5% instances), <tt><a href="lij_glt-pos-PRON.html">PRON</a></tt>-<tt><a href="lij_glt-pos-ADV.html">ADV</a></tt> (15; 4% instances), <tt><a href="lij_glt-pos-ADV.html">ADV</a></tt>-<tt><a href="lij_glt-pos-ADV.html">ADV</a></tt> (12; 3% instances), <tt><a href="lij_glt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lij_glt-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="lij_glt-pos-ADP.html">ADP</a></tt>-<tt><a href="lij_glt-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="lij_glt-pos-ADV.html">ADV</a></tt>-<tt><a href="lij_glt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="lij_glt-pos-DET.html">DET</a></tt>-<tt><a href="lij_glt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="lij_glt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lij_glt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="lij_glt-pos-PRON.html">PRON</a></tt>-<tt><a href="lij_glt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -28,10 +28,10 @@ The following 12 pairs of parts of speech are connected with `advmod`: <tt><a hr
 4	ponto	ponto	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	_
 5	lì	lì	ADV	_	_	4	advmod	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	8	punct	_	_
-7	cöse	cöse	PRON	_	PronType=Int	8	obl	_	_
+7	cöse	cöse	PRON	_	PronType=Int	8	obl:arg	_	_
 8	serve	servî	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	ciù	ciù	ADV	_	_	8	advmod	_	_
-10	cianze	cianze	VERB	_	Tense=Pres|VerbForm=Inf	8	ccomp	_	SpaceAfter=No
+10	cianze	cianze	VERB	_	Tense=Pres|VerbForm=Inf	8	csubj	_	SpaceAfter=No
 11	?	?	PUNCT	_	_	8	punct	_	_
 
 ~~~
@@ -49,10 +49,10 @@ The following 12 pairs of parts of speech are connected with `advmod`: <tt><a hr
 4	ponto	ponto	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	_
 5	lì	lì	ADV	_	_	4	advmod	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	8	punct	_	_
-7	cöse	cöse	PRON	_	PronType=Int	8	obl	_	_
+7	cöse	cöse	PRON	_	PronType=Int	8	obl:arg	_	_
 8	serve	servî	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	ciù	ciù	ADV	_	_	8	advmod	_	_
-10	cianze	cianze	VERB	_	Tense=Pres|VerbForm=Inf	8	ccomp	_	SpaceAfter=No
+10	cianze	cianze	VERB	_	Tense=Pres|VerbForm=Inf	8	csubj	_	SpaceAfter=No
 11	?	?	PUNCT	_	_	8	punct	_	_
 
 ~~~

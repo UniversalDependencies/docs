@@ -61,7 +61,7 @@ The following 2 pairs of parts of speech are connected with `fixed`: <tt><a href
 4	ikki	_	ADV	NEG	_	3	advmod	_	_
 5	eina	_	ADV	FP	_	3	advmod	_	_
 6	fyri	_	ADP	P	_	7	case	_	_
-7	hesum	_	DET	D-D	Case=Dat	12	obl	_	SpaceAfter=No
+7	hesum	_	DET	D-D	Case=Dat	12	nmod	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	7	punct	_	_
 9	men	_	CCONJ	CONJ	_	12	cc	_	_
 10	eisini	_	ADV	ALSO	_	12	advmod	_	_

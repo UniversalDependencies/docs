@@ -9,67 +9,71 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `nsubj`: <tt><a href="oge_glc-dep-nsubj-pass.html">nsubj:pass</a></tt>.
 
-324 nodes (5%) are attached to their parents as `nsubj`.
+1871 nodes (6%) are attached to their parents as `nsubj`.
 
-228 instances of `nsubj` (70%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.32716049382716.
+1084 instances of `nsubj` (58%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.70978086584714.
 
-The following 27 pairs of parts of speech are connected with `nsubj`: <tt><a href="oge_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="oge_glc-pos-PRON.html">PRON</a></tt> (106; 33% instances), <tt><a href="oge_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt> (98; 30% instances), <tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="oge_glc-pos-PRON.html">PRON</a></tt> (24; 7% instances), <tt><a href="oge_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt> (13; 4% instances), <tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt> (13; 4% instances), <tt><a href="oge_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="oge_glc-pos-PROPN.html">PROPN</a></tt> (12; 4% instances), <tt><a href="oge_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="oge_glc-pos-VERB.html">VERB</a></tt> (8; 2% instances), <tt><a href="oge_glc-pos-ADV.html">ADV</a></tt>-<tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt> (6; 2% instances), <tt><a href="oge_glc-pos-AUX.html">AUX</a></tt>-<tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt> (6; 2% instances), <tt><a href="oge_glc-pos-AUX.html">AUX</a></tt>-<tt><a href="oge_glc-pos-PRON.html">PRON</a></tt> (6; 2% instances), <tt><a href="oge_glc-pos-ADV.html">ADV</a></tt>-<tt><a href="oge_glc-pos-PRON.html">PRON</a></tt> (5; 2% instances), <tt><a href="oge_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="oge_glc-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="oge_glc-pos-PRON.html">PRON</a></tt>-<tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="oge_glc-pos-PART.html">PART</a></tt>-<tt><a href="oge_glc-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="oge_glc-pos-PRON.html">PRON</a></tt>-<tt><a href="oge_glc-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="oge_glc-pos-PRON.html">PRON</a></tt>-<tt><a href="oge_glc-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="oge_glc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="oge_glc-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="oge_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="oge_glc-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="oge_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="oge_glc-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="oge_glc-pos-ADV.html">ADV</a></tt>-<tt><a href="oge_glc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="oge_glc-pos-ADV.html">ADV</a></tt>-<tt><a href="oge_glc-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="oge_glc-pos-AUX.html">AUX</a></tt>-<tt><a href="oge_glc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="oge_glc-pos-AUX.html">AUX</a></tt>-<tt><a href="oge_glc-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="oge_glc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="oge_glc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="oge_glc-pos-PRON.html">PRON</a></tt>-<tt><a href="oge_glc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="oge_glc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 40 pairs of parts of speech are connected with `nsubj`: <tt><a href="oge_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt> (655; 35% instances), <tt><a href="oge_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="oge_glc-pos-PRON.html">PRON</a></tt> (562; 30% instances), <tt><a href="oge_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="oge_glc-pos-PROPN.html">PROPN</a></tt> (107; 6% instances), <tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="oge_glc-pos-PRON.html">PRON</a></tt> (98; 5% instances), <tt><a href="oge_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt> (77; 4% instances), <tt><a href="oge_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="oge_glc-pos-PRON.html">PRON</a></tt> (58; 3% instances), <tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt> (58; 3% instances), <tt><a href="oge_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="oge_glc-pos-ADJ.html">ADJ</a></tt> (43; 2% instances), <tt><a href="oge_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="oge_glc-pos-VERB.html">VERB</a></tt> (31; 2% instances), <tt><a href="oge_glc-pos-AUX.html">AUX</a></tt>-<tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt> (30; 2% instances), <tt><a href="oge_glc-pos-AUX.html">AUX</a></tt>-<tt><a href="oge_glc-pos-PRON.html">PRON</a></tt> (24; 1% instances), <tt><a href="oge_glc-pos-PRON.html">PRON</a></tt>-<tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt> (24; 1% instances), <tt><a href="oge_glc-pos-AUX.html">AUX</a></tt>-<tt><a href="oge_glc-pos-VERB.html">VERB</a></tt> (12; 1% instances), <tt><a href="oge_glc-pos-PRON.html">PRON</a></tt>-<tt><a href="oge_glc-pos-PRON.html">PRON</a></tt> (11; 1% instances), <tt><a href="oge_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="oge_glc-pos-NUM.html">NUM</a></tt> (9; 0% instances), <tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="oge_glc-pos-ADJ.html">ADJ</a></tt> (8; 0% instances), <tt><a href="oge_glc-pos-ADV.html">ADV</a></tt>-<tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt> (7; 0% instances), <tt><a href="oge_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="oge_glc-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="oge_glc-pos-ADV.html">ADV</a></tt>-<tt><a href="oge_glc-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="oge_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="oge_glc-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="oge_glc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="oge_glc-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="oge_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="oge_glc-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="oge_glc-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="oge_glc-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="oge_glc-pos-AUX.html">AUX</a></tt>-<tt><a href="oge_glc-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="oge_glc-pos-NUM.html">NUM</a></tt>-<tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="oge_glc-pos-PART.html">PART</a></tt>-<tt><a href="oge_glc-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="oge_glc-pos-PRON.html">PRON</a></tt>-<tt><a href="oge_glc-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="oge_glc-pos-PRON.html">PRON</a></tt>-<tt><a href="oge_glc-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="oge_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="oge_glc-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="oge_glc-pos-ADP.html">ADP</a></tt>-<tt><a href="oge_glc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="oge_glc-pos-ADV.html">ADV</a></tt>-<tt><a href="oge_glc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="oge_glc-pos-ADV.html">ADV</a></tt>-<tt><a href="oge_glc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="oge_glc-pos-ADV.html">ADV</a></tt>-<tt><a href="oge_glc-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="oge_glc-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="oge_glc-pos-NUM.html">NUM</a></tt>-<tt><a href="oge_glc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="oge_glc-pos-PRON.html">PRON</a></tt>-<tt><a href="oge_glc-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="oge_glc-pos-PRON.html">PRON</a></tt>-<tt><a href="oge_glc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="oge_glc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="oge_glc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="oge_glc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 3 nsubj	color:blue
-1	ხოლო	ხოლო	CCONJ	Conj	_	8	cc	_	Translit=xolo
-2	უკუეთუ	უკუეთუ	SCONJ	SCONJ	_	4	mark	_	Translit=ukuetʻu
-3	ვინმე	ვინმე	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	4	nsubj	_	Translit=vinme
-4	განლაღნეს	განლაღნება	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	Translit=ganlaġnes
-5	ქმნად	ქმნა	VERB	Verb	Case=Ess|Number=Sing|VerbForm=Vnoun	4	obl	_	Translit=kʻmnad
-6	ესევითარისა	ესევითარი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	5	obj	_	SpaceAfter=No|Translit=esevitʻarisa
-7	,	,	PUNCT	F	PunctType=Comm	8	punct	_	Translit=,
-8	განიკუეთენ	განკუეთა	VERB	Verb	Aspect=Perf|Mood=Imp|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No|Translit=ganikuetʻen
-9	.	.	PUNCT	F	PunctType=Peri	8	punct	_	Translit=.
+# visual-style 4 5 nsubj	color:blue
+1	ხოლო	ხოლო	CCONJ	Conj	_	4	cc	_	Translit=xolo
+2	უკუეთუ	უკუეთუ	SCONJ	Conj	_	4	mark	_	Translit=ukuetʻu
+3	მამასა	მამა	NOUN	Noun	Case=Dat|Number=Sing	4	iobj	_	Translit=mamasa
+4	მიეცა	მიცემა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Pass	9	advcl	_	Translit=miecʻa
+5	სისხლი	სისხლი	NOUN	Noun	Case=Nom|Number=Sing	4	nsubj	_	Translit=sisxli
+6	მისი	მისი	PRON	Pron	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	nmod	_	SpaceAfter=No|Translit=misi
+7	,	,	PUNCT	F	PunctType=Comm	4	punct	_	Translit=,
+8	ვითარ	ვითარ	ADV	Adv	AdvType=Man	9	advmod	_	Translit=vitʻar
+9	არს	ყოფა	AUX	Verb	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=ars
+10	ესე	ესე	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	9	nsubj	_	SpaceAfter=No|Translit=ese
+11	?	?	PUNCT	F	PunctType=Qest	9	punct	_	Translit=?
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 3 nsubj	color:blue
-1	და	და	CCONJ	Conj	_	2	cc	_	Translit=da
-2	სთნდა	თნობა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[io]=Sing|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=stʻnda
-3	სიტყუაჲ	სიტყუაჲ	NOUN	Noun	Case=Nom|Number=Sing	2	nsubj	_	Translit=sitquay
-4	ესე	ესე	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	3	det	_	Translit=ese
-5	ყოველსა	ყოველი	PRON	Pron	Case=Dat|Number=Sing|PronType=Tot	6	det	_	Translit=qovelsa
-6	მას	იგი	PRON	Pron	Case=Dat|Number=Sing|PronType=Dem	2	iobj	_	Translit=mas
-7	სიმრავლესა	სიმრავლე	NOUN	Noun	Case=Dat|Number=Sing	6	appos	_	SpaceAfter=No|Translit=simravlesa
-8	.	.	PUNCT	F	PunctType=Peri	2	punct	_	Translit=.
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 2 nsubj	color:blue
+1	რამეთუ	რამეთუ	SCONJ	Conj	_	6	mark	_	Translit=rametʻu
+2	ჩუენ	ჩუენ	PRON	Pron	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	Translit=čʻuen
+3	არა	არა	PART	Part	ExtPos=ADV|PartType=Neg	5	advmod:neg	_	Translit=ara
+4	თუ	თუ	SCONJ	Conj	_	3	fixed	_	Translit=tʻu
+5	მამასა	მამა	NOUN	Noun	Case=Dat|Number=Sing	6	iobj	_	Translit=mamasa
+6	ვჰყევით	ყოფა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[io]=Sing|Number[subj]=Plur|Person[io]=3|Person[subj]=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=vhqevitʻ
+7	პყრობილად	პყრობილი	ADJ	Adj	Case=Ess|Degree=Pos|Number=Sing	6	xcomp	_	SpaceAfter=No|Translit=pqrobilad
+8	.	.	PUNCT	F	PunctType=Peri	6	punct	_	Translit=.
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 6 nsubj	color:blue
-1	მობაძავ	მობაძავი	NOUN	Noun	Case=Nom|Number=Plur	3	xcomp	_	Translit=mobażav
-2	ჩემდა	მე	PRON	Pron	Case=Dat|Number=Sing|Person=1|PronType=Prs	1	nmod	_	Translit=čʻemda
-3	იყვენით	ყოფა	AUX	Verb	Aspect=Imp|Mood=Imp|Number[subj]=Plur|Person[subj]=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=iqvenitʻ
-4	,	,	PUNCT	F	PunctType=Comm	3	punct	_	Translit=,
-5	ვითარცა	ვითარცა	SCONJ	SCONJ	_	8	mark	_	Translit=vitʻarcʻa
-6	მე	მე	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	Translit=me
-7	–	–	PUNCT	F	PunctType=Dash	8	punct	_	Translit=–
-8	ქრისტესა	ქრისტე	NOUN	Noun	Case=Dat|Number=Sing	3	advcl	_	SpaceAfter=No|Translit=kʻristesa
-9	“	“	PUNCT	F	PunctSide=Fin|PunctType=Quot	8	punct	_	SpaceAfter=No|Translit=“
-10	.	.	PUNCT	F	PunctType=Peri	3	punct	_	Translit=.
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 11 nsubj	color:blue
+1	„	„	PUNCT	_	PunctSide=Ini|PunctType=Quot	5	punct	_	SpaceAfter=No|Translit=„
+2	საჴუმილავსა	საჴუმილავი	NOUN	Noun	Case=Dat|Number=Sing	5	obl	_	Translit=sax̣umilavsa
+3	ზედა	ზედა	ADV	Adv	AdvType=Loc	2	advmod	_	Translit=zeda
+4	ჩემსა	ჩემი	PRON	Pron	Case=Dat|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	Translit=čʻemsa
+5	დავდგე	დგომა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=1|VerbForm=Fin|Voice=Act	9	ccomp	_	SpaceAfter=No|Translit=davdge
+6	“	“	PUNCT	_	PunctSide=Fin|PunctType=Quot	5	punct	_	SpaceAfter=No|Translit=“
+7	,	,	PUNCT	F	PunctType=Comm	5	punct	_	Translit=,
+8	–	–	PUNCT	F	PunctType=Dash	9	punct	_	Translit=–
+9	იტყჳს	იტყჳს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=itqws
+10	საკჳრველი	საკჳრველი	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	11	amod	_	Translit=sakwrveli
+11	ამბაკუმ	ამბაკუმ	PROPN	Prop	Case=Nom|NameType=Prs|Number=Sing	9	nsubj	_	SpaceAfter=No|Translit=ambakum
+12	.	.	PUNCT	F	PunctType=Peri	9	punct	_	Translit=.
 
 ~~~
 

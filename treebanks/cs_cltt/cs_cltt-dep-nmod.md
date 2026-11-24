@@ -24,7 +24,7 @@ The following 27 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 1 3 nmod	color:blue
 1	Metoda	metoda	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	_
 2	komponentního	komponentní	ADJ	AANS2----1A----	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	3	amod	3:amod	_
-3	odpisování	odpisování	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing	1	nmod	1:nmod:gen	_
+3	odpisování	odpisování	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|VerbForm=Vnoun	1	nmod	1:nmod:gen	_
 4	majetku	majetek	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	3:nmod:gen	_
 
 ~~~
@@ -50,8 +50,8 @@ The following 27 pairs of parts of speech are connected with `nmod`: <tt><a href
 12	CELKEM	CELKEM	X	X@-------------	_	11	nmod	11:nmod	SpaceAfter=No|LGloss=(from_multi_word_term)
 13	“	"	PUNCT	Z:-------------	_	11	punct	11:punct	_
 14	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	16	expl:pv	16:expl:pv	_
-15	musí	muset	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
-16	rovnat	rovnat	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	15	xcomp	15:xcomp	SpaceAfter=No
+15	musí	muset	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+16	rovnat	rovnat	VERB	Vf--------A----	Aspect=Imp|Polarity=Pos|VerbForm=Inf	15	xcomp	15:xcomp	SpaceAfter=No
 17	.	.	PUNCT	Z:-------------	_	15	punct	15:punct	_
 
 ~~~
@@ -63,9 +63,9 @@ The following 27 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 nmod	color:blue
-1	Ustanovení	ustanovení	NOUN	NNNP1-----A----	Case=Nom|Gender=Neut|Number=Plur	0	root	0:root	_
+1	Ustanovení	ustanovení	NOUN	NNNP1-----A----	Case=Nom|Gender=Neut|Number=Plur|VerbForm=Vnoun	0	root	0:root	_
 2	přechodná	přechodný	ADJ	AANP1----1A----	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos	1	amod	1:amod	_
-3	zavedena	zavedený	ADJ	VsQW---XX-AP---	Degree=Pos|Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	1	dep	1:dep	LDeriv=zavést
+3	zavedena	zavedený	ADJ	VsQW---XX-AP---	Aspect=Perf|Degree=Pos|Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	1	dep	1:dep	LDeriv=zavést
 4	vyhláškou	vyhláška	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing	3	obl:arg	3:obl:arg:ins	_
 5	č._472/2003_Sb._Čl._II	č._472/2003_Sb._Čl._II	X	X@-------------	_	4	nmod	4:nmod	_
 

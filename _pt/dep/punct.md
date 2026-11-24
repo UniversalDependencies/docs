@@ -45,4 +45,4 @@ punct(leia, ()
 punct(leia, ))
 punct(afirmou, .)
 </div>
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:43 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:39:12 CET -->

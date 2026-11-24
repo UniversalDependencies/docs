@@ -9,18 +9,18 @@ udver: '2'
 This feature is language-specific.
 It occurs with 7 different values: `ADP`, `ADV`, `CCONJ`, `NOUN`, `PRON`, `PROPN`, `SCONJ`.
 
-924 tokens (0%) have a non-empty value of `ExtPos`.
-58 types (0%) occur at least once with a non-empty value of `ExtPos`.
-40 lemmas (0%) occur at least once with a non-empty value of `ExtPos`.
-The feature is used with 9 part-of-speech tags: <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (243; 0% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (207; 0% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (127; 0% instances), <tt><a href="en_gum-pos-SYM.html">SYM</a></tt> (94; 0% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (83; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (68; 0% instances), <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (60; 0% instances), <tt><a href="en_gum-pos-DET.html">DET</a></tt> (24; 0% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (18; 0% instances).
+927 tokens (0%) have a non-empty value of `ExtPos`.
+59 types (0%) occur at least once with a non-empty value of `ExtPos`.
+41 lemmas (0%) occur at least once with a non-empty value of `ExtPos`.
+The feature is used with 9 part-of-speech tags: <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (245; 0% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (207; 0% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (127; 0% instances), <tt><a href="en_gum-pos-SYM.html">SYM</a></tt> (94; 0% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (83; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (69; 0% instances), <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (60; 0% instances), <tt><a href="en_gum-pos-DET.html">DET</a></tt> (24; 0% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (18; 0% instances).
 
 ### `ADP`
 
-243 <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> tokens (1% of all `ADP` tokens) have a non-empty value of `ExtPos`.
+245 <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> tokens (1% of all `ADP` tokens) have a non-empty value of `ExtPos`.
 
 `ADP` tokens may have the following values of `ExtPos`:
 
-* `ADP` (148; 61% of non-empty `ExtPos`): <em>out, because, as, off, up, On</em>
+* `ADP` (150; 61% of non-empty `ExtPos`): <em>out, because, as, off, up, On</em>
 * `ADV` (63; 26% of non-empty `ExtPos`): <em>of, up, in, As</em>
 * `SCONJ` (32; 13% of non-empty `ExtPos`): <em>in</em>
 
@@ -88,15 +88,17 @@ The most frequent other feature values with which `NOUN` and `ExtPos` co-occurre
 
 ### `VERB`
 
-68 <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `ExtPos`.
+69 <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `VERB` and `ExtPos` co-occurred: <tt><a href="en_gum-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (68; 100%), <tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (66; 97%), <tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (64; 94%), <tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (64; 94%), <tt><a href="en_gum-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (62; 91%), <tt><a href="en_gum-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (60; 88%).
+The most frequent other feature values with which `VERB` and `ExtPos` co-occurred: <tt><a href="en_gum-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (69; 100%), <tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (67; 97%), <tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (65; 94%), <tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (65; 94%), <tt><a href="en_gum-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (62; 90%), <tt><a href="en_gum-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (60; 87%).
 
 `VERB` tokens may have the following values of `ExtPos`:
 
-* `ADP` (59; 87% of non-empty `ExtPos`): <em>according, depending</em>
+* `ADP` (59; 86% of non-empty `ExtPos`): <em>according, depending</em>
 * `CCONJ` (3; 4% of non-empty `ExtPos`): <em>let</em>
-* `PROPN` (6; 9% of non-empty `ExtPos`): <em>United, Walk, Walks, Wed, Write</em>
+* `PROPN` (7; 10% of non-empty `ExtPos`): <em>Hunting, United, Walk, Walks, Wed, Write</em>
+
+`ExtPos` seems to be **lexical feature** of `VERB`. 100% lemmas (10) occur only with one value of `ExtPos`.
 
 ### `SCONJ`
 

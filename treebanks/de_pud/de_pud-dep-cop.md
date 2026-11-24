@@ -69,7 +69,7 @@ The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="
 5	aus	aus	ADP	IN	_	7	case	_	_
 6	dem	der	DET	DT	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	7	det	_	_
 7	Jahr	Jahr	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing	2	nmod	_	_
-8	1981	1981	NUM	CD	NumType=Card	7	obl:tmod	_	_
+8	1981	1981	NUM	CD	NumType=Card	7	nmod:tmod	_	_
 9	war	sein	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	10	cop	_	_
 10	einer	ein	DET	NN	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|NumType=Card|PronType=Art	0	root	_	_
 11	ihrer	ihr	DET	DTP$	Case=Gen|Gender=Masc|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	13	det:poss	_	_

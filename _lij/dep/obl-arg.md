@@ -37,3 +37,4 @@ Adjectives also take oblique arguments, as in _piñe d’ægua_ “full of water
 For an agent attached to a passive participle, see the example under [obl:agent](obl-agent.html#passive-participle).
 
 Oblique modifiers take [obl](). Passive agents take [obl:agent](), and dative clitic arguments take [iobj]().
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:39:04 CET -->

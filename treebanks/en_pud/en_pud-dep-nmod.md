@@ -27,7 +27,7 @@ The following 32 pairs of parts of speech are connected with `nmod`: <tt><a href
 2	in	in	ADP	IN	_	4	case	4:case	_
 3	this	this	DET	DT	Number=Sing|PronType=Dem	4	det	4:det	_
 4	area	area	NOUN	NN	Number=Sing	1	nmod	1:nmod:in	_
-5	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	cop	6:cop	_
+5	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	cop	6:cop	_
 6	up	up	ADV	RB	_	0	root	0:root	_
 7	by	by	ADP	IN	_	9	case	9:case	_
 8	6	6	NUM	CD	NumForm=Digit|NumType=Card	9	nummod	9:nummod	SpaceAfter=No
@@ -69,7 +69,7 @@ The following 32 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 10 12 nmod	color:blue
 1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj:pass	3:nsubj:pass	_
 2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	3:aux:pass	_
-3	conducted	conduct	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
+3	conducted	conduct	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
 4	just	just	ADV	RB	_	8	advmod	8:advmod	_
 5	off	off	ADP	IN	_	8	case	8:case	_
 6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	_

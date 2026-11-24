@@ -26,8 +26,8 @@ The following 8 pairs of parts of speech are connected with `advmod`: <tt><a hre
 1	നിങ്ങൾക്ക്	നിങ്ങൾ	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Translit=niṅṅaḷ̕kk|LTranslit=niṅṅaḷ̕
 2	എപ്പോൾ	എപ്പോൾ	ADV	_	_	3	advmod	_	Translit=eppōḷ̕|LTranslit=eppōḷ̕
 3	വരാൻ	വരുക	VERB	_	Polarity=Pos|VerbForm=Inf|Voice=Act	7	ccomp	_	Translit=varān̕|LTranslit=varuka
-4	കഴിയും	കഴിയുക	AUX	_	Mood=Ind|Polarity=Pos|Tense=Fut|VerbForm=Fin	3	aux	_	Translit=kaḻiyuṁ|LTranslit=kaḻiyuka
-5	എന്ന്	എന്ന്	SCONJ	_	_	3	mark	_	Translit=enn|LTranslit=enn
+4	കഴിയും	കഴിയുക	AUX	_	Mood=Ind|Polarity=Pos|Tense=Fut|VerbForm=Fin	3	aux	_	LTranslit=kaḻiyuka|Translit=kaḻiyuṁ
+5	എന്ന്	എന്ന്	SCONJ	_	_	3	mark	_	LTranslit=enn|Translit=enn
 6	നിങ്ങൾ	നിങ്ങൾ	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	Translit=niṅṅaḷ̕|LTranslit=niṅṅaḷ̕
 7	കരുതുന്നു	കരുതുന്നു	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=karutunnu|LTranslit=karutunnu
 8	?	?	PUNCT	_	_	7	punct	_	Translit=?|LTranslit=?
@@ -44,8 +44,8 @@ The following 8 pairs of parts of speech are connected with `advmod`: <tt><a hre
 1	ഒരുപക്ഷേ	ഒരുപക്ഷേ	ADV	_	_	4	advmod	_	SpaceAfter=No|Translit=orupakṣē|LTranslit=orupakṣē
 2	,	,	PUNCT	_	_	4	punct	_	Translit=,|LTranslit=,
 3	ചോക്ലേറ്റിനേക്കാൾ	ചോക്കലേറ്റ്	NOUN	_	Animacy=Anim|Case=Cmp|Number=Sing	4	nsubj	_	Translit=cōklēṟṟinēkkāḷ̕|LTranslit=cōkkalēṟṟ
-4	നല്ലത്	നല്ലത്	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	Translit=nallat|LTranslit=nallat
-5	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	cop	_	Translit=āṇ|LTranslit=āk
+4	നല്ലത്	നല്ലത്	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	LTranslit=nallat|Translit=nallat
+5	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	cop	_	LTranslit=āk|Translit=āṇ
 6	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 ~~~
@@ -62,8 +62,8 @@ The following 8 pairs of parts of speech are connected with `advmod`: <tt><a hre
 3	എന്റെ	ഞാൻ	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	4	nmod:poss	_	Translit=enṟe|LTranslit=ñān̕
 4	അച്ഛൻ	അച്ഛൻ	NOUN	_	Animacy=Anim|Case=Nom|Number=Sing	6	nsubj	_	Translit=acchan̕|LTranslit=acchan̕
 5	വളരെ	വളരെ	ADV	_	_	6	advmod	_	Translit=vaḷare|LTranslit=vaḷare
-6	ശാന്തൻ	ശാന്തൻ	ADJ	_	_	0	root	_	Translit=śāntan̕|LTranslit=śāntan̕
-7	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	cop	_	Translit=āṇ|LTranslit=āk
+6	ശാന്തൻ	ശാന്തൻ	ADJ	_	_	0	root	_	LTranslit=śāntan̕|Translit=śāntan̕
+7	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	cop	_	LTranslit=āk|Translit=āṇ
 8	.	.	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
 
 ~~~

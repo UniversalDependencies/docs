@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Arabic-PADT: POS Tags: `AUX`
 
-There are 11 `AUX` lemmas (0%), 28 `AUX` types (0%) and 2154 `AUX` tokens (1%).
-Out of 17 observed tags, the rank of `AUX` is: 13 in number of lemmas, 12 in number of types and 13 in number of tokens.
+There are 8 `AUX` lemmas (0%), 25 `AUX` types (0%) and 2132 `AUX` tokens (1%).
+Out of 17 observed tags, the rank of `AUX` is: 13 in number of lemmas, 13 in number of types and 13 in number of tokens.
 
-The 10 most frequent `AUX` lemmas: سَ، قَد، كَان، لَيس، سَوفَ، مَا، هَل، رُبَّمَا، أَ، عَاد
+The 10 most frequent `AUX` lemmas: سَ، قَد، كَان، لَيس، سَوفَ، مَا، رُبَّمَا، عَلَّ
 
 The 10 most frequent `AUX` types:  س، قد، كان، يكون، ليس، سوف، تكون، ما، كانت، ليست
 
-The 10 most frequent ambiguous lemmas: سَ (<tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 1069, <tt><a href="ar_padt-pos-PART.html">PART</a></tt> 5), قَد (<tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 407, <tt><a href="ar_padt-pos-PART.html">PART</a></tt> 145), كَان (<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 911, <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 386), لَيس (<tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 118, <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 74), مَا (<tt><a href="ar_padt-pos-DET.html">DET</a></tt> 1021, <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 64, <tt><a href="ar_padt-pos-PART.html">PART</a></tt> 3, <tt><a href="ar_padt-pos-INTJ.html">INTJ</a></tt> 1), هَل (<tt><a href="ar_padt-pos-PART.html">PART</a></tt> 32, <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 17), رُبَّمَا (<tt><a href="ar_padt-pos-PART.html">PART</a></tt> 28, <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 6), أَ (<tt><a href="ar_padt-pos-X.html">X</a></tt> 48, <tt><a href="ar_padt-pos-PART.html">PART</a></tt> 6, <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 4), عَاد (<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 95, <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 1), عَلَّ (<tt><a href="ar_padt-pos-PART.html">PART</a></tt> 4, <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 1)
+The 10 most frequent ambiguous lemmas: سَ (<tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 1069, <tt><a href="ar_padt-pos-PART.html">PART</a></tt> 5), قَد (<tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 407, <tt><a href="ar_padt-pos-PART.html">PART</a></tt> 145), كَان (<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 911, <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 386), لَيس (<tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 118, <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 74), مَا (<tt><a href="ar_padt-pos-DET.html">DET</a></tt> 1021, <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 64, <tt><a href="ar_padt-pos-PART.html">PART</a></tt> 3, <tt><a href="ar_padt-pos-INTJ.html">INTJ</a></tt> 1), رُبَّمَا (<tt><a href="ar_padt-pos-PART.html">PART</a></tt> 28, <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 6), عَلَّ (<tt><a href="ar_padt-pos-PART.html">PART</a></tt> 4, <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 1)
 
-The 10 most frequent ambiguous types:  س (<tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 1069, <tt><a href="ar_padt-pos-PART.html">PART</a></tt> 5, <tt><a href="ar_padt-pos-X.html">X</a></tt> 2), قد (<tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 406, <tt><a href="ar_padt-pos-PART.html">PART</a></tt> 145), كان (<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 378, <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 118), يكون (<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 99, <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 89), ليس (<tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 83, <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 59), تكون (<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 77, <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 75), ما (<tt><a href="ar_padt-pos-DET.html">DET</a></tt> 1025, <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 64, <tt><a href="ar_padt-pos-X.html">X</a></tt> 4, <tt><a href="ar_padt-pos-PART.html">PART</a></tt> 3, <tt><a href="ar_padt-pos-INTJ.html">INTJ</a></tt> 1), كانت (<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 251, <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 61), ليست (<tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 32, <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 13), هل (<tt><a href="ar_padt-pos-PART.html">PART</a></tt> 32, <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 17)
+The 10 most frequent ambiguous types:  س (<tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 1069, <tt><a href="ar_padt-pos-PART.html">PART</a></tt> 5, <tt><a href="ar_padt-pos-X.html">X</a></tt> 2), قد (<tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 406, <tt><a href="ar_padt-pos-PART.html">PART</a></tt> 145), كان (<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 378, <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 118), يكون (<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 99, <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 89), ليس (<tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 83, <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 59), تكون (<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 77, <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 75), ما (<tt><a href="ar_padt-pos-DET.html">DET</a></tt> 1025, <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 64, <tt><a href="ar_padt-pos-X.html">X</a></tt> 4, <tt><a href="ar_padt-pos-PART.html">PART</a></tt> 3, <tt><a href="ar_padt-pos-INTJ.html">INTJ</a></tt> 1), كانت (<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 251, <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 61), ليست (<tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 32, <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 13), يكن (<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 22, <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 15)
 
 
 * س
@@ -49,13 +49,13 @@ The 10 most frequent ambiguous types:  س (<tt><a href="ar_padt-pos-AUX.html">AU
 * ليست
   * <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 32: و قال إن " سوريا <b>ليست</b> خائفة و لا قلقة من هذه التهديدات " .
   * <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 13: و أضاف التقرير أن ها <b>ليست</b> أثارا إسلامية أو قبطية . .
-* هل
-  * <tt><a href="ar_padt-pos-PART.html">PART</a></tt> 32: <b>هل</b> دفعت الخلافات العائلية الشيخ إلى الانتحار ؟
-  * <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 17: <b>هل</b> تتعمق الأزمة السياسية و الاقتصادية في لبنان ؟
+* يكن
+  * <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 22: ف لم <b>يكن</b> هناك خلاف بين الفصائل على فكرة الهدنة ، و إنما شروط ها .
+  * <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 15: و لم <b>يكن</b> من السهل علي ه مواجهة كاميرات التلفزيون و عدسات المصورين و هو يصعد الباص .
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 2.545455 (the average of all parts of speech is 1.761981).
+The form / lemma ratio of `AUX` is 3.125000 (the average of all parts of speech is 1.762127).
 
 The 1st highest number of forms (14) was observed with the lemma “كَان”: أكون, اكون, تكن, تكون, تكونون, كان, كانت, كانوا, كن, كنت, نكون, يكن, يكون, يكونا.
 
@@ -63,22 +63,22 @@ The 2nd highest number of forms (4) was observed with the lemma “لَيس”: 
 
 The 3rd highest number of forms (2) was observed with the lemma “قَد”: قد, لقد.
 
-`AUX` occurs with 7 features: <tt><a href="ar_padt-feat-Gender.html">Gender</a></tt> (505; 23% instances), <tt><a href="ar_padt-feat-Number.html">Number</a></tt> (505; 23% instances), <tt><a href="ar_padt-feat-Aspect.html">Aspect</a></tt> (503; 23% instances), <tt><a href="ar_padt-feat-Person.html">Person</a></tt> (503; 23% instances), <tt><a href="ar_padt-feat-Voice.html">Voice</a></tt> (503; 23% instances), <tt><a href="ar_padt-feat-Mood.html">Mood</a></tt> (197; 9% instances), <tt><a href="ar_padt-feat-VerbForm.html">VerbForm</a></tt> (197; 9% instances)
+`AUX` occurs with 7 features: <tt><a href="ar_padt-feat-Gender.html">Gender</a></tt> (504; 24% instances), <tt><a href="ar_padt-feat-Number.html">Number</a></tt> (504; 24% instances), <tt><a href="ar_padt-feat-Aspect.html">Aspect</a></tt> (502; 24% instances), <tt><a href="ar_padt-feat-Person.html">Person</a></tt> (502; 24% instances), <tt><a href="ar_padt-feat-Voice.html">Voice</a></tt> (502; 24% instances), <tt><a href="ar_padt-feat-Mood.html">Mood</a></tt> (196; 9% instances), <tt><a href="ar_padt-feat-VerbForm.html">VerbForm</a></tt> (196; 9% instances)
 
 `AUX` occurs with 16 feature-value pairs: `Aspect=Imp`, `Aspect=Perf`, `Gender=Fem`, `Gender=Masc`, `Mood=Imp`, `Mood=Ind`, `Mood=Jus`, `Mood=Sub`, `Number=Dual`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `VerbForm=Fin`, `Voice=Act`
 
 `AUX` occurs with 19 feature combinations.
-The most frequent feature combination is `_` (1649 tokens).
-Examples: س، قد، سوف، ما، هل، ربما، أ، علّ، لقد
+The most frequent feature combination is `_` (1628 tokens).
+Examples: س، قد، سوف، ما، ربما، علّ، لقد
 
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 3 different relations: <tt><a href="ar_padt-dep-aux.html">aux</a></tt> (1584; 74% instances), <tt><a href="ar_padt-dep-cop.html">cop</a></tt> (460; 21% instances), <tt><a href="ar_padt-dep-aux-pass.html">aux:pass</a></tt> (110; 5% instances)
+`AUX` nodes are attached to their parents using 3 different relations: <tt><a href="ar_padt-dep-aux.html">aux</a></tt> (1562; 73% instances), <tt><a href="ar_padt-dep-cop.html">cop</a></tt> (460; 22% instances), <tt><a href="ar_padt-dep-aux-pass.html">aux:pass</a></tt> (110; 5% instances)
 
-Parents of `AUX` nodes belong to 8 different parts of speech: <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (1554; 72% instances), <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (270; 13% instances), <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (252; 12% instances), <tt><a href="ar_padt-pos-X.html">X</a></tt> (43; 2% instances), <tt><a href="ar_padt-pos-NUM.html">NUM</a></tt> (16; 1% instances), <tt><a href="ar_padt-pos-ADV.html">ADV</a></tt> (9; 0% instances), <tt><a href="ar_padt-pos-DET.html">DET</a></tt> (8; 0% instances), <tt><a href="ar_padt-pos-PRON.html">PRON</a></tt> (2; 0% instances)
+Parents of `AUX` nodes belong to 8 different parts of speech: <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (1542; 72% instances), <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (264; 12% instances), <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (250; 12% instances), <tt><a href="ar_padt-pos-X.html">X</a></tt> (42; 2% instances), <tt><a href="ar_padt-pos-NUM.html">NUM</a></tt> (16; 1% instances), <tt><a href="ar_padt-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="ar_padt-pos-DET.html">DET</a></tt> (8; 0% instances), <tt><a href="ar_padt-pos-PRON.html">PRON</a></tt> (2; 0% instances)
 
-2151 (100%) `AUX` nodes are leaves.
+2129 (100%) `AUX` nodes are leaves.
 
 3 (0%) `AUX` nodes have one child.
 

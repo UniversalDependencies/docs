@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-31 nodes (0%) are attached to their parents as `appos`.
+32 nodes (0%) are attached to their parents as `appos`.
 
-31 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.06451612903226.
+32 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.0625.
 
-The following 7 pairs of parts of speech are connected with `appos`: <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt> (12; 39% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (6; 19% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (6; 19% instances), <tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (3; 10% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt> (2; 6% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (1; 3% instances).
+The following 8 pairs of parts of speech are connected with `appos`: <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt> (12; 38% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (6; 19% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (6; 19% instances), <tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (3; 9% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt> (2; 6% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (1; 3% instances).
 
 
 ~~~ conllu

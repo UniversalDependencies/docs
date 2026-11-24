@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Niko Partanen, KyungTae Lim, Thierry Poibeau, Jack Rueter.
 
 Repository: [UD_Komi_Zyrian-Lattice](https://github.com/UniversalDependencies/UD_Komi_Zyrian-Lattice)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkpv_lattice218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkpv_lattice219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 
@@ -96,11 +96,11 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
 
 
 <ul>
-<li>This corpus contains 673 sentences, 8144 tokens and 8196 syntactic words.</li>
+<li>This corpus contains 676 sentences, 8168 tokens and 8220 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 1444 tokens (18%) that are not followed by a space.</li>
+<li>This corpus contains 1450 tokens (18%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -113,7 +113,7 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
 
 <ul>
 <li>This corpus contains 28 multi-word tokens. On average, one multi-word token consists of 2.86 syntactic words.</li>
-<li>There are 28 types of multi-word tokens. Examples: yв-йӧг, ай-мам, босьтӧма-лӧсьӧдӧма, вевттьӧма-сайӧдӧма, вӧрсалӧн, вӧчысь-тэчысьясыс, гӧрисны-кӧдзисны, дзӧрны-катласьны, довгыны-мунны, кокъясасӧ, кыдз-пипу, кӧм-пась, кӧм-паськӧм, лебмӧм-сісьмӧм, лыдтӧм-тшӧттӧм, мукӧдлӧнысь, нязгис-ворсіс, няръялӧма-песӧма, пуритӧ-быдмӧ, пусьӧма-нӧгыльтчӧма, сиктсаяслы, сир-ёкыш, сьӧла-тар, шкоргис-узис, шлопкӧбтӧ-пуктӧ, шонтӧ-керӧ, шӧтӧ-локтӧ, ыркалӧм-сьӧктаммӧм.</li>
+<li>There are 28 types of multi-word tokens. Examples: ай-мам, босьтӧма-лӧсьӧдӧма, вевттьӧма-сайӧдӧма, вӧрсалӧн, вӧчысь-тэчысьясыс, гӧрисны-кӧдзисны, дзӧрны-катласьны, довгыны-мунны, кокъясасӧ, кыдз-пипу, кӧм-пась, кӧм-паськӧм, лебмӧм-сісьмӧм, лыдтӧм-тшӧттӧм, мукӧдлӧнысь, нязгис-ворсіс, няръялӧма-песӧма, пуритӧ-быдмӧ, пусьӧма-нӧгыльтчӧма, сиктсаяслы, сир-ёкыш, сьӧла-тар, ув-йӧг, шкоргис-узис, шлопкӧбтӧ-пуктӧ, шонтӧ-керӧ, шӧтӧ-локтӧ, ыркалӧм-сьӧктаммӧм.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -329,9 +329,33 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
 </ul>
 
 <ul>
+  <li>AprEgr
+    <ul>
+      <li>NOUN: Сиктланьсянь</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>AprEla
+    <ul>
+      <li>NOUN: пельӧсланьсьыс</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>AprIll
     <ul>
       <li>PRON: миянланьӧ</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>AprTer
+    <ul>
+      <li>NOUN: вӧрланьӧдз, карланьӧдз</li>
     </ul>
   </li>
 </ul>
@@ -393,7 +417,7 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
     <ul>
       <li>ADJ: тӧрытъясьыс</li>
       <li>ADP: йылысь, вылысь, йывсьыд, водзсьыс, вывсьыс, дорысь, йывсьыс, пиысь, помсьыд, пӧвстысь</li>
-      <li>ADV: сэтысь, кыськӧ, Быдлаысь, кытысь, Медводдзаысьсӧ, выльысь</li>
+      <li>ADV: кыськӧ, сэтысь, Быдлаысь, кытысь, Медводдзаысьсӧ, выльысь</li>
       <li>NOUN: вылысь, вӧрысь, кежысь, керкаясысь, Зэрсьыс, Литваысь, Медысь, Стакейсьыс, Татілокысь, абусьыс</li>
       <li>PRON: ассьыныс, ассьыс, мукӧдъясысь, таысь, Мыйысь, менсьым, некодысь, нинӧмысь, сыысь, ысь</li>
       <li>PROPN: Мӧдлапӧлысь, Пӧлашысь</li>
@@ -542,7 +566,7 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
   <li>Ind
     <ul>
       <li>ADJ: кутшӧмкӧ</li>
-      <li>ADV: кӧнкӧ, кытчӧкӧ, коркӧ, мыйтакӧ, Корсюрӧ, Кыськӧ, коркӧясас, кыдзисюрӧ, кыдзкӧ, кытсюрӧясті</li>
+      <li>ADV: кӧнкӧ, кытчӧкӧ, Кыськӧ, коркӧ, мыйтакӧ, Корсюрӧ, коркӧясас, кыдзисюрӧ, кыдзкӧ, кытсюрӧясті</li>
       <li>DET: Кымынкӧ</li>
       <li>PRON: мыйкӧ, кодкӧ</li>
     </ul>
@@ -638,6 +662,7 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
     <ul>
       <li>AUX: эз, вӧлі, оз, колӧ, абу, он, эг, ог, вӧліны, кутіс</li>
       <li>AUX-Fin: эз, вӧлі, оз, колӧ, абу, он, эг, ог, вӧліны, кутіс</li>
+      <li>VERB: воис, лои, видзӧдліс, кыліс, мунӧ, Локтас, воисны, муніс, шуис, шыасис</li>
       <li>VERB-Fin: воис, лои, видзӧдліс, кыліс, мунӧ, Локтас, воисны, муніс, шуис, шыасис</li>
     </ul>
   </li>
@@ -660,6 +685,7 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
   <li>Past
     <ul>
       <li>AUX-Fin: эз, вӧлі, эг, вӧліны, кутіс, пондіс, эн, вӧлӧма, коліс, лоины</li>
+      <li>VERB: воис, идралӧм, лои, видзӧдліс, идралӧмын, кыліс, воисны, муніс, шуис, шыасис</li>
       <li>VERB-Fin: воис, лои, видзӧдліс, кыліс, воисны, муніс, шуис, шыасис, юаліс, Радейтісны</li>
       <li>VERB-Part: идралӧм, идралӧмын, кольӧм, октӧм, Бырӧдӧм, бонзьӧдӧм, босьтӧм, быдмӧм, вайӧм, вартӧм</li>
       <li>VERB-Vnoun: мойдӧмсӧ, олӧмсӧ</li>
@@ -758,7 +784,7 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
   <li>Rel
     <ul>
       <li>ADJ: кутшӧм</li>
-      <li>ADV: кор, кыдзи, кӧні, кoр, коръясӧ, кутшӧма, кыдз, кытчӧ, кытысь, кытӧн</li>
+      <li>ADV: кор, кыдзи, кӧні, коръясӧ, кутшӧма, кыдз, кытчӧ, кытысь, кытӧн</li>
       <li>PRON: кодъяс, коді, Кутшӧм, Кодлӧн, кодъяслӧн, кодъясӧс, кодӧс, кутшӧмӧсь</li>
     </ul>
   </li>
@@ -989,7 +1015,7 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
       <li>Tim
         <ul>
           <li>ADP: Бӧртинас</li>
-          <li>ADV: нин, на, кор, Аскинас, Сэсся, Таво, Талун, бара, коркӧ, сэк</li>
+          <li>ADV: нин, кор, на, Аскинас, Сэсся, Таво, Талун, бара, коркӧ, сэк</li>
           <li>NOUN: Аскомысьнас</li>
         </ul>
       </li>
@@ -1336,7 +1362,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB--NOUN (1)</li>
-      <li>VERB--NOUN-Nom (27)</li>
+      <li>VERB--NOUN-Nom (29)</li>
       <li>VERB--PRON-Nom (17)</li>
       <li>VERB-Fin--NOUN-Abe (1)</li>
       <li>VERB-Fin--NOUN-Ela (1)</li>

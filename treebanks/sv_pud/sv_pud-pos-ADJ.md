@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Swedish-PUD: POS Tags: `ADJ`
 
-There are 751 `ADJ` lemmas (15%), 921 `ADJ` types (14%) and 1565 `ADJ` tokens (8%).
+There are 752 `ADJ` lemmas (15%), 921 `ADJ` types (14%) and 1565 `ADJ` tokens (8%).
 Out of 16 observed tags, the rank of `ADJ` is: 3 in number of lemmas, 3 in number of types and 5 in number of tokens.
 
 The 10 most frequent `ADJ` lemmas: <em>många, stor, ny, annan, första, hög, sist, hel, sen, god</em>
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>andra</em> (<tt><a href="sv_pud-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.226365 (the average of all parts of speech is 1.245113).
+The form / lemma ratio of `ADJ` is 1.224734 (the average of all parts of speech is 1.244870).
 
 The 1st highest number of forms (6) was observed with the lemma “god”: <em>bäst, bästa, bättre, god, goda, gott</em>.
 
@@ -61,12 +61,12 @@ The 2nd highest number of forms (5) was observed with the lemma “hög”: <em>
 
 The 3rd highest number of forms (5) was observed with the lemma “stor”: <em>stor, stora, stort, större, största</em>.
 
-`ADJ` occurs with 10 features: <tt><a href="sv_pud-feat-Case.html">Case</a></tt> (1545; 99% instances), <tt><a href="sv_pud-feat-Degree.html">Degree</a></tt> (1513; 97% instances), <tt><a href="sv_pud-feat-Definite.html">Definite</a></tt> (1265; 81% instances), <tt><a href="sv_pud-feat-Number.html">Number</a></tt> (857; 55% instances), <tt><a href="sv_pud-feat-Gender.html">Gender</a></tt> (474; 30% instances), <tt><a href="sv_pud-feat-Tense.html">Tense</a></tt> (220; 14% instances), <tt><a href="sv_pud-feat-VerbForm.html">VerbForm</a></tt> (220; 14% instances), <tt><a href="sv_pud-feat-NumType.html">NumType</a></tt> (46; 3% instances), <tt><a href="sv_pud-feat-Foreign.html">Foreign</a></tt> (18; 1% instances), <tt><a href="sv_pud-feat-Abbr.html">Abbr</a></tt> (3; 0% instances)
+`ADJ` occurs with 10 features: <tt><a href="sv_pud-feat-Case.html">Case</a></tt> (1545; 99% instances), <tt><a href="sv_pud-feat-Degree.html">Degree</a></tt> (1513; 97% instances), <tt><a href="sv_pud-feat-Definite.html">Definite</a></tt> (1265; 81% instances), <tt><a href="sv_pud-feat-Number.html">Number</a></tt> (855; 55% instances), <tt><a href="sv_pud-feat-Gender.html">Gender</a></tt> (474; 30% instances), <tt><a href="sv_pud-feat-Tense.html">Tense</a></tt> (220; 14% instances), <tt><a href="sv_pud-feat-VerbForm.html">VerbForm</a></tt> (220; 14% instances), <tt><a href="sv_pud-feat-NumType.html">NumType</a></tt> (46; 3% instances), <tt><a href="sv_pud-feat-Foreign.html">Foreign</a></tt> (18; 1% instances), <tt><a href="sv_pud-feat-Abbr.html">Abbr</a></tt> (3; 0% instances)
 
 `ADJ` occurs with 17 feature-value pairs: `Abbr=Yes`, `Case=Gen`, `Case=Nom`, `Definite=Def`, `Definite=Ind`, `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `Foreign=Yes`, `Gender=Com`, `Gender=Neut`, `NumType=Ord`, `Number=Plur`, `Number=Sing`, `Tense=Past`, `Tense=Pres`, `VerbForm=Part`
 
 `ADJ` occurs with 33 feature combinations.
-The most frequent feature combination is `Case=Nom|Definite=Def|Degree=Pos` (357 tokens).
+The most frequent feature combination is `Case=Nom|Definite=Def|Degree=Pos` (359 tokens).
 Examples: <em>hela, nya, brittiska, norra, södra, andra, egna, franska, förra, grekiska</em>
 
 

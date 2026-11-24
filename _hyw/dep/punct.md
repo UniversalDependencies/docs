@@ -27,4 +27,4 @@ Instead, we use the following principles:
 3. Within the relevant unit, a punctuation mark is attached at the highest possible node that preserves projectivity.
 4. Paired punctuation marks (quotes and brackets) should be attached to the same word unless that would create non-projectivity. This word is usually the head of the phrase enclosed in the paired punctuation.
 
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:43 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:39:12 CET -->

@@ -11,7 +11,7 @@ It occurs with 2 different values: `Fut`, `Pres`.
 
 10297 tokens (10%) have a non-empty value of `Tense`.
 1524 types (11%) occur at least once with a non-empty value of `Tense`.
-878 lemmas (12%) occur at least once with a non-empty value of `Tense`.
+877 lemmas (12%) occur at least once with a non-empty value of `Tense`.
 The feature is used with 2 part-of-speech tags: <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> (5838; 6% instances), <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (4459; 5% instances).
 
 ### `VERB`
@@ -45,7 +45,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
   <tr><td><tt><tt><a href="sl_sst-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="sl_sst-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="sl_sst-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td><em>so</em></td><td><em>bodo, bojo</em></td></tr>
 </table>
 
-`Tense` seems to be **lexical feature** of `VERB`. 100% lemmas (877) occur only with one value of `Tense`.
+`Tense` seems to be **lexical feature** of `VERB`. 100% lemmas (876) occur only with one value of `Tense`.
 
 ### `AUX`
 

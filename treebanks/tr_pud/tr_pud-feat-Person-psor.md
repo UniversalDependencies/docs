@@ -138,7 +138,6 @@ The 10 most frequent relations where parent and child node agree in `Person[psor
 <tt>ADJ --[<tt><a href="tr_pud-dep-conj.html">conj</a></tt>]--> ADJ</tt> (7; 100%),
 <tt>NOUN --[<tt><a href="tr_pud-dep-appos.html">appos</a></tt>]--> NOUN</tt> (7; 64%),
 <tt>NOUN --[<tt><a href="tr_pud-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (3; 75%),
-<tt>NOUN --[<tt><a href="tr_pud-dep-obl.html">obl</a></tt>]--> VERB</tt> (3; 60%),
 <tt>NOUN --[<tt><a href="tr_pud-dep-nmod.html">nmod</a></tt>]--> VERB</tt> (1; 100%),
 <tt>NOUN --[<tt><a href="tr_pud-dep-orphan.html">orphan</a></tt>]--> NOUN</tt> (1; 100%).
 

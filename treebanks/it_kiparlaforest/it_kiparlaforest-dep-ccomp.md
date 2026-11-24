@@ -9,12 +9,32 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `ccomp`: <tt><a href="it_kiparlaforest-dep-ccomp-reported.html">ccomp:reported</a></tt>.
 
-166 nodes (1%) are attached to their parents as `ccomp`.
+260 nodes (1%) are attached to their parents as `ccomp`.
 
-163 instances of `ccomp` (98%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.04216867469879.
+256 instances of `ccomp` (98%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.38076923076923.
 
-The following 14 pairs of parts of speech are connected with `ccomp`: <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt> (112; 67% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> (14; 8% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt> (8; 5% instances), <tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt> (7; 4% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-AUX.html">AUX</a></tt> (7; 4% instances), <tt><a href="it_kiparlaforest-pos-AUX.html">AUX</a></tt>-<tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt> (4; 2% instances), <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt> (4; 2% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="it_kiparlaforest-pos-AUX.html">AUX</a></tt>-<tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt>-<tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 16 pairs of parts of speech are connected with `ccomp`: <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt> (159; 61% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> (28; 11% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt> (18; 7% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-AUX.html">AUX</a></tt> (11; 4% instances), <tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt> (10; 4% instances), <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt> (9; 3% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-SCONJ.html">SCONJ</a></tt> (5; 2% instances), <tt><a href="it_kiparlaforest-pos-AUX.html">AUX</a></tt>-<tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt> (4; 2% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> (4; 2% instances), <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt>-<tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-X.html">X</a></tt> (3; 1% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="it_kiparlaforest-pos-AUX.html">AUX</a></tt>-<tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt>-<tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 10 ccomp	color:blue
+1	eh	eh	INTJ	_	_	4	discourse:filler	_	Begin=208.029|KID=92-0|Prolonged=Yes
+2	se	se	SCONJ	_	_	4	mark	_	KID=92-1
+3	lei	lei	PRON	_	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	KID=92-2
+4	dice	dire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=92-3
+5	che	che	SCONJ	_	_	10	mark	_	KID=92-4
+6	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	KID=92-5
+7	rossi	Rossi	PROPN	_	_	10	nsubj	_	KID=92-6
+8	la	la	PRON	_	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	obj	_	KID=92-7
+9	può	potere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	KID=92-8
+10	seguire	seguire	VERB	_	VerbForm=Inf	4	ccomp	_	End=211.719|KID=92-9|OverlappingGroup=50|Prolonged=Yes
+
+~~~
 
 
 ~~~ conllu
@@ -23,36 +43,15 @@ The following 14 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 7 ccomp	color:blue
-1	boh	boh	INTJ	_	_	3	discourse	_	Begin=1397.52|Intonation=Falling|KID=354-0
-2	non	non	ADV	_	PronType=Neg	3	advmod	_	KID=354-1
-3	so	sapere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=354-2
-4	quanti	quanto	ADV	_	Gender=Masc|Number=Plur|PronType=Int	7	mark	_	KID=354-3
-5	abitanti	abitante	NOUN	_	Gender=Masc|Number=Plur	7	nsubj	_	KID=354-4
-6	ci	ci	PRON	_	PronType=Prs	7	expl	_	Clitic=Yes|KID=354-5
-7	siano	essere	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	KID=354-6|Prolonged=Yes
-8	però	però	CCONJ	_	_	9	cc	_	End=1399.72|Intonation=WeaklyRising|KID=354-7
-9	centomila	centomila	NUM	_	NumType=Card	7	conj	_	Begin=1401.315|KID=356-0|OverlappingGroup=68|Prolonged=Yes
-10	perlom~	perlom~	ADV	_	_	9	advmod	_	End=1402.57|Interrupted=Yes|KID=356-1|OverlappingGroup=68
-
-~~~
-
-
-~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 9 ccomp	color:blue
-1	non	non	ADV	_	PronType=Neg	2	advmod	_	KID=372-3
-2	so	sapere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=372-4
-3	se	se	SCONJ	_	_	9	mark	_	KID=372-5
-4	tipo	tipo	NOUN	_	Gender=Masc|Number=Sing	5	discourse	_	KID=372-6
-5	ancona	Ancona	PROPN	_	_	9	nsubj	_	KID=372-7|Prolonged=Yes
-6	potrebbe	potere	AUX	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	KID=372-8
-7	esse	essere	AUX	_	VerbForm=Inf	9	cop	_	KID=372-9
-8	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	KID=372-10
-9	cosa	cosa	NOUN	_	Gender=Fem|Number=Sing	2	ccomp	_	KID=372-11
-10	simile	simile	ADJ	_	Number=Sing	9	amod	_	End=1448.78|Intonation=Falling|KID=372-12
+1	lei	lei	PRON	_	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	KID=39-8
+2	lo	lo	PRON	_	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	KID=39-9
+3	sa	sapere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=39-10
+4	mi	mi	PRON	_	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	5	iobj	_	KID=39-11
+5	sono	essere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	reparandum	_	KID=39-12|Prolonged=Yes
+6	mi	mi	PRON	_	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	7	iobj	_	KID=39-13
+7	occupo	occupo	NOUN	_	_	3	ccomp	_	KID=39-14
+8	di	di	ADP	_	_	9	case	_	KID=39-15a
+9	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	nmod	_	KID=39-15b|Promotion=det|Scrap=yes
 
 ~~~
 
@@ -64,7 +63,7 @@ The following 14 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 1	fgColor:white
 # visual-style 1 5 ccomp	color:blue
 1	pensavo	pensare	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	Begin=1288.382|KID=320-0|OverlappingGroup=63
-2	fosse	essere	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	reparandum	_	KID=320-1|Prolonged=Yes
+2	fosse	essere	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	reparandum	_	KID=320-1|Prolonged=Yes
 3	fosse	essere	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	KID=320-2
 4	più	più	ADV	_	_	5	advmod	_	KID=320-3
 5	vicina	vicino	ADJ	_	Gender=Fem|Number=Sing	1	ccomp	_	End=1290.37|Intonation=Falling|KID=320-4

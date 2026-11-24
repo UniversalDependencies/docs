@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Ligurian-GLT: Relations: `expl`
 
 This relation is universal.
-There are 2 language-specific subtypes of `expl`: <tt><a href="lij_glt-dep-expl-impers.html">expl:impers</a></tt>, <tt><a href="lij_glt-dep-expl-pv.html">expl:pv</a></tt>.
+There are 3 language-specific subtypes of `expl`: <tt><a href="lij_glt-dep-expl-impers.html">expl:impers</a></tt>, <tt><a href="lij_glt-dep-expl-pass.html">expl:pass</a></tt>, <tt><a href="lij_glt-dep-expl-pv.html">expl:pv</a></tt>.
 
-149 nodes (2%) are attached to their parents as `expl`.
+197 nodes (3%) are attached to their parents as `expl`.
 
-149 instances of `expl` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.54362416107383.
+192 instances of `expl` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.34517766497462.
 
-The following 6 pairs of parts of speech are connected with `expl`: <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-PRON.html">PRON</a></tt> (113; 76% instances), <tt><a href="lij_glt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lij_glt-pos-PRON.html">PRON</a></tt> (18; 12% instances), <tt><a href="lij_glt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lij_glt-pos-PRON.html">PRON</a></tt> (12; 8% instances), <tt><a href="lij_glt-pos-PRON.html">PRON</a></tt>-<tt><a href="lij_glt-pos-PRON.html">PRON</a></tt> (4; 3% instances), <tt><a href="lij_glt-pos-ADV.html">ADV</a></tt>-<tt><a href="lij_glt-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="lij_glt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lij_glt-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `expl`: <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-PRON.html">PRON</a></tt> (155; 79% instances), <tt><a href="lij_glt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lij_glt-pos-PRON.html">PRON</a></tt> (20; 10% instances), <tt><a href="lij_glt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lij_glt-pos-PRON.html">PRON</a></tt> (13; 7% instances), <tt><a href="lij_glt-pos-PRON.html">PRON</a></tt>-<tt><a href="lij_glt-pos-PRON.html">PRON</a></tt> (5; 3% instances), <tt><a href="lij_glt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lij_glt-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="lij_glt-pos-ADV.html">ADV</a></tt>-<tt><a href="lij_glt-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -30,7 +30,7 @@ The following 6 pairs of parts of speech are connected with `expl`: <tt><a href=
 5	braggia	braggiâ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 6	:	:	PUNCT	_	_	8	punct	_	_
 7	«	«	PUNCT	_	_	8	punct	_	SpaceAfter=No
-8	Taxi	taxei	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	parataxis	_	SpaceAfter=No
+8	Taxi	taxei	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	5	parataxis	_	SpaceAfter=No
 9	!	!	PUNCT	_	_	8	punct	_	_
 
 ~~~
@@ -45,7 +45,7 @@ The following 6 pairs of parts of speech are connected with `expl`: <tt><a href=
 1	Sta	sto	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	7	nsubj	_	_
 2	chì	chì	ADV	_	_	1	advmod	_	_
 3	a	o	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	expl	_	_
-4	dovieiva	dovei	AUX	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+4	dovieiva	dovei	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	7	aux	_	_
 5	ëse	ëse	AUX	_	Tense=Pres|VerbForm=Inf	7	cop	_	_
 6	unna	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	zöna	zöna	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_

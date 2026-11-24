@@ -39,8 +39,8 @@ The following 9 pairs of parts of speech are connected with `parataxis`: <tt><a 
 # visual-style 3 8 parataxis	color:blue
 1	ഈ	ഈ	DET	_	Deixis=Prox|PronType=Dem	2	det	_	Translit=ī|LTranslit=ī
 2	കത്ത്	കത്ത്	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	3	nsubj	_	Translit=katt|LTranslit=katt
-3	പീറ്ററിന്റേത്	പീറ്ററ്	NOUN	_	Animacy=Anim|Case=Gen|Number=Sing	0	root	_	Translit=pīṟṟaṟinṟēt|LTranslit=pīṟṟaṟ
-4	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	cop	_	Translit=āṇ|LTranslit=āk
+3	പീറ്ററിന്റേത്	പീറ്ററ്	NOUN	_	Animacy=Anim|Case=Gen|Number=Sing	0	root	_	LTranslit=pīṟṟaṟ|Translit=pīṟṟaṟinṟēt
+4	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	cop	_	LTranslit=āk|Translit=āṇ
 5	,	,	PUNCT	_	_	3	punct	_	Translit=,|LTranslit=,
 6	അത്	അത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Remt|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	Translit=at|LTranslit=at
 7	ഇന്നലെ	ഇന്നലെ	ADV	_	_	8	obl	_	Translit=innale|LTranslit=innale

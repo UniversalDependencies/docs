@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Imp`, `Ind`, `Sub`.
 
-20437 tokens (8%) have a non-empty value of `Mood`.
-2333 types (12%) occur at least once with a non-empty value of `Mood`.
-1302 lemmas (9%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (11035; 4% instances), <tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (9402; 4% instances).
+20441 tokens (8%) have a non-empty value of `Mood`.
+2324 types (12%) occur at least once with a non-empty value of `Mood`.
+1298 lemmas (9%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 2 part-of-speech tags: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (10983; 4% instances), <tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (9458; 4% instances).
 
 ### `VERB`
 
-11035 <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> tokens (41% of all `VERB` tokens) have a non-empty value of `Mood`.
+10983 <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> tokens (40% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="en_gum-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (11035; 100%), <tt><a href="en_gum-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (11035; 100%), <tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8152; 74%), <tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=3</tt> (6695; 61%), <tt><a href="en_gum-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5853; 53%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="en_gum-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (10983; 100%), <tt><a href="en_gum-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (10983; 100%), <tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8105; 74%), <tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=3</tt> (6697; 61%), <tt><a href="en_gum-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5854; 53%).
 
 `VERB` tokens may have the following values of `Mood`:
 
-* `Imp` (1064; 10% of non-empty `Mood`): <em>let, look, see, make, get, try, use, add, place, take</em>
-* `Ind` (9960; 90% of non-empty `Mood`): <em>have, know, said, think, had, has, want, are, is, 's</em>
+* `Imp` (1011; 9% of non-empty `Mood`): <em>let, look, see, make, get, try, add, use, place, take</em>
+* `Ind` (9961; 91% of non-empty `Mood`): <em>have, know, said, think, had, has, want, are, is, 's</em>
 * `Sub` (11; 0% of non-empty `Mood`): <em>become, clean, collaborate, face, look, make, remain, rise, rule, wear</em>
-* `EMPTY` (16137): <em>have, do, make, get, going, go, know, see, united, take</em>
+* `EMPTY` (16198): <em>have, do, make, get, going, go, know, see, united, take</em>
 
 <table>
   <tr><th>Paradigm <i>make</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th></tr>
@@ -47,16 +47,16 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 ### `AUX`
 
-9402 <tt><a href="en_gum-pos-AUX.html">AUX</a></tt> tokens (67% of all `AUX` tokens) have a non-empty value of `Mood`.
+9458 <tt><a href="en_gum-pos-AUX.html">AUX</a></tt> tokens (67% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="en_gum-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9402; 100%), <tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=3</tt> (7315; 78%), <tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7171; 76%), <tt><a href="en_gum-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (7016; 75%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="en_gum-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9458; 100%), <tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=3</tt> (7314; 77%), <tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7224; 76%), <tt><a href="en_gum-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (7016; 74%).
 
 `AUX` tokens may have the following values of `Mood`:
 
-* `Imp` (27; 0% of non-empty `Mood`): <em>be, do</em>
-* `Ind` (9359; 100% of non-empty `Mood`): <em>is, was, are, 's, do, were, have, has, 're, 'm</em>
+* `Imp` (84; 1% of non-empty `Mood`): <em>do, be</em>
+* `Ind` (9358; 99% of non-empty `Mood`): <em>is, was, are, 's, do, were, have, has, 're, 'm</em>
 * `Sub` (16; 0% of non-empty `Mood`): <em>were, be</em>
-* `EMPTY` (4690): <em>be, can, will, would, been, could, should, may, 'll, have</em>
+* `EMPTY` (4634): <em>be, can, will, would, been, could, should, may, 'll, have</em>
 
 <table>
   <tr><th>Paradigm <i>be</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th></tr>
@@ -82,8 +82,8 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="en_gum-dep-conj.html">conj</a></tt>]--> VERB</tt> (1009; 68%),
-<tt>VERB --[<tt><a href="en_gum-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (45; 75%),
+<tt>VERB --[<tt><a href="en_gum-dep-conj.html">conj</a></tt>]--> VERB</tt> (1001; 67%),
+<tt>VERB --[<tt><a href="en_gum-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (45; 76%),
 <tt>AUX --[<tt><a href="en_gum-dep-reparandum.html">reparandum</a></tt>]--> AUX</tt> (19; 100%),
 <tt>AUX --[<tt><a href="en_gum-dep-conj.html">conj</a></tt>]--> VERB</tt> (3; 75%),
 <tt>AUX --[<tt><a href="en_gum-dep-cop.html">cop</a></tt>]--> AUX</tt> (1; 100%),

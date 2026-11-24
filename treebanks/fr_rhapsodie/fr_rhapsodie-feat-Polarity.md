@@ -21,7 +21,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="fr_rhapsodie-pos-AD
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (743; 100% of non-empty `Polarity`): <em>pas, non, n', ne, plus, que, qu'</em>
-* `EMPTY` (2538): <em>donc, plus, très, alors, là, parce, bien, enfin, même, tout</em>
+* `EMPTY` (2518): <em>donc, plus, très, alors, là, parce, bien, enfin, même, tout</em>
 
 ### `SCONJ`
 
@@ -30,11 +30,12 @@ The feature is used with 2 part-of-speech tags: <tt><a href="fr_rhapsodie-pos-AD
 `SCONJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (4; 100% of non-empty `Polarity`): <em>qu', que</em>
-* `EMPTY` (796): <em>que, qu', quand, si, comme, puisque, s', lorsqu', lorsque, puisqu'</em>
+* `EMPTY` (795): <em>que, qu', quand, si, comme, puisque, s', lorsqu', lorsque, puisqu'</em>
 
 ## Relations with Agreement in `Polarity`
 
 The 10 most frequent relations where parent and child node agree in `Polarity`:
-<tt>ADV --[<tt><a href="fr_rhapsodie-dep-conj.html">conj</a></tt>]--> ADV</tt> (23; 100%),
-<tt>ADV --[<tt><a href="fr_rhapsodie-dep-reparandum.html">reparandum</a></tt>]--> ADV</tt> (4; 100%).
+<tt>ADV --[<tt><a href="fr_rhapsodie-dep-conj.html">conj</a></tt>]--> ADV</tt> (25; 100%),
+<tt>ADV --[<tt><a href="fr_rhapsodie-dep-conj-reform.html">conj:reform</a></tt>]--> ADV</tt> (1; 100%),
+<tt>ADV --[<tt><a href="fr_rhapsodie-dep-reparandum.html">reparandum</a></tt>]--> ADV</tt> (1; 100%).
 

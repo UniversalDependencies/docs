@@ -23,52 +23,29 @@ While we strip out punctuation in our `# text` rows, we do recommend using any p
 
 * Words are generally delimited by spaces.
 * Compounds are split and sandhi undone as it is the custom in Sanskritic linguistics.
-* Compounds receive multiword token ranges (e.g. `10-12`) and should get the appropriate [compound]() relation subtype. Only proper Pāli compounds get MWTs. We treat attached particles (like "-ti" and "-pi") as sandhi and not as a MWT.
+* Compounds receive multiword token ranges (e.g. `10-12`) and should get the appropriate [compound]() relation subtype. Only proper Pāli compounds get MWTs. We treat attached particles (like "-ti" and "-pi") as sandhi and not as a MWT. Note that we don't use the `Compound=Yes` feature and rely on the MWT and `compound` deprel to mark compound words.
 * Sandhi should be marked with a `SpaceAfter=No` in the earlier token's `MISC` and do not get a range id.
 * Multitoken words (e.g. words with spaces inside them) are generally not used. Parts of a multitoken name (e.g. "Saccaka Nigaṇṭhāputta") should get the [flat:name]() dependency relation.
 
 ## Morphology
 
-### Lemmatization
-
-We generally follow the lemmatization found in the Pāli Text Society's dictionaries: The *Pali-English Dictionary* and *A Dictionary of Pāli*.
-
-#### Verb Lemmas
-
-The `LEMMA` for all verb forms is the 3rd-person singular present indicative of the underlying verb.
-For example, the past participle *gata* "gone" gets the `LEMMA` *gacchati*.
-
-We give the active (simplex) form for causatives but give the passive form as the lemma for passive verbs.
-For example, for the passive verb *nirujjhanti*, the lemma should be `nirujjhati` but for the causative verb *desemi*, the active lemma `disati` should be given. For a double causative verb like *yojāpetvā*, the ultimate simplex (e.g. `yuñjati`) should be used as the LEMMA.
-
-Forms of the verb *hoti* (*honti*, *ahosi*, etc) always get the lemma `bhavati`.
-Forms of the verb *atthi* (*amhi*, *atthu*, *santi*, etc), get the lemma `atthi`.
-
-#### Noun Lemmas
-
-Lemmas are always lowercase, even for proper nouns.
-
-For personal pronouns, collapse the cases down to the nominative. For example, *amhākaṃ* gets *mayaṃ* and *te* gets *tvaṃ*. Keep first and second, singular and plural separate.
-
-For demonstrative pronouns, collapse the cases, gender, and number to the nominative, singular, neuter form:
-
-* Use *tad* for all *ta-* forms: *sā*, *sa*, *taṃ*, *tena*, etc.
-* Use *etad* for all *eta-* forms: *eso*, *etassa*, *esā*, etc.
-* Use *yad* for all *ya-* forms: *yo*, *yā*, *yaṃ*, *yamhi*, etc.
-* Use *idaṃ* for its various forms: *ayaṃ*, *imaṃ*, *imāni*, *imehi*, *anena*, etc.
-
-Substantives and adjectives should get the stem form as their lemma. For example, *itthiyo* has the lemma `itthi`, *bhikkhave* gets the lemma `bhikkhu`, *rasso* the lemma `rassa`, *rāja* the lemma `rājan`, *bhagavato* `bhagavant`, etc. 
-
 ### Part of Speech Tags
 
-Participles are tagged as `VERB`s and not `ADJ`s or `ADV`s.
-This means that they cannot get the `amod` dependency relation when used to modify a noun, so we use `acl` instead to attach it to its target noun.
+Participles are generally tagged as `VERB`s.
 
-Because Pāli is originally an oral language, we are stripping out symbols and punctuation, meaning we do not use the `SYM` or `PUNCT` tags.
+Sometimes in Pāli, a word derived from a participle has taken on a new meaning beyond its root verb.
+Nouns like *buddha* ("the Buddha", from *bujjhati*, "knows"), *carita* ("behavior", from *carati*, "walks"), *khādanīya* ("non-staple food", from *khādati*, "chews"), etc or adjectives like *anāgata* ("future", from *āgacchati*, "comes"), etc should be tagged as `NOUN` or `ADJ` as appropriate and not as `VERB` despite the etymological connection.
+The same goes for participles that have no attested finite form, such as *abbhussakkamāna* ("ascending") or *ajjhopanna* ("enthralled by"). These are marked `ADJ` because their verb is entirely theoretical.
+Participles that have an underlying finite verb and are used in that same sense, however, are just `VERB`s, even if they are syntactically close to being used as adjectives or nouns.
+
+When a form of *bhavati* or *atthi* is used in a copula, it should get the `AUX` UPOS. When they are used in the intransitive sense of "exists," they are `VERB`s.
+
+Because Pāli is originally an oral language, we strip out symbols and punctuation, meaning we do not use the `SYM` or `PUNCT` tags.
 
 #### Determiners
 
 If a pronoun such as *imaṃ* is used as a determiner (i.e. it gets deprel `det` pointing to a substantive) then it should get the UPOS `DET` instead of `PRON`.
+If it’s used as a pronoun in the sentence, then it should get the `PRON` UPOS and the appropriate deprel (such as `nsubj`).
 
 #### Particles
 
@@ -92,6 +69,53 @@ The following particles get the `PART` `UPOS`:
   * Note that "*kira*" is not a particle but a `VERB` if it is the imperative 2nd sg or the reflexive aorist 1st sg of *kirati*.
 
 
+
+
+### Lemmatization
+
+We generally follow the lemmatization found in the Pāli Text Society's dictionaries: The *Pali-English Dictionary* and *A Dictionary of Pāli*.
+
+#### Verb Lemmas
+
+The `LEMMA` for all verb forms is the 3rd-person singular present indicative of the underlying verb.
+For example, the past participle *gata* "gone" gets the `LEMMA` *gacchati*.
+
+For participles without such a finite verbal form (such as *anujāto*, "taking after"), they should be labeled as adjectives and given the neutral, stem form (e.g. `anujāta`) as their lemma.
+
+Converbs without a simplex form (such as *accādhāya* "having placed on top") get the converb as the lemma.
+These are extremely rare, however. The vast majority of absolutives have simplex forms and should just get the finite lemma as above.
+
+For passive and causative voiced finite verbs, we give the passive and causative lemma and do not collapse the lemmas down to the simplex.
+For example, for the passive verb *nirujjhanti*, the lemma should be `nirujjhati` and for the causative verb *desemi*, the causative lemma `deseti` should be given.
+Similarly, for a double causative verb like *yojāpetvā*, the lemma should be `yojāpeti`.
+Note that causative participles also get the causative lamma, but passive participles get the active verb as their lemma.
+For example, *kāritā* ("built") gets the lemma `kāreti` ("cause-to-do"), while *karaṇīyo* ("should be done") would get simply `karoti` ("to do").
+
+
+Forms of the verb *hoti* (*honti*, *ahosi*, etc) always get the lemma `bhavati`.
+Forms of the verb *atthi* (*amhi*, *atthu*, *santi*, etc), get the lemma `atthi`.
+
+#### Noun and Determiner Lemmas
+
+Lemmas are always lowercase, even for proper nouns.
+
+Substantives and adjectives should get the stem ("in comps") form as their lemma. For example, *itthiyo* has the lemma `itthi`, *bhikkhave* gets the lemma `bhikkhu`, *rasso* the lemma `rassa`, *rāja* the lemma `rājan`, *bhagavato* `bhagavant`, *agārisu* `agārin`, etc.
+
+For personal pronouns, collapse the cases down to the nominative. For example, *amhākaṃ* gets *mayaṃ* and *te* gets *tvaṃ*. Keep first and second, singular and plural separate.
+
+For demonstrative pronouns, collapse the cases, gender, and number to the nominative, singular, neuter form:
+
+* Use `tad` for all *ta-* forms: *sā*, *sa*, *taṃ*, *tena*, etc.
+* Use `etad` for all *eta-* forms: *eso*, *etassa*, *esā*, etc.
+* Use `yad` for all *ya-* forms: *yo*, *yā*, *yaṃ*, *yamhi*, etc.
+* Use `idaṃ` for its various forms: *ayaṃ*, *imaṃ*, *imāni*, *imehi*, *anena*, etc.
+* Use `aduṃ` for its various forms: *amuṃ*, *amunā*, *asu*, etc.
+
+Similarly, use `kiñci` for forms of the indefinite pronoun: *koci*, *kāci*, *kenaci*, *kesuci*, etc.
+Use `kiṃ` for all forms of the interrogative pronoun: *kissa*, *ko*, *kāyo*, etc.
+
+For other pronouns and `DET`s with more straightforward stems, simply use the stem form as normal.  For example, *aññena* ("with another") simply gets `añña` and *sabbāhi* ("by all") gets `sabba`, etc.
+
 ### Features
 
 Some forms in Pāli are ambiguous. For example, a feminine noun of the `-ā` class with a `-āya` suffix might be Singular Instrumental, Ablative, Genitive, Dative, or Locative! When `Case` can be inferred from context, feel free to mark only the semantically correct case.  If multiple parses are reasonable in a given context, list the plausible values in alphabetical order, separated by commas (e.g. if you have an *-āya* noun, and all but instrumental are reasonable parses, mark it `Case=Abl,Dat,Gen,Loc|Gender=Fem|Number=Sing`, though such cases should be exceedingly rare).
@@ -100,11 +124,9 @@ Some forms in Pāli are ambiguous. For example, a feminine noun of the `-ā` cla
 
 Nouns in Pāli have `Case`, `Gender`, and `Number`.
 
-If a genitive form is used in a dative sense, you can mark `Case=Gen` because we prefer syntactic over semantic readings when they conflict. Do, however, use the `Case=Dat` annotation for true datives. For example, in the sentence "*Uyyānabhūmiṃ gacchāma subhūmidassanāyāti*," *dassanāya* here is morphologically dative ("for seeing") and so should get `Case=Dat`.
+We use `Case=Dat` for the "possessive dative" construction: _**Tassa** tayo puttā atthi_, "**For him** there are three sons." = "He has three sons." or _Na **me** ācariyo atthi_, "There is no teacher **for me**." = "I have no teacher."
 
 #### Verbs
-
-All verb forms in Pāli should get the `VERB` `UPOS`.
 
 ##### Finite Verbs
 
@@ -145,7 +167,8 @@ We do not (at the moment) use enhanced dependency graphs, so DEPS should always 
 We have a number of unique deprels for our compound subtypes.
 See the [compound]() doc pages for details on those.
 
-Pāli conjunctions `vā` ("or") and `ca` ("and") are `cc` (coordinating conjunctions) pointing to the previous entry in the list.
+Pāli conjunctions `vā` ("or") and `ca` ("and") are `cc` (coordinating conjunctions) pointing to the previous entry in the list if that previous entry is in the same sentence.
+If the sentence as a whole is being coordinated with another sentence, the conjunction should just point to the root.
 
 When a name is followed by their job (title, etc), the name is the main noun and the occupation (etc) is an `appos`.  For example, in the genitive clause “*vipassissa bodhisattassa*”  *bodhisattassa* is an `appos` pointing back to `vipassissa` which acts as the main noun.
 Note that this is different from Pāli compounds, where the last token of the compound is its head.

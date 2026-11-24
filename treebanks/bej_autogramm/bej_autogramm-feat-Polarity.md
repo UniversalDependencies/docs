@@ -23,7 +23,7 @@ The most frequent other feature values with which `PART` and `Polarity` co-occur
 `PART` tokens may have the following values of `Polarity`:
 
 * `Neg` (48; 100% of non-empty `Polarity`): <em>baː=, ka=, ki=</em>
-* `EMPTY` (273): <em>bak, han, ontʔa, ka=, bi=, jaː, bass, ki=, tʔa, geː</em>
+* `EMPTY` (273): <em>bak, ontʔa, han, ka=, bi=, jaː, bass, ki=, tʔa, geː</em>
 
 ### `AUX`
 
@@ -45,5 +45,5 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 `VERB` tokens may have the following values of `Polarity`:
 
 * `Neg` (7; 100% of non-empty `Polarity`): <em>aakaj, akaːj, ibarin, idʔiːn, tkatiːm, tʔam</em>
-* `EMPTY` (2401): <em>eːn, indi, ini, jʔi, tindi, iːfi, jʔeːn, jʔeːtiːt, iːbri, akeːna</em>
+* `EMPTY` (2398): <em>eːn, indi, ini, jʔi, tindi, iːfi, jʔeːn, jʔeːtiːt, iːbri, akeːna</em>
 

@@ -42,17 +42,17 @@ The 3rd highest number of forms (1) was observed with the lemma “дрън-др
 
 Parents of `INTJ` nodes belong to 6 different parts of speech: <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt> (13; 46% instances),  (5; 18% instances), <tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt> (4; 14% instances), <tt><a href="bg_btb-pos-INTJ.html">INTJ</a></tt> (3; 11% instances), <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> (2; 7% instances), <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> (1; 4% instances)
 
-5 (18%) `INTJ` nodes are leaves.
+4 (14%) `INTJ` nodes are leaves.
 
 13 (46%) `INTJ` nodes have one child.
 
-5 (18%) `INTJ` nodes have two children.
+6 (21%) `INTJ` nodes have two children.
 
 5 (18%) `INTJ` nodes have three or more children.
 
 The highest child degree of a `INTJ` node is 6.
 
-Children of `INTJ` nodes are attached using 5 different relations: <tt><a href="bg_btb-dep-punct.html">punct</a></tt> (33; 80% instances), <tt><a href="bg_btb-dep-conj.html">conj</a></tt> (3; 7% instances), <tt><a href="bg_btb-dep-nsubj.html">nsubj</a></tt> (2; 5% instances), <tt><a href="bg_btb-dep-vocative.html">vocative</a></tt> (2; 5% instances), <tt><a href="bg_btb-dep-cc.html">cc</a></tt> (1; 2% instances)
+Children of `INTJ` nodes are attached using 5 different relations: <tt><a href="bg_btb-dep-punct.html">punct</a></tt> (34; 79% instances), <tt><a href="bg_btb-dep-conj.html">conj</a></tt> (3; 7% instances), <tt><a href="bg_btb-dep-cc.html">cc</a></tt> (2; 5% instances), <tt><a href="bg_btb-dep-nsubj.html">nsubj</a></tt> (2; 5% instances), <tt><a href="bg_btb-dep-vocative.html">vocative</a></tt> (2; 5% instances)
 
-Children of `INTJ` nodes belong to 5 different parts of speech: <tt><a href="bg_btb-pos-PUNCT.html">PUNCT</a></tt> (33; 80% instances), <tt><a href="bg_btb-pos-INTJ.html">INTJ</a></tt> (3; 7% instances), <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> (2; 5% instances), <tt><a href="bg_btb-pos-PRON.html">PRON</a></tt> (2; 5% instances), <tt><a href="bg_btb-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances)
+Children of `INTJ` nodes belong to 5 different parts of speech: <tt><a href="bg_btb-pos-PUNCT.html">PUNCT</a></tt> (34; 79% instances), <tt><a href="bg_btb-pos-INTJ.html">INTJ</a></tt> (3; 7% instances), <tt><a href="bg_btb-pos-CCONJ.html">CCONJ</a></tt> (2; 5% instances), <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> (2; 5% instances), <tt><a href="bg_btb-pos-PRON.html">PRON</a></tt> (2; 5% instances)
 

@@ -72,10 +72,10 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="ml_ufal-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (64; 81%),
+<tt>NOUN --[<tt><a href="ml_ufal-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (66; 80%),
 <tt>PROPN --[<tt><a href="ml_ufal-dep-flat.html">flat</a></tt>]--> PROPN</tt> (62; 100%),
 <tt>NOUN --[<tt><a href="ml_ufal-dep-conj.html">conj</a></tt>]--> NOUN</tt> (37; 88%),
-<tt>NOUN --[<tt><a href="ml_ufal-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (29; 88%),
+<tt>NOUN --[<tt><a href="ml_ufal-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (30; 88%),
 <tt>NOUN --[<tt><a href="ml_ufal-dep-compound.html">compound</a></tt>]--> NOUN</tt> (22; 96%),
 <tt>NOUN --[<tt><a href="ml_ufal-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (22; 79%),
 <tt>PROPN --[<tt><a href="ml_ufal-dep-conj.html">conj</a></tt>]--> PROPN</tt> (20; 100%),

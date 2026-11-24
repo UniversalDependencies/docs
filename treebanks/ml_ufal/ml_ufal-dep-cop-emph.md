@@ -26,8 +26,8 @@ The following 8 pairs of parts of speech are connected with `cop:emph`: <tt><a h
 2	വർഷം	വർഷം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	3	nmod	_	Translit=vaṟ̕ṣaṁ|LTranslit=vaṟ̕ṣaṁ
 3	ജൂലൈ	ജൂലൈ	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	9	obl	_	Translit=jūlai|LTranslit=jūlai
 4	24	24	NUM	_	NumForm=Digit|NumType=Card	3	flat	_	Translit=24|LTranslit=24
-5	ന്	ന്	ADP	_	_	4	case	_	Translit=n|LTranslit=n
-6	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	cop:emph	_	Translit=āṇ|LTranslit=āk
+5	ന്	ന്	ADP	_	_	4	case	_	LTranslit=n|Translit=n
+6	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	cop:emph	_	LTranslit=āk|Translit=āṇ
 7	കൊളീജിയം	കൊളീജിയം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	9	nsubj	_	Translit=koḷījiyaṁ|LTranslit=koḷījiyaṁ
 8	ശുപാർശ	ശുപാർശ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	9	obj	_	Translit=śupāṟ̕śa|LTranslit=śupāṟ̕śa
 9	നൽകുന്നത്	നൽകുക	VERB	_	Polarity=Pos|Tense=Pres|VerbForm=Vnoun|Voice=Act	0	root	_	SpaceAfter=No|Translit=nal̕kunnat|LTranslit=nal̕kuka
@@ -42,10 +42,10 @@ The following 8 pairs of parts of speech are connected with `cop:emph`: <tt><a h
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 cop:emph	color:blue
-1	ആര്	ആര്	PRON	_	Case=Nom|PronType=Int	3	nsubj	_	Translit=ār|LTranslit=ār
-2	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	cop:emph	_	Translit=āṇ|LTranslit=āk
-3	എഴുതിയത്	എഴുതുക	VERB	_	Polarity=Pos|Tense=Past|VerbForm=Vnoun|Voice=Act	6	ccomp	_	Translit=eḻutiyat|LTranslit=eḻutuka
-4	എന്ന്	എന്ന്	SCONJ	_	_	3	mark	_	Translit=enn|LTranslit=enn
+1	ആര്	ആര്	PRON	_	Case=Nom|PronType=Int	3	nsubj	_	LTranslit=ār|Translit=ār
+2	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	cop:emph	_	LTranslit=āk|Translit=āṇ
+3	എഴുതിയത്	എഴുതുക	VERB	_	Polarity=Pos|Tense=Past|VerbForm=Vnoun|Voice=Act	6	ccomp	_	LTranslit=eḻutuka|Translit=eḻutiyat
+4	എന്ന്	എന്ന്	SCONJ	_	_	3	mark	_	LTranslit=enn|Translit=enn
 5	അവർക്ക്	അവർ	PRON	_	Animacy=Anim|Case=Dat|Deixis=Remt|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	Translit=avaṟ̕kk|LTranslit=avaṟ̕
 6	അറിയില്ല	അരിയുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=aṟiyilla|LTranslit=ariyuka
 7	.	.	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
@@ -63,8 +63,8 @@ The following 8 pairs of parts of speech are connected with `cop:emph`: <tt><a h
 2	കേസുകളിൽ	കേസ്	NOUN	_	Animacy=Inan|Case=Loc|Number=Plur	4	nmod	_	Translit=kēsukaḷil̕|LTranslit=kēs
 3	പ്രതിയായ	പ്രതി	ADJ	_	_	4	amod	_	Translit=pratiyāya|LTranslit=prati
 4	പ്രവീൺ	പ്രവീൺ	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	8	obj	_	Translit=pravīṇ̕|LTranslit=pravīṇ̕
-5	ബന്ധുവിനെ	ബന്ധു	PROPN	_	Animacy=Anim|Case=Acc|Number=Sing	4	flat	_	Translit=bandhuvine|LTranslit=bandhu
-6	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	cop:emph	_	Translit=āṇ|LTranslit=āk
+5	ബന്ധുവിനെ	ബന്ധു	PROPN	_	Animacy=Anim|Case=Acc|Number=Sing	4	flat	_	LTranslit=bandhu|Translit=bandhuvine
+6	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	cop:emph	_	LTranslit=āk|Translit=āṇ
 7	പീഡനത്തിന്	പീഡനം	NOUN	_	Animacy=Inan|Case=Dat|Number=Sing	8	obl	_	Translit=pīḍanattin|LTranslit=pīḍanaṁ
 8	ഇരയാക്കിയത്	ഇരയാക്കുക	VERB	_	Polarity=Pos|Tense=Past|VerbForm=Vnoun|Voice=Act	0	root	_	SpaceAfter=No|Translit=irayākkiyat|LTranslit=irayākkuka
 9	.	.	PUNCT	_	_	8	punct	_	Translit=.|LTranslit=.

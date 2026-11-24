@@ -28,9 +28,9 @@ The following 6 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 4	myyjätkin	myyjä	NOUN	N,Pl,Nom,Kin	Case=Nom|Clitic=Kin|Number=Plur	2	conj	_	_
 5	joutuivat	joutua	VERB	V,Act,Ind,Past,Pl3	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 6	ymmälle	ymmälle	ADV	Adv	_	5	compound:prt	_	_
-7	,	,	PUNCT	Pun	_	6	punct	_	_
+7	,	,	PUNCT	Pun	_	8	punct	_	_
 8	jos	jos	SCONJ	Pcle,CS	_	5	mark	_	_
-9	.	.	PUNCT	Pun	_	8	punct	_	_
+9	.	.	PUNCT	Pun	_	5	punct	_	_
 
 ~~~
 
@@ -49,7 +49,7 @@ The following 6 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 6	kuin	kuin	CCONJ	Pcle,CC	_	7	cc	_	_
 7	kuopuksenkin	kuopus	NOUN	N,Sg,Gen,Kin	Case=Gen|Clitic=Kin|Number=Sing	5	conj	_	_
 8	verikokeista	verikoe	NOUN	N,Pl,Ela	Case=Ela|Number=Plur	3	obl	_	_
-9	.	.	PUNCT	Pun	_	8	punct	_	_
+9	.	.	PUNCT	Pun	_	3	punct	_	_
 
 ~~~
 
@@ -69,7 +69,7 @@ The following 6 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 7	kuin	kuin	CCONJ	Pcle,CC	_	8	cc	_	_
 8	Englanninkin	englanti	PROPN	N,Prop,Sg,Gen,Kin	Case=Gen|Clitic=Kin|Number=Sing	6	conj	_	_
 9	tiedustelupalveluissa	tiedustelupalvelu	NOUN	N,Pl,Ine	Case=Ine|Number=Plur	3	obl	_	_
-10	.	.	PUNCT	Pun	_	9	punct	_	_
+10	.	.	PUNCT	Pun	_	3	punct	_	_
 
 ~~~
 

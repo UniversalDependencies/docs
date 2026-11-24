@@ -12,19 +12,19 @@ It occurs with 3 different values: `Imp`, `Ind`, `Sub`.
 11031 tokens (10%) have a non-empty value of `Mood`.
 1271 types (12%) occur at least once with a non-empty value of `Mood`.
 875 lemmas (10%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (5850; 6% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (5181; 5% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (5848; 6% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (5183; 5% instances).
 
 ### `VERB`
 
-5850 <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> tokens (47% of all `VERB` tokens) have a non-empty value of `Mood`.
+5848 <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> tokens (47% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="en_lines-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (5847; 100%), <tt><a href="en_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5829; 100%), <tt><a href="en_lines-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (4095; 70%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="en_lines-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (5845; 100%), <tt><a href="en_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5827; 100%), <tt><a href="en_lines-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (4094; 70%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Imp` (130; 2% of non-empty `Mood`): <em>let, see, come, look, Note, click, Go, Imagine, have, make</em>
-* `Ind` (5715; 98% of non-empty `Mood`): <em>said, was, had, is, came, seemed, looked, went, made, felt</em>
-* `Sub` (5; 0% of non-empty `Mood`): <em>were, get, lost, post</em>
+* `Ind` (5714; 98% of non-empty `Mood`): <em>said, was, had, is, came, seemed, looked, went, made, felt</em>
+* `Sub` (4; 0% of non-empty `Mood`): <em>get, lost, post, were</em>
 * `EMPTY` (6705): <em>see, going, know, do, come, make, go, get, have, say</em>
 
 <table>
@@ -39,16 +39,29 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 ### `AUX`
 
-5181 <tt><a href="en_lines-pos-AUX.html">AUX</a></tt> tokens (87% of all `AUX` tokens) have a non-empty value of `Mood`.
+5183 <tt><a href="en_lines-pos-AUX.html">AUX</a></tt> tokens (87% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="en_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5181; 100%), <tt><a href="en_lines-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3196; 62%), <tt><a href="en_lines-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3195; 62%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="en_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5183; 100%), <tt><a href="en_lines-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3198; 62%), <tt><a href="en_lines-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3197; 62%).
 
 `AUX` tokens may have the following values of `Mood`:
 
-* `Ind` (5181; 100% of non-empty `Mood`): <em>was, had, is, were, would, are, can, could, have, 's</em>
+* `Ind` (5182; 100% of non-empty `Mood`): <em>was, had, is, were, would, are, can, could, have, 's</em>
+* `Sub` (1; 0% of non-empty `Mood`): <em>were</em>
 * `EMPTY` (752): <em>be, been, being, having, have, 're, do, get, 'd, can</em>
 
-`Mood` seems to be **lexical feature** of `AUX`. 100% lemmas (14) occur only with one value of `Mood`.
+<table>
+  <tr><th>Paradigm <i>be</i></th><th><tt>Ind</tt></th><th><tt>Sub</tt></th></tr>
+  <tr><td><tt><tt><a href="en_lines-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="en_lines-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="en_lines-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>was</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="en_lines-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="en_lines-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="en_lines-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>am, 'm</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="en_lines-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="en_lines-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="en_lines-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>was</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="en_lines-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="en_lines-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="en_lines-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>is, 's</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="en_lines-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="en_lines-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>were</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="en_lines-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>were</em></td><td><em>were</em></td></tr>
+  <tr><td><tt><tt><a href="en_lines-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>are, 're, 'm, Be</em></td><td></td></tr>
+  <tr><td><tt></tt></td><td><em>be, were</em></td><td></td></tr>
+</table>
+
+`Mood` seems to be **lexical feature** of `AUX`. 93% lemmas (13) occur only with one value of `Mood`.
 
 ## Relations with Agreement in `Mood`
 

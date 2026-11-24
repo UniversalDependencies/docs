@@ -9,10 +9,22 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-21 tokens (0%) have a non-empty value of `Typo`.
-9 types (0%) occur at least once with a non-empty value of `Typo`.
-8 lemmas (0%) occur at least once with a non-empty value of `Typo`.
-The feature is used with 6 part-of-speech tags: <tt><a href="de_hdt-pos-DET.html">DET</a></tt> (11; 0% instances), <tt><a href="de_hdt-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+74 tokens (0%) have a non-empty value of `Typo`.
+61 types (0%) occur at least once with a non-empty value of `Typo`.
+57 lemmas (0%) occur at least once with a non-empty value of `Typo`.
+The feature is used with 7 part-of-speech tags: <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> (54; 0% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt> (11; 0% instances), <tt><a href="de_hdt-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+
+### `VERB`
+
+54 <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Typo`.
+
+The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="de_hdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (53; 98%), <tt><a href="de_hdt-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (41; 76%), <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (39; 72%), <tt><a href="de_hdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (37; 69%), <tt><a href="de_hdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (37; 69%).
+
+`VERB` tokens may have the following values of `Typo`:
+
+* `Yes` (54; 100% of non-empty `Typo`): <em>enspricht, Eingericht, Fallen, Fertiggestellen, abgegeben, abgelgt, ansteueren, anzurufen, aufgeliefert, auseinanderetzen</em>
+
+`Typo` seems to be **lexical feature** of `VERB`. 100% lemmas (50) occur only with one value of `Typo`.
 
 ### `DET`
 
@@ -32,15 +44,15 @@ The most frequent other feature values with which `DET` and `Typo` co-occurred: 
 
 * `Yes` (5; 100% of non-empty `Typo`): <em>das</em>
 
-### `VERB`
+### `ADJ`
 
-2 <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Typo`.
+1 <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="de_hdt-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="de_hdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="de_hdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="de_hdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="de_hdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt> (2; 100%).
+The most frequent other feature values with which `ADJ` and `Typo` co-occurred: <tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1; 100%), <tt><a href="de_hdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="de_hdt-feat-Variant.html">Variant</a></tt><tt>=Short</tt> (1; 100%).
 
-`VERB` tokens may have the following values of `Typo`:
+`ADJ` tokens may have the following values of `Typo`:
 
-* `Yes` (2; 100% of non-empty `Typo`): <em>Fallen, ausprechen</em>
+* `Yes` (1; 100% of non-empty `Typo`): <em>brankrott</em>
 
 ### `AUX`
 

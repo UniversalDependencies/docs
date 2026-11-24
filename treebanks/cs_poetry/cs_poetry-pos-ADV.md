@@ -6,24 +6,21 @@ udver: '2'
 
 ## Treebank Statistics: UD_Czech-Poetry: POS Tags: `ADV`
 
-There are 159 `ADV` lemmas (8%), 163 `ADV` types (6%) and 403 `ADV` tokens (6%).
+There are 159 `ADV` lemmas (8%), 163 `ADV` types (6%) and 405 `ADV` tokens (6%).
 Out of 15 observed tags, the rank of `ADV` is: 4 in number of lemmas, 4 in number of types and 6 in number of tokens.
 
-The 10 most frequent `ADV` lemmas: <em>jak, kde, tak, tam, ještě, vždy, zas, tady, teď, už</em>
+The 10 most frequent `ADV` lemmas: <em>jak, tak, kde, tam, ještě, vždy, zas, tady, teď, už</em>
 
-The 10 most frequent `ADV` types:  <em>jak, kde, tak, tam, ještě, vždy, zas, tu, teď, zde</em>
+The 10 most frequent `ADV` types:  <em>jak, tak, kde, tam, ještě, vždy, zas, tu, teď, zde</em>
 
-The 10 most frequent ambiguous lemmas: <em>jak</em> (<tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> 24, <tt><a href="cs_poetry-pos-SCONJ.html">SCONJ</a></tt> 13), <em>tak</em> (<tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> 21, <tt><a href="cs_poetry-pos-CCONJ.html">CCONJ</a></tt> 2), <em>hodně</em> (<tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> 6, <tt><a href="cs_poetry-pos-DET.html">DET</a></tt> 1), <em>co</em> (<tt><a href="cs_poetry-pos-PRON.html">PRON</a></tt> 14, <tt><a href="cs_poetry-pos-SCONJ.html">SCONJ</a></tt> 7, <tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> 3), <em>daleko</em> (<tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> 3, <tt><a href="cs_poetry-pos-NOUN.html">NOUN</a></tt> 1), <em>hluboko</em> (<tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> 2, <tt><a href="cs_poetry-pos-NOUN.html">NOUN</a></tt> 1), <em>marně</em> (<tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> 2, <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt> 1), <em>chuť</em> (<tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> 1, <tt><a href="cs_poetry-pos-NOUN.html">NOUN</a></tt> 1), <em>ejhle</em> (<tt><a href="cs_poetry-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> 1), <em>jakoby</em> (<tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> 1, <tt><a href="cs_poetry-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>jak</em> (<tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> 24, <tt><a href="cs_poetry-pos-SCONJ.html">SCONJ</a></tt> 13), <em>hodně</em> (<tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> 6, <tt><a href="cs_poetry-pos-DET.html">DET</a></tt> 1), <em>co</em> (<tt><a href="cs_poetry-pos-PRON.html">PRON</a></tt> 14, <tt><a href="cs_poetry-pos-SCONJ.html">SCONJ</a></tt> 7, <tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> 3), <em>daleko</em> (<tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> 3, <tt><a href="cs_poetry-pos-NOUN.html">NOUN</a></tt> 1), <em>hluboko</em> (<tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> 2, <tt><a href="cs_poetry-pos-NOUN.html">NOUN</a></tt> 1), <em>marně</em> (<tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> 2, <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt> 1), <em>chuť</em> (<tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> 1, <tt><a href="cs_poetry-pos-NOUN.html">NOUN</a></tt> 1), <em>ejhle</em> (<tt><a href="cs_poetry-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> 1), <em>jakoby</em> (<tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> 1, <tt><a href="cs_poetry-pos-SCONJ.html">SCONJ</a></tt> 1), <em>kolem</em> (<tt><a href="cs_poetry-pos-ADP.html">ADP</a></tt> 1, <tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>jak</em> (<tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> 22, <tt><a href="cs_poetry-pos-SCONJ.html">SCONJ</a></tt> 15), <em>tak</em> (<tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> 16, <tt><a href="cs_poetry-pos-CCONJ.html">CCONJ</a></tt> 1), <em>tu</em> (<tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> 9, <tt><a href="cs_poetry-pos-DET.html">DET</a></tt> 1), <em>dál</em> (<tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> 5, <tt><a href="cs_poetry-pos-NOUN.html">NOUN</a></tt> 1), <em>již</em> (<tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> 5, <tt><a href="cs_poetry-pos-PRON.html">PRON</a></tt> 2), <em>níž</em> (<tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> 4, <tt><a href="cs_poetry-pos-PRON.html">PRON</a></tt> 4), <em>co</em> (<tt><a href="cs_poetry-pos-PRON.html">PRON</a></tt> 11, <tt><a href="cs_poetry-pos-SCONJ.html">SCONJ</a></tt> 6, <tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> 2), <em>kdy</em> (<tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> 2, <tt><a href="cs_poetry-pos-SCONJ.html">SCONJ</a></tt> 1), <em>marně</em> (<tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> 2, <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt> 1), <em>více</em> (<tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> 2, <tt><a href="cs_poetry-pos-DET.html">DET</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>jak</em> (<tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> 22, <tt><a href="cs_poetry-pos-SCONJ.html">SCONJ</a></tt> 15), <em>tu</em> (<tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> 9, <tt><a href="cs_poetry-pos-DET.html">DET</a></tt> 1), <em>dál</em> (<tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> 5, <tt><a href="cs_poetry-pos-NOUN.html">NOUN</a></tt> 1), <em>již</em> (<tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> 5, <tt><a href="cs_poetry-pos-PRON.html">PRON</a></tt> 2), <em>níž</em> (<tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> 4, <tt><a href="cs_poetry-pos-PRON.html">PRON</a></tt> 4), <em>co</em> (<tt><a href="cs_poetry-pos-PRON.html">PRON</a></tt> 11, <tt><a href="cs_poetry-pos-SCONJ.html">SCONJ</a></tt> 6, <tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> 2), <em>kdy</em> (<tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> 2, <tt><a href="cs_poetry-pos-SCONJ.html">SCONJ</a></tt> 1), <em>marně</em> (<tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> 2, <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt> 1), <em>více</em> (<tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> 2, <tt><a href="cs_poetry-pos-DET.html">DET</a></tt> 1), <em>Ejhle</em> (<tt><a href="cs_poetry-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> 1)
 
 
 * <em>jak</em>
   * <tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> 22: <em>Rozcuchán , <b>jak</b> by letěl prostorem , žehnaje vichrům , které vraždily by .</em>
   * <tt><a href="cs_poetry-pos-SCONJ.html">SCONJ</a></tt> 15: <em>Zas vidím jej , ve božské kráse <b>jak</b> vzpjal se veliký a nah a odbojníku v bleskném jase jak rázem kůži s těla stáh’ .</em>
-* <em>tak</em>
-  * <tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> 16: <em>Mluvil takto však i <b>tak</b> též cítil : „ Hoiho , slyšte !</em>
-  * <tt><a href="cs_poetry-pos-CCONJ.html">CCONJ</a></tt> 1: <em>A <b>tak</b> balancujem do světla , do tmy po povaze naší . . .</em>
 * <em>tu</em>
   * <tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> 9: <em>Co nevidět , snad tma <b>tu</b> bude v ráz a k spánku bez procitnutí pak čas .</em>
   * <tt><a href="cs_poetry-pos-DET.html">DET</a></tt> 1: <em>Pak v mlhu <b>tu</b> zas padne trochu světla , a hned sty raket září , hraje , hýří náš celý obzor . . .</em>
@@ -49,10 +46,13 @@ The 10 most frequent ambiguous types:  <em>jak</em> (<tt><a href="cs_poetry-pos-
 * <em>více</em>
   * <tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> 2: <em>Tam se čtenář <b>více</b> doví .</em>
   * <tt><a href="cs_poetry-pos-DET.html">DET</a></tt> 1: <em>Zatím co tam v chrámě lidé svíce , domky , ruce , nohy z vosku slity v oběť kladli , peněz ještě <b>více</b> , ti zde dary dražší nesli – city .</em>
+* <em>Ejhle</em>
+  * <tt><a href="cs_poetry-pos-INTJ.html">INTJ</a></tt> 3: <em><b>Ejhle</b> , rozkoš toho světa !</em>
+  * <tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> 1: <em><b>Ejhle</b> jeho blaženost !</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.025157 (the average of all parts of speech is 1.401136).
+The form / lemma ratio of `ADV` is 1.025157 (the average of all parts of speech is 1.401343).
 
 The 1st highest number of forms (3) was observed with the lemma “brzy”: <em>Brzo, brzy, dříve</em>.
 
@@ -60,7 +60,7 @@ The 2nd highest number of forms (3) was observed with the lemma “hodně”: <e
 
 The 3rd highest number of forms (2) was observed with the lemma “kdysi”: <em>kdys, kdysi</em>.
 
-`ADV` occurs with 6 features: <tt><a href="cs_poetry-feat-PronType.html">PronType</a></tt> (154; 38% instances), <tt><a href="cs_poetry-feat-Polarity.html">Polarity</a></tt> (109; 27% instances), <tt><a href="cs_poetry-feat-Degree.html">Degree</a></tt> (105; 26% instances), <tt><a href="cs_poetry-feat-Style.html">Style</a></tt> (6; 1% instances), <tt><a href="cs_poetry-feat-NumType.html">NumType</a></tt> (3; 1% instances), <tt><a href="cs_poetry-feat-ExtPos.html">ExtPos</a></tt> (1; 0% instances)
+`ADV` occurs with 6 features: <tt><a href="cs_poetry-feat-PronType.html">PronType</a></tt> (156; 39% instances), <tt><a href="cs_poetry-feat-Polarity.html">Polarity</a></tt> (109; 27% instances), <tt><a href="cs_poetry-feat-Degree.html">Degree</a></tt> (105; 26% instances), <tt><a href="cs_poetry-feat-Style.html">Style</a></tt> (6; 1% instances), <tt><a href="cs_poetry-feat-NumType.html">NumType</a></tt> (3; 1% instances), <tt><a href="cs_poetry-feat-ExtPos.html">ExtPos</a></tt> (1; 0% instances)
 
 `ADV` occurs with 14 feature-value pairs: `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `ExtPos=ADV`, `NumType=Mult`, `Polarity=Neg`, `Polarity=Pos`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Neg`, `PronType=Rel`, `PronType=Tot`, `Style=Rare`
 
@@ -71,11 +71,11 @@ Examples: <em>ještě, zas, stále, už, již, potom, snad, dnes, dole, pak</em>
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 16 different relations: <tt><a href="cs_poetry-dep-advmod.html">advmod</a></tt> (319; 79% instances), <tt><a href="cs_poetry-dep-advmod-emph.html">advmod:emph</a></tt> (25; 6% instances), <tt><a href="cs_poetry-dep-conj.html">conj</a></tt> (23; 6% instances), <tt><a href="cs_poetry-dep-root.html">root</a></tt> (9; 2% instances), <tt><a href="cs_poetry-dep-mark.html">mark</a></tt> (7; 2% instances), <tt><a href="cs_poetry-dep-orphan.html">orphan</a></tt> (4; 1% instances), <tt><a href="cs_poetry-dep-cc.html">cc</a></tt> (2; 0% instances), <tt><a href="cs_poetry-dep-ccomp.html">ccomp</a></tt> (2; 0% instances), <tt><a href="cs_poetry-dep-fixed.html">fixed</a></tt> (2; 0% instances), <tt><a href="cs_poetry-dep-obj.html">obj</a></tt> (2; 0% instances), <tt><a href="cs_poetry-dep-obl.html">obl</a></tt> (2; 0% instances), <tt><a href="cs_poetry-dep-parataxis.html">parataxis</a></tt> (2; 0% instances), <tt><a href="cs_poetry-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="cs_poetry-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="cs_poetry-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="cs_poetry-dep-nsubj.html">nsubj</a></tt> (1; 0% instances)
+`ADV` nodes are attached to their parents using 16 different relations: <tt><a href="cs_poetry-dep-advmod.html">advmod</a></tt> (320; 79% instances), <tt><a href="cs_poetry-dep-advmod-emph.html">advmod:emph</a></tt> (25; 6% instances), <tt><a href="cs_poetry-dep-conj.html">conj</a></tt> (23; 6% instances), <tt><a href="cs_poetry-dep-root.html">root</a></tt> (9; 2% instances), <tt><a href="cs_poetry-dep-mark.html">mark</a></tt> (7; 2% instances), <tt><a href="cs_poetry-dep-orphan.html">orphan</a></tt> (4; 1% instances), <tt><a href="cs_poetry-dep-cc.html">cc</a></tt> (3; 1% instances), <tt><a href="cs_poetry-dep-ccomp.html">ccomp</a></tt> (2; 0% instances), <tt><a href="cs_poetry-dep-fixed.html">fixed</a></tt> (2; 0% instances), <tt><a href="cs_poetry-dep-obj.html">obj</a></tt> (2; 0% instances), <tt><a href="cs_poetry-dep-obl.html">obl</a></tt> (2; 0% instances), <tt><a href="cs_poetry-dep-parataxis.html">parataxis</a></tt> (2; 0% instances), <tt><a href="cs_poetry-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="cs_poetry-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="cs_poetry-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="cs_poetry-dep-nsubj.html">nsubj</a></tt> (1; 0% instances)
 
-Parents of `ADV` nodes belong to 9 different parts of speech: <tt><a href="cs_poetry-pos-VERB.html">VERB</a></tt> (291; 72% instances), <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt> (38; 9% instances), <tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> (37; 9% instances), <tt><a href="cs_poetry-pos-NOUN.html">NOUN</a></tt> (21; 5% instances),  (9; 2% instances), <tt><a href="cs_poetry-pos-DET.html">DET</a></tt> (4; 1% instances), <tt><a href="cs_poetry-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="cs_poetry-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="cs_poetry-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
+Parents of `ADV` nodes belong to 9 different parts of speech: <tt><a href="cs_poetry-pos-VERB.html">VERB</a></tt> (293; 72% instances), <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt> (38; 9% instances), <tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> (37; 9% instances), <tt><a href="cs_poetry-pos-NOUN.html">NOUN</a></tt> (21; 5% instances),  (9; 2% instances), <tt><a href="cs_poetry-pos-DET.html">DET</a></tt> (4; 1% instances), <tt><a href="cs_poetry-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="cs_poetry-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="cs_poetry-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
 
-334 (83%) `ADV` nodes are leaves.
+336 (83%) `ADV` nodes are leaves.
 
 43 (11%) `ADV` nodes have one child.
 

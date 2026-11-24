@@ -105,6 +105,6 @@ The most frequent other feature values with which `PART` and `Definite` co-occur
 
 The 10 most frequent relations where parent and child node agree in `Definite`:
 <tt>NOUN --[<tt><a href="ckb_mukri-dep-discourse.html">discourse</a></tt>]--> NOUN</tt> (2; 100%),
-<tt>NOUN --[<tt><a href="ckb_mukri-dep-obl.html">obl</a></tt>]--> NOUN</tt> (2; 100%),
+<tt>NOUN --[<tt><a href="ckb_mukri-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2; 100%),
 <tt>ADJ --[<tt><a href="ckb_mukri-dep-det.html">det</a></tt>]--> DET</tt> (1; 100%).
 

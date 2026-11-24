@@ -17,41 +17,39 @@ The following 6 pairs of parts of speech are connected with `punct`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 10 punct	color:blue
-1	o	o	DET	Demons	Definite=Def|PronType=Art	2	det	_	_
-2	cihetle	cihet	NOUN	_	Case=Ins|Gender=Fem|Number=Sing|Person=3	9	obl	_	_
-3	edebiyatsız	edebiyat	ADJ	Adj	_	4	amod	_	_
-4	millet	millet	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	9	nsubj	_	SpaceAfter=No
-5	,	,	PUNCT	Comma	_	4	punct	_	_
-6	dilsiz	dilsiz	ADJ	Adj	_	7	amod	_	DerivedFrom=dil
-7	insān	insān	NOUN	_	Case=Nom|Number=Sing|Person=3	8	nmod	_	_
-8	ḳabīlinde	ḳabīl	NOUN	_	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	9	obl	_	_
-9	olur	ol	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-10	.	.	PUNCT	Stop	_	9	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 punct	color:blue
+1	cānān	cānān	PROPN	Pers	Case=Nom|NameType=Prs|Number=Sing|Person=3	3	nsubj	_	_
+2	nereye	nere	PRON	Ques	Case=Dat|Number=Sing|Person=3|PronType=Int	3	obl	_	_
+3	ister	iste	VERB	Ptcp	Aspect=Hab|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Part	5	advcl	_	_
+4	ise	y	AUX	Zero	Mood=Cnd|Number=Sing|Person=3|Polarity=Pos	3	cop	_	_
+5	gidiyoruz	git	VERB	_	Aspect=Prog|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	Stop	_	5	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 punct	color:blue
-1	o	o	DET	Demons	Definite=Def|PronType=Art	2	det	_	_
-2	cihetle	cihet	NOUN	_	Case=Ins|Gender=Fem|Number=Sing|Person=3	9	obl	_	_
-3	edebiyatsız	edebiyat	ADJ	Adj	_	4	amod	_	_
-4	millet	millet	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	9	nsubj	_	SpaceAfter=No
-5	,	,	PUNCT	Comma	_	4	punct	_	_
-6	dilsiz	dilsiz	ADJ	Adj	_	7	amod	_	DerivedFrom=dil
-7	insān	insān	NOUN	_	Case=Nom|Number=Sing|Person=3	8	nmod	_	_
-8	ḳabīlinde	ḳabīl	NOUN	_	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	9	obl	_	_
-9	olur	ol	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-10	.	.	PUNCT	Stop	_	9	punct	_	_
+# visual-style 5 6 punct	color:blue
+1	evet	evet	INTJ	_	_	11	discourse	_	SpaceAfter=No
+2	,	,	PUNCT	Comma	_	1	punct	_	_
+3	biraz	biraz	ADV	_	_	5	amod	_	_
+4	da	da	PART	Emph	_	3	advmod:emph	_	_
+5	ʿaşḳtan	ʿaşḳ	NOUN	_	Case=Abl|Number=Sing|Person=3	11	obl	_	SpaceAfter=No
+6	,	,	PUNCT	Comma	_	5	punct	_	_
+7	daha	daha	ADV	_	Degree=Cmp	8	advmod	_	_
+8	doġrusu	doġru	ADJ	NAdj	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	10	amod	_	_
+9	yine	yine	ADV	_	_	10	advmod	_	_
+10	ʿaşḳtan	ʿaşḳ	NOUN	_	Case=Abl|Number=Sing|Person=3	5	appos	_	_
+11	baḥsedelim	baḥset	VERB	_	Mood=Opt|Number=Plur|Person=1|Polarity=Pos|VerbForm=Fin	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	Stop	_	11	punct	_	_
 
 ~~~
 

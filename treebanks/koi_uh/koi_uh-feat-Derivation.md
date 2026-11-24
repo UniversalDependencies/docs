@@ -25,7 +25,7 @@ The most frequent other feature values with which `VERB` and `Derivation` co-occ
 * `Ana` (1; 11% of non-empty `Derivation`): <em>дрӧжитана</em>
 * `CompMod` (1; 11% of non-empty `Derivation`): <em>гардчӧмкодь</em>
 * `Ik` (2; 22% of non-empty `Derivation`): <em>жмитікӧ, лӧсьӧтікӧ</em>
-* `Omon` (2; 22% of non-empty `Derivation`): <em>öшöтöмöн, сайӧвтӧмӧн</em>
+* `Omon` (2; 22% of non-empty `Derivation`): <em>ӧшӧтӧмӧн, сайӧвтӧмӧн</em>
 * `VAbe` (3; 33% of non-empty `Derivation`): <em>жалейттӧг, куриттӧг, ютӧг</em>
 
 ## Relations with Agreement in `Derivation`

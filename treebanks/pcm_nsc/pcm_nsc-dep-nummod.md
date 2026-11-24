@@ -22,20 +22,20 @@ The following 6 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
 # visual-style 13 12 nummod	color:blue
-1	#	#	PUNCT	_	_	3	punct	_	AlignBegin=27115|AlignEnd=27579|Gloss=PUNCT
-2	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	AlignBegin=27579|AlignEnd=27670|Gloss=NOM.SG.1
-3	dey	dey	VERB	_	VerbType=Cop	0	root	_	AlignBegin=27670|AlignEnd=27840|Gloss=be
-4	dere	dere	ADV	_	_	3	xcomp	_	AlignBegin=27840|AlignEnd=27980|Gloss=there
-5	o	o	PART	_	PartType=Disc	4	advmod	_	AlignBegin=27980|AlignEnd=28270|Gloss=EMPH
-6	//=	//=	PUNCT	_	_	8	punct	_	AlignBegin=28270|AlignEnd=28270|Gloss=PUNCT
-7	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	AlignBegin=28270|AlignEnd=28450|Gloss=NOM.SG.1
-8	school	school	VERB	_	_	3	parataxis:conj	_	AlignBegin=28450|AlignEnd=28830|Gloss=school
-9	o	o	PART	_	PartType=Disc	8	advmod	_	AlignBegin=28830|AlignEnd=29030|Gloss=EMPH
-10	//=	//=	PUNCT	_	_	11	punct	_	AlignBegin=28830|AlignEnd=29030|Gloss=PUNCT
-11	setay	sotay	ADV	_	_	8	parataxis:conj	_	AlignBegin=29060|AlignEnd=29610|Gloss=such_that
-12	four	four	NUM	_	NumType=Card	13	nummod	_	AlignBegin=29610|AlignEnd=29950|Gloss=four.CARD
-13	years	year	NOUN	_	Number=Plur	11	obl:mod	_	AlignBegin=29950|AlignEnd=30300|Gloss=year.PL
-14	//	//	PUNCT	_	_	3	punct	_	AlignBegin=30300|AlignEnd=30300|Gloss=PUNCT
+1	#	#	PUNCT	_	_	3	punct	_	Gloss=PUNCT|WordAlignmentBegin=27115|WordAlignmentEnd=27579
+2	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=NOM.SG.1|WordAlignmentBegin=27579|WordAlignmentEnd=27670
+3	dey	dey	VERB	_	VerbType=Cop	0	root	_	Gloss=be|WordAlignmentBegin=27670|WordAlignmentEnd=27840
+4	dere	dere	ADV	_	_	3	xcomp	_	Gloss=there|WordAlignmentBegin=27840|WordAlignmentEnd=27980
+5	o	o	PART	_	PartType=Disc	4	advmod	_	Gloss=EMPH|WordAlignmentBegin=27980|WordAlignmentEnd=28270
+6	//=	//=	PUNCT	_	_	8	punct	_	Gloss=PUNCT|WordAlignmentBegin=28270|WordAlignmentEnd=28270
+7	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	Gloss=NOM.SG.1|WordAlignmentBegin=28270|WordAlignmentEnd=28450
+8	school	school	VERB	_	_	3	parataxis:conj	_	Gloss=school|WordAlignmentBegin=28450|WordAlignmentEnd=28830
+9	o	o	PART	_	PartType=Disc	8	advmod	_	Gloss=EMPH|WordAlignmentBegin=28830|WordAlignmentEnd=29030
+10	//=	//=	PUNCT	_	_	11	punct	_	Gloss=PUNCT|WordAlignmentBegin=28830|WordAlignmentEnd=29030
+11	setay	sotay	ADV	_	_	8	parataxis:conj	_	Gloss=such_that|WordAlignmentBegin=29060|WordAlignmentEnd=29610
+12	four	four	NUM	_	NumType=Card	13	nummod	_	Gloss=four.CARD|WordAlignmentBegin=29610|WordAlignmentEnd=29950
+13	years	year	NOUN	_	Number=Plur	11	obl:mod	_	Gloss=year.PL|WordAlignmentBegin=29950|WordAlignmentEnd=30300
+14	//	//	PUNCT	_	_	3	punct	_	Gloss=PUNCT|WordAlignmentBegin=30300|WordAlignmentEnd=30300
 
 ~~~
 
@@ -46,20 +46,20 @@ The following 6 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 11 nummod	color:blue
-1	#	#	PUNCT	_	_	7	punct	_	AlignBegin=287862|AlignEnd=289080|Gloss=PUNCT
-2	and	and	CCONJ	_	_	7	discourse	_	AlignBegin=289080|AlignEnd=289150|Gloss=and
-3	after	after	ADP	_	_	7	dep	_	AlignBegin=289150|AlignEnd=289370|Gloss=after
-4	<	<	PUNCT	_	_	3	punct	_	AlignBegin=289370|AlignEnd=289370|Gloss=PUNCT
-5	de	dem	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	AlignBegin=289370|AlignEnd=289454|Gloss=NOM.PL.3
-6	go	go	AUX	_	Aspect=Prosp	7	aux	_	AlignBegin=289454|AlignEnd=289542|Gloss=PROSP
-7	say	say	VERB	_	_	0	root	_	AlignBegin=289542|AlignEnd=289750|Gloss=say
-8	[	[	PUNCT	_	_	12	punct	_	AlignBegin=289750|AlignEnd=289750|Gloss=PUNCT
-9	we	we	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	12	nsubj	_	AlignBegin=289750|AlignEnd=289840|Gloss=NOM.PL.1|Lang=en
-10	are	be	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	12	cop	_	AlignBegin=289840|AlignEnd=289950|Gloss=be.IND.PRS.FIN|Lang=en
-11	one	one	NUM	_	NumType=Card	12	nummod	_	AlignBegin=289950|AlignEnd=290080|Gloss=one|Lang=en
-12	Nigeria	Nigeria	PROPN	_	_	7	parataxis	_	AlignBegin=290080|AlignEnd=290710|Gloss=Nigeria|Lang=en
-13	//]	//]	PUNCT	_	_	12	punct	_	AlignBegin=290710|AlignEnd=290710|Gloss=PUNCT
-14	//	//	PUNCT	_	_	7	punct	_	AlignBegin=290680|AlignEnd=290710|Gloss=PUNCT
+1	#	#	PUNCT	_	_	7	punct	_	Gloss=PUNCT|WordAlignmentBegin=287862|WordAlignmentEnd=289080
+2	and	and	CCONJ	_	_	7	discourse	_	Gloss=and|WordAlignmentBegin=289080|WordAlignmentEnd=289150
+3	after	after	ADP	_	_	7	dep	_	Gloss=after|WordAlignmentBegin=289150|WordAlignmentEnd=289370
+4	<	<	PUNCT	_	_	3	punct	_	Gloss=PUNCT|WordAlignmentBegin=289370|WordAlignmentEnd=289370
+5	de	dem	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	Gloss=NOM.PL.3|WordAlignmentBegin=289370|WordAlignmentEnd=289454
+6	go	go	AUX	_	Aspect=Prosp	7	aux	_	Gloss=PROSP|WordAlignmentBegin=289454|WordAlignmentEnd=289542
+7	say	say	VERB	_	_	0	root	_	Gloss=say|WordAlignmentBegin=289542|WordAlignmentEnd=289750
+8	[	[	PUNCT	_	_	12	punct	_	Gloss=PUNCT|WordAlignmentBegin=289750|WordAlignmentEnd=289750
+9	we	we	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	12	nsubj	_	Gloss=NOM.PL.1|Lang=en|WordAlignmentBegin=289750|WordAlignmentEnd=289840
+10	are	be	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	12	cop	_	Gloss=be.IND.PRS.FIN|Lang=en|WordAlignmentBegin=289840|WordAlignmentEnd=289950
+11	one	one	NUM	_	NumType=Card	12	nummod	_	Gloss=one|Lang=en|WordAlignmentBegin=289950|WordAlignmentEnd=290080
+12	Nigeria	Nigeria	PROPN	_	_	7	parataxis	_	Gloss=Nigeria|Lang=en|WordAlignmentBegin=290080|WordAlignmentEnd=290710
+13	//]	//]	PUNCT	_	_	12	punct	_	Gloss=PUNCT|WordAlignmentBegin=290710|WordAlignmentEnd=290710
+14	//	//	PUNCT	_	_	7	punct	_	Gloss=PUNCT|WordAlignmentBegin=290680|WordAlignmentEnd=290710
 
 ~~~
 
@@ -70,29 +70,29 @@ The following 6 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 18	bgColor:blue
 # visual-style 18	fgColor:white
 # visual-style 18 17 nummod	color:blue
-1	#	#	PUNCT	_	_	12	punct	_	AlignBegin=133080|AlignEnd=133340|Gloss=PUNCT
-2	my	my	PRON	_	Number=Sing|Person=1|Poss=Yes	3	nmod:poss	_	AlignBegin=133340|AlignEnd=133471|Gloss=SG.1.POSS
-3	people	people	NOUN	_	Number=Plur	12	dislocated	_	AlignBegin=133471|AlignEnd=133870|Gloss=people.PL
-4	<	<	PUNCT	_	_	3	punct	_	AlignBegin=133870|AlignEnd=133870|Gloss=PUNCT
-5	#	#	PUNCT	_	_	3	punct	_	AlignBegin=133870|AlignEnd=134507|Gloss=PUNCT
-6	na	na	AUX	_	PartType=Cop	12	cop	_	AlignBegin=134507|AlignEnd=134590|Gloss=be
-7	{	{	PUNCT	_	_	8	punct	_	AlignBegin=134590|AlignEnd=134590|Gloss=PUNCT
-8	short	short	ADJ	_	_	12	amod	_	AlignBegin=134590|AlignEnd=134745|Gloss=short
-9	|r	|r	PUNCT	_	_	10	punct	_	AlignBegin=134745|AlignEnd=134745|Gloss=PUNCT
-10	short	short	ADJ	_	_	8	compound:redup	_	AlignBegin=134745|AlignEnd=134930|Gloss=short
-11	}	}	PUNCT	_	_	8	punct	_	AlignBegin=134930|AlignEnd=134930|Gloss=PUNCT
-12	story	story	NOUN	_	_	0	root	_	AlignBegin=134930|AlignEnd=135210|Gloss=story
-13	as	as	ADP	_	_	15	mark	_	AlignBegin=135210|AlignEnd=135347|Gloss=as
-14	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	AlignBegin=135347|AlignEnd=135440|Gloss=NOM.SG.3
-15	take	take	VERB	_	_	12	acl:relcl	_	AlignBegin=135440|AlignEnd=135589|Gloss=take
-16	concern	concern	VERB	_	_	15	compound:svc	_	AlignBegin=135589|AlignEnd=135980|Gloss=concern
-17	five	five	NUM	_	NumType=Card	18	nummod	_	AlignBegin=135980|AlignEnd=136220|Gloss=five.CARD
-18	o'clock	o'clock	ADV	_	_	16	obj	_	AlignBegin=136220|AlignEnd=136955|Gloss=o'clock
-19	today	today	NOUN	_	_	16	obl:mod	_	AlignBegin=136955|AlignEnd=137530|Gloss=today
-20	>+	>+	PUNCT	_	_	21	punct	_	AlignBegin=137530|AlignEnd=137530|Gloss=PUNCT
-21	be	be	VERB	_	PartType=Cop	12	advcl:cleft	_	AlignBegin=137530|AlignEnd=137710|Gloss=be
-22	dat	dat	PRON	_	Number=Sing	21	nsubj	_	AlignBegin=137710|AlignEnd=138084|Gloss=SG.DEM
-23	//	//	PUNCT	_	_	12	punct	_	AlignBegin=138084|AlignEnd=138084|Gloss=PUNCT
+1	#	#	PUNCT	_	_	12	punct	_	Gloss=PUNCT|WordAlignmentBegin=133080|WordAlignmentEnd=133340
+2	my	my	PRON	_	Number=Sing|Person=1|Poss=Yes	3	nmod:poss	_	Gloss=SG.1.POSS|WordAlignmentBegin=133340|WordAlignmentEnd=133471
+3	people	people	NOUN	_	Number=Plur	12	dislocated	_	Gloss=people.PL|WordAlignmentBegin=133471|WordAlignmentEnd=133870
+4	<	<	PUNCT	_	_	3	punct	_	Gloss=PUNCT|WordAlignmentBegin=133870|WordAlignmentEnd=133870
+5	#	#	PUNCT	_	_	3	punct	_	Gloss=PUNCT|WordAlignmentBegin=133870|WordAlignmentEnd=134507
+6	na	na	AUX	_	PartType=Cop	12	cop	_	Gloss=be|WordAlignmentBegin=134507|WordAlignmentEnd=134590
+7	{	{	PUNCT	_	_	8	punct	_	Gloss=PUNCT|WordAlignmentBegin=134590|WordAlignmentEnd=134590
+8	short	short	ADJ	_	_	12	amod	_	Gloss=short|WordAlignmentBegin=134590|WordAlignmentEnd=134745
+9	|r	|r	PUNCT	_	_	10	punct	_	Gloss=PUNCT|WordAlignmentBegin=134745|WordAlignmentEnd=134745
+10	short	short	ADJ	_	_	8	compound:redup	_	Gloss=short|WordAlignmentBegin=134745|WordAlignmentEnd=134930
+11	}	}	PUNCT	_	_	8	punct	_	Gloss=PUNCT|WordAlignmentBegin=134930|WordAlignmentEnd=134930
+12	story	story	NOUN	_	_	0	root	_	Gloss=story|WordAlignmentBegin=134930|WordAlignmentEnd=135210
+13	as	as	ADP	_	_	15	mark	_	Gloss=as|WordAlignmentBegin=135210|WordAlignmentEnd=135347
+14	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	Gloss=NOM.SG.3|WordAlignmentBegin=135347|WordAlignmentEnd=135440
+15	take	take	VERB	_	_	12	acl:relcl	_	Gloss=take|WordAlignmentBegin=135440|WordAlignmentEnd=135589
+16	concern	concern	VERB	_	_	15	compound:svc	_	Gloss=concern|WordAlignmentBegin=135589|WordAlignmentEnd=135980
+17	five	five	NUM	_	NumType=Card	18	nummod	_	Gloss=five.CARD|WordAlignmentBegin=135980|WordAlignmentEnd=136220
+18	o'clock	o'clock	ADV	_	_	16	obj	_	Gloss=o'clock|WordAlignmentBegin=136220|WordAlignmentEnd=136955
+19	today	today	NOUN	_	_	16	obl:mod	_	Gloss=today|WordAlignmentBegin=136955|WordAlignmentEnd=137530
+20	>+	>+	PUNCT	_	_	21	punct	_	Gloss=PUNCT|WordAlignmentBegin=137530|WordAlignmentEnd=137530
+21	be	be	VERB	_	PartType=Cop	12	advcl:cleft	_	Gloss=be|WordAlignmentBegin=137530|WordAlignmentEnd=137710
+22	dat	dat	PRON	_	Number=Sing	21	nsubj	_	Gloss=SG.DEM|WordAlignmentBegin=137710|WordAlignmentEnd=138084
+23	//	//	PUNCT	_	_	12	punct	_	Gloss=PUNCT|WordAlignmentBegin=138084|WordAlignmentEnd=138084
 
 ~~~
 

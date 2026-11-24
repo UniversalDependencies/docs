@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `advmod`: <tt><a href="cs_fictree-dep-advmod-emph.html">advmod:emph</a></tt>.
 
-10009 nodes (6%) are attached to their parents as `advmod`.
+10027 nodes (6%) are attached to their parents as `advmod`.
 
-7357 instances of `advmod` (74%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.96932760515536.
+7375 instances of `advmod` (74%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.97117781988631.
 
-The following 23 pairs of parts of speech are connected with `advmod`: <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (7227; 72% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (1043; 10% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_fictree-pos-PART.html">PART</a></tt> (707; 7% instances), <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (459; 5% instances), <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (222; 2% instances), <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (72; 1% instances), <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_fictree-pos-PART.html">PART</a></tt> (62; 1% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt>-<tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (55; 1% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_fictree-pos-PART.html">PART</a></tt> (49; 0% instances), <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt>-<tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (22; 0% instances), <tt><a href="cs_fictree-pos-PART.html">PART</a></tt>-<tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (19; 0% instances), <tt><a href="cs_fictree-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (15; 0% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt>-<tt><a href="cs_fictree-pos-PART.html">PART</a></tt> (13; 0% instances), <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_fictree-pos-PART.html">PART</a></tt> (10; 0% instances), <tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (10; 0% instances), <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_fictree-pos-PART.html">PART</a></tt> (8; 0% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), <tt><a href="cs_fictree-pos-PART.html">PART</a></tt>-<tt><a href="cs_fictree-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_fictree-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt>-<tt><a href="cs_fictree-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="cs_fictree-pos-INTJ.html">INTJ</a></tt>-<tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 22 pairs of parts of speech are connected with `advmod`: <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (7280; 73% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (1045; 10% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_fictree-pos-PART.html">PART</a></tt> (668; 7% instances), <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (460; 5% instances), <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (227; 2% instances), <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (73; 1% instances), <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_fictree-pos-PART.html">PART</a></tt> (62; 1% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt>-<tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (55; 1% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_fictree-pos-PART.html">PART</a></tt> (49; 0% instances), <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt>-<tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (22; 0% instances), <tt><a href="cs_fictree-pos-PART.html">PART</a></tt>-<tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (19; 0% instances), <tt><a href="cs_fictree-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (15; 0% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt>-<tt><a href="cs_fictree-pos-PART.html">PART</a></tt> (13; 0% instances), <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_fictree-pos-PART.html">PART</a></tt> (10; 0% instances), <tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (10; 0% instances), <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_fictree-pos-PART.html">PART</a></tt> (8; 0% instances), <tt><a href="cs_fictree-pos-PART.html">PART</a></tt>-<tt><a href="cs_fictree-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_fictree-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt>-<tt><a href="cs_fictree-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="cs_fictree-pos-INTJ.html">INTJ</a></tt>-<tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,13 +23,13 @@ The following 23 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 5 advmod	color:blue
-1	Zajímal	zajímat	VERB	VpMS----R-AA---	Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
+1	Zajímal	zajímat	VERB	VpMS----R-AA---	Animacy=Anim|Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
 2	jsem	být	AUX	VB-S---1P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	aux	1:aux	_
 3	se	se	PRON	P7--4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	1	expl:pv	1:expl:pv	SpaceAfter=No
 4	,	,	PUNCT	Z:-------------	_	7	punct	7:punct	_
 5	proč	proč	ADV	Db-------------	PronType=Int,Rel	7	advmod	7:advmod	_
 6	dítě	dítě	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing	7	nsubj	7:nsubj	_
-7	pláče	plakat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	1:ccomp	SpaceAfter=No
+7	pláče	plakat	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	1:ccomp	SpaceAfter=No
 8	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	_
 
 ~~~
@@ -43,7 +43,7 @@ The following 23 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 9 8 advmod	color:blue
 1	Když	když	SCONJ	J,-------------	_	3	mark	3:mark	_
 2	se	se	PRON	P7--4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	3	expl:pv	3:expl:pv	_
-3	zhroutí	zhroutit	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	9:advcl:když	_
+3	zhroutí	zhroutit	VERB	VB-S---3P-AA---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	9:advcl:když	_
 4	optimista	optimista	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	3:nsubj	SpaceAfter=No
 5	,	,	PUNCT	Z:-------------	_	3	punct	3:punct	_
 6	bývá	bývat	AUX	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	9:cop	_
@@ -61,18 +61,18 @@ The following 23 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 11 advmod	color:blue
-1	Zvedl	zvednout	VERB	VpMS----R-AA--1	Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
+1	Zvedl	zvednout	VERB	VpMS----R-AA--1	Animacy=Anim|Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
 2	jsem	být	AUX	VB-S---1P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	aux	1:aux|5:aux|12:aux	_
 3	se	se	PRON	P7--4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	1	expl:pv	1:expl:pv|5:expl:pv|12:expl:pv	_
 4	a	a	CCONJ	J^-------------	_	5	cc	5:cc	_
-5	prošel	projít	VERB	VpMS----R-AA---	Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	1	conj	0:root|1:conj	_
+5	prošel	projít	VERB	VpMS----R-AA---	Animacy=Anim|Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	1	conj	0:root|1:conj	_
 6	kolem	kolem	ADP	RR--2----------	AdpType=Prep|Case=Gen	7	case	7:case	_
 7	řeky	řeka	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing	5	obl	5:obl:kolem:gen	_
 8	a	a	CCONJ	J^-------------	_	12	cc	12:cc	_
 9	práce	práce	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing	12	nsubj	12:nsubj	_
 10	mi	já	PRON	PH-S3--1-------	Case=Dat|Number=Sing|Person=1|PronType=Prs|Variant=Short	12	obl:arg	12:obl:arg:dat	_
 11	opravdu	opravdu	PART	TT-------------	_	12	advmod	12:advmod	_
-12	šla	jít	VERB	VpFS----R-AA---	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	1	conj	0:root|1:conj	_
+12	šla	jít	VERB	VpFS----R-AA---	Aspect=Imp|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	1	conj	0:root|1:conj	_
 13	líp	dobře	ADV	Dg-------2A---1	Degree=Cmp|Polarity=Pos	12	advmod	12:advmod	SpaceAfter=No
 14	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	_
 

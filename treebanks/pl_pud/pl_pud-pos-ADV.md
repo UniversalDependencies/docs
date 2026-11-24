@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>kiedy</em> (<tt><a href="pl_pud-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.054217 (the average of all parts of speech is 1.436422).
+The form / lemma ratio of `ADV` is 1.054217 (the average of all parts of speech is 1.436234).
 
 The 1st highest number of forms (3) was observed with the lemma “bardzo”: <em>bardziej, bardzo, najbardziej</em>.
 

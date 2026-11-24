@@ -23,22 +23,22 @@ The following 39 pairs of parts of speech are connected with `flat`: <tt><a href
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 13 flat	color:blue
-1	#	#	PUNCT	_	_	5	punct	_	AlignBegin=73066|AlignEnd=73583|Gloss=PUNCT
-2	so	so	ADV	_	_	5	discourse	_	AlignBegin=73583|AlignEnd=73676|Gloss=so
-3	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	AlignBegin=73676|AlignEnd=73789|Gloss=NOM.SG.1
-4	con	con	AUX	_	Aspect=Cons	5	aux	_	AlignBegin=73789|AlignEnd=74049|Gloss=CONS
-5	go	go	VERB	_	_	0	root	_	AlignBegin=74049|AlignEnd=74199|Gloss=go
-6	school	school	NOUN	_	_	5	obl:arg	_	AlignBegin=74199|AlignEnd=74889|Gloss=school
-7	o	o	PART	_	PartType=Disc	5	advmod	_	AlignBegin=74889|AlignEnd=75129|Gloss=EMPH
-8	//=	//=	PUNCT	_	_	10	punct	_	AlignBegin=75129|AlignEnd=75129|Gloss=PUNCT
-9	con	con	AUX	_	Aspect=Cons	10	aux	_	AlignBegin=75129|AlignEnd=75395|Gloss=CONS
-10	reach	reach	VERB	_	_	5	parataxis:conj	_	AlignBegin=75395|AlignEnd=75644|Gloss=reach
-11	#	#	PUNCT	_	_	12	punct	_	AlignBegin=75644|AlignEnd=75949|Gloss=PUNCT
-12	two	two	NUM	_	NumType=Card	10	obj	_	AlignBegin=75949|AlignEnd=76029|Gloss=two.CARD
-13	thousand	thousand	NUM	_	NumType=Card	12	flat	_	AlignBegin=76029|AlignEnd=76379|Gloss=thousand.CARD
-14	and	and	CCONJ	_	_	15	cc	_	AlignBegin=76379|AlignEnd=76639|Gloss=and
-15	eight	eight	NUM	_	NumType=Card	13	conj	_	AlignBegin=76639|AlignEnd=76821|Gloss=eight.CARD
-16	//	//	PUNCT	_	_	5	punct	_	AlignBegin=76821|AlignEnd=76821|Gloss=PUNCT
+1	#	#	PUNCT	_	_	5	punct	_	Gloss=PUNCT|WordAlignmentBegin=73066|WordAlignmentEnd=73583
+2	so	so	ADV	_	_	5	discourse	_	Gloss=so|WordAlignmentBegin=73583|WordAlignmentEnd=73676
+3	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Gloss=NOM.SG.1|WordAlignmentBegin=73676|WordAlignmentEnd=73789
+4	con	con	AUX	_	Aspect=Cons	5	aux	_	Gloss=CONS|WordAlignmentBegin=73789|WordAlignmentEnd=74049
+5	go	go	VERB	_	_	0	root	_	Gloss=go|WordAlignmentBegin=74049|WordAlignmentEnd=74199
+6	school	school	NOUN	_	_	5	obl:arg	_	Gloss=school|WordAlignmentBegin=74199|WordAlignmentEnd=74889
+7	o	o	PART	_	PartType=Disc	5	advmod	_	Gloss=EMPH|WordAlignmentBegin=74889|WordAlignmentEnd=75129
+8	//=	//=	PUNCT	_	_	10	punct	_	Gloss=PUNCT|WordAlignmentBegin=75129|WordAlignmentEnd=75129
+9	con	con	AUX	_	Aspect=Cons	10	aux	_	Gloss=CONS|WordAlignmentBegin=75129|WordAlignmentEnd=75395
+10	reach	reach	VERB	_	_	5	parataxis:conj	_	Gloss=reach|WordAlignmentBegin=75395|WordAlignmentEnd=75644
+11	#	#	PUNCT	_	_	12	punct	_	Gloss=PUNCT|WordAlignmentBegin=75644|WordAlignmentEnd=75949
+12	two	two	NUM	_	NumType=Card	10	obj	_	Gloss=two.CARD|WordAlignmentBegin=75949|WordAlignmentEnd=76029
+13	thousand	thousand	NUM	_	NumType=Card	12	flat	_	Gloss=thousand.CARD|WordAlignmentBegin=76029|WordAlignmentEnd=76379
+14	and	and	CCONJ	_	_	15	cc	_	Gloss=and|WordAlignmentBegin=76379|WordAlignmentEnd=76639
+15	eight	eight	NUM	_	NumType=Card	13	conj	_	Gloss=eight.CARD|WordAlignmentBegin=76639|WordAlignmentEnd=76821
+16	//	//	PUNCT	_	_	5	punct	_	Gloss=PUNCT|WordAlignmentBegin=76821|WordAlignmentEnd=76821
 
 ~~~
 
@@ -49,22 +49,22 @@ The following 39 pairs of parts of speech are connected with `flat`: <tt><a href
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 7 flat	color:blue
-1	all	all	DET	_	_	3	det	_	AlignBegin=221020|AlignEnd=221150|Gloss=all
-2	dis	dis	DET	_	Number=Sing|PronType=Dem	3	det	_	AlignBegin=221150|AlignEnd=221330|Gloss=SG.DEM
-3	people	people	NOUN	_	Number=Plur	10	dislocated	_	AlignBegin=221330|AlignEnd=221410|Gloss=people.PL
-4	wey	wey	SCONJ	_	_	5	mark	_	AlignBegin=221410|AlignEnd=221530|Gloss=REL
-5	dey	dey	AUX	_	Aspect=Imp	3	acl:relcl	_	AlignBegin=221530|AlignEnd=221660|Gloss=IPFV
-6	Niger	Niger	PROPN	_	ExtPos=PROPN	5	obj	_	AlignBegin=221660|AlignEnd=222010|Gloss=Niger|Title=Yes
-7	Delta	Delta	NOUN	_	_	6	flat	_	AlignBegin=222010|AlignEnd=222360|Gloss=Delta|InTitle=Yes
-8	<	<	PUNCT	_	_	3	punct	_	AlignBegin=222360|AlignEnd=222360|Gloss=PUNCT
-9	na	na	AUX	_	PartType=Cop	10	cop	_	AlignBegin=222360|AlignEnd=222470|Gloss=be.COP
-10	dem	dem	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	0	root	_	AlignBegin=222470|AlignEnd=222600|Gloss=NOM.PL.3
-11	>+	>+	PUNCT	_	_	13	punct	_	AlignBegin=222600|AlignEnd=222600|Gloss=PUNCT
-12	dey	dey	AUX	_	Aspect=Imp	13	aux	_	AlignBegin=222600|AlignEnd=222740|Gloss=IPFV
-13	chop	chop	VERB	_	_	10	advcl:cleft	_	AlignBegin=222740|AlignEnd=222940|Gloss=eat
-14	di	di	DET	_	Definite=Def|PronType=Art	15	det	_	AlignBegin=222940|AlignEnd=223020|Gloss=DEF.ART
-15	soup	soup	NOUN	_	_	13	obj	_	AlignBegin=223020|AlignEnd=223520|Gloss=soup
-16	//	//	PUNCT	_	_	10	punct	_	AlignBegin=223520|AlignEnd=223520|Gloss=PUNCT
+1	all	all	DET	_	_	3	det	_	Gloss=all|WordAlignmentBegin=221020|WordAlignmentEnd=221150
+2	dis	dis	DET	_	Number=Sing|PronType=Dem	3	det	_	Gloss=SG.DEM|WordAlignmentBegin=221150|WordAlignmentEnd=221330
+3	people	people	NOUN	_	Number=Plur	10	dislocated	_	Gloss=people.PL|WordAlignmentBegin=221330|WordAlignmentEnd=221410
+4	wey	wey	SCONJ	_	_	5	mark	_	Gloss=REL|WordAlignmentBegin=221410|WordAlignmentEnd=221530
+5	dey	dey	AUX	_	Aspect=Imp	3	acl:relcl	_	Gloss=IPFV|WordAlignmentBegin=221530|WordAlignmentEnd=221660
+6	Niger	Niger	PROPN	_	ExtPos=PROPN	5	obj	_	Gloss=Niger|Title=Yes|WordAlignmentBegin=221660|WordAlignmentEnd=222010
+7	Delta	Delta	NOUN	_	_	6	flat	_	Gloss=Delta|InTitle=Yes|WordAlignmentBegin=222010|WordAlignmentEnd=222360
+8	<	<	PUNCT	_	_	3	punct	_	Gloss=PUNCT|WordAlignmentBegin=222360|WordAlignmentEnd=222360
+9	na	na	AUX	_	PartType=Cop	10	cop	_	Gloss=be.COP|WordAlignmentBegin=222360|WordAlignmentEnd=222470
+10	dem	dem	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	0	root	_	Gloss=NOM.PL.3|WordAlignmentBegin=222470|WordAlignmentEnd=222600
+11	>+	>+	PUNCT	_	_	13	punct	_	Gloss=PUNCT|WordAlignmentBegin=222600|WordAlignmentEnd=222600
+12	dey	dey	AUX	_	Aspect=Imp	13	aux	_	Gloss=IPFV|WordAlignmentBegin=222600|WordAlignmentEnd=222740
+13	chop	chop	VERB	_	_	10	advcl:cleft	_	Gloss=eat|WordAlignmentBegin=222740|WordAlignmentEnd=222940
+14	di	di	DET	_	Definite=Def|PronType=Art	15	det	_	Gloss=DEF.ART|WordAlignmentBegin=222940|WordAlignmentEnd=223020
+15	soup	soup	NOUN	_	_	13	obj	_	Gloss=soup|WordAlignmentBegin=223020|WordAlignmentEnd=223520
+16	//	//	PUNCT	_	_	10	punct	_	Gloss=PUNCT|WordAlignmentBegin=223520|WordAlignmentEnd=223520
 
 ~~~
 
@@ -75,15 +75,15 @@ The following 39 pairs of parts of speech are connected with `flat`: <tt><a href
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 8 flat	color:blue
-1	me	me	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	dislocated	_	AlignBegin=4628|AlignEnd=4849|Gloss=NOM.SG.1
-2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=4849|AlignEnd=4849|Gloss=PUNCT
-3	my	my	PRON	_	Number=Sing|Person=1|Poss=Yes	4	nmod:poss	_	AlignBegin=4849|AlignEnd=4990|Gloss=SG.1.POSS
-4	name	name	NOUN	_	_	5	nsubj	_	AlignBegin=4990|AlignEnd=5269|Gloss=name
-5	na	na	AUX	_	PartType=Cop	0	root	_	AlignBegin=5269|AlignEnd=5801|Gloss=be
-6	#	#	PUNCT	_	_	7	punct	_	AlignBegin=5801|AlignEnd=6138|Gloss=PUNCT
-7	Joseph	Joseph	PROPN	_	_	5	obj	_	AlignBegin=6138|AlignEnd=6710|Gloss=Joseph
-8	Aseginmba	Aseginmba	PROPN	_	_	7	flat	_	AlignBegin=6710|AlignEnd=7504|Gloss=Aseginmba
-9	//	//	PUNCT	_	_	5	punct	_	AlignBegin=7504|AlignEnd=7504|Gloss=PUNCT
+1	me	me	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	dislocated	_	Gloss=NOM.SG.1|WordAlignmentBegin=4628|WordAlignmentEnd=4849
+2	<	<	PUNCT	_	_	1	punct	_	Gloss=PUNCT|WordAlignmentBegin=4849|WordAlignmentEnd=4849
+3	my	my	PRON	_	Number=Sing|Person=1|Poss=Yes	4	nmod:poss	_	Gloss=SG.1.POSS|WordAlignmentBegin=4849|WordAlignmentEnd=4990
+4	name	name	NOUN	_	_	5	nsubj	_	Gloss=name|WordAlignmentBegin=4990|WordAlignmentEnd=5269
+5	na	na	AUX	_	PartType=Cop	0	root	_	Gloss=be|WordAlignmentBegin=5269|WordAlignmentEnd=5801
+6	#	#	PUNCT	_	_	7	punct	_	Gloss=PUNCT|WordAlignmentBegin=5801|WordAlignmentEnd=6138
+7	Joseph	Joseph	PROPN	_	_	5	obj	_	Gloss=Joseph|WordAlignmentBegin=6138|WordAlignmentEnd=6710
+8	Aseginmba	Aseginmba	PROPN	_	_	7	flat	_	Gloss=Aseginmba|WordAlignmentBegin=6710|WordAlignmentEnd=7504
+9	//	//	PUNCT	_	_	5	punct	_	Gloss=PUNCT|WordAlignmentBegin=7504|WordAlignmentEnd=7504
 
 ~~~
 

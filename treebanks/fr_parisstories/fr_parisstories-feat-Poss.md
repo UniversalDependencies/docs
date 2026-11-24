@@ -23,7 +23,7 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 `DET` tokens may have the following values of `Poss`:
 
 * `Yes` (466; 100% of non-empty `Poss`): <em>mon, ma, mes, son, ses, nos, sa, notre, leurs, leur</em>
-* `EMPTY` (3001): <em>le, la, un, les, une, l', des, cette, ce, du</em>
+* `EMPTY` (2989): <em>le, la, un, les, une, l', des, cette, ce, du</em>
 
 ## Relations with Agreement in `Poss`
 

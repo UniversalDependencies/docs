@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-84118 tokens (61%) have a non-empty value of `Number`.
+84117 tokens (61%) have a non-empty value of `Number`.
 8939 types (83%) occur at least once with a non-empty value of `Number`.
 7885 lemmas (82%) occur at least once with a non-empty value of `Number`.
-The feature is used with 14 part-of-speech tags: <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (32533; 24% instances), <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> (17035; 12% instances), <tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt> (10284; 7% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (8539; 6% instances), <tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt> (7972; 6% instances), <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> (4100; 3% instances), <tt><a href="ur_udtb-pos-DET.html">DET</a></tt> (1891; 1% instances), <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt> (1201; 1% instances), <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> (444; 0% instances), <tt><a href="ur_udtb-pos-NUM.html">NUM</a></tt> (59; 0% instances), <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> (46; 0% instances), <tt><a href="ur_udtb-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="ur_udtb-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="ur_udtb-pos-X.html">X</a></tt> (4; 0% instances).
+The feature is used with 14 part-of-speech tags: <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (32533; 24% instances), <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> (17034; 12% instances), <tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt> (10284; 7% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (8537; 6% instances), <tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt> (7974; 6% instances), <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> (4100; 3% instances), <tt><a href="ur_udtb-pos-DET.html">DET</a></tt> (1891; 1% instances), <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt> (1201; 1% instances), <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> (444; 0% instances), <tt><a href="ur_udtb-pos-NUM.html">NUM</a></tt> (59; 0% instances), <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> (46; 0% instances), <tt><a href="ur_udtb-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="ur_udtb-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="ur_udtb-pos-X.html">X</a></tt> (4; 0% instances).
 
 ### `NOUN`
 
@@ -36,15 +36,15 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 ### `PROPN`
 
-17035 <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> tokens (99% of all `PROPN` tokens) have a non-empty value of `Number`.
+17034 <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> tokens (99% of all `PROPN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt> (17024; 100%), <tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (16233; 95%), <tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (9919; 58%).
+The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt> (17023; 100%), <tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (16232; 95%), <tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (9918; 58%).
 
 `PROPN` tokens may have the following values of `Number`:
 
 * `Plur` (60; 0% of non-empty `Number`): مسلمانوں، طیاروں، تعلقات، خطابات، قائدین، گیمس، ہندوؤں، آسٹریلیا، آواکس، ارکان
-* `Sing` (16975; 100% of non-empty `Number`): پی، سی، آئی، ایس، کانگریس، بی، ہندوستان، ریڈی، اے، سنگھ
-* `EMPTY` (100): ریاستی، برائے، و، -، 27، 28، ایک، 09، 2009، 25
+* `Sing` (16974; 100% of non-empty `Number`): پی، سی، آئی، ایس، کانگریس، بی، ہندوستان، ریڈی، اے، سنگھ
+* `EMPTY` (97): ریاستی، برائے، و، -، 27، 28، ایک، 09، 2009، 25
 
 <table>
   <tr><th>Paradigm <i>حکومت</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -94,14 +94,14 @@ The most frequent other feature values with which `ADP` and `Number` co-occurred
 
 ### `VERB`
 
-8539 <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> tokens (67% of all `VERB` tokens) have a non-empty value of `Number`.
+8537 <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> tokens (67% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (8440; 99%), <tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6903; 81%), <tt><a href="ur_udtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (6810; 80%), <tt><a href="ur_udtb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (5668; 66%), <tt><a href="ur_udtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (5652; 66%), <tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (5630; 66%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (8438; 99%), <tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6903; 81%), <tt><a href="ur_udtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (6808; 80%), <tt><a href="ur_udtb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (5666; 66%), <tt><a href="ur_udtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (5652; 66%), <tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (5629; 66%).
 
 `VERB` tokens may have the following values of `Number`:
 
 * `Plur` (1510; 18% of non-empty `Number`): کرتے، کیے، ہوئے، کرنے، ہیں، کریں، رہے، چکے، ہےں، کئے
-* `Sing` (7029; 82% of non-empty `Number`): کیا، کہا، کی، دیا، ہے، دی، بتایا، کرتے، لیا، ہوا
+* `Sing` (7027; 82% of non-empty `Number`): کیا، کہا، کی، دیا، ہے، دی، بتایا، کرتے، لیا، ہوا
 * `EMPTY` (4156): کر، ہو، کرنے، ہونے، دینے، دے، رکھنے، آ، لے، بنانے
 
 <table>
@@ -190,14 +190,14 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `AUX`
 
-7972 <tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt> tokens (87% of all `AUX` tokens) have a non-empty value of `Number`.
+7974 <tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt> tokens (87% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="ur_udtb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (6810; 85%), <tt><a href="ur_udtb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (5082; 64%), <tt><a href="ur_udtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4942; 62%), <tt><a href="ur_udtb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4840; 61%), <tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt> (4719; 59%), <tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4052; 51%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="ur_udtb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (6812; 85%), <tt><a href="ur_udtb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (5082; 64%), <tt><a href="ur_udtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4942; 62%), <tt><a href="ur_udtb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4840; 61%), <tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt> (4721; 59%), <tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4053; 51%).
 
 `AUX` tokens may have the following values of `Number`:
 
 * `Plur` (2029; 25% of non-empty `Number`): ہیں، ہےں، ہوئے، گئے، رہے، تھے، گے، سکتے، سکے، جائے
-* `Sing` (5943; 75% of non-empty `Number`): ہے، گیا، تھا، ہوئے، گئی، تھی، رہی، رہا، ہیں، تھے
+* `Sing` (5945; 75% of non-empty `Number`): ہے، گیا، تھا، ہوئے، گئی، تھی، رہی، رہا، ہیں، تھے
 * `EMPTY` (1149): جا، کر، جانے، جائے، ہوئے، چاہیے، کے، تھا، چاہئے، چاہیئے
 
 <table>
@@ -246,7 +246,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 4100 <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> tokens (73% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="ur_udtb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (4024; 98%), <tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt> (3735; 91%), <tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3627; 88%), <tt><a href="ur_udtb-feat-Polite.html">Polite</a></tt><tt>=EMPTY</tt> (3369; 82%), <tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Acc</tt> (2134; 52%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="ur_udtb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (4066; 99%), <tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt> (3735; 91%), <tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3627; 88%), <tt><a href="ur_udtb-feat-Polite.html">Polite</a></tt><tt>=EMPTY</tt> (3369; 82%), <tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Acc</tt> (2134; 52%).
 
 `PRON` tokens may have the following values of `Number`:
 
@@ -256,39 +256,35 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 <table>
   <tr><th>Paradigm <i>وہ</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Acc,Dat</tt>|<tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ur_udtb-feat-Polite.html">Polite</a></tt><tt>=Form</tt>|<tt><a href="ur_udtb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td>انہیں, انہوں, انھیں, انھوں, اُنھیں</td><td></td></tr>
-  <tr><td><tt><tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Acc,Dat</tt>|<tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ur_udtb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td>انھیں</td><td>انھیں, انہیں</td></tr>
-  <tr><td><tt><tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Acc,Dat</tt>|<tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ur_udtb-feat-Polite.html">Polite</a></tt><tt>=Form</tt>|<tt><a href="ur_udtb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td>انہیں</td><td></td></tr>
-  <tr><td><tt><tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Acc,Dat</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ur_udtb-feat-Polite.html">Polite</a></tt><tt>=Form</tt>|<tt><a href="ur_udtb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td>انہیں, انھیں, انہوں, اُنھیں, انھوں, اُنھوں</td><td>انہوں</td></tr>
-  <tr><td><tt><tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Acc,Dat</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ur_udtb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td>انہیں, اُسے, انھیں, اسے, انہوں</td><td>انہیں, انھیں</td></tr>
-  <tr><td><tt><tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Acc,Dat</tt>|<tt><a href="ur_udtb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td>انہیں</td><td>انہیں, انھیں</td></tr>
-  <tr><td><tt><tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>اُس</td><td>اُن</td></tr>
-  <tr><td><tt><tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ur_udtb-feat-Polite.html">Polite</a></tt><tt>=Form</tt></tt></td><td>اُن, انہوں</td><td></td></tr>
-  <tr><td><tt><tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ur_udtb-feat-Polite.html">Polite</a></tt><tt>=Form</tt>|<tt><a href="ur_udtb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td>انہوں, اُنھوں, انھوں, ان</td><td>انہوں</td></tr>
-  <tr><td><tt><tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ur_udtb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td>اُس, انہوں, اُن</td><td>انہوں</td></tr>
-  <tr><td><tt><tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>اُس</td><td></td></tr>
-  <tr><td><tt><tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ur_udtb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td>ان</td></tr>
-  <tr><td><tt><tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>اُن</td><td></td></tr>
-  <tr><td><tt><tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ur_udtb-feat-Polite.html">Polite</a></tt><tt>=Form</tt>|<tt><a href="ur_udtb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td>انہوں, انھوں, ان, اُنھوں</td><td></td></tr>
-  <tr><td><tt><tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ur_udtb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td>اس, ان, انھوں, انہوں, اُس, وہ, اُنھوں, اُنھیں</td><td>ان, اُن, اس, انھوں, انہی, انہیں</td></tr>
-  <tr><td><tt><tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ur_udtb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt>|<tt><a href="ur_udtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>انہوں</td><td></td></tr>
-  <tr><td><tt><tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ur_udtb-feat-Polite.html">Polite</a></tt><tt>=Form</tt>|<tt><a href="ur_udtb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td>انھوں, اُنھیں</td><td></td></tr>
-  <tr><td><tt><tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ur_udtb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td>انہیں</td></tr>
-  <tr><td><tt><tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ur_udtb-feat-Polite.html">Polite</a></tt><tt>=Form</tt>|<tt><a href="ur_udtb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td>انھوں, ان, وہ, انہیں, انھیں, انہوں</td><td></td></tr>
-  <tr><td><tt><tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ur_udtb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td>وہ, ان, انھوں, اس, انہیں</td><td>وہ, ان</td></tr>
-  <tr><td><tt><tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ur_udtb-feat-Polite.html">Polite</a></tt><tt>=Form</tt>|<tt><a href="ur_udtb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td>انہوں</td><td></td></tr>
-  <tr><td><tt><tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ur_udtb-feat-Polite.html">Polite</a></tt><tt>=Form</tt>|<tt><a href="ur_udtb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td>انہوں</td><td></td></tr>
+  <tr><td><tt><tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Acc,Dat</tt>|<tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ur_udtb-feat-Polite.html">Polite</a></tt><tt>=Form</tt></tt></td><td>انہیں, انہوں, انھیں, انھوں, اُنھیں</td><td></td></tr>
+  <tr><td><tt><tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Acc,Dat</tt>|<tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>انھیں</td><td>انھیں, انہیں</td></tr>
+  <tr><td><tt><tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Acc,Dat</tt>|<tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ur_udtb-feat-Polite.html">Polite</a></tt><tt>=Form</tt></tt></td><td>انہیں</td><td></td></tr>
+  <tr><td><tt><tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Acc,Dat</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ur_udtb-feat-Polite.html">Polite</a></tt><tt>=Form</tt></tt></td><td>انہیں, انھیں, انہوں, اُنھیں, انھوں, اُنھوں</td><td>انہوں</td></tr>
+  <tr><td><tt><tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Acc,Dat</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>انہیں, اُسے, انھیں, اسے, انہوں</td><td>انہیں, انھیں</td></tr>
+  <tr><td><tt><tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Acc,Dat</tt></tt></td><td>انہیں</td><td>انہیں, انھیں</td></tr>
+  <tr><td><tt><tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ur_udtb-feat-Polite.html">Polite</a></tt><tt>=Form</tt></tt></td><td>انہوں, اُنھوں, انھوں, اُن, ان</td><td>انہوں</td></tr>
+  <tr><td><tt><tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>اُس, انہوں, اُن</td><td>انہوں, اُن</td></tr>
+  <tr><td><tt><tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>اُس</td><td>ان</td></tr>
+  <tr><td><tt><tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ur_udtb-feat-Polite.html">Polite</a></tt><tt>=Form</tt></tt></td><td>انہوں, انھوں, ان, اُنھوں</td><td></td></tr>
+  <tr><td><tt><tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>اس, ان, انھوں, انہوں, اُس, وہ, اُن, اُنھوں, اُنھیں</td><td>ان, اُن, اس, انھوں, انہی, انہیں</td></tr>
+  <tr><td><tt><tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ur_udtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>انہوں</td><td></td></tr>
+  <tr><td><tt><tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ur_udtb-feat-Polite.html">Polite</a></tt><tt>=Form</tt></tt></td><td>انھوں, اُنھیں</td><td></td></tr>
+  <tr><td><tt><tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td>انہیں</td></tr>
+  <tr><td><tt><tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ur_udtb-feat-Polite.html">Polite</a></tt><tt>=Form</tt></tt></td><td>انھوں, ان, وہ, انہیں, انھیں, انہوں</td><td></td></tr>
+  <tr><td><tt><tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>وہ, ان, انھوں, اس, انہیں</td><td>وہ, ان</td></tr>
+  <tr><td><tt><tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ur_udtb-feat-Polite.html">Polite</a></tt><tt>=Form</tt></tt></td><td>انہوں</td><td></td></tr>
+  <tr><td><tt><tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ur_udtb-feat-Polite.html">Polite</a></tt><tt>=Form</tt></tt></td><td>انہوں</td><td></td></tr>
 </table>
 
 ### `DET`
 
 1891 <tt><a href="ur_udtb-pos-DET.html">DET</a></tt> tokens (76% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="ur_udtb-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (1822; 96%), <tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt> (1774; 94%), <tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Acc</tt> (1021; 54%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="ur_udtb-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (1833; 97%), <tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt> (1774; 94%), <tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Acc</tt> (1021; 54%).
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (213; 11% of non-empty `Number`): ان، یہ، جن، ایسے، اُن، اتنے، ایسی، سارے، ہم، اس
+* `Plur` (213; 11% of non-empty `Number`): ان، یہ، جن، ایسے، اُن، ایسی، سارے، ہم، اتنے، اس
 * `Sing` (1678; 89% of non-empty `Number`): اس، یہ، ایسے، کوئی، اسی، وہ، جو، ان، ایسا، جس
 * `EMPTY` (605): کئی، تمام، کچھ، ہر، چند، بعض، کم، دیگر، زیادہ، اسی
 
@@ -366,7 +362,7 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 * `Plur` (31; 53% of non-empty `Number`): دونوں، تینوں، ہزاروں، چاروں، درجنوں، سینکڑوں، لاکھوں، کروڑوں
 * `Sing` (28; 47% of non-empty `Number`): ایک، کروڑ، ہزار، 30، اےک، لاکھ، 02، 101، 29، آدھ
-* `EMPTY` (2402): اےک، ایک، دو، تین، دونوں، لاکھ، چار، ہزار، پانچ، کروڑ
+* `EMPTY` (2404): اےک، ایک، دو، تین، دونوں، لاکھ، چار، ہزار، پانچ، کروڑ
 
 <table>
   <tr><th>Paradigm <i>لاکھ</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -400,7 +396,7 @@ The most frequent other feature values with which `PART` and `Number` co-occurre
 `CCONJ` tokens may have the following values of `Number`:
 
 * `Sing` (6; 100% of non-empty `Number`): و، آیا، اور، تاہم
-* `EMPTY` (3242): اور، و، لیکن، جبکہ، تاہم، یا، مگر، نیز، لہذا، آیا
+* `EMPTY` (3243): اور، و، لیکن، جبکہ، تاہم، یا، مگر، نیز، لہذا، آیا
 
 ### `SCONJ`
 
@@ -426,14 +422,14 @@ The most frequent other feature values with which `X` and `Number` co-occurred: 
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>PROPN --[<tt><a href="ur_udtb-dep-compound.html">compound</a></tt>]--> PROPN</tt> (8008; 98%),
-<tt>NOUN --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (4405; 69%),
-<tt>VERB --[<tt><a href="ur_udtb-dep-aux.html">aux</a></tt>]--> AUX</tt> (4138; 56%),
-<tt>VERB --[<tt><a href="ur_udtb-dep-compound.html">compound</a></tt>]--> NOUN</tt> (2508; 55%),
-<tt>NOUN --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (2429; 83%),
+<tt>PROPN --[<tt><a href="ur_udtb-dep-compound.html">compound</a></tt>]--> PROPN</tt> (8009; 98%),
+<tt>NOUN --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (4457; 69%),
+<tt>VERB --[<tt><a href="ur_udtb-dep-aux.html">aux</a></tt>]--> AUX</tt> (4139; 56%),
+<tt>VERB --[<tt><a href="ur_udtb-dep-compound.html">compound</a></tt>]--> NOUN</tt> (2510; 55%),
+<tt>NOUN --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (2450; 83%),
 <tt>NOUN --[<tt><a href="ur_udtb-dep-compound.html">compound</a></tt>]--> NOUN</tt> (1974; 86%),
 <tt>NOUN --[<tt><a href="ur_udtb-dep-det.html">det</a></tt>]--> DET</tt> (1689; 72%),
-<tt>VERB --[<tt><a href="ur_udtb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1422; 51%),
-<tt>PROPN --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1262; 95%),
-<tt>VERB --[<tt><a href="ur_udtb-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (1246; 73%).
+<tt>VERB --[<tt><a href="ur_udtb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1408; 51%),
+<tt>PROPN --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1267; 95%),
+<tt>VERB --[<tt><a href="ur_udtb-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (1240; 73%).
 

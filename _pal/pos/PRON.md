@@ -35,4 +35,4 @@ Relative pronouns, which are identical with interrogative pronouns except for _�
 ### Border cases
 Pronouns tend to appear in fixed expressions that can lexicalize as pronominal [adverbs](ADV), cf. _<b>ēd</b> rāy_ "because of this" or "therefor", cf. the fused variant _zīrā_ in New Persian from _az ēd rāy_. _<b>aziš</b>_ as "from it" or "therefrom".
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:37 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:28 CET -->

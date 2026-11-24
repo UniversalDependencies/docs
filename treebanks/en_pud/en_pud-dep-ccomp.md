@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-178 nodes (1%) are attached to their parents as `ccomp`.
+172 nodes (1%) are attached to their parents as `ccomp`.
 
-132 instances of `ccomp` (74%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.97191011235955.
+126 instances of `ccomp` (73%) are left-to-right (parent precedes child).
+Average distance between parent and child is 8.13372093023256.
 
-The following 9 pairs of parts of speech are connected with `ccomp`: <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (123; 69% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (21; 12% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (16; 9% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (8; 4% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (5; 3% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (1; 1% instances).
+The following 9 pairs of parts of speech are connected with `ccomp`: <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (122; 71% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (21; 12% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (15; 9% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (7; 4% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -27,9 +27,9 @@ The following 9 pairs of parts of speech are connected with `ccomp`: <tt><a href
 3	not	not	PART	RB	Polarity=Neg	2	advmod	2:advmod	_
 4	what	what	PRON	WP	PronType=Int	6	obj	6:obj	_
 5	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	6:nsubj	_
-6	need	need	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	ccomp	2:ccomp	_
+6	need	need	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	ccomp	2:ccomp	_
 7	in	in	ADP	IN	_	9	case	9:case	_
-8	our	our	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	9	nmod:poss	9:nmod:poss	_
+8	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	9	nmod:poss	9:nmod:poss	_
 9	country	country	NOUN	NN	Number=Sing	6	obl	6:obl:in	SpaceAfter=No
 10	,	,	PUNCT	,	_	2	punct	2:punct	_
 11	folks	folk	NOUN	NNS	Number=Plur	2	vocative	2:vocative	SpaceAfter=No
@@ -47,7 +47,7 @@ The following 9 pairs of parts of speech are connected with `ccomp`: <tt><a href
 1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
 2	CGI	CGI	PROPN	NNP	Abbr=Yes|Number=Sing	3	compound	3:compound	_
 3	Mestre	Mestre	PROPN	NNP	Number=Sing	5	nsubj	5:nsubj	_
-4	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	5:aux	_
+4	have	have	AUX	VBP	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	5	aux	5:aux	_
 5	stated	state	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
 6	in	in	ADP	IN	_	8	case	8:case	_
 7	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	8:det	_
@@ -79,14 +79,14 @@ The following 9 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 10 13 ccomp	color:blue
 1	"	"	PUNCT	``	_	4	punct	4:punct	SpaceAfter=No
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
-3	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	4:aux	_
+3	'm	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	4:aux	_
 4	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	_
 5	to	to	ADP	IN	_	6	case	6:case	_
 6	jail	jail	NOUN	NN	Number=Sing	4	obl	4:obl:to	_
 7	either	either	DET	DT	PronType=Ind	8	det	8:det	_
 8	way	way	NOUN	NN	Number=Sing	4	obl:unmarked	4:obl:unmarked	SpaceAfter=No
 9	,	,	PUNCT	,	_	4	punct	4:punct	_
-10	hope	hope	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	parataxis	4:parataxis	_
+10	hope	hope	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	parataxis	4:parataxis	_
 11	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	nsubj	13:nsubj	_
 12	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	cop	13:cop	_
 13	worth	worth	ADJ	JJ	Degree=Pos	10	ccomp	10:ccomp	_

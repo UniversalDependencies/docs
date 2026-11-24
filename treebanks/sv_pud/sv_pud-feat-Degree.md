@@ -9,16 +9,16 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
-1769 tokens (9%) have a non-empty value of `Degree`.
-1041 types (17%) occur at least once with a non-empty value of `Degree`.
+1768 tokens (9%) have a non-empty value of `Degree`.
+1040 types (17%) occur at least once with a non-empty value of `Degree`.
 834 lemmas (17%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 3 part-of-speech tags: <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (1513; 8% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (249; 1% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (7; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (1513; 8% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (248; 1% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (7; 0% instances).
 
 ### `ADJ`
 
 1513 <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> tokens (97% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="sv_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1499; 99%), <tt><a href="sv_pud-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (1293; 85%), <tt><a href="sv_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1293; 85%), <tt><a href="sv_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1039; 69%), <tt><a href="sv_pud-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (798; 53%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="sv_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1499; 99%), <tt><a href="sv_pud-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (1293; 85%), <tt><a href="sv_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1293; 85%), <tt><a href="sv_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1039; 69%), <tt><a href="sv_pud-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (796; 53%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
@@ -33,25 +33,25 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
   <tr><td><tt><tt><a href="sv_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>många</em></td><td><em>flera, fler</em></td><td></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADJ`. 97% lemmas (718) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADJ`. 97% lemmas (720) occur only with one value of `Degree`.
 
 ### `ADV`
 
-249 <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> tokens (25% of all `ADV` tokens) have a non-empty value of `Degree`.
+248 <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> tokens (25% of all `ADV` tokens) have a non-empty value of `Degree`.
 
 `ADV` tokens may have the following values of `Degree`:
 
-* `Cmp` (57; 23% of non-empty `Degree`): <em>mer, senare, tidigare, längre, mindre, bättre, hellre, snarare, närmare, vidare</em>
-* `Pos` (168; 67% of non-empty `Degree`): <em>helt, ofta, väldigt, djupt, långt, mycket, väl, faktiskt, snart, direkt</em>
+* `Cmp` (56; 23% of non-empty `Degree`): <em>mer, senare, tidigare, längre, mindre, bättre, hellre, snarare, närmare, ytterligare</em>
+* `Pos` (168; 68% of non-empty `Degree`): <em>helt, ofta, väldigt, djupt, långt, mycket, väl, faktiskt, snart, direkt</em>
 * `Sup` (24; 10% of non-empty `Degree`): <em>mest, främst, värst, Minst, helst, sist, ytterst, knappast</em>
-* `EMPTY` (741): <em>så, in, ut, där, också, bara, upp, fram, här, även</em>
+* `EMPTY` (742): <em>så, in, ut, där, också, bara, upp, fram, här, även</em>
 
 <table>
   <tr><th>Paradigm <i>mycket</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
   <tr><td><tt></tt></td><td><em>mycket</em></td><td><em>mer</em></td><td><em>mest</em></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADV`. 92% lemmas (93) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADV`. 92% lemmas (92) occur only with one value of `Degree`.
 
 ### `VERB`
 

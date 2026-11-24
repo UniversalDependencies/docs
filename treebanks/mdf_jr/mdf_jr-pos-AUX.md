@@ -36,7 +36,7 @@ The 10 most frequent ambiguous types:  <em>аф</em> (<tt><a href="mdf_jr-pos-AU
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 4.444444 (the average of all parts of speech is 1.563574).
+The form / lemma ratio of `AUX` is 4.444444 (the average of all parts of speech is 1.563961).
 
 The 1st highest number of forms (15) was observed with the lemma “аф”: <em>Афи, апак, аф, афолензе, афолеть, афоль, ашезь, ашень, ашесть, ашеть, изь, исть, тяк, тят, тята</em>.
 
@@ -44,9 +44,9 @@ The 2nd highest number of forms (9) was observed with the lemma “улемс”
 
 The 3rd highest number of forms (7) was observed with the lemma “аш”: <em>аш, ашезе, ашезь, ашель, ашельхть, ашень, ашесть</em>.
 
-`AUX` occurs with 14 features: <tt><a href="mdf_jr-feat-Polarity.html">Polarity</a></tt> (133; 76% instances), <tt><a href="mdf_jr-feat-VerbType.html">VerbType</a></tt> (110; 63% instances), <tt><a href="mdf_jr-feat-Mood.html">Mood</a></tt> (74; 43% instances), <tt><a href="mdf_jr-feat-Number-subj.html">Number[subj]</a></tt> (72; 41% instances), <tt><a href="mdf_jr-feat-Person-subj.html">Person[subj]</a></tt> (72; 41% instances), <tt><a href="mdf_jr-feat-VerbForm.html">VerbForm</a></tt> (63; 36% instances), <tt><a href="mdf_jr-feat-Tense.html">Tense</a></tt> (52; 30% instances), <tt><a href="mdf_jr-feat-Number-obj.html">Number[obj]</a></tt> (4; 2% instances), <tt><a href="mdf_jr-feat-PartForm.html">PartForm</a></tt> (4; 2% instances), <tt><a href="mdf_jr-feat-Person-obj.html">Person[obj]</a></tt> (4; 2% instances), <tt><a href="mdf_jr-feat-Derivation.html">Derivation</a></tt> (3; 2% instances), <tt><a href="mdf_jr-feat-Case.html">Case</a></tt> (2; 1% instances), <tt><a href="mdf_jr-feat-ExtPos.html">ExtPos</a></tt> (2; 1% instances), <tt><a href="mdf_jr-feat-Clitic.html">Clitic</a></tt> (1; 1% instances)
+`AUX` occurs with 14 features: <tt><a href="mdf_jr-feat-Polarity.html">Polarity</a></tt> (133; 76% instances), <tt><a href="mdf_jr-feat-VerbType.html">VerbType</a></tt> (110; 63% instances), <tt><a href="mdf_jr-feat-Mood.html">Mood</a></tt> (74; 43% instances), <tt><a href="mdf_jr-feat-Number-subj.html">Number[subj]</a></tt> (72; 41% instances), <tt><a href="mdf_jr-feat-Person-subj.html">Person[subj]</a></tt> (72; 41% instances), <tt><a href="mdf_jr-feat-VerbForm.html">VerbForm</a></tt> (63; 36% instances), <tt><a href="mdf_jr-feat-Tense.html">Tense</a></tt> (52; 30% instances), <tt><a href="mdf_jr-feat-ConjType.html">ConjType</a></tt> (4; 2% instances), <tt><a href="mdf_jr-feat-Number-obj.html">Number[obj]</a></tt> (4; 2% instances), <tt><a href="mdf_jr-feat-PartForm.html">PartForm</a></tt> (4; 2% instances), <tt><a href="mdf_jr-feat-Person-obj.html">Person[obj]</a></tt> (4; 2% instances), <tt><a href="mdf_jr-feat-Case.html">Case</a></tt> (2; 1% instances), <tt><a href="mdf_jr-feat-ExtPos.html">ExtPos</a></tt> (2; 1% instances), <tt><a href="mdf_jr-feat-Clitic.html">Clitic</a></tt> (1; 1% instances)
 
-`AUX` occurs with 27 feature-value pairs: `Case=Loc`, `Clitic=I`, `Derivation=Cond`, `ExtPos=CCONJ`, `ExtPos=DET`, `Mood=Cnd`, `Mood=Imp`, `Mood=Ind`, `Mood=NegCndSub`, `Mood=Opt`, `Mood=Prec`, `Mood=Sub`, `Number[obj]=Sing`, `Number[subj]=Plur`, `Number[subj]=Sing`, `PartForm=NegConvPrc`, `Person[obj]=2`, `Person[obj]=3`, `Person[subj]=1`, `Person[subj]=2`, `Person[subj]=3`, `Polarity=Neg`, `Tense=Past`, `Tense=Pres`, `VerbForm=Conv,Part`, `VerbForm=Fin`, `VerbType=Aux`
+`AUX` occurs with 25 feature-value pairs: `Case=Loc`, `Clitic=I`, `ConjType=Cnd`, `ExtPos=CCONJ`, `ExtPos=DET`, `Mood=Cnd`, `Mood=Imp`, `Mood=Ind`, `Mood=Opt`, `Mood=Prec`, `Number[obj]=Sing`, `Number[subj]=Plur`, `Number[subj]=Sing`, `PartForm=NegConvPrc`, `Person[obj]=2`, `Person[obj]=3`, `Person[subj]=1`, `Person[subj]=2`, `Person[subj]=3`, `Polarity=Neg`, `Tense=Past`, `Tense=Pres`, `VerbForm=Conv,Part`, `VerbForm=Fin`, `VerbType=Aux`
 
 `AUX` occurs with 40 feature combinations.
 The most frequent feature combination is `Polarity=Neg|VerbType=Aux` (73 tokens).
@@ -55,7 +55,7 @@ Examples: <em>аф</em>
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 8 different relations: <tt><a href="mdf_jr-dep-aux.html">aux</a></tt> (100; 57% instances), <tt><a href="mdf_jr-dep-aux-neg.html">aux:neg</a></tt> (43; 25% instances), <tt><a href="mdf_jr-dep-cop.html">cop</a></tt> (20; 11% instances), <tt><a href="mdf_jr-dep-conj.html">conj</a></tt> (4; 2% instances), <tt><a href="mdf_jr-dep-aux-opt.html">aux:opt</a></tt> (3; 2% instances), <tt><a href="mdf_jr-dep-fixed.html">fixed</a></tt> (2; 1% instances), <tt><a href="mdf_jr-dep-cc-preconj.html">cc:preconj</a></tt> (1; 1% instances), <tt><a href="mdf_jr-dep-det.html">det</a></tt> (1; 1% instances)
+`AUX` nodes are attached to their parents using 8 different relations: <tt><a href="mdf_jr-dep-aux-neg.html">aux:neg</a></tt> (114; 66% instances), <tt><a href="mdf_jr-dep-aux.html">aux</a></tt> (29; 17% instances), <tt><a href="mdf_jr-dep-cop.html">cop</a></tt> (20; 11% instances), <tt><a href="mdf_jr-dep-conj.html">conj</a></tt> (4; 2% instances), <tt><a href="mdf_jr-dep-aux-opt.html">aux:opt</a></tt> (3; 2% instances), <tt><a href="mdf_jr-dep-fixed.html">fixed</a></tt> (2; 1% instances), <tt><a href="mdf_jr-dep-cc-preconj.html">cc:preconj</a></tt> (1; 1% instances), <tt><a href="mdf_jr-dep-det.html">det</a></tt> (1; 1% instances)
 
 Parents of `AUX` nodes belong to 7 different parts of speech: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (114; 66% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (20; 11% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (16; 9% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (13; 7% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (5; 3% instances), <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> (4; 2% instances), <tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances)
 

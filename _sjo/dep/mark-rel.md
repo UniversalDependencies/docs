@@ -13,4 +13,4 @@ compound(ᠠᡞᠰᡞᠨ︐ ᡤᡠ)
 mark:rel(ᠠᡞᠰᡞᠨ︐ ᡞ᠋)
 nmod(ᡤᡞᠰᡠᠨ︐ ᠠᡞᠰᡞᠨ)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:15 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:51 CET -->

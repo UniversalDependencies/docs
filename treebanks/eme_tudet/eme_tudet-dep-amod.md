@@ -37,7 +37,7 @@ The following 2 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 1 2 amod	color:blue
 1	takuruũwĩ	takuru	NOUN	n	Degree=Dim	4	obl	_	_
 2	otuiomãʔẽ	tui	VERB	v	Aspect=Cont|Person=3|VerbForm=Ger	1	amod	_	_
-3	rehe	ehe	ADP	posp	Rel=Cont	1	obl	_	_
+3	rehe	ehe	ADP	posp	Rel=Cont	1	nmod	_	_
 4	owur	wur	VERB	v	Person=3	0	root	_	_
 
 ~~~

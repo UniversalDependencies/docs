@@ -9,26 +9,26 @@ udver: '2'
 This feature is universal but the values `Conv`, `Vnoun` are language-specific.
 It occurs with 6 different values: `Conv`, `Fin`, `Ger`, `Inf`, `Part`, `Vnoun`.
 
-827 tokens (27%) have a non-empty value of `VerbForm`.
-355 types (45%) occur at least once with a non-empty value of `VerbForm`.
-175 lemmas (33%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (664; 22% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (163; 5% instances).
+833 tokens (27%) have a non-empty value of `VerbForm`.
+358 types (43%) occur at least once with a non-empty value of `VerbForm`.
+178 lemmas (32%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 2 part-of-speech tags: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (668; 21% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (165; 5% instances).
 
 ### `VERB`
 
-664 <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> tokens (98% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+668 <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> tokens (97% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (512; 77%), <tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=3</tt> (461; 69%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (450; 68%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (514; 77%), <tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=3</tt> (463; 69%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (453; 68%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Conv` (1; 0% of non-empty `VerbForm`): <em>väʹʒʒeeʹl</em>
-* `Fin` (573; 86% of non-empty `VerbForm`): <em>ceälkk, mõõni, puõʹđi, šõõddi, vaaʹldi, jälste, ǩieʹzzi, leäi, lij, vuõʹlji</em>
+* `Fin` (576; 86% of non-empty `VerbForm`): <em>ceälkk, mõõni, puõʹđi, šõõddi, vaaʹldi, jälste, ǩieʹzzi, leäi, lij, vuõʹlji</em>
 * `Ger` (1; 0% of non-empty `VerbForm`): <em>vaʹlljeeǩâni</em>
 * `Inf` (51; 8% of non-empty `VerbForm`): <em>jieʹlled, kooǯǯted, väʹldded, hiâvted, jååʹtted, mõõnnâd, mainsted, njuiʹǩǩeed, ǩiččâd, jälsted</em>
 * `Part` (37; 6% of non-empty `VerbForm`): <em>välddam, teâđstam, kaunnâm, košklõõvvâm, koǯstam, koǯǯâm, vuäittam, čõnnum, šõddâm, hoʹhssjam</em>
-* `Vnoun` (1; 0% of non-empty `VerbForm`): <em>puälddmõõžž</em>
-* `EMPTY` (12): <em>vueʹtǩǩmen, håiddmen, jieʹllmen, jååʹttmen, pieʹrǧǧe, puäʹđ, viikkmen, älgg, õõk, čååǥǥâʹttmen</em>
+* `Vnoun` (2; 0% of non-empty `VerbForm`): <em>altteem, puälddmõõžž</em>
+* `EMPTY` (18): <em>vueʹtǩǩmen, alttad, håiddmen, jieʹllmen, juâtkkum, jååʹttmen, kååččat, kåččad, pieʹrǧǧe, piijjâm</em>
 
 <table>
   <tr><th>Paradigm <i>mõõnnâd</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>
@@ -45,16 +45,16 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-163 <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> tokens (96% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+165 <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> tokens (95% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (153; 94%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (124; 76%), <tt><a href="sms_giellagas-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (113; 69%), <tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=3</tt> (98; 60%), <tt><a href="sms_giellagas-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (83; 51%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (155; 94%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (126; 76%), <tt><a href="sms_giellagas-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (115; 70%), <tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=3</tt> (100; 61%), <tt><a href="sms_giellagas-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (85; 52%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Fin` (159; 98% of non-empty `VerbForm`): <em>lij, ij, leäi, jiõk, liâ, õõk, jiõm, õõlǥ, leäk, leäkku</em>
+* `Fin` (161; 98% of non-empty `VerbForm`): <em>lij, ij, leäi, jiõk, liâ, õõk, jiõm, õõlǥ, leäk, leäkku</em>
 * `Inf` (2; 1% of non-empty `VerbForm`): <em>leeʹd</em>
 * `Part` (2; 1% of non-empty `VerbForm`): <em>leämmaž, õlggâm</em>
-* `EMPTY` (7): <em>i-ǥõl, Ij-ǥo, Jiõm, jeäʹla, õõk</em>
+* `EMPTY` (9): <em>i-ǥõl, Ij-ǥo, Jiõm, ij, jeäʹla, lij, õõk</em>
 
 <table>
   <tr><th>Paradigm <i>leeʹd</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>
@@ -82,8 +82,8 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<tt><a href="sms_giellagas-dep-conj.html">conj</a></tt>]--> VERB</tt> (272; 93%),
-<tt>VERB --[<tt><a href="sms_giellagas-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (25; 63%),
-<tt>VERB --[<tt><a href="sms_giellagas-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (14; 67%),
+<tt>VERB --[<tt><a href="sms_giellagas-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (25; 60%),
+<tt>VERB --[<tt><a href="sms_giellagas-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (14; 64%),
 <tt>VERB --[<tt><a href="sms_giellagas-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (11; 85%),
 <tt>VERB --[<tt><a href="sms_giellagas-dep-conj.html">conj</a></tt>]--> AUX</tt> (6; 100%),
 <tt>AUX --[<tt><a href="sms_giellagas-dep-conj.html">conj</a></tt>]--> AUX</tt> (4; 100%),

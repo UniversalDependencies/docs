@@ -9,16 +9,16 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fem`, `Masc`, `Neut`.
 
-66441 tokens (48%) have a non-empty value of `Gender`.
+66440 tokens (48%) have a non-empty value of `Gender`.
 20762 types (80%) occur at least once with a non-empty value of `Gender`.
-7669 lemmas (81%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 8 part-of-speech tags: <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (27188; 20% instances), <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (9866; 7% instances), <tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt> (9802; 7% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> (8889; 6% instances), <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (6116; 4% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (3741; 3% instances), <tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (561; 0% instances), <tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (278; 0% instances).
+7670 lemmas (81%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 8 part-of-speech tags: <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (27188; 20% instances), <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (9866; 7% instances), <tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt> (9802; 7% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> (8889; 6% instances), <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (6115; 4% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (3741; 3% instances), <tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (561; 0% instances), <tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (278; 0% instances).
 
 ### `NOUN`
 
 27188 <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Sing</tt> (19125; 70%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Sing</tt> (19124; 70%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
@@ -37,7 +37,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
   <tr><td><tt><tt><a href="orv_ruthenian-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>зра(и)ца, зра(й)ца</em></td><td><em>зра(и)ца, зра(й)ца</em></td><td></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 99% lemmas (2379) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 99% lemmas (2380) occur only with one value of `Gender`.
 
 ### `PROPN`
 
@@ -131,15 +131,15 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 ### `PRON`
 
-6116 <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> tokens (67% of all `PRON` tokens) have a non-empty value of `Gender`.
+6115 <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> tokens (67% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4877; 80%), <tt><a href="orv_ruthenian-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3325; 54%), <tt><a href="orv_ruthenian-feat-Person.html">Person</a></tt><tt>=3</tt> (3322; 54%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4876; 80%), <tt><a href="orv_ruthenian-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3325; 54%), <tt><a href="orv_ruthenian-feat-Person.html">Person</a></tt><tt>=3</tt> (3322; 54%).
 
 `PRON` tokens may have the following values of `Gender`:
 
 * `Fem` (174; 3% of non-empty `Gender`): <em>ее, ѡна, єи, еи, є(и), нее, неи, них, єє, е(й)</em>
 * `Masc` (3560; 58% of non-empty `Gender`): <em>его, их, ему, ихъ, имъ, хто, ѡни, емꙋ, єго, им</em>
-* `Neut` (2382; 39% of non-empty `Gender`): <em>то, што, того, том, томъ, що, тому, тым, томꙋ, тымъ</em>
+* `Neut` (2381; 39% of non-empty `Gender`): <em>то, што, того, том, томъ, що, тому, тым, томꙋ, тымъ</em>
 * `EMPTY` (2955): <em>мы, намъ, нами, нам, нас, сѧ, я, (м)ною, насъ, мнѣ</em>
 
 <table>
@@ -165,7 +165,7 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 * `Fem` (490; 13% of non-empty `Gender`): <em>стала, приточиласѧ, при(з)нала, была, записала, прєкладала, мѣла, приточилася, мовила, писана</em>
 * `Masc` (2783; 74% of non-empty `Gender`): <em>псан, дал, далъ, бил, жаловал, билъ, кꙋпил, поведил, мѣлъ, держалъ</em>
 * `Neut` (468; 13% of non-empty `Gender`): <em>записано, было, стало, дано, выписано, бывало, писано, писаные, показало, заплачено</em>
-* `EMPTY` (8043): <em>дали, казали, мають, мают(ь), маеть, держати, послали, записа(т), дати, питали</em>
+* `EMPTY` (8044): <em>дали, казали, мають, мают(ь), маеть, держати, послали, записа(т), дати, питали</em>
 
 <table>
   <tr><th>Paradigm <i>дати</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -222,7 +222,7 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 * `Fem` (28; 10% of non-empty `Gender`): <em>была</em>
 * `Masc` (143; 51% of non-empty `Gender`): <em>был, былъ, бы(л), будучи(х), будучие, будущіи, бывъши(м), бывъшого</em>
 * `Neut` (107; 38% of non-empty `Gender`): <em>было</em>
-* `EMPTY` (1890): <em>есмо, бы, были, быти, будучи, есми, есте, есть, бꙋдеть, будеть</em>
+* `EMPTY` (1889): <em>есмо, бы, были, быти, будучи, есми, есте, есть, бꙋдеть, будеть</em>
 
 <table>
   <tr><th>Paradigm <i>быти</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -237,12 +237,12 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="orv_ruthenian-dep-det.html">det</a></tt>]--> DET</tt> (7625; 100%),
-<tt>NOUN --[<tt><a href="orv_ruthenian-dep-amod.html">amod</a></tt>]--> ADJ</tt> (6711; 99%),
-<tt>NOUN --[<tt><a href="orv_ruthenian-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2709; 65%),
+<tt>NOUN --[<tt><a href="orv_ruthenian-dep-det.html">det</a></tt>]--> DET</tt> (7626; 100%),
+<tt>NOUN --[<tt><a href="orv_ruthenian-dep-amod.html">amod</a></tt>]--> ADJ</tt> (6712; 99%),
+<tt>NOUN --[<tt><a href="orv_ruthenian-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2708; 65%),
 <tt>PROPN --[<tt><a href="orv_ruthenian-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (2325; 99%),
 <tt>NOUN --[<tt><a href="orv_ruthenian-dep-appos.html">appos</a></tt>]--> PROPN</tt> (1977; 90%),
-<tt>NOUN --[<tt><a href="orv_ruthenian-dep-appos.html">appos</a></tt>]--> NOUN</tt> (1541; 76%),
+<tt>NOUN --[<tt><a href="orv_ruthenian-dep-appos.html">appos</a></tt>]--> NOUN</tt> (1542; 76%),
 <tt>PROPN --[<tt><a href="orv_ruthenian-dep-conj.html">conj</a></tt>]--> PROPN</tt> (1190; 93%),
 <tt>PROPN --[<tt><a href="orv_ruthenian-dep-appos.html">appos</a></tt>]--> NOUN</tt> (765; 90%),
 <tt>VERB --[<tt><a href="orv_ruthenian-dep-conj.html">conj</a></tt>]--> VERB</tt> (525; 50%),

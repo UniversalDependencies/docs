@@ -46,6 +46,7 @@ The most frequent other feature values with which `PROPN` and `NameType` co-occu
 The 10 most frequent relations where parent and child node agree in `NameType`:
 <tt>PROPN --[<tt><a href="orv_ruthenian-dep-conj.html">conj</a></tt>]--> PROPN</tt> (1139; 89%),
 <tt>PROPN --[<tt><a href="orv_ruthenian-dep-appos.html">appos</a></tt>]--> PROPN</tt> (16; 55%),
+<tt>PROPN --[<tt><a href="orv_ruthenian-dep-obl.html">obl</a></tt>]--> PROPN</tt> (2; 67%),
 <tt>PROPN --[<tt><a href="orv_ruthenian-dep-reparandum.html">reparandum</a></tt>]--> PROPN</tt> (2; 100%),
 <tt>PROPN --[<tt><a href="orv_ruthenian-dep-dep.html">dep</a></tt>]--> PROPN</tt> (1; 100%),
 <tt>PROPN --[<tt><a href="orv_ruthenian-dep-iobj.html">iobj</a></tt>]--> PROPN</tt> (1; 100%).

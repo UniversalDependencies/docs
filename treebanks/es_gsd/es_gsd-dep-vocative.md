@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2 nodes (0%) are attached to their parents as `vocative`.
+3 nodes (0%) are attached to their parents as `vocative`.
 
-2 instances of `vocative` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.5.
+2 instances of `vocative` (67%) are left-to-right (parent precedes child).
+Average distance between parent and child is 8.
 
-The following 2 pairs of parts of speech are connected with `vocative`: <tt><a href="es_gsd-pos-INTJ.html">INTJ</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (1; 50% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (1; 50% instances).
+The following 3 pairs of parts of speech are connected with `vocative`: <tt><a href="es_gsd-pos-INTJ.html">INTJ</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (1; 33% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (1; 33% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (1; 33% instances).
 
 
 ~~~ conllu
@@ -99,6 +99,50 @@ The following 2 pairs of parts of speech are connected with `vocative`: <tt><a h
 51	Helena	Helena	PROPN	_	_	42	conj	_	SpaceAfter=No
 52	"	"	PUNCT	_	PunctType=Quot	51	punct	_	SpaceAfter=No
 53	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 26	bgColor:blue
+# visual-style 26	fgColor:white
+# visual-style 26 9 vocative	color:blue
+1	"	"	PUNCT	_	PunctType=Quot	26	punct	_	SpaceAfter=No
+2	A	a	ADP	_	_	4	case	_	_
+3	esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	4	det	_	_
+4	revolución	revolución	NOUN	_	Gender=Fem|Number=Sing	26	dislocated	_	_
+5	ciudadana	ciudadano	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	SpaceAfter=No
+6	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+7	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+8	querido	querido	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	9	amod	_	_
+9	Evo	Evo	PROPN	_	_	26	vocative	_	SpaceAfter=No
+10	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+11	como	como	SCONJ	_	_	13	case	_	_
+12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	revolución	revolución	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_
+14	boliviana	boliviano	ADJ	_	Gender=Fem|Number=Sing	13	amod	_	SpaceAfter=No
+15	,	,	PUNCT	_	PunctType=Comm	17	punct	_	_
+16	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	bolivariana	bolivariana	NOUN	_	Gender=Fem|Number=Sing	13	conj	_	SpaceAfter=No
+18	,	,	PUNCT	_	PunctType=Comm	21	punct	_	_
+19	y	y	CCONJ	_	_	21	cc	_	_
+20	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	21	det	_	_
+21	cambios	cambio	NOUN	_	Gender=Masc|Number=Plur	13	conj	_	_
+22	en	en	ADP	_	_	23	case	_	_
+23	Argentina	Argentina	PROPN	_	_	21	nmod	_	_
+24	no	no	ADV	_	Polarity=Neg	26	advmod	_	_
+25	los	él	PRON	_	Case=Acc|Gender=Masc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	26	obj	_	_
+26	parará	parar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	32	ccomp	_	_
+27	nada	nada	PRON	_	Number=Sing|PronType=Neg	26	nsubj	_	_
+28	ni	ni	CCONJ	_	_	29	cc	_	_
+29	nadie	nadie	PRON	_	Number=Sing|PronType=Neg	27	conj	_	SpaceAfter=No
+30	"	"	PUNCT	_	PunctType=Quot	26	punct	_	SpaceAfter=No
+31	,	,	PUNCT	_	PunctType=Comm	26	punct	_	_
+32	afirmó	afirmar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+33	Correa	Correa	PROPN	_	_	32	nsubj	_	SpaceAfter=No
+34	.	.	PUNCT	_	PunctType=Peri	32	punct	_	_
 
 ~~~
 

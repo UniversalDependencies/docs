@@ -14,14 +14,14 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 2 tokens (0%) have a non-empty value of `Reflex[obj]`.
 2 types (0%) occur at least once with a non-empty value of `Reflex[obj]`.
 2 lemmas (0%) occur at least once with a non-empty value of `Reflex[obj]`.
-The feature is used with 1 part-of-speech tags: <tt><a href="ess_sli-pos-X.html">X</a></tt> (2; 0% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="ess_sli-pos-VERB.html">VERB</a></tt> (2; 0% instances).
 
-### `X`
+### `VERB`
 
-2 <tt><a href="ess_sli-pos-X.html">X</a></tt> tokens (0% of all `X` tokens) have a non-empty value of `Reflex[obj]`.
+2 <tt><a href="ess_sli-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Reflex[obj]`.
 
-The most frequent other feature values with which `X` and `Reflex[obj]` co-occurred: <tt><a href="ess_sli-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="ess_sli-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="ess_sli-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="ess_sli-feat-Number-obj.html">Number[obj]</a></tt><tt>=Sing</tt> (2; 100%), <tt><a href="ess_sli-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="ess_sli-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (2; 100%), <tt><a href="ess_sli-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt> (2; 100%), <tt><a href="ess_sli-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="ess_sli-feat-Subcat.html">Subcat</a></tt><tt>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `VERB` and `Reflex[obj]` co-occurred: <tt><a href="ess_sli-feat-Mood.html">Mood</a></tt><tt>=Cn1</tt> (2; 100%), <tt><a href="ess_sli-feat-Number-obj.html">Number[obj]</a></tt><tt>=Sing</tt> (2; 100%), <tt><a href="ess_sli-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (2; 100%), <tt><a href="ess_sli-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt> (2; 100%), <tt><a href="ess_sli-feat-Subcat.html">Subcat</a></tt><tt>=Tran</tt> (2; 100%).
 
-`X` tokens may have the following values of `Reflex[obj]`:
+`VERB` tokens may have the following values of `Reflex[obj]`:
 
 

@@ -23,7 +23,7 @@ The following 2 pairs of parts of speech are connected with `compound:prt`: <tt>
 # visual-style 6	fgColor:white
 # visual-style 6 7 compound:prt	color:blue
 1	_	_	INTJ	UH	_	6	discourse	6:discourse	Discourse=topic-question:90->92:0:lex-indwd-561-_+syn-sbinv-562-_+grf-qst-567-_|Lem=*LOWER*|Len=4
-2	_	_	PRON	WP	PronType=Int	6	obj	6:obj	CxnElt=6:Interrogative-WHInfo-Direct.WHWord|Lem=_|Len=4
+2	_	_	PRON	WP	Case=Acc|PronType=Int	6	obj	6:obj	CxnElt=6:Interrogative-WHInfo-Direct.WHWord|Lem=_|Len=4
 3	_	_	AUX	MD	VerbForm=Fin	6	aux	6:aux	Lem=_|Len=5
 4	_	_	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj	6:nsubj	Entity=(23-organization-giv:act-nnsss-cf1*-1-ana)|Lem=_|Len=4
 5	_	_	AUX	VB	VerbForm=Inf	6	aux	6:aux	Lem=_|Len=2

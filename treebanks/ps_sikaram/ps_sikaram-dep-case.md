@@ -8,27 +8,30 @@ udver: '2'
 
 This relation is universal.
 
-830 nodes (15%) are attached to their parents as `case`.
+1039 nodes (15%) are attached to their parents as `case`.
 
-572 instances of `case` (69%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.43132530120482.
+716 instances of `case` (69%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.45332050048123.
 
-The following 8 pairs of parts of speech are connected with `case`: <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt> (581; 70% instances), <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt> (121; 15% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt>-<tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt> (78; 9% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt> (22; 3% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt> (15; 2% instances), <tt><a href="ps_sikaram-pos-ADV.html">ADV</a></tt>-<tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt> (8; 1% instances), <tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt>-<tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="ps_sikaram-pos-X.html">X</a></tt>-<tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `case`: <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt> (725; 70% instances), <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt> (146; 14% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt>-<tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt> (104; 10% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt> (26; 3% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt> (20; 2% instances), <tt><a href="ps_sikaram-pos-ADV.html">ADV</a></tt>-<tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt> (10; 1% instances), <tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt>-<tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="ps_sikaram-pos-PART.html">PART</a></tt>-<tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="ps_sikaram-pos-X.html">X</a></tt>-<tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 case	color:blue
-1	نجلۍ	نجلۍ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	nsubj	_	Translit=njëlë́y|LTranslit=njëlë́y|Gloss=girl
-2	خپل	خپل	DET	_	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	3	det	_	Translit=xpël|LTranslit=xpël|Gloss=own
-3	ملګري	ملګری	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	6	obl	_	Translit=mëlgë́ri|LTranslit=mëlgë́ray|Gloss=friend
-4	ته	ته	ADP	_	Case=Acc	3	case	_	Translit=ta|LTranslit=ta|Gloss=to
-5	لیک	لیک	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	obj	_	Translit=lik|LTranslit=lik|Gloss=letter
-6	ولیکۀ	لیکل	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=wë́likë|LTranslit=likë́l|Gloss=wrote|SpaceAfter=No
-7	.	.	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
+# visual-style 4 5 case	color:blue
+1	د	د	ADP	_	Case=Acc	2	case	_	Translit=dë|LTranslit=dë|Gloss=of
+2	پیتر	پیتر	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	3	nmod	_	Translit=pitr|LTranslit=pitr|Gloss=Peter
+3	ګاونډي	ګاونډی	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	Translit=gâwanḍí|LTranslit=gâwanḍáy|Gloss=neighbor
+4	کټارې	کټاره	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	9	obl	_	Translit=këṭâré|LTranslit=këṭârá|Gloss=fence
+5	ته	ته	ADP	_	Case=Acc	4	case	_	Translit=ta|LTranslit=ta|Gloss=to
+6	سور	سور	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	7	amod	_	Translit=sur|LTranslit=sur|Gloss=red
+7	رنګ	رنګ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	9	obj	_	Translit=rang|LTranslit=rang|Gloss=color
+8	ور	ور	PRON	_	Aspect=Perf|Person=3|PronType=Prs|Variant=Dir	9	compound:preverb	_	Translit=war|LTranslit=war|Gloss=to-it
+9	کړ	کول	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=këṛ|LTranslit=kawë́l|Gloss=did
+10	.	.	PUNCT	_	_	9	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
 
 ~~~
 
@@ -41,13 +44,14 @@ The following 8 pairs of parts of speech are connected with `case`: <tt><a href=
 # visual-style 2 1 case	color:blue
 1	د	د	ADP	_	Case=Acc	2	case	_	Translit=dë|LTranslit=dë|Gloss=of
 2	پیتر	پیتر	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	3	nmod	_	Translit=pitr|LTranslit=pitr|Gloss=Peter
-3	ګاونډي	ګاونډی	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	Translit=gâwanḍí|LTranslit=gâwanḍáy|Gloss=neighbor
-4	کټارې	کټاره	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	8	obl	_	Translit=këṭâré|LTranslit=këṭârá|Gloss=fence
+3	ګاونډي	ګاونډی	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	Translit=gâwanḍí|LTranslit=gâwanḍáy|Gloss=neighbor
+4	کټارې	کټاره	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	9	obl	_	Translit=këṭâré|LTranslit=këṭârá|Gloss=fence
 5	ته	ته	ADP	_	Case=Acc	4	case	_	Translit=ta|LTranslit=ta|Gloss=to
 6	سور	سور	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	7	amod	_	Translit=sur|LTranslit=sur|Gloss=red
-7	رنګ	رنګ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	obj	_	Translit=rang|LTranslit=rang|Gloss=color
-8	ورکړ	ورکول	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=wárkëṛ|LTranslit=warkawë́l|Gloss=gave|SpaceAfter=No
-9	.	.	PUNCT	_	_	8	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
+7	رنګ	رنګ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	9	obj	_	Translit=rang|LTranslit=rang|Gloss=color
+8	ور	ور	PRON	_	Aspect=Perf|Person=3|PronType=Prs|Variant=Dir	9	compound:preverb	_	Translit=war|LTranslit=war|Gloss=to-it
+9	کړ	کول	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=këṛ|LTranslit=kawë́l|Gloss=did
+10	.	.	PUNCT	_	_	9	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
 
 ~~~
 
@@ -58,18 +62,18 @@ The following 8 pairs of parts of speech are connected with `case`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 case	color:blue
-1	پۀ	پۀ	ADP	_	Case=Loc	2	case	_	Translit=pë|LTranslit=pë|Gloss=at
-2	دوی	دوی	PRON	_	Case=Loc|Deixis=Prox|Number=Plur|Person=3|PronType=Prs	7	obl	_	Translit=duy|LTranslit=duy|Gloss=they
-3	کې	کې	ADP	_	Case=Loc	2	case	_	Translit=ke|LTranslit=ke|Gloss=in
-4	هیڅوک	هیڅوک	PRON	_	Animacy=Hum|Case=Nom|PronType=Neg	7	nsubj	_	Translit=hicók|LTranslit=hicók|Gloss=nobody
-5	نۀ	نۀ	PART	_	Polarity=Neg	6	advmod	_	Translit=në́|LTranslit=në|Gloss=not
-6	پوهه	پوهه	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	7	compound:lvc	_	Translit=póha|LTranslit=póha|Gloss=knowledge
-7	کېږي	کېدل	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=kéǧi|LTranslit=kedë́l|Gloss=becomes
-8	چې	چې	SCONJ	_	_	11	mark	_	Translit=če|LTranslit=če|Gloss=that
-9	چا	څوک	PRON	_	Animacy=Hum|Case=Acc|PronType=Int	11	nsubj	_	Translit=čâ|LTranslit=cok|Gloss=who
-10	دا	دا	PRON	_	Case=Nom|Deixis=Prox|PronType=Dem	11	obj	_	Translit=dâ|LTranslit=dâ|Gloss=these
-11	ولیکل	لیکل	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	ccomp	_	Translit=wë́likël|LTranslit=likë́l|Gloss=wrote|SpaceAfter=No
-12	.	.	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
+1	د	د	ADP	_	Case=Acc	2	case	_	Translit=dë|LTranslit=dë|Gloss=of
+2	ما	زۀ	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	nmod	_	Translit=mâ|LTranslit=zë|Gloss=me
+3	پلار	پلار	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	Translit=plâr|LTranslit=plâr|Gloss=father
+4	د	د	ADP	_	Case=Acc	5	case	_	Translit=dë|LTranslit=dë|Gloss=of
+5	تا	تۀ	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	7	nmod	_	Translit=tâ|LTranslit=të|Gloss=you
+6	له	له	ADP	_	Case=Acc	7	case	_	Translit=la|LTranslit=la|Gloss=from
+7	پلار	پلار	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	nmod	_	Translit=plâr|LTranslit=plâr|Gloss=father
+8	څخه	څخه	ADP	_	Case=Acc	7	case	_	Translit=cë́xa|LTranslit=cë́xa|Gloss=from
+9	ساعت	ساعت	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	compound	_	Translit=sâát|LTranslit=sâát|Gloss=hour
+10	تېره	تېره	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Translit=téra|LTranslit=téra|Gloss=spending
+11	دﺉ	ول	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	Translit=dëy|LTranslit=wël|Gloss=is|SpaceAfter=No
+12	.	.	PUNCT	_	_	10	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
 
 ~~~
 

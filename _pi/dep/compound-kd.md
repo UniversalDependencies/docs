@@ -14,3 +14,4 @@ compound:kd(asavānaṃ, khīṇā-)
 compound:kd(inflows, destroyed)
 ~~~
 
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:30 CET -->

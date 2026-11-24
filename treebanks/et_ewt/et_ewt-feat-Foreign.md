@@ -76,7 +76,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>ultimagte</em>
-* `EMPTY` (5255): <em>hea, suur, võimalik, õige, huvitav, head, parem, vana, uus, esimene</em>
+* `EMPTY` (5247): <em>hea, suur, võimalik, õige, huvitav, head, parem, vana, uus, esimene</em>
 
 ## Relations with Agreement in `Foreign`
 

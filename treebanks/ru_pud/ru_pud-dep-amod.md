@@ -13,7 +13,7 @@ This relation is universal.
 1771 instances of `amod` (99%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.17811278615299.
 
-The following 9 pairs of parts of speech are connected with `amod`: <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> (1668; 93% instances), <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> (69; 4% instances), <tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> (30; 2% instances), <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (11; 1% instances), <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> (9; 1% instances), <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ru_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `amod`: <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> (1668; 93% instances), <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> (68; 4% instances), <tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> (30; 2% instances), <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (11; 1% instances), <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> (9; 1% instances), <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ru_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ru_pud-pos-X.html">X</a></tt>-<tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,14 +22,14 @@ The following 9 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
 # visual-style 13 12 amod	color:blue
-1	То	то	PRON	DT	Case=Nom|Gender=Neut|Number=Sing	14	nsubj	_	SpaceAfter=No
+1	То	то	PRON	DT	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	14	nsubj	_	SpaceAfter=No
 2	,	,	PUNCT	,	_	5	punct	_	_
 3	что	что	SCONJ	IN	_	5	obj	_	_
-4	она	она	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	nsubj	_	_
+4	она	она	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 5	говорит	говорить	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	acl	_	_
 6	и	и	CCONJ	CC	_	9	cc	_	_
 7	что	что	SCONJ	IN	_	9	obj	_	_
-8	она	она	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3	9	nsubj	_	_
+8	она	она	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
 9	делает	делать	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	SpaceAfter=No
 10	,	,	PUNCT	,	_	5	punct	_	_
 11	на	на	ADP	IN	_	13	case	_	_
@@ -53,7 +53,7 @@ The following 9 pairs of parts of speech are connected with `amod`: <tt><a href=
 4	является	являться	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
 5	отправной	отправной	ADJ	JJ	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
 6	точкой	точка	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	4	xcomp	_	_
-7	этих	этот	DET	DT	Case=Gen|Number=Plur	8	det	_	_
+7	этих	этот	DET	DT	Case=Gen|Number=Plur|PronType=Dem	8	det	_	_
 8	выборов	выбор	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	SpaceAfter=No
 9	.	.	PUNCT	.	_	4	punct	_	_
 
@@ -72,7 +72,7 @@ The following 9 pairs of parts of speech are connected with `amod`: <tt><a href=
 4	река	река	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
 5	Огайо	Огайо	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nmod	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	8	punct	_	_
-7	которая	который	PRON	WDT	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	_
+7	которая	который	DET	WDT	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	8	nsubj	_	_
 8	впадала	впадать	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	acl:relcl	_	_
 9	в	в	ADP	IN	_	10	case	_	_
 10	реку	река	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	obl	_	_

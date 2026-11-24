@@ -84,6 +84,10 @@ scripts, although in a less accurate form.
 …
 ```
 
+A standard for the Bible book codes was discussed [in this commit comment thread](https://github.com/UniversalDependencies/tools/commit/fa9f43cf76ab223775485e45bd466fec2b46ea9c#commitcomment-157312840);
+see also the script [survey_bible_sentences.pl](https://github.com/UniversalDependencies/tools/blob/master/survey_bible_sentences.pl).
+
+
 ## Alternative translations
 
 In some cases, a treebank will provide multiple alternative translations for the same parallel sentence. This happens
@@ -138,9 +142,11 @@ described above.
 * `zhgsd`: Chinese GSD, Chinese GSDSimp
 * `jagsd`: Japanese GSD, Japanese GSDLUW
 * `atis`: English, Turkish
-* `bible`: Ancient Greek PROIEL, Ancient Greek PTNK, Ancient Hebrew, Coptic, Gothic, Latin PROIEL, Old Church Slavonic, Romanian Nonstandard, Yoruba
+* `bible`: Ancient Greek PROIEL, Ancient Greek PTNK, Ancient Hebrew, Classical Armenian, Coptic Bohairic, Coptic Scriptorium, Faroese FarPaHC, Gothic, Icelandic IcePaHC, Latin PROIEL, Old Church Slavonic, Romanian Nonstandard, Yoruba
 * `cairo`: Latgalian, Latvian, Luxembourgish, Tswana, others have it as one part of larger data (Buryat, Macedonian, Malayalam, what else?)
 * `tuecl`: extension of Cairo, currently focusing on Turkic languages: Azerbaijani, Kyrgyz, Turkish, Uzbek
+* `lpp`: Le Petit Prince (The Little Prince) by Antoine de Saint-Exupéry: English, Korean
+* `penn`: Penn TreeBank / Wall Street Journal: Turkish Penn, Czech PDTSC
 
 ```
 > survey_parallel_treebanks.pl
@@ -148,16 +154,24 @@ Found the following parallel treebank collections:
 atis (2 treebanks)
 	UD_English-Atis (5432 sentences)
 	UD_Turkish-Atis (5284 sentences)
-bible (4 treebanks)
+bible (12 treebanks)
+	UD_Ancient_Greek-PROIEL (6850 sentences with 4640 additional alternative or partial translations)
 	UD_Ancient_Greek-PTNK (1576 sentences)
 	UD_Ancient_Hebrew-PTNK (5608 sentences)
-	UD_Old_Georgian-OGLauRo (0 sentences)
+	UD_Coptic-Bohairic (593 sentences)
+	UD_Coptic-Scriptorium (670 sentences)
+	UD_Gothic-PROIEL (3211 sentences with 2165 additional alternative or partial translations)
+	UD_Latin-PROIEL (6510 sentences with 5274 additional alternative or partial translations)
+	UD_Old_Church_Slavonic-PROIEL (3535 sentences with 4117 additional alternative or partial translations)
+	UD_Old_Georgian-OGLauRo (278 sentences with 42 additional alternative or partial translations)
 	UD_Ottoman_Turkish-DUDU (11 sentences)
+	UD_Romanian-Nonstandard (1134 sentences with 114 additional alternative or partial translations)
+	UD_Yoruba-YTB (200 sentences)
 cairo (24 treebanks)
 	UD_Azerbaijani-TueCL (20 sentences with 9 additional alternative or partial translations)
 	UD_Bavarian-MaiBaam (20 sentences)
 	UD_Buryat-BDT (20 sentences)
-	UD_Cebuano-GJA (10 sentences)
+	UD_Cebuano-GJA (20 sentences)
 	UD_Esperanto-Cairo (20 sentences)
 	UD_Gujarati-GujTB (20 sentences)
 	UD_Khoekhoe-KDT (20 sentences)
@@ -174,7 +188,7 @@ cairo (24 treebanks)
 	UD_Ottoman_Turkish-DUDU (20 sentences)
 	UD_Ottoman_Turkish-TueCL (20 sentences with 9 additional alternative or partial translations)
 	UD_Pashto-Sikaram (20 sentences)
-	UD_Tagabawa-GJA (11 sentences)
+	UD_Tagabawa-GJA (20 sentences)
 	UD_Tswana-Popapolelo (20 sentences)
 	UD_Turkish-TueCL (20 sentences with 9 additional alternative or partial translations)
 	UD_Uzbek-TueCL (20 sentences with 9 additional alternative or partial translations)
@@ -187,9 +201,8 @@ jagsd (2 treebanks)
 lines (2 treebanks)
 	UD_English-LinES (5696 sentences)
 	UD_Swedish-LinES (5696 sentences)
-pud (24 treebanks)
+pud (22 treebanks)
 	UD_Arabic-PUD (1000 sentences)
-	UD_Bengali-PUD (0 sentences)
 	UD_Chinese-PUD (1000 sentences)
 	UD_Czech-PUD (1000 sentences)
 	UD_English-PUD (1000 sentences)
@@ -204,7 +217,6 @@ pud (24 treebanks)
 	UD_Japanese-PUD (1000 sentences)
 	UD_Japanese-PUDLUW (1000 sentences)
 	UD_Korean-PUD (1000 sentences)
-	UD_Magahi-PUD (0 sentences)
 	UD_Polish-PUD (1000 sentences)
 	UD_Portuguese-PUD (1000 sentences)
 	UD_Russian-PUD (1000 sentences)

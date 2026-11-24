@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `nmod`: <tt><a href="sdh_garrusi-dep-nmod-poss.html">nmod:poss</a></tt>.
 
-20 nodes (1%) are attached to their parents as `nmod`.
+22 nodes (1%) are attached to their parents as `nmod`.
 
-17 instances of `nmod` (85%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.
+18 instances of `nmod` (82%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.04545454545455.
 
-The following 6 pairs of parts of speech are connected with `nmod`: <tt><a href="sdh_garrusi-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sdh_garrusi-pos-PRON.html">PRON</a></tt> (13; 65% instances), <tt><a href="sdh_garrusi-pos-ADV.html">ADV</a></tt>-<tt><a href="sdh_garrusi-pos-PRON.html">PRON</a></tt> (3; 15% instances), <tt><a href="sdh_garrusi-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sdh_garrusi-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="sdh_garrusi-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sdh_garrusi-pos-X.html">X</a></tt> (1; 5% instances), <tt><a href="sdh_garrusi-pos-PRON.html">PRON</a></tt>-<tt><a href="sdh_garrusi-pos-PART.html">PART</a></tt> (1; 5% instances), <tt><a href="sdh_garrusi-pos-PRON.html">PRON</a></tt>-<tt><a href="sdh_garrusi-pos-PRON.html">PRON</a></tt> (1; 5% instances).
+The following 7 pairs of parts of speech are connected with `nmod`: <tt><a href="sdh_garrusi-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sdh_garrusi-pos-PRON.html">PRON</a></tt> (14; 64% instances), <tt><a href="sdh_garrusi-pos-ADV.html">ADV</a></tt>-<tt><a href="sdh_garrusi-pos-PRON.html">PRON</a></tt> (3; 14% instances), <tt><a href="sdh_garrusi-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sdh_garrusi-pos-ADP.html">ADP</a></tt> (1; 5% instances), <tt><a href="sdh_garrusi-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sdh_garrusi-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="sdh_garrusi-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sdh_garrusi-pos-X.html">X</a></tt> (1; 5% instances), <tt><a href="sdh_garrusi-pos-PRON.html">PRON</a></tt>-<tt><a href="sdh_garrusi-pos-PART.html">PART</a></tt> (1; 5% instances), <tt><a href="sdh_garrusi-pos-PRON.html">PRON</a></tt>-<tt><a href="sdh_garrusi-pos-PRON.html">PRON</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
@@ -54,18 +54,18 @@ The following 6 pairs of parts of speech are connected with `nmod`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 4 nmod	color:blue
-1	Yêkileyan	Yêki	PRON	_	Definite=Ind|Number=Plur	3	nsubj	_	_
-2	xem	xem	ADJ	_	_	3	compound:lvc	_	_
-3	dû	bîgin	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-4	kula’i	kula	NOUN	_	Number=Sing	5	nmod	_	_
-5	kuře	kuř	NOUN	_	Number=Sing	6	obj	_	_
-6	elgîrî	elgîrtin	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
-7	.	.	PUNCT	_	_	3	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 nmod	color:blue
+1	Kulli	Kulli	ADV	_	_	2	advmod	_	_
+2	gulabîyegan	gulabî	NOUN	_	Definite=Def|Number=Plur	4	obj	_	_
+3	cem	cem	ADV	_	_	4	compound:lvc	_	_
+4	kirdin	kirdin	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	naw	naw	ADP	_	ExtPos=ADP	6	nmod	_	_
+6	sebed	sebed	NOUN	_	Number=Sing	4	obl	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
 

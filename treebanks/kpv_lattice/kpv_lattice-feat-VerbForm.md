@@ -10,7 +10,7 @@ This feature is universal but the values `Conv`, `NomAg`, `Vnoun` are language-s
 It occurs with 6 different values: `Conv`, `Fin`, `Inf`, `NomAg`, `Part`, `Vnoun`.
 
 1468 tokens (18%) have a non-empty value of `VerbForm`.
-1042 types (29%) occur at least once with a non-empty value of `VerbForm`.
+1041 types (29%) occur at least once with a non-empty value of `VerbForm`.
 659 lemmas (28%) occur at least once with a non-empty value of `VerbForm`.
 The feature is used with 2 part-of-speech tags: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (1204; 15% instances), <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (264; 3% instances).
 
@@ -28,7 +28,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 * `NomAg` (41; 3% of non-empty `VerbForm`): <em>сулалысь, дзирдалысь, локтысь, Вӧралысь, видзысьяс, воысьясӧс, вӧтчысь, вӧчысь, дзользьысь, индалысьясным</em>
 * `Part` (82; 7% of non-empty `VerbForm`): <em>идралӧм, идралӧмын, кольӧм, октӧм, Бырӧдӧм, аддзанаӧн, бонзьӧдӧм, босьтӧм, быдмӧм, вайӧм</em>
 * `Vnoun` (55; 5% of non-empty `VerbForm`): <em>вайӧм, кульыштӧм, подмӧм, Мудзӧм, баитӧмъяснысӧ, бергӧдчылӧмӧн, босьтӧмаяс, буксӧм, ветлӧм, видзӧдлӧмъясыс</em>
-* `EMPTY` (162): <em>пов, жалит, тыдав, вермытӧм, вунӧдны, вӧв, ло, тешитчы, тӧд, тӧр</em>
+* `EMPTY` (166): <em>пов, жалит, тыдав, вермытӧм, вунӧдны, вӧв, ло, тешитчы, тӧд, тӧр</em>
 
 <table>
   <tr><th>Paradigm <i>воны</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th><th><tt>NomAg</tt></th><th><tt>Vnoun</tt></th></tr>

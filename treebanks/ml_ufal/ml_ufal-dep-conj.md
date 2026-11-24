@@ -23,10 +23,10 @@ The following 14 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 2	fgColor:white
 # visual-style 2 4 conj	color:blue
 1	അവൻ	അവൻ	PRON	_	Case=Nom|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Translit=avan̕|LTranslit=avan̕
-2	പുകവലി	പുകവലി	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	6	obj	_	Translit=pukavali|LTranslit=pukavali
-3	ഉം	ഉം	CCONJ	_	_	2	cc	_	Translit=uṁ|LTranslit=uṁ
-4	മദ്യപാനം	മദ്യപാനം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	2	conj	_	Translit=madyapānaṁ|LTranslit=madyapānaṁ
-5	ഉം	ഉം	CCONJ	_	_	4	cc	_	Translit=uṁ|LTranslit=uṁ
+2	പുകവലി	പുകവലി	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	6	obj	_	LTranslit=pukavali|Translit=pukavali
+3	ഉം	ഉം	CCONJ	_	_	2	cc	_	LTranslit=uṁ|Translit=uṁ
+4	മദ്യപാനം	മദ്യപാനം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	2	conj	_	LTranslit=madyapānaṁ|Translit=madyapānaṁ
+5	ഉം	ഉം	CCONJ	_	_	4	cc	_	LTranslit=uṁ|Translit=uṁ
 6	നിർത്താൻ	നിർത്ത്	VERB	_	Polarity=Pos|VerbForm=Inf|Voice=Act	7	xcomp	_	Translit=niṟ̕ttān̕|LTranslit=niṟ̕tt
 7	ശ്രമിച്ചു	ശ്രമിക്	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=śramiccu|LTranslit=śramik
 8	.	.	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.
@@ -41,14 +41,14 @@ The following 14 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 1	fgColor:white
 # visual-style 1 4 conj	color:blue
 1	മേരി	മേരി	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	0	root	_	Translit=mēri|LTranslit=mēri
-2	വെങ്കലം	വെങ്കലം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	1	orphan	_	Translit=veṅkalaṁ|LTranslit=veṅkalaṁ
-3	ഉം	ഉം	CCONJ	_	_	1	cc	_	Translit=uṁ|LTranslit=uṁ
+2	വെങ്കലം	വെങ്കലം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	1	orphan	_	LTranslit=veṅkalaṁ|Translit=veṅkalaṁ
+3	ഉം	ഉം	CCONJ	_	_	1	cc	_	LTranslit=uṁ|Translit=uṁ
 4	പീറ്റർ	പീറ്റർ	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	1	conj	_	Translit=pīṟṟaṟ̕|LTranslit=pīṟṟaṟ̕
-5	വെള്ളി	വെള്ളി	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	4	orphan	_	Translit=veḷḷi|LTranslit=veḷḷi
-6	ഉം	ഉം	CCONJ	_	_	4	cc	_	Translit=uṁ|LTranslit=uṁ
+5	വെള്ളി	വെള്ളി	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	4	orphan	_	LTranslit=veḷḷi|Translit=veḷḷi
+6	ഉം	ഉം	CCONJ	_	_	4	cc	_	LTranslit=uṁ|Translit=uṁ
 7	ജെയിൻ	ജെയിൻ	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	10	nsubj	_	Translit=jeyin̕|LTranslit=jeyin̕
-8	സ്വർണം	സ്വർണം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	10	obj	_	Translit=svaṟ̕ṇaṁ|LTranslit=svaṟ̕ṇaṁ
-9	ഉം	ഉം	CCONJ	_	_	10	cc	_	Translit=uṁ|LTranslit=uṁ
+8	സ്വർണം	സ്വർണം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	10	obj	_	LTranslit=svaṟ̕ṇaṁ|Translit=svaṟ̕ṇaṁ
+9	ഉം	ഉം	CCONJ	_	_	10	cc	_	LTranslit=uṁ|Translit=uṁ
 10	നേടി	നെടുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	SpaceAfter=No|Translit=nēṭi|LTranslit=neṭuka
 11	.	.	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
 
@@ -85,10 +85,10 @@ The following 14 pairs of parts of speech are connected with `conj`: <tt><a href
 22	ഡ്രൈവർ	ഡ്രൈവർ	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	23	nmod	_	Translit=ḍraivaṟ̕|LTranslit=ḍraivaṟ̕
 23	രാധാകൃഷ്ണൻ	രാധാകൃഷ്ണൻ	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	3	conj	_	Translit=rādhākr̥ṣṇan̕|LTranslit=rādhākr̥ṣṇan̕
 24	എന്നിവരുടെ	എന്നിവര്‍	CCONJ	_	_	3	conj	_	Translit=ennivaruṭe|LTranslit=ennivar
-25	നേതൃത്വത്തിൽ	നേതൃത്വം	NOUN	_	Animacy=Inan|Case=Loc|Number=Sing	31	nsubj	_	Translit=nētr̥tvattil̕|LTranslit=nētr̥tvaṁ
-26	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	25	cop:emph	_	Translit=āṇ|LTranslit=āk
-27	ഈ	ഈ	DET	_	Deixis=Prox|PronType=Dem	28	det	_	Translit=ī|LTranslit=ī
-28	ആളെ	ആള്	NOUN	_	Animacy=Anim|Case=Acc|Number=Sing	31	obj	_	Translit=āḷe|LTranslit=āḷ
+25	നേതൃത്വത്തിൽ	നേതൃത്വം	NOUN	_	Animacy=Inan|Case=Loc|Number=Sing	31	nsubj	_	LTranslit=nētr̥tvaṁ|Translit=nētr̥tvattil̕
+26	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	25	cop:emph	_	LTranslit=āk|Translit=āṇ
+27	ഈ	ഈ	DET	_	Deixis=Prox|PronType=Dem	28	det	_	LTranslit=ī|Translit=ī
+28	ആളെ	ആള്	NOUN	_	Animacy=Anim|Case=Acc|Number=Sing	31	obj	_	LTranslit=āḷ|Translit=āḷe
 29	തൊണ്ടി	തൊണ്ടി	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	31	obl	_	Translit=toṇṭi|LTranslit=toṇṭi
 30	സഹിതം	സഹിതം	ADP	_	Case=Com	29	case	_	Translit=sahitaṁ|LTranslit=sahitaṁ
 31	പിടികൂടിയത്	പിടികൂടുക	VERB	_	Polarity=Pos|Tense=Past|VerbForm=Vnoun|Voice=Act	0	root	_	SpaceAfter=No|Translit=piṭikūṭiyat|LTranslit=piṭikūṭuka

@@ -9,30 +9,28 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `aux`: <tt><a href="mdf_jr-dep-aux-neg.html">aux:neg</a></tt>, <tt><a href="mdf_jr-dep-aux-opt.html">aux:opt</a></tt>.
 
-100 nodes (2%) are attached to their parents as `aux`.
+29 nodes (1%) are attached to their parents as `aux`.
 
-95 instances of `aux` (95%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.11.
+24 instances of `aux` (83%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.24137931034483.
 
-The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (93; 93% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (3; 3% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (2; 2% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (1; 1% instances).
+The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (22; 76% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (3; 10% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (2; 7% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (1; 3% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 8 aux	color:blue
-1	А	а	CCONJ	CC	_	2	cc	_	_
-2	касан	касомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	пяк	пяк	ADV	Adv	AdvType=Deg	4	advmod	_	_
-4	савор	савор	ADV	Adv	AdvType=Man	2	advmod	_	SpaceAfter=No
-5	,	,	PUNCT	CLB	_	9	punct	_	_
-6	нинге	нинге	ADV	Adv	AdvType=Tim	9	advmod	_	_
-7	школавга	школа	NOUN	N	Case=Lat|Clitic=AddGA|Definite=Ind|Number=Plur,Sing	9	obl	_	_
-8	аф	аф	AUX	Aux	Polarity=Neg	9	aux	_	_
-9	якан	якамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres|VerbForm=Fin	2	conj	_	SpaceAfter=No
-10	.	.	PUNCT	CLB	_	2	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 aux	color:blue
+1	―	―	PUNCT	PUNCT	_	5	punct	_	_
+2	А	а	CCONJ	CC	_	5	cc	_	_
+3	мон	мон	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+4	ашень	аш	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Polarity=Neg|Tense=Past|VerbForm=Fin	5	aux	_	_
+5	абонда	абондомс	VERB	V	Connegative=Yes	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	CLB	_	7	punct	_	_
+7	мярьгонь	мярьгомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Past|VerbForm=Fin	5	orphan	_	SpaceAfter=No
+8	:	:	PUNCT	CLB	_	5	punct	_	_
 
 ~~~
 

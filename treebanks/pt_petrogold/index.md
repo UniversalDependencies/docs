@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.11 release
 The following people have contributed to making this treebank part of UD: Elvis de Souza, Cláudia Freitas, Aline Silveira, Tatiana Cavalcanti, Maria Clara Castro, Wograine Evelyn.
 
 Repository: [UD_Portuguese-PetroGold](https://github.com/UniversalDependencies/UD_Portuguese-PetroGold)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpt_petrogold218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpt_petrogold219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 
@@ -136,11 +136,11 @@ year={2022}
 </ul>
 
 <ul>
-<li>This corpus contains 37 lemmas tagged as determiners (DET): Do, algum, ambos, aquele, bastante, cada, certo, cujo, dado, demais, determinado, diverso, esse, essse, este, mais, muito, nenhum, nosso, o, outro, pouco, próprio, qual, qualquer, quanto, que, seu, sua, tais, tal, tanto, todo, um, vário, vários, µ</li>
+<li>This corpus contains 38 lemmas tagged as determiners (DET): Do, algum, ambos, aquele, bastante, cada, certo, cujo, dado, demais, determinado, diverso, esse, essse, este, mais, mesmo, muito, nenhum, nosso, o, outro, pouco, próprio, qual, qualquer, quanto, que, seu, sua, tais, tal, tanto, todo, um, vário, vários, µ</li>
 </ul>
 
 <ul>
-<li>Out of the above, 17 lemmas occurred sometimes as PRON and sometimes as DET: algum, ambos, aquele, demais, esse, este, muito, nenhum, o, outro, pouco, qual, quanto, que, tal, todo, um</li>
+<li>Out of the above, 18 lemmas occurred sometimes as PRON and sometimes as DET: algum, ambos, aquele, demais, esse, este, mesmo, muito, nenhum, o, outro, pouco, qual, quanto, que, tal, todo, um</li>
 </ul>
 
 <ul>
@@ -608,9 +608,14 @@ year={2022}
 <ul>
   <li><a>ExtPos</a>
     <ul>
+      <li>ADJ
+        <ul>
+          <li>ADP: a</li>
+        </ul>
+      </li>
       <li>ADP
         <ul>
-          <li>ADP: a, em, de, com, por, como</li>
+          <li>ADP: a, em, de, por, com, como</li>
           <li>ADV: quanto, apesar, tal, Mesmo, junto, sempre</li>
           <li>DET: tais, Uma</li>
           <li>VERB-Part: devido</li>
@@ -618,7 +623,7 @@ year={2022}
       </li>
       <li>ADV
         <ul>
-          <li>ADP: a, por, em, com, de, Para</li>
+          <li>ADP: por, em, a, com, de, Para</li>
           <li>ADV: cerca, além, não, assim, mesmo, junto, Tanto</li>
           <li>AUX-Ger: sendo</li>
           <li>DET: um, cada</li>
@@ -699,12 +704,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB--NOUN (3)</li>
-      <li>VERB-Fin--NOUN (3547)</li>
+      <li>VERB-Fin--NOUN (3546)</li>
       <li>VERB-Fin--NOUN-ADP(a) (4)</li>
       <li>VERB-Fin--NOUN-ADP(como) (1)</li>
       <li>VERB-Fin--NOUN-ADP(desde) (1)</li>
       <li>VERB-Fin--NOUN-ADP(em) (2)</li>
-      <li>VERB-Fin--NOUN-ADP(por) (1)</li>
+      <li>VERB-Fin--NOUN-ADP(por) (2)</li>
       <li>VERB-Fin--PRON (1452)</li>
       <li>VERB-Fin--PRON-ADP(a) (3)</li>
       <li>VERB-Fin--PRON-ADP(em) (1)</li>
@@ -730,13 +735,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN (2906)</li>
       <li>VERB-Fin--NOUN-ADP(sobre) (1)</li>
       <li>VERB-Fin--PRON (43)</li>
-      <li>VERB-Fin--PRON-Acc (48)</li>
+      <li>VERB-Fin--PRON-Acc (47)</li>
       <li>VERB-Ger--NOUN (927)</li>
       <li>VERB-Ger--PRON (5)</li>
       <li>VERB-Ger--PRON-Acc (13)</li>
       <li>VERB-Inf--NOUN (1498)</li>
       <li>VERB-Inf--PRON (11)</li>
-      <li>VERB-Inf--PRON-Acc (38)</li>
+      <li>VERB-Inf--PRON-Acc (39)</li>
       <li>VERB-Part--NOUN (119)</li>
       <li>VERB-Part--NOUN-ADP(a) (9)</li>
       <li>VERB-Part--PRON (4)</li>

@@ -27,4 +27,4 @@ See discussion of [Predicate Clauses](../overview/complex-syntax.html#predicate-
 
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:25 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:59 CET -->

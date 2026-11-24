@@ -44,7 +44,7 @@ The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="azz_itml-dep-conj.html">conj</a></tt>]--> NOUN</tt> (73; 72%),
 <tt>NOUN --[<tt><a href="azz_itml-dep-compound.html">compound</a></tt>]--> NOUN</tt> (3; 75%),
 <tt>NOUN --[<tt><a href="azz_itml-dep-dislocated.html">dislocated</a></tt>]--> NOUN</tt> (2; 67%),
-<tt>NOUN --[<tt><a href="azz_itml-dep-obl.html">obl</a></tt>]--> NOUN</tt> (2; 67%),
+<tt>NOUN --[<tt><a href="azz_itml-dep-obl.html">obl</a></tt>]--> NOUN</tt> (2; 100%),
 <tt>NOUN --[<tt><a href="azz_itml-dep-orphan.html">orphan</a></tt>]--> NOUN</tt> (1; 100%),
 <tt>NOUN --[<tt><a href="azz_itml-dep-reparandum.html">reparandum</a></tt>]--> NOUN</tt> (1; 100%).
 

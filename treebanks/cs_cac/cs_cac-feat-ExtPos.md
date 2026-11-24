@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 5 different values: `ADJ`, `ADP`, `ADV`, `CCONJ`, `SCONJ`.
 
-2086 tokens (0%) have a non-empty value of `ExtPos`.
-57 types (0%) occur at least once with a non-empty value of `ExtPos`.
-33 lemmas (0%) occur at least once with a non-empty value of `ExtPos`.
-The feature is used with 9 part-of-speech tags: <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> (1441; 0% instances), <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> (439; 0% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (129; 0% instances), <tt><a href="cs_cac-pos-PART.html">PART</a></tt> (31; 0% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (22; 0% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt> (14; 0% instances), <tt><a href="cs_cac-pos-X.html">X</a></tt> (7; 0% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+2147 tokens (0%) have a non-empty value of `ExtPos`.
+60 types (0%) occur at least once with a non-empty value of `ExtPos`.
+34 lemmas (0%) occur at least once with a non-empty value of `ExtPos`.
+The feature is used with 9 part-of-speech tags: <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> (1441; 0% instances), <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> (439; 0% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (190; 0% instances), <tt><a href="cs_cac-pos-PART.html">PART</a></tt> (31; 0% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (22; 0% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt> (14; 0% instances), <tt><a href="cs_cac-pos-X.html">X</a></tt> (7; 0% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `ADP`
 
@@ -37,15 +37,15 @@ The most frequent other feature values with which `ADP` and `ExtPos` co-occurred
 
 ### `ADV`
 
-129 <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `ExtPos`.
+190 <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `ADV` and `ExtPos` co-occurred: <tt><a href="cs_cac-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (129; 100%), <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (98; 76%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (98; 76%).
+The most frequent other feature values with which `ADV` and `ExtPos` co-occurred: <tt><a href="cs_cac-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (190; 100%), <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (98; 52%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (98; 52%).
 
 `ADV` tokens may have the following values of `ExtPos`:
 
-* `ADP` (115; 89% of non-empty `ExtPos`): <em>spolu, společně, co, současně, nezávisle, úměrně</em>
-* `ADV` (12; 9% of non-empty `ExtPos`): <em>co, nejen, stejně</em>
-* `SCONJ` (2; 2% of non-empty `ExtPos`): <em>zatím</em>
+* `ADP` (115; 61% of non-empty `ExtPos`): <em>spolu, společně, co, současně, nezávisle, úměrně</em>
+* `ADV` (73; 38% of non-empty `ExtPos`): <em>více, co, víc, nejen, stejně</em>
+* `SCONJ` (2; 1% of non-empty `ExtPos`): <em>zatím</em>
 
 <table>
   <tr><th>Paradigm <i>co</i></th><th><tt>ADP</tt></th><th><tt>ADV</tt></th></tr>

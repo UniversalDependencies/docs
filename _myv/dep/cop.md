@@ -27,4 +27,4 @@ dislocated(Кечай-1, цёрынесь-4)
 ~~~
 
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:55 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:35 CET -->

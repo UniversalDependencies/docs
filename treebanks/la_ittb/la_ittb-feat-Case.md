@@ -53,7 +53,7 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 * `Gen` (3488; 12% of non-empty `Case`): <em>ipsius, omnium, huius, suae, alicuius, illius, alterius, totius, unius, sui</em>
 * `Nom` (10078; 36% of non-empty `Case`): <em>hoc, haec, ipse, quaedam, aliqua, omnis, omnia, omne, unum, alia</em>
 * `Voc` (2; 0% of non-empty `Case`): <em>omnes</em>
-* `EMPTY` (684): <em>huiusmodi, quantumcumque, quot, hoc, ly, tot, cuiusmodi, hic, minus, quotlibet</em>
+* `EMPTY` (683): <em>huiusmodi, quantumcumque, quot, hoc, ly, tot, cuiusmodi, hic, quotlibet, quotquot</em>
 
 <table>
   <tr><th>Paradigm <i>omnis</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Voc</tt></th><th><tt>Abl</tt></th></tr>
@@ -251,7 +251,7 @@ The most frequent other feature values with which `ADV` and `Case` co-occurred: 
 `ADV` tokens may have the following values of `Case`:
 
 * `Loc` (175; 100% of non-empty `Case`): <em>hinc, hic</em>
-* `EMPTY` (22505): <em>etiam, unde, sic, ergo, tamen, uero, ita, supra, magis, solum</em>
+* `EMPTY` (22506): <em>etiam, unde, sic, ergo, tamen, uero, ita, supra, magis, solum</em>
 
 ## Relations with Agreement in `Case`
 

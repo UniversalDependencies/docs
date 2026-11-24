@@ -24,7 +24,7 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 
 * `Def` (12104; 70% of non-empty `Definite`): <em>the</em>
 * `Ind` (5289; 30% of non-empty `Definite`): <em>a, an</em>
-* `EMPTY` (3644): <em>this, all, some, that, these, no, any, every, another, those</em>
+* `EMPTY` (3640): <em>this, all, some, that, these, no, any, every, another, those</em>
 
 ## Relations with Agreement in `Definite`
 

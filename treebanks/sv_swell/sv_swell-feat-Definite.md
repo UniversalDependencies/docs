@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Def`, `Ind`.
 
-4265 tokens (39%) have a non-empty value of `Definite`.
-1339 types (60%) occur at least once with a non-empty value of `Definite`.
+4264 tokens (39%) have a non-empty value of `Definite`.
+1338 types (60%) occur at least once with a non-empty value of `Definite`.
 912 lemmas (57%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 7 part-of-speech tags: <tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt> (1796; 16% instances), <tt><a href="sv_swell-pos-PRON.html">PRON</a></tt> (1434; 13% instances), <tt><a href="sv_swell-pos-ADJ.html">ADJ</a></tt> (635; 6% instances), <tt><a href="sv_swell-pos-DET.html">DET</a></tt> (385; 4% instances), <tt><a href="sv_swell-pos-PROPN.html">PROPN</a></tt> (7; 0% instances), <tt><a href="sv_swell-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="sv_swell-pos-VERB.html">VERB</a></tt> (3; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt> (1796; 16% instances), <tt><a href="sv_swell-pos-PRON.html">PRON</a></tt> (1434; 13% instances), <tt><a href="sv_swell-pos-ADJ.html">ADJ</a></tt> (634; 6% instances), <tt><a href="sv_swell-pos-DET.html">DET</a></tt> (385; 4% instances), <tt><a href="sv_swell-pos-PROPN.html">PROPN</a></tt> (7; 0% instances), <tt><a href="sv_swell-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="sv_swell-pos-VERB.html">VERB</a></tt> (3; 0% instances).
 
 ### `NOUN`
 
@@ -55,14 +55,14 @@ The most frequent other feature values with which `PRON` and `Definite` co-occur
 
 ### `ADJ`
 
-635 <tt><a href="sv_swell-pos-ADJ.html">ADJ</a></tt> tokens (72% of all `ADJ` tokens) have a non-empty value of `Definite`.
+634 <tt><a href="sv_swell-pos-ADJ.html">ADJ</a></tt> tokens (72% of all `ADJ` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `ADJ` and `Definite` co-occurred: <tt><a href="sv_swell-feat-Case.html">Case</a></tt><tt>=Nom</tt> (634; 100%), <tt><a href="sv_swell-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (588; 93%), <tt><a href="sv_swell-feat-Number.html">Number</a></tt><tt>=Sing</tt> (362; 57%).
+The most frequent other feature values with which `ADJ` and `Definite` co-occurred: <tt><a href="sv_swell-feat-Case.html">Case</a></tt><tt>=Nom</tt> (633; 100%), <tt><a href="sv_swell-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (587; 93%), <tt><a href="sv_swell-feat-Number.html">Number</a></tt><tt>=Sing</tt> (361; 57%).
 
 `ADJ` tokens may have the following values of `Definite`:
 
 * `Def` (106; 17% of non-empty `Definite`): <em>bästa, flesta, viktigaste, andra, sista, svenska, hela, egna, ena, små</em>
-* `Ind` (529; 83% of non-empty `Definite`): <em>nya, viktigt, andra, själv, stor, viktig, svårt, mycket, vissa, nytt</em>
+* `Ind` (528; 83% of non-empty `Definite`): <em>nya, viktigt, andra, själv, stor, viktig, svårt, mycket, vissa, nytt</em>
 * `EMPTY` (242): <em>olika, många, bra, bättre, första, mer, flera, enda, äldre, second</em>
 
 <table>
@@ -127,7 +127,7 @@ The most frequent other feature values with which `VERB` and `Definite` co-occur
 
 The 10 most frequent relations where parent and child node agree in `Definite`:
 <tt>NOUN --[<tt><a href="sv_swell-dep-det.html">det</a></tt>]--> DET</tt> (303; 84%),
-<tt>NOUN --[<tt><a href="sv_swell-dep-amod.html">amod</a></tt>]--> ADJ</tt> (285; 58%),
+<tt>NOUN --[<tt><a href="sv_swell-dep-amod.html">amod</a></tt>]--> ADJ</tt> (284; 58%),
 <tt>NOUN --[<tt><a href="sv_swell-dep-conj.html">conj</a></tt>]--> NOUN</tt> (116; 89%),
 <tt>NOUN --[<tt><a href="sv_swell-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (94; 64%),
 <tt>ADJ --[<tt><a href="sv_swell-dep-conj.html">conj</a></tt>]--> ADJ</tt> (33; 85%),

@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: <tt><a href="ab_abnc-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-1 nodes (0%) are attached to their parents as `acl`.
+3 nodes (0%) are attached to their parents as `acl`.
 
-1 instances of `acl` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.
+3 instances of `acl` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.66666666666667.
 
-The following 1 pairs of parts of speech are connected with `acl`: <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (1; 100% instances).
+The following 1 pairs of parts of speech are connected with `acl`: <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (3; 100% instances).
 
 
 ~~~ conllu

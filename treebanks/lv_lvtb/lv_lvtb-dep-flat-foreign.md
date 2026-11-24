@@ -14,7 +14,7 @@ There are also 1 other language-specific subtypes of `flat`: <tt><a href="lv_lvt
 128 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 3.453125.
 
-The following 2 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (126; 98% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (2; 2% instances).
+The following 3 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (125; 98% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (2; 2% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -86,6 +86,78 @@ The following 2 pairs of parts of speech are connected with `flat:foreign`: <tt>
 38	462	462	NUM	xn	NumType=Card	36	conj	33:dep|36:conj	LvtbNodeId=a-z82-p31s4w38|SpaceAfter=No
 39	)	)	PUNCT	zb	_	33	punct	33:punct	LvtbNodeId=a-z82-p31s4w39|SpaceAfter=No
 40	.	.	PUNCT	zs	_	3	punct	3:punct	LvtbNodeId=a-z82-p31s4w40
+
+~~~
+
+
+~~~ conllu
+# visual-style 30	bgColor:blue
+# visual-style 30	fgColor:white
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 16 30 flat:foreign	color:blue
+1	LNB	LNB	PROPN	yp	Abbr=Yes	2	nmod	2:nmod	LvtbNodeId=a-p3774-p7s2w1
+2	direktors	direktors	NOUN	ncmsn1	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	5:nsubj	LvtbNodeId=a-p3774-p7s2w2
+3	vēstniekam	vēstnieks	NOUN	ncmsd1	Case=Dat|Gender=Masc|Number=Sing	5	iobj	5:iobj	LvtbNodeId=a-p3774-p7s2w3
+4	bija	būt	AUX	vcnisii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	5	aux	5:aux	LvtbNodeId=a-p3774-p7s2w4
+5	sarūpējis	sarūpēt	VERB	vmnpdmsnasnpn	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	LvtbNodeId=a-p3774-p7s2w5
+6	pārsteigumu	pārsteigums	NOUN	ncmsa1	Case=Acc|Gender=Masc|Number=Sing	5	obj	5:obj	LvtbNodeId=a-p3774-p7s2w6|SpaceAfter=No
+7	:	:	PUNCT	zo	_	46	punct	46:punct	LvtbNodeId=a-p3774-p7s2w7
+8	rādot	rādīt	VERB	vmnpu0000000n	Polarity=Pos|VerbForm=Conv	46	advcl	46:advcl	LvtbNodeId=a-p3774-p7s2w8
+9	1809.	1809.	ADJ	xo	NumType=Ord	10	amod	10:amod	LvtbNodeId=a-p3774-p7s2w9
+10	gadā	gads	NOUN	ncmsl1	Case=Loc|Gender=Masc|Number=Sing	11	obl	11:obl:loc	LvtbNodeId=a-p3774-p7s2w10
+11	izdoto	izdot	VERB	vmnpdfsapsypn	Aspect=Perf|Case=Acc|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	14	amod	14:amod	LvtbNodeId=a-p3774-p7s2w11
+12	Luidži	Luidži	PROPN	npm000	Gender=Masc	14	nmod	14:nmod	LvtbNodeId=a-p3774-p7s2w12
+13	Lanzi	Lanzi	PROPN	npm000	Gender=Masc	12	flat:name	12:flat:name	LvtbNodeId=a-p3774-p7s2w13
+14	darbu	darbs	NOUN	ncmsa1	Case=Acc|Gender=Masc|Number=Sing	16	nmod	16:nmod	LvtbNodeId=a-p3774-p7s2w14
+15	“	"	PUNCT	zq	_	16	punct	16:punct	LvtbNodeId=a-p3774-p7s2w15|SpaceAfter=No
+16	Storia	Storia	X	xf	Foreign=Yes	8	obj	8:obj	LvtbNodeId=a-p3774-p7s2w16
+17	pittorica	pittorica	X	xf	Foreign=Yes	16	flat:foreign	16:flat:foreign	LvtbNodeId=a-p3774-p7s2w17
+18	della	della	X	xf	Foreign=Yes	16	flat:foreign	16:flat:foreign	LvtbNodeId=a-p3774-p7s2w18
+19	Italia	Italia	X	xf	Foreign=Yes	16	flat:foreign	16:flat:foreign	LvtbNodeId=a-p3774-p7s2w19
+20	dal	dal	X	xf	Foreign=Yes	16	flat:foreign	16:flat:foreign	LvtbNodeId=a-p3774-p7s2w20
+21	risorgimento	risorgimento	X	xf	Foreign=Yes	16	flat:foreign	16:flat:foreign	LvtbNodeId=a-p3774-p7s2w21
+22	delle	delle	X	xf	Foreign=Yes	16	flat:foreign	16:flat:foreign	LvtbNodeId=a-p3774-p7s2w22
+23	Belle	Belle	X	xf	Foreign=Yes	16	flat:foreign	16:flat:foreign	LvtbNodeId=a-p3774-p7s2w23
+24	Arti	Arti	X	xf	Foreign=Yes	16	flat:foreign	16:flat:foreign	LvtbNodeId=a-p3774-p7s2w24
+25	fin	fin	X	xf	Foreign=Yes	16	flat:foreign	16:flat:foreign	LvtbNodeId=a-p3774-p7s2w25
+26	presso	presso	X	xf	Foreign=Yes	16	flat:foreign	16:flat:foreign	LvtbNodeId=a-p3774-p7s2w26
+27	al	al	X	xf	Foreign=Yes	16	flat:foreign	16:flat:foreign	LvtbNodeId=a-p3774-p7s2w27
+28	fine	fine	X	xf	Foreign=Yes	16	flat:foreign	16:flat:foreign	LvtbNodeId=a-p3774-p7s2w28
+29	del	del	X	xf	Foreign=Yes	16	flat:foreign	16:flat:foreign	LvtbNodeId=a-p3774-p7s2w29
+30	XVIII	XVIII	SYM	xx	_	16	flat:foreign	16:flat:foreign	LvtbNodeId=a-p3774-p7s2w30
+31	secolo	secolo	X	xf	Foreign=Yes	16	flat:foreign	16:flat:foreign	LvtbNodeId=a-p3774-p7s2w31|SpaceAfter=No
+32	"	"	PUNCT	zq	_	16	punct	16:punct	LvtbNodeId=a-p3774-p7s2w32
+33	un	un	CCONJ	cc	_	34	cc	34:cc	LvtbNodeId=a-p3774-p7s2w33
+34	stāstot	stāstīt	VERB	vmnpu0000000n	Polarity=Pos|VerbForm=Conv	8	conj	8:conj|46:advcl	LvtbNodeId=a-p3774-p7s2w34|SpaceAfter=No
+35	,	,	PUNCT	zc	_	39	punct	39:punct	LvtbNodeId=a-p3774-p7s2w35
+36	kā	kā	ADV	r0n	PronType=Int	39	advmod	39:advmod	LvtbNodeId=a-p3774-p7s2w36
+37	šis	šis	DET	pd3msnn	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	38	det	38:det	LvtbNodeId=a-p3774-p7s2w37
+38	izdevums	izdevums	NOUN	ncmsn1	Case=Nom|Gender=Masc|Number=Sing	39	nsubj	39:nsubj	LvtbNodeId=a-p3774-p7s2w38
+39	nokļuvis	nokļūt	VERB	vmnpdmsnasnpn	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	34	ccomp	34:ccomp	LvtbNodeId=a-p3774-p7s2w39
+40	Nacionālajā	nacionāls	ADJ	arfslyp	Case=Loc|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	41	amod	41:amod	LvtbNodeId=a-p3774-p7s2w40
+41	bibliotēkā	bibliotēka	NOUN	ncfsl4	Case=Loc|Gender=Fem|Number=Sing	39	obl	39:obl:loc	LvtbNodeId=a-p3774-p7s2w41|SpaceAfter=No
+42	,	,	PUNCT	zc	_	39	punct	39:punct	LvtbNodeId=a-p3774-p7s2w42
+43	noslēgumā	noslēgums	NOUN	ncmsl1	Case=Loc|Gender=Masc|Number=Sing	46	obl	46:obl:loc	LvtbNodeId=a-p3774-p7s2w43
+44	Andris	Andris	PROPN	npmsn2	Case=Nom|Gender=Masc|Number=Sing	46	nsubj	46:nsubj	LvtbNodeId=a-p3774-p7s2w44
+45	Vilks	Vilks	PROPN	npmsn1	Case=Nom|Gender=Masc|Number=Sing	44	flat:name	44:flat:name	LvtbNodeId=a-p3774-p7s2w45
+46	atšķīra	atšķirt	VERB	vmnist130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	5:conj	LvtbNodeId=a-p3774-p7s2w46
+47	grāmatas	grāmata	NOUN	ncfsg4	Case=Gen|Gender=Fem|Number=Sing	49	nmod	49:nmod:gen	LvtbNodeId=a-p3774-p7s2w47
+48	pēdējās	pēdējais	ADJ	arfpayp	Case=Acc|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur	49	amod	49:amod	LvtbNodeId=a-p3774-p7s2w48
+49	lappuses	lappuse	NOUN	ncfpa5	Case=Acc|Gender=Fem|Number=Plur	46	obj	46:obj	LvtbNodeId=a-p3774-p7s2w49|SpaceAfter=No
+50	,	,	PUNCT	zc	_	52	punct	52:punct	LvtbNodeId=a-p3774-p7s2w50
+51	kuras	kura	DET	pr0fpan	Case=Acc|Gender=Fem|Number=Plur|PronType=Rel	52	obj	52:obj	LvtbNodeId=a-p3774-p7s2w51
+52	rotāja	rotāt	VERB	vmnist230an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	49	acl	49:acl	LvtbNodeId=a-p3774-p7s2w52
+53	unikāls	unikāls	ADJ	armsnnp	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	54	amod	54:amod	LvtbNodeId=a-p3774-p7s2w53
+54	fakts	fakts	NOUN	ncmsn1	Case=Nom|Gender=Masc|Number=Sing	52	nsubj	52:nsubj	LvtbNodeId=a-p3774-p7s2w54
+55	-	-	PUNCT	zd	_	61	punct	61:punct	LvtbNodeId=a-p3774-p7s2w55
+56	Stendāla	Stendāls	PROPN	npmsg1	Case=Gen|Gender=Masc|Number=Sing	58	nmod	58:nmod:gen	LvtbNodeId=a-p3774-p7s2w56
+57	oriģinālajā	oriģināls	ADJ	armslyp	Case=Loc|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	58	amod	58:amod	LvtbNodeId=a-p3774-p7s2w57
+58	rokrakstā	rokraksts	NOUN	ncmsl1	Case=Loc|Gender=Masc|Number=Sing	59	obl	59:obl:loc	LvtbNodeId=a-p3774-p7s2w58
+59	lasāmi	lasīt	VERB	vmnpdmpnppnpn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	61	amod	61:amod	LvtbNodeId=a-p3774-p7s2w59
+60	viņa	viņš	PRON	pp3msgn	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	61	nmod	61:nmod	LvtbNodeId=a-p3774-p7s2w60
+61	pieraksti	pieraksts	NOUN	ncmpn1	Case=Nom|Gender=Masc|Number=Plur	54	appos	54:appos	LvtbNodeId=a-p3774-p7s2w61|SpaceAfter=No
+62	.	.	PUNCT	zs	_	5	punct	5:punct	LvtbNodeId=a-p3774-p7s2w62
 
 ~~~
 

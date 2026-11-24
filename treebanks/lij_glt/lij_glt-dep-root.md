@@ -11,9 +11,9 @@ This relation is universal.
 316 nodes (5%) are attached to their parents as `root`.
 
 316 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.04430379746835.
+Average distance between parent and child is 6.13924050632911.
 
-The following 9 pairs of parts of speech are connected with `root`: -<tt><a href="lij_glt-pos-VERB.html">VERB</a></tt> (240; 76% instances), -<tt><a href="lij_glt-pos-NOUN.html">NOUN</a></tt> (39; 12% instances), -<tt><a href="lij_glt-pos-ADJ.html">ADJ</a></tt> (20; 6% instances), -<tt><a href="lij_glt-pos-PROPN.html">PROPN</a></tt> (7; 2% instances), -<tt><a href="lij_glt-pos-PRON.html">PRON</a></tt> (4; 1% instances), -<tt><a href="lij_glt-pos-INTJ.html">INTJ</a></tt> (3; 1% instances), -<tt><a href="lij_glt-pos-ADV.html">ADV</a></tt> (1; 0% instances), -<tt><a href="lij_glt-pos-AUX.html">AUX</a></tt> (1; 0% instances), -<tt><a href="lij_glt-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `root`: -<tt><a href="lij_glt-pos-VERB.html">VERB</a></tt> (233; 74% instances), -<tt><a href="lij_glt-pos-NOUN.html">NOUN</a></tt> (44; 14% instances), -<tt><a href="lij_glt-pos-ADJ.html">ADJ</a></tt> (20; 6% instances), -<tt><a href="lij_glt-pos-PROPN.html">PROPN</a></tt> (8; 3% instances), -<tt><a href="lij_glt-pos-PRON.html">PRON</a></tt> (5; 2% instances), -<tt><a href="lij_glt-pos-INTJ.html">INTJ</a></tt> (2; 1% instances), -<tt><a href="lij_glt-pos-NUM.html">NUM</a></tt> (2; 1% instances), -<tt><a href="lij_glt-pos-ADP.html">ADP</a></tt> (1; 0% instances), -<tt><a href="lij_glt-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -28,10 +28,10 @@ The following 9 pairs of parts of speech are connected with `root`: -<tt><a href
 4	ponto	ponto	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	_
 5	lì	lì	ADV	_	_	4	advmod	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	8	punct	_	_
-7	cöse	cöse	PRON	_	PronType=Int	8	obl	_	_
+7	cöse	cöse	PRON	_	PronType=Int	8	obl:arg	_	_
 8	serve	servî	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	ciù	ciù	ADV	_	_	8	advmod	_	_
-10	cianze	cianze	VERB	_	Tense=Pres|VerbForm=Inf	8	ccomp	_	SpaceAfter=No
+10	cianze	cianze	VERB	_	Tense=Pres|VerbForm=Inf	8	csubj	_	SpaceAfter=No
 11	?	?	PUNCT	_	_	8	punct	_	_
 
 ~~~
@@ -46,8 +46,8 @@ The following 9 pairs of parts of speech are connected with `root`: -<tt><a href
 1	À	à	ADP	_	_	3	case	_	_
 2	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	sciô	sciô	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
-4	Aostin	Aostin	PROPN	_	Gender=Masc|Number=Sing	3	flat	_	_
-5	Pedevilla	Pedevilla	PROPN	_	Gender=Masc|Number=Sing	3	flat	_	_
+4	Aostin	Aostin	PROPN	_	Gender=Masc|Number=Sing	3	nmod	_	_
+5	Pedevilla	Pedevilla	PROPN	_	Gender=Masc|Number=Sing	4	flat	_	_
 6	qd.	qd.	ADV	_	_	7	advmod	_	_
 7	G.B.	G.B.	PROPN	_	Gender=Masc|Number=Sing	3	appos	_	_
 

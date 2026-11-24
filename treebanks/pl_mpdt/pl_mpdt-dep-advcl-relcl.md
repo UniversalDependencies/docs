@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="pl_mpdt-dep-advcl.html">advcl</a></tt>.
 There are also 1 other language-specific subtypes of `advcl`: <tt><a href="pl_mpdt-dep-advcl-cmp.html">advcl:cmp</a></tt>.
 
-26 nodes (0%) are attached to their parents as `advcl:relcl`.
+35 nodes (0%) are attached to their parents as `advcl:relcl`.
 
-20 instances of `advcl:relcl` (77%) are left-to-right (parent precedes child).
-Average distance between parent and child is 10.1153846153846.
+28 instances of `advcl:relcl` (80%) are left-to-right (parent precedes child).
+Average distance between parent and child is 9.45714285714286.
 
-The following 4 pairs of parts of speech are connected with `advcl:relcl`: <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt> (20; 77% instances), <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt> (3; 12% instances), <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt> (2; 8% instances), <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-NUM.html">NUM</a></tt> (1; 4% instances).
+The following 4 pairs of parts of speech are connected with `advcl:relcl`: <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt> (26; 74% instances), <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt> (5; 14% instances), <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt> (3; 9% instances), <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-PRON.html">PRON</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -74,7 +74,7 @@ The following 4 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 20 advcl:relcl	color:blue
-1	kazał	kazać	VERB	praet:sg:m:biasp	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Translit=kazał
+1	kazał	kazać	VERB	praet:sg:m:biasp	Aspect=Imp,Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Translit=kazał
 2	eś	być	AUX	aglt:sg:sec:imperf:wok	Aspect=Imp|Number=Sing|Person=2|Variant=Long	1	aux:clitic	1:aux:clitic	Translit=eś
 3	katowi	kat	NOUN	subst:sg:dat:m	Case=Dat|Gender=Masc|Number=Sing	1	obl	1:obl	Translit=katowi
 4	zamordować	zamordować	VERB	inf:perf	Aspect=Perf|VerbForm=Inf|Voice=Act	1	xcomp	1:xcomp	SpaceAfter=No|Translit=zamordować

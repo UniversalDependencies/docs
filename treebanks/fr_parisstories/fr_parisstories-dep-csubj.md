@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-16 nodes (0%) are attached to their parents as `csubj`.
+17 nodes (0%) are attached to their parents as `csubj`.
 
-16 instances of `csubj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.25.
+17 instances of `csubj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.11764705882353.
 
-The following 6 pairs of parts of speech are connected with `csubj`: <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> (10; 63% instances), <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> (2; 13% instances), <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> (1; 6% instances), <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> (1; 6% instances), <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> (1; 6% instances).
+The following 6 pairs of parts of speech are connected with `csubj`: <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> (11; 65% instances), <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> (2; 12% instances), <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> (1; 6% instances), <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> (1; 6% instances), <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
@@ -31,7 +31,7 @@ The following 6 pairs of parts of speech are connected with `csubj`: <tt><a href
 7	on	on	PRON	_	Case=Nom|Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	10	nsubj	_	Exponence[Gender]=Absent|Exponence[Number]=Inherent|Exponence[Person]=Inherent
 8	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux:tense	_	_
 9	toujours	toujours	ADV	_	_	10	advmod	_	_
-10	resté	rester	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	5	csubj	_	Exponence[Gender]=Absent|Exponence[Number]=Absent|PastPartHasSpokenGender=NotInThisDialect|Tense[denom]=Past
+10	resté	rester	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	csubj	_	Exponence[Gender]=Absent|Exponence[Number]=Absent|PastPartHasSpokenGender=NotInThisDialect|Status[Tense]=Denom
 11	là-dessus	là	ADV	_	_	10	advmod	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	5	punct	_	_
 
@@ -95,7 +95,7 @@ The following 6 pairs of parts of speech are connected with `csubj`: <tt><a href
 18	que	que	PRON	_	PronType=Rel	21	obj	_	_
 19	j'	moi	PRON	_	Case=Nom|Emph=No|Number=Sing|Person=1|PronType=Prs	21	nsubj	_	Exponence[Number]=Inherent|Exponence[Person]=Inherent|SpaceAfter=No
 20	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	21	aux:tense	_	_
-21	adoré	adorer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	17	acl:relcl	_	Exponence[Gender]=Absent|Exponence[Number]=Absent|PastPartHasSpokenGender=NotInThisDialect|Tense[denom]=Past
+21	adoré	adorer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	17	acl:relcl	_	Exponence[Gender]=Absent|Exponence[Number]=Absent|PastPartHasSpokenGender=NotInThisDialect|Status[Tense]=Denom
 22	là-bas	là-bas	ADV	_	_	21	advmod	_	SpaceAfter=No
 23	,	,	PUNCT	_	_	31	punct	_	_
 24	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	31	nsubj:outer	_	Exponence[Gender]=Inherent|Exponence[Number]=Inherent|Exponence[Person]=Inherent|SpaceAfter=No
@@ -105,7 +105,7 @@ The following 6 pairs of parts of speech are connected with `csubj`: <tt><a href
 28	gens	gens	NOUN	_	Gender=Masc|Number=Plur	31	nsubj	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent
 29	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	31	aux:pass	_	_
 30	vraiment	vraiment	ADV	_	_	31	advmod	_	_
-31	ouverts	ouvrir	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	17	conj	_	Exponence[Number]=Absent|PastPartHasSpokenGender=Yes|SpaceAfter=No|Tense[denom]=Past
+31	ouverts	ouvrir	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	17	conj	_	Exponence[Number]=Absent|PastPartHasSpokenGender=Yes|SpaceAfter=No|Status[Tense]=Denom
 32	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~

@@ -37,7 +37,7 @@ The following 3 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 # visual-style 22	bgColor:blue
 # visual-style 22	fgColor:white
 # visual-style 22 24 nmod:poss	color:blue
-1	Formac	unknown	NOUN	NN	_	13	nsubj	_	_
+1	Formac	Formac	NOUN	NN	_	13	nsubj	_	_
 2	aus	aus	ADP	APPR	AdpType=Prep|Case=Dat	3	case	_	_
 3	Blankenfelde	Blankenfeld	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing	1	nmod	_	_
 4	,	,	PUNCT	$,	PunctType=Comm	11	punct	_	_
@@ -52,7 +52,7 @@ The following 3 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 13	zeigt	zeigen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 14	auf	auf	ADP	APPR	AdpType=Prep|Case=Dat	16	case	_	_
 15	der	der	DET	ART	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
-16	Macworld	unknown	NOUN	NN	_	13	obl	_	_
+16	Macworld	Macworld	NOUN	NN	_	13	obl	_	_
 17	zwei	zwei	NUM	CARD	Number=Plur|NumType=Card	18	nummod	_	_
 18	Erweiterungskarten	Erweiterungskarte	NOUN	NN	Gender=Fem|Number=Plur	13	obj	_	_
 19	für	für	ADP	APPR	AdpType=Prep|Case=Acc	22	case	_	_

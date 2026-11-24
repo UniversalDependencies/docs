@@ -38,4 +38,4 @@ Superlative degree.
 - _pad kirdan harw kār <b>mādagwarīhātom</b> tis tuxšāgīh_ "As for doing (something), the **most fundamental** aspect of every deed (is) diligence."
 
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:49 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:39 CET -->

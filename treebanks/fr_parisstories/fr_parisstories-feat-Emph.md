@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="fr_parisstories-pos
 
 4128 <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> tokens (65% of all `PRON` tokens) have a non-empty value of `Emph`.
 
-The most frequent other feature values with which `PRON` and `Emph` co-occurred: <tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3792; 92%), <tt><a href="fr_parisstories-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3387; 82%), <tt><a href="fr_parisstories-feat-Case.html">Case</a></tt><tt>=Nom</tt> (3171; 77%), <tt><a href="fr_parisstories-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2239; 54%), <tt><a href="fr_parisstories-feat-Person.html">Person</a></tt><tt>=3</tt> (2093; 51%).
+The most frequent other feature values with which `PRON` and `Emph` co-occurred: <tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3791; 92%), <tt><a href="fr_parisstories-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3387; 82%), <tt><a href="fr_parisstories-feat-Case.html">Case</a></tt><tt>=Nom</tt> (3171; 77%), <tt><a href="fr_parisstories-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2239; 54%), <tt><a href="fr_parisstories-feat-Person.html">Person</a></tt><tt>=3</tt> (2093; 51%).
 
 `PRON` tokens may have the following values of `Emph`:
 
@@ -42,8 +42,8 @@ The most frequent other feature values with which `PRON` and `Emph` co-occurred:
 ## Relations with Agreement in `Emph`
 
 The 10 most frequent relations where parent and child node agree in `Emph`:
-<tt>PRON --[<tt><a href="fr_parisstories-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (59; 70%),
+<tt>PRON --[<tt><a href="fr_parisstories-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (53; 71%),
 <tt>PRON --[<tt><a href="fr_parisstories-dep-conj.html">conj</a></tt>]--> PRON</tt> (5; 83%),
-<tt>PRON --[<tt><a href="fr_parisstories-dep-dep.html">dep</a></tt>]--> PRON</tt> (3; 60%),
-<tt>PRON --[<tt><a href="fr_parisstories-dep-obj.html">obj</a></tt>]--> PRON</tt> (2; 67%).
+<tt>PRON --[<tt><a href="fr_parisstories-dep-obj.html">obj</a></tt>]--> PRON</tt> (4; 80%),
+<tt>PRON --[<tt><a href="fr_parisstories-dep-dep.html">dep</a></tt>]--> PRON</tt> (3; 60%).
 

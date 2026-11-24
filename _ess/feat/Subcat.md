@@ -24,4 +24,4 @@ A verb that takes a direct (accusative) object as argument (in addition to the s
 
 * [ess] _Kaamgek <b>iflaak</b>._ "He/she <b>lost</b> the boots." The inflection _-a-_ `Subcat=Tran` in the verb indicates that it is a transitive verb.
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:20 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:04 CET -->

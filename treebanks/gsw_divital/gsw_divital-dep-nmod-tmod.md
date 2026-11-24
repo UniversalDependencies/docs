@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="gsw_divital-dep-nmod.html">nmod</a></tt>.
 There are also 2 other language-specific subtypes of `nmod`: <tt><a href="gsw_divital-dep-nmod-lmod.html">nmod:lmod</a></tt>, <tt><a href="gsw_divital-dep-nmod-poss.html">nmod:poss</a></tt>.
 
-23 nodes (0%) are attached to their parents as `nmod:tmod`.
+24 nodes (0%) are attached to their parents as `nmod:tmod`.
 
-18 instances of `nmod:tmod` (78%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.34782608695652.
+19 instances of `nmod:tmod` (79%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.29166666666667.
 
-The following 9 pairs of parts of speech are connected with `nmod:tmod`: <tt><a href="gsw_divital-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gsw_divital-pos-NOUN.html">NOUN</a></tt> (12; 52% instances), <tt><a href="gsw_divital-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gsw_divital-pos-ADV.html">ADV</a></tt> (2; 9% instances), <tt><a href="gsw_divital-pos-SYM.html">SYM</a></tt>-<tt><a href="gsw_divital-pos-NOUN.html">NOUN</a></tt> (2; 9% instances), <tt><a href="gsw_divital-pos-SYM.html">SYM</a></tt>-<tt><a href="gsw_divital-pos-NUM.html">NUM</a></tt> (2; 9% instances), <tt><a href="gsw_divital-pos-ADV.html">ADV</a></tt>-<tt><a href="gsw_divital-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="gsw_divital-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="gsw_divital-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="gsw_divital-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gsw_divital-pos-ADP.html">ADP</a></tt> (1; 4% instances), <tt><a href="gsw_divital-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gsw_divital-pos-NUM.html">NUM</a></tt> (1; 4% instances), <tt><a href="gsw_divital-pos-NUM.html">NUM</a></tt>-<tt><a href="gsw_divital-pos-NOUN.html">NOUN</a></tt> (1; 4% instances).
+The following 9 pairs of parts of speech are connected with `nmod:tmod`: <tt><a href="gsw_divital-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gsw_divital-pos-NOUN.html">NOUN</a></tt> (12; 50% instances), <tt><a href="gsw_divital-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gsw_divital-pos-ADV.html">ADV</a></tt> (3; 13% instances), <tt><a href="gsw_divital-pos-SYM.html">SYM</a></tt>-<tt><a href="gsw_divital-pos-NOUN.html">NOUN</a></tt> (2; 8% instances), <tt><a href="gsw_divital-pos-SYM.html">SYM</a></tt>-<tt><a href="gsw_divital-pos-NUM.html">NUM</a></tt> (2; 8% instances), <tt><a href="gsw_divital-pos-ADV.html">ADV</a></tt>-<tt><a href="gsw_divital-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="gsw_divital-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="gsw_divital-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="gsw_divital-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gsw_divital-pos-ADP.html">ADP</a></tt> (1; 4% instances), <tt><a href="gsw_divital-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gsw_divital-pos-NUM.html">NUM</a></tt> (1; 4% instances), <tt><a href="gsw_divital-pos-NUM.html">NUM</a></tt>-<tt><a href="gsw_divital-pos-NOUN.html">NOUN</a></tt> (1; 4% instances).
 
 
 ~~~ conllu

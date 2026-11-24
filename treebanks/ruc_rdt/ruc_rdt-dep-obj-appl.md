@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ruc_rdt-dep-obj.html">obj</a></tt>.
 There are also 1 other language-specific subtypes of `obj`: <tt><a href="ruc_rdt-dep-obj-caus.html">obj:caus</a></tt>.
 
-1 nodes (0%) are attached to their parents as `obj:appl`.
+2 nodes (0%) are attached to their parents as `obj:appl`.
 
-1 instances of `obj:appl` (100%) are left-to-right (parent precedes child).
+2 instances of `obj:appl` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 1 pairs of parts of speech are connected with `obj:appl`: <tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt>-<tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt> (1; 100% instances).
+The following 1 pairs of parts of speech are connected with `obj:appl`: <tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt>-<tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt> (2; 100% instances).
 
 
 ~~~ conllu

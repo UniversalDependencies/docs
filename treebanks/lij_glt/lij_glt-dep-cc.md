@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-243 nodes (4%) are attached to their parents as `cc`.
+244 nodes (4%) are attached to their parents as `cc`.
 
-243 instances of `cc` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.91769547325103.
+244 instances of `cc` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.88114754098361.
 
-The following 10 pairs of parts of speech are connected with `cc`: <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-CCONJ.html">CCONJ</a></tt> (139; 57% instances), <tt><a href="lij_glt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lij_glt-pos-CCONJ.html">CCONJ</a></tt> (51; 21% instances), <tt><a href="lij_glt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lij_glt-pos-CCONJ.html">CCONJ</a></tt> (21; 9% instances), <tt><a href="lij_glt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lij_glt-pos-CCONJ.html">CCONJ</a></tt> (11; 5% instances), <tt><a href="lij_glt-pos-PRON.html">PRON</a></tt>-<tt><a href="lij_glt-pos-CCONJ.html">CCONJ</a></tt> (10; 4% instances), <tt><a href="lij_glt-pos-ADV.html">ADV</a></tt>-<tt><a href="lij_glt-pos-CCONJ.html">CCONJ</a></tt> (6; 2% instances), <tt><a href="lij_glt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lij_glt-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="lij_glt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="lij_glt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="lij_glt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lij_glt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="lij_glt-pos-NUM.html">NUM</a></tt>-<tt><a href="lij_glt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `cc`: <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-CCONJ.html">CCONJ</a></tt> (141; 58% instances), <tt><a href="lij_glt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lij_glt-pos-CCONJ.html">CCONJ</a></tt> (50; 20% instances), <tt><a href="lij_glt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lij_glt-pos-CCONJ.html">CCONJ</a></tt> (22; 9% instances), <tt><a href="lij_glt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lij_glt-pos-CCONJ.html">CCONJ</a></tt> (11; 5% instances), <tt><a href="lij_glt-pos-PRON.html">PRON</a></tt>-<tt><a href="lij_glt-pos-CCONJ.html">CCONJ</a></tt> (11; 5% instances), <tt><a href="lij_glt-pos-ADV.html">ADV</a></tt>-<tt><a href="lij_glt-pos-CCONJ.html">CCONJ</a></tt> (6; 2% instances), <tt><a href="lij_glt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="lij_glt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="lij_glt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lij_glt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="lij_glt-pos-NUM.html">NUM</a></tt>-<tt><a href="lij_glt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -28,10 +28,10 @@ The following 10 pairs of parts of speech are connected with `cc`: <tt><a href="
 4	ponto	ponto	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	_
 5	lì	lì	ADV	_	_	4	advmod	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	8	punct	_	_
-7	cöse	cöse	PRON	_	PronType=Int	8	obl	_	_
+7	cöse	cöse	PRON	_	PronType=Int	8	obl:arg	_	_
 8	serve	servî	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	ciù	ciù	ADV	_	_	8	advmod	_	_
-10	cianze	cianze	VERB	_	Tense=Pres|VerbForm=Inf	8	ccomp	_	SpaceAfter=No
+10	cianze	cianze	VERB	_	Tense=Pres|VerbForm=Inf	8	csubj	_	SpaceAfter=No
 11	?	?	PUNCT	_	_	8	punct	_	_
 
 ~~~
@@ -62,7 +62,7 @@ The following 10 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
 # visual-style 13 12 cc	color:blue
-1	Mary	Mary	PROPN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+1	Mary	Mary	PROPN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
 2	a	o	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	expl	_	_
 3	l'	l'	PART	_	_	5	dep	_	SpaceAfter=No
 4	à	avei	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_

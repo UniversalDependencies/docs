@@ -60,7 +60,7 @@ The 10 most frequent ambiguous types:  의 (<tt><a href="ko_kaist-pos-ADP.html">
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 0.982143 (the average of all parts of speech is 0.998034).
+The form / lemma ratio of `ADP` is 0.982143 (the average of all parts of speech is 0.998024).
 
 The 1st highest number of forms (2) was observed with the lemma “를”: 라는, 를.
 

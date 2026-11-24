@@ -22,7 +22,7 @@ The following 7 pairs of parts of speech are connected with `case`: <tt><a href=
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 6 case	color:blue
-1	Рамаль	рамамс	VERB	V	Mood=Sub|Number[subj]=Sing|Person[subj]=3|VerbForm=Fin	0	root	_	_
+1	Рамаль	рамамс	VERB	V	Mood=Cnd|Number[subj]=Sing|Person[subj]=3|VerbForm=Fin	0	root	_	_
 2	хуш	хуш	ADV	Adv	_	5	advmod	_	_
 3	тядязень	тядя	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=1	5	nmod	_	_
 4	муськома	муськомс	VERB	V	Case=Nom|Definite=Ind|Number=Sing|VerbForm=Vnoun	5	nmod	_	_

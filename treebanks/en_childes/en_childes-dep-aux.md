@@ -52,7 +52,7 @@ The following 14 pairs of parts of speech are connected with `aux`: <tt><a href=
 9	be	be	AUX	VB	_	10	cop	10:cop	_
 10	ready	ready	ADJ	JJ	_	5	advcl	5:advcl:before	_
 11	sugar	sugar	NOUN	NN	_	5	vocative	5:vocative	SpaceAfter=No
-12	?	?	PUNCT	?	_	5	punct	5:punct	_
+12	?	?	PUNCT	.	_	5	punct	5:punct	_
 
 ~~~
 
@@ -69,7 +69,7 @@ The following 14 pairs of parts of speech are connected with `aux`: <tt><a href=
 4	you	you	PRON	PRP	_	2	nsubj	2:nsubj	_
 5	be	be	AUX	VB	_	2	cop	2:cop	_
 6	in	in	ADV	RB	_	2	case	2:case	SpaceAfter=No
-7	?	?	PUNCT	?	_	2	punct	2:punct	_
+7	?	?	PUNCT	.	_	2	punct	2:punct	_
 
 ~~~
 

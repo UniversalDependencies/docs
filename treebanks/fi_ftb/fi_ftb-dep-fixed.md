@@ -57,7 +57,7 @@ The following 47 pairs of parts of speech are connected with `fixed`: <tt><a hre
 2	huolehtivat	huolehtia	VERB	V,Act,Ind,Pres,Pl3	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	toinen	toinen	PRON	Pron,Qnt,Sg,Nom	Case=Nom|ExtPos=PRON|Number=Sing|PronType=Ind	2	obl	_	FTB-PronType=Qnt
 4	toisestaan	toinen	PRON	Pron,Recip,Sg,Ela,Px3	Case=Ela|Number=Sing|Person[psor]=3|PronType=Rcp	3	fixed	_	_
-5	.	.	PUNCT	Pun	_	3	punct	_	_
+5	.	.	PUNCT	Pun	_	2	punct	_	_
 
 ~~~
 

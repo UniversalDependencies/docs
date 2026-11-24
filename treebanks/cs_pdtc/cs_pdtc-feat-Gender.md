@@ -50,7 +50,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 358829 <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="cs_pdtc-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (335939; 94%), <tt><a href="cs_pdtc-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (319362; 89%), <tt><a href="cs_pdtc-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (303217; 85%), <tt><a href="cs_pdtc-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (303217; 85%), <tt><a href="cs_pdtc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (235891; 66%), <tt><a href="cs_pdtc-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (207172; 58%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="cs_pdtc-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (335939; 94%), <tt><a href="cs_pdtc-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (319362; 89%), <tt><a href="cs_pdtc-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (307350; 86%), <tt><a href="cs_pdtc-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (303217; 85%), <tt><a href="cs_pdtc-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (303217; 85%), <tt><a href="cs_pdtc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (235891; 66%), <tt><a href="cs_pdtc-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (207172; 58%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
@@ -63,14 +63,13 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 <table>
   <tr><th>Paradigm <i>spojený</i></th><th><tt>Fem,Masc</tt></th><th><tt>Fem,Neut</tt></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="cs_pdtc-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs_pdtc-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="cs_pdtc-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_pdtc-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td></td><td></td><td><em>spojeni</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_pdtc-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs_pdtc-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_pdtc-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>spojené</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_pdtc-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs_pdtc-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cs_pdtc-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>spojeným</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_pdtc-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs_pdtc-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_pdtc-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>spojených</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_pdtc-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs_pdtc-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cs_pdtc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>spojeným</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_pdtc-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs_pdtc-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_pdtc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>spojený</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_pdtc-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs_pdtc-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_pdtc-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>spojení</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_pdtc-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_pdtc-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="cs_pdtc-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_pdtc-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td><em>spojeny</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_pdtc-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs_pdtc-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_pdtc-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td></td><td></td><td><em>spojeni</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_pdtc-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_pdtc-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_pdtc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>spojený</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_pdtc-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_pdtc-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_pdtc-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>spojené</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_pdtc-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_pdtc-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cs_pdtc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>spojenému</em></td><td></td><td></td></tr>
@@ -82,8 +81,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
   <tr><td><tt><tt><a href="cs_pdtc-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_pdtc-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cs_pdtc-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>spojených</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_pdtc-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_pdtc-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_pdtc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>spojený</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_pdtc-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_pdtc-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_pdtc-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>spojené</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_pdtc-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="cs_pdtc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pdtc-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td></td><td></td><td><em>spojen</em></td><td></td><td><em>spojeno</em></td></tr>
-  <tr><td><tt><tt><a href="cs_pdtc-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="cs_pdtc-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt>|<tt><a href="cs_pdtc-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td></td><td><em>spojena</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_pdtc-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_pdtc-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_pdtc-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td><em>spojeny</em></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_pdtc-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_pdtc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td></td><td><em>spojenou</em></td><td><em>spojené</em></td></tr>
   <tr><td><tt><tt><a href="cs_pdtc-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_pdtc-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td></td><td><em>spojené</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_pdtc-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cs_pdtc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td></td><td><em>spojené</em></td><td><em>spojenému</em></td></tr>
@@ -97,6 +95,8 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
   <tr><td><tt><tt><a href="cs_pdtc-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_pdtc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td></td><td><em>spojená</em></td><td><em>spojené</em></td></tr>
   <tr><td><tt><tt><a href="cs_pdtc-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_pdtc-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_pdtc-feat-Style.html">Style</a></tt><tt>=Coll</tt></tt></td><td></td><td></td><td></td><td></td><td><em>spojené</em></td></tr>
   <tr><td><tt><tt><a href="cs_pdtc-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_pdtc-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td></td><td><em>spojené</em></td><td><em>spojená</em></td></tr>
+  <tr><td><tt><tt><a href="cs_pdtc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pdtc-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td></td><td></td><td><em>spojen</em></td><td></td><td><em>spojeno</em></td></tr>
+  <tr><td><tt><tt><a href="cs_pdtc-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt>|<tt><a href="cs_pdtc-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td></td><td><em>spojena</em></td><td></td><td></td><td></td></tr>
 </table>
 
 ### `VERB`
@@ -299,7 +299,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="cs_pdtc-dep-amod.html">amod</a></tt>]--> ADJ</tt> (285828; 99%),
-<tt>NOUN --[<tt><a href="cs_pdtc-dep-det.html">det</a></tt>]--> DET</tt> (41255; 58%),
+<tt>NOUN --[<tt><a href="cs_pdtc-dep-det.html">det</a></tt>]--> DET</tt> (41253; 58%),
 <tt>NOUN --[<tt><a href="cs_pdtc-dep-flat.html">flat</a></tt>]--> PROPN</tt> (17268; 100%),
 <tt>PROPN --[<tt><a href="cs_pdtc-dep-flat.html">flat</a></tt>]--> PROPN</tt> (13388; 99%),
 <tt>VERB --[<tt><a href="cs_pdtc-dep-conj.html">conj</a></tt>]--> VERB</tt> (12658; 61%),

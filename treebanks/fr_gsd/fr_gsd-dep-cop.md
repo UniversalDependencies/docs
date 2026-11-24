@@ -11,7 +11,7 @@ This relation is universal.
 5560 nodes (1%) are attached to their parents as `cop`.
 
 5473 instances of `cop` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.0705035971223.
+Average distance between parent and child is 2.06924460431655.
 
 The following 12 pairs of parts of speech are connected with `cop`: <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (3037; 55% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (1612; 29% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (416; 7% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (224; 4% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (130; 2% instances), <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (57; 1% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (31; 1% instances), <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (25; 0% instances), <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (18; 0% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (7; 0% instances), <tt><a href="fr_gsd-pos-DET.html">DET</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
@@ -28,7 +28,7 @@ The following 12 pairs of parts of speech are connected with `cop`: <tt><a href=
 4	pour	pour	ADP	_	_	7	case	_	_
 5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 6	futur	futur	ADJ	_	Gender=Masc|Number=Sing	7	amod	_	_
-7	baptisé	baptiser	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	9	obl:mod	_	Tense[denom]=Past
+7	baptisé	baptiser	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	9	obl:mod	_	Status[Tense]=Denom
 8	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	changement	changement	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Exponence[Gender]=Inherent
 10	de	de	ADP	_	_	11	case	_	_
@@ -67,7 +67,7 @@ The following 12 pairs of parts of speech are connected with `cop`: <tt><a href=
 # visual-style 3 2 cop	color:blue
 1	Vous	vous	PRON	_	Case=Nom|Emph=No|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	wordform=vous
 2	êtes	être	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	cop	_	_
-3	abonné	abonner	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	Tense[denom]=Past
+3	abonné	abonner	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	Status[Tense]=Denom
 4	à	à	ADP	_	_	6	case	_	_
 5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	site	site	NOUN	_	Gender=Masc|Number=Sing	3	obl:arg	_	Exponence[Gender]=Inherent

@@ -96,7 +96,7 @@ The following 1 pairs of parts of speech are connected with `list`: <tt><a href=
 72	obscurantistes	obscurantistes	NOUN	NC	_	80	nsubj	_	ComposedUDPOS=NOUN|lango=fr|ner=O
 73	tels	tels	ADJ	ADJ	_	75	amod	_	ComposedUDPOS=ADJ|lango=fr|ner=O
 74	les	les	DET	DET	_	75	det	_	ComposedUDPOS=DET|lango=fr|ner=O
-75	karadawi	Karadawi	PROPN	NPP	_	72	obl	_	ComposedUDPOS=PROPN|lango=fr|ner=B-PER
+75	karadawi	Karadawi	PROPN	NPP	_	72	nmod	_	ComposedUDPOS=PROPN|lango=fr|ner=B-PER
 76	et	et	CCONJ	CC	_	77	cc	_	ComposedUDPOS=CCONJ|lango=fr|ner=O
 77	autre	autre	ADJ	ADJ	_	78	amod	_	ComposedUDPOS=ADJ|lango=fr|ner=O
 78	talibans	Talibans	NOUN	NC	_	75	conj	_	ComposedUDPOS=NOUN|DeepDep=coord|lango=fr|ner=B-PERderiv

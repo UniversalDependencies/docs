@@ -119,7 +119,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 * `Plur` (6836; 24% of non-empty `Number`): <em>omnia, his, omnes, aliis, omnibus, alia, omnium, haec, quaedam, quidam</em>
 * `Sing` (21170; 76% of non-empty `Number`): <em>hoc, ipsum, unum, suam, illud, sua, aliqua, aliud, omnis, suum</em>
-* `EMPTY` (676): <em>huiusmodi, quantumcumque, quot, ly, tot, cuiusmodi, hic, minus, quotlibet, quotquot</em>
+* `EMPTY` (675): <em>huiusmodi, quantumcumque, quot, ly, tot, cuiusmodi, hic, quotlibet, quotquot</em>
 
 <table>
   <tr><th>Paradigm <i>hic</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>

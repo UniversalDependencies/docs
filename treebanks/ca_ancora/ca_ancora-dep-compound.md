@@ -23,10 +23,10 @@ The following 29 pairs of parts of speech are connected with `compound`: <tt><a 
 # visual-style 9	fgColor:white
 # visual-style 9 10 compound	color:blue
 1	L'	el	DET	da0cs0	Definite=Def|Number=Sing|PronType=Art	2	det	2:det	SpaceAfter=No|Entity=(CESSCATAAP2002032651713c2-place-2-CorefType:ident,gstype:spec
-2	edifici	edifici	NOUN	ncms000	Gender=Masc|Number=Sing	6	nsubj	6:nsubj	ArgTem=arg1:pat
+2	edifici	edifici	NOUN	ncms000	Gender=Masc|Number=Sing	6	nsubj:pass	6:nsubj:pass	ArgTem=arg1:pat
 3	actual	actual	ADJ	aq0cs0	Number=Sing	2	amod	2:amod	Entity=CESSCATAAP2002032651713c2)
 4	va	anar	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	6:aux	_
-5	ser	ser	AUX	vsn0000	VerbForm=Inf	6	aux	6:aux	_
+5	ser	ser	AUX	vsn0000	VerbForm=Inf	6	aux:pass	6:aux:pass	_
 6	construït	construir	VERB	vmp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	0:root	_
 7	en	en	ADP	sps00	_	9	case	9:case	_
 8	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	9:det	Entity=(CESSCATAAP2002032651713c14-time-2-CorefType:ident,gstype:spec

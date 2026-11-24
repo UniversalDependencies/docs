@@ -66,19 +66,19 @@ The 3rd highest number of forms (1) was observed with the lemma “et”: <em>et
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 8 different relations: <tt><a href="bg_btb-dep-cc.html">cc</a></tt> (4795; 99% instances), <tt><a href="bg_btb-dep-fixed.html">fixed</a></tt> (55; 1% instances), <tt><a href="bg_btb-dep-mark.html">mark</a></tt> (3; 0% instances), <tt><a href="bg_btb-dep-discourse.html">discourse</a></tt> (2; 0% instances), <tt><a href="bg_btb-dep-flat.html">flat</a></tt> (2; 0% instances), <tt><a href="bg_btb-dep-root.html">root</a></tt> (2; 0% instances), <tt><a href="bg_btb-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="bg_btb-dep-nsubj.html">nsubj</a></tt> (1; 0% instances)
+`CCONJ` nodes are attached to their parents using 9 different relations: <tt><a href="bg_btb-dep-cc.html">cc</a></tt> (4793; 99% instances), <tt><a href="bg_btb-dep-fixed.html">fixed</a></tt> (55; 1% instances), <tt><a href="bg_btb-dep-mark.html">mark</a></tt> (3; 0% instances), <tt><a href="bg_btb-dep-advmod.html">advmod</a></tt> (2; 0% instances), <tt><a href="bg_btb-dep-discourse.html">discourse</a></tt> (2; 0% instances), <tt><a href="bg_btb-dep-flat.html">flat</a></tt> (2; 0% instances), <tt><a href="bg_btb-dep-root.html">root</a></tt> (2; 0% instances), <tt><a href="bg_btb-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="bg_btb-dep-nsubj.html">nsubj</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 13 different parts of speech: <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> (2154; 44% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt> (1694; 35% instances), <tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt> (375; 8% instances), <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> (349; 7% instances), <tt><a href="bg_btb-pos-ADV.html">ADV</a></tt> (149; 3% instances), <tt><a href="bg_btb-pos-PRON.html">PRON</a></tt> (43; 1% instances), <tt><a href="bg_btb-pos-NUM.html">NUM</a></tt> (30; 1% instances), <tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> (25; 1% instances), <tt><a href="bg_btb-pos-DET.html">DET</a></tt> (22; 0% instances), <tt><a href="bg_btb-pos-PART.html">PART</a></tt> (9; 0% instances), <tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> (8; 0% instances),  (2; 0% instances), <tt><a href="bg_btb-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 13 different parts of speech: <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> (2155; 44% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt> (1692; 35% instances), <tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt> (375; 8% instances), <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> (349; 7% instances), <tt><a href="bg_btb-pos-ADV.html">ADV</a></tt> (149; 3% instances), <tt><a href="bg_btb-pos-PRON.html">PRON</a></tt> (43; 1% instances), <tt><a href="bg_btb-pos-NUM.html">NUM</a></tt> (30; 1% instances), <tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> (25; 1% instances), <tt><a href="bg_btb-pos-DET.html">DET</a></tt> (22; 0% instances), <tt><a href="bg_btb-pos-PART.html">PART</a></tt> (9; 0% instances), <tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> (8; 0% instances), <tt><a href="bg_btb-pos-INTJ.html">INTJ</a></tt> (2; 0% instances),  (2; 0% instances)
 
-4288 (88%) `CCONJ` nodes are leaves.
+4290 (88%) `CCONJ` nodes are leaves.
 
-571 (12%) `CCONJ` nodes have one child.
+569 (12%) `CCONJ` nodes have one child.
 
 2 (0%) `CCONJ` nodes have two children.
 
 The highest child degree of a `CCONJ` node is 2.
 
-Children of `CCONJ` nodes are attached using 2 different relations: <tt><a href="bg_btb-dep-punct.html">punct</a></tt> (574; 100% instances), <tt><a href="bg_btb-dep-advmod.html">advmod</a></tt> (1; 0% instances)
+Children of `CCONJ` nodes are attached using 2 different relations: <tt><a href="bg_btb-dep-punct.html">punct</a></tt> (572; 100% instances), <tt><a href="bg_btb-dep-advmod.html">advmod</a></tt> (1; 0% instances)
 
-Children of `CCONJ` nodes belong to 2 different parts of speech: <tt><a href="bg_btb-pos-PUNCT.html">PUNCT</a></tt> (574; 100% instances), <tt><a href="bg_btb-pos-ADV.html">ADV</a></tt> (1; 0% instances)
+Children of `CCONJ` nodes belong to 2 different parts of speech: <tt><a href="bg_btb-pos-PUNCT.html">PUNCT</a></tt> (572; 100% instances), <tt><a href="bg_btb-pos-ADV.html">ADV</a></tt> (1; 0% instances)
 

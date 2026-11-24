@@ -60,7 +60,7 @@ The 10 most frequent ambiguous types:  <em>quod</em> (<tt><a href="la_ittb-pos-S
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.044118 (the average of all parts of speech is 3.337170).
+The form / lemma ratio of `SCONJ` is 1.044118 (the average of all parts of speech is 3.337008).
 
 The 1st highest number of forms (2) was observed with the lemma “ab”: <em>a, ab</em>.
 
@@ -68,12 +68,12 @@ The 2nd highest number of forms (2) was observed with the lemma “ex”: <em>e,
 
 The 3rd highest number of forms (2) was observed with the lemma “in”: <em>in, inquantum</em>.
 
-`SCONJ` occurs with 5 features: <tt><a href="la_ittb-feat-PronType.html">PronType</a></tt> (5879; 26% instances), <tt><a href="la_ittb-feat-Compound.html">Compound</a></tt> (4923; 21% instances), <tt><a href="la_ittb-feat-Polarity.html">Polarity</a></tt> (207; 1% instances), <tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt> (42; 0% instances), <tt><a href="la_ittb-feat-ExtPos.html">ExtPos</a></tt> (13; 0% instances)
+`SCONJ` occurs with 4 features: <tt><a href="la_ittb-feat-PronType.html">PronType</a></tt> (5879; 26% instances), <tt><a href="la_ittb-feat-Compound.html">Compound</a></tt> (4923; 21% instances), <tt><a href="la_ittb-feat-Polarity.html">Polarity</a></tt> (207; 1% instances), <tt><a href="la_ittb-feat-ExtPos.html">ExtPos</a></tt> (13; 0% instances)
 
-`SCONJ` occurs with 6 feature-value pairs: `Compound=Yes`, `ExtPos=ADV`, `ExtPos=SCONJ`, `Polarity=Neg`, `PronType=Rel`, `VerbForm=Fin`
+`SCONJ` occurs with 5 feature-value pairs: `Compound=Yes`, `ExtPos=ADV`, `ExtPos=SCONJ`, `Polarity=Neg`, `PronType=Rel`
 
-`SCONJ` occurs with 9 feature combinations.
-The most frequent feature combination is `_` (12100 tokens).
+`SCONJ` occurs with 8 feature combinations.
+The most frequent feature combination is `_` (12141 tokens).
 Examples: <em>quod, quia, si, inquantum, licet, dum, ne, quam, ubi, antequam</em>
 
 

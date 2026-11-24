@@ -42,9 +42,9 @@ The 3rd highest number of forms (1) was observed with the lemma “si”: <em>si
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 2 different relations: <tt><a href="fr_fqb-dep-mark.html">mark</a></tt> (178; 99% instances), <tt><a href="fr_fqb-dep-fixed.html">fixed</a></tt> (2; 1% instances)
+`SCONJ` nodes are attached to their parents using 2 different relations: <tt><a href="fr_fqb-dep-mark.html">mark</a></tt> (177; 98% instances), <tt><a href="fr_fqb-dep-fixed.html">fixed</a></tt> (3; 2% instances)
 
-Parents of `SCONJ` nodes belong to 7 different parts of speech: <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (129; 72% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (32; 18% instances), <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> (13; 7% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="fr_fqb-pos-X.html">X</a></tt> (1; 1% instances)
+Parents of `SCONJ` nodes belong to 8 different parts of speech: <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (129; 72% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (32; 18% instances), <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> (13; 7% instances), <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="fr_fqb-pos-X.html">X</a></tt> (1; 1% instances)
 
 180 (100%) `SCONJ` nodes are leaves.
 

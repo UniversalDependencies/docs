@@ -59,7 +59,7 @@ The 10 most frequent ambiguous types:  <em>de</em> (<tt><a href="gl_pud-pos-ADP.
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.320042).
+The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.320110).
 
 The 1st highest number of forms (1) was observed with the lemma “a”: <em>a</em>.
 
@@ -86,13 +86,13 @@ Parents of `ADP` nodes belong to 13 different parts of speech: <tt><a href="gl_p
 
 30 (1%) `ADP` nodes have one child.
 
-88 (2%) `ADP` nodes have two children.
+87 (2%) `ADP` nodes have two children.
 
-32 (1%) `ADP` nodes have three or more children.
+33 (1%) `ADP` nodes have three or more children.
 
 The highest child degree of a `ADP` node is 5.
 
-Children of `ADP` nodes are attached using 6 different relations: <tt><a href="gl_pud-dep-fixed.html">fixed</a></tt> (251; 81% instances), <tt><a href="gl_pud-dep-punct.html">punct</a></tt> (54; 17% instances), <tt><a href="gl_pud-dep-case.html">case</a></tt> (2; 1% instances), <tt><a href="gl_pud-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="gl_pud-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="gl_pud-dep-obl.html">obl</a></tt> (1; 0% instances)
+Children of `ADP` nodes are attached using 6 different relations: <tt><a href="gl_pud-dep-fixed.html">fixed</a></tt> (252; 81% instances), <tt><a href="gl_pud-dep-punct.html">punct</a></tt> (54; 17% instances), <tt><a href="gl_pud-dep-case.html">case</a></tt> (2; 1% instances), <tt><a href="gl_pud-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="gl_pud-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="gl_pud-dep-obl.html">obl</a></tt> (1; 0% instances)
 
-Children of `ADP` nodes belong to 12 different parts of speech: <tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt> (70; 23% instances), <tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> (56; 18% instances), <tt><a href="gl_pud-pos-DET.html">DET</a></tt> (54; 17% instances), <tt><a href="gl_pud-pos-PUNCT.html">PUNCT</a></tt> (54; 17% instances), <tt><a href="gl_pud-pos-ADJ.html">ADJ</a></tt> (21; 7% instances), <tt><a href="gl_pud-pos-ADV.html">ADV</a></tt> (20; 6% instances), <tt><a href="gl_pud-pos-PRON.html">PRON</a></tt> (15; 5% instances), <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt> (9; 3% instances), <tt><a href="gl_pud-pos-SCONJ.html">SCONJ</a></tt> (8; 3% instances), <tt><a href="gl_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="gl_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="gl_pud-pos-SYM.html">SYM</a></tt> (1; 0% instances)
+Children of `ADP` nodes belong to 12 different parts of speech: <tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt> (70; 23% instances), <tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> (56; 18% instances), <tt><a href="gl_pud-pos-DET.html">DET</a></tt> (54; 17% instances), <tt><a href="gl_pud-pos-PUNCT.html">PUNCT</a></tt> (54; 17% instances), <tt><a href="gl_pud-pos-ADJ.html">ADJ</a></tt> (21; 7% instances), <tt><a href="gl_pud-pos-ADV.html">ADV</a></tt> (21; 7% instances), <tt><a href="gl_pud-pos-PRON.html">PRON</a></tt> (15; 5% instances), <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt> (9; 3% instances), <tt><a href="gl_pud-pos-SCONJ.html">SCONJ</a></tt> (8; 3% instances), <tt><a href="gl_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="gl_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="gl_pud-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 

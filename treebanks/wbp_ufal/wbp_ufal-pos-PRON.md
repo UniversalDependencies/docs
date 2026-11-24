@@ -40,7 +40,7 @@ Examples: <em>ngaju</em>
 
 ## Relations
 
-`PRON` nodes are attached to their parents using 4 different relations: <tt><a href="wbp_ufal-dep-nsubj.html">nsubj</a></tt> (14; 61% instances), <tt><a href="wbp_ufal-dep-obj.html">obj</a></tt> (7; 30% instances), <tt><a href="wbp_ufal-dep-iobj.html">iobj</a></tt> (1; 4% instances), <tt><a href="wbp_ufal-dep-obl.html">obl</a></tt> (1; 4% instances)
+`PRON` nodes are attached to their parents using 4 different relations: <tt><a href="wbp_ufal-dep-nsubj.html">nsubj</a></tt> (14; 61% instances), <tt><a href="wbp_ufal-dep-obj.html">obj</a></tt> (6; 26% instances), <tt><a href="wbp_ufal-dep-iobj.html">iobj</a></tt> (2; 9% instances), <tt><a href="wbp_ufal-dep-obl.html">obl</a></tt> (1; 4% instances)
 
 Parents of `PRON` nodes belong to 1 different parts of speech: <tt><a href="wbp_ufal-pos-VERB.html">VERB</a></tt> (23; 100% instances)
 

@@ -11,23 +11,23 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="ug_udt-feat-Person.html">Person</a></tt>, <tt><a href="ug_udt-feat-Person-psor.html">Person[psor]</a></tt>.
 
-3175 tokens (8%) have a non-empty value of `Person`.
-550 types (5%) occur at least once with a non-empty value of `Person`.
+3210 tokens (8%) have a non-empty value of `Person`.
+554 types (5%) occur at least once with a non-empty value of `Person`.
 191 lemmas (7%) occur at least once with a non-empty value of `Person`.
-The feature is used with 3 part-of-speech tags: <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> (1358; 3% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (1225; 3% instances), <tt><a href="ug_udt-pos-AUX.html">AUX</a></tt> (592; 1% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> (1393; 3% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (1225; 3% instances), <tt><a href="ug_udt-pos-AUX.html">AUX</a></tt> (592; 1% instances).
 
 ### `PRON`
 
-1358 <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> tokens (50% of all `PRON` tokens) have a non-empty value of `Person`.
+1393 <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> tokens (52% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="ug_udt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1358; 100%), <tt><a href="ug_udt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1041; 77%), <tt><a href="ug_udt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (847; 62%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="ug_udt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1393; 100%), <tt><a href="ug_udt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1076; 77%), <tt><a href="ug_udt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (847; 61%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (411; 30% of non-empty `Person`): مەن، بىز، ماڭا، مېنىڭ، بىزنىڭ، بىزنى، بىزمۇ، بىزدىن، مەندىن، مەندە
-* `2` (173; 13% of non-empty `Person`): سەن، ساڭا، سىز، سىلەر، سىلەرگە، سىزنىڭ، سىلى، سەندىن، سىزمۇ، سىزنى
-* `3` (774; 57% of non-empty `Person`): ئۇ، ئۇنىڭ، ئۇلار، ئۇنى، ئۇنىڭغا، ئۇلارنىڭ، ئۇلارغا، ئۇلارنى، ئۇلارمۇ، ئۇلاردىن
-* `EMPTY` (1338): بۇ، شۇ، ئەڭ، ئۆز، سېنىڭ، مېنى، ئاشۇ، ئۆزىنى، ھېلىقى، بۇنى
+* `1` (444; 32% of non-empty `Person`): مەن، بىز، ماڭا، مېنىڭ، مېنى، بىزنىڭ، بىزنى، بىزمۇ، بىزدىن، مەندىن
+* `2` (173; 12% of non-empty `Person`): سەن، ساڭا، سىز، سىلەر، سىلەرگە، سىزنىڭ، سىلى، سەندىن، سىزمۇ، سىزنى
+* `3` (776; 56% of non-empty `Person`): ئۇ، ئۇنىڭ، ئۇلار، ئۇنى، ئۇنىڭغا، ئۇلارنىڭ، ئۇلارغا، ئۇلارنى، ئۇلارمۇ، ئۇلاردىن
+* `EMPTY` (1303): بۇ، شۇ، ئەڭ، ئۆز، سېنىڭ، ئاشۇ، ئۆزىنى، ھېلىقى، بۇنى، بىزگە
 
 ### `VERB`
 

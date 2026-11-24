@@ -18,7 +18,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="cs_poetry-pos-ADJ.h
 
 571 <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt> tokens (96% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="cs_poetry-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (553; 97%), <tt><a href="cs_poetry-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (529; 93%), <tt><a href="cs_poetry-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (489; 86%), <tt><a href="cs_poetry-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (488; 85%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (408; 71%), <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (350; 61%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="cs_poetry-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (553; 97%), <tt><a href="cs_poetry-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (516; 90%), <tt><a href="cs_poetry-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (489; 86%), <tt><a href="cs_poetry-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (488; 85%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (408; 71%), <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (350; 61%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
@@ -49,7 +49,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 * `Cmp` (20; 19% of non-empty `Degree`): <em>níž, dál, víc, více, výš, šíř, dříve, míň, schýleněji, spíš</em>
 * `Pos` (84; 80% of non-empty `Degree`): <em>náhle, volně, Kdys, dole, dosti, dávno, hluboko, hrdě, jistě, krvavě</em>
 * `Sup` (1; 1% of non-empty `Degree`): <em>nejvíc</em>
-* `EMPTY` (298): <em>jak, kde, tak, tam, ještě, vždy, zas, tu, teď, zde</em>
+* `EMPTY` (300): <em>jak, tak, kde, tam, ještě, vždy, zas, tu, teď, zde</em>
 
 <table>
   <tr><th>Paradigm <i>hodně</i></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>

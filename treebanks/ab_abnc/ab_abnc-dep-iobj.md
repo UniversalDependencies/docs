@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 5 language-specific subtypes of `iobj`: <tt><a href="ab_abnc-dep-iobj-cs.html">iobj:cs</a></tt>, <tt><a href="ab_abnc-dep-iobj-lo.html">iobj:lo</a></tt>, <tt><a href="ab_abnc-dep-iobj-po.html">iobj:po</a></tt>, <tt><a href="ab_abnc-dep-iobj-poss.html">iobj:poss</a></tt>, <tt><a href="ab_abnc-dep-iobj-ro.html">iobj:ro</a></tt>.
 
-134 nodes (1%) are attached to their parents as `iobj`.
+142 nodes (1%) are attached to their parents as `iobj`.
 
-125 instances of `iobj` (93%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.5.
+133 instances of `iobj` (94%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.48591549295775.
 
-The following 6 pairs of parts of speech are connected with `iobj`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (80; 60% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> (33; 25% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt> (10; 7% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (8; 6% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `iobj`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (81; 57% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> (35; 25% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt> (13; 9% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (10; 7% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -26,7 +26,7 @@ The following 6 pairs of parts of speech are connected with `iobj`: <tt><a href=
 1	Георги	Георги	PROPN	Noun_Prop_Anthr_M	NameType=Prs	2	nmod:poss	_	LMSeg:Георги
 2	иаара	аа-ра́	VERB	VN_Dyn_Sg_Intr_Poss:3SgM	Dyn=Yes|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3|Subcat=Intr|VerbForm=Vnoun	3	nmod:poss	_	LMSeg:аа-ра́
 3	аамҭа	а́амҭа	NOUN	Noun_NH_Sg_Poss:3SgNH	Animacy=Nhum|Gender[psor]=Neut|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	nsubj	_	LMSeg:а́амҭа
-4	анахыҧаӡа	а-хы́ҧара	VERB	V_Dyn_Intr_NonFin_Cnv_Aor_When_Emph_S:3_S:Ad_LO:SgNH	Dyn=Yes|Person[subj]=3|RelType=Tmp|Subcat=Intr|Tense=Aor|VerbForm=NonFin	8	advcl	_	LMSeg:а-хы́·ҧа-ра|SpaceAfter=No
+4	анахыҧаӡа	а-хы́ҧара	VERB	V_Dyn_Intr_NonFin_Cnv_Aor_When_Emph_S:3_S:Ad_LO:3SgNH	Dyn=Yes|Gender[lo]=Neut|Number[lo]=Sing|Person[lo]=3|Person[subj]=3|RelType=Tmp|Subcat=Intr|Tense=Aor|VerbForm=NonFin	8	advcl	_	LMSeg:а-хы́·ҧа-ра|SpaceAfter=No
 5	,	,	PUNCT	Punct_Comma	_	8	punct	_	LMSeg:,
 6	Лиудмила	Лиудмила	PROPN	Noun_Prop_Anthr_F	NameType=Prs	8	nsubj	_	LMSeg:Лиудмила
 7	аҭел	а-ҭе́л	NOUN	Noun_NH_Sg_Det	Animacy=Nhum|Definite=Def|Number=Sing	8	iobj	_	LMSeg:а-ҭе́л
@@ -71,7 +71,7 @@ The following 6 pairs of parts of speech are connected with `iobj`: <tt><a href=
 5	,	,	PUNCT	Punct_Comma	_	8	punct	_	LMSeg:,
 6	аӡбаҩ	а́-ӡбаҩ	NOUN	Noun_H_Sg_Det	Animacy=Hum|Definite=Def|Number=Sing	8	nsubj	_	LMSeg:а́-ӡбаҩ
 7	ахәмарра	а́-хәмарра	NOUN	Noun_NH_Sg_Det	Animacy=Nhum|Definite=Def|Number=Sing	8	iobj:lo	_	LMSeg:а́-хәмарра
-8	даҟәихит	а-ҟәы́хра	VERB	V_Dyn_Tr_Fin_Aor_S:3SgM_DO:3SgH_LO:SgNH	Dyn=Yes|Gender[obj]=Com|Gender[subj]=Masc|Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Aor|VerbForm=Fin	0	root	_	LMSeg:а-ҟәы́·х-ра|SpaceAfter=No
+8	даҟәихит	а-ҟәы́хра	VERB	V_Dyn_Tr_Fin_Aor_S:3SgM_DO:3SgH_LO:3SgNH	Dyn=Yes|Gender[lo]=Neut|Gender[obj]=Com|Gender[subj]=Masc|Mood=Ind|Number[lo]=Sing|Number[obj]=Sing|Number[subj]=Sing|Person[lo]=3|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Aor|VerbForm=Fin	0	root	_	LMSeg:а-ҟәы́·х-ра|SpaceAfter=No
 9	.	.	PUNCT	Punct_Period	_	8	punct	_	LMSeg:.
 
 ~~~

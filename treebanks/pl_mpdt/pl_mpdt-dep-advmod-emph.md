@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="pl_mpdt-dep-advmod.html">advmod</a></tt>.
 There are also 2 other language-specific subtypes of `advmod`: <tt><a href="pl_mpdt-dep-advmod-arg.html">advmod:arg</a></tt>, <tt><a href="pl_mpdt-dep-advmod-neg.html">advmod:neg</a></tt>.
 
-895 nodes (2%) are attached to their parents as `advmod:emph`.
+1148 nodes (2%) are attached to their parents as `advmod:emph`.
 
-663 instances of `advmod:emph` (74%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.2927374301676.
+860 instances of `advmod:emph` (75%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.37891986062718.
 
-The following 22 pairs of parts of speech are connected with `advmod:emph`: <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-PART.html">PART</a></tt> (303; 34% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-PART.html">PART</a></tt> (188; 21% instances), <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-PART.html">PART</a></tt> (125; 14% instances), <tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_mpdt-pos-PART.html">PART</a></tt> (70; 8% instances), <tt><a href="pl_mpdt-pos-DET.html">DET</a></tt>-<tt><a href="pl_mpdt-pos-PART.html">PART</a></tt> (59; 7% instances), <tt><a href="pl_mpdt-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_mpdt-pos-PART.html">PART</a></tt> (55; 6% instances), <tt><a href="pl_mpdt-pos-NUM.html">NUM</a></tt>-<tt><a href="pl_mpdt-pos-PART.html">PART</a></tt> (24; 3% instances), <tt><a href="pl_mpdt-pos-PART.html">PART</a></tt>-<tt><a href="pl_mpdt-pos-PART.html">PART</a></tt> (21; 2% instances), <tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_mpdt-pos-PART.html">PART</a></tt> (18; 2% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt> (12; 1% instances), <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="pl_mpdt-pos-DET.html">DET</a></tt>-<tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="pl_mpdt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pl_mpdt-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="pl_mpdt-pos-ADP.html">ADP</a></tt>-<tt><a href="pl_mpdt-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The following 26 pairs of parts of speech are connected with `advmod:emph`: <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-PART.html">PART</a></tt> (378; 33% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-PART.html">PART</a></tt> (258; 22% instances), <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-PART.html">PART</a></tt> (150; 13% instances), <tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_mpdt-pos-PART.html">PART</a></tt> (89; 8% instances), <tt><a href="pl_mpdt-pos-DET.html">DET</a></tt>-<tt><a href="pl_mpdt-pos-PART.html">PART</a></tt> (77; 7% instances), <tt><a href="pl_mpdt-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_mpdt-pos-PART.html">PART</a></tt> (61; 5% instances), <tt><a href="pl_mpdt-pos-PART.html">PART</a></tt>-<tt><a href="pl_mpdt-pos-PART.html">PART</a></tt> (31; 3% instances), <tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_mpdt-pos-PART.html">PART</a></tt> (28; 2% instances), <tt><a href="pl_mpdt-pos-NUM.html">NUM</a></tt>-<tt><a href="pl_mpdt-pos-PART.html">PART</a></tt> (25; 2% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt> (18; 2% instances), <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt> (10; 1% instances), <tt><a href="pl_mpdt-pos-DET.html">DET</a></tt>-<tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="pl_mpdt-pos-ADP.html">ADP</a></tt>-<tt><a href="pl_mpdt-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_mpdt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="pl_mpdt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="pl_mpdt-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="pl_mpdt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pl_mpdt-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -40,21 +40,23 @@ The following 22 pairs of parts of speech are connected with `advmod:emph`: <tt>
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 7 advmod:emph	color:blue
-1	A	a	CCONJ	conj	_	9	cc	9:cc	Translit=A
-2	jeśli	jeśli	SCONJ	comp	_	3	mark	3:mark	Translit=iesli
-3	Apostołów	apostoł	NOUN	subst:pl:gen:m	Case=Gen|Gender=Masc|Number=Plur	9	nmod	9:nmod	SpaceAfter=No|Translit=Apostołow
-4	/	/	PUNCT	interp	PunctType=Slsh	3	punct	3:punct	Translit=/
-5	tedy	tedy	PART	part	_	9	advmod	9:advmod	Translit=tedy
-6	ć	ć	PART	part	_	5	advmod:emph	5:advmod:emph	Translit=ć
-7	i	i	PART	part	_	9	advmod:emph	9:advmod:emph	Translit=y
-8	wszytkich	wszytek	ADJ	adj:pl:gen:m:pos	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	9	amod	9:amod	Translit=wszytkich
-9	Chrześcijan	chrześcijanin	NOUN	subst:pl:gen:m	Case=Gen|Gender=Masc|Number=Plur	0	root	0:root	SpaceAfter=No|Translit=Chrześćian
-10	.	.	PUNCT	interp	PunctType=Peri	9	punct	9:punct	Translit=.
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 advmod:emph	color:blue
+1	Ach	ach	INTJ	interj	_	6	discourse:intj	6:discourse:intj	Translit=Ach
+2	co	co	PART	part	_	4	advmod:emph	4:advmod:emph	Translit=co
+3	mnie	ja	PRON	ppron12:sg:acc:pri:akc	Case=Acc|Number=Sing|Person=1|PronType=Prs|Variant=Long	6	iobj	6:iobj	Translit=mnie
+4	za	za	PART	part	_	5	advmod:emph	5:advmod:emph	Translit=zá
+5	czyściec	czyściec	NOUN	subst:sg:nom:m	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	6:nsubj	Translit=czyściec
+6	czeka	czekać	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Translit=czeka
+7	jednę	jeden	ADJ	adjnum:sg:acc:f:pos	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|NumType=Ord	8	amod	8:amod	Translit=iednę
+8	marnotrawnicę	marnotrawnica	NOUN	subst:sg:acc:f	Case=Acc|Gender=Fem|Number=Sing	3	nmod	3:nmod	Translit=marnotrawnicę
+9	twoją	twój	DET	adj:sg:acc:f:pos	Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	8	det:poss	8:det:poss	Translit=twoią
+10	BOŻE	Bóg	PROPN	subst:sg:voc:m	Case=Voc|Gender=Masc|Number=Sing	6	vocative	6:vocative	Translit=BOZE
+11	mój	mój	DET	adj:sg:voc:m:pos	Case=Voc|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det:poss	10:det:poss	SpaceAfter=No|Translit=moy
+12	!	!	PUNCT	interp	PunctType=Excl	6	punct	6:punct	Translit=!
 
 ~~~
 

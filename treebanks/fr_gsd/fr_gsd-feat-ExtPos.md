@@ -9,22 +9,42 @@ udver: '2'
 This feature is language-specific.
 It occurs with 12 different values: `ADJ`, `ADP`, `ADV`, `CCONJ`, `DET`, `INTJ`, `NOUN`, `NUM`, `PRON`, `PROPN`, `SCONJ`, `VERB`.
 
-4583 tokens (1%) have a non-empty value of `ExtPos`.
-750 types (2%) occur at least once with a non-empty value of `ExtPos`.
-692 lemmas (2%) occur at least once with a non-empty value of `ExtPos`.
-The feature is used with 14 part-of-speech tags: <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (1681; 0% instances), <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (1058; 0% instances), <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (690; 0% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt> (424; 0% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (334; 0% instances), <tt><a href="fr_gsd-pos-DET.html">DET</a></tt> (196; 0% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (63; 0% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (51; 0% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (34; 0% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (23; 0% instances), <tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> (15; 0% instances), <tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> (10; 0% instances), <tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+11417 tokens (3%) have a non-empty value of `ExtPos`.
+2007 types (5%) occur at least once with a non-empty value of `ExtPos`.
+1940 lemmas (6%) occur at least once with a non-empty value of `ExtPos`.
+The feature is used with 14 part-of-speech tags: <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (6844; 2% instances), <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (1695; 0% instances), <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (1058; 0% instances), <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (689; 0% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt> (422; 0% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (329; 0% instances), <tt><a href="fr_gsd-pos-DET.html">DET</a></tt> (181; 0% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (63; 0% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (51; 0% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (34; 0% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (23; 0% instances), <tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> (15; 0% instances), <tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> (10; 0% instances), <tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> (3; 0% instances).
+
+### `NUM`
+
+6844 <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> tokens (65% of all `NUM` tokens) have a non-empty value of `ExtPos`.
+
+The most frequent other feature values with which `NUM` and `ExtPos` co-occurred: <tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6596; 96%).
+
+`NUM` tokens may have the following values of `ExtPos`:
+
+* `PRON` (247; 4% of non-empty `ExtPos`): <em>deux, trois, quatre, 2, 3, 1, 10, 4, une, 100</em>
+* `PROPN` (6597; 96% of non-empty `ExtPos`): <em>2010, 2009, 2008, 2011, 2007, 2006, II, 2005, 2, 2002</em>
+
+<table>
+  <tr><th>Paradigm <i>deux</i></th><th><tt>PRON</tt></th><th><tt>PROPN</tt></th></tr>
+  <tr><td><tt><tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>deux</em></td></tr>
+  <tr><td><tt><tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>deux</em></td><td></td></tr>
+</table>
+
+`ExtPos` seems to be **lexical feature** of `NUM`. 96% lemmas (1205) occur only with one value of `ExtPos`.
 
 ### `ADP`
 
-1681 <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> tokens (3% of all `ADP` tokens) have a non-empty value of `ExtPos`.
+1695 <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> tokens (3% of all `ADP` tokens) have a non-empty value of `ExtPos`.
 
 `ADP` tokens may have the following values of `ExtPos`:
 
 * `ADJ` (39; 2% of non-empty `ExtPos`): <em>en, à, d', de, hors</em>
-* `ADP` (197; 12% of non-empty `ExtPos`): <em>d', en, à, de, par</em>
-* `ADV` (1358; 81% of non-empty `ExtPos`): <em>à, en, de, par, d', sans, pour, dès, a, sur</em>
+* `ADP` (202; 12% of non-empty `ExtPos`): <em>d', en, à, de, au, par</em>
+* `ADV` (1359; 80% of non-empty `ExtPos`): <em>en, à, de, par, d', au, du, sans, pour, aux</em>
+* `CCONJ` (8; 0% of non-empty `ExtPos`): <em>à</em>
 * `DET` (75; 4% of non-empty `ExtPos`): <em>de</em>
-* `NOUN` (6; 0% of non-empty `ExtPos`): <em>à, après, contre</em>
+* `NOUN` (6; 0% of non-empty `ExtPos`): <em>au, après, contre, à</em>
 * `SCONJ` (6; 0% of non-empty `ExtPos`): <em>d', de, en</em>
 
 <table>
@@ -57,7 +77,7 @@ The most frequent other feature values with which `ADV` and `ExtPos` co-occurred
 
 ### `SYM`
 
-690 <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> tokens (96% of all `SYM` tokens) have a non-empty value of `ExtPos`.
+689 <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> tokens (96% of all `SYM` tokens) have a non-empty value of `ExtPos`.
 
 The most frequent other feature values with which `SYM` and `ExtPos` co-occurred: <tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt> (401; 58%).
 
@@ -70,7 +90,7 @@ The most frequent other feature values with which `SYM` and `ExtPos` co-occurred
 * `NOUN` (432; 63% of non-empty `ExtPos`): <em>%, €, °, n°, $, ", £, #, ', G</em>
 * `NUM` (2; 0% of non-empty `ExtPos`): <em>k, k-1</em>
 * `PROPN` (66; 10% of non-empty `ExtPos`): <em>K, A, C, M, H, AA, criticusleblog@gmail.com, x, Ω, †</em>
-* `VERB` (12; 2% of non-empty `ExtPos`): <em>=</em>
+* `VERB` (11; 2% of non-empty `ExtPos`): <em>=</em>
 
 <table>
   <tr><th>Paradigm <i>+</i></th><th><tt>ADJ</tt></th><th><tt>ADP</tt></th><th><tt>ADV</tt></th><th><tt>CCONJ</tt></th></tr>
@@ -79,15 +99,15 @@ The most frequent other feature values with which `SYM` and `ExtPos` co-occurred
 
 ### `X`
 
-424 <tt><a href="fr_gsd-pos-X.html">X</a></tt> tokens (14% of all `X` tokens) have a non-empty value of `ExtPos`.
+422 <tt><a href="fr_gsd-pos-X.html">X</a></tt> tokens (14% of all `X` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `X` and `ExtPos` co-occurred: <tt><a href="fr_gsd-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (422; 100%).
+The most frequent other feature values with which `X` and `ExtPos` co-occurred: <tt><a href="fr_gsd-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (420; 100%).
 
 `X` tokens may have the following values of `ExtPos`:
 
 * `ADV` (11; 3% of non-empty `ExtPos`): <em>in, de, a, ex, grosso</em>
 * `NOUN` (32; 8% of non-empty `ExtPos`): <em>arancini, arłaman, hanagawara, i, kendayan, onigawara, salafs, statu, SI, WE</em>
-* `PROPN` (375; 88% of non-empty `ExtPos`): <em>B, A, GMT, s, A1, AR-18, E, K, L., Windows</em>
+* `PROPN` (373; 88% of non-empty `ExtPos`): <em>B, A, GMT, s, A1, AR-18, E, K, L., rink</em>
 * `VERB` (6; 1% of non-empty `ExtPos`): <em>cf., publicly-traded, cf</em>
 
 <table>
@@ -96,33 +116,33 @@ The most frequent other feature values with which `X` and `ExtPos` co-occurred: 
   <tr><td><tt><tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>s</em></td><td></td></tr>
 </table>
 
-`ExtPos` seems to be **lexical feature** of `X`. 100% lemmas (361) occur only with one value of `ExtPos`.
+`ExtPos` seems to be **lexical feature** of `X`. 100% lemmas (360) occur only with one value of `ExtPos`.
 
 ### `NOUN`
 
-334 <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `ExtPos`.
+329 <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `NOUN` and `ExtPos` co-occurred: <tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (260; 78%), <tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (205; 61%).
+The most frequent other feature values with which `NOUN` and `ExtPos` co-occurred: <tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (255; 78%), <tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (205; 62%).
 
 `NOUN` tokens may have the following values of `ExtPos`:
 
 * `ADJ` (8; 2% of non-empty `ExtPos`): <em>haut, crème, gris, rubis</em>
-* `ADV` (223; 67% of non-empty `ExtPos`): <em>grâce, face, suite, compte, tour, Chemin, Grace, découvert, histoire</em>
-* `PROPN` (103; 31% of non-empty `ExtPos`): <em>h, Chanson, Chant, Donjon, Fille, Oiseau, Procès, or, Abime, Affaire</em>
+* `ADV` (223; 68% of non-empty `ExtPos`): <em>grâce, face, suite, compte, tour, Chemin, Grace, découvert, histoire</em>
+* `PROPN` (98; 30% of non-empty `ExtPos`): <em>Chanson, Chant, Donjon, Fille, Oiseau, Procès, or, Abime, Affaire, Amis</em>
 
 `ExtPos` seems to be **lexical feature** of `NOUN`. 100% lemmas (102) occur only with one value of `ExtPos`.
 
 ### `DET`
 
-196 <tt><a href="fr_gsd-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `ExtPos`.
+181 <tt><a href="fr_gsd-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `DET` and `ExtPos` co-occurred: <tt><a href="fr_gsd-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (189; 96%), <tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (183; 93%), <tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (162; 83%), <tt><a href="fr_gsd-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (103; 53%).
+The most frequent other feature values with which `DET` and `ExtPos` co-occurred: <tt><a href="fr_gsd-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (174; 96%), <tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (168; 93%), <tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (147; 81%).
 
 `DET` tokens may have the following values of `ExtPos`:
 
-* `ADV` (172; 88% of non-empty `ExtPos`): <em>le, un, les, une, la, quelque, nulle</em>
+* `ADV` (157; 87% of non-empty `ExtPos`): <em>un, le, les, une, la, quelque, nulle</em>
 * `NOUN` (1; 1% of non-empty `ExtPos`): <em>le</em>
-* `PRON` (23; 12% of non-empty `ExtPos`): <em>le, un, quelques</em>
+* `PRON` (23; 13% of non-empty `ExtPos`): <em>le, un, quelques</em>
 
 <table>
   <tr><th>Paradigm <i>le</i></th><th><tt>ADV</tt></th><th><tt>NOUN</tt></th><th><tt>PRON</tt></th></tr>
@@ -135,7 +155,7 @@ The most frequent other feature values with which `DET` and `ExtPos` co-occurred
 
 63 <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `VERB` and `ExtPos` co-occurred: <tt><a href="fr_gsd-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (51; 81%), <tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (50; 79%), <tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (37; 59%), <tt><a href="fr_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (34; 54%).
+The most frequent other feature values with which `VERB` and `ExtPos` co-occurred: <tt><a href="fr_gsd-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (51; 81%), <tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (46; 73%), <tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (41; 65%), <tt><a href="fr_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (34; 54%), <tt><a href="fr_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (32; 51%).
 
 `VERB` tokens may have the following values of `ExtPos`:
 
@@ -147,8 +167,8 @@ The most frequent other feature values with which `VERB` and `ExtPos` co-occurre
 <table>
   <tr><th>Paradigm <i>avoir</i></th><th><tt>NOUN</tt></th><th><tt>PROPN</tt></th></tr>
   <tr><td><tt><tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>ayants</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="fr_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_gsd-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fr_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fr_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>a</em></td></tr>
-  <tr><td><tt><tt><a href="fr_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_gsd-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fr_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fr_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>ont</em></td></tr>
+  <tr><td><tt><tt><a href="fr_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_gsd-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fr_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>a</em></td></tr>
+  <tr><td><tt><tt><a href="fr_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_gsd-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fr_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>ont</em></td></tr>
 </table>
 
 ### `PRON`
@@ -225,27 +245,17 @@ The most frequent other feature values with which `PROPN` and `ExtPos` co-occurr
 
 * `INTJ` (3; 100% of non-empty `ExtPos`): <em>Ah, Eh, Et</em>
 
-### `NUM`
-
-1 <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> tokens (0% of all `NUM` tokens) have a non-empty value of `ExtPos`.
-
-The most frequent other feature values with which `NUM` and `ExtPos` co-occurred: <tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1; 100%).
-
-`NUM` tokens may have the following values of `ExtPos`:
-
-* `PROPN` (1; 100% of non-empty `ExtPos`): <em>sept</em>
-
 ## Relations with Agreement in `ExtPos`
 
 The 10 most frequent relations where parent and child node agree in `ExtPos`:
+<tt>NUM --[<tt><a href="fr_gsd-dep-conj.html">conj</a></tt>]--> NUM</tt> (307; 100%),
+<tt>NUM --[<tt><a href="fr_gsd-dep-obl-arg.html">obl:arg</a></tt>]--> NUM</tt> (165; 100%),
+<tt>NUM --[<tt><a href="fr_gsd-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (46; 94%),
 <tt>SYM --[<tt><a href="fr_gsd-dep-conj.html">conj</a></tt>]--> SYM</tt> (40; 100%),
 <tt>SYM --[<tt><a href="fr_gsd-dep-nmod.html">nmod</a></tt>]--> SYM</tt> (18; 82%),
 <tt>SYM --[<tt><a href="fr_gsd-dep-appos.html">appos</a></tt>]--> SYM</tt> (3; 100%),
 <tt>ADP --[<tt><a href="fr_gsd-dep-conj.html">conj</a></tt>]--> ADP</tt> (2; 100%),
+<tt>ADV --[<tt><a href="fr_gsd-dep-obl-arg.html">obl:arg</a></tt>]--> NUM</tt> (2; 67%),
 <tt>NOUN --[<tt><a href="fr_gsd-dep-conj.html">conj</a></tt>]--> PROPN</tt> (2; 67%),
-<tt>SYM --[<tt><a href="fr_gsd-dep-nmod.html">nmod</a></tt>]--> X</tt> (2; 100%),
-<tt>ADP --[<tt><a href="fr_gsd-dep-parataxis.html">parataxis</a></tt>]--> ADP</tt> (1; 100%),
-<tt>ADV --[<tt><a href="fr_gsd-dep-appos.html">appos</a></tt>]--> ADV</tt> (1; 100%),
-<tt>ADV --[<tt><a href="fr_gsd-dep-nmod.html">nmod</a></tt>]--> ADV</tt> (1; 100%),
-<tt>DET --[<tt><a href="fr_gsd-dep-conj.html">conj</a></tt>]--> DET</tt> (1; 100%).
+<tt>NUM --[<tt><a href="fr_gsd-dep-appos.html">appos</a></tt>]--> NUM</tt> (2; 100%).
 

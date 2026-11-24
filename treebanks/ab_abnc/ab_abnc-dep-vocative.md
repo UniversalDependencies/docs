@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-49 nodes (0%) are attached to their parents as `vocative`.
+50 nodes (0%) are attached to their parents as `vocative`.
 
-33 instances of `vocative` (67%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.81632653061224.
+34 instances of `vocative` (68%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.8.
 
-The following 8 pairs of parts of speech are connected with `vocative`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (29; 59% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt> (13; 27% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> (2; 4% instances), <tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="ab_abnc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (1; 2% instances).
+The following 8 pairs of parts of speech are connected with `vocative`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (29; 58% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt> (14; 28% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> (2; 4% instances), <tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="ab_abnc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -25,7 +25,7 @@ The following 8 pairs of parts of speech are connected with `vocative`: <tt><a h
 1	Алахша	а-лахша́	NOUN	Noun_NH_Sg_Det	Animacy=Nhum|Definite=Def|Number=Sing	5	vocative	_	LMSeg:а-лахша́|SpaceAfter=No
 2	,	,	PUNCT	Punct_Comma	_	5	punct	_	LMSeg:,
 3	унапы	а-напы́	NOUN	Noun_NH_Sg_Poss:2SgM	Animacy=Nhum|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=2	4	obj	_	LMSeg:а-напы́
-4	анҵа	анҵа́	NOUN	Noun_NH_Sg_[Det]	Animacy=Nhum|Number=Sing	5	ccomp:quote	_	LMSeg:анҵа́
+4	анҵа	а-нҵара́	VERB	V_Dyn_Tr_Fin_Impv_S:2Sg_DO:3_DO:Ad_LO:3SgNH	Dyn=Yes|Gender[lo]=Neut|Mood=Imp|Number[lo]=Sing|Person[lo]=3|Person[obj]=3|Subcat=Tran|VerbForm=Fin	5	ccomp:quote	_	LMSeg:а-н·ҵа-ра́
 5	сҳәеит	а-ҳәара́	VERB	V_Dyn_Tr_Fin_Aor_S:1Sg_DO:3_DO:Ad	Dyn=Yes|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Aor|VerbForm=Fin	0	root	_	LMSeg:а-ҳәа-ра́|SpaceAfter=No
 6	!	!	PUNCT	Punct_ExclPoint	_	5	punct	_	LMSeg:!
 

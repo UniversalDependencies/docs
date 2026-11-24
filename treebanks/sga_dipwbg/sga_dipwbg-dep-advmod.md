@@ -11,7 +11,7 @@ This relation is universal.
 49 nodes (11%) are attached to their parents as `advmod`.
 
 45 instances of `advmod` (92%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.12244897959184.
+Average distance between parent and child is 3.16326530612245.
 
 The following 9 pairs of parts of speech are connected with `advmod`: <tt><a href="sga_dipwbg-pos-VERB.html">VERB</a></tt>-<tt><a href="sga_dipwbg-pos-ADV.html">ADV</a></tt> (29; 59% instances), <tt><a href="sga_dipwbg-pos-VERB.html">VERB</a></tt>-<tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> (7; 14% instances), <tt><a href="sga_dipwbg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sga_dipwbg-pos-ADV.html">ADV</a></tt> (5; 10% instances), <tt><a href="sga_dipwbg-pos-ADP.html">ADP</a></tt>-<tt><a href="sga_dipwbg-pos-ADV.html">ADV</a></tt> (2; 4% instances), <tt><a href="sga_dipwbg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sga_dipwbg-pos-ADV.html">ADV</a></tt> (2; 4% instances), <tt><a href="sga_dipwbg-pos-ADV.html">ADV</a></tt>-<tt><a href="sga_dipwbg-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt>-<tt><a href="sga_dipwbg-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt>-<tt><a href="sga_dipwbg-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="sga_dipwbg-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="sga_dipwbg-pos-ADV.html">ADV</a></tt> (1; 2% instances).
 

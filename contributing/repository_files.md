@@ -83,7 +83,8 @@ if a larger treebank of the same language exists and has training data.
 1. If you have less than 20K words:
    * Option A: Keep everything as test data. Users will have to do 10-fold cross-validation if they want to train on it.
    * Option B: Only if there are no larger treebanks of this language, keep almost everything as test data but set aside a small sample (20 to 50 sentences) and call it “train”. Consider translating and annotating the 20 examples from the [Cairo Cicling Corpus](https://github.com/UniversalDependencies/cairo/blob/master/translations.txt) (CCC) and providing them as the sample.
-2. If you have between 20K and 110K words, take a minimum of 10K words as test data, 10% of the remainder as dev data, and the remainder as training data.
+2. If you have between 22K and 110K words, take a minimum of 10K words as test data, 10% of the remainder as dev data, and the remainder as training data.
+   (Note: Between 20K and 22K, you can do this as well or you can omit dev data completely, so you do not end up with training data smaller than test data.)
 3. If you have more than 110K words, take between 10K words and 10% of the data as test data, take another between 10K words and 10% of the data as dev data, and the remainder as training data.
 4. If the treebank contains running text (rather than random shuffled sentences), make sure you split the data on document boundaries. Shuffling sentences should be avoided if possible, but sometimes it is necessary in order to prevent copyright issues. If you must shuffle, consider shuffling blocks of sentences (up to N characters long) rather than individual sentences.
 5. If the treebank contains different domains or genres, try to distribute them proportionally to training, dev and test. Ideally, it should also be possible to tell them apart by sentence ids.

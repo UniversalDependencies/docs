@@ -17,3 +17,4 @@ case(pēš, tā)
 dep(pēš, lkyn)
 nmod(pēš, yōšt)
 ~~~
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:31 CET -->

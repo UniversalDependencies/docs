@@ -27,4 +27,4 @@ Compounding is frequent in Middle Persian and can be complex.
 ### Border cases
 The clausal noun phrase is embedded like a noun and can trigger nominal syntax but it can also take its dependents like a verb (see [nmod]()).
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:36 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:27 CET -->

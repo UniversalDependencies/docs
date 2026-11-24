@@ -34,7 +34,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (31; 100% of non-empty `Abbr`): <em>_</em>
-* `EMPTY` (2625): <em>_</em>
+* `EMPTY` (2624): <em>_</em>
 
 ### `VERB`
 
@@ -56,7 +56,7 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (4; 100% of non-empty `Abbr`): <em>_</em>
-* `EMPTY` (1101): <em>_</em>
+* `EMPTY` (1100): <em>_</em>
 
 ### `ADP`
 

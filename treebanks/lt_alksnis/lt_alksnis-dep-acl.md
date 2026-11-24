@@ -9,78 +9,67 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: <tt><a href="lt_alksnis-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-1903 nodes (3%) are attached to their parents as `acl`.
+384 nodes (1%) are attached to their parents as `acl`.
 
-1313 instances of `acl` (69%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.60746190225959.
+379 instances of `acl` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.2421875.
 
-The following 12 pairs of parts of speech are connected with `acl`: <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (1810; 95% instances), <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (20; 1% instances), <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt> (13; 1% instances), <tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (13; 1% instances), <tt><a href="lt_alksnis-pos-DET.html">DET</a></tt>-<tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (10; 1% instances), <tt><a href="lt_alksnis-pos-X.html">X</a></tt>-<tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (10; 1% instances), <tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (9; 0% instances), <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (7; 0% instances), <tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt>-<tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (7; 0% instances), <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt>-<tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="lt_alksnis-pos-DET.html">DET</a></tt>-<tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `acl`: <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (299; 78% instances), <tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt>-<tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (34; 9% instances), <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt> (16; 4% instances), <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (9; 2% instances), <tt><a href="lt_alksnis-pos-DET.html">DET</a></tt>-<tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (8; 2% instances), <tt><a href="lt_alksnis-pos-DET.html">DET</a></tt>-<tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt>-<tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt>-<tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt>-<tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="lt_alksnis-pos-DET.html">DET</a></tt>-<tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_alksnis-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 1 acl	color:blue
-1	Praėjusią	praeiti	VERB	vksm.dlv.veik.būt-k.mot.vns.G.	Aspect=Perf|Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	2	acl	2:acl	_
-2	savaitę	savaitė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	5	obl	5:obl:acc	_
-3	vieną	vienas	PRON	įv.mot.vns.G.	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Ind	4	nmod	4:nmod:acc	_
-4	dieną	diena	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	5	obl	5:obl:acc	_
-5	dirbau	dirbti	VERB	vksm.asm.tiesiog.būt-k.vns.1.	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	0:root	_
-6	namuose	namai	NOUN	dkt.vyr.dgs.Vt.	Case=Loc|Gender=Masc|Number=Plur	5	obl	5:obl:loc	SpaceAfter=No
-7	.	.	PUNCT	skyr.	_	5	punct	5:punct	_
+# visual-style 2 5 acl	color:blue
+1	Pavojaus	pavojus	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+2	ženklai	ženklas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	skyr.	_	5	punct	_	_
+4	kai	kai	SCONJ	jng.	_	5	mark	_	_
+5	reikia	reikėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	2	acl	_	_
+6	pacientą	pacientas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	7	obj	_	_
+7	siųsti	siųsti	VERB	vksm.bndr.	VerbForm=Inf	5	xcomp	_	_
+8	pas	pas	ADP	prl.G.	Case=Acc	9	case	_	_
+9	specialistą	specialistas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
+10	:	:	PUNCT	skyr.	_	2	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 10 acl	color:blue
-1	2006	2006	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	2	nummod	2:nummod	_
-2	m	m.	NOUN	sutr.	Abbr=Yes	4	obl	4:obl	SpaceAfter=No
-3	.	.	PUNCT	skyr.	_	2	punct	2:punct	_
-4	parengti	parengti	VERB	vksm.dlv.neveik.būt.vyr.dgs.V.	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
-5	2	2	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	8	nummod	8:nummod	_
-6	rekomendacinio	rekomendacinis	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	7	amod	7:amod	_
-7	pobūdžio	pobūdis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	8	nmod	8:nmod:gen	_
-8	dokumentai	dokumentas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	4	nsubj:pass	4:nsubj:pass	_
-9	vietoje	vietoje	ADP	prl.K.	AdpType=Prep|Case=Gen	10	mark	10:mark	_
-10	planuotų	planuoti	VERB	vksm.dlv.neveik.vyr.dgs.K.	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	4	acl	4:acl:vietoje	_
-11	10	10	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	10	dep	10:dep	SpaceAfter=No
-12	.	.	PUNCT	skyr.	_	4	punct	4:punct	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 7 acl	color:blue
+1	Labiausiai	labai	ADV	prv.aukšč.	Degree=Sup	2	advmod	_	_
+2	baugina	bauginti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	tai	tas	PRON	įv.bev.	Gender=Neut|PronType=Dem	2	nsubj	_	SpaceAfter=No
+4	,	,	PUNCT	skyr.	_	7	punct	_	_
+5	jog	jog	SCONJ	jng.	_	7	mark	_	_
+6	nepažįstamieji	nepažįstamas	ADJ	bdv.nelygin.įvardž.vyr.dgs.V.	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur	7	nsubj	_	_
+7	neturi	neturėti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	3	acl	_	_
+8	vardų	vardas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	7	obj	_	SpaceAfter=No
+9	.	.	PUNCT	skyr.	_	2	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 4 acl	color:blue
-1	Ar	ar	PART	dll.	_	4	advmod:emph	4:advmod:emph	_
-2	tai	tas	DET	įv.bev.	Definite=Ind|Gender=Neut|PronType=Dem	4	nsubj	4:nsubj	_
-3	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	dep	4:dep	_
-4	humaniška	humaniškas	ADJ	bdv.nelygin.bev.	Definite=Ind|Degree=Pos|Gender=Neut	10	acl	10:acl	SpaceAfter=No
-5	,	,	PUNCT	skyr.	_	6	punct	6:punct	_
-6	gerai	gerai	ADV	prv.nelygin.	Degree=Pos	4	conj	4:conj|10:acl	_
-7	-	-	PUNCT	skyr.	_	4	punct	4:punct	_
-8	yra	būti	VERB	vksm.asm.tiesiog.es.vns.3.	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-9	kitas	kitas	PRON	įv.vyr.vns.V.	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Ind	10	nmod	10:nmod:nom	_
-10	klausimas	klausimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	8:nsubj	_
-11	“	“	PUNCT	skyr.	_	8	punct	8:punct	SpaceAfter=No
-12	,	,	PUNCT	skyr.	_	15	punct	15:punct	_
-13	-	-	PUNCT	skyr.	_	15	punct	15:punct	_
-14	ŠMKK	ŠMKK	X	akr.	Abbr=Yes	15	obl	15:obl	_
-15	kalbėjo	kalbėti	VERB	vksm.asm.tiesiog.būt-k.vns.3.	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	8	conj	0:root|8:conj	_
-16	G	G.	X	sutr.	Abbr=Yes	18	nmod	18:nmod	SpaceAfter=No
-17	.	.	PUNCT	skyr.	_	16	punct	16:punct	_
-18	Viliūnas	Viliūnas	PROPN	dkt.tikr.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	15	nsubj	15:nsubj	SpaceAfter=No
-19	.	.	PUNCT	skyr.	_	8	punct	8:punct	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 7 acl	color:blue
+1	Bėda	bėda	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	tik	tik	PART	dll.	_	1	advmod:emph	_	SpaceAfter=No
+3	,	,	PUNCT	skyr.	_	7	punct	_	_
+4	kad	kad	SCONJ	jng.	_	7	mark	_	_
+5	laikraščiais	laikraštis	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	6	obl:arg	_	_
+6	šluostytis	šluostytis	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	7	csubj	_	_
+7	nesveika	nesveikas	ADJ	bdv.nelygin.bev.	Degree=Pos|Gender=Neut	1	acl	_	SpaceAfter=No
+8	.	.	PUNCT	skyr.	_	1	punct	_	_
 
 ~~~
 

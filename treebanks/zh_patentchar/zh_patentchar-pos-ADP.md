@@ -68,21 +68,21 @@ The 1st highest number of forms (24) was observed with the lemma “_”: 与, �
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 6 different relations: <tt><a href="zh_patentchar-dep-case.html">case</a></tt> (165; 64% instances), <tt><a href="zh_patentchar-dep-mark.html">mark</a></tt> (73; 28% instances), <tt><a href="zh_patentchar-dep-dep.html">dep</a></tt> (12; 5% instances), <tt><a href="zh_patentchar-dep-obl-arg.html">obl:arg</a></tt> (5; 2% instances), <tt><a href="zh_patentchar-dep-parataxis.html">parataxis</a></tt> (3; 1% instances), <tt><a href="zh_patentchar-dep-cc.html">cc</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 6 different relations: <tt><a href="zh_patentchar-dep-case.html">case</a></tt> (160; 62% instances), <tt><a href="zh_patentchar-dep-mark.html">mark</a></tt> (74; 29% instances), <tt><a href="zh_patentchar-dep-dep.html">dep</a></tt> (13; 5% instances), <tt><a href="zh_patentchar-dep-obl-arg.html">obl:arg</a></tt> (7; 3% instances), <tt><a href="zh_patentchar-dep-parataxis.html">parataxis</a></tt> (4; 2% instances), <tt><a href="zh_patentchar-dep-cc.html">cc</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 5 different parts of speech: <tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt> (162; 63% instances), <tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt> (86; 33% instances), <tt><a href="zh_patentchar-pos-ADJ.html">ADJ</a></tt> (6; 2% instances), <tt><a href="zh_patentchar-pos-PROPN.html">PROPN</a></tt> (4; 2% instances), <tt><a href="zh_patentchar-pos-ADP.html">ADP</a></tt> (1; 0% instances)
+Parents of `ADP` nodes belong to 5 different parts of speech: <tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt> (157; 61% instances), <tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt> (90; 35% instances), <tt><a href="zh_patentchar-pos-ADJ.html">ADJ</a></tt> (6; 2% instances), <tt><a href="zh_patentchar-pos-PROPN.html">PROPN</a></tt> (4; 2% instances), <tt><a href="zh_patentchar-pos-ADP.html">ADP</a></tt> (2; 1% instances)
 
-252 (97%) `ADP` nodes are leaves.
+248 (96%) `ADP` nodes are leaves.
 
-4 (2%) `ADP` nodes have one child.
+7 (3%) `ADP` nodes have one child.
 
 0 (0%) `ADP` nodes have two children.
 
-3 (1%) `ADP` nodes have three or more children.
+4 (2%) `ADP` nodes have three or more children.
 
 The highest child degree of a `ADP` node is 4.
 
-Children of `ADP` nodes are attached using 5 different relations: <tt><a href="zh_patentchar-dep-punct.html">punct</a></tt> (7; 50% instances), <tt><a href="zh_patentchar-dep-nsubj.html">nsubj</a></tt> (3; 21% instances), <tt><a href="zh_patentchar-dep-ccomp.html">ccomp</a></tt> (2; 14% instances), <tt><a href="zh_patentchar-dep-obl.html">obl</a></tt> (1; 7% instances), <tt><a href="zh_patentchar-dep-obl-arg.html">obl:arg</a></tt> (1; 7% instances)
+Children of `ADP` nodes are attached using 5 different relations: <tt><a href="zh_patentchar-dep-punct.html">punct</a></tt> (8; 40% instances), <tt><a href="zh_patentchar-dep-ccomp.html">ccomp</a></tt> (4; 20% instances), <tt><a href="zh_patentchar-dep-nsubj.html">nsubj</a></tt> (4; 20% instances), <tt><a href="zh_patentchar-dep-obl-arg.html">obl:arg</a></tt> (3; 15% instances), <tt><a href="zh_patentchar-dep-obl.html">obl</a></tt> (1; 5% instances)
 
-Children of `ADP` nodes belong to 4 different parts of speech: <tt><a href="zh_patentchar-pos-PUNCT.html">PUNCT</a></tt> (7; 50% instances), <tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt> (4; 29% instances), <tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt> (2; 14% instances), <tt><a href="zh_patentchar-pos-ADP.html">ADP</a></tt> (1; 7% instances)
+Children of `ADP` nodes belong to 4 different parts of speech: <tt><a href="zh_patentchar-pos-PUNCT.html">PUNCT</a></tt> (8; 40% instances), <tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt> (6; 30% instances), <tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt> (4; 20% instances), <tt><a href="zh_patentchar-pos-ADP.html">ADP</a></tt> (2; 10% instances)
 

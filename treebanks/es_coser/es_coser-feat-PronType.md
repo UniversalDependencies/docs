@@ -10,16 +10,16 @@ This feature is universal but the values `Exc` are language-specific.
 It occurs with 9 different values: `Art`, `Dem`, `Exc`, `Ind`, `Int`, `Neg`, `Prs`, `Rel`, `Tot`.
 Some words have combined values of the feature; 1 combinations have been observed: `Int|Rel`.
 
-1644 tokens (20%) have a non-empty value of `PronType`.
+1646 tokens (20%) have a non-empty value of `PronType`.
 150 types (10%) occur at least once with a non-empty value of `PronType`.
 46 lemmas (4%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="es_coser-pos-PRON.html">PRON</a></tt> (904; 11% instances), <tt><a href="es_coser-pos-DET.html">DET</a></tt> (739; 9% instances), <tt><a href="es_coser-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="es_coser-pos-PRON.html">PRON</a></tt> (906; 11% instances), <tt><a href="es_coser-pos-DET.html">DET</a></tt> (739; 9% instances), <tt><a href="es_coser-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 ### `PRON`
 
-904 <tt><a href="es_coser-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+906 <tt><a href="es_coser-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="es_coser-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (740; 82%), <tt><a href="es_coser-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (612; 68%), <tt><a href="es_coser-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (516; 57%), <tt><a href="es_coser-feat-Number.html">Number</a></tt><tt>=Sing</tt> (507; 56%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="es_coser-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (742; 82%), <tt><a href="es_coser-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (614; 68%), <tt><a href="es_coser-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (518; 57%), <tt><a href="es_coser-feat-Number.html">Number</a></tt><tt>=Sing</tt> (507; 56%).
 
 `PRON` tokens may have the following values of `PronType`:
 
@@ -30,7 +30,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Int,Rel` (9; 1% of non-empty `PronType`): <em>que, cuál, cuáles</em>
 * `Neg` (13; 1% of non-empty `PronType`): <em>nada, na, nadie, ningún</em>
 * `Prs` (567; 63% of non-empty `PronType`): <em>se, lo, yo, le, te, me, los, la, nos, las</em>
-* `Rel` (54; 6% of non-empty `PronType`): <em>que, donde, quien</em>
+* `Rel` (56; 6% of non-empty `PronType`): <em>que, donde, quien</em>
 * `Tot` (35; 4% of non-empty `PronType`): <em>todo, todos, tos, to, toas, todas</em>
 
 <table>

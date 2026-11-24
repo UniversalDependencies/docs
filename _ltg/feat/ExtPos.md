@@ -99,4 +99,4 @@ is wrong.
 _ka_ = [SCONJ]())
 * _jis atsagrīze, <b>koč i</b> tys nabeja vajadzeigs_ "he returned even
 though it was not necessary" (_koč_ = [SCONJ](), _i_ = [PART]())
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:52 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:41 CET -->

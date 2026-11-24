@@ -18,7 +18,7 @@ The feature is used with 4 part-of-speech tags: <tt><a href="cs_cltt-pos-ADJ.htm
 
 6600 <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `ADJ` and `Polarity` co-occurred: <tt><a href="cs_cltt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (6253; 95%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4085; 62%), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3948; 60%).
+The most frequent other feature values with which `ADJ` and `Polarity` co-occurred: <tt><a href="cs_cltt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (6253; 95%), <tt><a href="cs_cltt-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (5246; 79%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4085; 62%), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3948; 60%).
 
 `ADJ` tokens may have the following values of `Polarity`:
 
@@ -66,7 +66,7 @@ The most frequent other feature values with which `ADJ` and `Polarity` co-occurr
 
 1819 <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1507; 83%), <tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1394; 77%), <tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1393; 77%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt> (1393; 77%), <tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1393; 77%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (985; 54%).
+The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1507; 83%), <tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1394; 77%), <tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1393; 77%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt> (1393; 77%), <tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1393; 77%), <tt><a href="cs_cltt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (1188; 65%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (985; 54%).
 
 `VERB` tokens may have the following values of `Polarity`:
 
@@ -116,7 +116,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 
 * `Neg` (9; 3% of non-empty `Polarity`): <em>nepřetržitě, nepřímo, nedostatečně, nezaměnitelně, nezávisle</em>
 * `Pos` (267; 97% of non-empty `Polarity`): <em>více, obdobně, případně, později, nejméně, nejpozději, samostatně, bezprostředně, přímo, odděleně</em>
-* `EMPTY` (499): <em>dále, zejména, popřípadě, jinak, pouze, kdy, též, například, tak, celkem</em>
+* `EMPTY` (501): <em>dále, zejména, popřípadě, jinak, pouze, kdy, též, tak, například, celkem</em>
 
 <table>
   <tr><th>Paradigm <i>přímo</i></th><th><tt>Pos</tt></th><th><tt>Neg</tt></th></tr>

@@ -23,19 +23,19 @@ The following 10 pairs of parts of speech are connected with `dislocated:subj`: 
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 8 dislocated:subj	color:blue
-1	hoː	_	NOUN	N	_	5	obj	_	AlignBegin=30643|AlignEnd=30859|Gloss=lamb|RX=[N]|TokenType=Root
-2	=b	_	DET	DET	Case=Acc|Definite=Ind|Gender=Masc	1	det	_	AlignBegin=30859|AlignEnd=31075|Gloss==INDF.M.ACC|RX==[DET]|TokenType=Clit
-3	hoːs	_	ADP	PRO	Case=Abl	5	obl:arg	_	AlignBegin=31075|AlignEnd=31507|Gloss=ABL|RX=[POSTP]|TokenType=Root
-4	=oː	_	PRON	PRO	Case=Acc	3	dep	_	AlignBegin=31075|AlignEnd=31507|Gloss==POSS.3PL.ACC|RX==[PRO]|TokenType=Clit
-5	ʃʔagaːb	_	VERB	V1	Gender=Masc|VerbClass=1	0	root	_	AlignBegin=31507|AlignEnd=31831|Gloss=carry_on_shoulder|MGloss=carry_on_shoulder-CVB.MNR-INDF.M.ACC|MSeg=ʃʔag-aː-b|RX=[V1]-[PRF]-[DET]|TokenType=Root
-6	=u	_	AUX	N,COP	Number=Sing|Person=3|VerbType=Cop	5	cop	_	AlignBegin=31831|AlignEnd=31939|Gloss==COP.3SG|RX==[PRED].[N]|TokenType=Clit
-7	uː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	8	det	_	AlignBegin=31939|AlignEnd=32155|Gloss=DEF.SG.M.NOM=|RX=[DET]=|TokenType=Clit
-8	tak	_	NOUN	N	Gender=Masc	5	dislocated:subj	_	AlignBegin=32155|AlignEnd=32371|Gloss=man|RX=[SBJ].[N].[M]|TokenType=Root
-9	//	_	PUNCT	PUNCT	_	8	punct	_	AlignBegin=32371|AlignEnd=32803|TokenType=Break
-10	ʔasalaːb	_	VERB	V2	Gender=Masc|VerbClass=2	12	dep:comp	_	AlignBegin=32803|AlignEnd=33206|Gloss=grill|MGloss=grill-CVB.MNR-INDF.M.ACC|MSeg=ʔasal-aː-b|RX=[V2]-[PRF]-[DET]|TokenType=Root
-11	iːkti	_	AUX	AUX	Aspect=Perf|Gender=Masc|Number=Sing	10	aux	_	AlignBegin=33206|AlignEnd=33474|Gloss=become\AOR|MGloss=3SG.M-become\AOR|MSeg=iː-kti|RelRole=Obj|RX=[PNG]-[AUX].[PRF]|TokenType=Root
-12	=jeːb	_	SCONJ	CONJ	Gender=Masc|PronType=Rel	1	acl:relcl	_	AlignBegin=33474|AlignEnd=33609|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
-13	/	_	PUNCT	PUNCT	_	12	punct	_	AlignBegin=33609|AlignEnd=35009|TokenType=Break
+1	hoː	_	NOUN	N	_	5	obj	_	Gloss=lamb|RX=[N]|TokenType=Root|WordAlignmentBegin=30643|WordAlignmentEnd=30859
+2	=b	_	DET	DET	Case=Acc|Definite=Ind|Gender=Masc	1	det	_	Gloss=INDF|RX==[DET]|TokenType=Clit|WordAlignmentBegin=30859|WordAlignmentEnd=31075
+3	hoːs	_	ADP	PRO	Case=Abl	5	obl:arg	_	Gloss=ABL|RX=[POSTP]|TokenType=Root|WordAlignmentBegin=31075|WordAlignmentEnd=31507
+4	=oː	_	PRON	PRO	Case=Acc|Poss=Yes	3	dep	_	Gloss=POSS|RX==[PRO]|TokenType=Clit|WordAlignmentBegin=31075|WordAlignmentEnd=31507
+5	ʃʔagaːb	_	VERB	V1	Gender=Masc|VerbClass=1	0	root	_	Gloss=carry_on_shoulder.CVB.MNR|MGloss=carry_on_shoulder-CVB.MNR-INDF.M.ACC|MSeg=ʃʔag-aː-b|RX=[V1]-[PRF]-[DET]|TokenType=Root|WordAlignmentBegin=31507|WordAlignmentEnd=31831
+6	=u	_	AUX	N,COP	Number=Sing|Person=3|VerbType=Cop	5	cop	_	Gloss=COP|RX==[PRED].[N]|TokenType=Clit|WordAlignmentBegin=31831|WordAlignmentEnd=31939
+7	uː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	8	det	_	Gloss=DEF|RX=[DET]=|TokenType=Clit|WordAlignmentBegin=31939|WordAlignmentEnd=32155
+8	tak	_	NOUN	N	Gender=Masc	5	dislocated:subj	_	Gloss=man|RX=[SBJ].[N].[M]|TokenType=Root|WordAlignmentBegin=32155|WordAlignmentEnd=32371
+9	//	_	PUNCT	PUNCT	_	8	punct	_	TokenType=Break|WordAlignmentBegin=32371|WordAlignmentEnd=32803
+10	ʔasalaːb	_	VERB	V2	Gender=Masc|VerbClass=2	1	acl:relcl	_	Gloss=grill.CVB.MNR|MGloss=grill-CVB.MNR-INDF.M.ACC|MSeg=ʔasal-aː-b|RX=[V2]-[PRF]-[DET]|TokenType=Root|WordAlignmentBegin=32803|WordAlignmentEnd=33206
+11	iːkti	_	AUX	AUX	Aspect=Perf|Gender=Masc|Number=Sing	10	aux	_	Gloss=become|MGloss=3SG.M-become\AOR|MSeg=iː-kti|RelRole=Obj|RX=[PNG]-[AUX].[PRF]|TokenType=Root|WordAlignmentBegin=33206|WordAlignmentEnd=33474
+12	=jeːb	_	SCONJ	CONJ	Gender=Masc|PronType=Rel	10	mark	_	Gloss=REL|RX==[CONJ]|TokenType=Clit|WordAlignmentBegin=33474|WordAlignmentEnd=33609
+13	/	_	PUNCT	PUNCT	_	10	punct	_	TokenType=Break|WordAlignmentBegin=33609|WordAlignmentEnd=35009
 
 ~~~
 
@@ -46,22 +46,22 @@ The following 10 pairs of parts of speech are connected with `dislocated:subj`: 
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 1 dislocated:subj	color:blue
-1	ani	_	PRON	PRO	Case=Nom|Number=Sing|Person=1	10	dislocated:subj	_	AlignBegin=110347|AlignEnd=110664|Gloss=1SG.NOM|RX=[SBJ].[PRO]|TokenType=Root
-2	toː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	3	det	_	AlignBegin=110664|AlignEnd=110822|Gloss=DEF.SG.F.ACC=|RX=[DET]=|TokenType=Clit
-3	na	_	NOUN	N	Gender=Fem	7	dep:comp	_	AlignBegin=110822|AlignEnd=110981|Gloss=thing|RX=[N].[F]|TokenType=Root
-4	toː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	5	det	_	AlignBegin=110981|AlignEnd=111044|Gloss=DEF.SG.F.ACC=|RX=[DET]=|TokenType=Clit
-5	naː	_	NOUN	N	Gender=Fem	3	reparandum	_	AlignBegin=111044|AlignEnd=111107|Gloss=thing|RX=[N].[F]|TokenType=Root
-6	=t	_	DET	DET	Gender=Fem	5	det	_	AlignBegin=111107|AlignEnd=111170|Gloss==INDF.F|RX==[DET]|TokenType=Clit
-7	=i	_	ADP	CASE	Case=Gen	8	dep:comp	_	AlignBegin=111170|AlignEnd=111233|Gloss==GEN|RX==[CASE]|TokenType=Clit|wordform=-i
-8	=da	_	ADP	POSTP	_	10	obl:arg	_	AlignBegin=111233|AlignEnd=111298|Gloss==DIR|RX==[POSTP]|TokenType=Clit
-9	/	_	PUNCT	_	_	8	punct	_	AlignBegin=111298|AlignEnd=111615|Gloss=/|TokenType=Break
-10	jʔa	_	VERB	V2	VerbClass=2	0	root	_	AlignBegin=111615|AlignEnd=111855|Gloss=come|MGloss=come-CVB.MNR|MSeg=jʔ-a|RX=[V2].[IRG]-[PRF]|TokenType=Root
-11	=joːk	_	PRON	PRO	Case=Acc|Number=Sing|Person=2|Poss=Yes	10	obj	_	AlignBegin=111855|AlignEnd=111974|Gloss==POSS.2SG.ACC|RX==[PRO]|TokenType=Clit
-12	ka=	_	PART	PTCL	Aspect=Imp|Polarity=Neg	10	advmod	_	AlignBegin=111974|AlignEnd=112046|Gloss=NEG.IPFV=|RX=[PTCL]=|TokenType=Clit
-13	aki	_	AUX	AUX	Aspect=Perf|Number=Sing	10	aux	_	AlignBegin=112046|AlignEnd=112190|Gloss=become\PFV|MGloss=1SG-become\PFV|MSeg=a-ki|RX=[PNG]-[AUX].[NEG]|TokenType=Root
-14	=hoːk	_	PRON	PRO	Case=Acc|Number=Sing|Person=2	10	discourse	_	AlignBegin=112190|AlignEnd=112262|Gloss==OBJ.2SG|RX==[PRO]|TokenType=Clit
-15	-a	_	DET	_	_	14	det	_	AlignBegin=112262|AlignEnd=112333|Gloss=-ADRE.M|TokenType=InflAff
-16	/	_	PUNCT	_	_	10	punct	_	AlignBegin=112333|AlignEnd=112692|Gloss=/|TokenType=Break
+1	ani	_	PRON	PRO	Case=Nom|Number=Sing|Person=1	10	dislocated:subj	_	Gloss=1SG|RX=[SBJ].[PRO]|TokenType=Root|WordAlignmentBegin=110347|WordAlignmentEnd=110664
+2	toː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	3	det	_	Gloss=DEF|RX=[DET]=|TokenType=Clit|WordAlignmentBegin=110664|WordAlignmentEnd=110822
+3	na	_	NOUN	N	Gender=Fem	10	obl:arg	_	Gloss=thing|RX=[N].[F]|TokenType=Root|WordAlignmentBegin=110822|WordAlignmentEnd=110981
+4	toː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	5	det	_	Gloss=DEF|RX=[DET]=|TokenType=Clit|WordAlignmentBegin=110981|WordAlignmentEnd=111044
+5	naː	_	NOUN	N	Gender=Fem	3	reparandum	_	Gloss=thing|RX=[N].[F]|TokenType=Root|WordAlignmentBegin=111044|WordAlignmentEnd=111107
+6	=t	_	DET	DET	Gender=Fem	5	det	_	Gloss=INDF|RX==[DET]|TokenType=Clit|WordAlignmentBegin=111107|WordAlignmentEnd=111170
+7	=i	_	ADP	CASE	Case=Gen	3	case	_	Gloss=GEN|RX==[CASE]|TokenType=Clit|WordAlignmentBegin=111170|WordAlignmentEnd=111233|wordform=-i
+8	=da	_	ADP	POSTP	_	3	case	_	Gloss=DIR|RX==[POSTP]|TokenType=Clit|WordAlignmentBegin=111233|WordAlignmentEnd=111298
+9	/	_	PUNCT	_	_	3	punct	_	Gloss=/|TokenType=Break|WordAlignmentBegin=111298|WordAlignmentEnd=111615
+10	jʔa	_	VERB	V2	VerbClass=2	0	root	_	Gloss=come.CVB.MNR|MGloss=come-CVB.MNR|MSeg=jʔ-a|RX=[V2].[IRG]-[PRF]|TokenType=Root|WordAlignmentBegin=111615|WordAlignmentEnd=111855
+11	=joːk	_	PRON	PRO	Case=Acc|Number=Sing|Person=2|Poss=Yes	10	obj	_	Gloss=POSS|RX==[PRO]|TokenType=Clit|WordAlignmentBegin=111855|WordAlignmentEnd=111974
+12	ka=	_	PART	PTCL	Aspect=Imp|Polarity=Neg	10	advmod	_	Gloss=NEG|RX=[PTCL]=|TokenType=Clit|WordAlignmentBegin=111974|WordAlignmentEnd=112046
+13	aki	_	AUX	AUX	Aspect=Perf|Number=Sing	10	aux	_	Gloss=become|MGloss=1SG-become\PFV|MSeg=a-ki|RX=[PNG]-[AUX].[NEG]|TokenType=Root|WordAlignmentBegin=112046|WordAlignmentEnd=112190
+14	=hoːk	_	PRON	PRO	Case=Acc|Number=Sing|Person=2	10	discourse	_	Gloss=OBJ|RX==[PRO]|TokenType=Clit|WordAlignmentBegin=112190|WordAlignmentEnd=112262
+15	-a	_	DET	_	_	14	det	_	Gloss=-ADRE|TokenType=InflAff|WordAlignmentBegin=112262|WordAlignmentEnd=112333
+16	/	_	PUNCT	_	_	10	punct	_	Gloss=/|TokenType=Break|WordAlignmentBegin=112333|WordAlignmentEnd=112692
 
 ~~~
 
@@ -72,19 +72,19 @@ The following 10 pairs of parts of speech are connected with `dislocated:subj`: 
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 9 dislocated:subj	color:blue
-1	tʔa	_	ADV	ADV	_	3	advmod	_	AlignBegin=245027|AlignEnd=245382|Gloss=now|RX=[ADV]|TokenType=Root
-2	toː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	3	det	_	AlignBegin=245382|AlignEnd=245453|Gloss=DEF.SG.F.ACC=|RX=[DET]=|TokenType=Clit
-3	nʔeː	_	NOUN	N	Gender=Fem	12	ccomp	_	AlignBegin=245453|AlignEnd=245524|Gloss=fire|RX=[N].[F]|TokenType=Root
-4	=t	_	DET	DET	Gender=Fem	3	det	_	AlignBegin=245524|AlignEnd=245595|Gloss==INDF.F|RX==[DET]|TokenType=Clit
-5	=u	_	AUX	N.COP	Number=Sing|Person=3|VerbType=Cop	3	cop	_	AlignBegin=245595|AlignEnd=245666|Gloss==COP.3SG|Reported=Yes|RX==[PRED].[N]|TokenType=Clit
-6	=j	_	PART	PTCL	_	3	advmod	_	AlignBegin=245666|AlignEnd=245738|Gloss==EMPH|RX==[PTCL]|TokenType=Clit
-7	//	_	PUNCT	PUNCT	_	9	punct	_	AlignBegin=245738|AlignEnd=246094|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
-8	i=	_	DET	DET	Definite=Def|Gender=Masc	9	det	_	AlignBegin=246094|AlignEnd=246199|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
-9	daːr	_	NOUN	N	Gender=Masc	3	dislocated:subj	_	AlignBegin=246199|AlignEnd=246304|Gloss=place|RX=[SBJ].[N].[M]|TokenType=Root
-10	=uːk	_	PRON	PRO	Case=Acc|Number=Sing|Person=2|Poss=Yes	9	nmod:poss	_	AlignBegin=246304|AlignEnd=246409|Gloss==POSS.2SG.ACC|RX==[PRO]|TokenType=Clit
-11	baruːk	_	PRON	PRO	Case=Nom|Gender=Masc|Number=Sing|Person=2	10	discourse	_	AlignBegin=246409|AlignEnd=246725|Gloss=2SG.M.NOM|RX=[PRO]|TokenType=Root
-12	ijadna	_	VERB	V1	Aspect=Imp|Number=Plur|VerbClass=1	0	root	_	AlignBegin=246725|AlignEnd=247041|Gloss=say\IPFV|MGloss=3-say\IPFV-PL|MSeg=i-jad-na|RX=[PNG]-[V1].[IRG]-[PNG]|TokenType=Root
-13	//	_	PUNCT	PUNCT	_	12	punct	_	AlignBegin=247041|AlignEnd=248895|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
+1	tʔa	_	ADV	ADV	_	3	advmod	_	Gloss=now|RX=[ADV]|TokenType=Root|WordAlignmentBegin=245027|WordAlignmentEnd=245382
+2	toː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	3	det	_	Gloss=DEF|RX=[DET]=|TokenType=Clit|WordAlignmentBegin=245382|WordAlignmentEnd=245453
+3	nʔeː	_	NOUN	N	Gender=Fem	12	ccomp	_	Gloss=fire|Reported=Yes|RX=[N].[F]|TokenType=Root|WordAlignmentBegin=245453|WordAlignmentEnd=245524
+4	=t	_	DET	DET	Gender=Fem	3	det	_	Gloss=INDF|RX==[DET]|TokenType=Clit|WordAlignmentBegin=245524|WordAlignmentEnd=245595
+5	=u	_	AUX	N.COP	Number=Sing|Person=3|VerbType=Cop	3	cop	_	Gloss=COP|RX==[PRED].[N]|TokenType=Clit|WordAlignmentBegin=245595|WordAlignmentEnd=245666
+6	=j	_	PART	PTCL	_	3	advmod	_	Gloss=EMPH|RX==[PTCL]|TokenType=Clit|WordAlignmentBegin=245666|WordAlignmentEnd=245738
+7	//	_	PUNCT	PUNCT	_	9	punct	_	Gloss=PUNCT|RX=[PUNCT]|TokenType=Break|WordAlignmentBegin=245738|WordAlignmentEnd=246094
+8	i=	_	DET	DET	Definite=Def|Gender=Masc	9	det	_	Gloss=DEF|RX=[DET]=|TokenType=Clit|WordAlignmentBegin=246094|WordAlignmentEnd=246199
+9	daːr	_	NOUN	N	Gender=Masc	3	dislocated:subj	_	Gloss=place|RX=[SBJ].[N].[M]|TokenType=Root|WordAlignmentBegin=246199|WordAlignmentEnd=246304
+10	=uːk	_	PRON	PRO	Case=Acc|Number=Sing|Person=2|Poss=Yes	9	nmod:poss	_	Gloss=POSS|RX==[PRO]|TokenType=Clit|WordAlignmentBegin=246304|WordAlignmentEnd=246409
+11	baruːk	_	PRON	PRO	Case=Nom|Gender=Masc|Number=Sing|Person=2	10	discourse	_	Gloss=2SG|RX=[PRO]|TokenType=Root|WordAlignmentBegin=246409|WordAlignmentEnd=246725
+12	ijadna	_	VERB	V1	Aspect=Imp|Number=Plur|VerbClass=1	0	root	_	Gloss=say|MGloss=3-say\IPFV-PL|MSeg=i-jad-na|RX=[PNG]-[V1].[IRG]-[PNG]|TokenType=Root|WordAlignmentBegin=246725|WordAlignmentEnd=247041
+13	//	_	PUNCT	PUNCT	_	12	punct	_	Gloss=PUNCT|RX=[PUNCT]|TokenType=Break|WordAlignmentBegin=247041|WordAlignmentEnd=248895
 
 ~~~
 

@@ -64,4 +64,4 @@ We also analyze the nominal predicates with clausal subjects formed by subordina
 10	կը	կը	AUX	_	Aspect=Imp|Mood=Ind	11	aux	_	Translit=kë|LTranslit=kë
 11	տեսնես	տեսնել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=2|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	4	csubj	_	Translit=tesnes|LTranslit=tesnel
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:56 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:35 CET -->

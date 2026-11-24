@@ -9,39 +9,39 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="axm_armtdp-dep-nmod.html">nmod</a></tt>.
 There are also 1 other language-specific subtypes of `nmod`: <tt><a href="axm_armtdp-dep-nmod-npmod.html">nmod:npmod</a></tt>.
 
-31 nodes (3%) are attached to their parents as `nmod:poss`.
+129 nodes (2%) are attached to their parents as `nmod:poss`.
 
-23 instances of `nmod:poss` (74%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.64516129032258.
+75 instances of `nmod:poss` (58%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.37984496124031.
 
-The following 5 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="axm_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="axm_armtdp-pos-NOUN.html">NOUN</a></tt> (24; 77% instances), <tt><a href="axm_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="axm_armtdp-pos-PRON.html">PRON</a></tt> (4; 13% instances), <tt><a href="axm_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="axm_armtdp-pos-PROPN.html">PROPN</a></tt> (1; 3% instances), <tt><a href="axm_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="axm_armtdp-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="axm_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="axm_armtdp-pos-VERB.html">VERB</a></tt> (1; 3% instances).
+The following 4 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="axm_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="axm_armtdp-pos-NOUN.html">NOUN</a></tt> (110; 85% instances), <tt><a href="axm_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="axm_armtdp-pos-PROPN.html">PROPN</a></tt> (11; 9% instances), <tt><a href="axm_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="axm_armtdp-pos-PRON.html">PRON</a></tt> (6; 5% instances), <tt><a href="axm_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="axm_armtdp-pos-NOUN.html">NOUN</a></tt> (2; 2% instances).
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 13 nmod:poss	color:blue
-1	Եւ	եւ	CCONJ	_	_	9	cc	_	_
-2	թէ	թէ	SCONJ	_	_	6	mark	_	_
-3	յ	ի	ADP	_	AdpType=Prep	5	case	_	_
-4	ոչ	ոչ	PART	_	Polarity=Neg	5	advmod:emph	_	_
-5	կամայ	կամ	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Ind|Number=Sing|Style=Rare	6	obl	_	_
-6	լինայ	լինալ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	9	advcl	_	SpaceAfter=No
-7	՝	՝	PUNCT	_	_	9	punct	_	_
-8	հնար	հնար	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	9	nsubj	_	_
-9	չկայ	կամ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	14	punct	_	_
-11	զ	զ	ADP	_	AdpType=Prep	12	case	_	_
-12	կէս	կէս	NOUN	_	Animacy=Nhum|Case=Acc|Definite=Ind|Number=Sing	14	obj	_	_
-13	գնոցն	գին	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Plur	12	nmod:poss	_	_
-14	տայ	տալ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Style=Arch|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	9	parataxis	_	_
-15	ազգին	ազգ	NOUN	_	Animacy=Hum|Case=Dat|Definite=Def|Number=Sing	14	iobj	_	SpaceAfter=No
-16	՝	՝	PUNCT	_	_	18	punct	_	_
-17	եւ	եւ	CCONJ	_	_	18	cc	_	_
-18	տուգանք	տուգանք	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	14	conj	_	SpaceAfter=No
-19	։	։	PUNCT	_	_	9	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 nmod:poss	color:blue
+1	Դեղ	դեղ	NOUN	_	Case=Nom|Definite=Ind|Number=Sing	0	root	_	Translit=Deġ|LTranslit=deġ
+2	գայլցաւու	գայլցաւ	NOUN	_	Case=Dat|Definite=Ind|Number=Sing	1	nmod:poss	_	SpaceAfter=No|Translit=gaylc’awow|LTranslit=gaylc’aw
+3	,	,	PUNCT	_	_	6	punct	_	Translit=,|LTranslit=,
+4	եբ	եբ	ADV	_	PronType=Rel|Style=Var	6	mark	_	Translit=eb|LTranslit=eb
+5	ուժով	ուժով	ADJ	_	Degree=Pos	6	xcomp	_	Translit=owžov|LTranslit=owžov
+6	լինի	լինել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	2	acl:relcl	_	SpaceAfter=No|Translit=lini|LTranslit=linel
+7	.	.	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 nmod:poss	color:blue
+1	ԺԱՄԱՆԱԿԱԳՐՈՒԹԻՒՆ	ժամանակագրութիւն	NOUN	_	Case=Nom|Definite=Ind|Number=Sing	0	root	_	Translit=ŽAMANAKAGROWT’IWN|LTranslit=žamanakagrowt’iwn
+2	ՀԵԹՄՈՅ	Հեթում	PROPN	_	Case=Dat|Definite=Ind|NameType=Giv|Number=Sing	1	nmod:poss	_	Translit=HET’MOY|LTranslit=Het’owm
 
 ~~~
 
@@ -52,70 +52,28 @@ The following 5 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 4 nmod:poss	color:blue
-1	Եւ	եւ	CCONJ	_	_	7	cc	_	_
-2	տաճկին	տաճիկ	NOUN	_	Animacy=Hum|Case=Dat|Definite=Def|Number=Sing	3	nmod:poss	_	_
-3	գինն	գին	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	7	nsubj	_	_
-4	այսոր	այս	PRON	_	Case=Dat|Deixis=Prox|Number=Sing|PronType=Dem	6	nmod:poss	_	_
-5	երեք	երեք	NUM	_	NumForm=Word|NumType=Card	6	nummod	_	_
-6	բաժնէն	բաժին	NOUN	_	Animacy=Nhum|Case=Abl|Definite=Def|Number=Sing	7	nmod:npmod	_	_
-7	մէկն	մէկ	PRON	_	Case=Nom|Definite=Def|PronType=Ind	0	root	_	_
-8	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	cop	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	14	punct	_	_
-10	զ	զ	ADP	_	AdpType=Prep	11	case	_	_
-11	այս	այս	PRON	_	Case=Nom|Deixis=Prox|Number=Sing|PronType=Dem	14	obj	_	_
-12	այն	այն	DET	_	Deixis=Remt|PronType=Dem	13	det	_	_
-13	տաճկին	տաճկ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Sing	14	obl	_	_
-14	տան	տալ	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Style=Arch|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	7	parataxis	_	_
-15	գին	գին	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	14	compound:lvc	_	SpaceAfter=No
-16	,	,	PUNCT	_	_	21	punct	_	_
-17	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	21	nsubj	_	_
-18	ի	ի	ADP	_	AdpType=Prep	20	case	_	_
-19	թագաւորին	թագաւոր	NOUN	_	Animacy=Hum|Case=Dat|Definite=Def|Number=Sing	20	nmod:poss	_	_
-20	երկրին	երկիր	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Sing	21	obl	_	_
-21	կենայ	կենալ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Style=Arch|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	13	acl:relcl	_	SpaceAfter=No
-22	։	։	PUNCT	_	_	7	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 nmod:poss	color:blue
-1	Քրիստոսի	Քրիստոս	PROPN	_	Animacy=Hum|Case=Dat|Definite=Ind|NameType=Prs|Number=Sing	2	nmod:poss	_	_
-2	դատաստանին	դատաստան	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Sing	3	nmod:poss	_	_
-3	աւրինակովն	աւրինակ	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Def|Number=Sing|Style=Var	4	obl	_	_
-4	պարտի	պարտել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Style=Arch|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-5	թագաւորն	թագաւոր	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Number=Sing	4	nsubj	_	_
-6	զ	զ	ADP	_	AdpType=Prep	8	case	_	_
-7	իր	իր	DET	_	Case=Acc|Number=Sing|Person=3|PronType=Poss|Reflex=Yes	8	det:poss	_	_
-8	իրաւունքն	իրաւունք	NOUN	_	Animacy=Nhum|Case=Acc|Definite=Def|Number=Sing	9	obj	_	_
-9	տանել	տանել	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	4	xcomp	_	_
-10	ըղորդ	ըղորդ	ADV	_	_	9	advmod	_	SpaceAfter=No
-11	,	,	PUNCT	_	_	12	punct	_	_
-12	անաչառութեամբ	անաչառութիւն	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Ind|Number=Coll	10	conj	_	_
-13	եւ	եւ	CCONJ	_	_	15	cc	_	_
-14	առանց	առանց	ADP	_	AdpType=Prep	15	case	_	_
-15	կաշառոյ	կաշառ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	10	conj	_	_
-16	եւ	եւ	CCONJ	_	_	18	cc	_	_
-17	առանց	առանց	ADP	_	AdpType=Prep	18	case	_	_
-18	ծուլութեան	ծուլութիւն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Coll	10	conj	_	SpaceAfter=No
-19	.	.	PUNCT	_	_	28	punct	_	_
-20	եւ	եւ	CCONJ	_	_	28	cc	_	_
-21	զ	զ	ADP	_	AdpType=Prep	23	case	_	_
-22	ամենայն	ամենայն	DET	_	PronType=Tot	23	det	_	_
-23	զրկելոցն	զրկել	NOUN	_	Animacy=Hum|Case=Dat|Definite=Def|Number=Plur	28	obj	_	_
-24	եւ	եւ	CCONJ	_	_	26	cc	_	_
-25	զ	զ	ADP	_	AdpType=Prep	26	case	_	_
-26	գանկտվորացն	գանկտվոր	NOUN	_	Animacy=Hum|Case=Dat|Definite=Def|Number=Plur	23	conj	_	_
-27	դարպաս	դարպաս	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	28	compound:lvc	_	_
-28	բռնէ	բռնել	VERB	_	Aspect=Prosp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Style=Arch|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	_
-29	եւ	եւ	CCONJ	_	_	31	cc	_	_
-30	իրաւունք	իրաւունք	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	31	compound:lvc	_	_
-31	այնէ	այնել	VERB	_	Aspect=Prosp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Style=Arch|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	SpaceAfter=No
-32	։	։	PUNCT	_	_	4	punct	_	_
+1	Եւ	եւ	CCONJ	_	_	7	cc	_	Translit=Ew|LTranslit=ew
+2	տաճկին	տաճիկ	NOUN	_	Case=Dat|Definite=Def|Number=Sing	3	nmod:poss	_	Translit=tačkin|LTranslit=tačik
+3	գինն	գին	NOUN	_	Case=Nom|Definite=Def|Number=Sing	7	nsubj	_	Translit=ginn|LTranslit=gin
+4	այսոր	այս	PRON	_	Case=Dat|Deixis=Prox|Number=Sing|PronType=Dem	6	nmod:poss	_	Translit=aysor|LTranslit=ays
+5	երեք	երեք	NUM	_	NumForm=Word|NumType=Card	6	nummod	_	Translit=erek’|LTranslit=erek’
+6	բաժնէն	բաժին	NOUN	_	Case=Abl|Definite=Def|Number=Sing	7	nmod:npmod	_	Translit=bažnēn|LTranslit=bažin
+7	մէկն	մէկ	NOUN	_	Case=Nom|Definite=Def|Number=Sing	0	root	_	Translit=mēkn|LTranslit=mēk
+8	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	cop	_	SpaceAfter=No|Translit=ē|LTranslit=em
+9	.	.	PUNCT	_	_	14	punct	_	Translit=.|LTranslit=.
+10	զ	զ	ADP	_	AdpType=Prep	11	case	_	SpaceAfter=No|Translit=z|LTranslit=z
+11	այս	այս	PRON	_	Case=Nom|Deixis=Prox|Number=Sing|PronType=Dem	14	obj	_	Translit=ays|LTranslit=ays
+12	այն	այն	DET	_	Deixis=Remt|PronType=Dem	13	det	_	Translit=ayn|LTranslit=ayn
+13	տաճկին	տաճիկ	NOUN	_	Case=Dat|Definite=Def|Number=Sing	14	obl	_	Translit=tačkin|LTranslit=tačik
+14	տան	տալ	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Style=Arch|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	7	parataxis	_	Translit=tan|LTranslit=tal
+15	գին	գին	NOUN	_	Case=Nom|Definite=Ind|Number=Sing	14	compound:lvc	_	SpaceAfter=No|Translit=gin|LTranslit=gin
+16	,	,	PUNCT	_	_	21	punct	_	Translit=,|LTranslit=,
+17	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	21	nsubj	_	Translit=or|LTranslit=or
+18	ի	ի	ADP	_	AdpType=Prep	20	case	_	Translit=i|LTranslit=i
+19	թագաւորին	թագաւոր	NOUN	_	Case=Dat|Definite=Def|Number=Sing	20	nmod:poss	_	Translit=t’agaworin|LTranslit=t’agawor
+20	երկրին	երկիր	NOUN	_	Case=Dat|Definite=Def|Number=Sing	21	obl	_	Translit=erkrin|LTranslit=erkir
+21	կենայ	կենալ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Style=Arch|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	13	acl:relcl	_	SpaceAfter=No|Translit=kenay|LTranslit=kenal
+22	։	։	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

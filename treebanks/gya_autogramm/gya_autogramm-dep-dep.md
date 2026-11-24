@@ -8,66 +8,73 @@ udver: '2'
 
 This relation is universal.
 
-11 nodes (0%) are attached to their parents as `dep`.
+211 nodes (5%) are attached to their parents as `dep`.
 
-8 instances of `dep` (73%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.90909090909091.
+116 instances of `dep` (55%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.57345971563981.
 
-The following 8 pairs of parts of speech are connected with `dep`: <tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> (3; 27% instances), <tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="gya_autogramm-pos-SCONJ.html">SCONJ</a></tt> (2; 18% instances), <tt><a href="gya_autogramm-pos-DET.html">DET</a></tt>-<tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt> (1; 9% instances), <tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gya_autogramm-pos-PROPN.html">PROPN</a></tt> (1; 9% instances), <tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt> (1; 9% instances), <tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="gya_autogramm-pos-ADP.html">ADP</a></tt> (1; 9% instances), <tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> (1; 9% instances), <tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt> (1; 9% instances).
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 dep	color:blue
-1	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	COORD	_	3	cc	_	AlignBegin=62834|AlignEnd=63264|Gloss=voilà_que|MGloss=voilà_que|MSeg=ʔá̰-nɛ̀|nWord=16|RX=COORD
-2	gbàzù	gbàzù	NOUN	N	_	3	nsubj	_	AlignBegin=63264|AlignEnd=63694|Gloss=barrage|MGloss=barrage|MSeg=gbàzù|nWord=17|RX=N
-3	gbìná	gbin	VERB	V	_	0	root	_	AlignBegin=63694|AlignEnd=64124|Gloss=casser|MGloss=ACC-casser-MT|MSeg=BHa-gbin-H|nWord=18|RX=V
-4	nɛ̀	nɛ̀	ADP	FCT	_	6	case	_	AlignBegin=64124|AlignEnd=64554|Gloss=par|MGloss=par|MSeg=nɛ̀|nWord=19|RX=FCT
-5	ʔò	ʔò	DET	MN	_	6	dep	_	AlignBegin=64554|AlignEnd=64984|Gloss=idée_de_totalité|MGloss=idée_de_totalité|MSeg=ʔò|nWord=20|RX=MN
-6	bêm	bêm	NOUN	_	_	3	obl:arg	_	AlignBegin=64984|AlignEnd=65417|Gloss=enfant|MGloss=enfant|MSeg=bêm|nWord=21|RX=N S
-
-~~~
+The following 27 pairs of parts of speech are connected with `dep`: <tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> (102; 48% instances), <tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> (16; 8% instances), <tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gya_autogramm-pos-ADP.html">ADP</a></tt> (15; 7% instances), <tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt> (13; 6% instances), <tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gya_autogramm-pos-ADJ.html">ADJ</a></tt> (12; 6% instances), <tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt> (11; 5% instances), <tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> (9; 4% instances), <tt><a href="gya_autogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> (6; 3% instances), <tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="gya_autogramm-pos-PART.html">PART</a></tt> (4; 2% instances), <tt><a href="gya_autogramm-pos-DET.html">DET</a></tt>-<tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> (3; 1% instances), <tt><a href="gya_autogramm-pos-DET.html">DET</a></tt>-<tt><a href="gya_autogramm-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="gya_autogramm-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="gya_autogramm-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="gya_autogramm-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="gya_autogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gya_autogramm-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gya_autogramm-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="gya_autogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gya_autogramm-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="gya_autogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gya_autogramm-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="gya_autogramm-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="gya_autogramm-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="gya_autogramm-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 5 dep	color:blue
-1	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	COORD	_	3	cc	_	AlignBegin=146656|AlignEnd=146784|Gloss=voilà_que|MGloss=voilà_que|MSeg=ʔá̰-nɛ̀|nWord=1|RX=COORD|Word=ʔá̰-ndɔ̀wà
-2	=wà	wà	PRON	PERS	Number=Plur|Person=3|PronType=Prs	3	nsubj	_	AlignBegin=146784|AlignEnd=147040|Gloss=3PL|MGloss=3PL-MT|MSeg==wà-H|nWord=1|RX=PERS|Word=ʔá̰-ndɔ̀wà
-3	dɛ̀ɛ́	dɛ	VERB	V	_	0	root	_	AlignBegin=147040|AlignEnd=147424|Gloss=faire|MGloss=ACC-faire-MT|MSeg=BHa-dɛ-H|nWord=2|RX=V
-4	kàm	kàm	NOUN	N	_	3	obj	_	AlignBegin=147424|AlignEnd=147808|Gloss=boule_de_manioc|MGloss=boule_de_manioc|MSeg=kàm|nWord=3|RX=N
-5	há̰	há̰	SCONJ	SUB	_	3	dep	_	AlignBegin=147808|AlignEnd=148192|Gloss=pour_que|MGloss=pour_que|MSeg=há̰|nWord=4|RX=SUB
-6	Wàntò	wàntò	PROPN	NPR	_	7	nsubj	_	AlignBegin=148192|AlignEnd=148576|Gloss=Wàntò|MGloss=Wàntò|MSeg=wàntò|nWord=5|RX=NPR
-7	ɲɔ́ŋ	ɲɔŋ	VERB	V	_	5	advcl	_	AlignBegin=148576|AlignEnd=148962|Gloss=manger|MGloss=INAC-manger|MSeg=H-ɲɔŋ|nWord=6|RX=V
-
-~~~
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 1 3 dep	color:blue
-1	mɛ̀-nɛ́	mɛ̀-nɛ́	DET	PRED	_	0	root	_	AlignBegin=310419|AlignEnd=310634|Gloss=C'EST|MGloss=C'EST|MSeg=mɛ̀-nɛ́|nWord=7|RX=FOC
-2	gé	gé	ADJ	A	_	3	amod	_	AlignBegin=310634|AlignEnd=310849|Gloss=simple|MGloss=simple|MSeg=gé|nWord=8|RX=A
-3	fóáà	fo	VERB	V	_	1	dep	_	AlignBegin=310849|AlignEnd=311064|Gloss=remuer|MGloss=NV-remuer-NMLS|MSeg=HHa-fo-à|nWord=9|RX=V
-4	nɛ̀	nɛ̀	SCONJ	SUB.REL	PronType=Rel	6	mark	_	AlignBegin=311064|AlignEnd=311136|Gloss=REL|MGloss=REL|MSeg=nɛ̀|nWord=10|RX=SUB
-5	=ám	ʔám	PRON	PERS	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	AlignBegin=311136|AlignEnd=311279|Gloss=1SG|MGloss=1SG-MT|MSeg==ám-H|nWord=10|RX=PERS|Word=nàm
-6	fó	fo	VERB	V	_	3	acl:relcl	_	AlignBegin=311279|AlignEnd=311494|Gloss=remuer|MGloss=INAC-remuer|MSeg=H-fo|nWord=11|RX=V
-7	ʔá̰-nɛ̀	ʔá̰-nɛ̀	DET	MOD	_	3	det	_	AlignBegin=311494|AlignEnd=311709|Gloss=TOP|MGloss=TOP|MSeg=ʔá̰-nɛ̀|nWord=12|RX=MOD|Topicalization=Yes
-8	yíà	yì	NOUN	N	_	9	nsubj	_	AlignBegin=311709|AlignEnd=311924|Gloss=eau|MGloss=eau-MT-DEF|MSeg=yì-H-à|nWord=13|RX=N
-9	ndɔ́r	ndɔr	VERB	V	_	1	advcl:cleft	_	AlignBegin=311924|AlignEnd=312139|Gloss=bondir|MGloss=INAC-bondir|MSeg=H-ndɔr|nWord=14|RX=V
-10	ʔá	ʔa	VERB	V	_	9	compound:svc	_	AlignBegin=312139|AlignEnd=312354|Gloss=verser|MGloss=INF-ACC-verser|MSeg=H-ʔa|nWord=15|RX=V
-11	kɔ̀-nú	kɔ̀-nú	NOUN	N	_	10	obl:arg	_	AlignBegin=312354|AlignEnd=312462|Gloss=intérieur_de_la_bouche|MGloss=intérieur_de_la_bouche-MT|MSeg=kɔ̀-nú-H|nWord=16|RX=N|wordform=kɔ̀-nú-H
-12	=m	ʔám	PRON	PERS	Number=Sing|Person=1|PronType=Prs	11	obj	_	AlignBegin=312462|AlignEnd=312569|Gloss=1SG|MGloss=1SG|MSeg==m|nWord=16|RX=PERS|Word=kɔ̀-núm
-13	ʔèá	ʔèá	ADV	ADV	_	9	advmod	_	AlignBegin=312569|AlignEnd=312789|Gloss=seulement|MGloss=seulement|MSeg=ʔèá|nWord=17|RX=ADV
+# visual-style 1 11 dep	color:blue
+1	tò	tò	NOUN	N	_	13	dislocated	_	Gloss=conte|MGloss=conte-D|MSeg=tò-H|nWord=1|RX=N|WordAlignmentBegin=4768|WordAlignmentEnd=5032
+2	B-gai	gai	VERB	V	_	1	ccomp	_	Gloss=écoper|MGloss=NMLS-écoper|MSeg=B-gai|nWord=2|Reported=Yes|RX=V|WordAlignmentBegin=5032|WordAlignmentEnd=5296
+3	kɔ́	kɔ́	ADP	FCT	_	4	case	_	Gloss=de|MGloss=de|MSeg=kɔ́|nWord=3|RX=FCT|WordAlignmentBegin=5296|WordAlignmentEnd=5560
+4	nàà	nàà	NOUN	N	_	2	obl	_	Gloss=mère|MGloss=mère|MSeg=nàà|nWord=4|RX=N|WordAlignmentBegin=5560|WordAlignmentEnd=5824
+5	kɔ́	kɔ́	ADP	FCT	_	6	case	_	Gloss=de|MGloss=de|MSeg=kɔ́|nWord=5|RX=FCT|WordAlignmentBegin=5824|WordAlignmentEnd=6088
+6	bêm	bêm	NOUN	N	_	4	nmod	_	Gloss=enfant|MGloss=enfant|MSeg=bêm|nWord=6|RX=N|WordAlignmentBegin=6088|WordAlignmentEnd=6352
+7	nɛ̀	nɛ̀	SCONJ	SUB.REL	PronType=Rel	8	mark	_	Gloss=REL|MGloss=REL|MSeg=nɛ̀|nWord=7|RX=SUB|WordAlignmentBegin=6352|WordAlignmentEnd=6616
+8	H-gai	gai	VERB	V	_	4	acl:relcl	_	Gloss=écoper|MGloss=INAC-écoper|MSeg=H-gai|nWord=8|RX=V|WordAlignmentBegin=6616|WordAlignmentEnd=6880
+9	nɛ̀	nɛ̀	PART	MV	_	8	advmod	_	Gloss=CIRC|MGloss=CIRC|MSeg=nɛ̀|nWord=9|RX=MV|WordAlignmentBegin=6880|WordAlignmentEnd=7144
+10	yì	yì	NOUN	N	_	8	obj	_	Gloss=eau|MGloss=eau|MSeg=yì|nWord=10|RX=N|WordAlignmentBegin=7144|WordAlignmentEnd=7408
+11	ʔá̰-nɛ̀	ʔá̰-nɛ̀	DET	MOD	_	1	dep	_	Gloss=TOP|MGloss=TOP|MSeg=ʔá̰-nɛ̀|nWord=11|RX=MOD|Topicalization=Yes|WordAlignmentBegin=7408|WordAlignmentEnd=7496
+12	=ám	ʔám	PRON	PERS	Number=Sing|Person=1|PronType=Prs	13	nsubj	_	Gloss=1SG|MGloss=1SG-MT|MSeg==ám-H|nWord=11|RX=PERS|WordAlignmentBegin=7496|WordAlignmentEnd=7672
+13	tɛ́-B-tɔ̰	tɔ̰	VERB	V	_	0	root	_	Gloss=dire|MGloss=VIRT-INAC--dire|MSeg=tɛ́-B-tɔ̰|nWord=12|RX=V|WordAlignmentBegin=7672|WordAlignmentEnd=7940
+
+~~~
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 8 dep	color:blue
+1	ʔà̰	ʔà̰	PRON	PRO.PERS	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	GE=[3SG]|Gloss=3SG|MGloss=3SG|MSeg=ʔà̰|nWord=34|RX=[PRO].[PERS]|WordAlignmentBegin=138990|WordAlignmentEnd=139153
+2	H-nɛ	nɛ	VERB	V	_	0	root	_	GE=go|Gloss=go|MGloss=IPFV-go|MSeg=H-nɛ|nWord=35|RX=[V]|WordAlignmentBegin=139153|WordAlignmentEnd=139316
+3	H-hɛi	hɛi	VERB	V	_	2	compound:svc	_	GE=buy|Gloss=buy|MGloss=INF.PFV-buy|MSeg=H-hɛi|nWord=36|RX=[V]|WordAlignmentBegin=139316|WordAlignmentEnd=139479
+4	lɔ́sɔ̀	lɔ́sɔ̀	NOUN	N	_	3	obj	_	GE=rice|Gloss=rice|MGloss=rice|MSeg=lɔ́sɔ̀|nWord=39|RX=[N]|WordAlignmentBegin=140419|WordAlignmentEnd=140772
+5	ʔîn	ʔîn	ADP	PREP	_	7	case	_	GE=with|Gloss=with|MGloss=with-TM|MSeg=ʔîn-H|nWord=40|RX=[PREP]|WordAlignmentBegin=140772|WordAlignmentEnd=141125
+6	ʔó	ʔó	DET	NM	_	7	dep	_	GE=[PL]|Gloss=PL|MGloss=PL|MSeg=ʔó|nWord=41|RX=[NM]|WordAlignmentBegin=141125|WordAlignmentEnd=141478
+7	súkɛ̀rɛ̀	súkɛ̀rɛ̀	NOUN	N	_	4	nmod	_	GE=<F|Gloss=sucre|MGloss=sucre|MSeg=súkɛ̀rɛ̀|nWord=42|RX=[N]|WordAlignmentBegin=141478|WordAlignmentEnd=141831
+8	ʔó	ʔó	DET	NM	_	9	dep	_	GE=[PL]|Gloss=PL|MGloss=PL|MSeg=ʔó|nWord=43|RX=[NM]|WordAlignmentBegin=141831|WordAlignmentEnd=142184
+9	gè-ndé	gè-ndé	PRON	INTJ	_	3	dislocated	_	GE=quoi|Gloss=quoi|MGloss=quoi|MSeg=gè-ndé|nWord=44|RX=[PRO]|WordAlignmentBegin=142184|WordAlignmentEnd=142537
+10	péínɛ́	péínɛ́	PART	VM	_	3	advmod	_	GE=coming_back|Gloss=coming_back|MGloss=coming_back|MSeg=péínɛ́|nWord=46|RX=[VM]|WordAlignmentBegin=142890|WordAlignmentEnd=143243
+11	há̰	há̰	ADP	PREP	_	12	case	_	GE=for|Gloss=for|MGloss=for|MSeg=há̰|nWord=47|RX=[PREP]|WordAlignmentBegin=143243|WordAlignmentEnd=143419
+12	wà	wà	PRON	PRO.PERS	Number=Plur|Person=3|PronType=Prs	3	obl:arg	_	GE=[3PL]|Gloss=3PL|MGloss=3PL|MSeg=wà|nWord=47|RX=[PRO].[PERS]|WordAlignmentBegin=143419|WordAlignmentEnd=143596
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 dep	color:blue
+1	zɔ́k	zɔ́k	INTJ	N	_	7	vocative	_	GE=vois|Gloss=vois|MGloss=vois|MSeg=zɔ́k|nWord=12|RX=[INTJ]|WordAlignmentBegin=173720|WordAlignmentEnd=173915
+2	kɔ̀	kɔ̀	ADP	PREP	_	3	case	_	GE=intérieur|Gloss=intérieur|MGloss=intérieur|MSeg=kɔ̀|nWord=13|RX=[PREP]|WordAlignmentBegin=173915|WordAlignmentEnd=174110
+3	chambre	chambre	NOUN	N	_	7	dislocated	_	GE=chambre|Gloss=<F|MGloss=<F|MSeg=chambre|nWord=14|RX=[N]|WordAlignmentBegin=174110|WordAlignmentEnd=174305
+4	kɔ́-ám-ɛ̰̀	kɔ́	ADP	PREP	_	3	dep	_	GE=of|Gloss=of|MGloss=of--1SG--LOC|MSeg=kɔ́-ám-ɛ̰̀|nWord=15|RX=[PREP]|WordAlignmentBegin=174305|WordAlignmentEnd=174500
+5	ʔá̰-nɛ̀	ʔá̰-nɛ̀	DET	PRO.PERS	_	3	dep	_	GE=TOP|Gloss=TOP|MGloss=TOP|MSeg=ʔá̰-nɛ̀|nWord=24|RX=[TOP]|WordAlignmentBegin=176125|WordAlignmentEnd=176190
+6	wà	wà	PRON	PRO.PERS	Number=Plur|Person=3|PronType=Prs	7	nsubj	_	GE=[3PL]|Gloss=3PL|MGloss=3PL-TM|MSeg=wà-H|nWord=24|RX=[PRO].[PERS]|WordAlignmentBegin=176125|WordAlignmentEnd=176255
+7	BHa-nɛ	nɛ	VERB	V	_	0	root	_	GE=go|Gloss=go|MGloss=PFV-go-TM|MSeg=BHa-nɛ-H|nWord=25|RX=[V]|WordAlignmentBegin=176255|WordAlignmentEnd=176450
+8	ngbák	ngbák	ADV	ADV	_	7	advmod	_	GE=truly|Gloss=truly|MGloss=truly|MSeg=ngbák|nWord=26|RX=[ADV]|WordAlignmentBegin=176450|WordAlignmentEnd=176645
 
 ~~~
 

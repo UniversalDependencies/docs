@@ -18,24 +18,16 @@ The following 7 pairs of parts of speech are connected with `advmod:neg`: <tt><a
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 8 advmod:neg	color:blue
-1	-	-	PUNCT	zd	_	6	punct	6:punct	LvtbNodeId=a-d197-p80s1w1
-2	Nu	nu	PART	q	_	3	discourse	3:discourse	LvtbNodeId=a-d197-p80s1w2
-3	kā	kā	ADV	r0n	PronType=Int	6	discourse	6:discourse	LvtbNodeId=a-d197-p80s1w3
-4	-	-	PUNCT	zd	_	3	punct	3:punct	LvtbNodeId=a-d197-p80s1w4
-5	viņa	viņa	PRON	pp3fsnn	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	6:nsubj	LvtbNodeId=a-d197-p80s1w5
-6	saposušies	saposties	VERB	vmypdfsnasnpn	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|Reflex=Yes|Tense=Past|Typo=Yes|VerbForm=Part|Voice=Act	0	root	0:root	CorrectForm=saposusies|CorrectionType=Spelling|LvtbNodeId=a-d197-p80s1w6
-7	-	-	PUNCT	zd	_	9	punct	9:punct	LvtbNodeId=a-d197-p80s1w7
-8	ne	ne	PART	q	Polarity=Neg	9	advmod:neg	9:advmod:neg	LvtbNodeId=a-d197-p80s1w8
-9	pārlieku	pārlieku	ADV	r0n	_	6	advcl	6:advcl	LvtbNodeId=a-d197-p80s1w9|SpaceAfter=No
-10	,	,	PUNCT	zc	_	12	punct	12:punct	LvtbNodeId=a-d197-p80s1w10
-11	bet	bet	CCONJ	cc	_	12	cc	12:cc	LvtbNodeId=a-d197-p80s1w11
-12	tomēr	tomēr	PART	q	_	9	conj	6:advcl|9:conj	LvtbNodeId=a-d197-p80s1w12|SpaceAfter=No
-13	.	.	PUNCT	zs	_	6	punct	6:punct	LvtbNodeId=a-d197-p80s1w13
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 advmod:neg	color:blue
+1	"	"	PUNCT	zq	_	3	punct	3:punct	LvtbNodeId=a-d62-p12s1w1|SpaceAfter=No
+2	Ne	ne	PART	q	Polarity=Neg	3	advmod:neg	3:advmod:neg	LvtbNodeId=a-d62-p12s1w2
+3	vienmēr	vienmēr	ADV	r0n	PronType=Tot	0	root	0:root	LvtbNodeId=a-d62-p12s1w3|SpaceAfter=No
+4	!	!	PUNCT	zs	_	3	punct	3:punct	LvtbNodeId=a-d62-p12s1w4|SpaceAfter=No
+5	"	"	PUNCT	zq	_	3	punct	3:punct	LvtbNodeId=a-d62-p12s1w5
 
 ~~~
 

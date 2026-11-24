@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Hindi-HDTB: POS Tags: `DET`
 
-There are 69 `DET` lemmas (0%), 103 `DET` types (0%) and 7525 `DET` tokens (2%).
-Out of 16 observed tags, the rank of `DET` is: 9 in number of lemmas, 10 in number of types and 9 in number of tokens.
+There are 65 `DET` lemmas (0%), 94 `DET` types (0%) and 7515 `DET` tokens (2%).
+Out of 16 observed tags, the rank of `DET` is: 10 in number of lemmas, 10 in number of types and 9 in number of tokens.
 
 The 10 most frequent `DET` lemmas: यह, कुछ, कई, वह, सभी, कम, ज्यादा, ऐसा, काफी, जो
 
@@ -59,7 +59,7 @@ The 10 most frequent ambiguous types:  इस (<tt><a href="hi_hdtb-pos-DET.html
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.492754 (the average of all parts of speech is 1.200484).
+The form / lemma ratio of `DET` is 1.446154 (the average of all parts of speech is 1.200418).
 
 The 1st highest number of forms (8) was observed with the lemma “यह”: इन, इन्हीं, इस, इसी, ऐसी, यह, यही, ये.
 
@@ -67,24 +67,24 @@ The 2nd highest number of forms (8) was observed with the lemma “वह”: �
 
 The 3rd highest number of forms (3) was observed with the lemma “आधा”: आधा, आधी, आधे.
 
-`DET` occurs with 7 features: <tt><a href="hi_hdtb-feat-PronType.html">PronType</a></tt> (7355; 98% instances), <tt><a href="hi_hdtb-feat-Case.html">Case</a></tt> (4933; 66% instances), <tt><a href="hi_hdtb-feat-Number.html">Number</a></tt> (4883; 65% instances), <tt><a href="hi_hdtb-feat-Person.html">Person</a></tt> (4570; 61% instances), <tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt> (464; 6% instances), <tt><a href="hi_hdtb-feat-Echo.html">Echo</a></tt> (1; 0% instances), <tt><a href="hi_hdtb-feat-Polite.html">Polite</a></tt> (1; 0% instances)
+`DET` occurs with 7 features: <tt><a href="hi_hdtb-feat-PronType.html">PronType</a></tt> (7515; 100% instances), <tt><a href="hi_hdtb-feat-Case.html">Case</a></tt> (4926; 66% instances), <tt><a href="hi_hdtb-feat-Number.html">Number</a></tt> (4873; 65% instances), <tt><a href="hi_hdtb-feat-Person.html">Person</a></tt> (4570; 61% instances), <tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt> (455; 6% instances), <tt><a href="hi_hdtb-feat-Echo.html">Echo</a></tt> (1; 0% instances), <tt><a href="hi_hdtb-feat-Polite.html">Polite</a></tt> (1; 0% instances)
 
-`DET` occurs with 13 feature-value pairs: `Case=Acc`, `Case=Nom`, `Echo=Rdp`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=3`, `Polite=Form`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`
+`DET` occurs with 15 feature-value pairs: `Case=Acc`, `Case=Nom`, `Echo=Rdp`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=3`, `Polite=Form`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Rel`, `PronType=Tot`
 
-`DET` occurs with 75 feature combinations.
+`DET` occurs with 84 feature combinations.
 The most frequent feature combination is `Case=Acc|Number=Sing|Person=3|PronType=Dem` (2707 tokens).
 Examples: इस, उस, इसी, जिस, उसी, यह
 
 
 ## Relations
 
-`DET` nodes are attached to their parents using 14 different relations: <tt><a href="hi_hdtb-dep-det.html">det</a></tt> (7132; 95% instances), <tt><a href="hi_hdtb-dep-amod.html">amod</a></tt> (118; 2% instances), <tt><a href="hi_hdtb-dep-compound.html">compound</a></tt> (85; 1% instances), <tt><a href="hi_hdtb-dep-xcomp.html">xcomp</a></tt> (38; 1% instances), <tt><a href="hi_hdtb-dep-advmod.html">advmod</a></tt> (31; 0% instances), <tt><a href="hi_hdtb-dep-root.html">root</a></tt> (23; 0% instances), <tt><a href="hi_hdtb-dep-acl-relcl.html">acl:relcl</a></tt> (20; 0% instances), <tt><a href="hi_hdtb-dep-nmod.html">nmod</a></tt> (20; 0% instances), <tt><a href="hi_hdtb-dep-obj.html">obj</a></tt> (20; 0% instances), <tt><a href="hi_hdtb-dep-obl.html">obl</a></tt> (17; 0% instances), <tt><a href="hi_hdtb-dep-acl.html">acl</a></tt> (9; 0% instances), <tt><a href="hi_hdtb-dep-conj.html">conj</a></tt> (7; 0% instances), <tt><a href="hi_hdtb-dep-nsubj.html">nsubj</a></tt> (4; 0% instances), <tt><a href="hi_hdtb-dep-dep.html">dep</a></tt> (1; 0% instances)
+`DET` nodes are attached to their parents using 14 different relations: <tt><a href="hi_hdtb-dep-det.html">det</a></tt> (7123; 95% instances), <tt><a href="hi_hdtb-dep-amod.html">amod</a></tt> (118; 2% instances), <tt><a href="hi_hdtb-dep-compound.html">compound</a></tt> (85; 1% instances), <tt><a href="hi_hdtb-dep-xcomp.html">xcomp</a></tt> (38; 1% instances), <tt><a href="hi_hdtb-dep-advmod.html">advmod</a></tt> (31; 0% instances), <tt><a href="hi_hdtb-dep-root.html">root</a></tt> (23; 0% instances), <tt><a href="hi_hdtb-dep-acl-relcl.html">acl:relcl</a></tt> (20; 0% instances), <tt><a href="hi_hdtb-dep-nmod.html">nmod</a></tt> (20; 0% instances), <tt><a href="hi_hdtb-dep-obj.html">obj</a></tt> (19; 0% instances), <tt><a href="hi_hdtb-dep-obl.html">obl</a></tt> (17; 0% instances), <tt><a href="hi_hdtb-dep-acl.html">acl</a></tt> (9; 0% instances), <tt><a href="hi_hdtb-dep-conj.html">conj</a></tt> (7; 0% instances), <tt><a href="hi_hdtb-dep-nsubj.html">nsubj</a></tt> (4; 0% instances), <tt><a href="hi_hdtb-dep-dep.html">dep</a></tt> (1; 0% instances)
 
-Parents of `DET` nodes belong to 10 different parts of speech: <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (6864; 91% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (182; 2% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (180; 2% instances), <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> (143; 2% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (50; 1% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (41; 1% instances), <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (34; 0% instances),  (23; 0% instances), <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> (7; 0% instances), <tt><a href="hi_hdtb-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `DET` nodes belong to 10 different parts of speech: <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (6857; 91% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (180; 2% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (179; 2% instances), <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> (143; 2% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (50; 1% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (41; 1% instances), <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (34; 0% instances),  (23; 0% instances), <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> (7; 0% instances), <tt><a href="hi_hdtb-pos-X.html">X</a></tt> (1; 0% instances)
 
-7072 (94%) `DET` nodes are leaves.
+7065 (94%) `DET` nodes are leaves.
 
-357 (5%) `DET` nodes have one child.
+354 (5%) `DET` nodes have one child.
 
 31 (0%) `DET` nodes have two children.
 
@@ -92,7 +92,7 @@ Parents of `DET` nodes belong to 10 different parts of speech: <tt><a href="hi_h
 
 The highest child degree of a `DET` node is 8.
 
-Children of `DET` nodes are attached using 16 different relations: <tt><a href="hi_hdtb-dep-obl.html">obl</a></tt> (144; 20% instances), <tt><a href="hi_hdtb-dep-dep.html">dep</a></tt> (136; 19% instances), <tt><a href="hi_hdtb-dep-advmod.html">advmod</a></tt> (110; 16% instances), <tt><a href="hi_hdtb-dep-nmod.html">nmod</a></tt> (66; 9% instances), <tt><a href="hi_hdtb-dep-cop.html">cop</a></tt> (61; 9% instances), <tt><a href="hi_hdtb-dep-nsubj.html">nsubj</a></tt> (61; 9% instances), <tt><a href="hi_hdtb-dep-punct.html">punct</a></tt> (38; 5% instances), <tt><a href="hi_hdtb-dep-case.html">case</a></tt> (18; 3% instances), <tt><a href="hi_hdtb-dep-det.html">det</a></tt> (16; 2% instances), <tt><a href="hi_hdtb-dep-compound.html">compound</a></tt> (15; 2% instances), <tt><a href="hi_hdtb-dep-mark.html">mark</a></tt> (15; 2% instances), <tt><a href="hi_hdtb-dep-cc.html">cc</a></tt> (11; 2% instances), <tt><a href="hi_hdtb-dep-conj.html">conj</a></tt> (9; 1% instances), <tt><a href="hi_hdtb-dep-acl.html">acl</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-dep-nummod.html">nummod</a></tt> (2; 0% instances)
+Children of `DET` nodes are attached using 16 different relations: <tt><a href="hi_hdtb-dep-obl.html">obl</a></tt> (144; 20% instances), <tt><a href="hi_hdtb-dep-dep.html">dep</a></tt> (135; 19% instances), <tt><a href="hi_hdtb-dep-advmod.html">advmod</a></tt> (109; 16% instances), <tt><a href="hi_hdtb-dep-nmod.html">nmod</a></tt> (66; 9% instances), <tt><a href="hi_hdtb-dep-cop.html">cop</a></tt> (61; 9% instances), <tt><a href="hi_hdtb-dep-nsubj.html">nsubj</a></tt> (61; 9% instances), <tt><a href="hi_hdtb-dep-punct.html">punct</a></tt> (37; 5% instances), <tt><a href="hi_hdtb-dep-case.html">case</a></tt> (18; 3% instances), <tt><a href="hi_hdtb-dep-det.html">det</a></tt> (16; 2% instances), <tt><a href="hi_hdtb-dep-compound.html">compound</a></tt> (15; 2% instances), <tt><a href="hi_hdtb-dep-mark.html">mark</a></tt> (15; 2% instances), <tt><a href="hi_hdtb-dep-cc.html">cc</a></tt> (11; 2% instances), <tt><a href="hi_hdtb-dep-conj.html">conj</a></tt> (9; 1% instances), <tt><a href="hi_hdtb-dep-acl.html">acl</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-dep-nummod.html">nummod</a></tt> (2; 0% instances)
 
-Children of `DET` nodes belong to 15 different parts of speech: <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (179; 25% instances), <tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (141; 20% instances), <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> (106; 15% instances), <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (61; 9% instances), <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> (47; 7% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (39; 6% instances), <tt><a href="hi_hdtb-pos-PUNCT.html">PUNCT</a></tt> (38; 5% instances), <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (34; 5% instances), <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> (18; 3% instances), <tt><a href="hi_hdtb-pos-SCONJ.html">SCONJ</a></tt> (15; 2% instances), <tt><a href="hi_hdtb-pos-CCONJ.html">CCONJ</a></tt> (11; 2% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (10; 1% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (5; 1% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="hi_hdtb-pos-X.html">X</a></tt> (1; 0% instances)
+Children of `DET` nodes belong to 15 different parts of speech: <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (179; 25% instances), <tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (140; 20% instances), <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> (105; 15% instances), <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (61; 9% instances), <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> (47; 7% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (39; 6% instances), <tt><a href="hi_hdtb-pos-PUNCT.html">PUNCT</a></tt> (37; 5% instances), <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (34; 5% instances), <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> (18; 3% instances), <tt><a href="hi_hdtb-pos-SCONJ.html">SCONJ</a></tt> (15; 2% instances), <tt><a href="hi_hdtb-pos-CCONJ.html">CCONJ</a></tt> (11; 2% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (10; 1% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (5; 1% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="hi_hdtb-pos-X.html">X</a></tt> (1; 0% instances)
 

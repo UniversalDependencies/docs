@@ -22,15 +22,15 @@ The following 15 pairs of parts of speech are connected with `orphan`: <tt><a hr
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 8 orphan	color:blue
-1	Сон	сон	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	CGdephead=#1-&gt;0|CGdeprel=@X|CGdephead=#1-&gt;0|CGdeprel=@X|GTtags=Pers,Sg3,Nom
-2	рамась	рамамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	CGdephead=#2-&gt;0|CGdeprel=@SUBJ|CGdephead=#2-&gt;0|CGdeprel=@SUBJ|GTtags=Sg,Nom,Def
-3	машина	машина	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	2	obj	_	CGdephead=#3-&gt;2|CGdeprel=@HNOUN|CGdephead=#3-&gt;2|CGdeprel=@HNOUN|GTtags=Sg,Nom,Indef|SpaceAfter=No
-4	,	,	PUNCT	CLB	_	6	punct	_	CGdephead=#4-&gt;5|CGdeprel=@X|CGdephead=#4-&gt;5|CGdeprel=@X|GTtags=CLB
-5	а	а	CCONJ	CC	_	6	cc	_	CGdephead=#5-&gt;5|CGdeprel=@CC|CGdephead=#5-&gt;5|CGdeprel=@CC|GTtags=
-6	ялаксозо	ялакс	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	conj	_	CGdephead=#6-&gt;0|CGdeprel=@SUBJ|CGdephead=#6-&gt;0|CGdeprel=@SUBJ|GTtags=Sg,Nom,PxSg3
-7	ансяк	ансяк	ADV	Adv	_	8	advmod	_	CGdephead=#7-&gt;0|CGdeprel=@X|CGdephead=#7-&gt;0|CGdeprel=@X|GTtags=Exclusive
-8	чаро	чаро	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	6	orphan	_	CGdephead=#8-&gt;0|CGdeprel=@SPRED|CGdephead=#8-&gt;0|CGdeprel=@SPRED|GTtags=Sg,Nom,Indef|SpaceAfter=No
-9	.	.	PUNCT	CLB	_	2	punct	_	CGdephead=#9-&gt;2|CGdeprel=@X|CGdephead=#9-&gt;2|CGdeprel=@X|GTtags=CLB
+1	Сон	сон	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	CGdephead=#1-&gt;0|CGdeprel=@X|GTtags=Pers,Sg3,Nom
+2	рамась	рамамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	CGdephead=#2-&gt;0|CGdeprel=@SUBJ|GTtags=Sg,Nom,Def
+3	машина	машина	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	2	obj	_	CGdephead=#3-&gt;2|CGdeprel=@HNOUN|GTtags=Sg,Nom,Indef|SpaceAfter=No
+4	,	,	PUNCT	CLB	_	6	punct	_	CGdephead=#4-&gt;5|CGdeprel=@X|GTtags=CLB
+5	а	а	CCONJ	CC	_	6	cc	_	CGdephead=#5-&gt;5|CGdeprel=@CC|GTtags=
+6	ялаксозо	ялакс	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	conj	_	CGdephead=#6-&gt;0|CGdeprel=@SUBJ|GTtags=Sg,Nom,PxSg3
+7	ансяк	ансяк	ADV	Adv	_	8	advmod	_	CGdephead=#7-&gt;0|CGdeprel=@X|GTtags=Exclusive
+8	чаро	чаро	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	6	orphan	_	CGdephead=#8-&gt;0|CGdeprel=@SPRED|GTtags=Sg,Nom,Indef|SpaceAfter=No
+9	.	.	PUNCT	CLB	_	2	punct	_	CGdephead=#9-&gt;2|CGdeprel=@X|GTtags=CLB
 
 ~~~
 

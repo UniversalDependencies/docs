@@ -71,7 +71,7 @@ The following 9 pairs of parts of speech are connected with `flat:name`: <tt><a 
 8	a	a	ADP	IN	_	9	case	_	_
 9	Pearl	pearl	NOUN	NN	Number=Sing	6	obl	_	Proper=True
 10	Harbor	harbor	NOUN	NN	Number=Sing	9	flat:name	_	Proper=True
-11	como	como	ADP	IN	_	12	case	_	_
+11	como	como	SCONJ	IN	_	12	case	_	_
 12	propaganda	propaganda	NOUN	NN	Gender=Fem|Number=Sing	6	obl	_	_
 13	estadounidense	estadounidense	ADJ	JJ	Number=Sing	12	amod	_	Proper=True|SpaceAfter=No
 14	.	.	PUNCT	.	PunctType=Peri	6	punct	_	_

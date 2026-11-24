@@ -62,7 +62,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 * `Fem` (68; 23% of non-empty `Gender`): <em>la, las, ellas, una, ella, otra, esa, esas, esta, estas</em>
 * `Masc` (224; 77% of non-empty `Gender`): <em>lo, los, todo, todos, nosotros, otro, uno, él, otros, ese</em>
-* `EMPTY` (612): <em>se, yo, que, eso, le, te, me, cómo, qué, nos</em>
+* `EMPTY` (614): <em>se, yo, que, eso, le, te, me, cómo, qué, nos</em>
 
 <table>
   <tr><th>Paradigm <i>él</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -149,7 +149,7 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="es_coser-dep-det.html">det</a></tt>]--> DET</tt> (548; 90%),
 <tt>NOUN --[<tt><a href="es_coser-dep-amod.html">amod</a></tt>]--> ADJ</tt> (41; 66%),
-<tt>NOUN --[<tt><a href="es_coser-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (40; 55%),
+<tt>NOUN --[<tt><a href="es_coser-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (40; 54%),
 <tt>DET --[<tt><a href="es_coser-dep-det.html">det</a></tt>]--> DET</tt> (15; 100%),
 <tt>ADJ --[<tt><a href="es_coser-dep-det.html">det</a></tt>]--> DET</tt> (14; 88%),
 <tt>PRON --[<tt><a href="es_coser-dep-det.html">det</a></tt>]--> DET</tt> (10; 53%),

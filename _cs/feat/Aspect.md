@@ -18,8 +18,9 @@ whether the action has been completed etc.
 
 In Czech, aspect is considered a lexical feature of [verbs](cs-pos/VERB).
 While many imperfective verbs have morphologically related perfective counterparts,
-it is not a regular system
-and the two verbs are represented by different lemmas.
+it is not a regular system and the two verbs are represented by different lemmas.
+
+The `Aspect` feature is not annotated on verbal nouns ([VerbForm]()`=Vnoun`).
 
 ### <a name="Imp">`Imp`</a>: imperfect aspect
 
@@ -55,4 +56,4 @@ during conversion, and the `Aspect` feature was introduced instead.
 Unfortunately the morphological lexicon underlying the PDT annotation is incomplete and numerous
 verbs lack the aspect information. Without this imperfection there would be only a tiny group
 of verbs that work with both aspects.
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:43 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:34 CET -->

@@ -42,7 +42,7 @@ The following 26 pairs of parts of speech are connected with `compound:redup`: <
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 compound:redup	color:blue
-1	ئۆزۈڭمۇ	ئۆز	PRON	N	Case=Nom|Number[psor]=Sing|Person[psor]=2|Reflex=Yes	2	nsubj	_	Translit=özüngmu|LTranslit=öz
+1	ئۆزۈڭمۇ	ئۆز	PRON	N	Case=Nom|Number[psor]=Sing|Person[psor]=2|PronType=Prs|Reflex=Yes	2	nsubj	_	Translit=özüngmu|LTranslit=öz
 2	تۇيمىغان	تۇي	VERB	V	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	8	advcl	_	Translit=tuymighan|LTranslit=tuy
 3	ھالدا	ھال	NOUN	N	Case=Loc	2	case	_	Translit=halda|LTranslit=hal
 4	ئۇزاقتىن	ئۇزاق	ADJ	A	Case=Abl	5	compound:redup	_	Translit=uzaqtin|LTranslit=uzaq

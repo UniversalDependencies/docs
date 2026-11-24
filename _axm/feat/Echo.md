@@ -36,4 +36,4 @@ In some cases, one of the components of a reduplicative compound may itself be m
 
 * _եռ ընդ եռ_/_eṙ ënd eṙ_ “boiling hot”,
 * _գող ի գող_/_goġ i goġ_ “stealthily”
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:51 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:40 CET -->

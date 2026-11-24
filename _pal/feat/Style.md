@@ -60,4 +60,4 @@ Some words show variants, but it is not certain whether they are dialectal.
 ### <a name="Vulg">`Vulg`</a>: Vulgar
 #### Examples
 - _ǰeh_ "whore", a pejorative word for a woman
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:19 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:04 CET -->

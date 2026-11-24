@@ -11,9 +11,9 @@ This relation is universal.
 560 nodes (12%) are attached to their parents as `punct`.
 
 312 instances of `punct` (56%) are right-to-left (child precedes parent).
-Average distance between parent and child is 9.07857142857143.
+Average distance between parent and child is 9.11071428571429.
 
-The following 10 pairs of parts of speech are connected with `punct`: <tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_patentchar-pos-PUNCT.html">PUNCT</a></tt> (381; 68% instances), <tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_patentchar-pos-PUNCT.html">PUNCT</a></tt> (152; 27% instances), <tt><a href="zh_patentchar-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_patentchar-pos-PUNCT.html">PUNCT</a></tt> (7; 1% instances), <tt><a href="zh_patentchar-pos-ADP.html">ADP</a></tt>-<tt><a href="zh_patentchar-pos-PUNCT.html">PUNCT</a></tt> (7; 1% instances), <tt><a href="zh_patentchar-pos-ADV.html">ADV</a></tt>-<tt><a href="zh_patentchar-pos-PUNCT.html">PUNCT</a></tt> (5; 1% instances), <tt><a href="zh_patentchar-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_patentchar-pos-PUNCT.html">PUNCT</a></tt> (4; 1% instances), <tt><a href="zh_patentchar-pos-AUX.html">AUX</a></tt>-<tt><a href="zh_patentchar-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="zh_patentchar-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="zh_patentchar-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="zh_patentchar-pos-DET.html">DET</a></tt>-<tt><a href="zh_patentchar-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="zh_patentchar-pos-PART.html">PART</a></tt>-<tt><a href="zh_patentchar-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `punct`: <tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_patentchar-pos-PUNCT.html">PUNCT</a></tt> (380; 68% instances), <tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_patentchar-pos-PUNCT.html">PUNCT</a></tt> (152; 27% instances), <tt><a href="zh_patentchar-pos-ADP.html">ADP</a></tt>-<tt><a href="zh_patentchar-pos-PUNCT.html">PUNCT</a></tt> (8; 1% instances), <tt><a href="zh_patentchar-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_patentchar-pos-PUNCT.html">PUNCT</a></tt> (7; 1% instances), <tt><a href="zh_patentchar-pos-ADV.html">ADV</a></tt>-<tt><a href="zh_patentchar-pos-PUNCT.html">PUNCT</a></tt> (5; 1% instances), <tt><a href="zh_patentchar-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_patentchar-pos-PUNCT.html">PUNCT</a></tt> (4; 1% instances), <tt><a href="zh_patentchar-pos-AUX.html">AUX</a></tt>-<tt><a href="zh_patentchar-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="zh_patentchar-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="zh_patentchar-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="zh_patentchar-pos-DET.html">DET</a></tt>-<tt><a href="zh_patentchar-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="zh_patentchar-pos-PART.html">PART</a></tt>-<tt><a href="zh_patentchar-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -59,43 +59,25 @@ The following 10 pairs of parts of speech are connected with `punct`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 1 15 punct	color:blue
-1	根据	_	ADJ	_	_	22	advcl	_	Gloss=_|SpaceAfter=No|Translit=gēn_jù
-2	卫星	_	NOUN	_	_	3	nsubj	_	Gloss=_|SpaceAfter=No|Translit=wèi_xīng
-3	在	_	VERB	_	_	11	acl	_	Gloss=_|SpaceAfter=No|Translit=zài
-4	正常	_	ADJ	_	_	5	amod	_	Gloss=_|SpaceAfter=No|Translit=zhèng_cháng
-5	状态	_	NOUN	_	_	6	obj	_	Gloss=_|SpaceAfter=No|Translit=zhuàng_tài
-6	下	_	NOUN	_	_	3	obj	_	Gloss=_|SpaceAfter=No|Translit=xià
-7	的	_	PART	_	_	3	mark	_	Gloss=_|SpaceAfter=No|Translit=de
-8	遥测	_	VERB	_	_	9	acl	_	Gloss=_|SpaceAfter=No|Translit=yáo_cè
-9	参数	_	NOUN	_	_	11	nmod	_	Gloss=_|SpaceAfter=No|Translit=cān_shù
-10	历史	_	NOUN	_	_	11	nmod	_	Gloss=_|SpaceAfter=No|Translit=lì_shǐ
-11	数据	_	NOUN	_	_	12	nsubj	_	Gloss=_|SpaceAfter=No|Translit=shù_jù
-12	对应	_	ADJ	_	_	14	nmod	_	Gloss=_|SpaceAfter=No|Translit=dùi_yìng
-13	的	_	PART	_	_	12	case	_	Gloss=_|SpaceAfter=No|Translit=de
-14	散点图	_	NOUN	_	_	1	obj	_	Gloss=_|SpaceAfter=No|Translit=sàn_diǎn_tú
-15	，	_	PUNCT	_	_	1	punct	_	Gloss=_|SpaceAfter=No|Translit=，
-16	基	_	VERB	_	_	22	advcl	_	Gloss=_|SpaceAfter=No|Translit=jī
-17	于	_	ADP	_	_	21	case	_	Gloss=_|SpaceAfter=No|Translit=yú
-18	最大	_	ADJ	_	_	20	amod	_	Gloss=_|SpaceAfter=No|Translit=zùi_dà
-19	互	_	ADJ	_	_	20	amod	_	Gloss=_|SpaceAfter=No|Translit=hù
-20	信息	_	NOUN	_	_	21	nmod	_	Gloss=_|SpaceAfter=No|Translit=xìn_xī
-21	系数	_	NOUN	_	_	16	obl:arg	_	Gloss=_|SpaceAfter=No|Translit=xì_shù
-22	得到	_	VERB	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=dé_dào
-23	遥测	_	VERB	_	_	24	acl	_	Gloss=_|SpaceAfter=No|Translit=yáo_cè
-24	参数	_	NOUN	_	_	26	nmod	_	Gloss=_|SpaceAfter=No|Translit=cān_shù
-25	取值	_	VERB	_	_	26	acl	_	Gloss=_|SpaceAfter=No|Translit=qǔ_zhí
-26	空间	_	NOUN	_	_	27	obj	_	Gloss=_|SpaceAfter=No|Translit=kōng_jiān
-27	上	_	NOUN	_	_	31	nmod	_	Gloss=_|SpaceAfter=No|Translit=shàng
-28	的	_	PART	_	_	27	case	_	Gloss=_|SpaceAfter=No|Translit=de
-29	关联	_	VERB	_	_	31	acl	_	Gloss=_|SpaceAfter=No|Translit=guān_lián
-30	关系	_	NOUN	_	_	31	nmod	_	Gloss=_|SpaceAfter=No|Translit=guān_xì
-31	模型	_	NOUN	_	_	22	obj	_	Gloss=_|SpaceAfter=No|Translit=mó_xíng
-32	；	_	PUNCT	_	_	22	punct	_	Gloss=_|SpaceAfter=No|Translit=；
+# visual-style 1 2 punct	color:blue
+1	其中	_	ADP	_	_	10	dep	_	Gloss=_|SpaceAfter=No|Translit=qí_zhōng
+2	，	_	PUNCT	_	_	1	punct	_	Gloss=_|SpaceAfter=No|Translit=，
+3	各	_	DET	_	_	5	det	_	Gloss=_|SpaceAfter=No|Translit=gè
+4	所述	_	ADJ	_	_	5	amod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
+5	DSP	_	PROPN	_	_	10	nsubj	_	Gloss=_|SpaceAfter=No|Translit=DSP
+6	分别	_	ADV	_	_	10	advmod	_	Gloss=_|SpaceAfter=No|Translit=fēn_bié
+7	通过	_	ADP	_	_	9	case	_	Gloss=_|SpaceAfter=No|Translit=tōng_guò
+8	HPI	_	PROPN	_	_	9	nmod	_	Gloss=_|SpaceAfter=No|Translit=HPI
+9	接口	_	NOUN	_	_	10	obl	_	Gloss=_|SpaceAfter=No|Translit=jiē_kǒu
+10	连接	_	VERB	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=lián_jiē
+11	至	_	ADP	_	_	14	case	_	Gloss=_|SpaceAfter=No|Translit=zhì
+12	所述	_	ADJ	_	_	14	amod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
+13	后端	_	NOUN	_	_	14	nmod	_	Gloss=_|SpaceAfter=No|Translit=hòu_duān
+14	FPGA。	_	PROPN	_	_	10	obl:arg	_	Gloss=_|SpaceAfter=No|Translit=FPGA。
 
 ~~~
 

@@ -6,12 +6,12 @@ udver: '2'
 
 ## Treebank Statistics: UD_Komi_Permyak-UH: POS Tags: `PRON`
 
-There are 23 `PRON` lemmas (5%), 46 `PRON` types (7%) and 121 `PRON` tokens (11%).
+There are 23 `PRON` lemmas (5%), 43 `PRON` types (7%) and 121 `PRON` tokens (11%).
 Out of 15 observed tags, the rank of `PRON` is: 5 in number of lemmas, 4 in number of types and 4 in number of tokens.
 
 The 10 most frequent `PRON` lemmas: <em>сія, ме, тэ, мый, ачыт, эта, ас, мыйкӧ, эна, ӧтамӧд</em>
 
-The 10 most frequent `PRON` types:  <em>сія, ме, тэ, менам, мый, тэнат, сійӧ, Сiя, меным, нія</em>
+The 10 most frequent `PRON` types:  <em>сія, ме, тэ, менам, мый, сылӧн, тэнат, сійӧ, меным, нія</em>
 
 The 10 most frequent ambiguous lemmas: <em>эта</em> (<tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> 3, <tt><a href="koi_uh-pos-DET.html">DET</a></tt> 1), <em>ас</em> (<tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> 2, <tt><a href="koi_uh-pos-DET.html">DET</a></tt> 1), <em>быд</em> (<tt><a href="koi_uh-pos-DET.html">DET</a></tt> 1, <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> 1), <em>нем</em> (<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> 1, <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> 1)
 
@@ -20,20 +20,20 @@ The 10 most frequent ambiguous types:  <em>ас</em> (<tt><a href="koi_uh-pos-PR
 
 * <em>ас</em>
   * <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> 2: <em>— Мый нӧ дыр эн лок ? — инькасӧ <b>ас</b> бердас жмитікӧ юаліс сія .</em>
-  * <tt><a href="koi_uh-pos-DET.html">DET</a></tt> 1: <em>Сiя <b>ас</b> мознас дугасö кöстö .</em>
+  * <tt><a href="koi_uh-pos-DET.html">DET</a></tt> 1: <em>Сія <b>ас</b> мознас дугасӧ кӧстӧ .</em>
 * <em>нем</em>
   * <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> 1: <em>Сія <b>нем</b> оз артав .</em>
-  * <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> 1: <em>Сылö кöть кыдз эн висьтав , <b>нем</b> оз вежöрт .</em>
+  * <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> 1: <em>Сылӧ кӧть кыдз эн висьтав , <b>нем</b> оз вежӧрт .</em>
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 2.000000 (the average of all parts of speech is 1.260870).
+The form / lemma ratio of `PRON` is 1.869565 (the average of all parts of speech is 1.239604).
 
-The 1st highest number of forms (10) was observed with the lemma “сія”: <em>Сiя, Сы, ны, нія, сыкöт, сылöн, сылӧ, сылӧн, сійӧ, сія</em>.
+The 1st highest number of forms (9) was observed with the lemma “ме”: <em>Ми, Мийӧ, ме, мекӧт, мелань, менам, меным, менӧ, миянӧс</em>.
 
-The 2nd highest number of forms (9) was observed with the lemma “ме”: <em>Ми, Мийö, ме, мекӧт, мелань, менам, меным, менӧ, миянöс</em>.
+The 2nd highest number of forms (8) was observed with the lemma “сія”: <em>Сы, ны, нія, сыкӧт, сылӧ, сылӧн, сійӧ, сія</em>.
 
-The 3rd highest number of forms (4) was observed with the lemma “тэ”: <em>Тэнö, тэ, тэнат, ті</em>.
+The 3rd highest number of forms (4) was observed with the lemma “тэ”: <em>Тэнӧ, тэ, тэнат, ті</em>.
 
 `PRON` occurs with 10 features: <tt><a href="koi_uh-feat-PronType.html">PronType</a></tt> (121; 100% instances), <tt><a href="koi_uh-feat-Case.html">Case</a></tt> (114; 94% instances), <tt><a href="koi_uh-feat-Number.html">Number</a></tt> (113; 93% instances), <tt><a href="koi_uh-feat-Person.html">Person</a></tt> (93; 77% instances), <tt><a href="koi_uh-feat-Reflex.html">Reflex</a></tt> (7; 6% instances), <tt><a href="koi_uh-feat-Animacy.html">Animacy</a></tt> (3; 2% instances), <tt><a href="koi_uh-feat-Number-psor.html">Number[psor]</a></tt> (2; 2% instances), <tt><a href="koi_uh-feat-Person-psor.html">Person[psor]</a></tt> (2; 2% instances), <tt><a href="koi_uh-feat-Polarity.html">Polarity</a></tt> (2; 2% instances), <tt><a href="koi_uh-feat-NumType.html">NumType</a></tt> (1; 1% instances)
 
@@ -41,7 +41,7 @@ The 3rd highest number of forms (4) was observed with the lemma “тэ”: <em>
 
 `PRON` occurs with 44 feature combinations.
 The most frequent feature combination is `Case=Nom|Number=Sing|Person=3|PronType=Prs` (29 tokens).
-Examples: <em>сія, Сiя</em>
+Examples: <em>сія</em>
 
 
 ## Relations

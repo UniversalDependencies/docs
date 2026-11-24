@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-47 nodes (4%) are attached to their parents as `obl`.
+46 nodes (4%) are attached to their parents as `obl`.
 
-46 instances of `obl` (98%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.23404255319149.
+45 instances of `obl` (98%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.28260869565217.
 
-The following 11 pairs of parts of speech are connected with `obl`: <tt><a href="tl_ugnayan-pos-VERB.html">VERB</a></tt>-<tt><a href="tl_ugnayan-pos-NOUN.html">NOUN</a></tt> (35; 74% instances), <tt><a href="tl_ugnayan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tl_ugnayan-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="tl_ugnayan-pos-ADV.html">ADV</a></tt>-<tt><a href="tl_ugnayan-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="tl_ugnayan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tl_ugnayan-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="tl_ugnayan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tl_ugnayan-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="tl_ugnayan-pos-ADV.html">ADV</a></tt>-<tt><a href="tl_ugnayan-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="tl_ugnayan-pos-DET.html">DET</a></tt>-<tt><a href="tl_ugnayan-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="tl_ugnayan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tl_ugnayan-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="tl_ugnayan-pos-VERB.html">VERB</a></tt>-<tt><a href="tl_ugnayan-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="tl_ugnayan-pos-VERB.html">VERB</a></tt>-<tt><a href="tl_ugnayan-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="tl_ugnayan-pos-VERB.html">VERB</a></tt>-<tt><a href="tl_ugnayan-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
+The following 10 pairs of parts of speech are connected with `obl`: <tt><a href="tl_ugnayan-pos-VERB.html">VERB</a></tt>-<tt><a href="tl_ugnayan-pos-NOUN.html">NOUN</a></tt> (35; 76% instances), <tt><a href="tl_ugnayan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tl_ugnayan-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="tl_ugnayan-pos-ADV.html">ADV</a></tt>-<tt><a href="tl_ugnayan-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="tl_ugnayan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tl_ugnayan-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="tl_ugnayan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tl_ugnayan-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="tl_ugnayan-pos-ADV.html">ADV</a></tt>-<tt><a href="tl_ugnayan-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="tl_ugnayan-pos-DET.html">DET</a></tt>-<tt><a href="tl_ugnayan-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="tl_ugnayan-pos-VERB.html">VERB</a></tt>-<tt><a href="tl_ugnayan-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="tl_ugnayan-pos-VERB.html">VERB</a></tt>-<tt><a href="tl_ugnayan-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="tl_ugnayan-pos-VERB.html">VERB</a></tt>-<tt><a href="tl_ugnayan-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

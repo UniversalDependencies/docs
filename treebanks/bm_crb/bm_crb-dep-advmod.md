@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-23 nodes (0%) are attached to their parents as `advmod`.
+25 nodes (0%) are attached to their parents as `advmod`.
 
-17 instances of `advmod` (74%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.78260869565217.
+19 instances of `advmod` (76%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.8.
 
-The following 1 pairs of parts of speech are connected with `advmod`: <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> (23; 100% instances).
+The following 2 pairs of parts of speech are connected with `advmod`: <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> (23; 92% instances), <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> (2; 8% instances).
 
 
 ~~~ conllu
@@ -36,6 +36,29 @@ The following 1 pairs of parts of speech are connected with `advmod`: <tt><a hre
 12	kala	kála	VERB	v	_	7	xcomp	_	Gloss=coudre
 13	yen	yèn	ADV	adv/n	_	12	advmod	_	Gloss=là-bas|SpaceAfter=No
 14	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 5 advmod	color:blue
+1	don	dón	NOUN	n	_	7	obl	_	Gloss=jour
+2	dò	dɔ́	DET	dtm	_	1	det	_	Gloss=certain
+3	tilegan	tìlegan	NOUN	n	_	7	obl	_	Gloss=grand.soleil|Morf=grand.soleil,soleil,chaud
+4	fè	fɛ̀	ADP	pp	_	3	case	_	Gloss=par
+5	tuguni	túguni	ADV	adv	_	3	advmod	_	Gloss=encore|Morf=encore,et
+6	Bilali	Bilali	PROPN	n.prop	_	7	nsubj	_	Gloss=NOM.M
+7	nana	nana	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=venir|Morf=venir,PFV.INTR
+8	ni	ni	ADP	conj	_	11	case	_	Gloss=et
+9	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	11	nmod:poss	_	Gloss=3SG
+10	ka	ka	ADP	pp	_	9	case	_	Gloss=POSS
+11	so	sò	NOUN	n	_	7	obl	_	Gloss=cheval
+12	ye	yé	ADP	pp	_	11	case	_	Gloss=PP|SpaceAfter=No
+13	.	.	PUNCT	_	_	7	punct	_	Gloss=.
 
 ~~~
 

@@ -23,8 +23,8 @@ The following 5 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 5	fgColor:white
 # visual-style 5 3 csubj	color:blue
 1	നിങ്ങൾ	നിങ്ങൾ	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	Translit=niṅṅaḷ̕|LTranslit=niṅṅaḷ̕
-2	എന്ത്	എന്ത്	PRON	_	Case=Nom|PronType=Int	3	obl	_	Translit=ent|LTranslit=ent
-3	ഉപയോഗിക്കുന്നു	ഉപയോഗിക്കുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	csubj	_	Translit=upayōgikkunnu|LTranslit=upayōgikkuka
+2	എന്ത്	എന്ത്	PRON	_	Case=Nom|PronType=Int	3	obl	_	LTranslit=ent|Translit=ent
+3	ഉപയോഗിക്കുന്നു	ഉപയോഗിക്കുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	csubj	_	LTranslit=upayōgikkuka|Translit=upayōgikkunnu
 4	എന്നത്	എന്ന്	SCONJ	_	_	3	mark	_	Translit=ennat|LTranslit=enn
 5	കണക്കിലെടുക്കാതെ	കണക്കിലെടുക്കാതെ	VERB	_	Polarity=Neg|VerbForm=Inf	11	acl	_	SpaceAfter=No|Translit=kaṇakkileṭukkāte|LTranslit=kaṇakkileṭukkāte
 6	,	,	PUNCT	_	_	5	punct	_	Translit=,|LTranslit=,
@@ -46,18 +46,18 @@ The following 5 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 12	fgColor:white
 # visual-style 12 5 csubj	color:blue
 1	അതുകൊണ്ട്	അതുകൊണ്ട്	ADV	_	_	12	advmod	_	Translit=atukoṇṭ|LTranslit=atukoṇṭ
-2	അധികാരത്തിൽനിന്ന	അധികാരം	NOUN	_	Animacy=Inan|Case=All|Number=Sing	5	obl	_	Translit=adhikārattil̕ninna|LTranslit=adhikāraṁ
-3	ഉം	ഉം	PART	_	_	2	advmod:emph	_	Translit=uṁ|LTranslit=uṁ
+2	അധികാരത്തിൽനിന്ന	അധികാരം	NOUN	_	Animacy=Inan|Case=All|Number=Sing	5	obl	_	LTranslit=adhikāraṁ|Translit=adhikārattil̕ninna
+3	ഉം	ഉം	PART	_	_	2	advmod:emph	_	LTranslit=uṁ|Translit=uṁ
 4	ഇടയ്ക്കിടെ	ഇടയ്ക്കിടെ	ADV	_	_	5	advmod	_	Translit=iṭaykkiṭe|LTranslit=iṭaykkiṭe
 5	മാറിനില്ക്കുന്നത്	മാറിനില്ക്കുക	VERB	_	Polarity=Pos|Tense=Pres|VerbForm=Vnoun|Voice=Act	12	csubj	_	Translit=māṟinilkkunnat|LTranslit=māṟinilkkuka
 6	രാഷ്ട്രീയ	രാഷ്ട്രീയം	ADJ	_	_	7	amod	_	Translit=rāṣṭrīya|LTranslit=rāṣṭrīyaṁ
 7	പാർട്ടികളുടെ	പാർട്ടി	NOUN	_	Animacy=Inan|Case=Gen|Number=Plur	8	nmod:poss	_	Translit=pāṟ̕ṭṭikaḷuṭe|LTranslit=pāṟ̕ṭṭi
-8	വിശുദ്ധീകരണത്തിന	വിശുദ്ധീകരണം	NOUN	_	Animacy=Inan|Case=Dat|Number=Sing	12	obl	_	Translit=viśuddhīkaraṇattina|LTranslit=viśuddhīkaraṇaṁ
-9	ഉം	ഉം	CCONJ	_	_	8	cc	_	Translit=uṁ|LTranslit=uṁ
-10	ശക്തീകരണത്തിന	ശക്തീകരണം	NOUN	_	Animacy=Inan|Case=Dat|Number=Sing	8	conj	_	Translit=śaktīkaraṇattina|LTranslit=śaktīkaraṇaṁ
-11	ഉം	ഉം	CCONJ	_	_	10	cc	_	Translit=uṁ|LTranslit=uṁ
-12	നല്ലത്	നല്ലത്	ADJ	_	_	0	root	_	Translit=nallat|LTranslit=nallat
-13	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	12	cop	_	Translit=āṇ|LTranslit=āk
+8	വിശുദ്ധീകരണത്തിന	വിശുദ്ധീകരണം	NOUN	_	Animacy=Inan|Case=Dat|Number=Sing	12	obl	_	LTranslit=viśuddhīkaraṇaṁ|Translit=viśuddhīkaraṇattina
+9	ഉം	ഉം	CCONJ	_	_	8	cc	_	LTranslit=uṁ|Translit=uṁ
+10	ശക്തീകരണത്തിന	ശക്തീകരണം	NOUN	_	Animacy=Inan|Case=Dat|Number=Sing	8	conj	_	LTranslit=śaktīkaraṇaṁ|Translit=śaktīkaraṇattina
+11	ഉം	ഉം	CCONJ	_	_	10	cc	_	LTranslit=uṁ|Translit=uṁ
+12	നല്ലത്	നല്ലത്	ADJ	_	_	0	root	_	LTranslit=nallat|Translit=nallat
+13	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	12	cop	_	LTranslit=āk|Translit=āṇ
 14	.	.	PUNCT	_	_	12	punct	_	Translit=.|LTranslit=.
 
 ~~~
@@ -76,14 +76,14 @@ The following 5 pairs of parts of speech are connected with `csubj`: <tt><a href
 5	പാചകം	പാചകം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	6	compound	_	Translit=pācakaṁ|LTranslit=pācakaṁ
 6	ചെയ്യുന്നത്	ചെയ്യുക	VERB	_	Polarity=Pos|Tense=Pres|VerbForm=Vnoun|Voice=Act	8	csubj	_	Translit=ceyyunnat|LTranslit=ceyyuka
 7	വളരെ	വളരെ	ADV	_	_	8	advmod	_	Translit=vaḷare|LTranslit=vaḷare
-8	നല്ലത്	നല്ലത്	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	Translit=nallat|LTranslit=nallat
-9	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	8	cop	_	Translit=āṇ|LTranslit=āk
+8	നല്ലത്	നല്ലത്	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	LTranslit=nallat|Translit=nallat
+9	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	8	cop	_	LTranslit=āk|Translit=āṇ
 10	-	-	PUNCT	_	_	8	punct	_	Translit=-|LTranslit=-
 11	ഇത്	ഇത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Prox|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	Translit=it|LTranslit=it
 12	വളരെ	വളരെ	ADV	_	_	14	advmod	_	Translit=vaḷare|LTranslit=vaḷare
 13	ബുദ്ധിമുട്ടുള്ള	ബുദ്ധിമുട്ട്	ADJ	_	_	14	amod	_	Translit=buddhimuṭṭuḷḷa|LTranslit=buddhimuṭṭ
-14	കാര്യം	കാര്യം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	8	parataxis	_	Translit=kāryaṁ|LTranslit=kāryaṁ
-15	അല്ല	ആക്	AUX	_	Mood=Ind|Polarity=Neg|Tense=Pres|VerbForm=Fin	14	cop	_	Translit=alla|LTranslit=āk
+14	കാര്യം	കാര്യം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	8	parataxis	_	LTranslit=kāryaṁ|Translit=kāryaṁ
+15	അല്ല	ആക്	AUX	_	Mood=Ind|Polarity=Neg|Tense=Pres|VerbForm=Fin	14	cop	_	LTranslit=āk|Translit=alla
 16	.	.	PUNCT	_	_	8	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 ~~~

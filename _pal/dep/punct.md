@@ -36,4 +36,4 @@ pad , mardōmān farroxīhātom tis dānišn ud dahišn \n in , humans most_bles
 case(mardōmān, pad)
 punct(mardōmān, ,)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:43 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:39:12 CET -->

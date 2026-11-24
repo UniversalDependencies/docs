@@ -9,29 +9,28 @@ udver: '2'
 This feature is universal but the values `Con` are language-specific.
 It occurs with 9 different values: `Art`, `Con`, `Dem`, `Ind`, `Int`, `Prs`, `Rcp`, `Rel`, `Tot`.
 
-61490 tokens (14%) have a non-empty value of `PronType`.
-508 types (3%) occur at least once with a non-empty value of `PronType`.
-93 lemmas (2%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 7 part-of-speech tags: <tt><a href="la_ittb-pos-DET.html">DET</a></tt> (28678; 6% instances), <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (23610; 5% instances), <tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> (5879; 1% instances), <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> (3312; 1% instances), <tt><a href="la_ittb-pos-PART.html">PART</a></tt> (9; 0% instances), <tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="la_ittb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+61493 tokens (14%) have a non-empty value of `PronType`.
+509 types (3%) occur at least once with a non-empty value of `PronType`.
+94 lemmas (2%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 7 part-of-speech tags: <tt><a href="la_ittb-pos-DET.html">DET</a></tt> (28681; 6% instances), <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (23610; 5% instances), <tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> (5879; 1% instances), <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> (3312; 1% instances), <tt><a href="la_ittb-pos-PART.html">PART</a></tt> (9; 0% instances), <tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="la_ittb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 ### `DET`
 
-28678 <tt><a href="la_ittb-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+28681 <tt><a href="la_ittb-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="la_ittb-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (25745; 90%), <tt><a href="la_ittb-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (25745; 90%), <tt><a href="la_ittb-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (25316; 88%), <tt><a href="la_ittb-feat-Compound.html">Compound</a></tt><tt>=EMPTY</tt> (24747; 86%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (21170; 74%), <tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt> (20800; 73%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="la_ittb-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (25748; 90%), <tt><a href="la_ittb-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (25748; 90%), <tt><a href="la_ittb-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (25319; 88%), <tt><a href="la_ittb-feat-Compound.html">Compound</a></tt><tt>=EMPTY</tt> (24747; 86%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (21170; 74%), <tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt> (20800; 73%).
 
 `DET` tokens may have the following values of `PronType`:
 
 * `Art` (8; 0% of non-empty `PronType`): <em>ly</em>
 * `Con` (3497; 12% of non-empty `PronType`): <em>alia, aliud, aliis, alio, alterius, aliam, alii, sola, aliorum, utrumque</em>
-* `Dem` (11401; 40% of non-empty `PronType`): <em>hoc, huiusmodi, ipsum, haec, illud, his, ipsa, ipse, ipsius, ipso</em>
+* `Dem` (11404; 40% of non-empty `PronType`): <em>hoc, huiusmodi, ipsum, haec, illud, his, ipsa, ipse, ipsius, ipso</em>
 * `Ind` (6540; 23% of non-empty `PronType`): <em>aliqua, unum, quaedam, aliquam, una, aliquod, alicuius, quidam, nulla, unus</em>
 * `Prs` (2933; 10% of non-empty `PronType`): <em>suam, sua, suum, suae, sui, suo, nostra, noster, suis, nostrae</em>
 * `Rel` (360; 1% of non-empty `PronType`): <em>quaecumque, quicumque, quocumque, cuiuscumque, qualis, quodcumque, quacumque, quamcumque, quibuscumque, cuicumque</em>
 * `Tot` (3939; 14% of non-empty `PronType`): <em>omnia, omnes, omnis, omne, omnibus, omnium, totum, totius, unumquodque, omni</em>
-* `EMPTY` (4): <em>cuiusmodi, minus</em>
 
-`PronType` seems to be **lexical feature** of `DET`. 100% lemmas (52) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `DET`. 100% lemmas (53) occur only with one value of `PronType`.
 
 ### `PRON`
 
@@ -113,7 +112,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 * `Ind` (20; 1% of non-empty `PronType`): <em>aliquatenus, nihil, nil, plus</em>
 * `Int` (3; 0% of non-empty `PronType`): <em>numquid, nunquid</em>
 * `Rel` (1839; 56% of non-empty `PronType`): <em>unde, ut, quandoque, qualiter, quatenus, quando, quanto, quare, quantum</em>
-* `EMPTY` (19368): <em>etiam, sic, ergo, tamen, uero, supra, ita, magis, adhuc, item</em>
+* `EMPTY` (19369): <em>etiam, sic, ergo, tamen, uero, supra, ita, magis, adhuc, item</em>
 
 `PronType` seems to be **lexical feature** of `ADV`. 100% lemmas (27) occur only with one value of `PronType`.
 

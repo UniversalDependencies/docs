@@ -42,7 +42,7 @@ The 10 most frequent ambiguous types:  <em>ti</em> (<tt><a href="cs_poetry-pos-P
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 4.000000 (the average of all parts of speech is 1.401136).
+The form / lemma ratio of `DET` is 4.000000 (the average of all parts of speech is 1.401343).
 
 The 1st highest number of forms (14) was observed with the lemma “můj”: <em>moje, moji, mojí, mou, má, mé, mých, můj, naše, našeho, našich, naší, naším, náš</em>.
 

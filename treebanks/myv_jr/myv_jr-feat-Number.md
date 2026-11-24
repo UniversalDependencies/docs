@@ -12,10 +12,10 @@ Some words have combined values of the feature; 1 combinations have been observe
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="myv_jr-feat-Number.html">Number</a></tt>, <tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt>, <tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt>, <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt>.
 
-7972 tokens (38%) have a non-empty value of `Number`.
-4097 types (62%) occur at least once with a non-empty value of `Number`.
-1869 lemmas (60%) occur at least once with a non-empty value of `Number`.
-The feature is used with 12 part-of-speech tags: <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (5082; 24% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (1161; 6% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (707; 3% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (418; 2% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (228; 1% instances), <tt><a href="myv_jr-pos-DET.html">DET</a></tt> (183; 1% instances), <tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (123; 1% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (45; 0% instances), <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (11; 0% instances), <tt><a href="myv_jr-pos-PART.html">PART</a></tt> (11; 0% instances), <tt><a href="myv_jr-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+7977 tokens (38%) have a non-empty value of `Number`.
+4101 types (62%) occur at least once with a non-empty value of `Number`.
+1870 lemmas (60%) occur at least once with a non-empty value of `Number`.
+The feature is used with 12 part-of-speech tags: <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (5082; 24% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (1161; 6% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (707; 3% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (418; 2% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (233; 1% instances), <tt><a href="myv_jr-pos-DET.html">DET</a></tt> (183; 1% instances), <tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (123; 1% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (45; 0% instances), <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (11; 0% instances), <tt><a href="myv_jr-pos-PART.html">PART</a></tt> (11; 0% instances), <tt><a href="myv_jr-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -144,16 +144,16 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 ### `VERB`
 
-228 <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> tokens (6% of all `VERB` tokens) have a non-empty value of `Number`.
+233 <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> tokens (6% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (228; 100%), <tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (228; 100%), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (227; 100%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (224; 98%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (224; 98%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (205; 90%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (155; 68%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (233; 100%), <tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (233; 100%), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (232; 100%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (229; 98%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (229; 98%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (210; 90%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (160; 69%).
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (29; 13% of non-empty `Number`): <em>молицятнень, сыцятнень, ардыцят, ванстомкатне, ванстыцятне, вастнематне, видематнень, дивсематнень, изнямот, каразтне</em>
-* `Plur,Sing` (43; 19% of non-empty `Number`): <em>Ярсамодо, вечкевикс, Мадемадо, Мелявтыцякс, Ютазде, валаськавтомадо, ваныцякс, гайгицякс, жалямонь, кандомадо</em>
-* `Sing` (156; 68% of non-empty `Number`): <em>сэредиця, касыця, молиця, аштиця, валгиця, вечкема, кадовозь, солавтозь, эждязь, ютыця</em>
-* `EMPTY` (3533): <em>мерсь, лиссь, мольсь, ютась, ашти, маряви, неяви, совась, лоткась, саизе</em>
+* `Plur` (29; 12% of non-empty `Number`): <em>молицятнень, сыцятнень, ардыцят, ванстомкатне, ванстыцятне, вастнематне, видематнень, дивсематнень, изнямот, каразтне</em>
+* `Plur,Sing` (43; 18% of non-empty `Number`): <em>Ярсамодо, вечкевикс, Мадемадо, Мелявтыцякс, Ютазде, валаськавтомадо, ваныцякс, гайгицякс, жалямонь, кандомадо</em>
+* `Sing` (161; 69% of non-empty `Number`): <em>сэредиця, касыця, молиця, аштиця, валгиця, вечкема, кадовозь, менчевиця, солавтозь, эждязь</em>
+* `EMPTY` (3528): <em>мерсь, лиссь, мольсь, ютась, ашти, маряви, неяви, совась, лоткась, саизе</em>
 
 <table>
   <tr><th>Paradigm <i>молемс</i></th><th><tt>Plur,Sing</tt></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -263,7 +263,7 @@ The most frequent other feature values with which `ADP` and `Number` co-occurred
 
 1 <tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> tokens (2% of all `SCONJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `SCONJ` and `Number` co-occurred: <tt><a href="myv_jr-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `SCONJ` and `Number` co-occurred: <tt><a href="myv_jr-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="myv_jr-feat-ConjType.html">ConjType</a></tt><tt>=EMPTY</tt> (1; 100%).
 
 `SCONJ` tokens may have the following values of `Number`:
 

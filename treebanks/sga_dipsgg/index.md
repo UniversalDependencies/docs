@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.12 release
 The following people have contributed to making this treebank part of UD: Adrian Doyle.
 
 Repository: [UD_Old_Irish-DipSGG](https://github.com/UniversalDependencies/UD_Old_Irish-DipSGG)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsga_dipsgg218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsga_dipsgg219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -100,11 +100,11 @@ Thurneysen, Rudolf. (1946). A Grammar of Old Irish. Binchy, D. A. and Bergin, Os
 
 
 <ul>
-<li>This corpus contains 64 sentences and 418 tokens.</li>
+<li>This corpus contains 64 sentences and 421 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 114 tokens (27%) that are not followed by a space.</li>
+<li>This corpus contains 117 tokens (28%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -233,9 +233,9 @@ Thurneysen, Rudolf. (1946). A Grammar of Old Irish. Binchy, D. A. and Bergin, Os
       <li>ADP: dom, and, dait, de, foir, frimm, lat, oco</li>
       <li>AUX: is, d, ní, bid, bith, mba</li>
       <li>DET: in, a, ind, cach, inna, inḍt, na, nd, sin, ᚔᚅ</li>
-      <li>NOUN: ᚉᚑᚉᚐᚏᚈ, dia, dias, ingen, ainm, airdircus, aite, aithne, anmmain, bendacht</li>
+      <li>NOUN: ᚉᚑᚉᚐᚏᚈ, dias, ingen, ainm, airdircus, aite, aithne, anmmain, bendacht, bruach</li>
       <li>PRON: m, a, mo, do, mei, mm, siu, som, sse, sv</li>
-      <li>PROPN: brigtae, choirbbre, dongus, donngvs, ferguso, finguine, lothlind, maddoc, máel, máelecán</li>
+      <li>PROPN: brigtae, dia, choirbbre, dongus, donngvs, ferguso, finguine, lothlind, maddoc, máel</li>
       <li>SCONJ: nach</li>
       <li>VERB: chain, Gaib, braigim, cél, cóima, epur, farcai, fuasna, giuil, llega</li>
     </ul>
@@ -262,8 +262,8 @@ Thurneysen, Rudolf. (1946). A Grammar of Old Irish. Binchy, D. A. and Bergin, Os
     <ul>
       <li>ADJ: glass, lainn, libardaib</li>
       <li>DET: cach, in, naib, nd, sin</li>
-      <li>NOUN: dia, anmmain, buith, ceniul, charcair, coimthecht, comṡuidiguth, dindgnaib, déainmmnichdechaib, inis</li>
-      <li>PROPN: lothlind, maddoc</li>
+      <li>NOUN: anmmain, buith, ceniul, charcair, coimthecht, comṡuidiguth, dindgnaib, déainmmnichdechaib, inis, libur</li>
+      <li>PROPN: dia, lothlind, maddoc</li>
     </ul>
   </li>
 </ul>
@@ -308,7 +308,6 @@ Thurneysen, Rudolf. (1946). A Grammar of Old Irish. Binchy, D. A. and Bergin, Os
   <li>Def
     <ul>
       <li>ADP: do, ar, di, i</li>
-      <li>DET: cach</li>
     </ul>
   </li>
 </ul>
@@ -317,7 +316,6 @@ Thurneysen, Rudolf. (1946). A Grammar of Old Irish. Binchy, D. A. and Bergin, Os
   <li>Ind
     <ul>
       <li>ADP: hi, do, dom, ar, de, huas, i, and, dait, di</li>
-      <li>DET: na</li>
     </ul>
   </li>
 </ul>
@@ -431,7 +429,7 @@ Thurneysen, Rudolf. (1946). A Grammar of Old Irish. Binchy, D. A. and Bergin, Os
   <li>Past
     <ul>
       <li>AUX: bid</li>
-      <li>VERB: giuil, roscribad, roscríbad, rosechestar</li>
+      <li>VERB: giuil, scribad, scríbad, sechestar</li>
     </ul>
   </li>
 </ul>
@@ -460,7 +458,7 @@ Thurneysen, Rudolf. (1946). A Grammar of Old Irish. Binchy, D. A. and Bergin, Os
 <ul>
   <li>Pass
     <ul>
-      <li>VERB: roscribad, roscríbad</li>
+      <li>VERB: scribad, scríbad</li>
     </ul>
   </li>
 </ul>
@@ -498,6 +496,14 @@ Thurneysen, Rudolf. (1946). A Grammar of Old Irish. Binchy, D. A. and Bergin, Os
 </ul>
 
 <ul>
+  <li>Neg
+    <ul>
+      <li>DET: na</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Prs
     <ul>
       <li>ADP: dom, and, dait, de, dv́n, foir, frimm, friu, lat, oco</li>
@@ -511,6 +517,14 @@ Thurneysen, Rudolf. (1946). A Grammar of Old Irish. Binchy, D. A. and Bergin, Os
   <li>Rel
     <ul>
       <li>AUX: mba</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Tot
+    <ul>
+      <li>DET: cach</li>
     </ul>
   </li>
 </ul>
@@ -639,7 +653,7 @@ Thurneysen, Rudolf. (1946). A Grammar of Old Irish. Binchy, D. A. and Bergin, Os
       <li>Aug
         <ul>
           <li>PART: ro</li>
-          <li>VERB: roib, roscribad, roscríbad, rosechestar</li>
+          <li>VERB: roib</li>
         </ul>
       </li>
       <li>Dct

@@ -25,7 +25,7 @@ The following 32 pairs of parts of speech are connected with `fixed`: <tt><a hre
 1	Концертировал	концертировать	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	с	с	ADP	IN	_	4	case	_	_
 3	1922	1922	ADJ	ORD	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
-4	года	год	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	obl	_	SpaceAfter=No
+4	года	год	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	obl:tmod	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	11	punct	_	_
 6	в	в	ADP	IN	_	11	case	_	_
 7	том	тот	DET	DT	Case=Loc|Gender=Neut|Number=Sing	6	fixed	_	_
@@ -76,7 +76,7 @@ The following 32 pairs of parts of speech are connected with `fixed`: <tt><a hre
 1	Концертировал	концертировать	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	с	с	ADP	IN	_	4	case	_	_
 3	1922	1922	ADJ	ORD	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
-4	года	год	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	obl	_	SpaceAfter=No
+4	года	год	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	obl:tmod	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	11	punct	_	_
 6	в	в	ADP	IN	_	11	case	_	_
 7	том	тот	DET	DT	Case=Loc|Gender=Neut|Number=Sing	6	fixed	_	_

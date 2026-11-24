@@ -28,7 +28,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 * `Gen` (6747; 13% of non-empty `Case`): <em>ecclesie, manus, testis, memorie, episcopatui, regni, imperii, filii, clerici, domni</em>
 * `Nom` (7714; 15% of non-empty `Case`): <em>signum, notarius, episcopus, presbiter, clericus, imperator, pars, missus, germani, schabinus</em>
 * `Voc` (14; 0% of non-empty `Case`): <em>episcope, domne, clerice</em>
-* `EMPTY` (6): <em>[noun], [--], [pronoun]</em>
+* `EMPTY` (7): <em>[noun], [pronoun], [--]</em>
 
 <table>
   <tr><th>Paradigm <i>clericus</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Voc</tt></th><th><tt>Abl</tt></th></tr>
@@ -96,7 +96,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 * `Dat` (3533; 19% of non-empty `Case`): <em>tibi, mihi, vobis, nobis, cui, ei, eis, tivi, sibi, novis</em>
 * `Gen` (1088; 6% of non-empty `Case`): <em>eius, eorum, earum, cuius, chorum, nostris</em>
 * `Nom` (7474; 41% of non-empty `Case`): <em>ego, qui, nos, id, tu, quod, que, vos, quis, quidquid</em>
-* `EMPTY` (2): <em>[pronoun], quandoque</em>
+* `EMPTY` (1): <em>quandoque</em>
 
 <table>
   <tr><th>Paradigm <i>qui</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Abl</tt></th></tr>

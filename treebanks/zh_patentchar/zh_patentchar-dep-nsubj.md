@@ -11,9 +11,9 @@ This relation is universal.
 212 nodes (4%) are attached to their parents as `nsubj`.
 
 212 instances of `nsubj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.38207547169811.
+Average distance between parent and child is 2.36792452830189.
 
-The following 6 pairs of parts of speech are connected with `nsubj`: <tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt> (185; 87% instances), <tt><a href="zh_patentchar-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt> (11; 5% instances), <tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_patentchar-pos-PROPN.html">PROPN</a></tt> (9; 4% instances), <tt><a href="zh_patentchar-pos-ADP.html">ADP</a></tt>-<tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="zh_patentchar-pos-ADV.html">ADV</a></tt>-<tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt> (2; 1% instances).
+The following 6 pairs of parts of speech are connected with `nsubj`: <tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt> (184; 87% instances), <tt><a href="zh_patentchar-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt> (11; 5% instances), <tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_patentchar-pos-PROPN.html">PROPN</a></tt> (9; 4% instances), <tt><a href="zh_patentchar-pos-ADP.html">ADP</a></tt>-<tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt> (4; 2% instances), <tt><a href="zh_patentchar-pos-ADV.html">ADV</a></tt>-<tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt> (2; 1% instances).
 
 
 ~~~ conllu
@@ -80,7 +80,7 @@ The following 6 pairs of parts of speech are connected with `nsubj`: <tt><a href
 # visual-style 8 2 nsubj	color:blue
 1	所述	_	ADJ	_	_	2	amod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
 2	TA	_	PROPN	_	_	8	nsubj	_	Gloss=_|SpaceAfter=No|Translit=TA
-3	将	_	PART	_	_	7	case	_	Gloss=_|SpaceAfter=No|Translit=jiāng
+3	将	_	PART	_	_	8	mark	_	Gloss=_|SpaceAfter=No|Translit=jiāng
 4	所述	_	ADJ	_	_	8	advcl	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
 5	业务	_	NOUN	_	_	6	obl	_	Gloss=_|SpaceAfter=No|Translit=yè_wù
 6	操作	_	VERB	_	_	8	advcl	_	Gloss=_|SpaceAfter=No|Translit=cāo_zuò

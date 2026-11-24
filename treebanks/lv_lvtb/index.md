@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Lauma Pretkalniņa, Laura Rituma, Gunta Nešpore-Bērzkalne, Baiba Saulīte, Artūrs Znotiņš, Normunds Grūzītis.
 
 Repository: [UD_Latvian-LVTB](https://github.com/UniversalDependencies/UD_Latvian-LVTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udlv_lvtb218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udlv_lvtb219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 
@@ -48,7 +48,7 @@ Latvian UD Treebank is based on Latvian Treebank ([LVTB](http://sintakse.korpuss
 
 
 
-Latvian UD Treebank v2.18 consists of 19'580 sentences (330'318 tokens), and it has been obtained by automatic conversion of both the morphological and the syntactic annotations of the original LVTB treebank. LVTB data contains manually verified syntactic annotation according to a hybrid dependency-constituency schema, as well as manually verified morphological tags and lemmas. LVTB is released in parallel with Latvian UD Treebank since v2.2 and features the same version numbers. The corresponding LVTB versions are listed [here](http://sintakse.korpuss.lv/versions.html). Key `LvtbNodeId` in Latvian UD Treebank CoNLL-U field `MISC` provides the mapping from Latvian UD Treebank to LVTB. Each LVTB version is superset of the corresponding Latvian UD Treebank version in terms of included sentences.
+Latvian UD Treebank v2.19 consists of 19'580 sentences (330'318 tokens), and it has been obtained by automatic conversion of both the morphological and the syntactic annotations of the original LVTB treebank. LVTB data contains manually verified syntactic annotation according to a hybrid dependency-constituency schema, as well as manually verified morphological tags and lemmas. LVTB is released in parallel with Latvian UD Treebank since v2.2 and features the same version numbers. The corresponding LVTB versions are listed [here](http://sintakse.korpuss.lv/versions.html). Key `LvtbNodeId` in Latvian UD Treebank CoNLL-U field `MISC` provides the mapping from Latvian UD Treebank to LVTB. Each LVTB version is superset of the corresponding Latvian UD Treebank version in terms of included sentences.
 
 ## Acknowledgments
 
@@ -100,11 +100,11 @@ This work was supported by European Regional Development Fund under the grant ag
 </ul>
 
 <ul>
-<li>This corpus contains 86 word types tagged as particles (PART): Ak, Da, Mjā, Nea, Nuja, Nūja, acīmredzot, ar, ar', ari, arī, arīdzan, atkal, ausīmdzirdot, diemžēl, diez, diezin, droši, fon, gan, i, ij, ik, it, itin, ja, jau, jel, jo, jā, ka, kaut, kur, kā, lai, laikam, ne, nebūt, nekā, nemaz, nez, nezin, no, nu, nē, nūjā, par, pat, patiesi, patiešām, protams, proti, sak, sazin, ta, ta', tad, tak, taču, te, tiešam, tieši, tiešām, tik, tikai, tikpat, tikvien, tipa, to, tomēr, toties, tur, turklāt, tā, tāpat, tātad, vai, var, varbūt, vien, vienkārši, vienīgi, vis, viss, vēl, še</li>
+<li>This corpus contains 85 word types tagged as particles (PART): Ak, Da, Mjā, Nea, Nuja, Nūja, acīmredzot, ar, ar', ari, arī, arīdzan, atkal, ausīmdzirdot, diemžēl, diez, diezin, droši, fon, gan, i, ij, ik, it, itin, ja, jau, jel, jo, jā, ka, kaut, kur, kā, lai, laikam, ne, nebūt, nekā, nez, nezin, no, nu, nē, nūjā, par, pat, patiesi, patiešām, protams, proti, sak, sazin, ta, ta', tad, tak, taču, te, tiešam, tieši, tiešām, tik, tikai, tikpat, tikvien, tipa, to, tomēr, toties, tur, turklāt, tā, tāpat, tātad, vai, var, varbūt, vien, vienkārši, vienīgi, vis, viss, vēl, še</li>
 </ul>
 
 <ul>
-<li>This corpus contains 29 lemmas tagged as pronouns (PRON): es, jebkas, jūs, kas, ko, kura, kurš, kuŗa, kuŗš, kāds, mēs, nekas, nekāds, neviens, pats, sava, sevis, tas, tava, tu, tā, tāds, visa, viskautkas, viss, viņa, viņš, šāda, šāds</li>
+<li>This corpus contains 28 lemmas tagged as pronouns (PRON): es, jebkas, jūs, kas, ko, kura, kurš, kuŗa, kuŗš, kāds, mēs, nekas, neviens, pats, sava, sevis, tas, tava, tu, tā, tāds, visa, viskautkas, viss, viņa, viņš, šāda, šāds</li>
 </ul>
 
 <ul>
@@ -112,7 +112,7 @@ This work was supported by European Regional Development Fund under the grant ag
 </ul>
 
 <ul>
-<li>Out of the above, 16 lemmas occurred sometimes as PRON and sometimes as DET: es, kura, kurš, kāds, nekāds, neviens, pats, sava, tas, tava, tā, tāds, visa, viss, šāda, šāds</li>
+<li>Out of the above, 15 lemmas occurred sometimes as PRON and sometimes as DET: es, kura, kurš, kāds, neviens, pats, sava, tas, tava, tā, tāds, visa, viss, šāda, šāds</li>
 </ul>
 
 <ul>
@@ -181,7 +181,7 @@ This work was supported by European Regional Development Fund under the grant ag
       <li>DET: tā, tās, savu, šīs, kuras, šo, to, šī, savas, kurā</li>
       <li>NOUN: valsts, izglītības, vietā, pasaules, zemes, dzīves, reizi, dienas, mājās, darbības</li>
       <li>NUM: viena, divas, vienu, vienas, vienā, trīs, divām, otru, otras, vienai</li>
-      <li>PRON: viņa, viņas, viņai, viņu, viņām, viņā, Tawa, Tām, iā, kura</li>
+      <li>PRON: viņa, viņas, viņai, viņu, viņām, viņā, Tawa, iā, kura, kuram</li>
       <li>PROPN: Latvijas, Latvijā, Eiropas, Rīgas, Krievijas, Baltijas, Rīgā, Sofija, Latvija, Saeimas</li>
       <li>VERB-Conv: Celdamās, Dzīvodama, Kāpdama, Nevarēdamas, Redzēdama, apzinādamās, atraudamās, atstādama, atvainodamās, brīnīdamās</li>
       <li>VERB-Part: bijusi, kļuvusi, saistītas, sākusi, veikta, pagājušajā, saistīta, minētā, notikusi, saņēmusi</li>
@@ -295,7 +295,7 @@ This work was supported by European Regional Development Fund under the grant ag
       <li>ADJ: dažādiem, dažādām, mīkstajām, lielām, pirmajiem, lielākajiem, vietējiem, jaunajiem, lieliem, pārējiem</li>
       <li>ADJ-Part: klātesošajiem, drošām, garāmslīdošām, košiem, nedrošām, tiesībsargājošajām</li>
       <li>AUX-Part: bijušajām</li>
-      <li>DET: tam, tiem, visiem, kuriem, citiem, šim, tām, saviem, citām, tai</li>
+      <li>DET: tam, tiem, visiem, kuriem, citiem, tām, šim, saviem, citām, tai</li>
       <li>NOUN: piemēram, gadiem, cilvēkiem, bērniem, gadam, iedzīvotājiem, valstīm, rokām, kājām, beigām</li>
       <li>NUM: diviem, vienam, divām, trim, otram, pieciem, vienai, četrām, astoņiem, deviņiem</li>
       <li>PRON: man, mums, viņam, viņai, viņiem, tev, sev, kam, jums, viņām</li>
@@ -577,7 +577,7 @@ This work was supported by European Regional Development Fund under the grant ag
       <li>AUX-Fin: ir, nav, tiek, esmu, esot, esam, esi, netiek, neesmu, neesot</li>
       <li>AUX-Part: esoša, esošās</li>
       <li>VERB-Fin: ir, var, nav, nevar, notiek, saka, uzskata, stāsta, atrodas, liecina</li>
-      <li>VERB-Part: zināms, redzams, esošo, Protams, pieejams, pieejami, notiekošo, pieejama, redzama, zināma</li>
+      <li>VERB-Part: zināms, redzams, esošo, pieejams, pieejami, notiekošo, pieejama, redzama, zināma, zināmu</li>
     </ul>
   </li>
 </ul>
@@ -640,7 +640,7 @@ This work was supported by European Regional Development Fund under the grant ag
     <ul>
       <li>ADV: tad, tā, tik, tur, tagad, te, šeit</li>
       <li>DET: to, tas, tā, tās, šo, tam, šī, tie, šajā, šīs</li>
-      <li>PRON: Tām, iā, t, taac, tas, to, šadā, šāda</li>
+      <li>PRON: iā, t, taac, tas, to, šadā, šāda</li>
     </ul>
   </li>
 </ul>
@@ -650,7 +650,7 @@ This work was supported by European Regional Development Fund under the grant ag
     <ul>
       <li>ADV: kā, kāpēc, kādēļ, cik, kur, tāpēc</li>
       <li>DET: kādu, citu, kāds, kāda, citiem, daudzi, kādā, kādas, citi, cits</li>
-      <li>PRON: ko, kas, kam, kā, jebko, ka, kāda, nekāds, pašā, viskautko</li>
+      <li>PRON: ko, kas, kam, kā, jebko, ka, kāda, viskautko</li>
     </ul>
   </li>
 </ul>
@@ -687,14 +687,6 @@ This work was supported by European Regional Development Fund under the grant ag
   <li>Neg
     <ul>
       <li>ADV: nemaz, nedaudz, nereti, netālu, nekādi, nepārtraukti, neapšaubāmi, nenoliedzami, nepavisam, nejauši</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Neg,Rel
-    <ul>
-      <li>PRON: neko</li>
     </ul>
   </li>
 </ul>
@@ -1190,7 +1182,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--PRON-Acc (1)</li>
       <li>VERB-Part--PRON-Acc-ADP(ar) (9)</li>
       <li>VERB-Part--PRON-Acc-ADP(par) (20)</li>
-      <li>VERB-Part--PRON-Dat (100)</li>
+      <li>VERB-Part--PRON-Dat (99)</li>
       <li>VERB-Part--PRON-Dat-ADP(ar) (1)</li>
       <li>VERB-Part--PRON-Dat-ADP(no) (1)</li>
       <li>VERB-Part--PRON-Dat-ADP(priekš) (1)</li>

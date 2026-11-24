@@ -23,31 +23,31 @@ The following 5 pairs of parts of speech are connected with `compound:prt`: <tt>
 # visual-style 23	fgColor:white
 # visual-style 23 25 compound:prt	color:blue
 1	_	_	ADP	IN	_	3	case	_	_
-2	_	_	DET	DT	_	3	det	_	_
-3	_	_	NOUN	NN	_	6	obl	_	_
+2	_	_	DET	DT	PronType=Art	3	det	_	_
+3	_	_	NOUN	NN	Number=Sing	6	obl	_	_
 4	_	_	PUNCT	,	_	6	punct	_	_
-5	_	_	PRON	PRP	_	6	nsubj	_	_
-6	_	_	VERB	VBD	_	0	root	_	_
+5	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+6	_	_	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 7	_	_	ADP	IN	_	8	case	_	_
-8	_	_	NOUN	NN	_	6	obl	_	_
-9	_	_	ADV	RB	_	8	advmod	_	_
+8	_	_	NOUN	NN	Number=Sing	6	obl	_	_
+9	_	_	ADV	RB	Degree=Pos	8	advmod	_	_
 10	_	_	PUNCT	-LRB-	_	11	punct	_	_
 11	_	_	CCONJ	CC	_	12	cc	_	_
-12	_	_	NOUN	NN	_	8	conj	_	_
+12	_	_	NOUN	NN	Number=Sing|Typo=Yes	8	conj	_	CorrectForm=payment
 13	_	_	ADP	IN	_	16	case	_	_
-14	_	_	DET	PRP$	_	16	nmod:poss	_	_
-15	_	_	ADJ	JJ	_	16	amod	_	_
-16	_	_	NOUN	NN	_	12	nmod	_	_
+14	_	_	DET	PRP$	Number=Sing|Poss=Yes|PronType=Prs	16	nmod:poss	_	_
+15	_	_	ADJ	JJ	Degree=Pos|Typo=Yes	16	amod	_	CorrectForm=horrible
+16	_	_	NOUN	NN	Number=Sing	12	nmod	_	_
 17	_	_	PUNCT	-RRB-	_	12	punct	_	_
 18	_	_	PUNCT	:	_	6	punct	_	_
-19	_	_	AUX	VBP	_	21	aux	_	_
-20	_	_	PRON	PRP	_	21	nsubj	_	_
-21	_	_	VERB	VB	_	6	parataxis	_	_
-22	_	_	PRON	NN	_	23	nsubj	_	_
-23	_	_	VERB	VBP	_	21	ccomp	_	_
-24	_	_	PRON	PRP	_	23	iobj	_	_
+19	_	_	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	21	aux	_	_
+20	_	_	PRON	PRP	Person=2|PronType=Prs	21	nsubj	_	_
+21	_	_	VERB	VB	VerbForm=Inf	6	parataxis	_	_
+22	_	_	PRON	NN	Number=Sing|PronType=Ind	23	nsubj	_	_
+23	_	_	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	21	ccomp	_	_
+24	_	_	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	23	iobj	_	_
 25	_	_	ADP	RP	_	23	compound:prt	_	_
-26	_	_	PRON	NN	_	23	obj	_	_
+26	_	_	PRON	NN	Number=Sing|PronType=Ind	23	obj	_	_
 27	_	_	PUNCT	.	_	6	punct	_	_
 
 ~~~
@@ -60,29 +60,29 @@ The following 5 pairs of parts of speech are connected with `compound:prt`: <tt>
 # visual-style 7	fgColor:white
 # visual-style 7 9 compound:prt	color:blue
 1	_	_	SCONJ	IN	_	4	mark	_	_
-2	_	_	PRON	PRP	_	4	nsubj	_	_
-3	_	_	AUX	VBP	_	4	aux	_	_
-4	_	_	VERB	VBG	_	0	root	_	_
-5	_	_	PRON	PRP	_	4	obj	_	_
+2	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+3	_	_	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	_	_	VERB	VBG	VerbForm=Ger	0	root	_	_
+5	_	_	PRON	PRP	Person=2|PronType=Prs	4	obj	_	_
 6	_	_	PART	TO	_	7	mark	_	_
-7	_	_	VERB	VB	_	4	xcomp	_	_
-8	_	_	PRON	PRP	_	7	iobj	_	_
-9	_	_	ADV	RB	_	7	compound:prt	_	_
-10	_	_	ADV	RB	_	11	case	_	_
-11	_	_	ADV	RBS	_	12	nmod	_	_
-12	_	_	NOUN	NN	_	7	obj	_	_
+7	_	_	VERB	VB	VerbForm=Inf	4	xcomp	_	_
+8	_	_	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	iobj	_	_
+9	_	_	ADV	RB	Degree=Pos	7	compound:prt	_	_
+10	_	_	ADJ	JJR	Degree=Cmp|ExtPos=ADV	11	case	_	_
+11	_	_	ADP	IN	_	12	nmod	_	_
+12	_	_	NOUN	NN	Number=Sing	7	obj	_	_
 13	_	_	ADP	IN	_	16	case	_	_
-14	_	_	DET	DT	_	16	det	_	_
-15	_	_	NOUN	NN	_	16	compound	_	_
-16	_	_	NOUN	NN	_	12	nmod	_	_
+14	_	_	DET	DT	PronType=Art	16	det	_	_
+15	_	_	NOUN	NN	Number=Sing	16	compound	_	_
+16	_	_	NOUN	NN	Number=Sing	12	nmod	_	_
 17	_	_	ADP	IN	_	19	case	_	_
-18	_	_	DET	DT	_	19	det	_	_
-19	_	_	NOUN	NN	_	7	obl	_	_
-20	_	_	PRON	WDT	_	22	nsubj:pass	_	_
-21	_	_	AUX	VBD	_	22	aux:pass	_	_
-22	_	_	VERB	VBN	_	19	acl:relcl	_	_
+18	_	_	DET	DT	PronType=Art	19	det	_	_
+19	_	_	NOUN	NN	Number=Sing	7	obl	_	_
+20	_	_	PRON	WDT	PronType=Rel	22	nsubj:pass	_	_
+21	_	_	AUX	VBD	Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	22	aux:pass	_	_
+22	_	_	VERB	VBN	Tense=Past|VerbForm=Part	19	acl:relcl	_	_
 23	_	_	ADP	IN	_	24	case	_	_
-24	_	_	PRON	PRP	_	22	obl	_	_
+24	_	_	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	22	obl	_	_
 25	_	_	PUNCT	.	_	4	punct	_	_
 
 ~~~
@@ -94,18 +94,18 @@ The following 5 pairs of parts of speech are connected with `compound:prt`: <tt>
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 13 compound:prt	color:blue
-1	_	_	PRON	PRP	_	2	nsubj	_	_
-2	_	_	VERB	VBP	_	0	root	_	_
+1	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	_	_	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	_	_	PART	TO	_	4	mark	_	_
-4	_	_	VERB	VB	_	2	xcomp	_	_
+4	_	_	VERB	VB	VerbForm=Inf	2	xcomp	_	_
 5	_	_	SCONJ	IN	_	8	mark	_	_
-6	_	_	PRON	PRP	_	8	expl	_	_
-7	_	_	AUX	VBZ	_	8	cop	_	_
-8	_	_	ADJ	JJ	_	2	ccomp	_	_
+6	_	_	PRON	PRP	Number=Sing|Person=3|PronType=Prs	8	expl	_	_
+7	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	_	_	ADJ	JJ	Degree=Pos	2	ccomp	_	_
 9	_	_	PART	TO	_	10	mark	_	_
-10	_	_	VERB	VB	_	8	csubj	_	_
-11	_	_	PRON	PRP	_	10	iobj	_	_
-12	_	_	NOUN	NN	_	10	obj	_	_
+10	_	_	VERB	VB	VerbForm=Inf	8	csubj	_	_
+11	_	_	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	10	iobj	_	_
+12	_	_	NOUN	NN	Number=Sing	10	obj	_	_
 13	_	_	PART	RP	_	10	compound:prt	_	_
 14	_	_	PUNCT	.	_	2	punct	_	_
 

@@ -8,20 +8,20 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ps_sikaram-dep-acl.html">acl</a></tt>.
 
-56 nodes (1%) are attached to their parents as `acl:relcl`.
+66 nodes (1%) are attached to their parents as `acl:relcl`.
 
-56 instances of `acl:relcl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 11.25.
+66 instances of `acl:relcl` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 11.8787878787879.
 
-The following 10 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (36; 64% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (6; 11% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (4; 7% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt> (2; 4% instances), <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (1; 2% instances).
+The following 11 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (43; 65% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (7; 11% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (5; 8% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 6 14 acl:relcl	color:blue
+# visual-style 6 15 acl:relcl	color:blue
 1	یوشمېر	یوشمېر	DET	_	NumType=Card|PronType=Ind	2	det	_	Translit=yawšmér|LTranslit=yawšmér|Gloss=a-number
 2	توري	توری	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	7	nsubj:pass	_	Translit=tóri|LTranslit=tóray|Gloss=letter
 3	اوس	اوس	ADV	_	_	7	advmod	_	Translit=os|LTranslit=os|Gloss=now
@@ -30,13 +30,14 @@ The following 10 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 6	بڼه	بڼه	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	7	obl	_	Translit=báṇa|LTranslit=báṇa|Gloss=form
 7	کارول	کارول	VERB	_	Aspect=Imp|Case=Nom|VerbForm=Inf	0	root	_	Translit=kârawë́l|LTranslit=kârawë́l|Gloss=used
 8	کېږي	کېدل	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	aux:pass	_	Translit=kéǧi|LTranslit=kedë́l|Gloss=are|SpaceAfter=No
-9	،	،	PUNCT	_	_	14	punct	_	Translit=,|LTranslit=,|Gloss=,
-10	چې	چې	SCONJ	_	_	14	mark	_	Translit=če|LTranslit=če|Gloss=that
+9	،	،	PUNCT	_	_	15	punct	_	Translit=,|LTranslit=,|Gloss=,
+10	چې	چې	SCONJ	_	_	15	mark	_	Translit=če|LTranslit=če|Gloss=that
 11	سمه	سم	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	12	amod	_	Translit=sáma|LTranslit=sam|Gloss=correct
-12	مانا	مانا	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	14	obj	_	Translit=mânấ|LTranslit=mânấ|Gloss=meaning
-13	نه	نۀ	PART	_	Polarity=Neg	14	advmod	_	Translit=në́|LTranslit=në|Gloss=not
-14	ورکوي	ورکول	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	Translit=warkawi|LTranslit=warkawë́l|Gloss=gives|SpaceAfter=No
-15	.	.	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
+12	مانا	مانا	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	15	obj	_	Translit=mânấ|LTranslit=mânấ|Gloss=meaning
+13	نه	نۀ	PART	_	Polarity=Neg	15	advmod	_	Translit=në́|LTranslit=në|Gloss=not
+14	ور	ور	PRON	_	Person=3|PronType=Prs|Variant=Dir	15	compound:preverb	_	Translit=war|LTranslit=war|Gloss=to-them
+15	کوي	کول	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	Translit=kawi|LTranslit=kawë́l|Gloss=does
+16	.	.	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
 
 ~~~
 

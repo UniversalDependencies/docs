@@ -62,7 +62,7 @@ The 10 most frequent ambiguous types:  所 (<tt><a href="lzh_kyoto-pos-PART.html
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.013130).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.013204).
 
 The 1st highest number of forms (1) was observed with the lemma “不”: 不.
 

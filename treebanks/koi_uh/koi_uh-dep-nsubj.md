@@ -24,12 +24,12 @@ The following 9 pairs of parts of speech are connected with `nsubj`: <tt><a href
 # visual-style 6	fgColor:white
 # visual-style 6 7 nsubj	color:blue
 1	Быд	быд	DET	_	Case=Nom|Number=Sing|PronType=Tot	2	det	_	GTtags=Sg,Nom
-2	лaдopcянь	лaдopcянь	NOUN	_	Case=Egr|Number=Sing	6	obl	_	GTtags=Sg,Egr
+2	ладорсянь	ладорсянь	NOUN	_	Case=Egr|Number=Sing	6	obl	_	GTtags=Sg,Egr
 3	Ворошилов	Ворошилов	PROPN	_	Animacy=Hum|Case=Nom|NameType=Sur|Number=Sing	6	obl	_	GTtags=Prop,Sem/Sur,Sem/Mal,Sg,Nom
 4	дынӧ	дынӧ	ADP	_	AdpType=Post|AdvType=Loc|Case=Ill|Number=Sing	3	case	_	GTtags=Po,Spat,Sg,Ill
 5	ӧні	ӧні	ADV	Adv	AdvType=Tim	6	advmod	_	_
-6	кoтӧpтіcӧ	кoтӧpтіcӧ	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=Ind,Prt1,Pl3
-7	oтиp	oтиp	NOUN	_	Animacy=Hum|Case=Nom|Number=Sing	6	nsubj	_	SpaceAfter=No
+6	котӧртісӧ	котӧртісӧ	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=Ind,Prt1,Pl3
+7	отир	отир	NOUN	_	Animacy=Hum|Case=Nom|Number=Sing	6	nsubj	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	6	punct	_	GTtags=CLB
 
 ~~~

@@ -46,7 +46,7 @@ The following 1 pairs of parts of speech are connected with `acl`: <tt><a href="
 21	ὄνομά	ὄνομα	NOUN	_	Case=Acc,Nom|Gender=Neut|Number=Sing	19	obj	_	Gloss=name|Ref=RUTH_4.14
 22	σου	σύ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	21	nmod:poss	_	Gloss=you,your|Ref=RUTH_4.14
 23	ἐν	ἐν	ADP	_	_	24	case	_	Gloss=in,on,by,with,to|Ref=RUTH_4.14
-24	Ἰσραήλ	Ἱσραήλ	PROPN	_	_	19	obl	_	Gloss=Israel|Ref=RUTH_4.14|SpaceAfter=No|Unknown=###no,parse###
+24	Ἰσραήλ	Ἱσραήλ	PROPN	_	Gender=Masc|Number=Sing	19	obl	_	Gloss=Israel|Ref=RUTH_4.14|SpaceAfter=No|Unknown=###no,parse###
 25	,	,	PUNCT	_	_	24	punct	_	Ref=RUTH_4.14
 
 ~~~

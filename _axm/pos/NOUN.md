@@ -24,4 +24,4 @@ Note that Middle Armenian infinitives share properties of both nouns and verbs a
 - _օդ/օթ_/_òd/òt’_ “air”
 - _տաքութիւն_/_tak’owt’iwn_ “temperature”
 - _քայլք_/_k’aylk’_ “gait, walking”
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:36 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:27 CET -->

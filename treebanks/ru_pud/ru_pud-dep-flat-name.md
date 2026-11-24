@@ -14,7 +14,7 @@ There are also 1 other language-specific subtypes of `flat`: <tt><a href="ru_pud
 222 instances of `flat:name` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.26576576576577.
 
-The following 7 pairs of parts of speech are connected with `flat:name`: <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt> (103; 46% instances), <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt> (96; 43% instances), <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> (14; 6% instances), <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> (4; 2% instances), <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_pud-pos-PART.html">PART</a></tt> (3; 1% instances), <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ru_pud-pos-PART.html">PART</a></tt>-<tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `flat:name`: <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt> (102; 46% instances), <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt> (96; 43% instances), <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> (14; 6% instances), <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> (4; 2% instances), <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_pud-pos-PART.html">PART</a></tt> (3; 1% instances), <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ru_pud-pos-PART.html">PART</a></tt>-<tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_pud-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 7 pairs of parts of speech are connected with `flat:name`: <tt><a 
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 6 flat:name	color:blue
-1	Ее	ее	DET	PRP$	_	3	det	_	_
+1	Ее	ее	DET	PRP$	Poss=Yes|PronType=Prs	3	det	_	_
 2	последняя	последний	ADJ	JJ	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
 3	книга	книга	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
 4	о	о	ADP	IN	_	5	case	_	_
@@ -43,7 +43,7 @@ The following 7 pairs of parts of speech are connected with `flat:name`: <tt><a 
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 11 flat:name	color:blue
-1	Я	я	PRON	PRP	Case=Nom|Number=Sing|Person=1	3	nsubj	_	_
+1	Я	я	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	также	также	ADV	RB	Degree=Pos	3	advmod	_	_
 3	задаюсь	задаваться	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
 4	вопросом	вопрос	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	3	obj	_	SpaceAfter=No
@@ -51,7 +51,7 @@ The following 7 pairs of parts of speech are connected with `flat:name`: <tt><a 
 6	повлиял	повлиять	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	acl	_	_
 7	ли	ли	PART	RP	_	6	advmod	_	_
 8	на	на	ADP	IN	_	9	case	_	_
-9	это	это	PRON	DT	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	6	obl	_	_
+9	это	это	PRON	DT	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	6	obl	_	_
 10	Кубок	кубок	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
 11	Дэвиса	Дэвис	PROPN	NNP	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	10	flat:name	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	3	punct	_	_

@@ -15,4 +15,4 @@ nsubj(đẹp, Cô)
 punct(đẹp, 。)
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:52 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:31 CET -->

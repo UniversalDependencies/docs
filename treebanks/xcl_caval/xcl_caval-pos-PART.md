@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>ոչ</em> (<tt><a href="xcl_caval-pos
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.100000 (the average of all parts of speech is 2.287810).
+The form / lemma ratio of `PART` is 1.100000 (the average of all parts of speech is 2.284617).
 
 The 1st highest number of forms (2) was observed with the lemma “ոչ”: <em>ոչ, չ</em>.
 
@@ -72,7 +72,7 @@ Examples: <em>ոչ, մի, չ</em>
 
 `PART` nodes are attached to their parents using 11 different relations: <tt><a href="xcl_caval-dep-advmod.html">advmod</a></tt> (1611; 79% instances), <tt><a href="xcl_caval-dep-discourse.html">discourse</a></tt> (328; 16% instances), <tt><a href="xcl_caval-dep-orphan.html">orphan</a></tt> (62; 3% instances), <tt><a href="xcl_caval-dep-ccomp.html">ccomp</a></tt> (11; 1% instances), <tt><a href="xcl_caval-dep-conj.html">conj</a></tt> (8; 0% instances), <tt><a href="xcl_caval-dep-advcl.html">advcl</a></tt> (4; 0% instances), <tt><a href="xcl_caval-dep-fixed.html">fixed</a></tt> (2; 0% instances), <tt><a href="xcl_caval-dep-mark.html">mark</a></tt> (2; 0% instances), <tt><a href="xcl_caval-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="xcl_caval-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="xcl_caval-dep-nsubj.html">nsubj</a></tt> (1; 0% instances)
 
-Parents of `PART` nodes belong to 12 different parts of speech: <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> (1304; 64% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (201; 10% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (199; 10% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (100; 5% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (75; 4% instances), <tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (46; 2% instances), <tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (42; 2% instances), <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (23; 1% instances), <tt><a href="xcl_caval-pos-DET.html">DET</a></tt> (17; 1% instances), <tt><a href="xcl_caval-pos-PART.html">PART</a></tt> (16; 1% instances), <tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (7; 0% instances), <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> (1; 0% instances)
+Parents of `PART` nodes belong to 12 different parts of speech: <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> (1304; 64% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (200; 10% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (199; 10% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (100; 5% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (76; 4% instances), <tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (46; 2% instances), <tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (42; 2% instances), <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (23; 1% instances), <tt><a href="xcl_caval-pos-DET.html">DET</a></tt> (17; 1% instances), <tt><a href="xcl_caval-pos-PART.html">PART</a></tt> (16; 1% instances), <tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (7; 0% instances), <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> (1; 0% instances)
 
 1934 (95%) `PART` nodes are leaves.
 

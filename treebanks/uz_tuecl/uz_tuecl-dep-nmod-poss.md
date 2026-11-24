@@ -40,7 +40,7 @@ The following 6 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 1	Uyning	uy	NOUN	_	Case=Gen|Number=Sing	2	nmod:poss	_	_
 2	oldida	old	NOUN	_	Case=Loc|Number=Sing	8	obl	_	_
 3	uchta	uch	NUM	_	NumType=Card	4	nummod	_	_
-4	mashina	mashina	NOUN	_	Case=Nom|Number=Sing	7	obl	_	_
+4	mashina	mashina	NOUN	_	Case=Nom|Number=Sing	7	nmod	_	_
 5	uchun	uchun	ADP	_	_	4	case	_	_
 6	toʻxtash	toʻxta	VERB	_	VerbForm=Vnoun	7	compound	_	_
 7	joyi	joy	NOUN	_	Case=Nom|Number=Sing|Poss=Yes	8	nsubj	_	_

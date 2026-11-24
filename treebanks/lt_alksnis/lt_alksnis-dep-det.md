@@ -7,27 +7,53 @@ udver: '2'
 ## Treebank Statistics: UD_Lithuanian-ALKSNIS: Relations: `det`
 
 This relation is universal.
+There are 1 language-specific subtypes of `det`: <tt><a href="lt_alksnis-dep-det-nummod.html">det:nummod</a></tt>.
 
-926 nodes (1%) are attached to their parents as `det`.
+1081 nodes (2%) are attached to their parents as `det`.
 
-911 instances of `det` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.44708423326134.
+1055 instances of `det` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.49583718778908.
 
-The following 8 pairs of parts of speech are connected with `det`: <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_alksnis-pos-DET.html">DET</a></tt> (845; 91% instances), <tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lt_alksnis-pos-DET.html">DET</a></tt> (28; 3% instances), <tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt>-<tt><a href="lt_alksnis-pos-DET.html">DET</a></tt> (21; 2% instances), <tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lt_alksnis-pos-DET.html">DET</a></tt> (13; 1% instances), <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_alksnis-pos-DET.html">DET</a></tt> (11; 1% instances), <tt><a href="lt_alksnis-pos-X.html">X</a></tt>-<tt><a href="lt_alksnis-pos-DET.html">DET</a></tt> (5; 1% instances), <tt><a href="lt_alksnis-pos-DET.html">DET</a></tt>-<tt><a href="lt_alksnis-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt>-<tt><a href="lt_alksnis-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `det`: <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_alksnis-pos-DET.html">DET</a></tt> (997; 92% instances), <tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt>-<tt><a href="lt_alksnis-pos-DET.html">DET</a></tt> (24; 2% instances), <tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lt_alksnis-pos-DET.html">DET</a></tt> (23; 2% instances), <tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lt_alksnis-pos-DET.html">DET</a></tt> (14; 1% instances), <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt> (7; 1% instances), <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_alksnis-pos-DET.html">DET</a></tt> (7; 1% instances), <tt><a href="lt_alksnis-pos-DET.html">DET</a></tt>-<tt><a href="lt_alksnis-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt>-<tt><a href="lt_alksnis-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt>-<tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt> (2; 0% instances).
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 8 det	color:blue
+1	„	„	PUNCT	skyr.	_	5	punct	_	SpaceAfter=No
+2	Ne	ne	PART	dll.	_	5	discourse	_	SpaceAfter=No
+3	,	,	PUNCT	skyr.	_	2	punct	_	_
+4	mes	aš	PRON	įv.dgs.V.	Case=Nom|Number=Plur|PronType=Prs	5	nsubj	_	_
+5	neketiname	neketinti	VERB	vksm.asm.neig.tiesiog.es.dgs.1.	Mood=Ind|Number=Plur|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	skolintis	skolintis	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	5	xcomp	_	_
+7	iš	iš	ADP	prl.K.	Case=Gen	9	case	_	_
+8	tokių	toks	DET	įv.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur|PronType=Dem	9	det	_	_
+9	institucijų	institucija	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	6	obl:arg	_	_
+10	kaip	kaip	SCONJ	jng.	_	11	mark	_	_
+11	TVF	TVF	PROPN	akr.	Abbr=Yes	9	appos	_	SpaceAfter=No
+12	.	.	PUNCT	skyr.	_	5	punct	_	_
+
+~~~
 
 
 ~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 det	color:blue
-1	Visgi	visgi	CCONJ	jng.	_	5	cc	5:cc	_
-2	šis	šis	DET	įv.vyr.vns.V.	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Dem	3	det	3:det	_
-3	reiškinys	reiškinys	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	5:nsubj	_
-4	sparčiai	sparčiai	ADV	prv.nelygin.	Degree=Pos	5	advmod	5:advmod	_
-5	populiarėja	populiarėti	VERB	vksm.asm.tiesiog.es.vns.3.	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	SpaceAfter=No
-6	.	.	PUNCT	skyr.	_	5	punct	5:punct	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 det	color:blue
+1	Jie	jis	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|PronType=Prs	3	nsubj	_	_
+2	visi	visas	DET	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|PronType=Tot	1	det	_	_
+3	turi	turėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	kasdien	kasdien	ADV	prv.nelygin.	Degree=Pos	5	advmod	_	_
+5	atlikti	atlikti	VERB	vksm.bndr.	VerbForm=Inf	3	xcomp	_	_
+6	kelis	keli	DET	įv.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur|PronType=Ind	8	det:nummod	_	_
+7	tuos pačius	tas pats	DET	įv.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur|PronType=Dem	8	det	_	_
+8	judesius	judesys	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	5	obj	_	SpaceAfter=No
+9	.	.	PUNCT	skyr.	_	3	punct	_	_
 
 ~~~
 
@@ -38,32 +64,15 @@ The following 8 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 7 det	color:blue
-1	Žinoma	žinoti	VERB	vksm.dlv.neveik.es.bev.	Definite=Ind|Gender=Neut|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	8	parataxis	8:parataxis	SpaceAfter=No
-2	,	,	PUNCT	skyr.	_	1	punct	1:punct	_
-3	Lietuvoje	Lietuva	PROPN	dkt.tikr.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	8	obl	8:obl:loc	_
-4	šie	šis	DET	įv.vyr.dgs.V.	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur|PronType=Dem	5	det	5:det	_
-5	skaičiai	skaičius	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	8	nsubj	8:nsubj	_
-6	nebūtų	nebūti	VERB	vksm.asm.neig.tar.dgs.3.	Mood=Cnd|Number=Plur|Person=3|Polarity=Neg|VerbForm=Fin	8	dep	8:dep	_
-7	tokie	toks	DET	įv.vyr.dgs.V.	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur|PronType=Dem	8	det	8:det	_
-8	dramatiški	dramatiškas	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	0	root	0:root	SpaceAfter=No
-9	.	.	PUNCT	skyr.	_	8	punct	8:punct	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 det	color:blue
-1	Tai	tas	DET	įv.bev.	Definite=Ind|Gender=Neut|PronType=Dem	2	nsubj	2:nsubj	_
-2	priklauso	priklausyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-3	tik	tik	PART	dll.	_	5	advmod:emph	5:advmod:emph	_
-4	nuo	nuo	ADP	prl.K.	AdpType=Prep|Case=Gen	5	case	5:case	_
-5	jūsų	tu	PRON	įv.dgs.K.	Case=Gen|Definite=Ind|Number=Plur|Person=2|PronType=Prs	2	obl:arg	2:obl:arg:nuo:gen	_
-6	paties	pats	DET	įv.vyr.vns.K.	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing|PronType=Emp	5	det	5:det	SpaceAfter=No
-7	.	.	PUNCT	skyr.	_	2	punct	2:punct	_
+1	Žinoma	žinomas	ADJ	bdv.nelygin.bev.	Degree=Pos|Gender=Neut	8	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	skyr.	_	1	punct	_	_
+3	Lietuvoje	Lietuva	PROPN	dkt.tikr.vtvrd.mot.vns.Vt.	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	8	obl	_	_
+4	šie	šis	DET	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	5	det	_	_
+5	skaičiai	skaičius	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	_
+6	nebūtų	būti	AUX	vksm.asm.neig.tar.3.	Mood=Cnd|Person=3|Polarity=Neg|VerbForm=Fin	8	cop	_	_
+7	tokie	toks	DET	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	8	det	_	_
+8	dramatiški	dramatiškas	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	skyr.	_	8	punct	_	_
 
 ~~~
 

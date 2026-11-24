@@ -6,12 +6,12 @@ udver: '2'
 
 ## Treebank Statistics: UD_Komi_Permyak-UH: POS Tags: `VERB`
 
-There are 142 `VERB` lemmas (28%), 183 `VERB` types (29%) and 206 `VERB` tokens (18%).
+There are 142 `VERB` lemmas (28%), 181 `VERB` types (29%) and 206 `VERB` tokens (18%).
 Out of 15 observed tags, the rank of `VERB` is: 2 in number of lemmas, 2 in number of types and 3 in number of tokens.
 
 The 10 most frequent `VERB` lemmas: <em>локны, мунны, зэрны, краситны, тшӧктыны, юавны, адззыны, быдмыны, вежӧртны, видзӧтны</em>
 
-The 10 most frequent `VERB` types:  <em>зэрӧ, быдмис, локтін, босьтіс, вашöтö, велалас, высьтіс, вӧтны, гижис, керны</em>
+The 10 most frequent `VERB` types:  <em>зэрӧ, быдмис, локтін, юаліс, босьтіс, вашӧтӧ, велалас, высьтіс, вӧтны, гижис</em>
 
 The 10 most frequent ambiguous lemmas: <em>овны</em> (<tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> 2, <tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> 1), <em>вермыны</em> (<tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> 3, <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> 1), <em>ковны</em> (<tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> 1, <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> 1), <em>оз</em> (<tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> 27, <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> 1)
 
@@ -30,13 +30,13 @@ The 10 most frequent ambiguous types:  <em>вермы</em> (<tt><a href="koi_uh-
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 1.288732 (the average of all parts of speech is 1.260870).
+The form / lemma ratio of `VERB` is 1.274648 (the average of all parts of speech is 1.239604).
 
-The 1st highest number of forms (6) was observed with the lemma “мунны”: <em>Мунан, мун, мунö, муна, муніс, мунісӧ</em>.
+The 1st highest number of forms (6) was observed with the lemma “мунны”: <em>Мунан, мун, муна, муніс, мунісӧ, мунӧ</em>.
 
 The 2nd highest number of forms (4) was observed with the lemma “локны”: <em>лок, локны, локтас, локтін</em>.
 
-The 3rd highest number of forms (3) was observed with the lemma “адззыны”: <em>адззö, адзза, адззис</em>.
+The 3rd highest number of forms (3) was observed with the lemma “адззыны”: <em>адзза, адззис, адззӧ</em>.
 
 `VERB` occurs with 11 features: <tt><a href="koi_uh-feat-VerbForm.html">VerbForm</a></tt> (185; 90% instances), <tt><a href="koi_uh-feat-Number.html">Number</a></tt> (160; 78% instances), <tt><a href="koi_uh-feat-Tense.html">Tense</a></tt> (154; 75% instances), <tt><a href="koi_uh-feat-Mood.html">Mood</a></tt> (153; 74% instances), <tt><a href="koi_uh-feat-Person.html">Person</a></tt> (153; 74% instances), <tt><a href="koi_uh-feat-Connegative.html">Connegative</a></tt> (19; 9% instances), <tt><a href="koi_uh-feat-Derivation.html">Derivation</a></tt> (9; 4% instances), <tt><a href="koi_uh-feat-Evident.html">Evident</a></tt> (9; 4% instances), <tt><a href="koi_uh-feat-Case.html">Case</a></tt> (8; 4% instances), <tt><a href="koi_uh-feat-Person-psor.html">Person[psor]</a></tt> (1; 0% instances), <tt><a href="koi_uh-feat-Polarity.html">Polarity</a></tt> (1; 0% instances)
 
@@ -44,7 +44,7 @@ The 3rd highest number of forms (3) was observed with the lemma “адззын�
 
 `VERB` occurs with 29 feature combinations.
 The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin` (52 tokens).
-Examples: <em>быдмис, босьтіс, высьтіс, гижис, котӧртіс, пондыліс, тшӧктіс, юаліс, Окаліс, Чулаліс</em>
+Examples: <em>быдмис, юаліс, босьтіс, высьтіс, гижис, котӧртіс, пондыліс, тшӧктіс, шынняліс, Окаліс</em>
 
 
 ## Relations

@@ -35,4 +35,4 @@ In some cases, one of the components of a reduplicative compound may itself be m
 
 * _լի ու լի_/_li ow li_ “to the fullest, more than enough”,
 * _դէմ առ դէմ_/_dēm aṙ dēm_ “face to face”
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:51 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:40 CET -->

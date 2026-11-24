@@ -11,7 +11,7 @@ This relation is universal.
 34 nodes (8%) are attached to their parents as `root`.
 
 34 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.82352941176471.
+Average distance between parent and child is 4.88235294117647.
 
 The following 4 pairs of parts of speech are connected with `root`: -<tt><a href="sga_dipwbg-pos-VERB.html">VERB</a></tt> (26; 76% instances), -<tt><a href="sga_dipwbg-pos-ADJ.html">ADJ</a></tt> (4; 12% instances), -<tt><a href="sga_dipwbg-pos-ADV.html">ADV</a></tt> (2; 6% instances), -<tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> (2; 6% instances).
 

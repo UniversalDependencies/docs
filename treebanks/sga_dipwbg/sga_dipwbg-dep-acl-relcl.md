@@ -11,24 +11,26 @@ This relation is a language-specific subtype of <tt><a href="sga_dipwbg-dep-acl.
 10 nodes (2%) are attached to their parents as `acl:relcl`.
 
 10 instances of `acl:relcl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.4.
+Average distance between parent and child is 2.5.
 
 The following 4 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt>-<tt><a href="sga_dipwbg-pos-VERB.html">VERB</a></tt> (5; 50% instances), <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt>-<tt><a href="sga_dipwbg-pos-VERB.html">VERB</a></tt> (3; 30% instances), <tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt>-<tt><a href="sga_dipwbg-pos-ADJ.html">ADJ</a></tt> (1; 10% instances), <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt>-<tt><a href="sga_dipwbg-pos-ADJ.html">ADJ</a></tt> (1; 10% instances).
 
 
 ~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 acl:relcl	color:blue
-1	.i.	.i.	ADV	_	Abbr=Yes	2	advmod	_	_
-2	rocomalnisid	comalnaithir	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|Voice=Act	0	root	_	SpaceAfter=No
-3	si	si	PRON	_	Number=Plur|Person=2|PronType=Emp	2	amod	_	_
-4	a	a	PART	_	PartType=Rel|PronType=Dem	2	obj	_	SpaceAfter=No
-5	nropridchissem	pridchaid	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|Voice=Act	4	acl:relcl	_	SpaceAfter=No
-6	ni	ni	PRON	_	Number=Plur|Person=1|PronType=Emp	5	amod	_	_
-7	dúib	do	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=2|PronType=Prs	5	obl:prep	_	_
+# visual-style 5 7 acl:relcl	color:blue
+1	.i.	.i.	ADV	_	Abbr=Yes	3	advmod	_	_
+2	ro	ro	PART	_	PartType=Aug	3	compound:prt	_	SpaceAfter=No
+3	comalnisid	comalnaithir	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|Voice=Act	0	root	_	SpaceAfter=No
+4	si	si	PRON	_	Number=Plur|Person=2|PronType=Emp	3	amod	_	_
+5	a	a	PART	_	PartType=Rel|PronType=Dem	3	obj	_	SpaceAfter=No
+6	nro	ro	PART	_	PartType=Aug	7	compound:prt	_	SpaceAfter=No
+7	pridchissem	pridchaid	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|Voice=Act	5	acl:relcl	_	SpaceAfter=No
+8	ni	ni	PRON	_	Number=Plur|Person=1|PronType=Emp	7	amod	_	_
+9	dúib	do	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=2|PronType=Prs	7	obl:prep	_	_
 
 ~~~
 

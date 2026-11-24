@@ -30,7 +30,7 @@ The 10 most frequent ambiguous types:  <em>αὐτῶν</em> (<tt><a href="grc_p
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 6.954545 (the average of all parts of speech is 2.345984).
+The form / lemma ratio of `PRON` is 6.954545 (the average of all parts of speech is 2.346578).
 
 The 1st highest number of forms (25) was observed with the lemma “αὐτός”: <em>αὐτά, αὐτάς, αὐτή, αὐτήν, αὐταὶ, αὐταῖς, αὐτούς, αὐτοὶ, αὐτοὺς, αὐτοῖς, αὐτοῦ, αὐτό, αὐτόν, αὐτός, αὐτὰ, αὐτὰς, αὐτὴ, αὐτὴν, αὐτὸ, αὐτὸν, αὐτὸς, αὐτῆς, αὐτῇ, αὐτῶν, αὐτῷ</em>.
 
@@ -42,8 +42,8 @@ The 3rd highest number of forms (17) was observed with the lemma “ὅς”: <e
 
 `PRON` occurs with 24 feature-value pairs: `Case=Acc`, `Case=Acc,Nom`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Gender=Fem`, `Gender=Fem,Masc`, `Gender=Fem,Masc,Neut`, `Gender=Masc`, `Gender=Masc,Neut`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Poss=Yes`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Prs`, `PronType=Rcp`, `PronType=Rel`, `Reflex=Yes`
 
-`PRON` occurs with 125 feature combinations.
-The most frequent feature combination is `Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Prs` (650 tokens).
+`PRON` occurs with 130 feature combinations.
+The most frequent feature combination is `Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Prs` (649 tokens).
 Examples: <em>αὐτοῦ</em>
 
 

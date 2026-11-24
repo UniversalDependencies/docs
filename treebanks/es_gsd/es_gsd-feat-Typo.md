@@ -9,46 +9,46 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-1022 tokens (0%) have a non-empty value of `Typo`.
-556 types (1%) occur at least once with a non-empty value of `Typo`.
-450 lemmas (1%) occur at least once with a non-empty value of `Typo`.
-The feature is used with 12 part-of-speech tags: <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (333; 0% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (288; 0% instances), <tt><a href="es_gsd-pos-ADV.html">ADV</a></tt> (148; 0% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (94; 0% instances), <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (66; 0% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (33; 0% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (29; 0% instances), <tt><a href="es_gsd-pos-DET.html">DET</a></tt> (24; 0% instances), <tt><a href="es_gsd-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="es_gsd-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="es_gsd-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+1039 tokens (0%) have a non-empty value of `Typo`.
+569 types (1%) occur at least once with a non-empty value of `Typo`.
+456 lemmas (1%) occur at least once with a non-empty value of `Typo`.
+The feature is used with 13 part-of-speech tags: <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (335; 0% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (294; 0% instances), <tt><a href="es_gsd-pos-ADV.html">ADV</a></tt> (149; 0% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (94; 0% instances), <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (67; 0% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (33; 0% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (29; 0% instances), <tt><a href="es_gsd-pos-DET.html">DET</a></tt> (25; 0% instances), <tt><a href="es_gsd-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="es_gsd-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="es_gsd-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="es_gsd-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-333 <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Typo`.
+335 <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (254; 76%), <tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (207; 62%).
+The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (256; 76%), <tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (208; 62%).
 
 `NOUN` tokens may have the following values of `Typo`:
 
-* `Yes` (333; 100% of non-empty `Typo`): <em>video, periodo, guion, dia, dias, periodos, videos, clinica, numero, menu</em>
+* `Yes` (335; 100% of non-empty `Typo`): <em>video, periodo, guion, dia, dias, periodos, videos, clinica, numero, menu</em>
 
-`Typo` seems to be **lexical feature** of `NOUN`. 100% lemmas (181) occur only with one value of `Typo`.
+`Typo` seems to be **lexical feature** of `NOUN`. 100% lemmas (183) occur only with one value of `Typo`.
 
 ### `VERB`
 
-288 <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Typo`.
+294 <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (278; 97%), <tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (278; 97%), <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (242; 84%), <tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (204; 71%), <tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (195; 68%).
+The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (284; 97%), <tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (284; 97%), <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (246; 84%), <tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (209; 71%), <tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (200; 68%).
 
 `VERB` tokens may have the following values of `Typo`:
 
-* `Yes` (288; 100% of non-empty `Typo`): <em>esta, tenia, de, hacia, tenian, cambio, dejo, habia, llego, llevo</em>
+* `Yes` (294; 100% of non-empty `Typo`): <em>esta, tenia, de, hacia, llevo, tenian, dejo, habia, llego, paso</em>
 
 `Typo` seems to be **lexical feature** of `VERB`. 100% lemmas (157) occur only with one value of `Typo`.
 
 ### `ADV`
 
-148 <tt><a href="es_gsd-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Typo`.
+149 <tt><a href="es_gsd-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `ADV` and `Typo` co-occurred: <tt><a href="es_gsd-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (148; 100%), <tt><a href="es_gsd-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (147; 99%), <tt><a href="es_gsd-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (142; 96%).
+The most frequent other feature values with which `ADV` and `Typo` co-occurred: <tt><a href="es_gsd-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (149; 100%), <tt><a href="es_gsd-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (148; 99%), <tt><a href="es_gsd-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (141; 95%).
 
 `ADV` tokens may have the following values of `Typo`:
 
-* `Yes` (148; 100% of non-empty `Typo`): <em>mas, tambien, como, ademas, asi, despues, alli, aqui, alla, rapidamente</em>
+* `Yes` (149; 100% of non-empty `Typo`): <em>mas, tambien, ademas, asi, despues, alli, como, aqui, alla, rapidamente</em>
 
-`Typo` seems to be **lexical feature** of `ADV`. 100% lemmas (23) occur only with one value of `Typo`.
+`Typo` seems to be **lexical feature** of `ADV`. 100% lemmas (24) occur only with one value of `Typo`.
 
 ### `ADJ`
 
@@ -64,13 +64,13 @@ The most frequent other feature values with which `ADJ` and `Typo` co-occurred: 
 
 ### `AUX`
 
-66 <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> tokens (1% of all `AUX` tokens) have a non-empty value of `Typo`.
+67 <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> tokens (1% of all `AUX` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `AUX` and `Typo` co-occurred: <tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (64; 97%), <tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (63; 95%), <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (48; 73%).
+The most frequent other feature values with which `AUX` and `Typo` co-occurred: <tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (65; 97%), <tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (63; 94%), <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (48; 72%).
 
 `AUX` tokens may have the following values of `Typo`:
 
-* `Yes` (66; 100% of non-empty `Typo`): <em>esta, estan, a, sera, e, estas, Podeis, deberias, erán, estabamos</em>
+* `Yes` (67; 100% of non-empty `Typo`): <em>esta, estan, a, sera, e, estas, Podeis, Podriaís, deberias, erán</em>
 
 ### `PRON`
 
@@ -96,21 +96,29 @@ The most frequent other feature values with which `PROPN` and `Typo` co-occurred
 
 ### `DET`
 
-24 <tt><a href="es_gsd-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Typo`.
+25 <tt><a href="es_gsd-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `DET` and `Typo` co-occurred: <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (19; 79%), <tt><a href="es_gsd-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (15; 63%), <tt><a href="es_gsd-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (14; 58%).
+The most frequent other feature values with which `DET` and `Typo` co-occurred: <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (19; 76%), <tt><a href="es_gsd-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (15; 60%), <tt><a href="es_gsd-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (15; 60%).
 
 `DET` tokens may have the following values of `Typo`:
 
-* `Yes` (24; 100% of non-empty `Typo`): <em>al, a, en, ningun, está, que, algun, del, le, me</em>
+* `Yes` (25; 100% of non-empty `Typo`): <em>al, a, en, ningun, está, que, algun, del, le, me</em>
+
+### `SCONJ`
+
+5 <tt><a href="es_gsd-pos-SCONJ.html">SCONJ</a></tt> tokens (0% of all `SCONJ` tokens) have a non-empty value of `Typo`.
+
+`SCONJ` tokens may have the following values of `Typo`:
+
+* `Yes` (5; 100% of non-empty `Typo`): <em>cómo, sí</em>
 
 ### `CCONJ`
 
-2 <tt><a href="es_gsd-pos-CCONJ.html">CCONJ</a></tt> tokens (0% of all `CCONJ` tokens) have a non-empty value of `Typo`.
+3 <tt><a href="es_gsd-pos-CCONJ.html">CCONJ</a></tt> tokens (0% of all `CCONJ` tokens) have a non-empty value of `Typo`.
 
 `CCONJ` tokens may have the following values of `Typo`:
 
-* `Yes` (2; 100% of non-empty `Typo`): <em>0, sinó</em>
+* `Yes` (3; 100% of non-empty `Typo`): <em>0, sinó, yy</em>
 
 ### `NUM`
 
@@ -132,11 +140,11 @@ The most frequent other feature values with which `PUNCT` and `Typo` co-occurred
 
 * `Yes` (2; 100% of non-empty `Typo`): <em>.ç</em>
 
-### `SCONJ`
+### `ADP`
 
-1 <tt><a href="es_gsd-pos-SCONJ.html">SCONJ</a></tt> tokens (0% of all `SCONJ` tokens) have a non-empty value of `Typo`.
+1 <tt><a href="es_gsd-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Typo`.
 
-`SCONJ` tokens may have the following values of `Typo`:
+`ADP` tokens may have the following values of `Typo`:
 
-* `Yes` (1; 100% of non-empty `Typo`): <em>sí</em>
+* `Yes` (1; 100% of non-empty `Typo`): <em>del</em>
 

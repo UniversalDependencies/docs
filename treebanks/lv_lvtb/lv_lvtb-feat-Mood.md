@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="lv_lvtb-pos-VERB.ht
 
 27333 <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> tokens (55% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="lv_lvtb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (27333; 100%), <tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (27333; 100%), <tt><a href="lv_lvtb-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (27333; 100%), <tt><a href="lv_lvtb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (27333; 100%), <tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (27333; 100%), <tt><a href="lv_lvtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (27333; 100%), <tt><a href="lv_lvtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (27333; 100%), <tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (24699; 90%), <tt><a href="lv_lvtb-feat-Evident.html">Evident</a></tt><tt>=Fh</tt> (23934; 88%), <tt><a href="lv_lvtb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (22751; 83%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="lv_lvtb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (27333; 100%), <tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (27333; 100%), <tt><a href="lv_lvtb-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (27333; 100%), <tt><a href="lv_lvtb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (27333; 100%), <tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (27333; 100%), <tt><a href="lv_lvtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (27333; 100%), <tt><a href="lv_lvtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (27333; 100%), <tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (24698; 90%), <tt><a href="lv_lvtb-feat-Evident.html">Evident</a></tt><tt>=Fh</tt> (23934; 88%), <tt><a href="lv_lvtb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (22752; 83%).
 
 `VERB` tokens may have the following values of `Mood`:
 
@@ -27,7 +27,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 * `Ind` (23934; 88% of non-empty `Mood`): <em>ir, var, nav, bija, nevar, būs, teica, notiek, sāka, saka</em>
 * `Nec` (1085; 4% of non-empty `Mood`): <em>jādara, jābūt, jāveic, jāņem, jārēķinās, jāatzīst, jāmaksā, jāstrādā, jāievēro, jādomā</em>
 * `Qot` (210; 1% of non-empty `Mood`): <em>esot, neesot, nevarot, varot, gribot, mīlot, varēšot, iekarot, nezinot, būšot</em>
-* `EMPTY` (22393): <em>izmantot, strādāt, darīt, būt, atrast, izmantojot, runāt, teikt, dzīvot, iet</em>
+* `EMPTY` (22373): <em>izmantot, strādāt, darīt, būt, atrast, izmantojot, runāt, teikt, dzīvot, iet</em>
 
 <table>
   <tr><th>Paradigm <i>zināt</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th><th><tt>Qot</tt></th><th><tt>Nec</tt></th></tr>

@@ -30,5 +30,5 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 ## Relations with Agreement in `Definite`
 
 The 10 most frequent relations where parent and child node agree in `Definite`:
-<tt>DET --[<tt><a href="pcm_nsc-dep-reparandum.html">reparandum</a></tt>]--> DET</tt> (28; 65%).
+<tt>DET --[<tt><a href="pcm_nsc-dep-reparandum.html">reparandum</a></tt>]--> DET</tt> (27; 64%).
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-626 nodes (2%) are attached to their parents as `iobj`.
+652 nodes (2%) are attached to their parents as `iobj`.
 
-349 instances of `iobj` (56%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.99201277955272.
+368 instances of `iobj` (56%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.99233128834356.
 
-The following 30 pairs of parts of speech are connected with `iobj`: <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> (281; 45% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (130; 21% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt> (101; 16% instances), <tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> (20; 3% instances), <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> (18; 3% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-DET.html">DET</a></tt> (15; 2% instances), <tt><a href="orv_birchbark-pos-X.html">X</a></tt>-<tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> (13; 2% instances), <tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_birchbark-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="orv_birchbark-pos-X.html">X</a></tt>-<tt><a href="orv_birchbark-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="orv_birchbark-pos-X.html">X</a></tt>-<tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="orv_birchbark-pos-X.html">X</a></tt>-<tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="orv_birchbark-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt>-<tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_birchbark-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="orv_birchbark-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-PART.html">PART</a></tt>-<tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 30 pairs of parts of speech are connected with `iobj`: <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> (302; 46% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (136; 21% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt> (105; 16% instances), <tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> (23; 4% instances), <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> (20; 3% instances), <tt><a href="orv_birchbark-pos-X.html">X</a></tt>-<tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> (12; 2% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-DET.html">DET</a></tt> (11; 2% instances), <tt><a href="orv_birchbark-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="orv_birchbark-pos-X.html">X</a></tt>-<tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="orv_birchbark-pos-X.html">X</a></tt>-<tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_birchbark-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-PART.html">PART</a></tt>-<tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-PART.html">PART</a></tt>-<tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-X.html">X</a></tt>-<tt><a href="orv_birchbark-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,11 +22,11 @@ The following 30 pairs of parts of speech are connected with `iobj`: <tt><a href
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 2 iobj	color:blue
-1	торгуи	торговати	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	wf="торгуи"|addr="068:2"|_
-2	м[нь	ꙗзъ	PRON	_	Case=Dat|Number=Sing|Person=1	5	iobj	_	wf="мнь"|comment="clitic_ton"|addr="068:2"|_
-3	двь	два	NUM	_	Case=Acc|Gender=Fem|NumType=Card	4	nummod:gov	_	wf="двь"|addr="068:2"|_
-4	гривь]<lbr/>нь	гривна	NOUN	_	Case=Acc|Gender=Fem|Number=Count	5	obj	_	wf="гривьнь"|addr="068:2"|_
-5	правѧ	правити	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	1	advcl	_	wf="правѧ"|comment="tense_nonpast"|meaning="выполнять_(обязательство)_+_доставлять_(товар)_+_платить"|addr="068:3"|line_id=3|_
+1	торгуи	торговати	VERB	V,imper,sg,2p	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	wf="торгуи"|addr="068:2"
+2	м[нь	ꙗзъ	PRON	SPRO,sg,1p,dat,ton	Case=Dat|Number=Sing|Person=1|PronType=Prs	5	iobj	_	wf="мнь"|comment="clitic_ton"|addr="068:2"
+3	двь	два	NUM	NUM,card,f,acc	Case=Acc|Gender=Fem|NumForm=Word|NumType=Card	4	nummod:gov	_	wf="двь"|addr="068:2"
+4	гривь]<lbr/>нь	гривна	NOUN	S,f,acc,adnum	Case=Acc|Gender=Fem|Number=Count	5	obj	_	wf="гривьнь"|addr="068:2"
+5	правѧ	правити	VERB	V,partcp,praes,act,sg,m,nom	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	1	advcl	_	wf="правя"|meaning="выполнять (обязательство) + доставлять (товар) + платить"|line_id="3"|addr="068:3"
 
 ~~~
 
@@ -37,29 +37,27 @@ The following 30 pairs of parts of speech are connected with `iobj`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 3 iobj	color:blue
-1	ходилъ	ходити	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	wf="ходилъ"|tense=perf|addr="022:_Внешняя_сторона:2а"|line_id=2а|_
-2	·	·	PUNCT	_	_	3	punct	_	wf="·"|_
-3	ѻ̈сподину	осподинъ	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	1	iobj	_	wf="ѻ̈сподину"|addr="022:_Внешняя_сторона:2а"|_
-4	·	·	PUNCT	_	_	5	punct	_	wf="·"|_
-5	снъ	сынъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	wf="снъ"|addr="022:_Внешняя_сторона:2а"|_
-6	мо(и)	мои	DET	_	Case=Nom|Gender=Masc|Number=Sing	5	det	_	wf="мои"|addr="022:_Внешняя_сторона:2а"|_
-7	(…)	(…)	PUNCT	_	_	1	punct	_	wf="(…)"|_
+1	ходилъ	ходити	VERB	V,l-partcp,perf,sg,3p,m,without_copula	Gender=Masc|Number=Sing|Person=3|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	wf="ходилъ"|tense=perf|comment="without_copula"|line_id="2а"|addr="022:_Внешняя_сторона:2а"
+2	·	·	PUNCT	_	_	3	punct	_	wf="·"|addr="022:_Внешняя_сторона:2а"
+3	ѻ̈сподину	осподинъ	NOUN	S,m,sg,dat	Case=Dat|Gender=Masc|Number=Sing	1	iobj	_	wf="осподину"|comment="alt_ana:lemma=осподинъ:gr=incorrect,S,m,sg,voc"|addr="022:_Внешняя_сторона:2а"
+4	·	·	PUNCT	_	_	5	punct	_	wf="·"|addr="022:_Внешняя_сторона:2а"
+5	снъ	сынъ	NOUN	S,m,sg,nom	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	wf="сынъ"|addr="022:_Внешняя_сторона:2а"
+6	моӏ	мои	DET	APRO,sg,m,nom	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	5	det	_	wf="мои"|addr="022: Внешняя сторона:2а"
+7	(…)	(…)	PUNCT	_	_	1	punct	_	wf="…"|addr="022: Внешняя сторона:2а"
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 iobj	color:blue
-1	олекса<lbr/>ндре	Олександръ	PROPN	_	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	2	nsubj	_	wf="олександре"|addr="050:_Средняя_часть:4а"|_
-2	дале	дати	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	wf="дале"|tense=perf|addr="050:_Средняя_часть:5а"|line_id=5а|_
-3	коромолник·у·	Коромольникъ	PROPN	_	Case=Dat|Gender=Masc|NameType=Giv|Number=Sing	2	iobj	_	wf="коромолник·у·"|addr="050:_Средняя_часть:5а"|_
-4	·г·	·г҃·	NUM	_	NumForm=Digit|NumType=Card	5	nummod:gov	_	wf="·г·"|addr="050:_Средняя_часть:5а"|_
-5	·у·лки	улокъ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	wf="·у·лки"|meaning="мера_количества_зерна"|addr="050:_Средняя_часть:5а"|_
-6	верши	вершь	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	wf="верши"|meaning="хлеб_в_скирдах,_зерно"|addr="050:_Средняя_часть:5а"|_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 1 iobj	color:blue
+1	ондришк·у	Ондрѣшко	PROPN	S,persn,m,sg,dat	Case=Dat|Gender=Masc|NameType=Giv|Number=Sing	4	iobj	_	wf="ондришку"|addr="050:_Конечная_часть:2б"
+2	·д·	·д҃·	NUM	NUM,card,digit	NumForm=Cyril|NumType=Card	3	nummod:gov	_	wf="д"|addr="050:_Конечная_часть:2б"
+3	улки	улокъ	NOUN	S,m,acc,adnum	Case=Acc|Gender=Masc|Number=Count	4	obj	_	wf="улки"|meaning="мера количества зерна"|addr="050:_Конечная_часть:2б"
+4	искормили	искормити	VERB	V,l-partcp,perf,pl,3p,m,without_copula	Gender=Masc|Number=Plur|Person=3|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	wf="искормили"|tense=perf|comment="without_copula"|addr="050:_Конечная_часть:2б"
 
 ~~~
 

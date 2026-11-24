@@ -131,7 +131,7 @@ The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href
 64	,	,	PUNCT	,	_	54	punct	_	_
 65	до	до	ADP	IN	_	67	case	_	_
 66	сих	сей	DET	DT	Case=Gen|Number=Plur	67	det	_	_
-67	пор	пора	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	68	obl	_	_
+67	пор	пора	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	68	obl:tmod	_	_
 68	трудно	трудно	ADV	RB	Degree=Pos	34	conj	_	_
 69	интерпретировать	интерпретировать	VERB	VB	Aspect=Imp|VerbForm=Inf|Voice=Act	68	csubj	_	SpaceAfter=No
 70	,	,	PUNCT	,	_	76	punct	_	_

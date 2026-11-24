@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
-263889 tokens (8%) have a non-empty value of `Degree`.
-20549 types (11%) occur at least once with a non-empty value of `Degree`.
-8649 lemmas (6%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 3 part-of-speech tags: <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (246383; 7% instances), <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> (16160; 0% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt> (1346; 0% instances).
+263900 tokens (8%) have a non-empty value of `Degree`.
+20556 types (11%) occur at least once with a non-empty value of `Degree`.
+8655 lemmas (6%) occur at least once with a non-empty value of `Degree`.
+The feature is used with 3 part-of-speech tags: <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (246394; 7% instances), <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> (16160; 0% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt> (1346; 0% instances).
 
 ### `ADJ`
 
-246383 <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> tokens (94% of all `ADJ` tokens) have a non-empty value of `Degree`.
+246394 <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> tokens (94% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="de_hdt-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (171029; 69%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="de_hdt-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (171031; 69%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
 * `Cmp` (13002; 5% of non-empty `Degree`): <em>weitere, weiteren, später, besser, schneller, stärker, früher, größere, länger, höhere</em>
-* `Pos` (225943; 92% of non-empty `Degree`): <em>neue, neuen, ersten, deutschen, deutsche, eigenen, erste, vergangenen, möglich, gut</em>
+* `Pos` (225954; 92% of non-empty `Degree`): <em>neue, neuen, ersten, deutschen, deutsche, eigenen, erste, vergangenen, möglich, gut</em>
 * `Sup` (7438; 3% of non-empty `Degree`): <em>nächsten, letzten, größten, größte, nächste, letzte, wichtigsten, neuesten, jüngsten, letzter</em>
 * `EMPTY` (16228): <em>beiden, 1., solchen, solche, 31., 15., 30., 2., 4., 21.</em>
 
@@ -70,7 +70,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
   <tr><td><tt><tt><a href="de_hdt-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td><em>neu</em></td><td></td><td></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADJ`. 95% lemmas (8223) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADJ`. 95% lemmas (8229) occur only with one value of `Degree`.
 
 ### `ADV`
 
@@ -122,7 +122,7 @@ The most frequent other feature values with which `DET` and `Degree` co-occurred
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
-<tt>ADJ --[<tt><a href="de_hdt-dep-advmod.html">advmod</a></tt>]--> ADJ</tt> (8332; 85%),
+<tt>ADJ --[<tt><a href="de_hdt-dep-advmod.html">advmod</a></tt>]--> ADJ</tt> (8335; 85%),
 <tt>ADJ --[<tt><a href="de_hdt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (2825; 85%),
 <tt>ADJ --[<tt><a href="de_hdt-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (174; 73%),
 <tt>ADJ --[<tt><a href="de_hdt-dep-obl.html">obl</a></tt>]--> ADJ</tt> (121; 66%),

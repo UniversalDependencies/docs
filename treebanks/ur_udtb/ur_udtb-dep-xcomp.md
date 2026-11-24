@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-652 nodes (0%) are attached to their parents as `xcomp`.
+655 nodes (0%) are attached to their parents as `xcomp`.
 
-647 instances of `xcomp` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.77760736196319.
+650 instances of `xcomp` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.77709923664122.
 
-The following 10 pairs of parts of speech are connected with `xcomp`: <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt>-<tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (204; 31% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt>-<tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt> (195; 30% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt>-<tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (186; 29% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt>-<tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> (29; 4% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt>-<tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> (23; 4% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt>-<tt><a href="ur_udtb-pos-NUM.html">NUM</a></tt> (7; 1% instances), <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt>-<tt><a href="ur_udtb-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `xcomp`: <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt>-<tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (205; 31% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt>-<tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt> (196; 30% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt>-<tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (186; 28% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt>-<tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> (29; 4% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt>-<tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> (24; 4% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt>-<tt><a href="ur_udtb-pos-NUM.html">NUM</a></tt> (7; 1% instances), <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt>-<tt><a href="ur_udtb-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

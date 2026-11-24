@@ -54,7 +54,7 @@ This is a subtype of cardinal numbers. It may denote a fraction or just the deno
 
 ### <a name="Dist">`Dist`</a>: distributive numeral
 
-Used to express that the same quantity is distributed to each member in a set of targets.
+Used to express that the same quantity is distributed to each member in a set of targets. Note that we consider it a subtype of cardinal numbers (provided tokenization splits it into separate tokens).
 
 #### Examples
 
@@ -62,10 +62,10 @@ Used to express that the same quantity is distributed to each member in a set of
 
 ### <a name="Range">`Range`</a>: range of values
 
-This could be considered a subtype of cardinal numbers (provided tokenization leaves it as one token).
+This could be considered a subtype of cardinal numbers (provided tokenization splits it into separate tokens).
 
 #### Examples
 
 * _4-5 (չորս-հինգ)_/_4-5 (čors-hing)_ “four or five”
 * _10-15 (տասն-տասնուհինկ)_/_10-15 (tasn-tasnowhink)_ “from ten to fifteen”
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:03 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:50 CET -->

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-149 nodes (2%) are attached to their parents as `cc`.
+205 nodes (3%) are attached to their parents as `cc`.
 
-148 instances of `cc` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.89261744966443.
+204 instances of `cc` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.97073170731707.
 
-The following 12 pairs of parts of speech are connected with `cc`: <tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt>-<tt><a href="ruc_rdt-pos-CCONJ.html">CCONJ</a></tt> (104; 70% instances), <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-CCONJ.html">CCONJ</a></tt> (27; 18% instances), <tt><a href="ruc_rdt-pos-NUM.html">NUM</a></tt>-<tt><a href="ruc_rdt-pos-CCONJ.html">CCONJ</a></tt> (5; 3% instances), <tt><a href="ruc_rdt-pos-PRON.html">PRON</a></tt>-<tt><a href="ruc_rdt-pos-CCONJ.html">CCONJ</a></tt> (4; 3% instances), <tt><a href="ruc_rdt-pos-ADV.html">ADV</a></tt>-<tt><a href="ruc_rdt-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="ruc_rdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ruc_rdt-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="ruc_rdt-pos-AUX.html">AUX</a></tt>-<tt><a href="ruc_rdt-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="ruc_rdt-pos-DET.html">DET</a></tt>-<tt><a href="ruc_rdt-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="ruc_rdt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ruc_rdt-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="ruc_rdt-pos-PART.html">PART</a></tt>-<tt><a href="ruc_rdt-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="ruc_rdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ruc_rdt-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="ruc_rdt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ruc_rdt-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances).
+The following 15 pairs of parts of speech are connected with `cc`: <tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt>-<tt><a href="ruc_rdt-pos-CCONJ.html">CCONJ</a></tt> (131; 64% instances), <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-CCONJ.html">CCONJ</a></tt> (43; 21% instances), <tt><a href="ruc_rdt-pos-PRON.html">PRON</a></tt>-<tt><a href="ruc_rdt-pos-CCONJ.html">CCONJ</a></tt> (6; 3% instances), <tt><a href="ruc_rdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ruc_rdt-pos-CCONJ.html">CCONJ</a></tt> (6; 3% instances), <tt><a href="ruc_rdt-pos-NUM.html">NUM</a></tt>-<tt><a href="ruc_rdt-pos-CCONJ.html">CCONJ</a></tt> (5; 2% instances), <tt><a href="ruc_rdt-pos-AUX.html">AUX</a></tt>-<tt><a href="ruc_rdt-pos-CCONJ.html">CCONJ</a></tt> (3; 1% instances), <tt><a href="ruc_rdt-pos-ADV.html">ADV</a></tt>-<tt><a href="ruc_rdt-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="ruc_rdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ruc_rdt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ruc_rdt-pos-AUX.html">AUX</a></tt>-<tt><a href="ruc_rdt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ruc_rdt-pos-DET.html">DET</a></tt>-<tt><a href="ruc_rdt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ruc_rdt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ruc_rdt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ruc_rdt-pos-PART.html">PART</a></tt>-<tt><a href="ruc_rdt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ruc_rdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ruc_rdt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="ruc_rdt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ruc_rdt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -55,20 +55,16 @@ The following 12 pairs of parts of speech are connected with `cc`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 cc	color:blue
-1	Nitwika	ika	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1plS-come-FV|MSeg=ni-tu-ik-a
-2	omu	mu	ADP	LOC	NounClass=Bantu18|Referent=Yes	3	case	3:case	Gloss=AUG-18.LOC|MSeg=o-mu
-3	mwaka	mwaka	NOUN	_	NounClass=Bantu3	1	obl	1:obl	Gloss=3.year|MSeg=mwaka
-4	gwa	a	PART	GEN	NounClass=Bantu3	5	case	5:case	Gloss=3.GEN|MSeg=gwa
-5	nkumi	nkumi	NUM	_	NumForm=Word|NumType=Card	3	nmod	3:nmod	Gloss=thousand|MSeg=nkumi
-6	ibiri	ibiri	NUM	_	NumForm=Word|NumType=Card	5	nummod	5:nummod	Gloss=two|MSeg=ibiri
-7	n'	na	CCONJ	COM	_	8	cc	8:cc	Gloss=COM|MSeg=na
-8	einai	inai	NUM	_	NumForm=Word|NumType=Card	5	conj	5:conj	Gloss=four|MSeg=inai
-9	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 1 cc	color:blue
+1	Nayenga	nayenga	CCONJ	_	_	4	cc	4:cc	_
+2	Amin	Amin	PROPN	_	NounClass=Bantu1	4	nsubj	4:nsubj	_
+3	tiyali	li	AUX	_	NounClass=Bantu1|Person=3|Polarity=Neg|Tense=Past	4	cop	4:cop	_
+4	muki	ki	PRON	_	NounClass=Bantu1|PronType=Int	0	root	0:root	SpaceAfter=No
+5	?	?	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
 
 ~~~
 

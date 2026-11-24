@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `advcl`: <tt><a href="axm_armtdp-dep-advcl-relcl.html">advcl:relcl</a></tt>.
 
-36 nodes (3%) are attached to their parents as `advcl`.
+92 nodes (2%) are attached to their parents as `advcl`.
 
-26 instances of `advcl` (72%) are right-to-left (child precedes parent).
-Average distance between parent and child is 6.25.
+53 instances of `advcl` (58%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.5.
 
-The following 9 pairs of parts of speech are connected with `advcl`: <tt><a href="axm_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="axm_armtdp-pos-VERB.html">VERB</a></tt> (20; 56% instances), <tt><a href="axm_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="axm_armtdp-pos-VERB.html">VERB</a></tt> (4; 11% instances), <tt><a href="axm_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="axm_armtdp-pos-VERB.html">VERB</a></tt> (4; 11% instances), <tt><a href="axm_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="axm_armtdp-pos-NOUN.html">NOUN</a></tt> (3; 8% instances), <tt><a href="axm_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="axm_armtdp-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="axm_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="axm_armtdp-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="axm_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="axm_armtdp-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="axm_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="axm_armtdp-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="axm_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="axm_armtdp-pos-NUM.html">NUM</a></tt> (1; 3% instances).
+The following 9 pairs of parts of speech are connected with `advcl`: <tt><a href="axm_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="axm_armtdp-pos-VERB.html">VERB</a></tt> (66; 72% instances), <tt><a href="axm_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="axm_armtdp-pos-ADJ.html">ADJ</a></tt> (9; 10% instances), <tt><a href="axm_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="axm_armtdp-pos-VERB.html">VERB</a></tt> (6; 7% instances), <tt><a href="axm_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="axm_armtdp-pos-VERB.html">VERB</a></tt> (4; 4% instances), <tt><a href="axm_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="axm_armtdp-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="axm_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="axm_armtdp-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="axm_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="axm_armtdp-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="axm_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="axm_armtdp-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="axm_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="axm_armtdp-pos-NUM.html">NUM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -23,100 +23,67 @@ The following 9 pairs of parts of speech are connected with `advcl`: <tt><a href
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 5 advcl	color:blue
-1	Եւ	եւ	CCONJ	_	_	12	cc	_	_
-2	որ	որ	SCONJ	_	_	5	mark	_	_
-3	գաղտուկ	գաղտուկ	ADJ	_	Degree=Pos	4	amod	_	_
-4	մեղանք	մեղանք	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Ptan|Style=Arch	5	xcomp	_	_
-5	լինի	լինիլ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	12	advcl	_	_
-6	յ	ի	ADP	_	AdpType=Prep	7	case	_	_
-7	երկիրն	յերկիր	NOUN	_	Animacy=Nhum|Case=Acc|Definite=Def|Number=Sing	5	obl	_	_
-8	՝	՝	PUNCT	_	_	12	punct	_	_
-9	զ	զ	ADP	_	AdpType=Prep	10	case	_	_
-10	այն	այն	PRON	_	Case=Acc|Deixis=Remt|Number=Sing|PronType=Dem	12	obj	_	_
-11	խոստովանհայրքն	խոստովանհայր	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Number=Plur|Style=Var	12	nsubj	_	_
-12	ուղղեն	ուղղել	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Style=Arch|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
-13	։	։	PUNCT	_	_	12	punct	_	SpaceAfter=No
+1	Եւ	եւ	CCONJ	_	_	12	cc	_	Translit=Ew|LTranslit=ew
+2	որ	որ	SCONJ	_	_	5	mark	_	Translit=or|LTranslit=or
+3	գաղտուկ	գաղտուկ	ADJ	_	_	4	amod	_	Translit=gaġtowk|LTranslit=gaġtowk
+4	մեղանք	մեղանք	NOUN	_	Case=Nom|Definite=Ind|Number=Ptan	5	nsubj	_	Translit=meġank’|LTranslit=meġank’
+5	լինի	լինել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	12	advcl	_	Translit=lini|LTranslit=linel
+6	յ	ի	ADP	_	AdpType=Prep	7	case	_	SpaceAfter=No|Translit=y|LTranslit=i
+7	երկիրն	երկիր	NOUN	_	Case=Nom|Definite=Def|Number=Sing	5	obl	_	SpaceAfter=No|Translit=erkirn|LTranslit=erkir
+8	՝	՝	PUNCT	_	_	12	punct	_	Translit=:|LTranslit=:
+9	զ	զ	ADP	_	AdpType=Prep	10	case	_	SpaceAfter=No|Translit=z|LTranslit=z
+10	այն	այն	PRON	_	Case=Nom|Deixis=Remt|Number=Sing|PronType=Dem	12	obj	_	Translit=ayn|LTranslit=ayn
+11	խոստովանհայրքն	խոստովանհայր	NOUN	_	Case=Nom|Definite=Def|Number=Plur	12	nsubj	_	Translit=xostovanhayrk’n|LTranslit=xostovanhayr
+12	ուղղեն	ուղղել	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Style=Arch|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=owġġen|LTranslit=owġġel
+13	։	։	PUNCT	_	_	12	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 30	bgColor:blue
-# visual-style 30	fgColor:white
-# visual-style 37	bgColor:blue
-# visual-style 37	fgColor:white
-# visual-style 37 30 advcl	color:blue
-1	Եւ	եւ	CCONJ	_	_	13	cc	_	_
-2	որ	որ	SCONJ	_	_	7	mark	_	_
-3	յ	ի	ADP	_	AdpType=Prep	5	case	_	_
-4	արքունի	արքունի	ADJ	_	Degree=Pos	5	amod	_	_
-5	ջամբռէ	ջամբռ	NOUN	_	Animacy=Nhum|Case=Abl|Definite=Ind|Number=Sing	7	obl	_	_
-6	իրք	իրք	PRON	_	PronType=Ind	7	obj	_	_
-7	գողանայ	գողանալ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Style=Arch|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	13	advcl	_	SpaceAfter=No
-8	՝	՝	PUNCT	_	_	13	punct	_	_
-9	նա	նա	SCONJ	_	_	13	mark	_	_
-10	զ	զ	ADP	_	AdpType=Prep	12	case	_	_
-11	երկու	երկու	NUM	_	NumForm=Word|NumType=Card	12	nummod	_	_
-12	աչսն	աչք	NOUN	_	Animacy=Nhum|Case=Acc|Definite=Def|Number=Plur	13	obj	_	_
-13	հանէ	հանել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Style=Arch|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
-14	եւ	եւ	CCONJ	_	_	20	cc	_	_
-15	զ	զ	ADP	_	AdpType=Prep	16	case	_	_
-16	կինն	կին	NOUN	_	Animacy=Hum|Case=Acc|Definite=Def|Number=Sing	20	obj	_	_
-17	ու	ու	CCONJ	_	_	19	cc	_	_
-18	զ	զ	ADP	_	AdpType=Prep	19	case	_	_
-19	որդիսն	որդի	NOUN	_	Animacy=Hum|Case=Acc|Definite=Def|Number=Plur	16	conj	_	_
-20	առնուն	առնուլ	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	13	conj	_	_
-21	եւ	եւ	CCONJ	_	_	26	cc	_	_
-22	այլ	այլ	DET	_	PronType=Ind	23	det	_	_
-23	զինչ	զինչ	PRON	_	PronType=Ind	24	obj	_	_
-24	ունենայ	ունենալ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	26	ccomp	_	SpaceAfter=No
-25	՝	՝	PUNCT	_	_	26	punct	_	_
-26	առնուն	առնուլ	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Style=Arch|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	13	conj	_	SpaceAfter=No
-27	.	.	PUNCT	_	_	37	punct	_	_
-28	եւ	եւ	CCONJ	_	_	37	cc	_	_
-29	թէ	թէ	SCONJ	_	_	30	mark	_	_
-30	ծախէ	ծախել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	37	advcl	_	_
-31	զ	զ	ADP	_	AdpType=Prep	32	case	_	_
-32	կինն	կին	NOUN	_	Animacy=Hum|Case=Acc|Definite=Def|Number=Sing	30	obj	_	_
-33	եւ	եւ	CCONJ	_	_	35	cc	_	_
-34	զ	զ	ADP	_	AdpType=Prep	35	case	_	_
-35	որդիսն	որդի	NOUN	_	Animacy=Hum|Case=Acc|Definite=Def|Number=Plur	32	conj	_	_
-36	՝	՝	PUNCT	_	_	37	punct	_	_
-37	արժան	արժան	ADJ	_	Degree=Pos	13	parataxis	_	_
-38	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	37	cop	_	SpaceAfter=No
-39	։	։	PUNCT	_	_	13	punct	_	_
+# visual-style 17	bgColor:blue
+# visual-style 17	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 17 advcl	color:blue
+1	Առ	առնուլ	VERB	_	Aspect=Prosp|Mood=Imp|Number=Sing|Person=2|Subcat=Tran|VerbForm=Fin|Voice=Act	0	root	_	Translit=Aṙ|LTranslit=aṙnowl
+2	քուշնա	քուշնայ	NOUN	_	Case=Nom|Definite=Ind|Number=Sing	1	obj	_	Translit=k’owšna|LTranslit=k’owšnay
+3	ու	ու	CCONJ	_	_	4	cc	_	Translit=ow|LTranslit=ow
+4	գարի	գարի	NOUN	_	Case=Nom|Definite=Ind|Number=Sing	2	conj	_	SpaceAfter=No|Translit=gari|LTranslit=gari
+5	,	,	PUNCT	_	_	6	punct	_	Translit=,|LTranslit=,
+6	եփէ	եփել	VERB	_	Aspect=Prosp|Mood=Imp|Number=Sing|Person=2|Subcat=Tran|VerbForm=Fin|Voice=Act	1	conj	_	SpaceAfter=No|Translit=ep’ē|LTranslit=ep’el
+7	,	,	PUNCT	_	_	9	punct	_	Translit=,|LTranslit=,
+8	ու	ու	CCONJ	_	_	9	cc	_	Translit=ow|LTranslit=ow
+9	առ	առնուլ	VERB	_	Aspect=Prosp|Mood=Imp|Number=Sing|Person=2|Subcat=Tran|VerbForm=Fin|Voice=Act	1	parataxis	_	Translit=aṙ|LTranslit=aṙnowl
+10	զ	զ	ADP	_	AdpType=Prep	11	case	_	SpaceAfter=No|Translit=z|LTranslit=z
+11	ջուրն	ջուր	NOUN	_	Case=Nom|Definite=Def|Number=Sing	9	obj	_	Translit=ǰowrn|LTranslit=ǰowr
+12	ու	ու	CCONJ	_	_	13	cc	_	Translit=ow|LTranslit=ow
+13	լից	լնուլ	VERB	_	Aspect=Prosp|Mood=Imp|Number=Sing|Person=2|Subcat=Tran|VerbForm=Fin|Voice=Act	9	conj	_	Translit=lic’|LTranslit=lnowl
+14	ի	ի	ADP	_	AdpType=Prep|ExtPos=ADP	16	case	_	Translit=i|LTranslit=i
+15	վերայ	վերայ	ADP	_	AdpType=Prep	14	fixed	_	Translit=veray|LTranslit=veray
+16	գլխոյն	գլուխ	NOUN	_	Case=Dat|Definite=Def|Number=Sing	13	obl	_	Translit=glxoyn|LTranslit=glowx
+17	շող	շող	ADJ	_	Degree=Pos	13	advcl	_	SpaceAfter=No|Translit=šoġ|LTranslit=šoġ
+18	.	.	PUNCT	_	_	9	punct	_	Translit=.|LTranslit=.
+19	աւկտէ	աւկտել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Style=Arch|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	1	parataxis	_	SpaceAfter=No|Translit=awktē|LTranslit=awktel
+20	։	։	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 6 advcl	color:blue
-1	Եթէ	եթէ	SCONJ	_	_	6	mark	_	_
-2	քրիստոնէ	քրիստոնէ	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	6	nsubj	_	_
-3	զ	զ	ADP	_	AdpType=Prep	4	case	_	_
-4	քրիստոնէ	քրիստոնէ	NOUN	_	Animacy=Hum|Case=Acc|Definite=Ind|Number=Sing	6	obj	_	_
-5	կամաւք	կամ	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Ind|Number=Plur	6	obl	_	_
-6	սպաննէ	սպաննել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Style=Arch|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	12	advcl	_	SpaceAfter=No
-7	՝	՝	PUNCT	_	_	12	punct	_	_
-8	նա	նա	SCONJ	_	_	12	mark	_	_
-9	նորա	նա	PRON	_	Case=Gen|Deixis=Remt|Number=Sing|PronType=Dem	10	nmod:poss	_	_
-10	արեան	արիւն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Coll	11	nmod:poss	_	_
-11	վրէժխնդիրն	վրէժխնդիր	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Coll	12	nsubj	_	_
-12	թագավորին	թագավոր	NOUN	_	Animacy=Hum|Case=Dat|Definite=Def|Number=Sing	0	root	_	_
-13	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	12	cop	_	SpaceAfter=No
-14	,	,	PUNCT	_	_	16	punct	_	_
-15	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	16	nsubj	_	_
-16	խրատէ	խրատել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Style=Arch|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	12	acl:relcl	_	_
-17	եւ	եւ	CCONJ	_	_	21	cc	_	_
-18	ի	ի	ADP	_	AdpType=Prep	20	case	_	_
-19	յ	ի	ADP	_	AdpType=Prep	20	case	_	_
-20	ապաշխարութիւն	ապաշխարութիւն	NOUN	_	Animacy=Nhum|Case=Acc|Definite=Ind|Number=Coll	21	obl	_	_
-21	հասցնէ	հասցնել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Cau	16	conj	_	SpaceAfter=No
-22	։	։	PUNCT	_	_	12	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 7 advcl	color:blue
+1	Այլ	այլ	DET	_	PronType=Ind	2	det	_	Translit=Ayl|LTranslit=ayl
+2	դեղ	դեղ	NOUN	_	Case=Nom|Definite=Ind|Number=Sing	0	root	_	SpaceAfter=No|Translit=deġ|LTranslit=deġ
+3	,	,	PUNCT	_	_	7	punct	_	Translit=,|LTranslit=,
+4	որ	որ	SCONJ	_	_	7	mark	_	Translit=or|LTranslit=or
+5	ի	ի	ADP	_	AdpType=Prep	6	case	_	Translit=i|LTranslit=i
+6	ձեռվին	ձեռ	NOUN	_	Case=Nom|Definite=Def|Number=Plur	7	obl	_	Translit=jeṙvin|LTranslit=jeṙ
+7	լինի	լինել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Style=Arch|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	2	advcl	_	SpaceAfter=No|Translit=lini|LTranslit=linel
+8	։	։	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

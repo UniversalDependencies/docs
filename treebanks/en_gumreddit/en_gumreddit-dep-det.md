@@ -94,12 +94,12 @@ The following 8 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 8 7 det	color:blue
 1	_	_	ADP	IN	_	3	case	3:case	Discourse=evaluation-comment:78->1:9:lex-indwd-473-_|Lem=*LOWER*|Len=2
 2	_	_	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	Entity=(81-abstract-new-nnnnn-cf3-2-sgl(2-person-giv:inact-sssss-cf2-1-ana)|Lem=_|Len=3
-3	_	_	NOUN	NN	Number=Sing	8	obl	8:obl:in	Entity=81)|Lem=_|Len=7
+3	_	_	NOUN	NN	Number=Sing	8	obl	8:obl:in	Entity=81)|Lem=_|Len=7|MSeg=defen-se
 4	_	_	ADJ	JJ	Degree=Pos	5	amod	5:amod	Entity=(82-person-new-nnnnn-cf1-2-coref|Lem=_|Len=5
 5	_	_	NOUN	NNS	Number=Plur	8	nsubj	8:nsubj	Entity=82)|Lem=baby|Len=6|MSeg=bab-ie-s
 6	_	_	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	cop	8:cop	Lem=be|Len=3
 7	_	_	DET	DT	Definite=Def|PronType=Art	8	det	8:det	Lem=_|Len=3
-8	_	_	ADJ	JJS	Degree=Sup	0	root	0:root	Lem=bad|Len=5
+8	_	_	ADJ	JJS	Degree=Sup	0	root	0:root	Lem=bad|Len=5|MSeg=wors-t
 9	_	_	ADP	IN	_	12	case	12:case	Lem=_|Len=2
 10	_	_	DET	PDT	PronType=Ind	12	det:predet	12:det:predet	Entity=(82-person-giv:act-nnnnn-cf1-3-coref|Lem=_|Len=3
 11	_	_	DET	DT	Definite=Def|PronType=Art	12	det	12:det	Lem=_|Len=3

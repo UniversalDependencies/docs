@@ -79,7 +79,7 @@ The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>PRON --[<tt><a href="no_bokmaal-dep-det.html">det</a></tt>]--> DET</tt> (156; 64%),
 <tt>PRON --[<tt><a href="no_bokmaal-dep-expl.html">expl</a></tt>]--> PRON</tt> (71; 76%),
 <tt>PRON --[<tt><a href="no_bokmaal-dep-conj.html">conj</a></tt>]--> PRON</tt> (33; 89%),
-<tt>PRON --[<tt><a href="no_bokmaal-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (17; 57%),
+<tt>PRON --[<tt><a href="no_bokmaal-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (17; 55%),
 <tt>DET --[<tt><a href="no_bokmaal-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (7; 100%),
 <tt>DET --[<tt><a href="no_bokmaal-dep-det.html">det</a></tt>]--> PRON</tt> (5; 100%),
 <tt>PRON --[<tt><a href="no_bokmaal-dep-appos.html">appos</a></tt>]--> PRON</tt> (3; 75%),

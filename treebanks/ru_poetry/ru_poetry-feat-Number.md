@@ -219,11 +219,11 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="ru_poetry-dep-amod.html">amod</a></tt>]--> ADJ</tt> (4245; 99%),
 <tt>VERB --[<tt><a href="ru_poetry-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (2313; 94%),
 <tt>VERB --[<tt><a href="ru_poetry-dep-obl.html">obl</a></tt>]--> NOUN</tt> (1732; 56%),
-<tt>NOUN --[<tt><a href="ru_poetry-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1352; 60%),
+<tt>NOUN --[<tt><a href="ru_poetry-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1354; 60%),
 <tt>VERB --[<tt><a href="ru_poetry-dep-conj.html">conj</a></tt>]--> VERB</tt> (1352; 78%),
 <tt>VERB --[<tt><a href="ru_poetry-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (1301; 97%),
 <tt>NOUN --[<tt><a href="ru_poetry-dep-det.html">det</a></tt>]--> DET</tt> (1266; 90%),
-<tt>NOUN --[<tt><a href="ru_poetry-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1139; 78%),
+<tt>NOUN --[<tt><a href="ru_poetry-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1137; 78%),
 <tt>VERB --[<tt><a href="ru_poetry-dep-iobj.html">iobj</a></tt>]--> NOUN</tt> (423; 55%),
-<tt>ADJ --[<tt><a href="ru_poetry-dep-conj.html">conj</a></tt>]--> ADJ</tt> (413; 94%).
+<tt>ADJ --[<tt><a href="ru_poetry-dep-conj.html">conj</a></tt>]--> ADJ</tt> (416; 94%).
 

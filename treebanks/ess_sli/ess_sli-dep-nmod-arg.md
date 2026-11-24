@@ -17,22 +17,20 @@ The following 1 pairs of parts of speech are connected with `nmod:arg`: <tt><a h
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 7 6 nmod:arg	color:blue
-1	Esghaat	esghaat	VERB	_	_	0	root	_	Analysis=esghaate(V)|Gloss=to-see-something
-2	u	u	X	_	Mood=Ind|Subcat=Intr	1	dep:infl	_	Analysis=[Ind.Intr]
-3	nga	nga	X	_	Number[subj]=Sing|Person[subj]=1	1	dep:infl	_	Analysis=[1Sg]
-4	Pureki	Pureki	NOUN	_	_	1	obl:mod	_	Analysis=Pureki(N)|Gloss=black-person
-5	meng	meng	X	_	Case=Abl|Number=Sing	4	dep:infl	_	Analysis=[Abl_Mod.Sg]
-6	tefli	tefli	NOUN	_	_	7	nmod:arg	_	Analysis=tefli(N)|Gloss=food-particles
-7	leg	leg	NOUN	_	_	4	appos	_	Analysis=–leg(N→N)|Gloss=one-with-N
-8	meng	meng	X	_	Case=Abl|Number=Sing	7	dep:infl	_	Analysis=[Abl_Mod.Sg]
-9	esna	esna	NOUN	_	_	1	obl	_	Analysis=esnagh(N)|Gloss=beach
-10	mi	mi	X	_	Case=Loc|Number=Sing	9	dep:infl	_	Analysis=[Loc.Sg]
-11	.	.	PUNCT	_	_	1	punct	_	Analysis=.
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 7 nmod:arg	color:blue
+1	Aghna	aghna	NOUN	_	_	3	nmod	_	Analysis=aghnagh(N)|Gloss=woman
+2	ghllagem	ghllag	NOUN	_	Case=Gen|Number=Sing	1	nmod	_	Analysis=–ghllag(N→N)^[Rel.Sg]|Gloss=large-N|MSeg=ghllag+em
+3	ighneghi	ighnegh	NOUN	_	Case=Abs|Number=Plur|Number[psor]=Sing|Person[psor]=3	4	nsubj	_	Analysis=ighnegh(N)^[Abs.3SgPoss.Pl]|Gloss=her-sons|MSeg=ighnegh+i
+4	neghe	neghe	VERB	_	_	0	root	_	Analysis=neghe(V)|Gloss=eat
+5	llequt	lleq	X	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Subcat=Intr|Tense=Fut	4	dep:aux	_	Analysis=@lleqe(V→V)^[Ind.Intr]^[3Pl]|Gloss=will-V|MSeg=lleq+u+t
+6	akuutameng	akuuta	NOUN	_	Case=Abl|Number=Sing	4	obl:mod	_	Analysis=akuutagh(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-mixture|MSeg=akuuta+meng
+7	aqavzi	aqavzi	NOUN	_	_	8	nmod:arg	_	Analysis=aqavzig(N)|Gloss=cloudberry
+8	legmeng	leg	NOUN	_	Case=Abl|Number=Sing	6	appos	_	Analysis=–leg(N→N)^[Abl_Mod.Sg]|Gloss=one-having-N|MSeg=leg+meng
+9	.	.	PUNCT	_	_	4	punct	_	Analysis=.
 
 ~~~
 

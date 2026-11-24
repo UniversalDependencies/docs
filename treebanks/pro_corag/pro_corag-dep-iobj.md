@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-316 nodes (1%) are attached to their parents as `iobj`.
+383 nodes (1%) are attached to their parents as `iobj`.
 
-294 instances of `iobj` (93%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.49683544303797.
+361 instances of `iobj` (94%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.54308093994778.
 
-The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (311; 98% instances), <tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (378; 99% instances), <tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -30,7 +30,7 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 6	omi	_	NOUN	_	_	3	nmod	_	_
 7	que-	_	SCONJ	_	_	9	mark	_	_
 8	-u	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	iobj	_	_
-9	fasse	_	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	fasse	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 10	pagar	_	VERB	_	VerbForm=Inf	9	xcomp	_	_
 11	la	_	DET	_	_	12	det	_	_
 12	ley	_	NOUN	_	_	10	obj	_	_

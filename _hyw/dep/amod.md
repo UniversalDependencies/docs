@@ -30,4 +30,4 @@ An adjectival modifier of a noun is any adjectival phrase that serves to modify 
 10	էր	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VerbForm=Fin	8	cop	_	Translit=ēr|LTranslit=em|SpaceAfter=No
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:38 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:20 CET -->

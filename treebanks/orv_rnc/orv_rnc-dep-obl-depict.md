@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Old_East_Slavic-RNC: Relations: `obl:depict`
 
 This relation is a language-specific subtype of <tt><a href="orv_rnc-dep-obl.html">obl</a></tt>.
-There are also 4 other language-specific subtypes of `obl`: <tt><a href="orv_rnc-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="orv_rnc-dep-obl-float.html">obl:float</a></tt>, <tt><a href="orv_rnc-dep-obl-pronmod.html">obl:pronmod</a></tt>, <tt><a href="orv_rnc-dep-obl-tmod.html">obl:tmod</a></tt>.
+There are also 3 other language-specific subtypes of `obl`: <tt><a href="orv_rnc-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="orv_rnc-dep-obl-float.html">obl:float</a></tt>, <tt><a href="orv_rnc-dep-obl-tmod.html">obl:tmod</a></tt>.
 
 73 nodes (0%) are attached to their parents as `obl:depict`.
 
-45 instances of `obl:depict` (62%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.83561643835616.
+44 instances of `obl:depict` (60%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.80821917808219.
 
-The following 8 pairs of parts of speech are connected with `obl:depict`: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (45; 62% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (18; 25% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (4; 5% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `obl:depict`: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (47; 64% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (18; 25% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (5; 7% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -61,65 +61,58 @@ The following 8 pairs of parts of speech are connected with `obl:depict`: <tt><a
 
 
 ~~~ conllu
-# visual-style 29	bgColor:blue
-# visual-style 29	fgColor:white
-# visual-style 30	bgColor:blue
-# visual-style 30	fgColor:white
-# visual-style 30 29 obl:depict	color:blue
-1	И	и	CCONJ	_	_	30	cc	_	_
-2	как	какъ	SCONJ	_	_	5	mark	_	_
-3	божья	божий	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	4	amod	_	_
-4	воля	воля	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
-5	ссталася	состатися	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Mid	30	advcl	_	SpaceAfter=No
-6	,	,	PUNCT	_	_	13	punct	_	_
-7	великого	великий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
-8	князя	князь	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	13	nsubj	_	_
-9	Василия	Василий	PROPN	_	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	8	appos	_	_
-10	в	въ	ADP	_	_	11	case	_	_
-11	животѣ	животъ	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	13	obl	_	_
-12	не	не	PART	_	Polarity=Neg	13	advmod	_	_
-13	стало	стати	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	5	conj	_	SpaceAfter=No
-14	,	,	PUNCT	_	_	5	punct	_	_
-15	и	и	CCONJ	_	_	30	cc	_	_
-16	божьею	божий	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	_
-17	милостью	милость	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	30	obl	_	_
-18	и	и	CCONJ	_	_	25	cc	_	_
-19	великого	великий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	_
-20	государя	государь	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	25	nmod	_	_
-21	Василия	Василий	PROPN	_	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	20	appos	_	_
-22	Ивановича	Ивановичь	PROPN	_	Case=Gen|Gender=Masc|NameType=Pat|Number=Sing	21	flat:name	_	_
-23	всеа	весь	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Tot	24	det	_	_
-24	Русии	Русия	PROPN	_	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	21	nmod	_	_
-25	благословением	благословение	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	17	conj	_	_
-26	на	на	ADP	_	_	28	case	_	_
-27	тѣх	тотъ	DET	_	Case=Loc|Gender=Neut|Number=Plur|PronType=Dem	28	det	_	_
-28	государствех	государство	NOUN	_	Case=Loc|Gender=Neut|Number=Plur	30	obl	_	_
-29	государемъ	государь	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	30	obl:depict	_	_
-30	сѣл	сѣсти	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	_
-31	сынъ	сынъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	30	nsubj	_	_
-32	его	и	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	31	det	_	_
-33	большои	большой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	31	amod	_	_
-34	князь	князь	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	31	appos	_	_
-35	великии	великий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	34	amod	_	_
-36	Иван	Иванъ	PROPN	_	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	34	appos	_	_
-37	Василиевич	Василиевичь	PROPN	_	Case=Nom|Gender=Masc|NameType=Pat|Number=Sing	36	flat:name	_	_
-38	всеа	весь	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Tot	39	det	_	_
-39	Русии	Русия	PROPN	_	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	36	nmod	_	_
-40	и	и	CCONJ	_	_	41	cc	_	_
-41	велѣлъ	велѣти	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	30	conj	_	_
-42	быти	быти	VERB	_	VerbForm=Inf|Voice=Act	41	xcomp	_	_
-43	у	у	ADP	_	_	44	case	_	_
-44	собя	себя	PRON	_	Case=Gen|PronType=Prs|Reflex=Yes	42	obl	_	_
-45	цареву	царевъ	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	47	amod	_	_
-46	Саип-Гирѣеву	саипъ-гирѣевъ	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	47	amod	_	_
-47	человѣку	человѣкъ	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	41	iobj	_	_
-48	и	и	CCONJ	_	_	50	cc	_	_
-49	Исламову	исламовъ	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	50	amod	_	_
-50	человѣку	человѣкъ	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	47	conj	_	_
-51	и	и	CCONJ	_	_	53	cc	_	_
-52	их	и	PRON	_	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	53	obj	_	_
-53	жаловал	жаловати	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	41	conj	_	SpaceAfter=No
-54	.	.	PUNCT	_	_	30	punct	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 14 9 obl:depict	color:blue
+1	Но	но	CCONJ	_	_	4	cc	_	Norm="Но"
+2	ниже	ниже	SCONJ	_	_	4	mark	_	Norm="ниже"
+3	сего	сие	PRON	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	4	obj	_	Norm="сего"
+4	довлѣꙗше	довлѣти	VERB	Tense=Imp	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Norm="довлѣꙗше"|SpaceAfter=No
+5	:	:	PUNCT	_	_	14	punct	_	Norm=":"
+6	са(м)	самъ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Emp|Variant=Short	9	nmod:float	_	Norm="самъ"
+7	еще	еще	ADV	_	Degree=Pos	6	advmod	_	Norm="еще"
+8	Бж҃іꙗ	божий	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	Norm="Божіꙗ"
+9	прем(д)ро(ст)	прѣмудрость	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	14	obl:depict	_	Norm="премудростъ"|SpaceAfter=No
+10	,	,	PUNCT	_	_	11	punct	_	Norm=","
+11	Слово	слово	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	9	conj	_	Norm="Слово"
+12	пре(д)вѣчное	предвѣчный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	Norm="предвѣчное"|SpaceAfter=No
+13	,	,	PUNCT	_	_	11	punct	_	Norm=","
+14	ꙗвисꙗ	явитися	VERB	Tense=Aor	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Reflex=Yes|Tense=Past|VerbForm=Fin|Voice=Mid	4	parataxis	_	Norm="ꙗвисꙗ"
+15	вⸯ	въ	ADP	_	_	16	case	_	Norm="въ"
+16	кꙋпинѣ	купина	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	14	obl	_	Norm="кꙋпинѣ"
+17	горꙗщей	горѣти	VERB	_	Aspect=Imp|Case=Loc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	16	amod	_	Norm="горꙗщей"
+18	и	и	CCONJ	_	_	19	cc	_	Norm="и"
+19	несгарꙗемой	несгараемый	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	17	conj	_	Norm="несгарꙗемой"|SpaceAfter=No
+20	,	,	PUNCT	_	_	21	punct	_	Norm=","
+21	извѣсти	извѣстити	VERB	Tense=Aor	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	14	conj	_	Norm="извѣсти"
+22	своꙗ	свой	DET	_	Case=Acc|Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	23	det	_	Norm="своꙗ"
+23	тайны	тайна	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	21	obj	_	Norm="тайны"|SpaceAfter=No
+24	,	,	PUNCT	_	_	25	punct	_	Norm=","
+25	о(т)кры	открыти	VERB	Tense=Aor	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	14	obj	_	Norm="откры"
+26	свое	свой	DET	_	Case=Acc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	27	det	_	Norm="свое"
+27	хотѣніе	хотѣние	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	25	obj	_	Norm="хотѣніе"|SpaceAfter=No
+28	,	,	PUNCT	_	_	41	punct	_	Norm=","
+29	а	а	CCONJ	_	_	41	cc	_	Norm="а"
+30	вⸯ	въ	ADP	_	_	31	case	_	Norm="въ"
+31	ꙗвленіе	явление	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	41	obl	_	Norm="ꙗвленіе"|SpaceAfter=No
+32	,	,	PUNCT	_	_	36	punct	_	Norm=","
+33	ꙗко	яко	SCONJ	_	_	36	mark	_	Norm="ꙗко"
+34	онъ	онъ	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	36	nsubj	_	Norm="онъ"
+35	ср(д)це	сердце	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	36	obj	_	Norm="сердце"
+36	соде(р)житъ	содержати	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	31	acl	_	Norm="содержитъ"
+37	всѣхъ	весь	DET	_	Case=Gen|Gender=Masc|Number=Plur|PronType=Tot	38	det	_	Norm="всѣхъ"
+38	обладающихъ	обладати	VERB	_	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	35	nmod	_	Norm="обладающихъ"|SpaceAfter=No
+39	,	,	PUNCT	_	_	36	punct	_	Norm=","
+40	силное	сильный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	43	amod	_	Norm="силное"
+41	даде	дати	VERB	Tense=Aor	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	14	conj	_	Norm="даде"
+42	Мойсею	Мойсей	PROPN	_	Case=Dat|Gender=Masc|NameType=Giv|Number=Sing	41	iobj	_	Norm="Мойсею"
+43	знаменіе	знамение	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	41	obj	_	Norm="знаменіе"|SpaceAfter=No
+44	;	;	PUNCT	_	_	45	punct	_	Norm=";"
+45	кое	кий	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	41	parataxis	_	Norm="кое"
+46	же	же	CCONJ	_	_	45	cc	_	Norm="же"|SpaceAfter=No
+47	?	?	PUNCT	_	_	4	punct	_	Norm="?"
 
 ~~~
 

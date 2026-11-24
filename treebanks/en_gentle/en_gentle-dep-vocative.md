@@ -67,7 +67,7 @@ The following 8 pairs of parts of speech are connected with `vocative`: <tt><a h
 13	for	for	ADP	IN	_	16	case	16:case	_
 14	a	a	DET	DT	Definite=Ind|PronType=Art	16	det	16:det	Entity=(13-abstract-new-nnnnn-cf17-3-sgl
 15	store	store	NOUN	NN	Number=Sing	16	compound	16:compound	Entity=(14-place-new-nnnnn-cf22-1-sgl)
-16	holdup	holdup	NOUN	NN	Number=Sing	10	obl	10:obl:for	_
+16	holdup	holdup	NOUN	NN	Number=Sing	10	obl	10:obl:for	MSeg=hold-up
 17	on	on	ADP	IN	_	18	case	18:case	_
 18	blacks	black	NOUN	NNS	Number=Plur	16	nmod	16:nmod:on	Entity=(15-person-new-nnnnn-cf15-1-sgl)13)|MSeg=black-s
 19	or	or	CCONJ	CC	_	21	cc	21:cc	_
@@ -124,7 +124,7 @@ The following 8 pairs of parts of speech are connected with `vocative`: <tt><a h
 70	Ii	I	PRON	PRP	Case=Nom|Number=Sing|Person=3|PronType=Prs	72	nsubj	72:nsubj	CorrectForm=I|Discourse=organization-preparation:15->20:2:ref-prs-130,167-_+sem-synym-135-136,176-181-_|Entity=(23-abstract-new-nnnnn-cf2-3-disc(1-person-giv:act-ssssn-cf1*-1-ana)|XML=<sic ana:::"I"></sic>
 71	'll	will	AUX	MD	VerbForm=Fin	72	aux	72:aux	_
 72	play	play	VERB	VB	VerbForm=Inf	68	parataxis	68:parataxis	_
-73	likewise	likewise	ADV	RB	_	72	advmod	72:advmod	PDTB=Explicit:Expansion.Conjunction:likewise:133:82-129:130-132,134-154
+73	likewise	likewise	ADV	RB	_	72	advmod	72:advmod	MSeg=like-wise|PDTB=Explicit:Expansion.Conjunction:likewise:133:82-129:130-132,134-154
 74	with	with	ADP	IN	_	76	case	76:case	_
 75	you	you	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs	76	vocative	76:vocative	Entity=(7-person-giv:act-sssss-cf4-2-coref
 76	judges	judge	NOUN	NNS	Number=Plur	72	obl	72:obl:with	Entity=7)23)|MSeg=judge-s

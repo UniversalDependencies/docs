@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Korean-GSD: POS Tags: `DET`
 
-There are 29 `DET` lemmas (0%), 29 `DET` types (0%) and 573 `DET` tokens (1%).
+There are 25 `DET` lemmas (0%), 25 `DET` types (0%) and 567 `DET` tokens (1%).
 Out of 16 observed tags, the rank of `DET` is: 11 in number of lemmas, 12 in number of types and 9 in number of tokens.
 
 The 10 most frequent `DET` lemmas: 이, 그, 몇, 모든, 각, 어떤, 어느, 이+들, 약, 무슨
@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  이 (<tt><a href="ko_gsd-pos-DET.html">DE
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.001499).
+The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.001527).
 
 The 1st highest number of forms (1) was observed with the lemma “각”: 각.
 
@@ -62,32 +62,32 @@ The 2nd highest number of forms (1) was observed with the lemma “그”: 그.
 
 The 3rd highest number of forms (1) was observed with the lemma “그런”: 그런.
 
-`DET` occurs with 1 features: <tt><a href="ko_gsd-feat-NumType.html">NumType</a></tt> (2; 0% instances)
+`DET` occurs with 2 features: <tt><a href="ko_gsd-feat-PronType.html">PronType</a></tt> (567; 100% instances), <tt><a href="ko_gsd-feat-NumType.html">NumType</a></tt> (2; 0% instances)
 
-`DET` occurs with 1 feature-value pairs: `NumType=Card`
+`DET` occurs with 5 feature-value pairs: `NumType=Card`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Tot`
 
-`DET` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (571 tokens).
-Examples: 이, 그, 몇, 모든, 각, 어떤, 어느, 이들, 약, 무슨
+`DET` occurs with 5 feature combinations.
+The most frequent feature combination is `PronType=Dem` (382 tokens).
+Examples: 이, 그, 이들, 이러한, 그런, 올, 현, 이런, 이번
 
 
 ## Relations
 
-`DET` nodes are attached to their parents using 4 different relations: <tt><a href="ko_gsd-dep-det.html">det</a></tt> (569; 99% instances), <tt><a href="ko_gsd-dep-ccomp.html">ccomp</a></tt> (2; 0% instances), <tt><a href="ko_gsd-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="ko_gsd-dep-root.html">root</a></tt> (1; 0% instances)
+`DET` nodes are attached to their parents using 2 different relations: <tt><a href="ko_gsd-dep-det.html">det</a></tt> (566; 100% instances), <tt><a href="ko_gsd-dep-appos.html">appos</a></tt> (1; 0% instances)
 
-Parents of `DET` nodes belong to 7 different parts of speech: <tt><a href="ko_gsd-pos-NOUN.html">NOUN</a></tt> (401; 70% instances), <tt><a href="ko_gsd-pos-ADV.html">ADV</a></tt> (127; 22% instances), <tt><a href="ko_gsd-pos-VERB.html">VERB</a></tt> (38; 7% instances), <tt><a href="ko_gsd-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="ko_gsd-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="ko_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances),  (1; 0% instances)
+Parents of `DET` nodes belong to 6 different parts of speech: <tt><a href="ko_gsd-pos-NOUN.html">NOUN</a></tt> (399; 70% instances), <tt><a href="ko_gsd-pos-ADV.html">ADV</a></tt> (127; 22% instances), <tt><a href="ko_gsd-pos-VERB.html">VERB</a></tt> (36; 6% instances), <tt><a href="ko_gsd-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="ko_gsd-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="ko_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances)
 
-547 (95%) `DET` nodes are leaves.
+548 (97%) `DET` nodes are leaves.
 
-21 (4%) `DET` nodes have one child.
+18 (3%) `DET` nodes have one child.
 
-1 (0%) `DET` nodes have two children.
+0 (0%) `DET` nodes have two children.
 
-4 (1%) `DET` nodes have three or more children.
+1 (0%) `DET` nodes have three or more children.
 
-The highest child degree of a `DET` node is 5.
+The highest child degree of a `DET` node is 4.
 
-Children of `DET` nodes are attached using 7 different relations: <tt><a href="ko_gsd-dep-punct.html">punct</a></tt> (22; 52% instances), <tt><a href="ko_gsd-dep-flat.html">flat</a></tt> (14; 33% instances), <tt><a href="ko_gsd-dep-appos.html">appos</a></tt> (2; 5% instances), <tt><a href="ko_gsd-dep-acl-relcl.html">acl:relcl</a></tt> (1; 2% instances), <tt><a href="ko_gsd-dep-advmod.html">advmod</a></tt> (1; 2% instances), <tt><a href="ko_gsd-dep-amod.html">amod</a></tt> (1; 2% instances), <tt><a href="ko_gsd-dep-obj.html">obj</a></tt> (1; 2% instances)
+Children of `DET` nodes are attached using 4 different relations: <tt><a href="ko_gsd-dep-punct.html">punct</a></tt> (15; 68% instances), <tt><a href="ko_gsd-dep-flat.html">flat</a></tt> (5; 23% instances), <tt><a href="ko_gsd-dep-advmod.html">advmod</a></tt> (1; 5% instances), <tt><a href="ko_gsd-dep-amod.html">amod</a></tt> (1; 5% instances)
 
-Children of `DET` nodes belong to 6 different parts of speech: <tt><a href="ko_gsd-pos-PUNCT.html">PUNCT</a></tt> (22; 52% instances), <tt><a href="ko_gsd-pos-NOUN.html">NOUN</a></tt> (13; 31% instances), <tt><a href="ko_gsd-pos-VERB.html">VERB</a></tt> (3; 7% instances), <tt><a href="ko_gsd-pos-ADV.html">ADV</a></tt> (2; 5% instances), <tt><a href="ko_gsd-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="ko_gsd-pos-PROPN.html">PROPN</a></tt> (1; 2% instances)
+Children of `DET` nodes belong to 4 different parts of speech: <tt><a href="ko_gsd-pos-PUNCT.html">PUNCT</a></tt> (15; 68% instances), <tt><a href="ko_gsd-pos-NOUN.html">NOUN</a></tt> (4; 18% instances), <tt><a href="ko_gsd-pos-ADV.html">ADV</a></tt> (2; 9% instances), <tt><a href="ko_gsd-pos-ADJ.html">ADJ</a></tt> (1; 5% instances)
 

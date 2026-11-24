@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: <tt><a href="fa_seraji-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-1 nodes (0%) are attached to their parents as `acl`.
+2 nodes (0%) are attached to their parents as `acl`.
 
-1 instances of `acl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 24.
+2 instances of `acl` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 16.5.
 
-The following 1 pairs of parts of speech are connected with `acl`: <tt><a href="fa_seraji-pos-NUM.html">NUM</a></tt>-<tt><a href="fa_seraji-pos-VERB.html">VERB</a></tt> (1; 100% instances).
+The following 2 pairs of parts of speech are connected with `acl`: <tt><a href="fa_seraji-pos-NUM.html">NUM</a></tt>-<tt><a href="fa_seraji-pos-VERB.html">VERB</a></tt> (1; 50% instances), <tt><a href="fa_seraji-pos-PRON.html">PRON</a></tt>-<tt><a href="fa_seraji-pos-VERB.html">VERB</a></tt> (1; 50% instances).
 
 
 ~~~ conllu
@@ -68,6 +68,44 @@ The following 1 pairs of parts of speech are connected with `acl`: <tt><a href="
 43	در	در	ADP	PREV	_	44	compound:prt	_	LTranslit=dr|Translit=dr
 44	آمد	آمد	VERB	V_PA	Number=Sing|Person=3|Tense=Past	31	ccomp	_	LTranslit=Āmd|OrigLemma=آمد#آ|SpaceAfter=No|Translit=Āmd
 45	.	.	PUNCT	DELM	_	7	punct	_	LTranslit=.|Translit=.
+
+~~~
+
+
+~~~ conllu
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 16 acl	color:blue
+1	نویسندگان	نویسنده	NOUN	N_PL	Number=Plur	26	nsubj	_	LTranslit=nūīsndh|Translit=nūīsndgān
+2	بیانیه	بیانیه	NOUN	N_SING	Number=Sing	1	nmod:poss	_	LTranslit=bīānīh|Translit=bīānīh
+3	با	با	ADP	P	_	4	case	_	LTranslit=bā|Translit=bā
+4	تاسف	تاسف	NOUN	N_SING	Number=Sing	26	obl	_	LTranslit=tāsf|Translit=tāsf
+5	عمیق	عمیق	ADJ	ADJ	Degree=Pos	4	amod	_	LTranslit=ʿmīq|Translit=ʿmīq
+6	از	از	ADP	P	_	7	case	_	LTranslit=āz|Translit=āz
+7	این	این	PRON	PRO	Number=Sing|PronType=Dem	4	nmod	_	LTranslit=āīn|Translit=āīn
+8	که	که	CCONJ	CON	_	7	fixed	_	LTranslit=kh|Translit=kh
+9	دو	دو	NUM	NUM	NumType=Card	10	nummod	_	LTranslit=dū|Translit=dū
+10	تفسیر	تفسیر	NOUN	N_SING	Number=Sing	16	nsubj	_	LTranslit=tfsīr|Translit=tfsīr
+11	غلط	غلط	ADJ	ADJ	Degree=Pos	10	amod	_	LTranslit=ġlṭ|Translit=ġlṭ
+12	از	از	ADP	P	_	14	case	_	LTranslit=āz|Translit=āz
+13	دوم	دوم	ADJ	ADJ	Degree=Pos|NumType=Ord	14	amod	_	LTranslit=dūm|Translit=dūm
+14	خرداد	خرداد	NOUN	N_SING	Number=Sing	10	nmod	_	LTranslit=ḫrdād|Translit=ḫrdād
+15	وجود	وجود	NOUN	N_SING	Number=Sing	16	compound:lvc	_	LTranslit=ūjūd|Translit=ūjūd
+16	دارد	داشت	VERB	V_PRS	Number=Sing|Person=3|Tense=Pres	7	acl	_	LTranslit=dāšt|OrigLemma=داشت#دار|SpaceAfter=No|Translit=dārd
+17	،	،	PUNCT	DELM	_	26	punct	_	LTranslit=,|Translit=,
+18	این	این	DET	DET	_	19	det	_	LTranslit=āīn|Translit=āīn
+19	نعمت	نعمت	NOUN	N_SING	Number=Sing	26	obj	_	LTranslit=nʿmt|Translit=nʿmt
+20	ارزشمند	ارزشمند	ADJ	ADJ	Degree=Pos	19	amod	_	LTranslit=ārzšmnd|Translit=ārzšmnd
+21	را	را	PART	CLITIC	_	19	case	_	LTranslit=rā|Translit=rā
+22	آماج	آماج	NOUN	N_SING	Number=Sing	26	xcomp	_	LTranslit=Āmāj|Translit=Āmāj
+23	حمله	حمله	NOUN	N_SING	Number=Sing	22	nmod:poss	_	LTranslit=ḥmlh|Translit=ḥmlh
+24	و	و	CCONJ	CON	_	25	cc	_	LTranslit=ū|Translit=ū
+25	طعن	طعن	NOUN	N_SING	Number=Sing	23	conj	_	LTranslit=ṭʿn|Translit=ṭʿn
+26	ساخته	ساخت	VERB	V_PP	Number=Sing|Person=3|VerbForm=Part	0	root	_	LTranslit=sāḫt|OrigLemma=ساخت#ساز|Translit=sāḫth
+27	است	است	AUX	V_PRS	Number=Sing|Person=3|Tense=Pres	26	aux	_	LTranslit=āst|SpaceAfter=No|Translit=āst
+28	.	.	PUNCT	DELM	_	26	punct	_	LTranslit=.|Translit=.
 
 ~~~
 

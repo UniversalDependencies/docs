@@ -23,7 +23,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 `ADJ` tokens may have the following values of `Degree`:
 
 * `Cmp` (5; 100% of non-empty `Degree`): <em>буржык</em>
-* `EMPTY` (33): <em>ыджыт, важ, честнӧй, Бöрья, Куимӧдз, бур, быльнӧй, веськытлань, витӧдз, гажаӧсь</em>
+* `EMPTY` (33): <em>ыджыт, важ, сьӧд, сэтшӧм, честнӧй, Бӧрья, Куимӧдз, бур, быльнӧй, веськытлань</em>
 
 ### `NOUN`
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `NOUN` and `Degree` co-occurre
 `NOUN` tokens may have the following values of `Degree`:
 
 * `Dim` (4; 100% of non-empty `Degree`): <em>видзоккез, керкуокыс, пельӧсокӧ, чериок</em>
-* `EMPTY` (250): <em>Петя, айӧ, йӧрсӧ, керку, морт, Машакöт, айся, гортас, дорас, дорын</em>
+* `EMPTY` (250): <em>Петя, айӧ, йӧрсӧ, керку, морт, Машакӧт, айся, гортас, дорас, дорын</em>
 
 ### `ADV`
 
@@ -45,5 +45,5 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 `ADV` tokens may have the following values of `Degree`:
 
 * `Cmp` (1; 100% of non-empty `Degree`): <em>дыржык</em>
-* `EMPTY` (101): <em>кыдз, ни, сэсся, кытӧн, кӧр, сё, талун, чожа, эшӧ, дасöтiсь</em>
+* `EMPTY` (101): <em>кыдз, ни, кӧр, сэсся, кытӧн, сё, талун, татӧн, чожа, эшӧ</em>
 

@@ -25,4 +25,4 @@ Note that Armenian infinitives share properties of both nouns and verbs and are 
 - _գեղեցկություն_/_geġec’kowt’yown_ “beauty”
 - _լող_/_loġ_ “swimming”
 - _վազք_/_vazk’_ “run (the act of running), races”
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:36 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:27 CET -->

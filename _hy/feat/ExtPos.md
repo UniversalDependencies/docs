@@ -83,4 +83,4 @@ Multiword adpositions are often grammaticalized prepositional phrases.
 #### Examples
 
 * _<b>ի վերջո</b>_/_<b>i verǰo</b>_ (a multiword particle paraphrasable as “eventually”; the first node is [ADP]())
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:52 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:41 CET -->

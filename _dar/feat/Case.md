@@ -206,4 +206,4 @@ Orientation cases `Inb` and `Apu` are language-specific.
 * Chechuro, Ilya (2019). Nominal morphology of Mehweb. In Michael Daniel, Nina Dobrushina & Dmitry Ganenkov (eds.), The Mehweb language: Essays on phonology, morphology and syntax, 39–72. Berlin: Language Science Press. DOI:10.5281/zenodo.3402058  
 * Moroz, George (2019). Phonology of Mehweb. In Michael Daniel, Nina Dobrushina & Dmitry Ganenkov (eds.), The Mehweb language: Essays on phonology, morphology and syntax, 17–37. Berlin: Language Science Press. DOI:10.5281/zenodo.3402056  
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:44 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:35 CET -->

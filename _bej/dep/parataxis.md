@@ -13,4 +13,4 @@ t= ʔoːr -ej oː= meːk fidin -i / galeːl -i -n i- di i- ni //
 text_en: "Girl! chase the donkey away!" he said, he said.
 parataxis(di, galeːl ) ("say", "drive_cattle")
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:38 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:39:09 CET -->

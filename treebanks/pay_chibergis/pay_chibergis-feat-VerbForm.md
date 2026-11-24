@@ -23,5 +23,5 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Inf` (1; 100% of non-empty `VerbForm`): <em>artʃuiʃ</em>
-* `EMPTY` (955): <em>tVki, teʔ, tVerwa, tVktaiiwã, nã, nẽ, nãi, artʃuiʃkari, taõʃi, nẽerwa</em>
+* `EMPTY` (956): <em>tVki, teʔ, tVerwa, tVktaiiwã, nã, nẽ, nãi, artʃuiʃkari, taõʃi, nẽerwa</em>
 

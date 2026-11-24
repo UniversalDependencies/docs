@@ -66,7 +66,7 @@ The following 6 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 4	Magazin	Magazin	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	_
 5	nach	nach	ADP	APPR	AdpType=Prep|Case=Dat	7	case	_	_
 6	diesem	dieser	DET	PDAT	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	7	det	_	_
-7	Relaunch	unknown	NOUN	NN	_	8	nmod	_	_
+7	Relaunch	Relaunch	NOUN	NN	_	8	nmod	_	_
 8	haben	haben	AUX	VAINF	VerbForm=Inf	14	csubj:pass	_	_
 9	wird	werden	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
 10	,	,	PUNCT	$,	PunctType=Comm	8	punct	_	_

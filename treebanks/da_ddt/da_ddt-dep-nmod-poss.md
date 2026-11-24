@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Danish-DDT: Relations: `nmod:poss`
 
 This relation is a language-specific subtype of <tt><a href="da_ddt-dep-nmod.html">nmod</a></tt>.
+There are also 1 other language-specific subtypes of `nmod`: <tt><a href="da_ddt-dep-nmod-tmod.html">nmod:tmod</a></tt>.
 
 1030 nodes (1%) are attached to their parents as `nmod:poss`.
 

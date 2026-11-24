@@ -47,7 +47,7 @@ The 10 most frequent ambiguous types:  और (<tt><a href="hi_hdtb-pos-CCONJ.ht
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.066667 (the average of all parts of speech is 1.200484).
+The form / lemma ratio of `CCONJ` is 1.066667 (the average of all parts of speech is 1.200418).
 
 The 1st highest number of forms (2) was observed with the lemma “लिहाजा”: लिहाज़ा, लिहाजा.
 

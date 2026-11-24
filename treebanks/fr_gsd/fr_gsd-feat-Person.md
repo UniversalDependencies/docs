@@ -11,10 +11,10 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="fr_gsd-feat-Person.html">Person</a></tt>, <tt><a href="fr_gsd-feat-Person-psor.html">Person[psor]</a></tt>.
 
-39299 tokens (10%) have a non-empty value of `Person`.
+39300 tokens (10%) have a non-empty value of `Person`.
 3590 types (8%) occur at least once with a non-empty value of `Person`.
 1380 lemmas (4%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (14413; 4% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (13555; 3% instances), <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (11322; 3% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (9; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (14413; 4% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (13555; 3% instances), <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (11323; 3% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (9; 0% instances).
 
 ### `PRON`
 
@@ -76,15 +76,15 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `AUX`
 
-11322 <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> tokens (87% of all `AUX` tokens) have a non-empty value of `Person`.
+11323 <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> tokens (87% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="fr_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (11322; 100%), <tt><a href="fr_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (10962; 97%), <tt><a href="fr_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (9587; 85%), <tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8988; 79%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="fr_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (11323; 100%), <tt><a href="fr_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (10963; 97%), <tt><a href="fr_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (9588; 85%), <tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8989; 79%).
 
 `AUX` tokens may have the following values of `Person`:
 
 * `1` (411; 4% of non-empty `Person`): <em>ai, avons, suis, sommes, avais, avions, étais, étions, serais, aurais</em>
 * `2` (40; 0% of non-empty `Person`): <em>êtes, avez, es, serez, soyez, as, seriez, ayez, fais, sois</em>
-* `3` (10871; 96% of non-empty `Person`): <em>est, a, sont, ont, était, fut, avait, sera, étaient, soit</em>
+* `3` (10872; 96% of non-empty `Person`): <em>est, a, sont, ont, était, fut, avait, sera, étaient, soit</em>
 * `EMPTY` (1759): <em>été, être, avoir, étant, faire, ayant, fait, faisant, Etant, vu</em>
 
 <table>
@@ -122,7 +122,7 @@ The most frequent other feature values with which `ADJ` and `Person` co-occurred
 
 * `2` (1; 11% of non-empty `Person`): <em>tien</em>
 * `3` (8; 89% of non-empty `Person`): <em>sien, leur, sienne, siennes, siens</em>
-* `EMPTY` (23811): <em>premier, première, français, autres, même, française, tous, dernier, grande, grand</em>
+* `EMPTY` (23812): <em>premier, première, français, autres, même, française, tous, dernier, grande, grand</em>
 
 <table>
   <tr><th>Paradigm <i>sien</i></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>

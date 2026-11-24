@@ -9,25 +9,26 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `compound`: <tt><a href="ota_dudu-dep-compound-lvc.html">compound:lvc</a></tt>, <tt><a href="ota_dudu-dep-compound-redup.html">compound:redup</a></tt>.
 
-138 nodes (1%) are attached to their parents as `compound`.
+145 nodes (1%) are attached to their parents as `compound`.
 
-134 instances of `compound` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.05797101449275.
+140 instances of `compound` (97%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.0551724137931.
 
-The following 5 pairs of parts of speech are connected with `compound`: <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (120; 87% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (14; 10% instances), <tt><a href="ota_dudu-pos-NUM.html">NUM</a></tt>-<tt><a href="ota_dudu-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt>-<tt><a href="ota_dudu-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `compound`: <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (126; 87% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (14; 10% instances), <tt><a href="ota_dudu-pos-NUM.html">NUM</a></tt>-<tt><a href="ota_dudu-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt>-<tt><a href="ota_dudu-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 compound	color:blue
-1	gelip	gel	VERB	Conv	Polarity=Pos|VerbForm=Conv	4	advcl	_	_
-2	melik	melik	NOUN	_	Case=Nom|Number=Sing|Person=3	3	nmod	_	_
-3	züheyre	züheyr	PROPN	Pers	Case=Dat|Gender=Masc|NameType=Prs|Number=Sing|Person=3	4	obl	_	_
-4	ḫaber	ḫaber	NOUN	_	Case=Nom|Number=Sing|Person=3	0	root	_	_
-5	virdiler	vir	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	4	compound	_	_
+# visual-style 5 6 compound	color:blue
+1	hemān	hemān	ADV	_	_	3	advmod	_	_
+2	ṭaşra	ṭaşra	NOUN	_	Case=Nom|Number=Sing|Person=3	3	obl	_	_
+3	çıḳdum	çıḳ	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	_	_
+4	içerü	içerü	NOUN	_	Case=Nom|Number=Sing|Person=3	5	obl	_	_
+5	ḳulaḳ	ḳulaḳ	NOUN	_	Case=Nom|Number=Sing|Person=3	3	conj	_	_
+6	urdum	ur	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Past|VerbForm=Fin	5	compound	_	_
 
 ~~~
 

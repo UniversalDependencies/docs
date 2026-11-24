@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Erzya-JR: Features: `Mood`
 
-This feature is universal but the values `CndSub`, `Prec` are language-specific.
-It occurs with 9 different values: `Cnd`, `CndSub`, `Des`, `Imp`, `Ind`, `Nec`, `Opt`, `Prec`, `Sub`.
+This feature is universal but the values `Prec` are language-specific.
+It occurs with 7 different values: `Cnd`, `Des`, `Imp`, `Ind`, `Nec`, `Opt`, `Prec`.
 
 3013 tokens (14%) have a non-empty value of `Mood`.
 1790 types (27%) occur at least once with a non-empty value of `Mood`.
@@ -22,29 +22,28 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 `VERB` tokens may have the following values of `Mood`:
 
-* `Cnd` (11; 0% of non-empty `Mood`): <em>Касындеряй, Кундындеринек, Прындеряй, вастындерясак, каявиндеряй, кулындеряй, лисятдеряй, неявтдеряй, сюкониндерят, ёвтатдеряй</em>
-* `CndSub` (4; 0% of non-empty `Mood`): <em>Кортындерявлить, Мериндеряволь, лисиндеряволь, максовольтьдеряй</em>
+* `Cnd` (49; 2% of non-empty `Mood`): <em>Молевлить, Кармавлить, Кортаволь, Кортындерявлить, Мериндеряволь, Содавлиньгак, аштевлить, вейсэндявольть, видевлинь, каванявлик</em>
 * `Des` (15; 1% of non-empty `Mood`): <em>лисиксэль, Рамиксэлинек, Туиксэлинь, аравтыксылидизь, валыксэлизь, васькавтыксэлизе, кадыксэлизь, кевкстиксэль, кирнявтыксэль, кортыксэль</em>
 * `Imp` (137; 5% of non-empty `Mood`): <em>вант, адя, азё, ардодо, ванодо, кирдть, панть, учок, Ёвтак, Вечкик</em>
-* `Ind` (2354; 90% of non-empty `Mood`): <em>мерсь, лиссь, мольсь, ютась, ашти, маряви, неяви, совась, лоткась, саизе</em>
+* `Ind` (2365; 91% of non-empty `Mood`): <em>мерсь, лиссь, мольсь, ютась, ашти, маряви, неяви, совась, лоткась, саизе</em>
 * `Nec` (8; 0% of non-empty `Mood`): <em>лисема, важодема, карама, самаль, тапама, тейнема, уема</em>
 * `Opt` (18; 1% of non-empty `Mood`): <em>виезэ, гайгезэ, кандост, ливтест, лоподезэ, лоткаст, маряст, молезэ, налксезэ, пейдезэ</em>
 * `Prec` (14; 1% of non-empty `Mood`): <em>аштека, Ванодоя, Варштыка, Листяя, Лоткадоя, Макста, Невтика, Панжика, адяка, ваныка</em>
-* `Sub` (45; 2% of non-empty `Mood`): <em>Молевлить, Кармавлить, Кортаволь, Содавлиньгак, аштевлить, вейсэндявольть, видевлинь, каванявлик, казевлинь, кандоволь</em>
 * `EMPTY` (1155): <em>теемс, молемс, кортамо, учо, оймсеме, тееме, чиезь, ютазь, пелезь, сёрмадомо</em>
 
 <table>
-  <tr><th>Paradigm <i>лисемс</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th><th><tt>Sub</tt></th><th><tt>Des</tt></th><th><tt>Nec</tt></th><th><tt>CndSub</tt></th><th><tt>Prec</tt></th></tr>
-  <tr><td><tt><tt><a href="myv_jr-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt>|<tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>лисиль</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=2</tt></tt></td><td><em>лиседе</em></td><td><em>Лиседе</em></td><td></td><td><em>лисевлиде</em></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>лиссть</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>лисить</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=2</tt>|<tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>лисятдеряй</em></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=2</tt></tt></td><td></td><td><em>листь</em></td><td></td><td></td><td></td><td></td><td></td><td><em>Листяя</em></td></tr>
-  <tr><td><tt><tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>лиссь</em></td><td></td><td></td><td></td><td><em>лисиксэль</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>лиси</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt></tt></td><td></td><td></td><td></td><td><em>лисевель</em></td><td></td><td></td><td><em>лисиндеряволь</em></td><td></td></tr>
-  <tr><td><tt></tt></td><td></td><td></td><td></td><td></td><td></td><td><em>лисема</em></td><td></td><td></td></tr>
+  <tr><th>Paradigm <i>лисемс</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th><th><tt>Des</tt></th><th><tt>Nec</tt></th><th><tt>Prec</tt></th></tr>
+  <tr><td><tt><tt><a href="myv_jr-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt>|<tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>лисиль</em></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="myv_jr-feat-ConjType.html">ConjType</a></tt><tt>=Cnd</tt>|<tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=2</tt>|<tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>лисятдеряй</em></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="myv_jr-feat-ConjType.html">ConjType</a></tt><tt>=Cnd</tt>|<tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt></tt></td><td></td><td></td><td><em>лисиндеряволь</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=2</tt></tt></td><td><em>лиседе</em></td><td><em>Лиседе</em></td><td><em>лисевлиде</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>лиссть</em></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>лисить</em></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=2</tt></tt></td><td></td><td><em>листь</em></td><td></td><td></td><td></td><td><em>Листяя</em></td></tr>
+  <tr><td><tt><tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>лиссь</em></td><td></td><td></td><td><em>лисиксэль</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>лиси</em></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt></tt></td><td></td><td></td><td><em>лисевель</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt></tt></td><td></td><td></td><td></td><td></td><td><em>лисема</em></td><td></td></tr>
 </table>
 
 ### `AUX`
@@ -55,16 +54,15 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 
 `AUX` tokens may have the following values of `Mood`:
 
-* `Cnd` (17; 4% of non-empty `Mood`): <em>бу, Карминдерят, Эрявиндеряй, кармитьдеряй</em>
+* `Cnd` (36; 9% of non-empty `Mood`): <em>бу, аволь, улевель, аволинь, аволить, аволизе, аволинек, кармавлинь, улевельть, эряволь</em>
 * `Des` (1; 0% of non-empty `Mood`): <em>Кармиксэль</em>
 * `Imp` (42; 10% of non-empty `Mood`): <em>иля, кадык, илядо, давайте, Илять, Уледе, давай</em>
-* `Ind` (304; 75% of non-empty `Mood`): <em>эзь, кармась, ульнесь, кармасть, эряви, ули, карми, кармить, ульнесть, савсь</em>
+* `Ind` (307; 75% of non-empty `Mood`): <em>эзь, кармась, ульнесь, кармасть, эряви, ули, карми, кармить, ульнесть, савсь</em>
 * `Opt` (21; 5% of non-empty `Mood`): <em>Кадык, илязо, улезэ, иляст, улест, илязт, улезт</em>
-* `Sub` (22; 5% of non-empty `Mood`): <em>аволь, улевель, аволинь, аволить, аволизе, аволинек, кармавлинь, улевельть, эряволь</em>
 * `EMPTY` (384): <em>а, аволь, апак, эзь, эзть, карма, уле, улеме, улемс, эссе</em>
 
 <table>
-  <tr><th>Paradigm <i>а</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th><th><tt>Opt</tt></th></tr>
+  <tr><th>Paradigm <i>а</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th><th><tt>Opt</tt></th></tr>
   <tr><td><tt><tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=Plur</tt>|<tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="myv_jr-feat-VerbType.html">VerbType</a></tt><tt>=Aux</tt></tt></td><td><em>эзизь</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=Plur</tt>|<tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=2</tt>|<tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="myv_jr-feat-VerbType.html">VerbType</a></tt><tt>=Aux</tt></tt></td><td></td><td><em>Илять</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=Plur</tt>|<tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>эзинзе</em></td><td></td><td></td><td></td></tr>
@@ -103,7 +101,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> VERB</tt> (574; 77%),
+<tt>VERB --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> VERB</tt> (575; 77%),
 <tt>VERB --[<tt><a href="myv_jr-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (65; 52%),
 <tt>VERB --[<tt><a href="myv_jr-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (46; 55%),
 <tt>VERB --[<tt><a href="myv_jr-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (7; 64%),

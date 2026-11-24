@@ -77,7 +77,7 @@ The following 11 pairs of parts of speech are connected with `fixed`: <tt><a hre
 7	essentia	essentia	NOUN	A1|grn1|casA|gen2|vgr1	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	6	nsubj:pass	_	SpaceAfter=No
 8	,	,	PUNCT	Punc	_	9	punct	_	_
 9	ut	ut	SCONJ	O4|vgr1	ExtPos=ADV|PronType=Rel	12	mark	_	_
-10	puta	puta	ADV	J3|modC|tem1|gen5	VerbForm=Fin	9	fixed	_	SpaceAfter=No
+10	puta	puta	ADV	J3|modC|tem1|gen5	_	9	fixed	_	SpaceAfter=No
 11	,	,	PUNCT	Punc	_	9	punct	_	_
 12	humanitas	humanitas	NOUN	C1|grn1|casA|gen2	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Sing	7	nmod	_	SpaceAfter=No
 13	.	.	PUNCT	Punc	_	6	punct	_	_

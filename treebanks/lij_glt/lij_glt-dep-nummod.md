@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-19 nodes (0%) are attached to their parents as `nummod`.
+20 nodes (0%) are attached to their parents as `nummod`.
 
-18 instances of `nummod` (95%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.05263157894737.
+18 instances of `nummod` (90%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.05.
 
-The following 2 pairs of parts of speech are connected with `nummod`: <tt><a href="lij_glt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lij_glt-pos-NUM.html">NUM</a></tt> (18; 95% instances), <tt><a href="lij_glt-pos-X.html">X</a></tt>-<tt><a href="lij_glt-pos-NUM.html">NUM</a></tt> (1; 5% instances).
+The following 2 pairs of parts of speech are connected with `nummod`: <tt><a href="lij_glt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lij_glt-pos-NUM.html">NUM</a></tt> (19; 95% instances), <tt><a href="lij_glt-pos-X.html">X</a></tt>-<tt><a href="lij_glt-pos-NUM.html">NUM</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
@@ -51,7 +51,7 @@ The following 2 pairs of parts of speech are connected with `nummod`: <tt><a hre
 5	à	à	ADP	_	_	8	case	_	_
 6	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 7	mæ	mæ	DET	_	Poss=Yes|PronType=Prs	8	det	_	_
-8	patron	patron	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+8	patron	patron	NOUN	_	Gender=Masc|Number=Sing	4	obl:arg	_	_
 9	trenta	trenta	NUM	_	NumType=Card	10	nummod	_	_
 10	maravedís	maravedís	X	_	Foreign=Yes	4	obj	_	_
 11	de	de	ADP	_	_	12	case	_	_
@@ -59,22 +59,22 @@ The following 2 pairs of parts of speech are connected with `nummod`: <tt><a hre
 13	;	;	PUNCT	_	_	18	punct	_	_
 14	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 15	resto	resto	NOUN	_	Gender=Masc|Number=Sing	18	dislocated	_	_
-16	m'	me	PRON	_	Number=Sing|Person=1|PronType=Prs	18	expl:pv	_	SpaceAfter=No
+16	m'	me	PRON	_	Number=Sing|Person=1|PronType=Prs	18	iobj	_	SpaceAfter=No
 17	ô	ô	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	obj	_	_
 18	tegniva	tegnî	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	4	parataxis	_	_
 19	pe	pe	ADP	_	_	20	case	_	_
 20	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	18	obl	_	SpaceAfter=No
 21	,	,	PUNCT	_	_	24	punct	_	_
-22	insemme	insemme	ADV	_	_	24	case	_	MWEPOS=ADP
+22	insemme	insemme	ADV	_	ExtPos=ADP	24	case	_	_
 23	à	à	ADP	_	_	22	fixed	_	_
-24	quante	quante	PRON	_	PronType=Rel	18	obj	_	_
-25	arriesciva	arriescî	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	24	acl	_	_
+24	quante	quante	PRON	_	PronType=Rel	18	obl	_	_
+25	arriesciva	arriescî	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	24	acl:relcl	_	_
 26	à	à	ADP	_	_	27	mark	_	_
 27	arrecampâ	arrecampâ	VERB	_	Tense=Pres|VerbForm=Inf	25	xcomp	_	_
 28	à	à	ADP	_	_	30	case	_	_
 29	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	_	_
 30	sabbo	sabbo	NOUN	_	Gender=Masc|Number=Sing	27	obl	_	_
-31	graçie	graçie	ADV	_	_	35	advmod	_	_
+31	graçie	graçie	NOUN	_	ExtPos=ADP	35	case	_	_
 32	à	à	ADP	_	_	31	fixed	_	_
 33	quello	quello	DET	_	Gender=Masc|Number=Sing|PronType=Dem	35	det	_	_
 34	mæximo	mæximo	ADJ	_	Gender=Masc|Number=Sing	35	amod	_	_

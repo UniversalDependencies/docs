@@ -45,11 +45,17 @@ The 1st highest number of forms (8) was observed with the lemma “_”: 其中,
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 3 different relations: <tt><a href="zh_patentchar-dep-cc.html">cc</a></tt> (6; 60% instances), <tt><a href="zh_patentchar-dep-mark.html">mark</a></tt> (3; 30% instances), <tt><a href="zh_patentchar-dep-dep.html">dep</a></tt> (1; 10% instances)
+`SCONJ` nodes are attached to their parents using 3 different relations: <tt><a href="zh_patentchar-dep-cc.html">cc</a></tt> (6; 60% instances), <tt><a href="zh_patentchar-dep-dep.html">dep</a></tt> (2; 20% instances), <tt><a href="zh_patentchar-dep-mark.html">mark</a></tt> (2; 20% instances)
 
 Parents of `SCONJ` nodes belong to 2 different parts of speech: <tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt> (9; 90% instances), <tt><a href="zh_patentchar-pos-ADJ.html">ADJ</a></tt> (1; 10% instances)
 
-10 (100%) `SCONJ` nodes are leaves.
+9 (90%) `SCONJ` nodes are leaves.
 
-The highest child degree of a `SCONJ` node is 0.
+1 (10%) `SCONJ` nodes have one child.
+
+The highest child degree of a `SCONJ` node is 1.
+
+Children of `SCONJ` nodes are attached using 1 different relations: <tt><a href="zh_patentchar-dep-obl-arg.html">obl:arg</a></tt> (1; 100% instances)
+
+Children of `SCONJ` nodes belong to 1 different parts of speech: <tt><a href="zh_patentchar-pos-ADJ.html">ADJ</a></tt> (1; 100% instances)
 

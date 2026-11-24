@@ -54,4 +54,4 @@ The imperfective marks an unbounded process or state, seen from the point of vie
 
 Coming soon.
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:43 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:34 CET -->

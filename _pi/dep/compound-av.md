@@ -13,3 +13,4 @@ yathā- kamma \n according-to action
 compound:av(kamma, yathā-)
 compound:av(action, according-to)
 ~~~
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:30 CET -->

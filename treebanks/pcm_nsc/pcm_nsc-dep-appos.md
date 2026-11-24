@@ -22,22 +22,22 @@ The following 27 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 10 appos	color:blue
-1	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	expl:subj	_	AlignBegin=322483|AlignEnd=322540|Gloss=NOM.SG.3
-2	get	get	VERB	_	_	0	root	_	AlignBegin=322540|AlignEnd=322740|Gloss=get
-3	{	{	PUNCT	_	_	6	punct	_	AlignBegin=322740|AlignEnd=322740|Gloss=PUNCT
-4	some	some	DET	_	_	6	det	_	AlignBegin=322740|AlignEnd=322860|Gloss=some
-5	kind	kind	ADJ	_	_	6	amod	_	AlignBegin=322860|AlignEnd=323170|Gloss=kind
-6	incantation	incantation	NOUN	_	_	2	nsubj	_	AlignBegin=323170|AlignEnd=324010|Gloss=incantation
-7	|a	|a	PUNCT	_	_	10	punct	_	AlignBegin=324010|AlignEnd=324010|Gloss=PUNCT
-8	some	some	DET	_	_	10	det	_	AlignBegin=324010|AlignEnd=324120|Gloss=some
-9	kind	kind	ADJ	_	_	10	amod	_	AlignBegin=324120|AlignEnd=324380|Gloss=kind
-10	ting	ting	NOUN	_	_	6	appos	_	AlignBegin=324380|AlignEnd=324728|Gloss=thing
-11	}	}	PUNCT	_	_	10	punct	_	AlignBegin=324728|AlignEnd=324728|Gloss=PUNCT
-12	wey	wey	SCONJ	_	_	15	mark	_	AlignBegin=324728|AlignEnd=324830|Gloss=REL
-13	de	dem	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	15	nsubj	_	AlignBegin=324830|AlignEnd=325000|Gloss=NOM.PL.3
-14	go	go	AUX	_	Aspect=Prosp	15	aux	_	AlignBegin=325000|AlignEnd=325200|Gloss=PROSP
-15	do	do	VERB	_	_	10	acl:relcl	_	AlignBegin=325200|AlignEnd=325560|Gloss=do
-16	//	//	PUNCT	_	_	2	punct	_	AlignBegin=325560|AlignEnd=325560|Gloss=PUNCT
+1	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	expl:subj	_	Gloss=NOM.SG.3|WordAlignmentBegin=322483|WordAlignmentEnd=322540
+2	get	get	VERB	_	_	0	root	_	Gloss=get|WordAlignmentBegin=322540|WordAlignmentEnd=322740
+3	{	{	PUNCT	_	_	6	punct	_	Gloss=PUNCT|WordAlignmentBegin=322740|WordAlignmentEnd=322740
+4	some	some	DET	_	_	6	det	_	Gloss=some|WordAlignmentBegin=322740|WordAlignmentEnd=322860
+5	kind	kind	ADJ	_	_	6	amod	_	Gloss=kind|WordAlignmentBegin=322860|WordAlignmentEnd=323170
+6	incantation	incantation	NOUN	_	_	2	nsubj	_	Gloss=incantation|WordAlignmentBegin=323170|WordAlignmentEnd=324010
+7	|a	|a	PUNCT	_	_	10	punct	_	Gloss=PUNCT|WordAlignmentBegin=324010|WordAlignmentEnd=324010
+8	some	some	DET	_	_	10	det	_	Gloss=some|WordAlignmentBegin=324010|WordAlignmentEnd=324120
+9	kind	kind	ADJ	_	_	10	amod	_	Gloss=kind|WordAlignmentBegin=324120|WordAlignmentEnd=324380
+10	ting	ting	NOUN	_	_	6	appos	_	Gloss=thing|WordAlignmentBegin=324380|WordAlignmentEnd=324728
+11	}	}	PUNCT	_	_	10	punct	_	Gloss=PUNCT|WordAlignmentBegin=324728|WordAlignmentEnd=324728
+12	wey	wey	SCONJ	_	_	15	mark	_	Gloss=REL|WordAlignmentBegin=324728|WordAlignmentEnd=324830
+13	de	dem	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	15	nsubj	_	Gloss=NOM.PL.3|WordAlignmentBegin=324830|WordAlignmentEnd=325000
+14	go	go	AUX	_	Aspect=Prosp	15	aux	_	Gloss=PROSP|WordAlignmentBegin=325000|WordAlignmentEnd=325200
+15	do	do	VERB	_	_	10	acl:relcl	_	Gloss=do|WordAlignmentBegin=325200|WordAlignmentEnd=325560
+16	//	//	PUNCT	_	_	2	punct	_	Gloss=PUNCT|WordAlignmentBegin=325560|WordAlignmentEnd=325560
 
 ~~~
 
@@ -48,20 +48,20 @@ The following 27 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 11 appos	color:blue
-1	#	#	PUNCT	_	_	9	punct	_	AlignBegin=167560|AlignEnd=168740|Gloss=PUNCT
-2	for	for	ADP	_	_	3	case	_	AlignBegin=168740|AlignEnd=168990|Gloss=for
-3	jolijoli	jolijoli	NOUN	_	_	9	nmod	_	AlignBegin=168990|AlignEnd=169672|Gloss=enjoyment
-4	<	<	PUNCT	_	_	3	punct	_	AlignBegin=169672|AlignEnd=169672|Gloss=PUNCT
-5	#	#	PUNCT	_	_	3	punct	_	AlignBegin=169672|AlignEnd=169837|Gloss=PUNCT
-6	{	{	PUNCT	_	_	9	punct	_	AlignBegin=169672|AlignEnd=169837|Gloss=PUNCT
-7	we	we	PRON	_	Number=Plur|Person=1|Poss=Yes	9	nmod:poss	_	AlignBegin=169837|AlignEnd=170010|Gloss=PL.1.POSS
-8	Naija	Naija	PROPN	_	_	9	nmod	_	AlignBegin=170010|AlignEnd=170438|Gloss=Naija
-9	rapper	rapper	NOUN	_	_	0	root	_	AlignBegin=170438|AlignEnd=170900|Gloss=rapper
-10	|a	|a	PUNCT	_	_	11	punct	_	AlignBegin=170900|AlignEnd=171290|Gloss=PUNCT
-11	Eva	Eva	PROPN	_	_	9	appos	_	AlignBegin=170900|AlignEnd=171290|Gloss=Eva
-12	Allordiah	Allordiah	PROPN	_	_	11	flat	_	AlignBegin=171290|AlignEnd=171800|Gloss=Allordiah
-13	}	}	PUNCT	_	_	9	punct	_	AlignBegin=171800|AlignEnd=171800|Gloss=PUNCT
-14	//	//	PUNCT	_	_	9	punct	_	AlignBegin=171770|AlignEnd=171800|Gloss=PUNCT
+1	#	#	PUNCT	_	_	9	punct	_	Gloss=PUNCT|WordAlignmentBegin=167560|WordAlignmentEnd=168740
+2	for	for	ADP	_	_	3	case	_	Gloss=for|WordAlignmentBegin=168740|WordAlignmentEnd=168990
+3	jolijoli	jolijoli	NOUN	_	_	9	nmod	_	Gloss=enjoyment|WordAlignmentBegin=168990|WordAlignmentEnd=169672
+4	<	<	PUNCT	_	_	3	punct	_	Gloss=PUNCT|WordAlignmentBegin=169672|WordAlignmentEnd=169672
+5	#	#	PUNCT	_	_	3	punct	_	Gloss=PUNCT|WordAlignmentBegin=169672|WordAlignmentEnd=169837
+6	{	{	PUNCT	_	_	9	punct	_	Gloss=PUNCT|WordAlignmentBegin=169672|WordAlignmentEnd=169837
+7	we	we	PRON	_	Number=Plur|Person=1|Poss=Yes	9	nmod:poss	_	Gloss=PL.1.POSS|WordAlignmentBegin=169837|WordAlignmentEnd=170010
+8	Naija	Naija	PROPN	_	_	9	nmod	_	Gloss=Naija|WordAlignmentBegin=170010|WordAlignmentEnd=170438
+9	rapper	rapper	NOUN	_	_	0	root	_	Gloss=rapper|WordAlignmentBegin=170438|WordAlignmentEnd=170900
+10	|a	|a	PUNCT	_	_	11	punct	_	Gloss=PUNCT|WordAlignmentBegin=170900|WordAlignmentEnd=171290
+11	Eva	Eva	PROPN	_	_	9	appos	_	Gloss=Eva|WordAlignmentBegin=170900|WordAlignmentEnd=171290
+12	Allordiah	Allordiah	PROPN	_	_	11	flat	_	Gloss=Allordiah|WordAlignmentBegin=171290|WordAlignmentEnd=171800
+13	}	}	PUNCT	_	_	9	punct	_	Gloss=PUNCT|WordAlignmentBegin=171800|WordAlignmentEnd=171800
+14	//	//	PUNCT	_	_	9	punct	_	Gloss=PUNCT|WordAlignmentBegin=171770|WordAlignmentEnd=171800
 
 ~~~
 
@@ -72,17 +72,17 @@ The following 27 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 appos	color:blue
-1	#	#	PUNCT	_	_	4	punct	_	AlignBegin=300040|AlignEnd=300520|Gloss=PUNCT
-2	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	AlignBegin=300520|AlignEnd=300716|Gloss=NOM.2
-3	guy	guy	NOUN	_	_	2	appos	_	AlignBegin=300716|AlignEnd=301070|Gloss=guy
-4	chop	chop	VERB	_	_	0	root	_	AlignBegin=301070|AlignEnd=301331|Gloss=eat
-5	{	{	PUNCT	_	_	7	punct	_	AlignBegin=301331|AlignEnd=301331|Gloss=PUNCT
-6	di	di	DET	_	Definite=Def|PronType=Art	7	det	_	AlignBegin=301331|AlignEnd=301571|Gloss=DEF.ART
-7	bone	bone	NOUN	_	_	4	parataxis	_	AlignBegin=301571|AlignEnd=301851|Gloss=bone
-8	|a	|a	PUNCT	_	_	9	punct	_	AlignBegin=301851|AlignEnd=301851|Gloss=PUNCT
-9	everyting	everyting	PRON	_	_	7	appos	_	AlignBegin=301851|AlignEnd=302620|Gloss=everything
-10	}	}	PUNCT	_	_	7	punct	_	AlignBegin=302620|AlignEnd=302620|Gloss=PUNCT
-11	//	//	PUNCT	_	_	4	punct	_	AlignBegin=302620|AlignEnd=302620|Gloss=PUNCT
+1	#	#	PUNCT	_	_	4	punct	_	Gloss=PUNCT|WordAlignmentBegin=300040|WordAlignmentEnd=300520
+2	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	Gloss=NOM.2|WordAlignmentBegin=300520|WordAlignmentEnd=300716
+3	guy	guy	NOUN	_	_	2	appos	_	Gloss=guy|WordAlignmentBegin=300716|WordAlignmentEnd=301070
+4	chop	chop	VERB	_	_	0	root	_	Gloss=eat|WordAlignmentBegin=301070|WordAlignmentEnd=301331
+5	{	{	PUNCT	_	_	7	punct	_	Gloss=PUNCT|WordAlignmentBegin=301331|WordAlignmentEnd=301331
+6	di	di	DET	_	Definite=Def|PronType=Art	7	det	_	Gloss=DEF.ART|WordAlignmentBegin=301331|WordAlignmentEnd=301571
+7	bone	bone	NOUN	_	_	4	parataxis	_	Gloss=bone|WordAlignmentBegin=301571|WordAlignmentEnd=301851
+8	|a	|a	PUNCT	_	_	9	punct	_	Gloss=PUNCT|WordAlignmentBegin=301851|WordAlignmentEnd=301851
+9	everyting	everyting	PRON	_	_	7	appos	_	Gloss=everything|WordAlignmentBegin=301851|WordAlignmentEnd=302620
+10	}	}	PUNCT	_	_	7	punct	_	Gloss=PUNCT|WordAlignmentBegin=302620|WordAlignmentEnd=302620
+11	//	//	PUNCT	_	_	4	punct	_	Gloss=PUNCT|WordAlignmentBegin=302620|WordAlignmentEnd=302620
 
 ~~~
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-5590 nodes (1%) are attached to their parents as `cop`.
+5605 nodes (1%) are attached to their parents as `cop`.
 
-5185 instances of `cop` (93%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.84991055456172.
+5203 instances of `cop` (93%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.85191793041927.
 
-The following 12 pairs of parts of speech are connected with `cop`: <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (3267; 58% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (1770; 32% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (336; 6% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (87; 2% instances), <tt><a href="es_gsd-pos-DET.html">DET</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (38; 1% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (30; 1% instances), <tt><a href="es_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (17; 0% instances), <tt><a href="es_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (15; 0% instances), <tt><a href="es_gsd-pos-X.html">X</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (14; 0% instances), <tt><a href="es_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (13; 0% instances), <tt><a href="es_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="es_gsd-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `cop`: <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (3253; 58% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (1797; 32% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (338; 6% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (88; 2% instances), <tt><a href="es_gsd-pos-DET.html">DET</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (38; 1% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (30; 1% instances), <tt><a href="es_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (17; 0% instances), <tt><a href="es_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (14; 0% instances), <tt><a href="es_gsd-pos-X.html">X</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (14; 0% instances), <tt><a href="es_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (13; 0% instances), <tt><a href="es_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="es_gsd-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -53,9 +53,9 @@ The following 12 pairs of parts of speech are connected with `cop`: <tt><a href=
 # visual-style 1	fgColor:white
 # visual-style 1 6 cop	color:blue
 1	Lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	0	root	_	_
-2	que	que	SCONJ	_	_	3	mark	_	_
-3	tenéis	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
-4	que	que	CCONJ	_	_	5	mark	_	_
+2	que	que	PRON	_	PronType=Rel	3	obj	_	_
+3	tenéis	tener	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+4	que	que	SCONJ	_	_	5	mark	_	_
 5	hacer	hacer	VERB	_	VerbForm=Inf	3	xcomp	_	_
 6	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
 7	pagar	pagar	VERB	_	VerbForm=Inf	1	csubj	_	_

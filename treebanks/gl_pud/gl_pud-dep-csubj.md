@@ -71,13 +71,13 @@ The following 8 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 3	fgColor:white
 # visual-style 3 5 csubj	color:blue
 1	O	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-2	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	3	det	_	_
+2	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	det	_	_
 3	soño	soño	NOUN	NCMS000	Gender=Masc|Number=Sing	0	root	_	_
 4	é	ser	AUX	VSIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	cop	_	_
 5	terminar	terminar	VERB	VMN0000	VerbForm=Inf	3	csubj	_	_
 6	aquí	aquí	ADV	RG	_	5	advmod	_	_
 7	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
-8	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	9	det	_	_
+8	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	det	_	_
 9	carreira	carreira	NOUN	NCFS000	Gender=Fem|Number=Sing	5	obj	_	_
 10	profesional	profesional	ADJ	AQ0CS	_	9	amod	_	SpaceAfter=No
 11	.	.	PUNCT	Fp	_	3	punct	_	_

@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="yo_ytb-dep-compound.html">compound</a></tt>.
 There are also 1 other language-specific subtypes of `compound`: <tt><a href="yo_ytb-dep-compound-prt.html">compound:prt</a></tt>.
 
-218 nodes (3%) are attached to their parents as `compound:svc`.
+220 nodes (3%) are attached to their parents as `compound:svc`.
 
-206 instances of `compound:svc` (94%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.40825688073395.
+208 instances of `compound:svc` (95%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.37727272727273.
 
-The following 12 pairs of parts of speech are connected with `compound:svc`: <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (184; 84% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (14; 6% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (5; 2% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (4; 2% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-DET.html">DET</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `compound:svc`: <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (187; 85% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (14; 6% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (5; 2% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (4; 2% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-DET.html">DET</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,10 +23,10 @@ The following 12 pairs of parts of speech are connected with `compound:svc`: <tt
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 compound:svc	color:blue
-1	Òun	Òun	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=he|Ref=JOHN_10.13
+1	Òun	òun	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=he|Ref=JOHN_10.13
 2	sá	sá	VERB	_	_	0	root	_	Gloss=fled|Ref=JOHN_10.13
 3	lọ	lọ	VERB	_	_	2	compound:svc	_	Gloss=go|Ref=JOHN_10.13
-4	nítorí	nítorí	SCONJ	_	_	8	mark	_	Gloss=because|Ref=JOHN_10.13
+4	nítorí	nítorí	SCONJ	_	ExtPos=SCONJ	8	mark	_	Gloss=because|Ref=JOHN_10.13
 5	tí	tí	PRON	_	PronType=Rel	4	fixed	_	Gloss=that|Ref=JOHN_10.13
 6	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	Gloss=he|Ref=JOHN_10.13
 7	jẹ́	jẹ́	AUX	_	_	8	cop	_	Gloss=be|Ref=JOHN_10.13
@@ -79,7 +79,7 @@ The following 12 pairs of parts of speech are connected with `compound:svc`: <tt
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 compound:svc	color:blue
-1	Nígbà	nígbà	ADV	_	_	4	advmod	_	Gloss=when|Ref=MATT_5.1
+1	Nígbà	nígbà	ADV	_	ExtPos=ADV	4	advmod	_	Gloss=when|Ref=MATT_5.1
 2	tí	tí	PRON	_	PronType=Rel	1	fixed	_	Gloss=|Ref=MATT_5.1
 3	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Gloss=he|Ref=MATT_5.1
 4	rí	rí	VERB	_	_	0	root	_	Gloss=saw|Ref=MATT_5.1
@@ -95,7 +95,7 @@ The following 12 pairs of parts of speech are connected with `compound:svc`: <tt
 14	sì	sì	CCONJ	_	_	15	cc	_	Gloss=and|Ref=MATT_5.1
 15	jókòó	jókòó	VERB	_	_	12	conj	_	Gloss=sat|Ref=MATT_5.1|SpaceAfter=No
 16	.	.	PUNCT	_	_	23	punct	_	Gloss=.|Ref=MATT_5.1
-17	Àwọn	àwọn	DET	_	_	18	det	_	Gloss=the|Ref=MATT_5.1
+17	Àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	18	det	_	Gloss=the|Ref=MATT_5.1
 18	ọmọ	ọmọ	NOUN	_	_	25	nsubj	_	Gloss=son|Ref=MATT_5.1|SpaceAfter=No
 19	-	-	PUNCT	_	_	20	punct	_	Ref=MATT_5.1|SpaceAfter=No
 20	ẹ̀yìn	ẹ̀yìn	NOUN	_	_	18	compound	_	Ref=MATT_5.1

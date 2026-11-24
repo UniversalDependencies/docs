@@ -47,7 +47,7 @@ The following 21 pairs of parts of speech are connected with `flat`: <tt><a href
 5	zakončil	zakončit	VERB	VpYS---XR-AA---	Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
 6	studium	studium	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing	5	obj	5:obj	_
 7	a	a	CCONJ	J^-------------	_	8	cc	8:cc	LId=a-1
-8	obdržel	obdržet	VERB	VpYS---XR-AA---	Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	5	conj	0:root|5:conj	_
+8	obdržel	obdržet	VERB	VpYS---XR-AA---	Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	5	conj	0:root|5:conj	_
 9	titul	titul	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	obj	8:obj	_
 10	M	M	NOUN	NNXXX-----A---8	Abbr=Yes	9	nmod	9:nmod	SpaceAfter=No|LId=M-0
 11	.	.	PUNCT	Z:-------------	_	10	punct	10:punct	SpaceAfter=No

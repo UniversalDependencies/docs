@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_French-Sequoia: POS Tags: `PROPN`
 
-There are 1079 `PROPN` lemmas (15%), 1086 `PROPN` types (11%) and 3250 `PROPN` tokens (5%).
+There are 1079 `PROPN` lemmas (15%), 1086 `PROPN` types (11%) and 3251 `PROPN` tokens (5%).
 Out of 16 observed tags, the rank of `PROPN` is: 2 in number of lemmas, 4 in number of types and 7 in number of tokens.
 
 The 10 most frequent `PROPN` lemmas: <em>Aclasta, Angiox, Paris, Jacques, France, RPR, Chirac, Taïwan, Michel, Paget</em>
 
 The 10 most frequent `PROPN` types:  <em>Aclasta, Angiox, paris, Jacques, France, RPR, Chirac, Taïwan, Michel, Paget</em>
 
-The 10 most frequent ambiguous lemmas: <em>Loudun</em> (<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> 10, <tt><a href="fr_sequoia-pos-X.html">X</a></tt> 2), <em>Reuters</em> (<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> 10, <tt><a href="fr_sequoia-pos-X.html">X</a></tt> 9), <em>UE</em> (<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> 8, <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> 1), <em>Royaume-Uni</em> (<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="fr_sequoia-pos-X.html">X</a></tt> 2), <em>Calcio</em> (<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> 1), <em>Est</em> (<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> 1), <em>EU</em> (<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>Loudun</em> (<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> 10, <tt><a href="fr_sequoia-pos-X.html">X</a></tt> 2), <em>Reuters</em> (<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> 10, <tt><a href="fr_sequoia-pos-X.html">X</a></tt> 9), <em>Royaume-Uni</em> (<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="fr_sequoia-pos-X.html">X</a></tt> 2), <em>Calcio</em> (<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> 1), <em>Est</em> (<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> 1), <em>EU</em> (<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>Loudun</em> (<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> 10, <tt><a href="fr_sequoia-pos-X.html">X</a></tt> 2), <em>Reuters</em> (<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> 10, <tt><a href="fr_sequoia-pos-X.html">X</a></tt> 9), <em>UE</em> (<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> 8, <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> 1), <em>Parti</em> (<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> 7, <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> 1), <em>Société</em> (<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> 7, <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> 1), <em>Ligue</em> (<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> 5, <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> 1), <em>République</em> (<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> 15, <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> 5), <em>Côte</em> (<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> 1), <em>Juventus</em> (<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> 2), <em>Calcio</em> (<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>Loudun</em> (<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> 10, <tt><a href="fr_sequoia-pos-X.html">X</a></tt> 2), <em>Reuters</em> (<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> 10, <tt><a href="fr_sequoia-pos-X.html">X</a></tt> 9), <em>Parti</em> (<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> 7, <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> 1), <em>Société</em> (<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> 7, <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> 1), <em>Ligue</em> (<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> 5, <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> 1), <em>République</em> (<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> 15, <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> 5), <em>Côte</em> (<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> 1), <em>Juventus</em> (<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> 2), <em>Calcio</em> (<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> 1), <em>Est</em> (<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> 1)
 
 
 * <em>Loudun</em>
@@ -24,9 +24,6 @@ The 10 most frequent ambiguous types:  <em>Loudun</em> (<tt><a href="fr_sequoia-
 * <em>Reuters</em>
   * <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> 10: <em>Réaction de <b>Reuters</b></em>
   * <tt><a href="fr_sequoia-pos-X.html">X</a></tt> 9: <em>- ^ " <b>Reuters</b> admits altering Beirut photo " .</em>
-* <em>UE</em>
-  * <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> 8: <em>Et l' électricité représente 35 % de l' ensemble de la consommation énergétique à le sein de l' <b>UE</b> .</em>
-  * <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> 1: <em>Numéro <b>UE</b></em>
 * <em>Parti</em>
   * <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> 7: <em>- Gérard Longuet , l' ancien président de le <b>Parti</b> républicain , a été relaxé .</em>
   * <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> 3: <em>Selon Roland Dumas , les commissions étaient destinées à 80 % à les " responsables de Taiwan " et à 20 % à le " comité central de le <b>Parti</b> communiste chinois "</em>
@@ -49,10 +46,13 @@ The 10 most frequent ambiguous types:  <em>Loudun</em> (<tt><a href="fr_sequoia-
 * <em>Calcio</em>
   * <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> 2: <em>Affaire de les matches truqués de le <b>Calcio</b></em>
   * <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> 1: <em>La Juve est déchue de les titres acquis dans le <b>Calcio</b> lors de les saisons 2004-2005 et 2005-2006 et ne pourra prendre part à l' édition 2006-2007 de la Ligue de les champions [ 3 ] .</em>
+* <em>Est</em>
+  * <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> 2: <em>Trois personnes ont été gravement blessées , dimanche soir vers 17 h 40 à la suite d' un accident spectaculaire qui s' est produit à l' entrée de le village de Montreux-Vieux sur la départementale 32 ( L' <b>Est</b> Républicain de le 5 juillet ) .</em>
+  * <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> 1: <em>Un voyage étonnant où photos , réalisations , vieux outils , documents anciens , permettront de mesurer combien ce petit bout de terre de France , situé à les Marches de l' <b>Est</b> , lieu de passage de prédilection de les invasions , fut une terre de labeur , et combien le travail de ses habitants , durs à la tâche , doit être reconnu et mis en valeur .</em>
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.006487 (the average of all parts of speech is 1.408837).
+The form / lemma ratio of `PROPN` is 1.006487 (the average of all parts of speech is 1.408810).
 
 The 1st highest number of forms (2) was observed with the lemma “Aclasta”: <em>ACLASTA, Aclasta</em>.
 
@@ -60,22 +60,22 @@ The 2nd highest number of forms (2) was observed with the lemma “Angiox”: <e
 
 The 3rd highest number of forms (2) was observed with the lemma “Courcelles-lès-Montbéliard”: <em>COURCELLES-LES-MONTBELIARD, Courcelles-lès-Montbéliard</em>.
 
-`PROPN` occurs with 2 features: <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt> (1528; 47% instances), <tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt> (1425; 44% instances)
+`PROPN` occurs with 2 features: <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt> (1528; 47% instances), <tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt> (1426; 44% instances)
 
 `PROPN` occurs with 4 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`
 
-`PROPN` occurs with 8 feature combinations.
+`PROPN` occurs with 9 feature combinations.
 The most frequent feature combination is `_` (1720 tokens).
 Examples: <em>Aclasta, Angiox, RPR, Halphen, Jean-Claude, Méry, Schuller, Thomson, Éric, Roussin</em>
 
 
 ## Relations
 
-`PROPN` nodes are attached to their parents using 21 different relations: <tt><a href="fr_sequoia-dep-nmod.html">nmod</a></tt> (1334; 41% instances), <tt><a href="fr_sequoia-dep-flat-name.html">flat:name</a></tt> (783; 24% instances), <tt><a href="fr_sequoia-dep-nsubj.html">nsubj</a></tt> (242; 7% instances), <tt><a href="fr_sequoia-dep-conj.html">conj</a></tt> (189; 6% instances), <tt><a href="fr_sequoia-dep-obl-mod.html">obl:mod</a></tt> (137; 4% instances), <tt><a href="fr_sequoia-dep-obl-arg.html">obl:arg</a></tt> (116; 4% instances), <tt><a href="fr_sequoia-dep-root.html">root</a></tt> (110; 3% instances), <tt><a href="fr_sequoia-dep-appos.html">appos</a></tt> (92; 3% instances), <tt><a href="fr_sequoia-dep-nsubj-pass.html">nsubj:pass</a></tt> (80; 2% instances), <tt><a href="fr_sequoia-dep-obj.html">obj</a></tt> (75; 2% instances), <tt><a href="fr_sequoia-dep-obl-agent.html">obl:agent</a></tt> (60; 2% instances), <tt><a href="fr_sequoia-dep-parataxis.html">parataxis</a></tt> (8; 0% instances), <tt><a href="fr_sequoia-dep-dislocated-obj.html">dislocated:obj</a></tt> (6; 0% instances), <tt><a href="fr_sequoia-dep-xcomp.html">xcomp</a></tt> (5; 0% instances), <tt><a href="fr_sequoia-dep-orphan.html">orphan</a></tt> (4; 0% instances), <tt><a href="fr_sequoia-dep-parataxis-insert.html">parataxis:insert</a></tt> (3; 0% instances), <tt><a href="fr_sequoia-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-dep-dislocated.html">dislocated</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-dep-nsubj-caus.html">nsubj:caus</a></tt> (1; 0% instances)
+`PROPN` nodes are attached to their parents using 21 different relations: <tt><a href="fr_sequoia-dep-nmod.html">nmod</a></tt> (1323; 41% instances), <tt><a href="fr_sequoia-dep-flat-name.html">flat:name</a></tt> (783; 24% instances), <tt><a href="fr_sequoia-dep-nsubj.html">nsubj</a></tt> (242; 7% instances), <tt><a href="fr_sequoia-dep-conj.html">conj</a></tt> (189; 6% instances), <tt><a href="fr_sequoia-dep-obl-mod.html">obl:mod</a></tt> (137; 4% instances), <tt><a href="fr_sequoia-dep-obl-arg.html">obl:arg</a></tt> (116; 4% instances), <tt><a href="fr_sequoia-dep-root.html">root</a></tt> (110; 3% instances), <tt><a href="fr_sequoia-dep-appos.html">appos</a></tt> (104; 3% instances), <tt><a href="fr_sequoia-dep-nsubj-pass.html">nsubj:pass</a></tt> (80; 2% instances), <tt><a href="fr_sequoia-dep-obj.html">obj</a></tt> (75; 2% instances), <tt><a href="fr_sequoia-dep-obl-agent.html">obl:agent</a></tt> (60; 2% instances), <tt><a href="fr_sequoia-dep-parataxis.html">parataxis</a></tt> (8; 0% instances), <tt><a href="fr_sequoia-dep-dislocated-obj.html">dislocated:obj</a></tt> (6; 0% instances), <tt><a href="fr_sequoia-dep-xcomp.html">xcomp</a></tt> (5; 0% instances), <tt><a href="fr_sequoia-dep-orphan.html">orphan</a></tt> (4; 0% instances), <tt><a href="fr_sequoia-dep-parataxis-insert.html">parataxis:insert</a></tt> (3; 0% instances), <tt><a href="fr_sequoia-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-dep-dislocated.html">dislocated</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-dep-nsubj-caus.html">nsubj:caus</a></tt> (1; 0% instances)
 
-Parents of `PROPN` nodes belong to 9 different parts of speech: <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (1442; 44% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (967; 30% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (666; 20% instances),  (110; 3% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (33; 1% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (15; 0% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="fr_sequoia-pos-X.html">X</a></tt> (6; 0% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (5; 0% instances)
+Parents of `PROPN` nodes belong to 9 different parts of speech: <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (1443; 44% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (967; 30% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (666; 20% instances),  (110; 3% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (33; 1% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (15; 0% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="fr_sequoia-pos-X.html">X</a></tt> (6; 0% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (5; 0% instances)
 
-1168 (36%) `PROPN` nodes are leaves.
+1169 (36%) `PROPN` nodes are leaves.
 
 1004 (31%) `PROPN` nodes have one child.
 

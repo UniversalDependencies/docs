@@ -309,7 +309,7 @@ udver: '2'
     </td>
     <td width="25%" valign="top">
       <ul>
-      <li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: haben</li>
+      <li>Out of the above, 2 lemmas occurred sometimes as AUX and sometimes as VERB: haben, werden</li>
       </ul>
     </td>
     <td width="25%" valign="top">
@@ -3572,12 +3572,15 @@ udver: '2'
           <ul>
             <li>Yes
               <ul>
+                <li>ADJ: brankrott</li>
                 <li>AUX: will.</li>
                 <li>DET: anderen, allen, andere</li>
                 <li>NOUN: Falls</li>
                 <li>PRON: da</li>
                 <li>SCONJ: das</li>
-                <li>VERB-Inf: Fallen, ausprechen</li>
+                <li>VERB-Fin: enspricht, ausgetauschte, ausssieht, beschänkt, betrachen, entwicklen, erforden, erleichert, fordete, geisselt</li>
+                <li>VERB-Inf: Fallen, Fertiggestellen, abgegeben, ansteueren, anzurufen, auseinanderetzen, ausgeliefern, ausprechen, auszugegliedern, bereitsstellen</li>
+                <li>VERB-Part: Eingericht, abgelgt, aufgeliefert, beteteiligt, entwicklet, ereicht, gegeründet, hinzufügt, lahmegelegt, reserveriert</li>
               </ul>
             </li>
           </ul>
@@ -3749,7 +3752,7 @@ udver: '2'
             <li>VERB-Inf--NOUN-Acc (11)</li>
             <li>VERB-Inf--NOUN-Dat (12)</li>
             <li>VERB-Inf--NOUN-Gen (5)</li>
-            <li>VERB-Inf--NOUN-Nom (14840)</li>
+            <li>VERB-Inf--NOUN-Nom (14839)</li>
             <li>VERB-Inf--PRON (69)</li>
             <li>VERB-Inf--PRON-Acc (1)</li>
             <li>VERB-Inf--PRON-Dat (1)</li>
@@ -4036,7 +4039,7 @@ udver: '2'
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
-        <li>This corpus contains 695 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: lassen sich, handeln sich, zeigen sich, äußern sich, sehen sich, wenden sich, machen sich, richten sich, belaufen sich, entscheiden sich, aussprechen sich, fühlen sich, zeichnen sich, schließen sich, präsentieren sich, sprechen sich, erklären sich, verändern sich, verhalten sich, verabschieden sich, fragen sich, verständigen sich, verbessern sich, registrieren sich, schützen sich, tun sich, - sich, entpuppen sich, bezeichnen sich, schweigen sich, verkaufen sich, häufen sich, wirken sich, zusammentun sich, bestätigen sich, gestalten sich, verringern sich, einloggen sich, streiten sich, fortsetzen sich, mehren sich, summieren sich, vorbereiten sich, finanzieren sich, lesen sich, öffnen sich, verteidigen sich, verschärfen sich, üben sich, bilden sich</li>
+        <li>This corpus contains 696 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: lassen sich, handeln sich, zeigen sich, äußern sich, sehen sich, wenden sich, machen sich, richten sich, belaufen sich, entscheiden sich, aussprechen sich, fühlen sich, zeichnen sich, schließen sich, präsentieren sich, sprechen sich, erklären sich, verändern sich, verhalten sich, verabschieden sich, fragen sich, verständigen sich, verbessern sich, registrieren sich, schützen sich, tun sich, - sich, entpuppen sich, bezeichnen sich, schweigen sich, verkaufen sich, häufen sich, wirken sich, zusammentun sich, bestätigen sich, gestalten sich, verringern sich, einloggen sich, streiten sich, fortsetzen sich, mehren sich, summieren sich, vorbereiten sich, finanzieren sich, lesen sich, öffnen sich, verteidigen sich, verschärfen sich, üben sich, bilden sich</li>
           <ul>
             <li>Out of those, 40 lemmas occurred more than once, but never without a reflexive dependent. Examples: zusammentun, breiten, zuwenden, zusammenfinden, auskennen, durchringen, einpendeln, einschleichen, umschauen, herumschlagen, hervortun, aufschwingen, herumsprechen, zurechtfinden, überschneiden, gegenübersehen, vorarbeiten, auftun, einfinden, herausreden, hinsetzen, hochschaukeln, klinken, nisten, zusammenraufen, abzeichnende, ausschweigen, einreihen, einschießen, entledigen, erdreisten, hingeben, hocharbeiten, loggen, lossagen, materialisierten, schaukeln, umtun, verfestigen, überheben</li>
           </ul>
@@ -4077,7 +4080,7 @@ udver: '2'
       
       <ul>
       <li>This corpus uses 11 relation subtypes: <a>acl:relcl</a>, <a>advcl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>det:poss</a>, <a>expl:pv</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:arg</a></li>
-      <li>The following 4 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a></li>
+      <li>The following 3 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a></li>
       </ul>
     </td>
     <td width="25%" valign="top">
@@ -4092,7 +4095,7 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 13 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>det:poss</a>, <a>expl:pv</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:tmod</a></li>
+      <li>This corpus uses 14 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>det:poss</a>, <a>expl:pv</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nmod:tmod</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:tmod</a></li>
       <li>The following 5 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
     </td>

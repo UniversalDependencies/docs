@@ -48,7 +48,7 @@ The following 3 pairs of parts of speech are connected with `det:numgov`: <tt><a
 1	Několik	několik	DET	Ca--4----------	Case=Acc|NumType=Card|PronType=Ind	3	det:numgov	3:det:numgov	_
 2	jsem	být	AUX	VB-S---1P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	4:aux	_
 3	jich	on	PRON	PPXP2--3-------	Case=Gen|Number=Plur|Person=3|PronType=Prs	4	obj	4:obj	LId=on-1
-4	našel	najít	VERB	VpYS---XR-AA---	Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	SpaceAfter=No
+4	našel	najít	VERB	VpYS---XR-AA---	Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	SpaceAfter=No
 5	.	.	PUNCT	Z:-------------	_	4	punct	4:punct	_
 
 ~~~

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-135 nodes (0%) are attached to their parents as `expl`.
+179 nodes (0%) are attached to their parents as `expl`.
 
-132 instances of `expl` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.95555555555556.
+176 instances of `expl` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.1340782122905.
 
-The following 13 pairs of parts of speech are connected with `expl`: <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (81; 60% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-PART.html">PART</a></tt> (17; 13% instances), <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (9; 7% instances), <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-PART.html">PART</a></tt> (6; 4% instances), <tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (4; 3% instances), <tt><a href="uk_parlamint-pos-NUM.html">NUM</a></tt>-<tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (4; 3% instances), <tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_parlamint-pos-PART.html">PART</a></tt> (3; 2% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_parlamint-pos-PART.html">PART</a></tt> (3; 2% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_parlamint-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="uk_parlamint-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uk_parlamint-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="uk_parlamint-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 15 pairs of parts of speech are connected with `expl`: <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (83; 46% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-PART.html">PART</a></tt> (26; 15% instances), <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-PART.html">PART</a></tt> (21; 12% instances), <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (13; 7% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_parlamint-pos-PART.html">PART</a></tt> (8; 4% instances), <tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_parlamint-pos-PART.html">PART</a></tt> (7; 4% instances), <tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (5; 3% instances), <tt><a href="uk_parlamint-pos-NUM.html">NUM</a></tt>-<tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (4; 2% instances), <tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="uk_parlamint-pos-DET.html">DET</a></tt>-<tt><a href="uk_parlamint-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="uk_parlamint-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uk_parlamint-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_parlamint-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="uk_parlamint-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="uk_parlamint-pos-X.html">X</a></tt>-<tt><a href="uk_parlamint-pos-PART.html">PART</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -36,39 +36,39 @@ The following 13 pairs of parts of speech are connected with `expl`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 expl	color:blue
-1	Те	те	PRON	PRON	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	8	nsubj	_	SpaceAfter=No
-2	,	,	PUNCT	PUNCT	_	4	punct	_	_
-3	що	що	SCONJ	SCONJ	_	4	mark	_	_
-4	відбувається	відбуватися	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Reflex=Yes|Tense=Pres|VerbForm=Fin	1	acl	_	_
-5	сьогодні	сьогодні	ADV	ADV	_	4	advmod	_	_
-6	-	-	PUNCT	PUNCT	_	8	punct	_	_
-7	це	це	PART	PART	_	8	expl	_	_
-8	карикатура	карикатура	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
-9	.	.	PUNCT	PUNCT	_	8	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 expl	color:blue
+1	Ось	ось	PART	PART	_	3	expl	_	_
+2	такі	такий	DET	DET	Animacy=Inan|Case=Acc|Number=Plur|PronType=Dem	3	det	_	_
+3	питання	питання	NOUN	NOUN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	5	obj	_	_
+4	потрібно	потрібно	ADV	ADV	Degree=Pos	0	root	_	_
+5	ставити	ставити	VERB	VERB	Aspect=Imp|VerbForm=Inf	4	csubj	_	_
+6	в	в	ADP	ADP	Case=Acc	7	case	_	_
+7	порядок	порядок	NOUN	NOUN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obl	_	_
+8	денний	денний	ADJ	ADJ	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	amod	_	SpaceAfter=No
+9	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 1 expl	color:blue
-1	Це	це	PRON	PRON	PronType=Dem	5	expl	_	_
-2	я	я	PRON	PRON	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
-3	вже	вже	ADV	ADV	_	5	advmod	_	_
-4	вкотре	вкотре	ADV	ADV	_	5	advmod	_	_
-5	звертаюся	звертатися	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Reflex=Yes|Tense=Pres|VerbForm=Fin	0	root	_	_
-6	до	до	ADP	ADP	Case=Gen	7	case	_	_
-7	Кабінету	кабінет	NOUN	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	obl:arg	_	_
-8	Міністрів	міністр	NOUN	NOUN	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	SpaceAfter=No
-9	.	.	PUNCT	PUNCT	_	5	punct	_	_
+# visual-style 5 3 expl	color:blue
+1	Насправді	насправді	ADV	ADV	_	5	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	PUNCT	_	1	punct	_	_
+3	от	от	PART	PART	_	5	expl	_	_
+4	я	я	PRON	PRON	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+5	дивлюся	дивитися	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Reflex=Yes|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	PUNCT	_	8	punct	_	_
+7	що	що	SCONJ	PRON	PronType=Rel	8	mark	_	_
+8	крім	крім	ADP	ADP	Case=Gen	5	ccomp	_	SpaceAfter=No
+9	...	...	PUNCT	PUNCT	_	5	punct	_	_
 
 ~~~
 

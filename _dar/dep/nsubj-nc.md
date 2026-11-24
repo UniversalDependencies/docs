@@ -43,4 +43,4 @@ man ram N-slaughter:PFV-PRS-CVB AUX-M
 * Ganenkov, Dmitry (2019). Case and agreement in Mehweb. In Michael Daniel, Nina Dobrushina & Dmitry Ganenkov (eds.), The Mehweb language: Essays on phonology, morphology and syntax, 189–234. Berlin: Language Science Press. DOI:10.5281/zenodo.3402066  
 * Forker, Diana (2012). The bi-absolutive construction in Nakh-Daghestanian. Folia Linguistica 46(1). 75–108.  
 
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:24 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:58 CET -->

@@ -105,4 +105,4 @@ cop(engraçado, é)
 advmod(engraçado, muito)
 punct(engraçado, .)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:55 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:35 CET -->

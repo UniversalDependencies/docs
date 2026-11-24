@@ -11,7 +11,7 @@ This relation is a language-specific subtype of <tt><a href="fr_sequoia-dep-para
 126 nodes (0%) are attached to their parents as `parataxis:insert`.
 
 116 instances of `parataxis:insert` (92%) are left-to-right (parent precedes child).
-Average distance between parent and child is 12.5079365079365.
+Average distance between parent and child is 12.468253968254.
 
 The following 17 pairs of parts of speech are connected with `parataxis:insert`: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (45; 36% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> (17; 13% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (16; 13% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (10; 8% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-SYM.html">SYM</a></tt> (10; 8% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (7; 6% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> (5; 4% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (3; 2% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-SYM.html">SYM</a></tt> (3; 2% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> (2; 2% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (1; 1% instances).
 
@@ -22,7 +22,7 @@ The following 17 pairs of parts of speech are connected with `parataxis:insert`:
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 7 parataxis:insert	color:blue
-1	Imposé	imposer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	Tense[denom]=Past
+1	Imposé	imposer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	Status[Tense]=Denom
 2	à	à	ADP	_	_	4	case	_	_
 3	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	peuple	peuple	NOUN	_	Gender=Masc|Number=Sing	1	obl:arg	_	Exponence[Gender]=Inherent
@@ -45,7 +45,7 @@ The following 17 pairs of parts of speech are connected with `parataxis:insert`:
 1	Très	très	ADV	_	_	2	advmod	_	_
 2	fréquent	fréquent	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
 3	(	(	PUNCT	_	_	4	punct	_	SpaceAfter=No
-4	1/10	1/10	NUM	_	NumType=Card	2	parataxis:insert	_	SpaceAfter=No
+4	1/10	1/10	NUM	_	ExtPos=PROPN|NumType=Card	2	parataxis:insert	_	SpaceAfter=No
 5	)	)	PUNCT	_	_	4	punct	_	_
 
 ~~~
@@ -63,7 +63,7 @@ The following 17 pairs of parts of speech are connected with `parataxis:insert`:
 4	(	(	PUNCT	_	_	5	punct	_	SpaceAfter=No
 5	voir	voir	VERB	_	VerbForm=Inf	1	parataxis:insert	_	Subject=Generic
 6	rubrique	rubrique	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	Exponence[Gender]=Inherent
-7	4.4	4.4	NUM	_	Number=Sing|NumType=Card	6	nmod	_	Exponence[Number]=Inherent|SpaceAfter=No
+7	4.4	4.4	NUM	_	ExtPos=PROPN|Number=Sing|NumType=Card	6	nmod	_	Exponence[Number]=Inherent|SpaceAfter=No
 8	)	)	PUNCT	_	_	5	punct	_	_
 
 ~~~

@@ -21,3 +21,4 @@ We find written evidence for some auxiliaries becoming enclitics.
 - The copula verb *būdan* is also used as the existential verb 'to be there, to exist' and it is homophonous with 'to become' except for the so-called 'present tense' (*h-* 'be' vs. *baw-* 'become').
 - *ēstādan* can also be a full verb with the preceding participle as a predicative (e.g. 'to stand prepapred' i.e. 'to stand ready').
 - *būdan* 'become' is always annotated as a full verb. In some constructions, a passive interpretation emerges but *būdan* has not been ascertained as a passive auxiliary yet.
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:25 CET -->

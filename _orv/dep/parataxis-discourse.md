@@ -13,4 +13,4 @@ Both parenthetical words and the heads of parenthetical groups and clauses can b
 parataxis:discourse(живъ, Слава)
 parataxis:discourse(alive, Thank)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:39 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:39:10 CET -->

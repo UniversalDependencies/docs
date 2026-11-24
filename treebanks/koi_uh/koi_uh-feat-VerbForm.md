@@ -10,7 +10,7 @@ This feature is universal but the values `Conv` are language-specific.
 It occurs with 4 different values: `Conv`, `Fin`, `Inf`, `Part`.
 
 210 tokens (18%) have a non-empty value of `VerbForm`.
-178 types (29%) occur at least once with a non-empty value of `VerbForm`.
+176 types (29%) occur at least once with a non-empty value of `VerbForm`.
 136 lemmas (28%) occur at least once with a non-empty value of `VerbForm`.
 The feature is used with 2 part-of-speech tags: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (185; 16% instances), <tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> (25; 2% instances).
 
@@ -23,10 +23,10 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Conv` (6; 3% of non-empty `VerbForm`): <em>жалейттӧг, жмитікӧ, куриттӧг, лӧсьӧтікӧ, сайӧвтӧмӧн, ютӧг</em>
-* `Fin` (152; 82% of non-empty `VerbForm`): <em>зэрӧ, быдмис, локтін, босьтіс, вашöтö, велалас, высьтіс, гижис, котӧртіс, краситӧм</em>
-* `Inf` (20; 11% of non-empty `VerbForm`): <em>вӧтны, керны, адззавлыны, бӧрйыны, видзчисьны, вийöтны, воштісьны, куритны, кутчыны, локны</em>
+* `Fin` (152; 82% of non-empty `VerbForm`): <em>зэрӧ, быдмис, локтін, юаліс, босьтіс, вашӧтӧ, велалас, высьтіс, гижис, котӧртіс</em>
+* `Inf` (20; 11% of non-empty `VerbForm`): <em>вӧтны, керны, адззавлыны, бӧрйыны, видзчисьны, вийӧтны, воштісьны, куритны, кутчыны, локны</em>
 * `Part` (7; 4% of non-empty `VerbForm`): <em>бырӧм, гардчӧмкодь, дорӧм, дрӧжитана, киссьӧм, пырӧм, пӧліньтчӧм</em>
-* `EMPTY` (21): <em>öшöтöмöн, адззыв, аркмы, артав, артась, вöрзьöт, вежöрт, вежӧртӧ, вермы, видз</em>
+* `EMPTY` (21): <em>адззыв, аркмы, артав, артась, вежӧрт, вежӧртӧ, вермы, видз, видчӧ, висьтав</em>
 
 <table>
   <tr><th>Paradigm <i>локны</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th></tr>
@@ -47,7 +47,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 
 * `Fin` (24; 96% of non-empty `VerbForm`): <em>оз, эз, эг, вӧлі, озӧ, верман, коліс, овлӧ, ог, он</em>
 * `Inf` (1; 4% of non-empty `VerbForm`): <em>овны</em>
-* `EMPTY` (20): <em>абу, эз, оз, вермы, не, абуöсь, бы, вӧв, позь, эн</em>
+* `EMPTY` (20): <em>абу, эз, оз, вермы, не, абуӧсь, бы, вӧв, позь, эн</em>
 
 ## Relations with Agreement in `VerbForm`
 

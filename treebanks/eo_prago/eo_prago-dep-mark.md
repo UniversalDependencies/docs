@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-84 nodes (3%) are attached to their parents as `mark`.
+92 nodes (2%) are attached to their parents as `mark`.
 
-84 instances of `mark` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.95238095238095.
+92 instances of `mark` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 6.1304347826087.
 
-The following 11 pairs of parts of speech are connected with `mark`: <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-SCONJ.html">SCONJ</a></tt> (55; 65% instances), <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-ADP.html">ADP</a></tt> (10; 12% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-SCONJ.html">SCONJ</a></tt> (8; 10% instances), <tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt>-<tt><a href="eo_prago-pos-SCONJ.html">SCONJ</a></tt> (3; 4% instances), <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt>-<tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="eo_prago-pos-ADV.html">ADV</a></tt>-<tt><a href="eo_prago-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="eo_prago-pos-AUX.html">AUX</a></tt>-<tt><a href="eo_prago-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="eo_prago-pos-NUM.html">NUM</a></tt>-<tt><a href="eo_prago-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="eo_prago-pos-PRON.html">PRON</a></tt>-<tt><a href="eo_prago-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances).
+The following 11 pairs of parts of speech are connected with `mark`: <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-SCONJ.html">SCONJ</a></tt> (62; 67% instances), <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-ADP.html">ADP</a></tt> (10; 11% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-SCONJ.html">SCONJ</a></tt> (9; 10% instances), <tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt>-<tt><a href="eo_prago-pos-SCONJ.html">SCONJ</a></tt> (3; 3% instances), <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt>-<tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="eo_prago-pos-ADV.html">ADV</a></tt>-<tt><a href="eo_prago-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="eo_prago-pos-AUX.html">AUX</a></tt>-<tt><a href="eo_prago-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="eo_prago-pos-NUM.html">NUM</a></tt>-<tt><a href="eo_prago-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="eo_prago-pos-PRON.html">PRON</a></tt>-<tt><a href="eo_prago-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 11 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 10	fgColor:white
 # visual-style 10 8 mark	color:blue
 1	Mi	mi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
-2	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	_
 3	Homarano	homarano	NOUN	_	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
 4	;	;	PUNCT	_	_	6	punct	_	_
 5	tio	tio	PRON	_	Case=Nom|Number=Sing|PronType=Dem	6	nsubj	_	_
@@ -70,7 +70,7 @@ The following 11 pairs of parts of speech are connected with `mark`: <tt><a href
 17	publikigataj	publikigi	VERB	_	Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	0	root	_	_
 18	en	en	ADP	_	_	20	case	_	_
 19	la	la	DET	_	Definite=Def|PronType=Art	20	det	_	_
-20	revuo	revuo	NOUN	_	Case=Nom|Number=Sing	17	nmod	_	_
+20	revuo	revuo	NOUN	_	Case=Nom|Number=Sing	17	obl	_	_
 21	Homaro	Homaro	NOUN	_	Case=Nom|Number=Sing	20	appos	_	SpaceAfter=No
 22	.	.	PUNCT	_	_	17	punct	_	_
 

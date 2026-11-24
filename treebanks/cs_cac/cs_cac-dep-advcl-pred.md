@@ -40,9 +40,9 @@ The following 46 pairs of parts of speech are connected with `advcl:pred`: <tt><
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 4 advcl:pred	color:blue
-1	Uplatnit	uplatnit	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	0	root	0:root	_
+1	Uplatnit	uplatnit	VERB	Vf--------A----	Aspect=Perf|Polarity=Pos|VerbForm=Inf	0	root	0:root	_
 2	jako	jako	SCONJ	J,-------------	_	4	mark	4:mark	_
-3	skrytou	skrytý	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	4	amod	4:amod	LDeriv=skrýt
+3	skrytou	skrytý	ADJ	AAFS4----1A----	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	4	amod	4:amod	LDeriv=skrýt
 4	závadu	závada	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing	1	advcl:pred	1:advcl:pred:jako	SpaceAfter=No
 5	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	_
 

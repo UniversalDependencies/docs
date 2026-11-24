@@ -44,7 +44,7 @@ The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 1	Tento	tento	DET	PDYS1----------	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	2	det	2:det	_
 2	cíl	cíl	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	nsubj:pass	12:nsubj:pass|14:nsubj:pass:xsubj	SpaceAfter=No
 3	,	,	PUNCT	Z:-------------	_	4	punct	4:punct	_
-4	stanovený	stanovený	ADJ	AAIS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	2	amod	2:amod	LGloss=(určit)|LDeriv=stanovit
+4	stanovený	stanovený	ADJ	AAIS1----1A----	Animacy=Inan|Aspect=Perf|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	2	amod	2:amod	LGloss=(určit)|LDeriv=stanovit
 5	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	6	case	6:case	LId=v-1
 6	roce	rok	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	obl	4:obl:v:loc	_
 7	#	&cyear;	NUM	C=-------------	NumForm=Digit|NumType=Card	6	nummod	6:nummod	_
@@ -52,7 +52,7 @@ The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 9	sjezdem	sjezd	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	4	obl	4:obl:ins	_
 10	strany	strana	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur	9	nmod	9:nmod:acc	SpaceAfter=No|LId=strana-2|LGloss=(politická)
 11	,	,	PUNCT	Z:-------------	_	4	punct	4:punct	_
-12	měl	mít	VERB	VpYS---XR-AA---	Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
+12	měl	mít	VERB	VpYS---XR-AA---	Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
 13	být	být	AUX	Vf--------A----	Aspect=Imp|Polarity=Pos|VerbForm=Inf	12	aux:pass	12:aux:pass	_
 14	splněn	splněný	ADJ	VsYS---XX-AP---	Aspect=Perf|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	12	xcomp	12:xcomp	LDeriv=splnit
 15	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	16	case	16:case	LId=v-1

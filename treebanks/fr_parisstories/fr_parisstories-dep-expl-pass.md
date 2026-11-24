@@ -32,7 +32,7 @@ The following 1 pairs of parts of speech are connected with `expl:pass`: <tt><a 
 7	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	HasSpokenGender=OnlySingExceptWithLiaison
 8	farine	farine	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent
 9	à	à	ADP	_	_	11	case	_	_
-10	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	HasSpokenGender=OnlySingExceptWithLiaison
+10	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	final	final	NOUN	_	Gender=Masc|Number=Sing	6	obl:mod	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent
 12	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	14	nsubj	_	Exponence[Gender]=Inherent|Exponence[Number]=Inherent|Exponence[Person]=Inherent
 13	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	14	expl:pass	_	Exponence[Person]=Inherent

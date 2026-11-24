@@ -46,7 +46,7 @@ The following 2 pairs of parts of speech are connected with `csubj:outer`: <tt><
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	4:cop	_
 3	another	another	DET	DT	PronType=Ind	4	det	4:det	Entity=(26-abstract-acc:com-nnnnn-cf4-2-coref|MSeg=an-other
 4	thing	thing	NOUN	NN	Number=Sing	10	csubj:outer	10:csubj:outer	Entity=26)
-5	too	too	ADV	RB	Degree=Pos	4	advmod	4:advmod	SpaceAfter=No
+5	too	too	ADV	RB	_	4	advmod	4:advmod	SpaceAfter=No
 6	,	,	PUNCT	,	_	4	punct	4:punct	_
 7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	10:cop	Discourse=joint-other_m:55->10:4:lex-indwd-269-_
 8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	10:nsubj	Entity=(1-person-giv:inact-sssss-cf3-1-ana)

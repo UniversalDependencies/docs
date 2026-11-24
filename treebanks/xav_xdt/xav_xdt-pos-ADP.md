@@ -79,7 +79,7 @@ Examples: <em>na, u, da, me, ãma, wi, ma, zô, ré, 're</em>
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 6 different relations: <tt><a href="xav_xdt-dep-case.html">case</a></tt> (136; 74% instances), <tt><a href="xav_xdt-dep-obl.html">obl</a></tt> (29; 16% instances), <tt><a href="xav_xdt-dep-mark.html">mark</a></tt> (13; 7% instances), <tt><a href="xav_xdt-dep-dep.html">dep</a></tt> (5; 3% instances), <tt><a href="xav_xdt-dep-parataxis.html">parataxis</a></tt> (1; 1% instances), <tt><a href="xav_xdt-dep-root.html">root</a></tt> (1; 1% instances)
+`ADP` nodes are attached to their parents using 7 different relations: <tt><a href="xav_xdt-dep-case.html">case</a></tt> (136; 74% instances), <tt><a href="xav_xdt-dep-obl.html">obl</a></tt> (25; 14% instances), <tt><a href="xav_xdt-dep-mark.html">mark</a></tt> (13; 7% instances), <tt><a href="xav_xdt-dep-dep.html">dep</a></tt> (5; 3% instances), <tt><a href="xav_xdt-dep-nmod.html">nmod</a></tt> (4; 2% instances), <tt><a href="xav_xdt-dep-parataxis.html">parataxis</a></tt> (1; 1% instances), <tt><a href="xav_xdt-dep-root.html">root</a></tt> (1; 1% instances)
 
 Parents of `ADP` nodes belong to 8 different parts of speech: <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (123; 66% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (45; 24% instances), <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> (7; 4% instances), <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> (5; 3% instances), <tt><a href="xav_xdt-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="xav_xdt-pos-DET.html">DET</a></tt> (1; 1% instances),  (1; 1% instances), <tt><a href="xav_xdt-pos-X.html">X</a></tt> (1; 1% instances)
 

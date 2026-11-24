@@ -45,7 +45,7 @@ The following 3 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 2 1 amod	color:blue
 1	所述	_	ADJ	_	_	2	amod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
 2	TA	_	PROPN	_	_	8	nsubj	_	Gloss=_|SpaceAfter=No|Translit=TA
-3	将	_	PART	_	_	7	case	_	Gloss=_|SpaceAfter=No|Translit=jiāng
+3	将	_	PART	_	_	8	mark	_	Gloss=_|SpaceAfter=No|Translit=jiāng
 4	所述	_	ADJ	_	_	8	advcl	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
 5	业务	_	NOUN	_	_	6	obl	_	Gloss=_|SpaceAfter=No|Translit=yè_wù
 6	操作	_	VERB	_	_	8	advcl	_	Gloss=_|SpaceAfter=No|Translit=cāo_zuò

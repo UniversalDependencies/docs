@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Sookyoung Kwak, Yongseok Cho, Martin Popel, Daniel Zeman.
 
 Repository: [UD_Korean-PUD](https://github.com/UniversalDependencies/UD_Korean-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udko_pud218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udko_pud219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 3.0
 
@@ -92,7 +92,7 @@ employ ten-fold cross-validation.
 
 ## Relations
 
-[acl:relcl](ko_pud-dep-acl-relcl.html) – [advcl](ko_pud-dep-advcl.html) – [advmod](ko_pud-dep-advmod.html) – [amod](ko_pud-dep-amod.html) – [appos](ko_pud-dep-appos.html) – [aux](ko_pud-dep-aux.html) – [case](ko_pud-dep-case.html) – [cc](ko_pud-dep-cc.html) – [ccomp](ko_pud-dep-ccomp.html) – [compound](ko_pud-dep-compound.html) – [compound:lvc](ko_pud-dep-compound-lvc.html) – [conj](ko_pud-dep-conj.html) – [cop](ko_pud-dep-cop.html) – [csubj](ko_pud-dep-csubj.html) – [csubj:pass](ko_pud-dep-csubj-pass.html) – [dep](ko_pud-dep-dep.html) – [det](ko_pud-dep-det.html) – [discourse](ko_pud-dep-discourse.html) – [fixed](ko_pud-dep-fixed.html) – [flat](ko_pud-dep-flat.html) – [flat:name](ko_pud-dep-flat-name.html) – [goeswith](ko_pud-dep-goeswith.html) – [iobj](ko_pud-dep-iobj.html) – [nmod:poss](ko_pud-dep-nmod-poss.html) – [nsubj](ko_pud-dep-nsubj.html) – [nsubj:pass](ko_pud-dep-nsubj-pass.html) – [nummod](ko_pud-dep-nummod.html) – [obj](ko_pud-dep-obj.html) – [obl](ko_pud-dep-obl.html) – [obl:tmod](ko_pud-dep-obl-tmod.html) – [orphan](ko_pud-dep-orphan.html) – [punct](ko_pud-dep-punct.html) – [root](ko_pud-dep-root.html) – [vocative](ko_pud-dep-vocative.html)
+[acl:relcl](ko_pud-dep-acl-relcl.html) – [advcl](ko_pud-dep-advcl.html) – [advmod](ko_pud-dep-advmod.html) – [amod](ko_pud-dep-amod.html) – [appos](ko_pud-dep-appos.html) – [aux](ko_pud-dep-aux.html) – [case](ko_pud-dep-case.html) – [cc](ko_pud-dep-cc.html) – [ccomp](ko_pud-dep-ccomp.html) – [compound](ko_pud-dep-compound.html) – [compound:lvc](ko_pud-dep-compound-lvc.html) – [conj](ko_pud-dep-conj.html) – [cop](ko_pud-dep-cop.html) – [csubj](ko_pud-dep-csubj.html) – [csubj:pass](ko_pud-dep-csubj-pass.html) – [dep](ko_pud-dep-dep.html) – [det](ko_pud-dep-det.html) – [discourse](ko_pud-dep-discourse.html) – [fixed](ko_pud-dep-fixed.html) – [flat](ko_pud-dep-flat.html) – [flat:name](ko_pud-dep-flat-name.html) – [goeswith](ko_pud-dep-goeswith.html) – [iobj](ko_pud-dep-iobj.html) – [nmod](ko_pud-dep-nmod.html) – [nmod:poss](ko_pud-dep-nmod-poss.html) – [nmod:tmod](ko_pud-dep-nmod-tmod.html) – [nsubj](ko_pud-dep-nsubj.html) – [nsubj:outer](ko_pud-dep-nsubj-outer.html) – [nsubj:pass](ko_pud-dep-nsubj-pass.html) – [nummod](ko_pud-dep-nummod.html) – [obj](ko_pud-dep-obj.html) – [obl](ko_pud-dep-obl.html) – [obl:tmod](ko_pud-dep-obl-tmod.html) – [orphan](ko_pud-dep-orphan.html) – [punct](ko_pud-dep-punct.html) – [root](ko_pud-dep-root.html) – [vocative](ko_pud-dep-vocative.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -509,19 +509,19 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (23)</li>
+      <li>VERB--NOUN (20)</li>
       <li>VERB--NOUN-ADP(가) (2)</li>
       <li>VERB--NOUN-ADP(은) (1)</li>
       <li>VERB--NOUN-ADP(이) (2)</li>
-      <li>VERB--NOUN-Nom (189)</li>
+      <li>VERB--NOUN-Nom (187)</li>
       <li>VERB--PRON (2)</li>
       <li>VERB--PRON-Nom (44)</li>
-      <li>VERB-Fin--NOUN (9)</li>
+      <li>VERB-Fin--NOUN (7)</li>
       <li>VERB-Fin--NOUN-ADP(가) (1)</li>
       <li>VERB-Fin--NOUN-ADP(는) (2)</li>
-      <li>VERB-Fin--NOUN-Nom (107)</li>
+      <li>VERB-Fin--NOUN-Nom (106)</li>
       <li>VERB-Fin--PRON (2)</li>
-      <li>VERB-Fin--PRON-Nom (28)</li>
+      <li>VERB-Fin--PRON-Nom (27)</li>
       <li>VERB-Ger--NOUN (1)</li>
       <li>VERB-Ger--NOUN-Nom (7)</li>
       <li>VERB-Ger--PRON-Nom (1)</li>
@@ -567,7 +567,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 7 relation subtypes: <a>acl:relcl</a>, <a>compound:lvc</a>, <a>csubj:pass</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:tmod</a></li>
-<li>The following 2 main types are not used alone, they are always subtyped: <a>acl</a>, <a>nmod</a></li>
+<li>This corpus uses 9 relation subtypes: <a>acl:relcl</a>, <a>compound:lvc</a>, <a>csubj:pass</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nmod:tmod</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:tmod</a></li>
+<li>The following 1 main types are not used alone, they are always subtyped: <a>acl</a></li>
 <li>The following 8 relation types are not used in this corpus at all: <a>xcomp</a>, <a>expl</a>, <a>dislocated</a>, <a>mark</a>, <a>clf</a>, <a>list</a>, <a>parataxis</a>, <a>reparandum</a></li>
 </ul>

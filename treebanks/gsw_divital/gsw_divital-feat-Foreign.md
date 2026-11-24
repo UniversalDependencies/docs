@@ -57,7 +57,7 @@ The feature is used with 14 part-of-speech tags: <tt><a href="gsw_divital-pos-NO
 `ADP` tokens may have the following values of `Foreign`:
 
 * `Yes` (43; 100% of non-empty `Foreign`): <em>de, d', d’, pour, en, an, du, à</em>
-* `EMPTY` (1597): <em>vùn, in, ìn, fer, i, vù, ùff, mìt, àn, à</em>
+* `EMPTY` (1596): <em>vùn, in, ìn, fer, i, vù, ùff, mìt, àn, à</em>
 
 ### `X`
 
@@ -84,7 +84,7 @@ The feature is used with 14 part-of-speech tags: <tt><a href="gsw_divital-pos-NO
 `CCONJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (10; 100% of non-empty `Foreign`): <em>et</em>
-* `EMPTY` (719): <em>ùn, un, oder, odder, àwer, àwwer, awer, sowie, denn, dann</em>
+* `EMPTY` (720): <em>ùn, un, oder, odder, àwer, àwwer, awer, sowie, denn, dann</em>
 
 ### `INTJ`
 
@@ -146,7 +146,7 @@ The 10 most frequent relations where parent and child node agree in `Foreign`:
 <tt>NOUN --[<tt><a href="gsw_divital-dep-amod.html">amod</a></tt>]--> ADJ</tt> (37; 93%),
 <tt>X --[<tt><a href="gsw_divital-dep-flat.html">flat</a></tt>]--> X</tt> (16; 94%),
 <tt>NOUN --[<tt><a href="gsw_divital-dep-conj.html">conj</a></tt>]--> NOUN</tt> (15; 71%),
-<tt>NOUN --[<tt><a href="gsw_divital-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (11; 69%),
+<tt>NOUN --[<tt><a href="gsw_divital-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (11; 55%),
 <tt>PROPN --[<tt><a href="gsw_divital-dep-flat.html">flat</a></tt>]--> PROPN</tt> (8; 100%),
 <tt>NOUN --[<tt><a href="gsw_divital-dep-nmod-poss.html">nmod:poss</a></tt>]--> PROPN</tt> (6; 67%),
 <tt>NOUN --[<tt><a href="gsw_divital-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (4; 67%),

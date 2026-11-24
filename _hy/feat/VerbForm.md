@@ -91,4 +91,4 @@ Note that this does not apply to case forms of the infinitive used with adpositi
 * _պարտականությունները <b>կատարելիս</b>_ “<b>while carrying out</b> (one’s) duties”,
 * _գրախանութ <b>մտնելիս</b>_ “<b>when entering </b> a bookstore”,
 * _փողոցով <b>անցնելիս</b> չեմ խաչակնքվում_ “I don't cross myself <b>when walking</b> down the street”,
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:23 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:07 CET -->

@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 43.000000 (the average of all parts of speech is 2.345984).
+The form / lemma ratio of `AUX` is 43.000000 (the average of all parts of speech is 2.346578).
 
 The 1st highest number of forms (43) was observed with the lemma “εἰμί”: <em>εἰμι, εἰμὶ, εἰσίν, εἰσιν, εἰσὶν, εἴ, εἴη, εἶ, εἶναί, εἶναι, οὖσα, ἐσμέν, ἐσμεν, ἐσμὲν, ἐσομένου, ἐστίν, ἐστε, ἐστιν, ἐστὲ, ἐστὶν, ἐσόμεθα, ἔσεσθε, ἔσομαι, ἔσονταί, ἔσονται, ἔσται, ἔστιν, ἔστω, ἔστωσαν, ἔσῃ, ἦν, ἦς, ἦσαν, ἦσθα, ὂν, ὄντας, ὄντες, ὄντι, ὄντος, ὢν, ὦσίν, ὦσιν, ᾖ</em>.
 

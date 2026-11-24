@@ -19,3 +19,4 @@ The `nsubj:pass` relation is used for the nominal subject of a passive predicate
 ~~~
 
 The same relation is used for the nominal subject of reflexive passive and mediopassive constructions whose clitic takes [expl:pass](). A clausal passive subject takes [csubj:pass]().
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:59 CET -->

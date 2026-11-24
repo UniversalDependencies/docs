@@ -32,8 +32,8 @@ The 2nd highest number of forms (1) was observed with the lemma “xepxep”: <e
 `NUM` occurs with 1 feature-value pairs: `NumType=Card`
 
 `NUM` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (1 tokens).
-Examples: <em>pug̃</em>
+The most frequent feature combination is `NumType=Card` (1 tokens).
+Examples: <em>xepxep</em>
 
 
 ## Relations

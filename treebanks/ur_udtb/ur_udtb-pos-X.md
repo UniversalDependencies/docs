@@ -39,7 +39,7 @@ The 10 most frequent ambiguous types:  افسوس (<tt><a href="ur_udtb-pos-NOUN
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.103404).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.103337).
 
 The 1st highest number of forms (1) was observed with the lemma “ئن”: ئن.
 

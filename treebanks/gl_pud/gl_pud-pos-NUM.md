@@ -47,7 +47,7 @@ The 10 most frequent ambiguous types:  <em>dous</em> (<tt><a href="gl_pud-pos-NU
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.102679 (the average of all parts of speech is 1.320042).
+The form / lemma ratio of `NUM` is 1.102679 (the average of all parts of speech is 1.320110).
 
 The 1st highest number of forms (4) was observed with the lemma “primeiro”: <em>primeira, primeiras, primeiro, primeiros</em>.
 
@@ -66,7 +66,7 @@ Examples: <em>dous, tres, dúas, 1, catro, seis, 10, 3, dez, 100</em>
 
 ## Relations
 
-`NUM` nodes are attached to their parents using 13 different relations: <tt><a href="gl_pud-dep-nummod.html">nummod</a></tt> (306; 61% instances), <tt><a href="gl_pud-dep-obl.html">obl</a></tt> (98; 20% instances), <tt><a href="gl_pud-dep-nmod.html">nmod</a></tt> (38; 8% instances), <tt><a href="gl_pud-dep-appos.html">appos</a></tt> (13; 3% instances), <tt><a href="gl_pud-dep-conj.html">conj</a></tt> (12; 2% instances), <tt><a href="gl_pud-dep-flat-name.html">flat:name</a></tt> (12; 2% instances), <tt><a href="gl_pud-dep-compound.html">compound</a></tt> (9; 2% instances), <tt><a href="gl_pud-dep-nsubj.html">nsubj</a></tt> (7; 1% instances), <tt><a href="gl_pud-dep-fixed.html">fixed</a></tt> (2; 0% instances), <tt><a href="gl_pud-dep-obj.html">obj</a></tt> (2; 0% instances), <tt><a href="gl_pud-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="gl_pud-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 0% instances), <tt><a href="gl_pud-dep-root.html">root</a></tt> (1; 0% instances)
+`NUM` nodes are attached to their parents using 13 different relations: <tt><a href="gl_pud-dep-nummod.html">nummod</a></tt> (306; 61% instances), <tt><a href="gl_pud-dep-obl.html">obl</a></tt> (97; 19% instances), <tt><a href="gl_pud-dep-nmod.html">nmod</a></tt> (39; 8% instances), <tt><a href="gl_pud-dep-appos.html">appos</a></tt> (13; 3% instances), <tt><a href="gl_pud-dep-conj.html">conj</a></tt> (12; 2% instances), <tt><a href="gl_pud-dep-flat-name.html">flat:name</a></tt> (12; 2% instances), <tt><a href="gl_pud-dep-compound.html">compound</a></tt> (9; 2% instances), <tt><a href="gl_pud-dep-nsubj.html">nsubj</a></tt> (7; 1% instances), <tt><a href="gl_pud-dep-fixed.html">fixed</a></tt> (2; 0% instances), <tt><a href="gl_pud-dep-obj.html">obj</a></tt> (2; 0% instances), <tt><a href="gl_pud-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="gl_pud-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 0% instances), <tt><a href="gl_pud-dep-root.html">root</a></tt> (1; 0% instances)
 
 Parents of `NUM` nodes belong to 12 different parts of speech: <tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt> (326; 65% instances), <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt> (103; 21% instances), <tt><a href="gl_pud-pos-PROPN.html">PROPN</a></tt> (23; 5% instances), <tt><a href="gl_pud-pos-NUM.html">NUM</a></tt> (19; 4% instances), <tt><a href="gl_pud-pos-SYM.html">SYM</a></tt> (17; 3% instances), <tt><a href="gl_pud-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="gl_pud-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="gl_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="gl_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances),  (1; 0% instances), <tt><a href="gl_pud-pos-X.html">X</a></tt> (1; 0% instances)
 

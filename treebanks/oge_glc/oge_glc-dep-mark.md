@@ -8,48 +8,31 @@ udver: '2'
 
 This relation is universal.
 
-224 nodes (3%) are attached to their parents as `mark`.
+1168 nodes (3%) are attached to their parents as `mark`.
 
-221 instances of `mark` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.76339285714286.
+1110 instances of `mark` (95%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.14811643835616.
 
-The following 11 pairs of parts of speech are connected with `mark`: <tt><a href="oge_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> (117; 52% instances), <tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> (50; 22% instances), <tt><a href="oge_glc-pos-PRON.html">PRON</a></tt>-<tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> (19; 8% instances), <tt><a href="oge_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> (18; 8% instances), <tt><a href="oge_glc-pos-ADV.html">ADV</a></tt>-<tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> (9; 4% instances), <tt><a href="oge_glc-pos-ADP.html">ADP</a></tt>-<tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> (3; 1% instances), <tt><a href="oge_glc-pos-AUX.html">AUX</a></tt>-<tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> (3; 1% instances), <tt><a href="oge_glc-pos-PART.html">PART</a></tt>-<tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="oge_glc-pos-NUM.html">NUM</a></tt>-<tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="oge_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="oge_glc-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="oge_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="oge_glc-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `mark`: <tt><a href="oge_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> (737; 63% instances), <tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> (226; 19% instances), <tt><a href="oge_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> (93; 8% instances), <tt><a href="oge_glc-pos-PRON.html">PRON</a></tt>-<tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> (42; 4% instances), <tt><a href="oge_glc-pos-AUX.html">AUX</a></tt>-<tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> (33; 3% instances), <tt><a href="oge_glc-pos-ADV.html">ADV</a></tt>-<tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> (13; 1% instances), <tt><a href="oge_glc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> (8; 1% instances), <tt><a href="oge_glc-pos-NUM.html">NUM</a></tt>-<tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="oge_glc-pos-ADP.html">ADP</a></tt>-<tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="oge_glc-pos-PART.html">PART</a></tt>-<tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="oge_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="oge_glc-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="oge_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="oge_glc-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="oge_glc-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="oge_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="oge_glc-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 mark	color:blue
-1	ხოლო	ხოლო	CCONJ	Conj	_	3	cc	_	Translit=xolo
-2	უკუეთუ	უკუეთუ	SCONJ	SCONJ	_	3	mark	_	Translit=ukuetʻu
-3	იკადროს	კადრება	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	Translit=ikadros
-4	ამისი	ესე	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	5	nmod	_	Translit=amisi
-5	ქმნაჲ	ქმნა	NOUN	Noun	Case=Nom|Number=Sing	3	obj	_	SpaceAfter=No|Translit=kʻmnay
-6	,	,	PUNCT	F	PunctType=Comm	7	punct	_	Translit=,
-7	განიკუეთენ	განკუეთა	VERB	Verb	Aspect=Perf|Mood=Imp|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No|Translit=ganikuetʻen
-8	.	.	PUNCT	F	PunctType=Peri	7	punct	_	Translit=.
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 5 mark	color:blue
-1	მობაძავ	მობაძავი	NOUN	Noun	Case=Nom|Number=Plur	3	xcomp	_	Translit=mobażav
-2	ჩემდა	მე	PRON	Pron	Case=Dat|Number=Sing|Person=1|PronType=Prs	1	nmod	_	Translit=čʻemda
-3	იყვენით	ყოფა	AUX	Verb	Aspect=Imp|Mood=Imp|Number[subj]=Plur|Person[subj]=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=iqvenitʻ
-4	,	,	PUNCT	F	PunctType=Comm	3	punct	_	Translit=,
-5	ვითარცა	ვითარცა	SCONJ	SCONJ	_	8	mark	_	Translit=vitʻarcʻa
-6	მე	მე	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	Translit=me
-7	–	–	PUNCT	F	PunctType=Dash	8	punct	_	Translit=–
-8	ქრისტესა	ქრისტე	NOUN	Noun	Case=Dat|Number=Sing	3	advcl	_	SpaceAfter=No|Translit=kʻristesa
-9	“	“	PUNCT	F	PunctSide=Fin|PunctType=Quot	8	punct	_	SpaceAfter=No|Translit=“
-10	.	.	PUNCT	F	PunctType=Peri	3	punct	_	Translit=.
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 mark	color:blue
+1	ხოლო	ხოლო	CCONJ	Conj	_	4	cc	_	Translit=xolo
+2	უკუეთუ	უკუეთუ	SCONJ	Conj	_	4	mark	_	Translit=ukuetʻu
+3	მამასა	მამა	NOUN	Noun	Case=Dat|Number=Sing	4	iobj	_	Translit=mamasa
+4	მიეცა	მიცემა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Pass	9	advcl	_	Translit=miecʻa
+5	სისხლი	სისხლი	NOUN	Noun	Case=Nom|Number=Sing	4	nsubj	_	Translit=sisxli
+6	მისი	მისი	PRON	Pron	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	nmod	_	SpaceAfter=No|Translit=misi
+7	,	,	PUNCT	F	PunctType=Comm	4	punct	_	Translit=,
+8	ვითარ	ვითარ	ADV	Adv	AdvType=Man	9	advmod	_	Translit=vitʻar
+9	არს	ყოფა	AUX	Verb	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=ars
+10	ესე	ესე	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	9	nsubj	_	SpaceAfter=No|Translit=ese
+11	?	?	PUNCT	F	PunctType=Qest	9	punct	_	Translit=?
 
 ~~~
 
@@ -57,42 +40,38 @@ The following 11 pairs of parts of speech are connected with `mark`: <tt><a href
 ~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 mark	color:blue
+1	და	და	CCONJ	Conj	_	6	cc	_	Translit=da
+2	უკუეთუ	უკუეთუ	SCONJ	Conj	_	4	mark	_	Translit=ukuetʻu
+3	ვითარცა	ვითარცა	SCONJ	Conj	_	4	mark	_	Translit=vitʻarcʻa
+4	ღმერთი	ღმერთი	NOUN	Noun	Case=Nom|Number=Sing	6	advcl	_	SpaceAfter=No|Translit=ġmertʻi
+5	,	,	PUNCT	F	PunctType=Comm	4	punct	_	Translit=,
+6	რაჲ	რა	PRON	Pron	Case=Nom|Number=Sing|PronType=Int	0	root	_	Translit=ray
+7	არს	ყოფა	AUX	Verb	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin	6	cop	_	Translit=ars
+8	ესე	ესე	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	6	nsubj	_	SpaceAfter=No|Translit=ese
+9	?	?	PUNCT	F	PunctType=Qest	6	punct	_	Translit=?
+
+~~~
+
+
+~~~ conllu
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 6 2 mark	color:blue
-1	ხოლო	ხოლო	CCONJ	Conj	_	6	cc	_	Translit=xolo
-2	თუ	თუ	SCONJ	Conj	_	6	mark	_	Translit=tʻu
-3	ვითარი	ვითარი	PRON	Pron	Case=Nom|Number=Sing|PronType=Int	4	det	_	Translit=vitʻari
-4	პატივი	პატივი	NOUN	Noun	Case=Nom|Number=Sing	6	nsubj	_	Translit=pativi
-5	აქუნდა	ქონება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[io]=Plur|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=akʻunda
-6	მათ	იგი	PRON	Pron	Case=Dat|Number=Plur|PronType=Prs	5	iobj	_	SpaceAfter=No|Translit=matʻ
-7	,	,	PUNCT	F	PunctType=Comm	5	punct	_	Translit=,
-8	ანუ	ანუ	CCONJ	Conj	_	12	cc	_	Translit=anu
-9	რომელი	რომელი	PRON	Pron	Case=Nom|Number=Sing|PronType=Int	10	det	_	Translit=romeli
-10	ჴელთ	ჴელი	NOUN	Noun	Case=Dat|Number=Plur	11	nmod	_	Translit=x̣eltʻ
-11	დასხმაჲ	დასხმა	VERB	Verb	Case=Nom|Number=Sing|VerbForm=Vnoun	12	obj	_	Translit=dasxmay
-12	შეიწყნარეს	შეწყნარება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	SpaceAfter=No|Translit=šeicqnares
-13	,	,	PUNCT	F	PunctType=Comm	14	punct	_	Translit=,
-14	საჭირო	საჭირო	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	5	parataxis	_	Translit=sačiro
-15	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	cop	_	SpaceAfter=No|Translit=ars
-16	,	,	PUNCT	F	PunctType=Comm	14	punct	_	Translit=,
-17	რაჲთა	რაჲთა	SCONJ	Conj	_	18	mark	_	Translit=raytʻa
-18	ვისწავოთ	სწავლა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Plur|Person[subj]=1|Tense=Pres|VerbForm=Fin|Voice=Act	14	csubj	_	SpaceAfter=No|Translit=viscavotʻ
-19	,	,	PUNCT	F	PunctType=Comm	18	punct	_	Translit=,
-20	ნუუკუე	ნუუკუე	PART	Part	PartType=Neg	23	advmod:neg	_	Translit=nuukue
-21	დიაკონთაჲ	დიაკონი	NOUN	Noun	Case=Nom|Number=Plur	23	nsubj	_	Translit=diakontʻay
-22	გარნა	გარნა	CCONJ	Conj	_	23	cc	_	Translit=garna
-23	ესე	ესე	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	18	acl	_	Translit=ese
-24	ეკლესიათა	ეკლესია	NOUN	Noun	Case=Gen|Number=Plur	25	nmod	_	Translit=eklesiatʻa
-25	შინა	შინა	ADP	Post	AdpType=Post|Case=Gen	23	obl	_	Translit=šina
-26	არა	არა	PART	Part	PartType=Neg	23	advmod:neg	_	Translit=ara
-27	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	23	cop	_	SpaceAfter=No|Translit=ars
-28	,	,	PUNCT	F	PunctType=Comm	32	punct	_	Translit=,
-29	არამედ	არამედ	CCONJ	Conj	_	32	cc	_	Translit=aramed
-30	ხუცესთაჲ	ხუცესი	NOUN	Noun	Case=Nom|Number=Plur	32	nsubj	_	Translit=xucʻestʻay
-31	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	32	cop	_	Translit=ars
-32	განმგებელობაჲ	განმგებელობაჲ	NOUN	Noun	Case=Nom|Number=Sing	27	conj	_	SpaceAfter=No|Translit=ganmgebelobay
-33	.	.	PUNCT	F	PunctType=Peri	5	punct	_	Translit=.
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 6 mark	color:blue
+1	ტკბილ	ტკბილი	ADJ	Adj	Case=Abs|Degree=Pos|Number=Sing	0	root	_	Translit=tkbil
+2	არიან	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin	1	cop	_	Translit=arian
+3	სამშჭუალნი	სამშჭუალი	NOUN	Noun	Case=Nom|Number=Plur	1	nsubj	_	Translit=samščualni
+4	იგი	იგი	PRON	Pron	Case=Nom|Number=Plur|Person=3|PronType=Dem	3	det	_	SpaceAfter=No|Translit=igi
+5	,	,	PUNCT	F	PunctType=Comm	8	punct	_	Translit=,
+6	დაღაცათუ	დაღაცათუ	SCONJ	Conj	_	8	mark	_	Translit=daġacʻatʻu
+7	ფრიად	ფრიად	ADV	Adv	AdvType=Man	8	advmod	_	Translit=pʻriad
+8	სატკივარ	სატკივარი	ADJ	Adj	Case=Abs|Degree=Pos|Number=Sing	1	advcl	_	Translit=satkivar
+9	არიან	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin	8	cop	_	SpaceAfter=No|Translit=arian
+10	.	.	PUNCT	F	PunctType=Peri	1	punct	_	Translit=.
 
 ~~~
 

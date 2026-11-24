@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-70 nodes (0%) are attached to their parents as `iobj`.
+71 nodes (0%) are attached to their parents as `iobj`.
 
-53 instances of `iobj` (76%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.41428571428571.
+54 instances of `iobj` (76%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.45070422535211.
 
-The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_pud-pos-PRON.html">PRON</a></tt> (44; 63% instances), <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt> (14; 20% instances), <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_pud-pos-PROPN.html">PROPN</a></tt> (11; 16% instances), <tt><a href="gl_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_pud-pos-PRON.html">PRON</a></tt> (44; 62% instances), <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt> (15; 21% instances), <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_pud-pos-PROPN.html">PROPN</a></tt> (11; 15% instances), <tt><a href="gl_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

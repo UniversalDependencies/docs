@@ -45,7 +45,7 @@ The following 2 pairs of parts of speech are connected with `appos`: <tt><a href
 1	Ŝi	ŝi	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Prs	2	nsubj	_	_
 2	kreskis	kreski	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 3	en	en	ADP	_	_	4	case	_	_
-4	Parizo	Parizo	PROPN	_	Case=Nom|Number=Sing	2	nmod	_	SpaceAfter=No
+4	Parizo	Parizo	PROPN	_	Case=Nom|Number=Sing	2	obl	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	_
 6	la	la	DET	_	Definite=Def|PronType=Art	7	det	_	_
 7	ĉefurbo	ĉefurbo	NOUN	_	Case=Nom|Number=Sing	4	appos	_	_

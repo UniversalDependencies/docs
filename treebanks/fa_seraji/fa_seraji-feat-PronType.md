@@ -33,6 +33,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 <table>
   <tr><th>Paradigm <i>آن</i></th><th><tt>Prs</tt></th><th><tt>Dem</tt></th></tr>
+  <tr><td><tt><tt><a href="fa_seraji-feat-ExtPos.html">ExtPos</a></tt><tt>=ADV</tt>|<tt><a href="fa_seraji-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>آن</td></tr>
   <tr><td><tt><tt><a href="fa_seraji-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>آن, دان, اش</td></tr>
   <tr><td><tt><tt><a href="fa_seraji-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fa_seraji-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>ش, اش</td><td></td></tr>
   <tr><td><tt><tt><a href="fa_seraji-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>آن‌ها, آنان, آنها, آن‌هایی</td></tr>

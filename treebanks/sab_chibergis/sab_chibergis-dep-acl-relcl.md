@@ -29,7 +29,7 @@ The following 1 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 5	kiro	kiro	NOUN	_	_	9	nsubj	_	AlignBegin=45662|AlignEnd=46270|GE=child|Gloss=child|nWord=5|RX=[N]
 6	che	che	PRON	_	_	7	nmod:poss	_	AlignBegin=46270|AlignEnd=46878|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=6|RX=[PRO]
 7	daba	daba	NOUN	_	_	8	nsubj	_	AlignBegin=46878|AlignEnd=47486|GE=brother|Gloss=brother|nWord=7|RX=[N]
-8	hokeda	hokeked	VERB	_	_	5	acl:relcl	_	AlignBegin=47486|AlignEnd=48094|GE=die|Gloss=go-ASP|nWord=8|RX=[V]
+8	hokeda	hoke	VERB	_	_	5	acl:relcl	_	AlignBegin=47486|AlignEnd=48094|GE=die|Gloss=go-ASP|nWord=8|RX=[V]
 9	bagedale	bag	VERB	_	_	0	root	_	AlignBegin=48094|AlignEnd=48702|GE=[IRR]|Gloss=ceremoniate-THM-IRR|nWord=9|RX=[V:ANY]
 10	.	_	PUNCT	_	_	9	punct	_	AlignBegin=48702|AlignEnd=49310|Gloss=.|nWord=10
 

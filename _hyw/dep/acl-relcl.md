@@ -18,3 +18,4 @@ A relative clause modifier of a noun is a relative clause that modifies the noun
 7	կը	կը	AUX	_	Aspect=Imp|Mood=Ind	8	aux	_	Translit=kë|LTranslit=kë
 8	ծախէր	ծախել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Imp|VerbForm=Fin|Voice=Act	1	acl:relcl	_	Translit=çaxēr|LTranslit=çaxel
 ~~~
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:11 CET -->

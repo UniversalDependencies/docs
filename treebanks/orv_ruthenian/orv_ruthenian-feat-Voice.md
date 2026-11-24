@@ -12,17 +12,17 @@ It occurs with 3 different values: `Act`, `Mid`, `Pass`.
 13456 tokens (10%) have a non-empty value of `Voice`.
 5328 types (21%) occur at least once with a non-empty value of `Voice`.
 1739 lemmas (18%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 2 part-of-speech tags: <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (11702; 9% instances), <tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (1754; 1% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (11703; 9% instances), <tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (1753; 1% instances).
 
 ### `VERB`
 
-11702 <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> tokens (99% of all `VERB` tokens) have a non-empty value of `Voice`.
+11703 <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> tokens (99% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="orv_ruthenian-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (9159; 78%), <tt><a href="orv_ruthenian-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (9101; 78%), <tt><a href="orv_ruthenian-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7964; 68%), <tt><a href="orv_ruthenian-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (6415; 55%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="orv_ruthenian-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (9160; 78%), <tt><a href="orv_ruthenian-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (9102; 78%), <tt><a href="orv_ruthenian-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7965; 68%), <tt><a href="orv_ruthenian-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (6415; 55%).
 
 `VERB` tokens may have the following values of `Voice`:
 
-* `Act` (10186; 87% of non-empty `Voice`): <em>дали, казали, мають, мают(ь), дал, маеть, держати, послали, записа(т), далъ</em>
+* `Act` (10187; 87% of non-empty `Voice`): <em>дали, казали, мають, мают(ь), дал, маеть, держати, послали, записа(т), далъ</em>
 * `Mid` (558; 5% of non-empty `Voice`): <em>приточиласѧ, приточилася, въступатисѧ, приточиласе, вступатисѧ, въстꙋпатисѧ, билисѧ, виделосѧ, встꙋпатисѧ, жаловалсѧ</em>
 * `Pass` (958; 8% of non-empty `Voice`): <em>псан, записано, писан, дано, выписано, писаныи, писаные, писанъ, псанъ, дан</em>
 * `EMPTY` (82): <em>надобе, надобѣ, нетъ, нѣтъ, потреба, нет, нѣт, ре, -въши, встыдъ</em>
@@ -48,13 +48,13 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 ### `AUX`
 
-1754 <tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> tokens (81% of all `AUX` tokens) have a non-empty value of `Voice`.
+1753 <tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> tokens (81% of all `AUX` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="orv_ruthenian-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1477; 84%), <tt><a href="orv_ruthenian-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1184; 68%), <tt><a href="orv_ruthenian-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1155; 66%), <tt><a href="orv_ruthenian-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (973; 55%), <tt><a href="orv_ruthenian-feat-Analyt.html">Analyt</a></tt><tt>=Yes</tt> (921; 53%).
+The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="orv_ruthenian-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1476; 84%), <tt><a href="orv_ruthenian-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1184; 68%), <tt><a href="orv_ruthenian-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1170; 67%), <tt><a href="orv_ruthenian-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (972; 55%), <tt><a href="orv_ruthenian-feat-Analyt.html">Analyt</a></tt><tt>=Yes</tt> (921; 53%).
 
 `AUX` tokens may have the following values of `Voice`:
 
-* `Act` (1754; 100% of non-empty `Voice`): <em>есмо, были, было, быти, будучи, был, есми, былъ, есте, есть</em>
+* `Act` (1753; 100% of non-empty `Voice`): <em>есмо, были, было, быти, был, будучи, есми, былъ, есте, есть</em>
 * `EMPTY` (414): <em>бы, быхмо, (м), б, бъ, мъ, быхомъ, быхом, бы(м), (с)мо</em>
 
 ## Relations with Agreement in `Voice`
@@ -64,7 +64,7 @@ The 10 most frequent relations where parent and child node agree in `Voice`:
 <tt>VERB --[<tt><a href="orv_ruthenian-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1500; 82%),
 <tt>VERB --[<tt><a href="orv_ruthenian-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (972; 90%),
 <tt>VERB --[<tt><a href="orv_ruthenian-dep-aux.html">aux</a></tt>]--> AUX</tt> (839; 69%),
-<tt>VERB --[<tt><a href="orv_ruthenian-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (353; 79%),
+<tt>VERB --[<tt><a href="orv_ruthenian-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (354; 79%),
 <tt>VERB --[<tt><a href="orv_ruthenian-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (142; 86%),
 <tt>VERB --[<tt><a href="orv_ruthenian-dep-dislocated.html">dislocated</a></tt>]--> VERB</tt> (51; 84%),
 <tt>VERB --[<tt><a href="orv_ruthenian-dep-iobj.html">iobj</a></tt>]--> VERB</tt> (20; 87%),

@@ -47,4 +47,4 @@ TODO: advcl from nominals
 TODO: What about χαρά που πέρασε στο Πανεπιστήμιο
 -->
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:24 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:09 CET -->

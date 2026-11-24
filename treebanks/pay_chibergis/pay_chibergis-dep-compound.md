@@ -14,7 +14,7 @@ There are 2 language-specific subtypes of `compound`: <tt><a href="pay_chibergis
 36 instances of `compound` (58%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.30645161290323.
 
-The following 14 pairs of parts of speech are connected with `compound`: <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (24; 39% instances), <tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="pay_chibergis-pos-DET.html">DET</a></tt> (13; 21% instances), <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt>-<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> (6; 10% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (3; 5% instances), <tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (3; 5% instances), <tt><a href="pay_chibergis-pos-X.html">X</a></tt>-<tt><a href="pay_chibergis-pos-X.html">X</a></tt> (3; 5% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-NUM.html">NUM</a></tt> (2; 3% instances), <tt><a href="pay_chibergis-pos-NUM.html">NUM</a></tt>-<tt><a href="pay_chibergis-pos-NUM.html">NUM</a></tt> (2; 3% instances), <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt>-<tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt>-<tt><a href="pay_chibergis-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> (1; 2% instances), <tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt> (1; 2% instances).
+The following 13 pairs of parts of speech are connected with `compound`: <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (24; 39% instances), <tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="pay_chibergis-pos-DET.html">DET</a></tt> (13; 21% instances), <tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt> (7; 11% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (3; 5% instances), <tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (3; 5% instances), <tt><a href="pay_chibergis-pos-X.html">X</a></tt>-<tt><a href="pay_chibergis-pos-X.html">X</a></tt> (3; 5% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-NUM.html">NUM</a></tt> (2; 3% instances), <tt><a href="pay_chibergis-pos-NUM.html">NUM</a></tt>-<tt><a href="pay_chibergis-pos-NUM.html">NUM</a></tt> (2; 3% instances), <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt>-<tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt>-<tt><a href="pay_chibergis-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> (1; 2% instances), <tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -56,20 +56,25 @@ The following 14 pairs of parts of speech are connected with `compound`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 4 compound	color:blue
-1	ã	ã	PRON	PRO	_	2	dep	_	AlignBegin=542680|AlignEnd=543201|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=1|RX=[PRO]|TokenType=Root|Word=ã
-2	=kan	=kan	PART	PRT	_	5	advmod	_	AlignBegin=543201|AlignEnd=543722|Gloss==SIM|MGloss==SIM|MSeg==kan|nWord=2|RX=[PRT]|TokenType=Clit|Word=kãn
-3	awa	awa	ADV	ADV	_	4	dep	_	AlignBegin=543722|AlignEnd=544243|Gloss=also|MGloss=also|MSeg=awa|nWord=3|RX=[ADV]|TokenType=Root|Word=ũ
-4	=ras	=ras	PART	PRT	_	2	compound	_	AlignBegin=544243|AlignEnd=544764|Gloss==REAS|MGloss==REAS|MSeg==ras|nWord=4|RX=[PRT]|TokenType=Clit|Word=ras
-5	ausiʔ	ausiʔ	NOUN	N	_	0	root	_	AlignBegin=544764|AlignEnd=545285|Gloss=poor|MGloss=poor|MSeg=ausiʔ|nWord=5|RX=[N]|TokenType=Root|Word=ausiʔ
-6	=ratVwa	r	AUX	V:ANY	_	5	cop	_	AlignBegin=545285|AlignEnd=545806|Gloss==COP|MGloss==COP -S1SG -NEG -PFV|MSeg==r-a-tV-wa|nWord=6|RX=[COP]|TokenType=Root|Word=retawa|wordform==r-a-tV-wa
-7	ameʃka	ameʃk	VERB	VT	_	8	compound:svc	_	AlignBegin=545806|AlignEnd=546067|Gloss=think|MGloss=O3SG- think -S1SG|MSeg=Ø-ameʃk-a|nWord=7|RX=[VT]|TokenType=Root|Word=amẽʃkapekõ|wordform=Ø-ameʃk-a
-8	pekawa	pek	VERB	V:ANY	_	9	dep	_	AlignBegin=546067|AlignEnd=546327|Gloss=bring|MGloss=bring -S1SG -PFV|MSeg=pek-a-wa|nWord=7|RX=[VT]|TokenType=Root|Word=amẽʃkapekõ|wordform=pek-a-wa
-9	=mã	=mã	SCONJ	PRT	_	5	dep	_	AlignBegin=546327|AlignEnd=546846|Gloss==when|MGloss==when|MSeg==mã|nWord=8|RX=[PRT]|TokenType=Clit|Word=mã
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 7 compound	color:blue
+1	tas	tas	PRON	PRO	_	4	nsubj	_	AlignBegin=437540|AlignEnd=437977|Gloss=PRO1|MGloss=PRO1|MSeg=tas|nWord=1|RX=[PRO]|TokenType=Root|Word=tas
+2	=ma	=ma	ADP	PRT	_	1	case	_	AlignBegin=437977|AlignEnd=438414|Gloss==TOP|MGloss==TOP|MSeg==ma|nWord=2|RX=[PRT]|TokenType=Clit|Word=ma
+3	ke	ke	ADV	ADV	_	4	obl:tmod	_	AlignBegin=438414|AlignEnd=438851|Gloss=already|MGloss=already|MSeg=ke|nWord=3|RX=[ADV]|TokenType=Root|Word=ke
+4	tʃatVpa	tʃa	AUX	V:ANY	Person=1	0	root	_	AlignBegin=438851|AlignEnd=439288|Gloss=be.there|MGloss=be.there -NEG -FUT|MSeg=tʃa-tV-pa|nWord=4|RX=[VI]|TokenType=Root|Word=tʃatapa|wordform=tʃa-tV-pa
+5	ã	ã	PRON	PRO	_	11	obl:mod	_	AlignBegin=439288|AlignEnd=439725|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=5|RX=[PRO]|TokenType=Root|Word=ã
+6	=kan	=kan	PART	PRT	_	5	case	_	AlignBegin=439725|AlignEnd=440162|Gloss==SIM|MGloss==SIM|MSeg==kan|nWord=6|RX=[PRT]|TokenType=Clit|Word=kan
+7	awa	awa	ADV	ADV	_	5	compound	_	AlignBegin=440162|AlignEnd=440599|Gloss=also|MGloss=also|MSeg=awa|nWord=7|RX=[ADV]|TokenType=Root|Word=wã
+8	=ras	=ras	SCONJ	PRT	_	7	mark	_	AlignBegin=440599|AlignEnd=441036|Gloss==REAS|MGloss==REAS|MSeg==ras|nWord=8|RX=[PRT]|TokenType=Clit|Word=rãs
+9	ã	ã	PRON	PRO	_	11	obj	_	AlignBegin=441036|AlignEnd=441473|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=9|RX=[PRO]|TokenType=Root|Word=ã
+10	=ra	=ra	ADP	PRT	_	9	case	_	AlignBegin=441473|AlignEnd=441910|Gloss==ACC|MGloss==ACC|MSeg==ra|nWord=10|RX=[PRT]|TokenType=Clit|Word=ra
+11	yãhawa	yãh	VERB	V:ANY	_	4	parataxis	_	AlignBegin=441910|AlignEnd=442347|Gloss=say|MGloss=O3SG- say -S1SG -PFV|MSeg=Ø-yãh-a-wa|nWord=11|RX=[VT]|TokenType=Root|Word=yãhãwã|wordform=Ø-yãh-a-wa
+12	ĩketa	ĩketa	NOUN	N	_	11	obl:tmod	_	AlignBegin=442347|AlignEnd=442784|Gloss=now|MGloss=now|MSeg=ĩketa|nWord=12|RX=[N]|TokenType=Root|Word=ĩketa
+13	tas	tas	PRON	PRO	_	11	dislocated	_	AlignBegin=442784|AlignEnd=443221|Gloss=PRO1|MGloss=PRO1|MSeg=tas|nWord=13|RX=[PRO]|TokenType=Root|Word=tas
+14	takaya	kaya	NOUN	N	_	11	dislocated	_	AlignBegin=443221|AlignEnd=443653|Gloss=history|MGloss=POSS1- history|MSeg=ta-kaya|nWord=14|RX=[N]|TokenType=Root|Word=takaya|wordform=ta-kaya
 
 ~~~
 

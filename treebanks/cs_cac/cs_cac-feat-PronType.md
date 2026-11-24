@@ -10,10 +10,10 @@ This feature is universal but the values `Emp` are language-specific.
 It occurs with 8 different values: `Dem`, `Emp`, `Ind`, `Int`, `Neg`, `Prs`, `Rel`, `Tot`.
 Some words have combined values of the feature; 1 combinations have been observed: `Int|Rel`.
 
-40802 tokens (8%) have a non-empty value of `PronType`.
+41021 tokens (8%) have a non-empty value of `PronType`.
 720 types (1%) occur at least once with a non-empty value of `PronType`.
 138 lemmas (0%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="cs_cac-pos-DET.html">DET</a></tt> (19810; 4% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (15986; 3% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (5006; 1% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="cs_cac-pos-DET.html">DET</a></tt> (19810; 4% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (15986; 3% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (5225; 1% instances).
 
 ### `DET`
 
@@ -65,15 +65,15 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 ### `ADV`
 
-5006 <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> tokens (18% of all `ADV` tokens) have a non-empty value of `PronType`.
+5225 <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> tokens (18% of all `ADV` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (5006; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (5006; 100%).
+The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (5225; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (5225; 100%).
 
 `ADV` tokens may have the following values of `PronType`:
 
-* `Dem` (2629; 53% of non-empty `PronType`): <em>tak, proto, zde, tam, tu, dosud, nyní, tehdy, tady, teď</em>
+* `Dem` (2846; 54% of non-empty `PronType`): <em>tak, proto, zde, tam, tu, dosud, nyní, tehdy, tady, teď</em>
 * `Ind` (300; 6% of non-empty `PronType`): <em>někdy, někde, kdysi, nějak, několikrát, někam, jaksi, jakkoli, jakkoliv, kdykoliv</em>
-* `Int,Rel` (1641; 33% of non-empty `PronType`): <em>jak, kde, kdy, proč, kam, odkud, kolikrát, kudy, dokdy, kdes</em>
+* `Int,Rel` (1643; 31% of non-empty `PronType`): <em>jak, kde, kdy, proč, kam, odkud, kolikrát, kudy, dokdy, kdes</em>
 * `Neg` (112; 2% of non-empty `PronType`): <em>nikdy, nijak, nikde, nikam</em>
 * `Rel` (53; 1% of non-empty `PronType`): <em>přičemž, jak</em>
 * `Tot` (271; 5% of non-empty `PronType`): <em>vždy, všude, odjakživa, navždy, odevždy</em>

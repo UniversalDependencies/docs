@@ -11,7 +11,7 @@ This relation is universal.
 16342 nodes (4%) are attached to their parents as `root`.
 
 16342 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.44364214906376.
+Average distance between parent and child is 7.44174519642639.
 
 The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (11969; 73% instances), -<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (2905; 18% instances), -<tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (992; 6% instances), -<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (176; 1% instances), -<tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (157; 1% instances), -<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (50; 0% instances), -<tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> (28; 0% instances), -<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (24; 0% instances), -<tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (15; 0% instances), -<tt><a href="fr_gsd-pos-X.html">X</a></tt> (11; 0% instances), -<tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (10; 0% instances), -<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (3; 0% instances), -<tt><a href="fr_gsd-pos-DET.html">DET</a></tt> (2; 0% instances).
 
@@ -47,7 +47,7 @@ The following 13 pairs of parts of speech are connected with `root`: -<tt><a hre
 4	pour	pour	ADP	_	_	7	case	_	_
 5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 6	futur	futur	ADJ	_	Gender=Masc|Number=Sing	7	amod	_	_
-7	baptisé	baptiser	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	9	obl:mod	_	Tense[denom]=Past
+7	baptisé	baptiser	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	9	obl:mod	_	Status[Tense]=Denom
 8	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	changement	changement	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Exponence[Gender]=Inherent
 10	de	de	ADP	_	_	11	case	_	_

@@ -8,206 +8,238 @@ udver: '2'
 <table>
   <thead>
   <tr>
-    <th width="16%" valign="top">
+    <th width="14%" valign="top">
       <h1>UD_Czech-CAC</h1>
     </th>
-    <th width="16%" valign="top">
+    <th width="14%" valign="top">
       <h1>UD_Czech-CLTT</h1>
     </th>
-    <th width="16%" valign="top">
+    <th width="14%" valign="top">
+      <h1>UD_Czech-CzeSL</h1>
+    </th>
+    <th width="14%" valign="top">
       <h1>UD_Czech-FicTree</h1>
     </th>
-    <th width="16%" valign="top">
+    <th width="14%" valign="top">
       <h1>UD_Czech-PDTC</h1>
     </th>
-    <th width="16%" valign="top">
+    <th width="14%" valign="top">
       <h1>UD_Czech-PUD</h1>
     </th>
-    <th width="16%" valign="top">
+    <th width="14%" valign="top">
       <h1>UD_Czech-Poetry</h1>
     </th>
   </tr>
   </thead>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <h2>Tokenization and Word Segmentation</h2>
+    </td>
+    <td width="14%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       <li>This corpus contains 24709 sentences, 493306 tokens and 494383 syntactic words.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       <li>This corpus contains 1121 sentences, 35997 tokens and 36013 syntactic words.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+      <li>This corpus contains 1642 sentences, 9965 tokens and 9971 syntactic words.</li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
       <li>This corpus contains 12760 sentences, 166432 tokens and 167056 syntactic words.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       <li>This corpus contains 213897 sentences, 3432078 tokens and 3440052 syntactic words.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       <li>This corpus contains 1000 sentences, 18564 tokens and 18609 syntactic words.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       <li>This corpus contains 297 sentences, 6273 tokens and 6289 syntactic words.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       <li>This corpus contains 57992 tokens (12%) that are not followed by a space.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       <li>This corpus contains 4034 tokens (11%) that are not followed by a space.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+      <li>This corpus contains 1620 tokens (16%) that are not followed by a space.</li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
       <li>This corpus contains 31659 tokens (19%) that are not followed by a space.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       <li>This corpus contains 387234 tokens (11%) that are not followed by a space.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       <li>This corpus contains 2636 tokens (14%) that are not followed by a space.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       <li>This corpus contains 1079 tokens (17%) that are not followed by a space.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       <li>This corpus does not contain words with spaces.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       <li>This corpus does not contain words with spaces.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       <li>This corpus does not contain words with spaces.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       <li>This corpus does not contain words with spaces.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+      <li>This corpus does not contain words with spaces.</li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
       <li>This corpus contains 10 types of words with spaces. Examples: 10 000, 100 000, 12 000, 15 001, 16 500, 19 999, 25 000, 330 000, 35 000, 600 000</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       <li>This corpus does not contain words with spaces.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       <li>This corpus does not contain words that contain both letters and punctuation.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       <li>This corpus contains 365 types of words that contain both letters and punctuation. Examples: a), b), c), d), e), f), h), g), i), j), B.II.3., jde-li, B.II.9., nestanoví-li, společníky,, technicko-ekonomickým, §_25_odst._3, A., B.II.5., M., X., XIII., nevznikla-li, §_1_odst._2_písm._b), §_1_odst._2_písm._d)_až_h), §_4_odst._10, A.II.6., B.I., B.II.2., B.II.4., B.II.6., B.II.8., I., O., R., a)_a_b), k), písm._a), společníkům,, zákona_č._563/1991_Sb., §_18_odst._1, §_1_odst._2_písm._a), §_20_odst._1_písm._a)_bodu_1, §_26_odst._3, §_31_odst._2, §_4_odst._8, B., B.II., B.II.1., B.III.4.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+      <li>This corpus contains 21 types of words that contain both letters and punctuation. Examples: Chc{ej|y}, Choř{l|t}ica, Frýdku-Místku, Lid{á|é}, Po{z|t}emkiným, he-he-he, hodi{n|m}, jiho-vyhodě, mod{r|v}ou, m{ě|é}, n{ě|i}čím, on-line, polsko-těšinským, tříd{y|u}, {8|E}vropě, {G|D}ospodní, {do|ob}jet, {Č|č}ívy, {č|Č}ími, {Š|š}la, československo-madarských</li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
       <li>This corpus contains 11 types of words that contain both letters and punctuation. Examples: Ha-vel, O-po-nu, pr-chá, A-ano, Cutter's, D-dobře, J-já, Ji-jistě, Za-pla-tit, bytí-na-zemi, t-tento</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       <li>This corpus contains 3 types of words that contain both letters and punctuation. Examples: Preud'homma, Preud'homme, Ze'ev</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       <li>This corpus contains 9 types of words that contain both letters and punctuation. Examples: e-maily, sci-fi, B-29, Ce-sü, Chu-nan, Chu-pej, Harley-Davidson, Šen-čenu, š’</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       <li>This corpus contains 10 types of words that contain both letters and punctuation. Examples: hloub’, hnět’, kvet’, můž’, odkvet’, stáh’, svrz’, zapomnět’, zastih’, zvad’</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       <li>This corpus contains 1077 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
       <li>There are 14 types of multi-word tokens. Examples: aby, abychom, kdyby, abyste, kdybychom, abych, oč, kdybych, zač, Abys, Kdybyste, kdybys, nač, sis.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       <li>This corpus contains 16 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
       <li>There are 1 types of multi-word tokens. Examples: aby.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+      <li>This corpus contains 6 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+      <li>There are 3 types of multi-word tokens. Examples: aby, Abych, zač.</li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
       <li>This corpus contains 624 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
       <li>There are 22 types of multi-word tokens. Examples: aby, abych, kdyby, kdybych, abys, abychom, ses, sis, abyste, kdybyste, kdybys, Tys, kdybychom, cos, oč, Dostalas, Nač, Slyšelas, Vždyťs, dovolils, pustils, zač.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       <li>This corpus contains 7974 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
       <li>There are 18 types of multi-word tokens. Examples: aby, kdyby, abychom, abych, kdybych, kdybychom, abyste, kdybyste, abys, kdybys, ses, sis, Abysme, Dones, Kdybysme, kdyžs, pochopils, tys.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       <li>This corpus contains 45 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
       <li>There are 5 types of multi-word tokens. Examples: aby, kdyby, abych, abychom, abyste.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       <li>This corpus contains 16 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
       <li>There are 12 types of multi-word tokens. Examples: aby, naň, Abychom, Došels, abych, cítil's, kdybys, musil’s, nač, si’s, tys, že’s.</li>
@@ -215,7 +247,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -224,7 +256,7 @@ udver: '2'
       <li>This corpus uses 17 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -234,7 +266,16 @@ udver: '2'
       <li>This corpus does not use the following tags: PROPN, INTJ</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <h2>Morphology</h2>
+      
+      <h3>Tags</h3>
+      
+      <ul>
+      <li>This corpus uses 17 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -244,7 +285,7 @@ udver: '2'
       <li>This corpus does not use the following tags: SYM</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -253,7 +294,7 @@ udver: '2'
       <li>This corpus uses 17 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -263,7 +304,7 @@ udver: '2'
       <li>This corpus does not use the following tags: INTJ, X</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -275,222 +316,256 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       <li>This corpus contains 46 word types tagged as particles (PART): Al, Anti, Copak, Cožpak, Jakby, La, Le, Nazdar, Nu, ahoj, ano, arciť, asi, ať, až, ba, bohdá, bohužel, co, das, des, el, fakt, jen, jenom, jo, kdoví, li, natož, ne, nechť, nejen, no, non, ovšem, prý, přece, quo, s, sice, takříkajíc, to, tož, viď, viďte, Žel</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       <li>This corpus contains 8 word types tagged as particles (PART): až, brutto, jen, li, ne, netto, nikoliv, to</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
-      <li>This corpus contains 122 word types tagged as particles (PART): A-ano, Což, Dobře, Díky, Fakt, Jestlipak, Ji-jistě, Neee, Nejenomže, Náhodou, Pardon, Pozor, Príma, ahoj, ale, alespoň, ani, ano, asi, aspoň, ať, až, ba, bezesporu, beztak, bohužel, budiž, bůhví, celkem, co, copak, div, dobrá, dokonce, doopravdy, dozajista, hned, i, jasně, jednoduše, jen, jenom, ještě, jistě, již, jo, kdepak, kdoví, když, klidně, koneckonců, konečně, kupodivu, kéž, leda, možná, nakonec, naneštěstí, naopak, například, natož, ne, nejen, nejenže, nejspíš, nepochybně, nesporně, nicméně, nikoli, nikoliv, no, opravdu, ostatně, ovšem, patrně, pochopitelně, prakticky, pravděpodobně, prej, prostě, právě, prý, přece, přeci, především, přesně, přímo, rozhodně, samozřejmě, sbohem, skoro, skutečně, snad, sotva, spíš, spíše, tak, takříkajíc, teda, teprve, to, totiž, třeba, určitě, už, viď, viďte, vlastně, vážně, však, vůbec, vždyť, zajisté, zas, zase, zejména, zkrátka, zrovna, zvláště, zvlášť, zřejmě, že</li>
+      <li>This corpus contains 11 word types tagged as particles (PART): Ahoj, Ano, Bohužel, Jinak, Kdoví, Takže, jenom, jenum, jo, ne, že</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
-      <li>This corpus contains 153 word types tagged as particles (PART): Bodejť, Což, Cožpak, Díkybohu, Fajn, Jestlipak, Ještěže, Jistěť, Nashle, Nejenomže, Nu, Perfekt, Zaplaťpánbůh, akorát, ale, alespoň, ani, ano, arciť, asi, aspoň, ať, až, ba, bezesporu, beztak, bohudík, bohužel, budiž, byť, bůhsuď, bůhví, cca, cirka, co, copak, div, dobrá, dobře, doopravdy, fakt, hlavně, hned, houby, i, jako, jakože, jakto, jasně, jen, jenom, ještě, jistě, jistěže, již, jo, kdepak, kdoví, když, kdyžtak, klidně, koneckonců, konečně, kupodivu, kurva, kéž, leda, li, možná, nakonec, naneštěstí, naopak, např, například, natož, nazdařbůh, naštěstí, ne, nechť, nejenže, nejspíš, nejspíše, nesporně, netto, nikoli, nikoliv, no, nuže, obzvláště, obzvlášť, ono, opravdu, ovšem, ovšemže, patrně, pouze, prakticky, pranic, pravda, prostě, proto, právě, právěže, prý, přece, přeci, především, přesně, přímo, relativně, rovněž, rozhodně, samozřejmě, sbohem, sice, skutečně, snad, sotva, spíš, spíše, stěží, tak, taky, také, takříkajíc, teda, to, totiž, tož, též, třeba, určitě, už, viď, viďte, vlastně, vole, však, vůbec, vždyť, zaplaťpánbu, zas, zase, zejm, zejména, zjevně, zkrátka, zrovna, zvláště, zvlášť, zřejmě, že, žel</li>
+      <li>This corpus contains 121 word types tagged as particles (PART): A-ano, Což, Dobře, Díky, Fakt, Jestlipak, Ji-jistě, Neee, Nejenomže, Náhodou, Pardon, Pozor, Príma, ahoj, ale, alespoň, ani, ano, asi, aspoň, ať, až, ba, bezesporu, beztak, bohužel, budiž, bůhví, celkem, co, copak, div, dobrá, dokonce, doopravdy, dozajista, hned, i, jasně, jednoduše, jen, jenom, ještě, jistě, již, jo, kdepak, kdoví, když, klidně, koneckonců, konečně, kupodivu, kéž, leda, možná, nakonec, naneštěstí, naopak, například, natož, ne, nejen, nejenže, nejspíš, nepochybně, nesporně, nicméně, nikoli, nikoliv, no, opravdu, ostatně, ovšem, patrně, pochopitelně, prakticky, pravděpodobně, prej, prostě, právě, prý, přece, přeci, především, přesně, přímo, rozhodně, samozřejmě, sbohem, skoro, skutečně, snad, sotva, spíš, spíše, takříkajíc, teda, teprve, to, totiž, třeba, určitě, už, viď, viďte, vlastně, vážně, však, vůbec, vždyť, zajisté, zas, zase, zejména, zkrátka, zrovna, zvláště, zvlášť, zřejmě, že</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+      <li>This corpus contains 152 word types tagged as particles (PART): Bodejť, Což, Cožpak, Díkybohu, Fajn, Jestlipak, Ještěže, Jistěť, Nashle, Nejenomže, Nu, Perfekt, Zaplaťpánbůh, akorát, ale, alespoň, ani, ano, arciť, asi, aspoň, ať, až, ba, bezesporu, beztak, bohudík, bohužel, budiž, byť, bůhsuď, bůhví, cca, cirka, co, copak, div, dobrá, dobře, doopravdy, fakt, hlavně, hned, houby, i, jako, jakože, jakto, jasně, jen, jenom, ještě, jistě, jistěže, již, jo, kdepak, kdoví, když, kdyžtak, klidně, koneckonců, konečně, kupodivu, kurva, kéž, leda, li, možná, nakonec, naneštěstí, naopak, např, například, natož, nazdařbůh, naštěstí, ne, nechť, nejenže, nejspíš, nejspíše, nesporně, netto, nikoli, nikoliv, no, nuže, obzvláště, obzvlášť, ono, opravdu, ovšem, ovšemže, patrně, pouze, prakticky, pranic, pravda, prostě, proto, právě, právěže, prý, přece, přeci, především, přesně, přímo, relativně, rovněž, rozhodně, samozřejmě, sbohem, sice, skutečně, snad, sotva, spíš, spíše, stěží, taky, také, takříkajíc, teda, to, totiž, tož, též, třeba, určitě, už, viď, viďte, vlastně, vole, však, vůbec, vždyť, zaplaťpánbu, zas, zase, zejm, zejména, zjevně, zkrátka, zrovna, zvláště, zvlášť, zřejmě, že, žel</li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
       <li>This corpus contains 13 word types tagged as particles (PART): Bohužel, Koneckonců, asi, ať, až, jen, jenom, ne, no, ovšem, snad, to, vůbec</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       <li>This corpus contains 11 word types tagged as particles (PART): Neb, as, ať, až, ba, jen, jenom, li, ne, nechť, nuž</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       <li>This corpus contains 35 lemmas tagged as pronouns (PRON): Tous, co, cokoliv, copak, cosi, což, eo, er, ipso, jenž, já, kdekdo, kdo, kdokoli, kdokoliv, kdopak, kdosi, kdovíco, leccos, leckdo, ledacos, málokdo, nic, nikdo, nízko, něco, někdo, on, qua, se, they, ty, veškerý, všecek, všechno</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       <li>This corpus contains 4 lemmas tagged as pronouns (PRON): jenž, on, se, veškerý</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+      <li>This corpus contains 13 lemmas tagged as pronouns (PRON): co, což, já, kdo, málokdo, nebe, nic, nikdo, něco, někdo, on, se, ty</li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
       <li>This corpus contains 30 lemmas tagged as pronouns (PRON): bůhvíco, co, cokoli, copak, cosi, což, cože, jenž, já, kdeco, kdekdo, kdo, kdokoli, kdopak, kdosi, leccos, ledaco, my, málokdo, nic, nikdo, něco, někdo, on, samy, se, ty, veškerý, von, všecek</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       <li>This corpus contains 41 lemmas tagged as pronouns (PRON): bůhvíco, co, cokoli, cokoliv, copak, cosi, což, cože, gdo, jenž, já, kdeco, kdekdo, kdo, kdokoli, kdokoliv, kdopak, kdosi, kdož, lecco, leccos, leckdo, leckdos, ledacos, ledasco, my, máloco, málokdo, nic, nikdo, něco, někdo, on, pranic, se, sotvakdo, ty, veškerý, vy, všecek, všelicos</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       <li>This corpus contains 17 lemmas tagged as pronouns (PRON): I, co, což, jenž, já, kdo, kdokoli, nic, nikdo, něco, někdo, on, se, ten, ty, veškerý, you</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       <li>This corpus contains 19 lemmas tagged as pronouns (PRON): co, cos, cosi, což, ego, jenž, já, kdo, nic, nikdo, něco, on, se, si, ten, tu, ty, vlast, všecek</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       <li>This corpus contains 52 lemmas tagged as determiners (DET): hoc, jaký, jakýkoli, jakýkoliv, jakýpak, jakýsi, jeho, jehož, jejichž, jejíž, každý, kdejaký, kdovíkolik, kolik, kolikátý, které, který, kterýkoli, kterýkoliv, kterýžto, leckterý, mnoho, málo, málokterý, můj, nejeden, nemálo, nějaký, několik, některý, něčí, onen, pražádný, quem, samý, sui, svůj, takový, takovýhle, takovýto, ten, tenhle, tenhleten, tento, tentýž, tolik, tvůj, týž, všechen, všelijaký, čí, žádný</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       <li>This corpus contains 20 lemmas tagged as determiners (DET): jaký, jakýkoliv, jeho, jehož, jejichž, jejíž, každý, který, kterýkoliv, několik, některý, samý, svůj, takový, takovýto, ten, tento, týž, všechen, žádný</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+      <li>This corpus contains 24 lemmas tagged as determiners (DET): hodně, jaký, jeho, každý, který, mnoho, moc, mít, můj, nějaký, několik, některý, on, samý, svůj, takový, ten, tenhle, tento, tolik, tvůj, všechen, čí, žádný</li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
       <li>This corpus contains 55 lemmas tagged as determiners (DET): bůhvíkolik, hodně, jaký, jakýkoli, jakýpak, jakýs, jakýsi, jeho, jehož, jejichž, jejíž, každý, kdekterý, kdovíjaký, kolik, které, který, lecjaký, leckterý, mnoho, moc, my, málo, méně, můj, nijaký, nějaký, několik, některý, něčí, onen, pražádný, samý, svůj, takový, takovýhle, takovýto, takýs, tamhleten, tamten, ten, tenhle, tenhleten, tento, tentýž, to, tolik, tvůj, týž, víc, více, všechen, všelijaký, čí, žádný</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       <li>This corpus contains 81 lemmas tagged as determiners (DET): bůhvíjaký, bůhvíkolikátý, jaký, jakýkoli, jakýkoliv, jakýpak, jakýs, jakýsi, jeho, jehož, každý, kdejaký, kdovíjaký, kerý, kolik, kolikpak, kolikátý, který, kterýkoli, kterýkoliv, kterýpak, kterýs, kterýžto, lecjaký, leckterý, ledajaký, ledasjaký, malinko, mnoho, málo, málokterý, móóc, můj, nemnoho, nemálo, ničí, náš, nějaký, někerý, několik, několikerý, několikátý, některý, něčí, onen, onyno, pražádný, pár, přemnoho, samý, svůj, tadyhleten, tadyten, takový, takovýhle, takovýto, taký, takýs, tamhleten, tamten, ten, tenhle, tenhleten, tenle, tento, tentýž, to, tolik, tolikerý, toť, tuhleten, tvůj, týž, váš, všechen, všelijaký, všeliký, všeljaký, čí, ňáký, žádný</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       <li>This corpus contains 27 lemmas tagged as determiners (DET): hodně, jaký, jakýkoli, jeho, jenž, každý, kolik, který, kterýkoli, mnoho, málo, můj, nějaký, několik, některý, onen, samý, svůj, takový, ten, tenhle, tento, tentýž, tolik, tvůj, všechen, žádný</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       <li>This corpus contains 25 lemmas tagged as determiners (DET): hodně, jaký, jeho, jehožto, jejich, jejichž, každý, kolik, který, málo, můj, nějaký, on, onen, samý, svůj, taková, ten, tento, tolik, tvůj, ty, všecek, všechen, žádný</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+      <li>Out of the above, 1 lemmas occurred sometimes as PRON and sometimes as DET: on</li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
       <li>Out of the above, 1 lemmas occurred sometimes as PRON and sometimes as DET: my</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       <li>Out of the above, 2 lemmas occurred sometimes as PRON and sometimes as DET: jenž, ten</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       <li>Out of the above, 4 lemmas occurred sometimes as PRON and sometimes as DET: on, ten, ty, všecek</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       <li>This corpus contains 2 lemmas tagged as auxiliaries (AUX): být, bývat</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       <li>This corpus contains 1 lemmas tagged as auxiliaries (AUX): být</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+      <li>This corpus contains 1 lemmas tagged as auxiliaries (AUX): být</li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
       <li>This corpus contains 2 lemmas tagged as auxiliaries (AUX): být, bývat</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       <li>This corpus contains 3 lemmas tagged as auxiliaries (AUX): být, bývat, bývávat</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       <li>This corpus contains 2 lemmas tagged as auxiliaries (AUX): být, bývat</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       <li>This corpus contains 2 lemmas tagged as auxiliaries (AUX): být, bývat</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       <li>There are 5 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+      <li>There are 5 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
       <li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
-      <ul>
-      <li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
-      </ul>
-    </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       <li>There are 5 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       <li>There are 5 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+      <li>There are 5 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
       <li>There are 5 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Conv
         <ul>
@@ -500,7 +575,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Conv
         <ul>
@@ -509,7 +584,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Conv
         <ul>
@@ -519,7 +597,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Conv
         <ul>
@@ -529,7 +607,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Conv
         <ul>
@@ -538,7 +616,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Conv
         <ul>
@@ -549,7 +627,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Fin
         <ul>
@@ -559,7 +637,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Fin
         <ul>
@@ -569,7 +647,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>Fin
+        <ul>
+          <li>AUX: je, jsem, jsme, jsou, budu, bych, bude, by, jste, nejsou</li>
+          <li>VERB: mám, má, jmenuje, chci, bydlím, líbí, jmenuju, mají, mam, máme</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Fin
         <ul>
@@ -579,7 +667,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Fin
         <ul>
@@ -589,7 +677,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Fin
         <ul>
@@ -599,7 +687,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Fin
         <ul>
@@ -611,7 +699,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Inf
         <ul>
@@ -621,7 +709,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Inf
         <ul>
@@ -631,7 +719,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>Inf
+        <ul>
+          <li>AUX: být, byt</li>
+          <li>VERB: mít, studovat, mit, chodit, dělat, pracovat, spát, vařit, bydlet, jit</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Inf
         <ul>
@@ -641,7 +739,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Inf
         <ul>
@@ -651,7 +749,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Inf
         <ul>
@@ -661,7 +759,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Inf
         <ul>
@@ -673,7 +771,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Part
         <ul>
@@ -684,7 +782,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Part
         <ul>
@@ -695,7 +793,19 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>Part
+        <ul>
+          <li>ADJ: pána, spolubydlícím, řečeno, Rano, honící, následující, obnovován, obývacího, plno, prozářeno</li>
+          <li>AUX: byl, bylo, byla, byli, byly, Bylí, Nebylo, bya</li>
+          <li>NOUN: skiareály</li>
+          <li>VERB: měla, chtěla, začala, narodila, chtěl, měli, nemohla, šla, měl, narodil</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Part
         <ul>
@@ -706,7 +816,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Part
         <ul>
@@ -717,7 +827,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Part
         <ul>
@@ -729,7 +839,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Part
         <ul>
@@ -742,7 +852,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Vnoun
         <ul>
@@ -751,13 +861,34 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
-
+    <td width="14%" valign="top">
+      <ul>
+        <li>Vnoun
+        <ul>
+          <li>NOUN: ocenění, ustanovení, vymezení, sestavení, účtování, uspořádání, použití, hospodaření, nabytí, obchodování</li>
+        </ul>
+        </li>
+      </ul>
     </td>
-    <td width="16%" valign="top">
-
+    <td width="14%" valign="top">
+      <ul>
+        <li>Vnoun
+        <ul>
+          <li>NOUN: cestování, oddělení, vzdělání, Usnesení, cesování, cvičení, nadělení, oblačení, oddělního, panování</li>
+        </ul>
+        </li>
+      </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>Vnoun
+        <ul>
+          <li>NOUN: oddělení, představení, přání, chování, trápení, jednání, zaměstnání, řešení, poznání, vzdělání</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Vnoun
         <ul>
@@ -766,7 +897,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Vnoun
         <ul>
@@ -775,7 +906,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Vnoun
         <ul>
@@ -786,59 +917,67 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h3>Nominal Features</h3>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h3>Nominal Features</h3>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h3>Nominal Features</h3>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h3>Nominal Features</h3>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h3>Nominal Features</h3>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <h3>Nominal Features</h3>
+    </td>
+    <td width="14%" valign="top">
       <h3>Nominal Features</h3>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Gender</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Gender</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Gender</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Gender</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Gender</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li><a>Gender</a></li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li><a>Gender</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Fem
           <ul>
@@ -849,7 +988,7 @@ udver: '2'
             <li>DET: které, která, této, své, naší, tato, svou, tyto, kterou, tuto</li>
             <li>NOUN: práce, práci, oblasti, době, společnosti, činnosti, výroby, teorie, organizace, strany</li>
             <li>NOUN-Vnoun: shromažďování</li>
-            <li>NUM: jedné, jednu, jedna, jednou, třetinu, třetina, třetiny, čtvrtiny, dvanáctinu, třetinou</li>
+            <li>NUM: jedné, jednu, jedna, jednou, dvěma, oběma</li>
             <li>PRON: ji, všechny, níž, ní, jí, jež, ni, veškeré, jíž, veškerou</li>
             <li>PROPN: KSČ, Praze, Praha, ČSAV, ČSSR, SSM, Škoda, Prahy, ČSR, NDR</li>
             <li>VERB-Conv: Počínajíc, chtíc, nechtíc, ponechávajíc, přejímajíc</li>
@@ -857,7 +996,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Fem
           <ul>
@@ -871,7 +1010,23 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>Fem
+          <ul>
+            <li>ADJ: českou, české, první, česká, pracovní, střední, skvělé, další, celou, dobrá</li>
+            <li>ADJ-Part: následující, spočívající</li>
+            <li>DET: svou, mé, ona, takovou, té, své, ta, Tato, naší, te</li>
+            <li>NOUN: rodina, republiku, země, republice, maminka, práce, prázdniny, univerzitě, hodin, rodinu</li>
+            <li>NUM: jedna, jednu, Jendou, Mongolštinová, jedná, jedné</li>
+            <li>PRON: ona, ní, ji, jí, Ony, nij</li>
+            <li>PROPN: praze, Eva, Praha, ČR, Prahy, Číně, Evropy, Evropě, Prahu, Moldávii</li>
+            <li>VERB-Part: Plakala</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Fem
           <ul>
@@ -890,7 +1045,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Fem
           <ul>
@@ -907,7 +1062,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Fem
           <ul>
@@ -926,7 +1081,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Fem
           <ul>
@@ -946,7 +1101,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Fem,Masc
           <ul>
@@ -958,7 +1113,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Fem,Masc
           <ul>
@@ -970,10 +1125,21 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>Fem,Masc
+          <ul>
+            <li>AUX-Part: byly</li>
+            <li>NOUN-Part: skiareály</li>
+            <li>VERB-Part: bydlely, neřekly, Videly, bavily, nearly, přišly, vznikly, vábily</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Fem,Masc
           <ul>
@@ -985,7 +1151,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Fem,Masc
           <ul>
@@ -997,12 +1163,12 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Fem,Neut
           <ul>
@@ -1016,7 +1182,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Fem,Neut
           <ul>
@@ -1029,10 +1195,25 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>Fem,Neut
+          <ul>
+            <li>ADJ: ráda, pána, jista, rada, spjata, vyhlášena, vštěpována, zakázána</li>
+            <li>ADJ-Part: pána, vyhlášena, vštěpována, zakázána</li>
+            <li>AUX-Part: byla, bya</li>
+            <li>DET: moje, naše, naša</li>
+            <li>NUM: dvě, obě</li>
+            <li>VERB: měla, chtěla, začala, narodila, nemohla, šla, pracovala, zamilovala, zavolala, bydlila</li>
+            <li>VERB-Part: měla, chtěla, začala, narodila, nemohla, šla, pracovala, zamilovala, zavolala, bydlila</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Fem,Neut
           <ul>
@@ -1046,7 +1227,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Fem,Neut
           <ul>
@@ -1060,12 +1241,12 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Masc
           <ul>
@@ -1083,7 +1264,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Masc
           <ul>
@@ -1100,7 +1281,26 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>Masc
+          <ul>
+            <li>ADJ: rád, nejhorší, první, český, dobrý, hezký, nejdůležitější, volný, zimní, běžný</li>
+            <li>ADJ-Part: spolubydlícím, honící, obnovován, obývacího, přinucen, připraven, přípraven, rozluštěn, vlnící, věřící</li>
+            <li>AUX-Part: byl, byli, Bylí</li>
+            <li>DET: můj, ten, každý, tento, muj, každy, takový, moje, všechny, všichni</li>
+            <li>NOUN: den, život, životě, rok, čas, roky, měsíc, roku, jazyk, lidi</li>
+            <li>NOUN-Vnoun: nadělení</li>
+            <li>NUM: jeden, dva, jednoho, Oba, jden</li>
+            <li>PRON: on, oni, Komu, Malokdo, Někdo, nikdo</li>
+            <li>PROPN: Adam, Ulaanbaatar, Češi, Vietnam, Vyšehrad, Honza, Jemenu, Krista, Morin, Poděbradech</li>
+            <li>VERB: chtěl, měli, měl, narodil, neměl, stal, šel, mluvil, rozhodl, zamiloval</li>
+            <li>VERB-Part: chtěl, měli, měl, narodil, neměl, stal, šel, mluvil, rozhodl, zamiloval</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Masc
           <ul>
@@ -1118,7 +1318,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Masc
           <ul>
@@ -1138,7 +1338,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Masc
           <ul>
@@ -1156,7 +1356,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Masc
           <ul>
@@ -1176,7 +1376,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Masc,Neut
           <ul>
@@ -1187,7 +1387,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Masc,Neut
           <ul>
@@ -1198,10 +1398,20 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>Masc,Neut
+          <ul>
+            <li>DET: toho, mém, mého, tohoto, její, kterém, svém, tím, Mému, meho</li>
+            <li>PRON: mu, ho, něj, Nej, neho, ním</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Masc,Neut
           <ul>
@@ -1212,7 +1422,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Masc,Neut
           <ul>
@@ -1223,12 +1433,12 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Neut
           <ul>
@@ -1247,7 +1457,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Neut
           <ul>
@@ -1256,6 +1466,7 @@ udver: '2'
             <li>AUX-Part: bylo</li>
             <li>DET: které, to, která, toto, všechna, její, některá, každé, samo, takové</li>
             <li>NOUN: období, ocenění, účetnictví, ustanovení, vymezení, sestavení, účtování, uspořádání, použití, hospodaření</li>
+            <li>NOUN-Vnoun: ocenění, ustanovení, vymezení, sestavení, účtování, uspořádání, použití, hospodaření, nabytí, obchodování</li>
             <li>NUM: jedno</li>
             <li>PRON: veškeré</li>
             <li>VERB-Part: došlo, trvalo, započalo, mohlo, přešlo, uzavřelo</li>
@@ -1263,7 +1474,24 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>Neut
+          <ul>
+            <li>ADJ: hlavní, nejdůležitější, národní, hezké, hlavním, idealní, jiné, malé, plné, skvělé</li>
+            <li>ADJ-Part: řečeno, Rano, plno, prozářeno, založeno, zavoláno</li>
+            <li>AUX-Part: bylo, Nebylo</li>
+            <li>DET: to, všechno, svoje, toto, vše, každé, své, Mé, každého, které</li>
+            <li>NOUN: let, město, města, D, P, b, městě, cestování, jídlo, číslo</li>
+            <li>NOUN-Vnoun: cestování, oddělení, vzdělání, Usnesení, cesování, cvičení, oblačení, oddělního, panování, použití</li>
+            <li>NUM: jedno</li>
+            <li>PROPN: Mongolska, Mongolsko, Mexiko, Česko, česku, Japonsku, K, Rusku, Bělorusku, Cervo</li>
+            <li>VERB-Part: povedlo, stalo, Připadalo, bolelo, honilo, líbilo, nefungovalo, nelišilo, nesvítilo, pohlcovalo</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Neut
           <ul>
@@ -1272,6 +1500,7 @@ udver: '2'
             <li>AUX-Part: bylo, nebylo, byla, bývalo, nebývalo, nebyla</li>
             <li>DET: to, všechno, tom, tím, toho, tomu, tohle, které, jeho, své</li>
             <li>NOUN: dítě, let, slova, září, místo, tělo, srdce, okna, štěstí, léta</li>
+            <li>NOUN-Vnoun: oddělení, představení, přání, chování, trápení, jednání, zaměstnání, řešení, poznání, vzdělání</li>
             <li>NUM: jedno, dvě, jednom, tři, jednoho, obě, jedním, půl, čtyř, čtyři</li>
             <li>PRON: je, ho, všecko, ně, něj, něm, co, jež, mu, ono</li>
             <li>PROPN: Československu, Německa, zoo, Československa, C, Japonska, Německu, Ruska, Angeles, Gobi</li>
@@ -1281,7 +1510,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Neut
           <ul>
@@ -1300,7 +1529,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Neut
           <ul>
@@ -1318,7 +1547,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Neut
           <ul>
@@ -1338,39 +1567,44 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Animacy</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Animacy</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Animacy</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Animacy</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Animacy</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li><a>Animacy</a></li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li><a>Animacy</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Anim
           <ul>
@@ -1387,7 +1621,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Anim
           <ul>
@@ -1400,7 +1634,25 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>Anim
+          <ul>
+            <li>ADJ: dobrý, milý, Chudý, Nejpopulárnější, Spodní, amerického, budoucí, cizí, domácích, druhy</li>
+            <li>ADJ-Part: honící, obývacího, vlnící, věřící, věřících, zdvihni</li>
+            <li>AUX-Part: byli, Bylí</li>
+            <li>DET: všichni, každy, každého, každý, moji, ti, sami, sámi, ušehni, všichní</li>
+            <li>NOUN: lidi, autor, lidé, lidí, pan, muž, obyvatel, pán, člověk, bratra</li>
+            <li>NOUN-Vnoun: nadělení</li>
+            <li>NUM: jednoho</li>
+            <li>PRON: oni, Komu, Malokdo, Někdo, nikdo</li>
+            <li>PROPN: Adam, Češi, Honza, Krista, Tomaš, Ulaanbaatar, khuur, Balchšovi, Bačka, Bořivoj</li>
+            <li>VERB-Part: měli, šli, Zamilovali, chodili, jezdili, pili, Mluvili, Navštivili, Omluvily, Přijeli</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Anim
           <ul>
@@ -1418,7 +1670,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Anim
           <ul>
@@ -1435,7 +1687,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Anim
           <ul>
@@ -1451,7 +1703,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Anim
           <ul>
@@ -1471,7 +1723,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Inan
           <ul>
@@ -1488,7 +1740,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Inan
           <ul>
@@ -1504,7 +1756,24 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>Inan
+          <ul>
+            <li>ADJ: nejhorší, první, český, nejdůležitější, dobrý, hezký, volný, zimní, běžný, lůžkové</li>
+            <li>ADJ-Part: spolubydlícím, zkoušející</li>
+            <li>AUX-Part: byly</li>
+            <li>DET: každý, tento, moje, ten, Můj, každy, svůj, Jaký, Naše, Ty</li>
+            <li>NOUN: den, život, životě, rok, čas, roky, měsíc, roku, jazyk, roce</li>
+            <li>NOUN-Part: skiareály</li>
+            <li>NUM: jeden</li>
+            <li>PROPN: Vietnam, Vyšehrad, Adam, Jemenu, Poděbradech, Trim, Ulaanbaatar, ADAM, Albertově, Aleksandrovsk</li>
+            <li>VERB-Part: bydlely, neřekly, Videly, bavily, nearly, přišly, vznikly, vábily</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Inan
           <ul>
@@ -1522,7 +1791,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Inan
           <ul>
@@ -1540,7 +1809,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Inan
           <ul>
@@ -1556,7 +1825,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Inan
           <ul>
@@ -1573,39 +1842,44 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Number</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Number</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Number</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Number</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Number</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li><a>Number</a></li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li><a>Number</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Dual
           <ul>
@@ -1618,10 +1892,20 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>Dual
+          <ul>
+            <li>ADJ: černema</li>
+            <li>NOUN: očima</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Dual
           <ul>
@@ -1633,7 +1917,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Dual
           <ul>
@@ -1646,7 +1930,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Dual
           <ul>
@@ -1656,7 +1940,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Dual
           <ul>
@@ -1668,7 +1952,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -1690,7 +1974,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -1700,6 +1984,7 @@ udver: '2'
             <li>AUX-Part: byly, nebyly</li>
             <li>DET: které, těchto, tyto, kterých, všech, která, kterým, všechny, všechna, ty</li>
             <li>NOUN: jednotky, závazků, jednotek, položek, náklady, závazky, nákladů, položky, informace, záznamy</li>
+            <li>NOUN-Vnoun: ustanovení, plnění, ocenění, opatření, sdružení, ustanoveních, ustanoveními, zařízení, řešení, Porušením</li>
             <li>NUM: tří, dvě, dvanácti, obě, dvěma, dva, dvou, obou, pěti, čtyři</li>
             <li>PRON: nichž, je, jim, jimiž, nich, veškeré, jimi, nimi, ně, veškerých</li>
             <li>VERB-Fin: mohou, použijí, sestavují, mají, účtují, nastanou, týkají, uvádějí, nepoužijí, považují</li>
@@ -1708,7 +1993,28 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>Plur
+          <ul>
+            <li>ADJ: pracovní, skvělé, krásné, lůžkové, měkké, velké, První, cizí, hezkých, jiných</li>
+            <li>ADJ-Part: vlnící, věřící, věřících, zdvihni</li>
+            <li>AUX-Fin: jsme, jsou, jste, nejsou, budete, Nejsme, budeme, bychom, byste, jšou</li>
+            <li>AUX-Part: byli, byly, Bylí</li>
+            <li>DET: všechny, moje, mé, ty, všichni, Naše, některých, svými, všech, moji</li>
+            <li>NOUN: let, roky, prázdniny, hodin, lidi, lidé, lidí, jazyky, Vánoce, města</li>
+            <li>NOUN-Part: skiareály</li>
+            <li>NOUN-Vnoun: nadělení</li>
+            <li>NUM: tři, dva, dvou, dvě, obou, obě, čtyři, Oba, ctyří, deseti</li>
+            <li>PRON: nás, je, my, oni, vas, vy, vám, Ony, nich, nim</li>
+            <li>PROPN: Češi, pardubice, pardubicich, pardubicích, Poděbradech, Čechách, čechach, Nadia, Pardubich, Pardubićich</li>
+            <li>VERB-Fin: mají, máme, jezdí, můžeme, musíme, slaví, jdeme, mužeme, necháme, oslavíme</li>
+            <li>VERB-Part: měli, šli, Zamilovali, bydlely, chodili, jezdili, neřekly, pili, Mluvili, Navštivili</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -1718,6 +2024,7 @@ udver: '2'
             <li>AUX-Part: byly, byli, byla, nebyly, nebyli, bývali, nebyla</li>
             <li>DET: které, jeho, ty, všichni, všechny, kteří, těch, svých, své, všech</li>
             <li>NOUN: oči, let, dveře, děti, lidé, slova, ruce, lidí, dveří, vlasy</li>
+            <li>NOUN-Vnoun: přání, představení, pochybení, psaní, trápení, doznání, hnutí, klesání, narození, nařízením</li>
             <li>NUM: dva, dvě, tři, oba, čtyři, dvou, obě, dvěma, pár, pěti</li>
             <li>PRON: je, nás, nám, nich, jim, vás, vám, vy, my, nimi</li>
             <li>PROPN: Němci, Poděbradech, Poděbrad, vánoce, Sudety, USA, Čechách, Američani, Čech, Čechy</li>
@@ -1728,7 +2035,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -1751,7 +2058,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -1773,7 +2080,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -1795,7 +2102,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Plur,Sing
           <ul>
@@ -1807,7 +2114,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Plur,Sing
           <ul>
@@ -1819,10 +2126,23 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>Plur,Sing
+          <ul>
+            <li>ADJ: ráda, pána, jista, rada, spjata, vyhlášena, vštěpována, zakázána</li>
+            <li>ADJ-Part: pána, vyhlášena, vštěpována, zakázána</li>
+            <li>AUX-Part: byla, bya</li>
+            <li>VERB: měla, chtěla, začala, narodila, nemohla, šla, pracovala, zamilovala, zavolala, bydlila</li>
+            <li>VERB-Part: měla, chtěla, začala, narodila, nemohla, šla, pracovala, zamilovala, zavolala, bydlila</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Plur,Sing
           <ul>
@@ -1834,7 +2154,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Plur,Sing
           <ul>
@@ -1846,12 +2166,12 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -1873,7 +2193,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -1883,6 +2203,7 @@ udver: '2'
             <li>AUX-Part: byl, bylo, nebyl</li>
             <li>DET: této, která, tohoto, který, které, tato, tento, kterém, kterému, to</li>
             <li>NOUN: jednotka, majetku, období, ocenění, účetnictví, položka, dni, závěrky, jednotky, ustanovení</li>
+            <li>NOUN-Vnoun: ocenění, ustanovení, vymezení, sestavení, účtování, uspořádání, použití, hospodaření, nabytí, obchodování</li>
             <li>NUM: jeden, jedné, dvanáct, jedno, jednoho, jednou, pět, deset, jednom, jednomu</li>
             <li>PRON: němž, jej, němuž, jí, jehož, ji, ní, níž, nějž, jenž</li>
             <li>VERB-Conv: počínaje</li>
@@ -1892,7 +2213,28 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>Sing
+          <ul>
+            <li>ADJ: českou, první, České, rád, hlavní, nejhorší, český, nejdůležitější, česká, dobrý</li>
+            <li>ADJ-Part: spolubydlícím, řečeno, Rano, honící, následující, obnovován, obývacího, plno, prozářeno, přinucen</li>
+            <li>AUX-Fin: je, jsem, budu, bych, bude, neni, není, Bud, bde, e</li>
+            <li>AUX-Part: byl, bylo, Nebylo</li>
+            <li>DET: to, moje, můj, ten, každý, svou, tento, muj, naše, každy</li>
+            <li>NOUN: den, rodina, město, republiku, život, životě, rok, čas, republice, země</li>
+            <li>NOUN-Vnoun: cestování, oddělení, vzdělání, Usnesení, cesování, cvičení, oblačení, oddělního, panování, použití</li>
+            <li>NUM: jeden, sedm, jedna, osm, pět, šest, jednoho, jednu, třicet, jedno</li>
+            <li>PRON: mi, ja, mě, já, mně, mu, ona, ní, on, ji</li>
+            <li>PROPN: praze, Adam, Eva, Praha, Mongolska, Prahy, Mongolsko, Číně, Evropy, Mexiko</li>
+            <li>VERB: mám, má, jmenuje, chci, bydlím, líbí, jmenuju, mam, bydlim, pracuje</li>
+            <li>VERB-Fin: mám, má, jmenuje, chci, bydlím, líbí, jmenuju, mam, bydlim, pracuje</li>
+            <li>VERB-Part: chtěl, měl, narodil, neměl, stal, šel, mluvil, rozhodl, zamiloval, Zavolal</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -1903,6 +2245,7 @@ udver: '2'
             <li>AUX-Part: byl, byla, bylo, nebyl, nebylo, nebyla, býval, bývala, bývalo, nebývalo</li>
             <li>DET: to, jeho, který, ten, tom, všechno, která, toho, tím, té</li>
             <li>NOUN: chvíli, život, dítě, den, člověk, plod, dívka, profesor, mistr, paní</li>
+            <li>NOUN-Vnoun: oddělení, chování, jednání, představení, trápení, řešení, poznání, zaměstnání, vzdělání, přání</li>
             <li>NUM: jeden, pár, jednoho, jedna, jednu, jedné, deset, jedno, dvacet, jedním</li>
             <li>PRON: mi, mě, ho, já, mu, ji, jí, ní, ti, mně</li>
             <li>PROPN: Láďa, Leoš, Valentýna, Eduard, Havel, Alžběta, Flajšman, Veronika, Havlena, Filip</li>
@@ -1913,7 +2256,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -1935,7 +2278,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -1957,7 +2300,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -1980,39 +2323,44 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Case</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Case</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Case</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Case</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Case</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li><a>Case</a></li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li><a>Case</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Acc
           <ul>
@@ -2029,7 +2377,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Acc
           <ul>
@@ -2038,13 +2386,31 @@ udver: '2'
             <li>ADP: na, pro, za, o, po, v, ve, mimo, mezi, pod</li>
             <li>DET: které, tuto, kterou, to, tyto, všechny, který, její, každou, tento</li>
             <li>NOUN: závěrku, závazky, období, účetnictví, položky, informace, majetek, ocenění, účely, dobu</li>
+            <li>NOUN-Vnoun: ocenění, sestavení, účtování, ustanovení, pořízení, vedení, zhodnocení, použití, povolení, uspořádání</li>
             <li>NUM: jeden, dvanáct, jedno, pět, dva, jednu, obě, čtyři</li>
             <li>PRON: se, jej, je, ji, nějž, veškeré, ně, něj, ho, jež</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>Acc
+          <ul>
+            <li>ADJ: českou, nejhorší, první, volný, běžný, celou, dobrý, nejdůležitější, pracovní, velkou</li>
+            <li>ADJ-Part: spočívající, vlnící, zkoušející</li>
+            <li>ADP: na, pro, v, za, o, mimo, přes, po, ve, mezi</li>
+            <li>DET: to, každý, svou, tento, mnoho, svoje, své, takovou, ten, všechno</li>
+            <li>NOUN: den, republiku, rok, čas, měsíc, rodinu, roky, češtinu, lidi, procházku</li>
+            <li>NOUN-Vnoun: cesování, cestování, panování, seznámení, spojení, svítání, vaření, vystoupení, vzdělání, zaměstnání</li>
+            <li>NUM: jeden, sedm, tři, šest, jednoho, jednu, osm, pět, dva, dvě</li>
+            <li>PRON: se, mě, co, něco, je, nic, ho, ji, neco, vas</li>
+            <li>PROPN: Prahu, Adam, Bačka, Klementina, Martinu, Mexiko, Mongolsko, Můstek, Petřín, Rusko</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Acc
           <ul>
@@ -2053,6 +2419,7 @@ udver: '2'
             <li>ADP: na, za, o, pro, v, přes, po, před, pod, ve</li>
             <li>DET: to, tu, všechno, kterou, které, své, ten, svou, jeho, svůj</li>
             <li>NOUN: chvíli, den, oči, život, hlavu, ruku, čas, dveře, dítě, ruce</li>
+            <li>NOUN-Vnoun: představení, přání, trápení, spojení, poznání, pozvání, vzdělání, krvácení, oblečení, oddělení</li>
             <li>NUM: pár, dva, tři, dvě, jednu, jeden, deset, čtyři, třicet, jednoho</li>
             <li>PRON: se, mě, ho, co, ji, je, nic, něco, nás, tě</li>
             <li>PROPN: Janičku, Alžbětu, Valentýnu, Láďu, Havla, Oscara, Veroniku, Flajšmana, Filipa, Ajaxe</li>
@@ -2060,7 +2427,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Acc
           <ul>
@@ -2077,7 +2444,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Acc
           <ul>
@@ -2094,7 +2461,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Acc
           <ul>
@@ -2113,7 +2480,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Dat
           <ul>
@@ -2123,14 +2490,14 @@ udver: '2'
             <li>DET: tomu, tomuto, této, kterým, těmto, svému, těm, každému, některým, jejímu</li>
             <li>NOUN: pracovníkům, práci, dispozici, výročí, lidem, řešení, dětem, rozvoji, zlepšení, skutečnosti</li>
             <li>NOUN-Vnoun: řešení, zlepšení, plnění, povstání, poznání, zajištění, zabezpečení, pojetí, splnění, vedení</li>
-            <li>NUM: jednomu, oběma, jedné, dvěma, třetině, šestině, jedenácti, osmi, pár, pěti</li>
+            <li>NUM: jednomu, oběma, jedné, dvěma, jedenácti, osmi, pár, pěti, sedmi, třem</li>
             <li>PRON: si, nám, jim, mu, mi, vám, všem, nim, jí, sobě</li>
             <li>PROPN: Erbenovi, Karlu, Pasákovi, Vietnamu, Zemi, Františku, Fučíkovi, Ivo, Janu, Křikavové</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Dat
           <ul>
@@ -2139,13 +2506,29 @@ udver: '2'
             <li>ADP: k, ke, oproti, vůči, proti</li>
             <li>DET: kterému, kterým, této, tomu, takovému, jejímu, které, tomuto, téže, těmto</li>
             <li>NOUN: dni, obchodování, okamžiku, konci, majetku, osobám, užívání, členům, jednotce, jednotkám</li>
+            <li>NOUN-Vnoun: obchodování, užívání, pochopení, přijetí, podnikání, posouzení, vymezení, hospodaření, porušení, provedení</li>
             <li>NUM: jednomu</li>
             <li>PRON: němuž, jim, jí, jemu, nim, nimž, ní, si, sobě</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>Dat
+          <ul>
+            <li>ADJ: dopravní, internationální, kulturnému, nejpoznatnějším, příbuzým, sťastným, západnímu, Černému, České, časovému</li>
+            <li>ADP: k, kvůli, ke, oproti, Diky, díky, Naproti, proti</li>
+            <li>DET: Mému, Své, tomu</li>
+            <li>NOUN: cestování, nehodě, Bohu, Lidem, bolesti, hlasu, jazykům, kamarádce, kamarádovi, konfliktu</li>
+            <li>NOUN-Vnoun: cestování, uskutečňování</li>
+            <li>PRON: mi, si, mu, jí, mně, sobě, vám, nim, Komu, ji</li>
+            <li>PROPN: Vídni, Honzovi, Moldávii</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Dat
           <ul>
@@ -2154,6 +2537,7 @@ udver: '2'
             <li>ADP: k, ke, kvůli, proti, vůči, díky, naproti, navzdory, vstříc, blíž</li>
             <li>DET: tomu, svému, své, jeho, svým, té, všem, které, kterým, mému</li>
             <li>NOUN: otci, dívce, dveřím, ženě, mladíkovi, oknu, synovi, člověku, ženám, domu</li>
+            <li>NOUN-Vnoun: chování, osvícení, označení, pletení, pochopení, pokušení, poznání, zamyšlení, jednání, močení</li>
             <li>NUM: jednomu, oběma, dvěma, jedné, třem, pár, čtyřem</li>
             <li>PRON: si, mi, mu, jí, ti, nám, jim, vám, mně, sobě</li>
             <li>PROPN: Havlovi, Valentýně, Alžbětě, Leošovi, Janičce, Eduardovi, Flajšmanovi, Havlenovi, Ježíškovi, Láďovi</li>
@@ -2161,7 +2545,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Dat
           <ul>
@@ -2178,7 +2562,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Dat
           <ul>
@@ -2195,7 +2579,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Dat
           <ul>
@@ -2213,7 +2597,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -2230,7 +2614,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -2239,13 +2623,31 @@ udver: '2'
             <li>ADP: podle, do, z, u, od, včetně, ze, bez, ode, prostřednictvím</li>
             <li>DET: tohoto, této, těchto, všech, kterých, kterého, jejího, které, toho, své</li>
             <li>NOUN: majetku, závěrky, období, jednotky, závazků, jednotek, položek, společnosti, dne, odstavce</li>
+            <li>NOUN-Vnoun: ocenění, hospodaření, nabytí, ustanovení, oceňování, odpisování, použití, sestavení, zajištění, účtování</li>
             <li>NUM: jedné, tří, dvanácti, jednoho, dvou, obou, pěti</li>
             <li>PRON: nichž, jehož, nich, ní, veškerého, veškerých</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>Gen
+          <ul>
+            <li>ADJ: České, českého, Karlovy, celého, hezkých, lůžkových, největších, nového, nových, plného</li>
+            <li>ADJ-Part: obývacího, věřících</li>
+            <li>ADP: do, z, od, u, bez, podle, vedle, během, kromě, ze</li>
+            <li>DET: toho, každého, mého, tohoto, všech, mé, některých, svých, těch, těchto</li>
+            <li>NOUN: let, roku, hodin, města, lidí, života, měst, práce, republiky, času</li>
+            <li>NOUN-Vnoun: oblačení, oddělního, použití, přání, vědění, čtení, řízení</li>
+            <li>NUM: dvou, deseti, jedné, tisíc, tří</li>
+            <li>PRON: nás, čeho, sebe, mě, nich, jich, jích, mne, neho, nij</li>
+            <li>PROPN: Prahy, Mongolska, Evropy, Krista, vidně, Alexandrie, Ameriki, Asie, Dněstru, Japonska</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -2254,6 +2656,7 @@ udver: '2'
             <li>ADP: do, z, od, u, ze, kolem, bez, vedle, podle, za</li>
             <li>DET: toho, svého, jeho, té, těch, svých, všech, mého, své, jejich</li>
             <li>NOUN: let, života, dne, školy, práce, lidí, času, dveří, domu, hodin</li>
+            <li>NOUN-Vnoun: oddělení, představení, vyzvání, přání, trápení, učení, hnutí, jednání, myšlení, narození</li>
             <li>NUM: jednoho, jedné, tisíc, dvou, čtyř, tří, obou, pěti, set, třiceti</li>
             <li>PRON: mě, nich, sebe, ní, něj, nás, ho, jich, něho, jí</li>
             <li>PROPN: Prahy, Poděbrad, Čáslavi, Boleslava, Kolína, Krásné, Moravy, Náchoda, Německa, Československa</li>
@@ -2261,7 +2664,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -2278,7 +2681,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -2296,7 +2699,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -2315,7 +2718,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Ins
           <ul>
@@ -2332,7 +2735,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Ins
           <ul>
@@ -2341,13 +2744,31 @@ udver: '2'
             <li>ADP: s, mezi, pod, se, před, za, nad, přede</li>
             <li>DET: kterým, tímto, tím, touto, kterými, jejím, jejímž, kterou, několika, svým</li>
             <li>NOUN: jednotkou, hodnotou, výjimkou, způsobem, dnem, vlivem, auditorem, cenou, osobou, zákonem</li>
+            <li>NOUN-Vnoun: uvedením, odštěpením, pořízením, oceněním, určením, nabytím, připojením, použitím, respektováním, ručením</li>
             <li>NUM: jednou, dvěma, jedním</li>
             <li>PRON: jimiž, jimi, nimi, sebou, veškerými, jí, jímž, ním, nímž</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>Ins
+          <ul>
+            <li>ADJ: první, spolubydlícím, Druhou, Karlovou, Malým, Nejdůležitější, akademíckým, bohatým, celým, chaotickým</li>
+            <li>ADJ-Part: spolubydlícím</li>
+            <li>ADP: s, před, se, z, za, mezi, nad, pod</li>
+            <li>DET: svou, svými, tím, mojou, mou, mymi, mým, nějakým, svým, svůjí</li>
+            <li>NOUN: autobusem, rodinou, autem, dcerou, jinou, kamarády, maminkem, náměstím, pánem, věcí</li>
+            <li>NOUN-Vnoun: přenosováním</li>
+            <li>NUM: Jendou, dvěma, osmi</li>
+            <li>PRON: ní, mnou, sebou, n{ě|i}čím, ním</li>
+            <li>PROPN: Alexandrií, Diamantovou, Dorou, Evou, Po{z|t}emkiným, Prahou, Vidněm, Zou</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Ins
           <ul>
@@ -2356,6 +2777,7 @@ udver: '2'
             <li>ADP: s, před, se, za, nad, pod, mezi, přede, nade, pode</li>
             <li>DET: tím, svým, svou, svými, jeho, mým, tou, kterým, kterou, všemi</li>
             <li>NOUN: očima, hlavou, rukou, směrem, cestou, oknem, rameny, hlasem, nohama, rukama</li>
+            <li>NOUN-Vnoun: potěšením, pitím, vedením, kořením, leknutím, mrknutím, mučením, mávnutím, narozením, uspokojením</li>
             <li>NUM: jedním, dvěma, jednou, pár, pěti, deseti, oběma, čtyřiceti, čtyřmi, dvanácti</li>
             <li>PRON: ním, sebou, mnou, ní, nimi, čím, námi, tebou, vámi, něčím</li>
             <li>PROPN: Leošem, Valentýnou, Janičkou, Alicí, Eduardem, Alžbětou, Filipem, Láďou, Veronikou, Amadeem</li>
@@ -2363,7 +2785,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Ins
           <ul>
@@ -2380,7 +2802,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Ins
           <ul>
@@ -2397,7 +2819,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Ins
           <ul>
@@ -2416,7 +2838,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Loc
           <ul>
@@ -2433,7 +2855,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Loc
           <ul>
@@ -2442,13 +2864,31 @@ udver: '2'
             <li>ADP: v, o, ve, na, při, po</li>
             <li>DET: kterém, tomto, kterých, které, těchto, této, jejím, jakém, své, tom</li>
             <li>NOUN: případě, období, případech, příloze, závěrce, rozsahu, formě, přeměně, účetnictví, odstavci</li>
+            <li>NOUN-Vnoun: ocenění, znění, Ustanovení, nabytí, použití, členění, vedení, splnění, řízení, oceňování</li>
             <li>NUM: jednom</li>
             <li>PRON: němž, nichž, níž, sobě, nich, ní, veškerých</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>Loc
+          <ul>
+            <li>ADJ: České, malém, novém, privním, střední, velkých, zimním, Dobré, Dolním, Ferdinandové</li>
+            <li>ADJ-Part: následující</li>
+            <li>ADP: v, na, ve, o, po, při, n</li>
+            <li>DET: mém, té, kterém, mé, svém, jejích, každém, mojem, nějakém, několika</li>
+            <li>NOUN: životě, republice, univerzitě, roce, světě, škole, městě, době, letě, místě</li>
+            <li>NOUN-Vnoun: oddělení, provedení, uplynutí, ťukání</li>
+            <li>NUM: obou, půl, čtvrt</li>
+            <li>PRON: mně, ní, sobě, ničem, sobe</li>
+            <li>PROPN: praze, Číně, česku, Evropě, Japonsku, Osace, pardubicich, pardubicích, Moldávii, Poděbradech</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Loc
           <ul>
@@ -2457,6 +2897,7 @@ udver: '2'
             <li>ADP: v, na, po, ve, o, při</li>
             <li>DET: tom, té, svém, jeho, své, kterém, svých, jejím, tomto, které</li>
             <li>NOUN: životě, září, chvíli, době, ruce, světě, domě, pokoji, straně, schodech</li>
+            <li>NOUN-Vnoun: oddělení, narození, zaměstnání, chování, vyučování, zajetí, holení, odříkání, otevření, přelíčení</li>
             <li>NUM: jedné, jednom, dvou, dvaceti, pár, půl, deseti, třech, osmnácti, čtyřiceti</li>
             <li>PRON: něm, sobě, mně, nich, ní, čem, níž, němž, nichž, něčem</li>
             <li>PROPN: Praze, Poděbradech, Čáslavi, Československu, Kolíně, Náchodě, Čechách, Berlíně, Slaném, Valentýně</li>
@@ -2464,7 +2905,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Loc
           <ul>
@@ -2481,7 +2922,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Loc
           <ul>
@@ -2498,7 +2939,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Loc
           <ul>
@@ -2517,7 +2958,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Nom
           <ul>
@@ -2534,7 +2975,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Nom
           <ul>
@@ -2542,13 +2983,31 @@ udver: '2'
             <li>ADJ-Part: konsolidující, související, přejímající, zanikající, týkající, jednající, opravující, rozhodující, doplňující, držící</li>
             <li>DET: které, která, který, tato, tyto, tento, to, toto, její, všechna</li>
             <li>NOUN: jednotka, jednotky, položka, ustanovení, závěrka, majetek, vymezení, náklady, záznam, informace</li>
+            <li>NOUN-Vnoun: ustanovení, vymezení, uspořádání, ocenění, označování, členění, použití, sestavení, zhodnocení, odpisování</li>
             <li>NUM: jeden, dvě, obě, deset</li>
             <li>PRON: jenž, veškeré, jež</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>Nom
+          <ul>
+            <li>ADJ: ráda, rád, hlavní, první, česká, nejlepší, hezký, nejdůležitější, skvělé, český</li>
+            <li>ADJ-Part: pána, řečeno, Rano, honící, obnovován, plno, prozářeno, přinucen, připraven, přípraven</li>
+            <li>ADP: versus</li>
+            <li>DET: to, moje, můj, ten, naše, mnoho, muj, mé, naša, ona</li>
+            <li>NOUN: rodina, město, život, den, maminka, země, autor, kultura, lidé, republika</li>
+            <li>NOUN-Vnoun: Cestování, Usnesení, cvičení, nadělení, seznamení, vzdělání</li>
+            <li>NUM: jedna, jeden, tři, dva, jedno, obě, osm, třicet, Mongolštinová, Oba</li>
+            <li>PRON: ja, já, co, ona, on, my, oni, Nic, něco, vy</li>
+            <li>PROPN: Adam, Eva, Praha, Mongolsko, Česko, Mexiko, Ulaanbaatar, Češi, Honza, Viden</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Nom
           <ul>
@@ -2557,6 +3016,7 @@ udver: '2'
             <li>ADP: de</li>
             <li>DET: to, který, která, ten, jeho, které, ta, sám, moje, všechno</li>
             <li>NOUN: člověk, plod, dívka, profesor, mistr, dítě, muž, Kůra, lidé, mladík</li>
+            <li>NOUN-Vnoun: řešení, jednání, chování, setkání, milování, překvapení, přání, vedení, dýchání, psaní</li>
             <li>NUM: jeden, dva, jedna, oba, dvě, pár, jedno, tři, čtyři, deset</li>
             <li>PRON: já, co, kdo, on, nikdo, ty, někdo, nic, ona, vy</li>
             <li>PROPN: Láďa, Leoš, Valentýna, Eduard, Havel, Alžběta, Flajšman, Veronika, Havlena, Filip</li>
@@ -2564,7 +3024,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Nom
           <ul>
@@ -2581,7 +3041,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Nom
           <ul>
@@ -2598,7 +3058,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Nom
           <ul>
@@ -2616,7 +3076,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Voc
           <ul>
@@ -2629,10 +3089,20 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>Voc
+          <ul>
+            <li>ADJ: milý</li>
+            <li>NOUN: pani, kamaráde, pane, živote</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Voc
           <ul>
@@ -2646,7 +3116,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Voc
           <ul>
@@ -2661,7 +3131,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Voc
           <ul>
@@ -2670,7 +3140,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Voc
           <ul>
@@ -2683,39 +3153,44 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>PrepCase</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>PrepCase</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>PrepCase</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>PrepCase</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>PrepCase</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li><a>PrepCase</a></li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li><a>PrepCase</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Npr
           <ul>
@@ -2724,7 +3199,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Npr
           <ul>
@@ -2733,7 +3208,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>Npr
+          <ul>
+            <li>PRON: je, ji, jí, jich, jim, jích</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Npr
           <ul>
@@ -2742,7 +3226,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Npr
           <ul>
@@ -2751,7 +3235,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Npr
           <ul>
@@ -2760,7 +3244,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Npr
           <ul>
@@ -2771,7 +3255,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Pre
           <ul>
@@ -2780,7 +3264,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Pre
           <ul>
@@ -2789,7 +3273,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>Pre
+          <ul>
+            <li>PRON: ní, nich, nim, něj, Nej, neho, nij, ním, ně</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Pre
           <ul>
@@ -2798,7 +3291,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Pre
           <ul>
@@ -2807,7 +3300,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Pre
           <ul>
@@ -2816,7 +3309,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Pre
           <ul>
@@ -2827,79 +3320,90 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+
+    </td>
+    <td width="14%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h3>Degree and Polarity</h3>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h3>Degree and Polarity</h3>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h3>Degree and Polarity</h3>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h3>Degree and Polarity</h3>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h3>Degree and Polarity</h3>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <h3>Degree and Polarity</h3>
+    </td>
+    <td width="14%" valign="top">
       <h3>Degree and Polarity</h3>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Degree</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Degree</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Degree</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Degree</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Degree</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li><a>Degree</a></li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li><a>Degree</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Cmp
           <ul>
@@ -2910,7 +3414,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Cmp
           <ul>
@@ -2920,7 +3424,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>Cmp
+          <ul>
+            <li>ADJ: lepší, starší, Hlubší, NEJDŮLEŽITĚJŠÍ, Nejhustější, dražší, lepši, menší, nejdražší, nejkraznější</li>
+            <li>ADV: víc, Dál, Dříve, Vce, krasneji, lepe, lepši, lépe, méně, později</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Cmp
           <ul>
@@ -2930,7 +3444,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Cmp
           <ul>
@@ -2941,7 +3455,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Cmp
           <ul>
@@ -2952,7 +3466,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Cmp
           <ul>
@@ -2965,7 +3479,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -2976,7 +3490,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -2987,7 +3501,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>Pos
+          <ul>
+            <li>ADJ: českou, české, hlavní, český, pracovní, skvělé, česká, dobrý, střední, další</li>
+            <li>ADV: moc, už, taky, hodně, pak, ještě, velmi, dobře, potom, také</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -2999,7 +3523,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -3010,7 +3534,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -3021,7 +3545,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -3035,7 +3559,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Sup
           <ul>
@@ -3046,7 +3570,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Sup
           <ul>
@@ -3056,7 +3580,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>Sup
+          <ul>
+            <li>ADJ: nejhorší, nejdůležitější, nejlepší, největší, nejstarší, nejoblíbenější, největších, Nejdelší, Nejdůležitejší, Nejpopulárnější</li>
+            <li>ADV: Nejdříve, Nejpozděj, nejdřiv, nejlépe, nejpozději, nejrychlej, nejvíc</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Sup
           <ul>
@@ -3066,7 +3600,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Sup
           <ul>
@@ -3077,7 +3611,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Sup
           <ul>
@@ -3088,7 +3622,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Sup
           <ul>
@@ -3100,39 +3634,44 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Polarity</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Polarity</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Polarity</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Polarity</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Polarity</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li><a>Polarity</a></li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li><a>Polarity</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -3150,7 +3689,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -3166,7 +3705,22 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>Neg
+          <ul>
+            <li>ADJ: Neopakovatelný, nebezpečná, nebezpeční, neplný, nepředstavitelné, neslušne, neslušné, nezapomenutelné, neznamém, němocná</li>
+            <li>ADV: nedaleko, nesrovnatelně</li>
+            <li>AUX-Fin: nejsou, neni, není, Nejsme, nebude</li>
+            <li>AUX-Part: Nebylo</li>
+            <li>VERB-Fin: nechci, nemá, necháme, nejde, nemusí, nemužu, nemám, Nechce, Nechceme, Neexistujou</li>
+            <li>VERB-Inf: nefilozofovat</li>
+            <li>VERB-Part: nemohla, neměl, neměla, neplatila, neviděl, neřekly, Neodpověděl, Neviděla, nebala, nebila</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -3184,7 +3738,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -3202,7 +3756,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -3219,7 +3773,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -3237,7 +3791,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -3256,7 +3810,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -3274,7 +3828,26 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>Pos
+          <ul>
+            <li>ADJ: ráda, českou, rád, české, hlavní, nejhorší, nejdůležitější, pracovní, skvělé, český</li>
+            <li>ADJ-Part: pána, spolubydlícím, řečeno, Rano, honící, následující, obnovován, obývacího, plno, prozářeno</li>
+            <li>ADV: moc, už, taky, hodně, pak, ještě, velmi, dobře, potom, také</li>
+            <li>AUX-Fin: je, jsem, jsme, jsou, budu, bude, jste, budete, Bud, bde</li>
+            <li>AUX-Inf: být, byt</li>
+            <li>AUX-Part: byl, bylo, byla, byli, byly, Bylí, bya</li>
+            <li>DET: každý, hodně, každy, každého, každé, Každej, Každá, každém, káždy, nejvíc</li>
+            <li>VERB: mám, má, jmenuje, mít, měla, chci, chtěla, bydlím, líbí, jmenuju</li>
+            <li>VERB-Fin: mám, má, jmenuje, chci, bydlím, líbí, jmenuju, mají, mam, máme</li>
+            <li>VERB-Inf: mít, studovat, mit, chodit, dělat, pracovat, spát, vařit, bydlet, jit</li>
+            <li>VERB-Part: měla, chtěla, začala, narodila, chtěl, měli, šla, měl, narodil, pracovala</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -3293,7 +3866,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -3313,7 +3886,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -3332,7 +3905,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -3353,39 +3926,44 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Variant</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Variant</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Variant</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Variant</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Variant</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li><a>Variant</a></li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li><a>Variant</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Short
           <ul>
@@ -3397,7 +3975,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Short
           <ul>
@@ -3409,7 +3987,20 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>Short
+          <ul>
+            <li>ADJ: ráda, rád, pána, řečeno, Rano, jista, obnovován, plno, prozářeno, přinucen</li>
+            <li>ADJ-Part: pána, řečeno, Rano, obnovován, plno, prozářeno, přinucen, připraven, přípraven, rozluštěn</li>
+            <li>DET: sám, sama, sami, samy</li>
+            <li>PRON: se, mi, mě, si, mu, ho, m{ě|é}, te, tě</li>
+            <li>VERB: rád, ráda</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Short
           <ul>
@@ -3421,7 +4012,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Short
           <ul>
@@ -3433,7 +4024,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Short
           <ul>
@@ -3445,7 +4036,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Short
           <ul>
@@ -3459,63 +4050,72 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h3>Verbal Features</h3>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h3>Verbal Features</h3>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h3>Verbal Features</h3>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h3>Verbal Features</h3>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h3>Verbal Features</h3>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <h3>Verbal Features</h3>
+    </td>
+    <td width="14%" valign="top">
       <h3>Verbal Features</h3>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Aspect</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Aspect</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Aspect</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Aspect</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Aspect</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li><a>Aspect</a></li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li><a>Aspect</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Imp
           <ul>
-            <li>ADJ-Part: pracujících, rozhodující, pracující, vedoucí, odpovídající, následující, věnována, řídící, týkající, budoucí</li>
+            <li>ADJ: pracujících, rozhodující, pracující, vedoucí, odpovídající, plánovaných, následující, věnována, řídící, týkající</li>
+            <li>ADJ-Part: pracujících, rozhodující, pracující, vedoucí, odpovídající, plánovaných, následující, věnována, řídící, týkající</li>
             <li>AUX-Conv: byvše, jsouc, jsouce</li>
             <li>AUX-Fin: je, jsou, by, bude, není, jsme, jsem, budou, bychom, nejsou</li>
             <li>AUX-Inf: být, býti, nebýt</li>
@@ -3523,44 +4123,68 @@ udver: '2'
             <li>CCONJ: buď</li>
             <li>NOUN: tváří</li>
             <li>VERB-Conv: počínaje, nemluvě, nevyjímaje, říkajíc, Chráníce, Počínajíc, chtíc, dožívaje, klusaje, konče</li>
-            <li>VERB-Fin: patří, tvoří, znamená, odpovídá, stává, mění, představuje, dochází, ukazuje, říká</li>
-            <li>VERB-Inf: dělat, řešit, věnovat, provádět, pracovat, sledovat, používat, rozvíjet, vytvářet, považovat</li>
-            <li>VERB-Part: zabýval, pracoval, pracovali, konal, pracovalo, snažili, hovořil, pokračovalo, sloužila, znamenalo</li>
+            <li>VERB-Fin: má, mají, musí, může, jde, lze, mohou, můžeme, patří, nelze</li>
+            <li>VERB-Inf: mít, vidět, dělat, řešit, věnovat, provádět, pracovat, sledovat, používat, rozvíjet</li>
+            <li>VERB-Part: měl, měla, mohli, mohl, měli, měly, mělo, chtěl, mohla, mohly</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Imp
           <ul>
-            <li>ADJ-Part: konsolidující, zanikající, následujícího, související, předcházejícímu, týkající, přejímající, předcházející, souvisejících, řídících</li>
+            <li>ADJ: konsolidující, zanikající, následujícího, související, předcházejícímu, regulovaném, týkající, přejímající, obchodovány, předcházející</li>
+            <li>ADJ-Part: konsolidující, zanikající, následujícího, související, předcházejícímu, týkající, přejímající, obchodovány, předcházející, souvisejících</li>
             <li>AUX-Fin: je, jsou, není, nejsou, by, bude, budou</li>
             <li>AUX-Inf: být</li>
             <li>AUX-Part: byly, byl, bylo, nebyly, byla, nebyla, nebyl</li>
             <li>VERB-Conv: počínaje</li>
+            <li>VERB-Fin: obsahuje, rozumí, může, mohou, musí, účtuje, lze, má, sestavují, mají</li>
+            <li>VERB-Inf: vést, mít, účtovat, splňovat, obsahovat, provádět, sestavovat, pokračovat, uvádět, považovat</li>
+            <li>VERB-Part: trvalo, existovaly, podávala, mohl, mohla, mohlo, měla, navazovaly, neměla, neobsahovala</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Imp
           <ul>
+            <li>ADJ: spolubydlícím, Rano, budoucí, honící, následující, obnovován, obývacího, očekaváná, spočívající, vlnící</li>
+            <li>ADJ-Part: spolubydlícím, Rano, honící, následující, obnovován, obývacího, spočívající, vlnící, věřící, věřících</li>
+            <li>AUX-Fin: bych, by, bychom, byste, je</li>
+            <li>VERB: mám, má, mít, měla, chci, chtěla, bydlím, líbí, jmenuju, studovat</li>
+            <li>VERB-Fin: mám, má, chci, bydlím, líbí, jmenuju, mají, mam, máme, bydlim</li>
+            <li>VERB-Inf: mít, studovat, mit, chodit, dělat, pracovat, spát, vařit, bydlet, jit</li>
+            <li>VERB-Part: měla, chtěla, chtěl, měli, nemohla, šla, měl, neměl, pracovala, šel</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
+      <ul>
+        <li>Imp
+          <ul>
+            <li>ADJ: budoucí, následující, rozhodující, třesoucí, milovaného, nastávající, povznášející, stojící, vynikající, zbývající</li>
             <li>ADJ-Part: budoucí, následující, rozhodující, třesoucí, nastávající, povznášející, stojící, vynikající, zbývající, blížícího</li>
             <li>AUX-Conv: jsouc</li>
             <li>AUX-Fin: jsem, je, by, bych, jsme, bude, jsou, jsi, není, jste</li>
             <li>AUX-Inf: být, nebýt</li>
             <li>AUX-Part: byl, byla, bylo, byly, byli, nebyl, nebylo, nebyla, býval, bývala</li>
             <li>VERB-Conv: chtěje, hledajíc, netuše, Divě, Jda, Nechtíc, Opíraje, Pronášejíc, Třesouc, domnívajíc</li>
+            <li>VERB-Fin: má, mám, může, nevím, musí, mají, musím, vím, nemám, jde</li>
+            <li>VERB-Inf: dělat, mít, vidět, jít, žít, mluvit, vědět, spát, slyšet, brát</li>
+            <li>VERB-Part: měl, měla, mohl, chtěl, chtěla, viděl, měli, šel, musel, nemohl</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Imp
           <ul>
+            <li>ADJ: vedoucí, budoucí, zabývající, týkající, rostoucí, následující, rozhodující, sídlící, vynikající, vedoucích</li>
             <li>ADJ-Part: vedoucí, budoucí, zabývající, týkající, rostoucí, následující, rozhodující, sídlící, vynikající, vedoucích</li>
             <li>AUX-Conv: jsouce, jsa, jsouc</li>
             <li>AUX-Fin: je, by, jsem, jsme, jsou, bude, není, jste, budou, bych</li>
@@ -3574,24 +4198,24 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Imp
           <ul>
-            <li>ADJ-Part: vedoucí, následující, používán, považováno, považovány, probíhající, sestávající, studujících, aktivovány, budoucího</li>
+            <li>ADJ-Part: vedoucí, následující, používán, považováno, považovány, probíhající, psáno, sestávající, studujících, aktivovány</li>
             <li>AUX-Fin: je, by, jsou, bude, jsem, není, jsme, budou, nebude, budeme</li>
             <li>AUX-Inf: být</li>
             <li>AUX-Part: byl, bylo, byla, byly, byli, nebyly, nebyla, nebyl, nebylo</li>
             <li>NOUN-Part: vedoucích</li>
             <li>VERB-Conv: Počínaje, nedbajíce</li>
-            <li>VERB-Fin: říká, obsahuje, pomáhá, ukazuje, existují, patří, tvrdí, nachází, naznačuje, poskytují</li>
-            <li>VERB-Inf: pokračovat, dělat, sledovat, vybírat, měnit, objevovat, posílat, používat, předvídat, tvořit</li>
-            <li>VERB-Part: pracoval, režíroval, snažil, varoval, vládl, vypadaly, bavili, fungoval, konalo, miloval</li>
+            <li>VERB-Fin: má, může, říká, mohou, mají, lze, obsahuje, pomáhá, ukazuje, existují</li>
+            <li>VERB-Inf: mít, vidět, pokračovat, vést, dělat, muset, sledovat, vybírat, držet, hrát</li>
+            <li>VERB-Part: mohl, měl, vedl, mohla, pracoval, vedla, hrál, měla, mělo, měly</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -3611,20 +4235,59 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
-
-    </td>
-    <td width="16%" valign="top">
-
-    </td>
-    <td width="16%" valign="top">
-
-    </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Imp,Perf
           <ul>
-            <li>ADJ-Part: jmenován, jmenováni, věnována, informováni, věnován, informován, věnováno, jmenována, informována, privatizována</li>
+            <li>ADJ-Part: specializovaných, charakterizována, charakterizovány, kvalifikovaných, orientované, charakterizován, realizována, specializované, orientovaná, orientovaných</li>
+            <li>VERB-Fin: charakterizuje, realizuje, charakterizují, konstatuje, organizuje, realizují, orientují, jmenuje, jmenujeme, modifikují</li>
+            <li>VERB-Inf: realizovat, charakterizovat, organizovat, definovat, konstatovat, aplikovat, orientovat, formulovat, jmenovat, redukovat</li>
+            <li>VERB-Part: informoval, jmenoval, formuloval, informovala, informovali, izoloval, publikovali, konstatoval, realizoval, realizovaly</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
+      <ul>
+        <li>Imp,Perf
+          <ul>
+            <li>ADJ: kvalifikovaným, emitované, emitovaných, organizován, aktivovaných, aktivována, aktivovány, kvalifikovaném, nekompenzované, realizovány</li>
+            <li>ADJ-Part: organizován, aktivována, aktivovány, realizovány</li>
+            <li>VERB-Fin: aktualizuje, dokumentuje</li>
+            <li>VERB-Inf: informovat</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
+      <ul>
+        <li>Imp,Perf
+          <ul>
+            <li>ADJ: arganizovaná, nerezervované</li>
+            <li>VERB-Fin: jmenuje, jmenuj, jimenuje, jmenuise, reálizujou</li>
+            <li>VERB-Inf: koumonikovat</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
+      <ul>
+        <li>Imp,Perf
+          <ul>
+            <li>ADJ: Rezervovaný, Věnováno, aktualizovaný, darovaná, fascinován, informován, informováni, instalována, jmenovaných, jmenován</li>
+            <li>ADJ-Part: Věnováno, fascinován, informován, informováni, instalována, jmenován, rozmetána</li>
+            <li>VERB-Fin: jmenuje, jmenuji, daruji, konstatuji, věnuje, Jmenuješ, definuje, deprimuje, informuje, informujte</li>
+            <li>VERB-Inf: věnovat, informovat, jmenovat, orientovat, Dezinfikovat, dešifrovat, improvizovat, instalovat, interpretovat, komunikovat</li>
+            <li>VERB-Part: jmenoval, pravil, věnoval, konstatovala, pravila, konstatoval, nevěnoval, informoval, nevěnovala, jmenovala</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
+      <ul>
+        <li>Imp,Perf
+          <ul>
+            <li>ADJ-Part: jmenován, registrovaná, specializované, specializovaných, kvalifikovaných, registrovaných, jmenovaných, jmenováni, věnována, informováni</li>
             <li>VERB-Conv: citujíc, reagujíce</li>
             <li>VERB-Fin: jmenuje, jmenuji, věnuje, jmenují, organizuje, specializuje, konstatuje, investuje, reaguje, věnují</li>
             <li>VERB-Inf: investovat, věnovat, komentovat, jmenovat, reagovat, realizovat, vetovat, informovat, riskovat, definovat</li>
@@ -3633,46 +4296,85 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
-
+    <td width="14%" valign="top">
+      <ul>
+        <li>Imp,Perf
+          <ul>
+            <li>ADJ-Part: kvalifikovaných, Konzultované, definována, informován, inspirovaná, investované, investováno, jmenovaný, nejmenovaný, nekvalifikovaný</li>
+            <li>VERB-Fin: absorbují, eliminuje, investují, reprezentuje, trivializují, vypovídá</li>
+            <li>VERB-Inf: inscenovat, interpretovat, investovat, jmenovat</li>
+            <li>VERB-Part: informoval, charakterizovala, degradovalo, emigrovali, informovaly, integrovala, interpretovala, klasifikovaly, kolonizovali, modifikovali</li>
+          </ul>
+        </li>
+      </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Perf
           <ul>
-            <li>ADJ-Part: splněny, zahájena, založena, splněn, stanovena, spojeno, spojeny, stanoveny, vybudována, připraveny</li>
+            <li>ADJ: uvedených, uvedené, řečeno, dané, dosaženo, spojené, daného, spojených, dána, provedena</li>
+            <li>ADJ-Part: uvedených, uvedené, řečeno, dosaženo, spojené, dána, provedena, spojených, uvedeny, získaných</li>
             <li>NOUN: oprav, vyhovění</li>
             <li>NOUN-Vnoun: vyhovění</li>
             <li>VERB-Conv: vyměně</li>
-            <li>VERB-Fin: stanoví, viz, objeví, zajistí, vytvoří, umožní, uskuteční, spotřebuje, připraví, vznikne</li>
-            <li>VERB-Inf: zajistit, vytvořit, vyjádřit, vysvětlit, získat, splnit, odstranit, poskytnout, udělat, zabezpečit</li>
-            <li>VERB-Part: podařilo, vznikl, zdůraznil, vznikly, projevilo, zúčastnilo, postavili, vznikla, objevil, získal</li>
+            <li>VERB-Fin: stojí, dá, dojde, stanoví, viz, nedá, objeví, stane, přijde, zajistí</li>
+            <li>VERB-Inf: zajistit, říci, použít, dosáhnout, stát, vytvořit, vyjádřit, vysvětlit, uvést, získat</li>
+            <li>VERB-Part: došlo, řekl, podařilo, stal, ukázal, stalo, dostal, stala, dal, dosáhl</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
-
-    </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Perf
           <ul>
+            <li>ADJ: uvedené, uvedených, stanovené, stanoveno, stanovených, poskytnuté, odložené, vybraných, zjištěný, nabytému</li>
+            <li>ADJ-Part: stanoveno, sestavena, uvedeny, zahrnuty, zavedena, oprávněn, uvedena, vykázány, oceněn, připojen</li>
+            <li>VERB-Fin: uvede, použijí, stanoví, použije, nastanou, ocení, nepoužije, nepoužijí, zaúčtuje, nesestaví</li>
+            <li>VERB-Inf: použít, uvést, sestavit, zajistit, provést, určit, rozhodnout, podrobit, zjistit, prokázat</li>
+            <li>VERB-Part: došlo, přestaly, nabyla, určila, staly, nastaly, překročila, sestavila, stanovila, započalo</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
+      <ul>
+        <li>Perf
+          <ul>
+            <li>ADJ: nejoblíbenější, pána, řečeno, Pohřben, nejoblibenejši, nejoblíbenějších, nejpoznatnějším, oblibeny, oblibéný, oblíbeného</li>
+            <li>ADJ-Part: pána, řečeno, přinucen, připraven, přípraven, vyhlášena, zakrven, zakázána, založeno, zamilovan</li>
+            <li>VERB-Fin: Popiš, Zkusím, Dej, oslavíme, vymění, zemře, Dají, Nepřijede, Počkám, Přijede</li>
+            <li>VERB-Inf: koupit, naučit, popsat, říct, dodělat, dosahnout, dosanout, dosáhnout, dósahnout, lehnout</li>
+            <li>VERB-Part: začala, narodila, narodil, stal, zavolala, rozhodl, učila, vratila, zamiloval, Zavolal</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
+      <ul>
+        <li>Perf
+          <ul>
+            <li>ADJ: otevřené, přesvědčen, oblečená, řečeno, oblečena, unavený, otevřenou, otevřený, připravenou, uspořádány</li>
+            <li>ADJ-Part: přesvědčen, řečeno, oblečena, uspořádány, napsáno, obklopen, poslán, pozván, zakázáno, ztraceno</li>
             <li>VERB-Conv: připomenuv, vrhnuv, vzdychnuv</li>
+            <li>VERB-Fin: stojí, dá, řekni, dostane, dej, přijde, dám, nech, vrátí, nedá</li>
+            <li>VERB-Inf: říct, udělat, stát, dát, podívat, najít, nechat, odejít, představit, pomoct</li>
+            <li>VERB-Part: řekl, řekla, stalo, začal, přišel, vzal, zeptal, stál, dal, odpověděl</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Perf
           <ul>
-            <li>ADJ-Part: řečeno, přesvědčen, připravena, připraven, zvolen, uvedeno, uzavřena, zveřejněny, stanovena, založena</li>
+            <li>ADJ: spojených, spojené, řečeno, vyfocené, dané, uvedené, o, přesvědčen, připravena, připraven</li>
+            <li>ADJ-Part: spojených, spojené, řečeno, vyfocené, dané, uvedené, přesvědčen, připravena, připraven, zvolen</li>
             <li>VERB-Conv: řka, poznajíce, semnuvše, vzpomenuv, zaplniv, řkouce</li>
             <li>VERB-Fin: podíváme, dá, přijde, stane, začne, zvýší, zůstane, nedá, dostane, zaplatí</li>
             <li>VERB-Inf: říct, získat, podívat, udělat, prodat, dostat, stát, dát, koupit, zvýšit</li>
@@ -3681,24 +4383,25 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Perf
           <ul>
-            <li>ADJ-Part: nabídnuto, označen, prodán, rozděleno, vytvořen, vytvořena, založena, zamítnuto, dovoleno, namontován</li>
+            <li>ADJ: Spojených, řečeno, propuštěn, Spojené, Spojeným, nabídnuto, otevřenou, otevřená, označen, poražena</li>
+            <li>ADJ-Part: Spojených, řečeno, propuštěn, Spojené, Spojeným, nabídnuto, otevřenou, otevřená, označen, poražena</li>
             <li>VERB-Conv: redukujíc</li>
-            <li>VERB-Fin: Polož, Skončíte, Zhodnotíme, koupím, naučí, navrhnu, navštíví, nedovolí, neobjeví, nerozvodní</li>
-            <li>VERB-Inf: opustit, získat, udělat, vytvořit, zrušit, naučit, odhalit, překročit, vrátit, zajistit</li>
-            <li>VERB-Part: rozhodl, vrátil, objevil, vydala, navštívil, rozhodli, setkal, umožnila, vyhlásil, vytvořil</li>
+            <li>VERB-Fin: stojí, dokáže, stane, zemře, dojde, přijdou, začne, Polož, Rozesměje, Skončíte</li>
+            <li>VERB-Inf: získat, najít, opustit, stát, udělat, vytvořit, vzdát, zrušit, naučit, odhalit</li>
+            <li>VERB-Part: řekl, stal, stala, uvedla, rozhodl, uvedl, vrátil, začal, dostal, ukázala</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Perf
           <ul>
-            <li>ADJ-Part: Oněmlé, Podťata, Rozcuchán, Zsinalá, narozené, narozený, nepoznaným, nezvrácen, oblečeny, obnažená</li>
+            <li>ADJ-Part: Vyloupena, skrytých, Oněmlé, Očištěna, Podťata, Rozcuchán, Ukřižovaného, Zsinalá, naplněnou, narozené</li>
             <li>VERB-Fin: stojí, dáš, nech, padne, dej, dejte, dám, povede, vstane, Dejž</li>
             <li>VERB-Inf: stát, říci, dopomoci, dát, naplnit, obléct, pomyslit, pozvednout, promluvit, prostřít</li>
             <li>VERB-Part: poznali, Rozhučela, dal, nechali, povylétla, vstal, vzrostla, zůstaly, Došel, Sklesl</li>
@@ -3708,39 +4411,44 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li><a>Mood</a></li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Cnd
           <ul>
@@ -3749,7 +4457,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Cnd
           <ul>
@@ -3758,7 +4466,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>Cnd
+          <ul>
+            <li>AUX-Fin: bych, by, bychom, byste</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Cnd
           <ul>
@@ -3767,7 +4484,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Cnd
           <ul>
@@ -3776,7 +4493,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Cnd
           <ul>
@@ -3785,7 +4502,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Cnd
           <ul>
@@ -3796,7 +4513,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -3806,10 +4523,19 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>Imp
+          <ul>
+            <li>VERB-Fin: Popiš, Dej, Pojď, Pozdravuj, Zdvihni, nebojte, pozdravte, řekni</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -3819,7 +4545,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -3829,7 +4555,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -3838,7 +4564,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -3850,7 +4576,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -3860,7 +4586,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -3870,7 +4596,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>Ind
+          <ul>
+            <li>AUX-Fin: je, jsem, jsme, jsou, budu, bude, jste, nejsou, budete, neni</li>
+            <li>VERB-Fin: mám, má, jmenuje, chci, bydlím, líbí, jmenuju, mají, mam, máme</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -3880,7 +4616,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -3890,7 +4626,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -3900,7 +4636,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -3912,39 +4648,44 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li><a>Tense</a></li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Fut
           <ul>
@@ -3955,7 +4696,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Fut
           <ul>
@@ -3965,7 +4706,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>Fut
+          <ul>
+            <li>AUX-Fin: budu, bude, budete, Bud, bde, budeme, nebude</li>
+            <li>VERB-Fin: pojedu, Půjdu</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Fut
           <ul>
@@ -3976,7 +4727,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Fut
           <ul>
@@ -3987,7 +4738,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Fut
           <ul>
@@ -3998,7 +4749,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Fut
           <ul>
@@ -4010,7 +4761,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Past
           <ul>
@@ -4023,7 +4774,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Past
           <ul>
@@ -4033,7 +4784,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>Past
+          <ul>
+            <li>AUX-Part: byl, bylo, byla, byli, byly, Bylí, Nebylo, bya</li>
+            <li>NOUN-Part: skiareály</li>
+            <li>VERB-Part: měla, chtěla, začala, narodila, chtěl, měli, nemohla, šla, měl, narodil</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Past
           <ul>
@@ -4044,7 +4806,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Past
           <ul>
@@ -4056,7 +4818,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Past
           <ul>
@@ -4067,7 +4829,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Past
           <ul>
@@ -4080,7 +4842,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Pres
           <ul>
@@ -4093,7 +4855,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Pres
           <ul>
@@ -4105,7 +4867,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>Pres
+          <ul>
+            <li>ADJ-Part: spolubydlícím, honící, následující, obývacího, spočívající, vlnící, věřící, věřících, zkoušející</li>
+            <li>AUX-Fin: je, jsem, jsme, jsou, jste, nejsou, neni, není, Nejsme, e</li>
+            <li>VERB-Fin: mám, má, jmenuje, chci, bydlím, líbí, jmenuju, mají, mam, máme</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Pres
           <ul>
@@ -4118,7 +4891,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Pres
           <ul>
@@ -4131,7 +4904,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Pres
           <ul>
@@ -4144,7 +4917,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Pres
           <ul>
@@ -4158,39 +4931,44 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Voice</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Voice</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Voice</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Voice</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Voice</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li><a>Voice</a></li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li><a>Voice</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Act
           <ul>
@@ -4205,7 +4983,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Act
           <ul>
@@ -4219,7 +4997,21 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>Act
+          <ul>
+            <li>ADJ-Part: spolubydlícím, honící, následující, obývacího, spočívající, vlnící, věřící, věřících, zkoušející</li>
+            <li>AUX-Fin: je, jsem, jsme, jsou, budu, bude, jste, nejsou, budete, neni</li>
+            <li>AUX-Part: byl, bylo, byla, byli, byly, Bylí, Nebylo, bya</li>
+            <li>NOUN-Part: skiareály</li>
+            <li>VERB-Fin: mám, má, jmenuje, chci, bydlím, líbí, jmenuju, mají, mam, máme</li>
+            <li>VERB-Part: měla, chtěla, začala, narodila, chtěl, měli, nemohla, šla, měl, narodil</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Act
           <ul>
@@ -4234,7 +5026,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Act
           <ul>
@@ -4249,7 +5041,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Act
           <ul>
@@ -4265,7 +5057,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Act
           <ul>
@@ -4282,7 +5074,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Pass
           <ul>
@@ -4291,7 +5083,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Pass
           <ul>
@@ -4300,7 +5092,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>Pass
+          <ul>
+            <li>ADJ-Part: pána, řečeno, Rano, obnovován, plno, prozářeno, přinucen, připraven, přípraven, rozluštěn</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Pass
           <ul>
@@ -4309,7 +5110,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Pass
           <ul>
@@ -4318,7 +5119,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Pass
           <ul>
@@ -4327,7 +5128,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Pass
           <ul>
@@ -4338,79 +5139,90 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+
+    </td>
+    <td width="14%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <h3>Pronouns, Determiners, Quantifiers</h3>
+    </td>
+    <td width="14%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>PronType</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>PronType</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>PronType</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>PronType</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>PronType</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li><a>PronType</a></li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li><a>PronType</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Dem
           <ul>
@@ -4420,7 +5232,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Dem
           <ul>
@@ -4430,7 +5242,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>Dem
+          <ul>
+            <li>ADV: tak, tady, tam, teď, Nyní, zde, tu, Tehdy, Teť, proto</li>
+            <li>DET: to, ten, tento, takový, toho, ona, takovou, ty, té, ta</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Dem
           <ul>
@@ -4440,7 +5262,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Dem
           <ul>
@@ -4450,7 +5272,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Dem
           <ul>
@@ -4460,7 +5282,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Dem
           <ul>
@@ -4472,13 +5294,16 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Dem,Ind
           <ul>
@@ -4487,7 +5312,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Dem,Ind
           <ul>
@@ -4497,15 +5322,15 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Emp
           <ul>
@@ -4514,7 +5339,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Emp
           <ul>
@@ -4523,7 +5348,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>Emp
+          <ul>
+            <li>DET: sám, sama, sami, samy, samého, sáma, sámi</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Emp
           <ul>
@@ -4532,7 +5366,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Emp
           <ul>
@@ -4541,7 +5375,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Emp
           <ul>
@@ -4550,7 +5384,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Emp
           <ul>
@@ -4561,7 +5395,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -4572,7 +5406,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -4582,7 +5416,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>Ind
+          <ul>
+            <li>ADV: někdy, Nějak, kdykoli, kdysi, krát, nekde, Jeden, mnohokrát, několik</li>
+            <li>DET: mnoho, hodně, několik, některých, moc, Nekolík, Některé, mnoha, nejvíc, nějaka</li>
+            <li>PRON: něco, neco, Malokdo, Někdo</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -4593,7 +5438,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -4604,7 +5449,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -4615,7 +5460,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -4628,22 +5473,25 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Int
           <ul>
@@ -4656,7 +5504,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Int,Rel
           <ul>
@@ -4667,7 +5515,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Int,Rel
           <ul>
@@ -4677,7 +5525,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>Int,Rel
+          <ul>
+            <li>ADV: proč, jak, Odkud, kdy</li>
+            <li>DET: Jaký, jaky, kterém, Jakou, Jaká, Která, které, {č|Č}ími</li>
+            <li>PRON: co, čeho, Komu</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Int,Rel
           <ul>
@@ -4688,7 +5547,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Int,Rel
           <ul>
@@ -4699,7 +5558,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Int,Rel
           <ul>
@@ -4710,12 +5569,12 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -4726,7 +5585,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -4735,7 +5594,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>Neg
+          <ul>
+            <li>ADV: nikdy</li>
+            <li>DET: Žadné, žadnou</li>
+            <li>PRON: nic, nikdo, ničem, n{ě|i}čím</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -4746,7 +5616,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -4757,7 +5627,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -4768,7 +5638,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -4781,7 +5651,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Prs
           <ul>
@@ -4791,7 +5661,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Prs
           <ul>
@@ -4801,7 +5671,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>Prs
+          <ul>
+            <li>DET: moje, můj, svou, mé, naše, jeho, muj, své, svoje, mém</li>
+            <li>PRON: se, mi, ja, mě, já, si, nás, mně, mu, ona</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Prs
           <ul>
@@ -4811,7 +5691,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Prs
           <ul>
@@ -4821,7 +5701,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Prs
           <ul>
@@ -4831,7 +5711,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Prs
           <ul>
@@ -4843,7 +5723,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Rel
           <ul>
@@ -4854,7 +5734,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Rel
           <ul>
@@ -4865,7 +5745,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>Rel
+          <ul>
+            <li>PRON: Což</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Rel
           <ul>
@@ -4876,7 +5765,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Rel
           <ul>
@@ -4887,7 +5776,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Rel
           <ul>
@@ -4898,7 +5787,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Rel
           <ul>
@@ -4911,7 +5800,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Tot
           <ul>
@@ -4922,7 +5811,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Tot
           <ul>
@@ -4933,7 +5822,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>Tot
+          <ul>
+            <li>ADV: vždycky, vždy, Vzdycky, všude</li>
+            <li>DET: každý, každy, všechno, všechny, každého, všichni, každé, vše, všech, Každej</li>
+            <li>NUM: obou, obě, Oba</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Tot
           <ul>
@@ -4944,7 +5844,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Tot
           <ul>
@@ -4955,7 +5855,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Tot
           <ul>
@@ -4966,7 +5866,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Tot
           <ul>
@@ -4979,39 +5879,44 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>NumType</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>NumType</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>NumType</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>NumType</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>NumType</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li><a>NumType</a></li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li><a>NumType</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Card
           <ul>
@@ -5021,7 +5926,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Card
           <ul>
@@ -5031,7 +5936,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>Card
+          <ul>
+            <li>DET: mnoho, několik, hodně, moc, Nekolík, mnoha, několika, tolik, více</li>
+            <li>NUM: 2, jeden, 1, 3, tři, 20, 6, XXX, sedm, 18</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Card
           <ul>
@@ -5041,7 +5956,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Card
           <ul>
@@ -5051,7 +5966,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Card
           <ul>
@@ -5061,7 +5976,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Card
           <ul>
@@ -5073,28 +5988,25 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
-      <ul>
-        <li>Frac
-          <ul>
-            <li>NUM: třetinu, třetina, třetiny, čtvrtiny, dvanáctinu, třetinou, třetině, šestině, desetin, desetinu</li>
-          </ul>
-        </li>
-      </ul>
-    </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Frac
           <ul>
-            <li>NUM: desetin, čtvrtiny, třetinu</li>
+            <li>NUM: Mongolštinová</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Frac
           <ul>
@@ -5103,15 +6015,15 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Mult
           <ul>
@@ -5121,7 +6033,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Mult
           <ul>
@@ -5130,7 +6042,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>Mult
+          <ul>
+            <li>ADV: mockrát, Jednou, dvakrát, krát, Jeden, mnohokrát, několik</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Mult
           <ul>
@@ -5140,7 +6061,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Mult
           <ul>
@@ -5150,7 +6071,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Mult
           <ul>
@@ -5159,7 +6080,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Mult
           <ul>
@@ -5170,16 +6091,19 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Mult,Sets
           <ul>
@@ -5188,15 +6112,15 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Ord
           <ul>
@@ -5207,7 +6131,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Ord
           <ul>
@@ -5217,7 +6141,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>Ord
+          <ul>
+            <li>ADJ: první, druhou, druhy, privním, prvních, prvním, třetí, devátá, deváté, druhe</li>
+            <li>ADV: poprvé</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Ord
           <ul>
@@ -5227,7 +6161,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Ord
           <ul>
@@ -5237,7 +6171,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Ord
           <ul>
@@ -5247,7 +6181,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Ord
           <ul>
@@ -5258,7 +6192,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Sets
           <ul>
@@ -5267,10 +6201,13 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Sets
           <ul>
@@ -5279,7 +6216,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Sets
           <ul>
@@ -5289,7 +6226,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Sets
           <ul>
@@ -5298,44 +6235,49 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Poss</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Poss</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Poss</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Poss</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Poss</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li><a>Poss</a></li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li><a>Poss</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -5345,7 +6287,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -5355,7 +6297,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>Yes
+          <ul>
+            <li>ADJ: Karlova, Karlovy, Karlův, Ferdinandové, Humboldtové, Karlov, Karlovou, Karlových, Karlově, králův</li>
+            <li>DET: moje, můj, svou, mé, naše, jeho, muj, své, svoje, mém</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -5365,7 +6317,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -5375,7 +6327,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -5385,7 +6337,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -5397,39 +6349,44 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Reflex</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Reflex</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Reflex</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Reflex</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Reflex</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li><a>Reflex</a></li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li><a>Reflex</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -5439,7 +6396,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -5449,7 +6406,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>Yes
+          <ul>
+            <li>DET: svou, své, svoje, svými, svůj, svém, svých, svoji, svojim, svoju</li>
+            <li>PRON: se, si, sebe, sobě, sebou, nebe, sobe</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -5459,7 +6426,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -5469,7 +6436,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -5479,7 +6446,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -5491,39 +6458,44 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Person</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Person</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Person</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Person</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Person</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li><a>Person</a></li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li><a>Person</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>1
           <ul>
@@ -5535,10 +6507,22 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>1
+          <ul>
+            <li>AUX-Fin: jsem, jsme, budu, bych, Bud, Nejsme, budeme, bychom</li>
+            <li>DET: moje, můj, mé, naše, muj, mém, naša, moji, mého, naší</li>
+            <li>PRON: mi, ja, mě, já, nás, mně, my, mne, mnou, m{ě|é}</li>
+            <li>VERB-Fin: mám, chci, bydlím, jmenuju, mam, máme, bydlim, těším, mužu, pracuju</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>1
           <ul>
@@ -5550,7 +6534,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>1
           <ul>
@@ -5562,7 +6546,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>1
           <ul>
@@ -5574,7 +6558,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>1
           <ul>
@@ -5588,7 +6572,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>2
           <ul>
@@ -5600,10 +6584,22 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>2
+          <ul>
+            <li>AUX-Fin: jste, budete, byste, jsi</li>
+            <li>DET: Váš, Vaši</li>
+            <li>PRON: vas, vy, vám, Tys, te, tě</li>
+            <li>VERB-Fin: Popiš, Dej, Chcete, Jdete, Nevěříte, Pojď, Potřebujete, Pozdravuj, Učíš, Viš</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>2
           <ul>
@@ -5615,7 +6611,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>2
           <ul>
@@ -5628,7 +6624,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>2
           <ul>
@@ -5640,7 +6636,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>2
           <ul>
@@ -5654,7 +6650,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>3
           <ul>
@@ -5666,7 +6662,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>3
           <ul>
@@ -5678,7 +6674,19 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>3
+          <ul>
+            <li>AUX-Fin: je, jsou, bude, nejsou, neni, není, bde, e, ja, jé</li>
+            <li>DET: jeho, její, jejich, jejích</li>
+            <li>PRON: mu, ona, ní, on, je, ji, jí, oni, ho, Ony</li>
+            <li>VERB-Fin: má, jmenuje, líbí, mají, pracuje, jezdí, ma, může, žije, bydlí</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>3
           <ul>
@@ -5690,7 +6698,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>3
           <ul>
@@ -5702,7 +6710,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>3
           <ul>
@@ -5714,7 +6722,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>3
           <ul>
@@ -5728,59 +6736,67 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+
+    </td>
+    <td width="14%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Gender[psor]</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Gender[psor]</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Gender[psor]</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Gender[psor]</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Gender[psor]</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li><a>Gender[psor]</a></li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li><a>Gender[psor]</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Fem
           <ul>
@@ -5790,7 +6806,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Fem
           <ul>
@@ -5799,7 +6815,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>Fem
+          <ul>
+            <li>DET: její, jejích</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Fem
           <ul>
@@ -5809,7 +6834,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Fem
           <ul>
@@ -5819,7 +6844,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Fem
           <ul>
@@ -5829,7 +6854,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Fem
           <ul>
@@ -5841,7 +6866,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Masc
           <ul>
@@ -5850,7 +6875,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Masc
           <ul>
@@ -5859,7 +6884,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>Masc
+          <ul>
+            <li>ADJ: Karlova, Karlovy, Karlův, Ferdinandové, Humboldtové, Karlov, Karlovou, Karlových, Karlově, králův</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Masc
           <ul>
@@ -5869,7 +6903,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Masc
           <ul>
@@ -5878,7 +6912,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Masc
           <ul>
@@ -5887,7 +6921,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Masc
           <ul>
@@ -5898,7 +6932,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Masc,Neut
           <ul>
@@ -5907,7 +6941,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Masc,Neut
           <ul>
@@ -5916,10 +6950,19 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>Masc,Neut
+          <ul>
+            <li>DET: jeho</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Masc,Neut
           <ul>
@@ -5928,7 +6971,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Masc,Neut
           <ul>
@@ -5937,18 +6980,21 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Neut
           <ul>
@@ -5957,13 +7003,13 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Neut
           <ul>
@@ -5974,39 +7020,44 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Number[psor]</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Number[psor]</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Number[psor]</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Number[psor]</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Number[psor]</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li><a>Number[psor]</a></li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li><a>Number[psor]</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -6015,7 +7066,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -6024,7 +7075,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>Plur
+          <ul>
+            <li>DET: naše, naša, Váš, naší, Nas, Naš, Náš, Vaši, jejich, nasího</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -6033,7 +7093,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -6042,7 +7102,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -6051,7 +7111,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -6062,7 +7122,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -6071,7 +7131,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -6080,7 +7140,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li>Sing
+          <ul>
+            <li>DET: moje, můj, mé, jeho, muj, mém, moji, mého, její, Ma</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -6089,7 +7158,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -6098,7 +7167,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -6107,7 +7176,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -6118,27 +7187,30 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h3>Other Features</h3>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h3>Other Features</h3>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h3>Other Features</h3>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h3>Other Features</h3>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h3>Other Features</h3>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <h3>Other Features</h3>
+    </td>
+    <td width="14%" valign="top">
       <h3>Other Features</h3>
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Abbr</a>
           <ul>
@@ -6156,7 +7228,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Abbr</a>
           <ul>
@@ -6172,7 +7244,23 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li><a>Abbr</a>
+          <ul>
+            <li>Yes
+              <ul>
+                <li>ADJ: Nauryz</li>
+                <li>NOUN: km, RUU, cm, tys, želev</li>
+                <li>PROPN: ČR, UK, FF, A, ABC, DARKHAN, KYB, KyB, NAADAM, S</li>
+                <li>X: pl</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li><a>Abbr</a>
           <ul>
@@ -6187,7 +7275,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Abbr</a>
           <ul>
@@ -6209,7 +7297,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Abbr</a>
           <ul>
@@ -6227,12 +7315,12 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>AdpType</a>
           <ul>
@@ -6255,7 +7343,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>AdpType</a>
           <ul>
@@ -6278,7 +7366,25 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li><a>AdpType</a>
+          <ul>
+            <li>Prep
+              <ul>
+                <li>ADP: v, na, do, s, pro, z, o, od, za, po</li>
+              </ul>
+            </li>
+            <li>Voc
+              <ul>
+                <li>ADP: ve, se, ze, ke</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li><a>AdpType</a>
           <ul>
@@ -6301,7 +7407,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>AdpType</a>
           <ul>
@@ -6324,7 +7430,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>AdpType</a>
           <ul>
@@ -6347,7 +7453,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>AdpType</a>
           <ul>
@@ -6367,7 +7473,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>ConjType</a>
           <ul>
@@ -6380,10 +7486,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>ConjType</a>
           <ul>
@@ -6396,7 +7502,20 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li><a>ConjType</a>
+          <ul>
+            <li>Oper
+              <ul>
+                <li>CCONJ: krát</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li><a>ConjType</a>
           <ul>
@@ -6410,15 +7529,15 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>ExtPos</a>
           <ul>
@@ -6437,7 +7556,7 @@ udver: '2'
             </li>
             <li>ADV
               <ul>
-                <li>ADV: co, nejen, stejně</li>
+                <li>ADV: více, co, víc, nejen, stejně</li>
                 <li>NOUN: rok, večer</li>
                 <li>PART: přece</li>
                 <li>VERB-Conv: chtíc</li>
@@ -6462,7 +7581,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>ExtPos</a>
           <ul>
@@ -6482,7 +7601,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li><a>ExtPos</a>
           <ul>
@@ -6495,7 +7617,7 @@ udver: '2'
             </li>
             <li>ADV
               <ul>
-                <li>ADV: nejen</li>
+                <li>ADV: nejen, víc, více</li>
                 <li>NOUN: noc, rok, večer</li>
                 <li>PART: přece</li>
               </ul>
@@ -6514,7 +7636,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>ExtPos</a>
           <ul>
@@ -6535,7 +7657,7 @@ udver: '2'
             <li>ADV
               <ul>
                 <li>ADP: m</li>
-                <li>ADV: více, nejen, víc, co, méně</li>
+                <li>ADV: více, méně, víc, nejen, co</li>
                 <li>DET: všeho</li>
                 <li>NOUN: rok, měsíc, Týden, neděli, sobotu, suma, večer</li>
                 <li>PART: přece</li>
@@ -6562,7 +7684,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>ExtPos</a>
           <ul>
@@ -6592,7 +7714,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>ExtPos</a>
           <ul>
@@ -6618,7 +7740,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Foreign</a>
           <ul>
@@ -6643,13 +7765,30 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li><a>Foreign</a>
+          <ul>
+            <li>Yes
+              <ul>
+                <li>ADJ: Hodná, super</li>
+                <li>ADP: versus</li>
+                <li>NOUN: on-line, transportation, Marbella, Muzeum, diploma, thesis</li>
+                <li>PROPN: Choř{l|t}ica, Mongolska, NAADAM, Portlandě, UNESCO</li>
+                <li>X: pl</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Foreign</a>
           <ul>
@@ -6664,7 +7803,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Foreign</a>
           <ul>
@@ -6683,7 +7822,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Foreign</a>
           <ul>
@@ -6701,7 +7840,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Hyph</a>
           <ul>
@@ -6714,7 +7853,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Hyph</a>
           <ul>
@@ -6727,7 +7866,20 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li><a>Hyph</a>
+          <ul>
+            <li>Yes
+              <ul>
+                <li>ADJ: Karlov</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li><a>Hyph</a>
           <ul>
@@ -6740,7 +7892,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Hyph</a>
           <ul>
@@ -6753,7 +7905,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Hyph</a>
           <ul>
@@ -6766,12 +7918,12 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>NameType</a>
           <ul>
@@ -6890,10 +8042,67 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li><a>NameType</a>
+          <ul>
+            <li>Com
+              <ul>
+                <li>ADJ: Hodná</li>
+                <li>PROPN: UK, FF, A, ABC, DARKHAN, Elis, Ježiše, KYB, Kayaba, KyB</li>
+              </ul>
+            </li>
+            <li>Geo
+              <ul>
+                <li>ADJ: Dobré, český</li>
+                <li>PROPN: praze, Praha, ČR, Prahy, Mongolska, Mongolsko, Číně, Evropy, Mexiko, Česko</li>
+              </ul>
+            </li>
+            <li>Geo,Sur
+              <ul>
+                <li>PROPN: Hybala, tatarů</li>
+              </ul>
+            </li>
+            <li>Giv
+              <ul>
+                <li>ADJ: Karlova, Karlovy, Ferdinandové, Karlov, Karlových, Karlově, Karlův</li>
+                <li>PROPN: Adam, Eva, Krista, Tomaš, Bořivoj, Dorou, EVA, Evou, Hamlet, Honza</li>
+              </ul>
+            </li>
+            <li>Nat
+              <ul>
+                <li>PROPN: Češi, japonci</li>
+              </ul>
+            </li>
+            <li>Oth
+              <ul>
+                <li>PROPN: Evo, Trum</li>
+              </ul>
+            </li>
+            <li>Pro
+              <ul>
+                <li>PROPN: Choř{l|t}ica, Morin</li>
+              </ul>
+            </li>
+            <li>Pro,Sur
+              <ul>
+                <li>PROPN: Internet</li>
+              </ul>
+            </li>
+            <li>Sur
+              <ul>
+                <li>ADJ: Humboldtové, Karlův</li>
+                <li>PROPN: Honza, O, Balchšovi, Bačka, Bratra, Cervo, Diamantovou, Elbegnorj, Halstadt, Honzo</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li><a>NameType</a>
           <ul>
@@ -6926,7 +8135,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>NameType</a>
           <ul>
@@ -6989,7 +8198,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>NameType</a>
           <ul>
@@ -7062,7 +8271,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>NameType</a>
           <ul>
@@ -7100,7 +8309,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>NumForm</a>
           <ul>
@@ -7118,7 +8327,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>NumForm</a>
           <ul>
@@ -7136,7 +8345,30 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li><a>NumForm</a>
+          <ul>
+            <li>Digit
+              <ul>
+                <li>NUM: 2, 1, 3, 20, 6, 18, 38, 4, 5, 10</li>
+              </ul>
+            </li>
+            <li>Roman
+              <ul>
+                <li>NUM: XXX, II, I, III, IV</li>
+              </ul>
+            </li>
+            <li>Word
+              <ul>
+                <li>NUM: jeden, tři, sedm, jedna, osm, třicet, dva, dvou, pět, šest</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li><a>NumForm</a>
           <ul>
@@ -7154,7 +8386,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>NumForm</a>
           <ul>
@@ -7177,7 +8409,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>NumForm</a>
           <ul>
@@ -7200,7 +8432,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>NumForm</a>
           <ul>
@@ -7220,7 +8452,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Style</a>
           <ul>
@@ -7271,7 +8503,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Style</a>
           <ul>
@@ -7284,7 +8516,35 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li><a>Style</a>
+          <ul>
+            <li>Coll
+              <ul>
+                <li>ADJ: super, visoky</li>
+                <li>ADV: teda</li>
+                <li>DET: naší, ty</li>
+                <li>INTJ: jo</li>
+                <li>NOUN: dni, sanitku, středoŠKOCKY, vajíčko</li>
+                <li>PART: jo</li>
+              </ul>
+            </li>
+            <li>Expr
+              <ul>
+                <li>ADJ: Ševcová</li>
+              </ul>
+            </li>
+            <li>Vrnc
+              <ul>
+                <li>NOUN: babičky</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li><a>Style</a>
           <ul>
@@ -7307,7 +8567,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Style</a>
           <ul>
@@ -7379,7 +8639,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Style</a>
           <ul>
@@ -7407,7 +8667,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Style</a>
           <ul>
@@ -7443,16 +8703,29 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li><a>Typo</a>
+          <ul>
+            <li>Yes
+              <ul>
+                <li>ADJ: nej</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Typo</a>
           <ul>
@@ -7476,10 +8749,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
 
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>Typo</a>
           <ul>
@@ -7494,7 +8767,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -7503,7 +8776,7 @@ udver: '2'
       <li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: být, bývat.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -7512,7 +8785,16 @@ udver: '2'
       <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: být.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <h2>Syntax</h2>
+      
+      <h3>Auxiliary Verbs and Copula</h3>
+      
+      <ul>
+      <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: být.</li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -7521,7 +8803,7 @@ udver: '2'
       <li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: být, bývat.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -7530,7 +8812,7 @@ udver: '2'
       <li>This corpus uses 3 lemmas as copulas (<a>cop</a>). Examples: být, bývat, bývávat.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -7539,7 +8821,7 @@ udver: '2'
       <li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: být, bývat.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -7550,37 +8832,43 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       <li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: být, bývat.</li>
       <li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: být, bývat.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       <li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: být.</li>
       <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: být.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+      <li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: být.</li>
+      <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: být.</li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
       <li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: být, bývat.</li>
       <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: být.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       <li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: být, bývat.</li>
       <li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: být, bývat.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       <li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: být.</li>
       <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: být.</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
       <li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: být, bývat.</li>
       <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: být.</li>
@@ -7588,7 +8876,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
@@ -7597,11 +8885,11 @@ udver: '2'
           <ul>
             <li>VERB-Fin--NOUN (28)</li>
             <li>VERB-Fin--NOUN-Acc (34)</li>
-            <li>VERB-Fin--NOUN-Gen (113)</li>
+            <li>VERB-Fin--NOUN-Gen (115)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(kolem) (3)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(na) (2)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(přes) (3)</li>
-            <li>VERB-Fin--NOUN-Nom (7654)</li>
+            <li>VERB-Fin--NOUN-Nom (7660)</li>
             <li>VERB-Fin--PRON (28)</li>
             <li>VERB-Fin--PRON-Acc (3)</li>
             <li>VERB-Fin--PRON-Dat (1)</li>
@@ -7630,7 +8918,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
@@ -7650,7 +8938,32 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
+      
+      Here we consider only relations between verbs (parent) and nouns or pronouns (child).
+      <ul>
+        <li><a>nsubj</a>
+          <ul>
+            <li>VERB-Fin--NOUN (1)</li>
+            <li>VERB-Fin--NOUN-Acc (9)</li>
+            <li>VERB-Fin--NOUN-Dat (1)</li>
+            <li>VERB-Fin--NOUN-Gen (10)</li>
+            <li>VERB-Fin--NOUN-Nom (99)</li>
+            <li>VERB-Fin--PRON-Acc (1)</li>
+            <li>VERB-Fin--PRON-Nom (45)</li>
+            <li>VERB-Inf--NOUN-Nom (2)</li>
+            <li>VERB-Inf--PRON-Nom (6)</li>
+            <li>VERB-Part--NOUN (1)</li>
+            <li>VERB-Part--NOUN-Acc (1)</li>
+            <li>VERB-Part--NOUN-Gen (1)</li>
+            <li>VERB-Part--NOUN-Nom (80)</li>
+            <li>VERB-Part--PRON-Nom (14)</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
@@ -7675,7 +8988,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
@@ -7684,13 +8997,13 @@ udver: '2'
           <ul>
             <li>VERB-Fin--NOUN (629)</li>
             <li>VERB-Fin--NOUN-Acc (2)</li>
-            <li>VERB-Fin--NOUN-Gen (889)</li>
+            <li>VERB-Fin--NOUN-Gen (912)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(kolem) (11)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(mezi) (1)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(na) (24)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(okolo) (4)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(přes) (17)</li>
-            <li>VERB-Fin--NOUN-Nom (41948)</li>
+            <li>VERB-Fin--NOUN-Nom (41950)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(proti) (1)</li>
             <li>VERB-Fin--PRON (91)</li>
             <li>VERB-Fin--PRON-Gen (42)</li>
@@ -7708,13 +9021,13 @@ udver: '2'
             <li>VERB-Inf--PRON-Nom (148)</li>
             <li>VERB-Part--NOUN (593)</li>
             <li>VERB-Part--NOUN-Acc-ADP(na) (1)</li>
-            <li>VERB-Part--NOUN-Gen (1041)</li>
+            <li>VERB-Part--NOUN-Gen (1088)</li>
             <li>VERB-Part--NOUN-Gen-ADP(kolem) (12)</li>
             <li>VERB-Part--NOUN-Gen-ADP(na) (32)</li>
             <li>VERB-Part--NOUN-Gen-ADP(okolo) (5)</li>
             <li>VERB-Part--NOUN-Gen-ADP(přes) (17)</li>
             <li>VERB-Part--NOUN-Loc-ADP(po) (3)</li>
-            <li>VERB-Part--NOUN-Nom (50497)</li>
+            <li>VERB-Part--NOUN-Nom (50500)</li>
             <li>VERB-Part--NOUN-Nom-ADP(pro) (2)</li>
             <li>VERB-Part--NOUN-Nom-ADP(proti) (1)</li>
             <li>VERB-Part--PRON (121)</li>
@@ -7726,7 +9039,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
@@ -7750,7 +9063,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
@@ -7770,7 +9083,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
@@ -7778,15 +9091,15 @@ udver: '2'
             <li>VERB-Conv--NOUN-Gen (1)</li>
             <li>VERB-Conv--PRON-Acc (1)</li>
             <li>VERB-Fin--NOUN (3)</li>
-            <li>VERB-Fin--NOUN-Acc (5619)</li>
-            <li>VERB-Fin--NOUN-Gen (149)</li>
+            <li>VERB-Fin--NOUN-Acc (5624)</li>
+            <li>VERB-Fin--NOUN-Gen (151)</li>
             <li>VERB-Fin--NOUN-Nom (85)</li>
             <li>VERB-Fin--PRON (18)</li>
             <li>VERB-Fin--PRON-Acc (629)</li>
             <li>VERB-Fin--PRON-Gen (4)</li>
             <li>VERB-Fin--PRON-Nom (6)</li>
             <li>VERB-Inf--NOUN (5)</li>
-            <li>VERB-Inf--NOUN-Acc (3542)</li>
+            <li>VERB-Inf--NOUN-Acc (3544)</li>
             <li>VERB-Inf--NOUN-Gen (34)</li>
             <li>VERB-Inf--NOUN-Gen-ADP(z) (1)</li>
             <li>VERB-Inf--NOUN-Nom (23)</li>
@@ -7795,8 +9108,8 @@ udver: '2'
             <li>VERB-Inf--PRON-Gen (2)</li>
             <li>VERB-Inf--PRON-Nom (1)</li>
             <li>VERB-Part--NOUN (20)</li>
-            <li>VERB-Part--NOUN-Acc (2814)</li>
-            <li>VERB-Part--NOUN-Gen (124)</li>
+            <li>VERB-Part--NOUN-Acc (2815)</li>
+            <li>VERB-Part--NOUN-Gen (125)</li>
             <li>VERB-Part--NOUN-Nom (14)</li>
             <li>VERB-Part--PRON (16)</li>
             <li>VERB-Part--PRON-Acc (383)</li>
@@ -7806,7 +9119,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
@@ -7824,14 +9137,55 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li><a>obj</a>
+          <ul>
+            <li>VERB--NOUN-Acc (1)</li>
+            <li>VERB-Fin--NOUN (1)</li>
+            <li>VERB-Fin--NOUN-Acc (124)</li>
+            <li>VERB-Fin--NOUN-Acc-ADP(na) (2)</li>
+            <li>VERB-Fin--NOUN-Acc-ADP(o) (2)</li>
+            <li>VERB-Fin--NOUN-Dat (2)</li>
+            <li>VERB-Fin--NOUN-Gen (18)</li>
+            <li>VERB-Fin--NOUN-Ins (2)</li>
+            <li>VERB-Fin--NOUN-Loc-ADP(o) (1)</li>
+            <li>VERB-Fin--NOUN-Nom (23)</li>
+            <li>VERB-Fin--PRON-Acc (23)</li>
+            <li>VERB-Fin--PRON-Dat (22)</li>
+            <li>VERB-Fin--PRON-Gen (1)</li>
+            <li>VERB-Fin--PRON-Ins (1)</li>
+            <li>VERB-Fin--PRON-Nom (1)</li>
+            <li>VERB-Inf--NOUN-Acc (60)</li>
+            <li>VERB-Inf--NOUN-Acc-ADP(na) (1)</li>
+            <li>VERB-Inf--NOUN-Nom (6)</li>
+            <li>VERB-Inf--PRON-Acc (13)</li>
+            <li>VERB-Inf--PRON-Gen (2)</li>
+            <li>VERB-Inf--PRON-Nom (1)</li>
+            <li>VERB-Part--NOUN-Acc (67)</li>
+            <li>VERB-Part--NOUN-Acc-ADP(na) (1)</li>
+            <li>VERB-Part--NOUN-Dat (2)</li>
+            <li>VERB-Part--NOUN-Gen (8)</li>
+            <li>VERB-Part--NOUN-Ins (4)</li>
+            <li>VERB-Part--NOUN-Nom (13)</li>
+            <li>VERB-Part--PRON-Acc (29)</li>
+            <li>VERB-Part--PRON-Acc-ADP(na) (1)</li>
+            <li>VERB-Part--PRON-Dat (13)</li>
+            <li>VERB-Part--PRON-Gen (2)</li>
+            <li>VERB-Part--PRON-Loc (1)</li>
+            <li>VERB-Part--PRON-Nom (2)</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
             <li>VERB-Conv--NOUN-Acc (16)</li>
             <li>VERB-Conv--PRON-Acc (1)</li>
             <li>VERB-Conv--PRON-Nom (1)</li>
-            <li>VERB-Fin--NOUN-Acc (1143)</li>
+            <li>VERB-Fin--NOUN-Acc (1144)</li>
             <li>VERB-Fin--NOUN-Gen (49)</li>
             <li>VERB-Fin--NOUN-Nom (2)</li>
             <li>VERB-Fin--PRON (1)</li>
@@ -7855,7 +9209,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
@@ -7863,13 +9217,15 @@ udver: '2'
             <li>VERB-Conv--NOUN-Acc (42)</li>
             <li>VERB-Conv--PRON-Acc (3)</li>
             <li>VERB-Fin--NOUN (160)</li>
-            <li>VERB-Fin--NOUN-Acc (31410)</li>
-            <li>VERB-Fin--NOUN-Gen (1606)</li>
+            <li>VERB-Fin--NOUN-Acc (31413)</li>
+            <li>VERB-Fin--NOUN-Dat (1)</li>
+            <li>VERB-Fin--NOUN-Gen (1654)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(na) (7)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(o) (4)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(pod) (1)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(z) (1)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(za) (1)</li>
+            <li>VERB-Fin--NOUN-Ins-ADP(před) (1)</li>
             <li>VERB-Fin--NOUN-Nom (291)</li>
             <li>VERB-Fin--NOUN-Voc (4)</li>
             <li>VERB-Fin--PRON (28)</li>
@@ -7877,8 +9233,8 @@ udver: '2'
             <li>VERB-Fin--PRON-Gen (25)</li>
             <li>VERB-Fin--PRON-Nom (26)</li>
             <li>VERB-Inf--NOUN (82)</li>
-            <li>VERB-Inf--NOUN-Acc (18699)</li>
-            <li>VERB-Inf--NOUN-Gen (601)</li>
+            <li>VERB-Inf--NOUN-Acc (18701)</li>
+            <li>VERB-Inf--NOUN-Gen (617)</li>
             <li>VERB-Inf--NOUN-Gen-ADP(na) (5)</li>
             <li>VERB-Inf--NOUN-Gen-ADP(o) (1)</li>
             <li>VERB-Inf--NOUN-Gen-ADP(z) (1)</li>
@@ -7889,10 +9245,11 @@ udver: '2'
             <li>VERB-Inf--PRON-Gen (5)</li>
             <li>VERB-Inf--PRON-Nom (50)</li>
             <li>VERB-Part--NOUN (156)</li>
-            <li>VERB-Part--NOUN-Acc (36088)</li>
-            <li>VERB-Part--NOUN-Gen (1875)</li>
+            <li>VERB-Part--NOUN-Acc (36094)</li>
+            <li>VERB-Part--NOUN-Gen (1924)</li>
             <li>VERB-Part--NOUN-Gen-ADP(na) (2)</li>
             <li>VERB-Part--NOUN-Gen-ADP(z) (2)</li>
+            <li>VERB-Part--NOUN-Gen-ADP(za) (2)</li>
             <li>VERB-Part--NOUN-Nom (235)</li>
             <li>VERB-Part--NOUN-Voc (9)</li>
             <li>VERB-Part--PRON (54)</li>
@@ -7903,7 +9260,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
@@ -7929,7 +9286,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
@@ -7949,7 +9306,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>iobj</a>
           <ul>
@@ -7971,7 +9328,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>iobj</a>
           <ul>
@@ -7980,7 +9337,24 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <ul>
+        <li><a>iobj</a>
+          <ul>
+            <li>VERB-Fin--NOUN-Acc (4)</li>
+            <li>VERB-Fin--NOUN-Nom (1)</li>
+            <li>VERB-Fin--PRON-Dat (3)</li>
+            <li>VERB-Inf--PRON-Dat (2)</li>
+            <li>VERB-Part--NOUN-Acc (1)</li>
+            <li>VERB-Part--NOUN-Dat (1)</li>
+            <li>VERB-Part--NOUN-Ins-ADP(s) (1)</li>
+            <li>VERB-Part--PRON-Acc (1)</li>
+            <li>VERB-Part--PRON-Dat (7)</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <ul>
         <li><a>iobj</a>
           <ul>
@@ -7996,7 +9370,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>iobj</a>
           <ul>
@@ -8009,7 +9383,7 @@ udver: '2'
             <li>VERB-Fin--PRON-Acc (55)</li>
             <li>VERB-Fin--PRON-Nom (3)</li>
             <li>VERB-Inf--NOUN (9)</li>
-            <li>VERB-Inf--NOUN-Acc (104)</li>
+            <li>VERB-Inf--NOUN-Acc (105)</li>
             <li>VERB-Inf--NOUN-Gen (11)</li>
             <li>VERB-Inf--NOUN-Gen-ADP(k) (1)</li>
             <li>VERB-Inf--NOUN-Gen-ADP(na) (1)</li>
@@ -8019,6 +9393,7 @@ udver: '2'
             <li>VERB-Inf--PRON-Acc (42)</li>
             <li>VERB-Part--NOUN (32)</li>
             <li>VERB-Part--NOUN-Acc (262)</li>
+            <li>VERB-Part--NOUN-Dat (1)</li>
             <li>VERB-Part--NOUN-Gen (18)</li>
             <li>VERB-Part--NOUN-Gen-ADP(na) (8)</li>
             <li>VERB-Part--NOUN-Nom (25)</li>
@@ -8028,7 +9403,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>iobj</a>
           <ul>
@@ -8041,7 +9416,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <ul>
         <li><a>iobj</a>
           <ul>
@@ -8052,42 +9427,49 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h3>Reflexive Verbs</h3>
       
       <ul>
         <li>This corpus contains 1141 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: stát se, zabývat se, stávat se, snažit se, projevovat se, podařit se, dát se, měnit se, dostat se, zúčastnit se, podílet se, zdát se, lišit se, týkat se, jevit se, projevit se, vyskytovat se, konat se, objevit se, dostávat se, objevovat se, pohybovat se, domnívat se, rozhodnout se, vrátit se, rozvíjet se, podívat se, setkávat se, setkat se, týkající se, ukázat se, opírat se, učit se, ukazovat se, uskutečnit se, uvědomit si, chovat se, vyznačovat se, změnit se, dít se, pokusit se, vracet se, vytvořit se, uplatňovat se, uvědomovat si, hodit se, představit si, sejít se, starat se, líbit se</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h3>Reflexive Verbs</h3>
       
       <ul>
         <li>This corpus contains 28 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: vztahovat se, týkající se, týkat se, shodovat se, stát se, vztahující se, podrobit se, dopustit se, rovnat se, rozhodnout se, stávat se, lišit se, přiblížení se, vyskytující se, blížící se, dotýkat se, dozvědět se, konsolidovaný se, liší-li se, nejedná-li se, nerozhodnou-li se, odchýlit se, uchovávat se, vykazovat se, vážící se, zbavovat se, řídit se, řídící se</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <h3>Reflexive Verbs</h3>
+      
+      <ul>
+        <li>This corpus contains 76 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: jmenovat se, líbit se, narodit se, učit se, Jmenovat se, stát se, stýskat se, těšit se, vrátit se, naučit se, nalézat se, setkat se, Zajímat se, bát se, chtít se, cítit se, dívat se, moci se, nechat si, obrátit se, podívat se, povést se, seznámit se, zamilovat se, zamilovat si, zdát se, Opožďovat se, Učet se, Učit se, chlubit se, chovat se, dostat se, honit se, hrnout se, hýbat se, koupit si, lišit se, mít se, měnit se, nachazit se, nacházet se, objevovat se, oslavit se, pamatovat si, podivat se, polekat se, projevovat se, pustit se, představit si, přeměnit se</li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <h3>Reflexive Verbs</h3>
       
       <ul>
         <li>This corpus contains 1008 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: stát se, dívat se, zeptat se, zdát se, snažit se, ptát se, vrátit se, podívat se, všimnout si, myslet si, usmát se, bát se, rozhodnout se, dát se, zastavit se, chovat se, smát se, uvědomit si, dostat se, dotknout se, objevit se, starat se, vydat se, představit si, vzpomenout si, cítit se, ozvat se, posadit se, podařit se, uvědomovat si, vracet se, líbit se, divit se, narodit se, obrátit se, prohlížet si, představovat si, těšit se, dít se, otočit se, jmenovat se, otázat se, stěžovat si, přát si, vzít si, bránit se, pustit se, stávat se, blížit se, dozvědět se</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h3>Reflexive Verbs</h3>
       
       <ul>
         <li>This corpus contains 2431 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: stát se, podívat se, jmenovat se, dostat se, snažit se, myslit si, vrátit se, zdát se, líbit se, podařit se, pamatovat si, týkat se, domnívat se, rozhodnout se, narodit se, zabývat se, zvýšit se, objevit se, dát se, sejít se, pohybovat se, změnit se, zabývající se, bát se, týkající se, setkat se, podílet se, pokusit se, starat se, vracet se, ptát se, vzpomenout si, učit se, konat se, zúčastnit se, dohodnout se, jednat se, věnovat se, dívat se, vyjádřit se, dozvědět se, povídat si, obávat se, scházet se, stávat se, seznámit se, vzpomínat si, naučit se, pokoušet se, dít se</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h3>Reflexive Verbs</h3>
       
       <ul>
         <li>This corpus contains 131 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: stát se, rozhodnout se, nacházet se, vrátit se, objevit se, konat se, zdát se, dostat se, myslet si, setkat se, snažit se, týkat se, jednat se, lišit se, narodit se, objevovat se, pokusit se, potýkat se, skládat se, ujmout se, vyvíjet se, vzdát se, bavit se, blížit se, dopouštět se, držet se, ozvat se, podařit se, podržet si, podívat se, přát si, rozpadnout se, těšit se, vlévat se, vydat se, vyslovit se, věnovat se, zaměřit se, chovat se, cítit se, dařit se, divit se, dohadovat se, domnívat se, dopustit se, dostavit se, dozvědět se, dát se, dít se, dívat se</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h3>Reflexive Verbs</h3>
       
       <ul>
@@ -8096,42 +9478,49 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h3>Reflexive Passive</h3>
       
       <ul>
         <li>This corpus contains 655 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: používat se, vyrábět se, rozumět se, provádět se, dát se, muset se, moci se, předpokládat se, mít se, počítat se, říkat se, smět se, uplatňovat se, dosáhnout se, dělat se, uvádět se, užívat se, pracovat se, stavět se, považovat se, začít se, plnit se, připravovat se, ukládat se, označovat se, spotřebovat se, využívat se, hovořit se, pokračovat se, realizovat se, dodávat se, nazývat se, chápat se, doporučovat se, dělit se, mluvit se, zdůrazňovat se, zjistit se, najít se, očekávat se, poskytovat se, použít se, stanovit se, vyžadovat se, řešit se, měřit se, pokládat se, prodávat se, psát se, přenášet se</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h3>Reflexive Passive</h3>
       
       <ul>
         <li>This corpus contains 75 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: rozumět se, použít se, považovat se, účtovat se, sestavovat se, odpisovat se, uvádět se, postupovat se, uvést se, provádět se, zaúčtovat se, ocenit se, označovat se, vykazovat se, oceňovat se, zjistit se, ověřovat se, očekávat se, pohlížet se, stanovit se, upravit se, Nestanoví-li se, doplnit se, moci se, odepsat se, otevírat se, posuzovat se, snižovat se, snížit se, uschovávat se, vytvářet se, zahrnout se, zapisovat se, Změní-li se, dokumentovat se, lišit se, muset se, mít se, nabývat se, odůvodnit se, pokračovat se, poskytovat se, počítat se, promítat se, předpokládat se, převádět se, převést se, přihlédnout se, přihlížet se, přiřadit se</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <h3>Reflexive Passive</h3>
+      
+      <ul>
+        <li>This corpus contains 12 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: slavit se, žít se, dát se, dělit se, jít se, kupovat se, nářadí si, platit se, péci se, učit se, zamykat se, říci se</li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <h3>Reflexive Passive</h3>
       
       <ul>
         <li>This corpus contains 200 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: dát se, otevřít se, chtít se, říkat se, muset se, dělat se, začít se, vědět se, mluvit se, najít se, používat se, psát se, rozkřiknout se, moci se, měnit se, počítat se, připravovat se, příst se, vařit se, vysílat se, zbarvovat se, změnit se, bojovat se, chodit se, dostat se, dělávat se, hrnout se, hrát se, jet se, kouřit se, mít se, nabízet se, otevírat se, pootevřít se, posílat se, poznat se, prodlužovat se, prodávat se, proměnit se, propouštět se, pěstovat se, předpokládat se, přestavět se, rozkmitat se, roznést se, stavět se, svítit se, uvidět se, vcházet se, vyhodit se</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h3>Reflexive Passive</h3>
       
       <ul>
         <li>This corpus contains 1599 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: dát se, očekávat se, říkat se, mít se, muset se, dělat se, prodávat se, moci se, předpokládat se, hrát se, uvádět se, obchodovat se, začít se, vídat se, mluvit se, používat se, počítat se, poznat se, povídat se, jít se, znát se, chodit se, jezdit se, platit se, jet se, najít se, psát se, odhadovat se, brát se, uskutečnit se, hovořit se, prodat se, vidět se, smět se, udělat se, dávat se, čekat se, vyrábět se, vědět se, provádět se, stavět se, chtít se, nabízet se, uvažovat se, připravovat se, říci se, nosit se, zvýšit se, jednat se, hledat se</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h3>Reflexive Passive</h3>
       
       <ul>
         <li>This corpus contains 39 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: používat se, soudit se, najít se, zvýšit se, brát se, datovat se, diskutovat se, doporučovat se, dávat se, myslit se, měnit se, měřit se, naznačovat se, nazývat se, označovat se, očekávat se, podávat se, považovat se, pořádat se, prodávat se, proměnit se, provést se, psát se, předpokládat se, přepravovat se, rozvibrovat se, snížit se, stavět se, studovat se, svádět se, tradovat se, tvrdit se, vrátit se, vypočítávat se, vyučovat se, využívat se, věřit se, zvyšovat se, čekat se</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h3>Reflexive Passive</h3>
       
       <ul>
@@ -8140,7 +9529,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
@@ -8150,14 +9539,21 @@ udver: '2'
           </ul>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
         <li>This corpus contains 1 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: seznámit se</li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <h3>Verbs with Reflexive Core Objects</h3>
+      
+      <ul>
+        <li>This corpus contains 7 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: zamilovat se, koupit si, navštěvovat se, seznámit se, vybrat si, zapsat se, řadit se</li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
@@ -8167,7 +9563,7 @@ udver: '2'
           </ul>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
@@ -8177,7 +9573,7 @@ udver: '2'
           </ul>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
@@ -8187,7 +9583,7 @@ udver: '2'
           </ul>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
@@ -8196,7 +9592,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
@@ -8205,7 +9601,7 @@ udver: '2'
       <li>The following 5 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
@@ -8214,7 +9610,16 @@ udver: '2'
       <li>The following 8 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>flat</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
+      <h3>Relations Overview</h3>
+      
+      <ul>
+      <li>This corpus uses 12 relation subtypes: <a>acl:relcl</a>, <a>advcl:pred</a>, <a>advmod:emph</a>, <a>aux:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:arg</a></li>
+      <li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
+      <li>The following 5 relation types are not used in this corpus at all: <a>csubj</a>, <a>fixed</a>, <a>list</a>, <a>orphan</a>, <a>reparandum</a></li>
+      </ul>
+    </td>
+    <td width="14%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
@@ -8223,7 +9628,7 @@ udver: '2'
       <li>The following 5 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
@@ -8232,7 +9637,7 @@ udver: '2'
       <li>The following 4 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
@@ -8241,7 +9646,7 @@ udver: '2'
       <li>The following 6 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
       </ul>
     </td>
-    <td width="16%" valign="top">
+    <td width="14%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>

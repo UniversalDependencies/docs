@@ -10,10 +10,10 @@ This relation is universal.
 
 2448 nodes (12%) are attached to their parents as `punct`.
 
-1552 instances of `punct` (63%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.02982026143791.
+1555 instances of `punct` (64%) are left-to-right (parent precedes child).
+Average distance between parent and child is 8.02859477124183.
 
-The following 11 pairs of parts of speech are connected with `punct`: <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-PUNCT.html">PUNCT</a></tt> (1507; 62% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-PUNCT.html">PUNCT</a></tt> (479; 20% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-PUNCT.html">PUNCT</a></tt> (190; 8% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_pud-pos-PUNCT.html">PUNCT</a></tt> (179; 7% instances), <tt><a href="en_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="en_pud-pos-PUNCT.html">PUNCT</a></tt> (40; 2% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="en_pud-pos-PUNCT.html">PUNCT</a></tt> (17; 1% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="en_pud-pos-PUNCT.html">PUNCT</a></tt> (10; 0% instances), <tt><a href="en_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="en_pud-pos-PUNCT.html">PUNCT</a></tt> (9; 0% instances), <tt><a href="en_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="en_pud-pos-PUNCT.html">PUNCT</a></tt> (7; 0% instances), <tt><a href="en_pud-pos-X.html">X</a></tt>-<tt><a href="en_pud-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="en_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="en_pud-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances).
+The following 11 pairs of parts of speech are connected with `punct`: <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-PUNCT.html">PUNCT</a></tt> (1514; 62% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-PUNCT.html">PUNCT</a></tt> (479; 20% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-PUNCT.html">PUNCT</a></tt> (190; 8% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_pud-pos-PUNCT.html">PUNCT</a></tt> (180; 7% instances), <tt><a href="en_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="en_pud-pos-PUNCT.html">PUNCT</a></tt> (40; 2% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="en_pud-pos-PUNCT.html">PUNCT</a></tt> (10; 0% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="en_pud-pos-PUNCT.html">PUNCT</a></tt> (9; 0% instances), <tt><a href="en_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="en_pud-pos-PUNCT.html">PUNCT</a></tt> (9; 0% instances), <tt><a href="en_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="en_pud-pos-PUNCT.html">PUNCT</a></tt> (7; 0% instances), <tt><a href="en_pud-pos-X.html">X</a></tt>-<tt><a href="en_pud-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="en_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="en_pud-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances).
 
 
 ~~~ conllu
@@ -26,7 +26,7 @@ The following 11 pairs of parts of speech are connected with `punct`: <tt><a hre
 2	new	new	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
 3	spending	spending	NOUN	NN	Number=Sing	5	nsubj:pass	5:nsubj:pass	_
 4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	5:aux:pass	_
-5	fueled	fuel	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
+5	fueled	fuel	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
 6	by	by	ADP	IN	_	11	case	11:case	_
 7	Clinton	Clinton	PROPN	NNP	Number=Sing	11	nmod:poss	11:nmod:poss	SpaceAfter=No
 8	’s	's	PART	POS	_	7	case	7:case	_
@@ -44,7 +44,7 @@ The following 11 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 2 punct	color:blue
-1	Today	today	NOUN	NN	Number=Sing	8	obl:unmarked	8:obl:unmarked	TemporalNPAdjunct=Yes|SpaceAfter=No
+1	Today	today	NOUN	NN	Number=Sing	8	obl:unmarked	8:obl:unmarked	SpaceAfter=No|TemporalNPAdjunct=Yes
 2	,	,	PUNCT	,	_	8	punct	8:punct	_
 3	Khanzir	Khanzir	PROPN	NNP	Number=Sing	8	nsubj	8:nsubj	_
 4	may	may	AUX	MD	VerbForm=Fin	8	aux	8:aux	_
@@ -70,7 +70,7 @@ The following 11 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 6 punct	color:blue
-1	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	_
+1	My	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	_
 2	next	next	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
 3	stop	stop	NOUN	NN	Number=Sing	5	nsubj	5:nsubj	_
 4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	5:cop	_

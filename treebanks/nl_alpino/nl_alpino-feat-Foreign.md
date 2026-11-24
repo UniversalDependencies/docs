@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-589 tokens (0%) have a non-empty value of `Foreign`.
-412 types (2%) occur at least once with a non-empty value of `Foreign`.
-411 lemmas (2%) occur at least once with a non-empty value of `Foreign`.
-The feature is used with 1 part-of-speech tags: <tt><a href="nl_alpino-pos-X.html">X</a></tt> (589; 0% instances).
+590 tokens (0%) have a non-empty value of `Foreign`.
+413 types (2%) occur at least once with a non-empty value of `Foreign`.
+412 lemmas (2%) occur at least once with a non-empty value of `Foreign`.
+The feature is used with 1 part-of-speech tags: <tt><a href="nl_alpino-pos-X.html">X</a></tt> (590; 0% instances).
 
 ### `X`
 
-589 <tt><a href="nl_alpino-pos-X.html">X</a></tt> tokens (62% of all `X` tokens) have a non-empty value of `Foreign`.
+590 <tt><a href="nl_alpino-pos-X.html">X</a></tt> tokens (62% of all `X` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `X` and `Foreign` co-occurred: <tt><a href="nl_alpino-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (589; 100%), <tt><a href="nl_alpino-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (449; 76%).
+The most frequent other feature values with which `X` and `Foreign` co-occurred: <tt><a href="nl_alpino-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (590; 100%), <tt><a href="nl_alpino-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (450; 76%).
 
 `X` tokens may have the following values of `Foreign`:
 
-* `Yes` (589; 100% of non-empty `Foreign`): <em>fancy, the, ad, of, a, in, fiction, to, world, de</em>
+* `Yes` (590; 100% of non-empty `Foreign`): <em>fancy, the, ad, of, a, in, fiction, to, world, de</em>
 * `EMPTY` (367): <em>pct., o.a., jl., o.m., pct, mln., a.s., binnen-, rk, v.j.</em>
 
-`Foreign` seems to be **lexical feature** of `X`. 100% lemmas (411) occur only with one value of `Foreign`.
+`Foreign` seems to be **lexical feature** of `X`. 100% lemmas (412) occur only with one value of `Foreign`.
 
 ## Relations with Agreement in `Foreign`
 

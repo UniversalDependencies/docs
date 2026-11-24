@@ -9,19 +9,19 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-4 tokens (0%) have a non-empty value of `Foreign`.
-4 types (1%) occur at least once with a non-empty value of `Foreign`.
-4 lemmas (1%) occur at least once with a non-empty value of `Foreign`.
-The feature is used with 2 part-of-speech tags: <tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="ceb_gja-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+7 tokens (0%) have a non-empty value of `Foreign`.
+7 types (1%) occur at least once with a non-empty value of `Foreign`.
+7 lemmas (2%) occur at least once with a non-empty value of `Foreign`.
+The feature is used with 2 part-of-speech tags: <tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="ceb_gja-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-3 <tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> tokens (2% of all `NOUN` tokens) have a non-empty value of `Foreign`.
+6 <tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> tokens (3% of all `NOUN` tokens) have a non-empty value of `Foreign`.
 
 `NOUN` tokens may have the following values of `Foreign`:
 
-* `Yes` (3; 100% of non-empty `Foreign`): <em>frog, orange, pet</em>
-* `EMPTY` (174): <em>libro, bata, balay, kwarta, tubig, amahan, bisita, iro, plano, sulat</em>
+* `Yes` (6; 100% of non-empty `Foreign`): <em>bronze, frog, gold, orange, pet, silver</em>
+* `EMPTY` (184): <em>libro, bata, balay, kwarta, sulat, tubig, amahan, bisita, iro, plano</em>
 
 ### `NUM`
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-14 nodes (0%) are attached to their parents as `nummod`.
+21 nodes (0%) are attached to their parents as `nummod`.
 
-14 instances of `nummod` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.
+21 instances of `nummod` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.04761904761905.
 
-The following 2 pairs of parts of speech are connected with `nummod`: <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-NUM.html">NUM</a></tt> (11; 79% instances), <tt><a href="ruc_rdt-pos-NUM.html">NUM</a></tt>-<tt><a href="ruc_rdt-pos-NUM.html">NUM</a></tt> (3; 21% instances).
+The following 2 pairs of parts of speech are connected with `nummod`: <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-NUM.html">NUM</a></tt> (17; 81% instances), <tt><a href="ruc_rdt-pos-NUM.html">NUM</a></tt>-<tt><a href="ruc_rdt-pos-NUM.html">NUM</a></tt> (4; 19% instances).
 
 
 ~~~ conllu

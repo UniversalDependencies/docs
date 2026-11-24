@@ -81,7 +81,7 @@ The most frequent other feature values with which `ADJ` and `Number[psor]` co-oc
 
 110 <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> tokens (4% of all `PRON` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `PRON` and `Number[psor]` co-occurred: <tt><a href="ug_udt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (110; 100%), <tt><a href="ug_udt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (110; 100%), <tt><a href="ug_udt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (110; 100%).
+The most frequent other feature values with which `PRON` and `Number[psor]` co-occurred: <tt><a href="ug_udt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (110; 100%), <tt><a href="ug_udt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (110; 100%), <tt><a href="ug_udt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (110; 100%).
 
 `PRON` tokens may have the following values of `Number[psor]`:
 

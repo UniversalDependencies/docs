@@ -10,10 +10,10 @@ This feature is universal.
 It occurs with 8 different values: `Art`, `Dem`, `Ind`, `Int`, `Neg`, `Prs`, `Rel`, `Tot`.
 Some words have combined values of the feature; 1 combinations have been observed: `Int|Rel`.
 
-4450 tokens (19%) have a non-empty value of `PronType`.
-145 types (2%) occur at least once with a non-empty value of `PronType`.
-50 lemmas (1%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="es_pud-pos-DET.html">DET</a></tt> (3338; 14% instances), <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (1046; 4% instances), <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (66; 0% instances).
+4462 tokens (19%) have a non-empty value of `PronType`.
+147 types (2%) occur at least once with a non-empty value of `PronType`.
+52 lemmas (1%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 3 part-of-speech tags: <tt><a href="es_pud-pos-DET.html">DET</a></tt> (3338; 14% instances), <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (1053; 5% instances), <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (71; 0% instances).
 
 ### `DET`
 
@@ -36,17 +36,17 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 ### `PRON`
 
-1046 <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+1053 <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="es_pud-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (819; 78%), <tt><a href="es_pud-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (732; 70%), <tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (719; 69%), <tt><a href="es_pud-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (615; 59%), <tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (554; 53%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="es_pud-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (826; 78%), <tt><a href="es_pud-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (739; 70%), <tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (719; 68%), <tt><a href="es_pud-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (622; 59%), <tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (561; 53%), <tt><a href="es_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (527; 50%).
 
 `PRON` tokens may have the following values of `PronType`:
 
 * `Dem` (6; 1% of non-empty `PronType`): <em>tanto</em>
-* `Ind` (4; 0% of non-empty `PronType`): <em>una, Ya, cualquiera</em>
+* `Ind` (11; 1% of non-empty `PronType`): <em>algo, una, Ya, cualquiera</em>
 * `Int` (12; 1% of non-empty `PronType`): <em>qué, cuál, quién, Cuáles, Quiénes</em>
 * `Int,Rel` (2; 0% of non-empty `PronType`): <em>cuanto</em>
-* `Prs` (759; 73% of non-empty `PronType`): <em>se, su, lo, sus, le, me, ellos, él, les, ella</em>
+* `Prs` (759; 72% of non-empty `PronType`): <em>se, su, lo, sus, le, me, ellos, él, les, ella</em>
 * `Rel` (263; 25% of non-empty `PronType`): <em>que, cual, cuales, quien, quienes</em>
 
 <table>
@@ -55,17 +55,18 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
   <tr><td><tt><tt><a href="es_pud-feat-Foreign.html">Foreign</a></tt><tt>=Yes</tt></tt></td><td><em>You</em></td><td></td></tr>
 </table>
 
-`PronType` seems to be **lexical feature** of `PRON`. 95% lemmas (19) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `PRON`. 95% lemmas (20) occur only with one value of `PronType`.
 
 ### `ADV`
 
-66 <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> tokens (8% of all `ADV` tokens) have a non-empty value of `PronType`.
+71 <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> tokens (8% of all `ADV` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="es_pud-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (66; 100%), <tt><a href="es_pud-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (66; 100%).
+The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="es_pud-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (71; 100%), <tt><a href="es_pud-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (71; 100%).
 
 `ADV` tokens may have the following values of `PronType`:
 
-* `Dem` (16; 24% of non-empty `PronType`): <em>tanto</em>
-* `Rel` (50; 76% of non-empty `PronType`): <em>cuando, donde</em>
-* `EMPTY` (813): <em>no, más, también, después, ya, muy, antes, solo, menos, poco</em>
+* `Dem` (16; 23% of non-empty `PronType`): <em>tanto</em>
+* `Int` (5; 7% of non-empty `PronType`): <em>cómo</em>
+* `Rel` (50; 70% of non-empty `PronType`): <em>cuando, donde</em>
+* `EMPTY` (808): <em>no, más, también, después, ya, muy, antes, solo, menos, poco</em>
 

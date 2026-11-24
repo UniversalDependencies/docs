@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `csubj`: <tt><a href="ruc_rdt-dep-csubj-outer.html">csubj:outer</a></tt>.
 
-12 nodes (0%) are attached to their parents as `csubj`.
+20 nodes (0%) are attached to their parents as `csubj`.
 
-8 instances of `csubj` (67%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.58333333333333.
+12 instances of `csubj` (60%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.25.
 
-The following 5 pairs of parts of speech are connected with `csubj`: <tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt>-<tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt> (6; 50% instances), <tt><a href="ruc_rdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt> (3; 25% instances), <tt><a href="ruc_rdt-pos-AUX.html">AUX</a></tt>-<tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt> (1; 8% instances), <tt><a href="ruc_rdt-pos-NUM.html">NUM</a></tt>-<tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt> (1; 8% instances), <tt><a href="ruc_rdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt> (1; 8% instances).
+The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt>-<tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt> (6; 30% instances), <tt><a href="ruc_rdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt> (4; 20% instances), <tt><a href="ruc_rdt-pos-AUX.html">AUX</a></tt>-<tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt> (3; 15% instances), <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt> (3; 15% instances), <tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt>-<tt><a href="ruc_rdt-pos-PROPN.html">PROPN</a></tt> (2; 10% instances), <tt><a href="ruc_rdt-pos-NUM.html">NUM</a></tt>-<tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt> (1; 5% instances), <tt><a href="ruc_rdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
@@ -50,33 +50,26 @@ The following 5 pairs of parts of speech are connected with `csubj`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 6 csubj	color:blue
-1	Omu	mu	ADP	LOC	NounClass=Bantu18|Referent=Yes	2	case	2:case	Gloss=AUG-18.LOC|MSeg=o-mu
-2	nsi	nsi	NOUN	_	NounClass=Bantu9	4	obl	4:obl	Gloss=9.earth|MSeg=nsi
-3	eni	ni	DET	_	Deixis=Prox|NounClass=Bantu9|PronType=Dem	2	det	2:det	Gloss=9.PROX|MSeg=eni
-4	mulu	li	AUX	COP	NounClass=Bantu18|Person=3	0	root	0:root	Gloss=18S-COP|MSeg=mu-li
-5	mu	mu	ADV	LOC	NounClass=Bantu18	4	advmod:loc	4:advmod:loc	Gloss=18.LOC|MSeg=mu
-6	okwesimangarana	esimongorana	VERB	_	Referent=Yes|VerbForm=Inf	4	csubj	4:csubj	Gloss=AUG-INF-change-FV|MSeg=o-ku-esimangaran-a
-7	omu	mu	ADP	LOC	NounClass=Bantu18|Referent=Yes	8	case	8:case	Gloss=AUG-18.LOC|MSeg=o-mu
-8	miringo	miringo	NOUN	_	NounClass=Bantu4	6	obl	6:obl|10:nsubj	Gloss=4.way|MSeg=miringo
-9	egitaali	li	AUX	REL-COP	NounClass=Bantu4|Person=3|Polarity=Neg|Referent=Yes|Tense=Past	10	cop	10:cop	Gloss=S.REL-4S-NEG-PST-COP|MSeg=e-gi-ta-a-li
-10	gimwei	mwe	NUM	_	NounClass=Bantu4	8	acl:relcl	8:acl:relcl	Gloss=4-one|MSeg=gi-mwei|SpacesAfter=\n
-11	baitu	baitu	CCONJ	_	_	14	cc	14:cc	Gloss=but|MSeg=baitu
-12	buli	buli	DET	_	PronType=Tot	13	det	13:det	Gloss=every|MSeg=buli
-13	muntu	muntu	NOUN	_	NounClass=Bantu1	14	nsubj	14:nsubj	Gloss=1.person|MSeg=muntu
-14	asaniire	saana	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu1|Person=3|Tense=Pres|VerbForm=Fin	4	conj	0:root|4:conj	Gloss=1S-be_worthy_of:PFV|MSeg=a-saniire
-15	asome	soma	VERB	_	Mood=Sub|NounClass=Bantu1|Person=3|VerbForm=Fin	14	xcomp	14:xcomp	Gloss=1S-study-SBJV|MSeg=a-som-e|SpacesAfter=\n
-16	era	era	CCONJ	_	_	17	cc	17:cc	Gloss=and|MSeg=era
-17	amanye	manya	VERB	_	Mood=Sub|NounClass=Bantu1|Person=3|VerbForm=Fin	15	conj	14:xcomp|15:conj	Gloss=1S-know-SBJV|MSeg=a-many-e
-18	ebyafaayo	kyafaayo	NOUN	_	NounClass=Bantu8|Referent=Yes	17	obj	17:obj	Gloss=AUG-8.history|MSeg=e-byafaayo
-19	bya	a	PART	GEN	NounClass=Bantu8	20	case	20:case	Gloss=8.GEN|MSeg=bya
-20	lyanga	lyanga	NOUN	_	NounClass=Bantu6	18	nmod	18:nmod	Gloss=6.tribe|MSeg=lyanga
-21	lyamwe	amwe	PRON	ASSOC	NounClass[psed]=Bantu5|NounClass[psor]=Bantu1|Person[psed]=3|Person[psor]=3|Poss=Yes|PronType=Prs	20	nmod:poss	20:nmod:poss	Gloss=5-1POSS|MSeg=li-amwe|SpaceAfter=No
-22	.	.	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 7 csubj	color:blue
+1	n'	na	CCONJ	COM	_	5	cc	5:cc	Gloss=and|MSeg=na
+2	olwa	olwa	ADP	_	_	3	case	3:case	Gloss=because_of|MSeg=olwa
+3	nsonga	nsonga	NOUN	_	NounClass=Bantu9	5	obl	5:obl	Gloss=9.reason|MSeg=nsonga
+4	eyo	o	DET	_	Deixis=Med|NounClass=Bantu9|PronType=Dem	3	det	3:det	Gloss=9.MED|MSeg=eyo
+5	tiwalo	li	AUX	COP	NounClass=Bantu16|Person=3|Polarity=Neg|Tense=Pres	0	root	0:root	Gloss=NEG-16S-COP|MSeg=ti-wa-li
+6	wo	wo	ADV	LOC	NounClass=Bantu16	5	advmod:loc	5:advmod:loc	Gloss=16.LOC|MSeg=wo
+7	kikwetagisya	etagisya	VERB	_	Aspect=Prog|Mood=Ind|NounClass=Bantu7|Person=3|Tense=Pres|VerbForm=Fin	5	csubj	5:csubj	Gloss=7S-PROG-need-FV|MSeg=ki-ku-etagisy-a
+8	kutaawo	taawoa	VERB	_	VerbForm=Inf	7	xcomp	7:xcomp	Gloss=INF-put_in_place|MSeg=ku-taawo
+9	refarendamu	refarendamu	NOUN	_	NounClass=Bantu9	8	obj	8:obj	Gloss=9.refarendamu|MSeg=refarendamu
+10	omu	mu	ADP	LOC	NounClass=Bantu18|Referent=Yes	11	case	11:case	Gloss=AUG-18.LOC|MSeg=o-mu
+11	Bunyala	Bunyala	PROPN	_	NounClass=Bantu14	8	obl	8:obl	Gloss=14.Bunyala|MSeg=Bunyala
+12	(	(	PUNCT	_	_	13	punct	13:punct	SpaceAfter=No
+13	Bugerere	Bugerere	PROPN	_	NounClass=Bantu14	11	appos	11:appos	Gloss=14.Bugerere|MSeg=Bugerere|SpaceAfter=No
+14	)	)	PUNCT	_	_	5	punct	5:punct	SpaceAfter=No
+15	.	.	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
 
 ~~~
 

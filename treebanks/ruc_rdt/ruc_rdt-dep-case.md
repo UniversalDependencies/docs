@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-346 nodes (5%) are attached to their parents as `case`.
+554 nodes (7%) are attached to their parents as `case`.
 
-342 instances of `case` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.04046242774566.
+550 instances of `case` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.03068592057762.
 
-The following 17 pairs of parts of speech are connected with `case`: <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-ADP.html">ADP</a></tt> (175; 51% instances), <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-PART.html">PART</a></tt> (85; 25% instances), <tt><a href="ruc_rdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ruc_rdt-pos-PART.html">PART</a></tt> (21; 6% instances), <tt><a href="ruc_rdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ruc_rdt-pos-ADP.html">ADP</a></tt> (17; 5% instances), <tt><a href="ruc_rdt-pos-PRON.html">PRON</a></tt>-<tt><a href="ruc_rdt-pos-ADP.html">ADP</a></tt> (16; 5% instances), <tt><a href="ruc_rdt-pos-NUM.html">NUM</a></tt>-<tt><a href="ruc_rdt-pos-PART.html">PART</a></tt> (12; 3% instances), <tt><a href="ruc_rdt-pos-ADV.html">ADV</a></tt>-<tt><a href="ruc_rdt-pos-PART.html">PART</a></tt> (3; 1% instances), <tt><a href="ruc_rdt-pos-NUM.html">NUM</a></tt>-<tt><a href="ruc_rdt-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt>-<tt><a href="ruc_rdt-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="ruc_rdt-pos-ADV.html">ADV</a></tt>-<tt><a href="ruc_rdt-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="ruc_rdt-pos-PRON.html">PRON</a></tt>-<tt><a href="ruc_rdt-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="ruc_rdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ruc_rdt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ruc_rdt-pos-ADV.html">ADV</a></tt>-<tt><a href="ruc_rdt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="ruc_rdt-pos-AUX.html">AUX</a></tt>-<tt><a href="ruc_rdt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ruc_rdt-pos-PART.html">PART</a></tt>-<tt><a href="ruc_rdt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt>-<tt><a href="ruc_rdt-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 19 pairs of parts of speech are connected with `case`: <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-ADP.html">ADP</a></tt> (245; 44% instances), <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-PART.html">PART</a></tt> (135; 24% instances), <tt><a href="ruc_rdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ruc_rdt-pos-ADP.html">ADP</a></tt> (59; 11% instances), <tt><a href="ruc_rdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ruc_rdt-pos-PART.html">PART</a></tt> (46; 8% instances), <tt><a href="ruc_rdt-pos-PRON.html">PRON</a></tt>-<tt><a href="ruc_rdt-pos-ADP.html">ADP</a></tt> (19; 3% instances), <tt><a href="ruc_rdt-pos-NUM.html">NUM</a></tt>-<tt><a href="ruc_rdt-pos-PART.html">PART</a></tt> (16; 3% instances), <tt><a href="ruc_rdt-pos-NUM.html">NUM</a></tt>-<tt><a href="ruc_rdt-pos-ADP.html">ADP</a></tt> (9; 2% instances), <tt><a href="ruc_rdt-pos-PRON.html">PRON</a></tt>-<tt><a href="ruc_rdt-pos-PART.html">PART</a></tt> (5; 1% instances), <tt><a href="ruc_rdt-pos-ADV.html">ADV</a></tt>-<tt><a href="ruc_rdt-pos-PART.html">PART</a></tt> (3; 1% instances), <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt>-<tt><a href="ruc_rdt-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="ruc_rdt-pos-ADV.html">ADV</a></tt>-<tt><a href="ruc_rdt-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt>-<tt><a href="ruc_rdt-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="ruc_rdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ruc_rdt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ruc_rdt-pos-ADV.html">ADV</a></tt>-<tt><a href="ruc_rdt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="ruc_rdt-pos-AUX.html">AUX</a></tt>-<tt><a href="ruc_rdt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ruc_rdt-pos-PART.html">PART</a></tt>-<tt><a href="ruc_rdt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ruc_rdt-pos-X.html">X</a></tt>-<tt><a href="ruc_rdt-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -55,15 +55,11 @@ The following 17 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 case	color:blue
-1	Oku	ku	ADP	LOC	NounClass=Bantu17|Referent=Yes	2	case	2:case	_
-2	nzira	nzira	NOUN	_	NounClass=Bantu9	5	obl	5:obl	_
-3	ya	a	PART	GEN	NounClass=Bantu9	4	case	4:case	_
-4	Jinja	Jinja	PROPN	_	NounClass=Bantu9	2	nmod:poss	2:nmod:poss	_
-5	bukanga	kanga	VERB	_	Mood=Ind|NounClass=Bantu14|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-6	ku	ku	ADP	LOC	NounClass=Bantu17	7	case	7:case	_
-7	kagera	kagera	NOUN	_	NounClass=Bantu12	5	obl	5:obl	_
-8	Waligga	Waligga	PROPN	_	NounClass=Bantu9	7	flat	7:flat	SpaceAfter=No
-9	.	.	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
+1	Naiza	iza	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	0:root	_
+2	yo	yo	ADV	LOC	NounClass=Bantu23	1	advmod:loc	1:advmod:loc	_
+3	oku	ku	ADP	_	NounClass=Bantu17|Referent=Yes	4	case	4:case	_
+4	Paasika	Paasika	PROPN	_	NounClass=Bantu9	1	obl	1:obl	SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
 
 ~~~
 

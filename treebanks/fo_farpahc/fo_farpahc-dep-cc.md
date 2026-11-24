@@ -48,7 +48,7 @@ The following 11 pairs of parts of speech are connected with `cc`: <tt><a href="
 5	trúliga	_	ADV	ADV	Degree=Pos	4	advmod	_	_
 6	á	_	ADP	RP	_	4	compound:prt	_	_
 7	í	_	ADP	P	_	8	case	_	_
-8	bönini	_	NOUN	N-D	Case=Dat|Definite=Def|Number=Sing	11	obl	_	_
+8	bönini	_	NOUN	N-D	Case=Dat|Definite=Def|Number=Sing	11	nmod	_	_
 9	og	_	CCONJ	CONJ	_	11	cc	_	_
 10	í	_	ADP	P	_	11	case	_	_
 11	tænastu	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	4	obl	_	_
@@ -70,7 +70,7 @@ The following 11 pairs of parts of speech are connected with `cc`: <tt><a href="
 3	ikki	_	ADV	NEG	_	4	advmod	_	_
 4	logið	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 5	fyri	_	ADP	P	_	6	case	_	_
-6	menniskjum	_	NOUN	NS-D	Case=Dat|Definite=Ind|Number=Plur	9	obl	_	_
+6	menniskjum	_	NOUN	NS-D	Case=Dat|Definite=Ind|Number=Plur	9	nmod	_	_
 7	men	_	CCONJ	CONJ	_	9	cc	_	_
 8	fyri	_	ADP	P	_	9	case	_	_
 9	Guði	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	4	obl	_	SpaceAfter=No

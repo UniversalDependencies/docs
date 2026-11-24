@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `obl`: <tt><a href="ajp_madar-dep-obl-arg.html">obl:arg</a></tt>.
 
-42 nodes (5%) are attached to their parents as `obl`.
+41 nodes (5%) are attached to their parents as `obl`.
 
-36 instances of `obl` (86%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.02380952380952.
+35 instances of `obl` (85%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.04878048780488.
 
-The following 11 pairs of parts of speech are connected with `obl`: <tt><a href="ajp_madar-pos-VERB.html">VERB</a></tt>-<tt><a href="ajp_madar-pos-NOUN.html">NOUN</a></tt> (23; 55% instances), <tt><a href="ajp_madar-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ajp_madar-pos-NOUN.html">NOUN</a></tt> (6; 14% instances), <tt><a href="ajp_madar-pos-VERB.html">VERB</a></tt>-<tt><a href="ajp_madar-pos-PROPN.html">PROPN</a></tt> (3; 7% instances), <tt><a href="ajp_madar-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ajp_madar-pos-PROPN.html">PROPN</a></tt> (2; 5% instances), <tt><a href="ajp_madar-pos-VERB.html">VERB</a></tt>-<tt><a href="ajp_madar-pos-ADP.html">ADP</a></tt> (2; 5% instances), <tt><a href="ajp_madar-pos-ADP.html">ADP</a></tt>-<tt><a href="ajp_madar-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="ajp_madar-pos-DET.html">DET</a></tt>-<tt><a href="ajp_madar-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="ajp_madar-pos-NUM.html">NUM</a></tt>-<tt><a href="ajp_madar-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="ajp_madar-pos-VERB.html">VERB</a></tt>-<tt><a href="ajp_madar-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="ajp_madar-pos-VERB.html">VERB</a></tt>-<tt><a href="ajp_madar-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="ajp_madar-pos-VERB.html">VERB</a></tt>-<tt><a href="ajp_madar-pos-X.html">X</a></tt> (1; 2% instances).
+The following 11 pairs of parts of speech are connected with `obl`: <tt><a href="ajp_madar-pos-VERB.html">VERB</a></tt>-<tt><a href="ajp_madar-pos-NOUN.html">NOUN</a></tt> (23; 56% instances), <tt><a href="ajp_madar-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ajp_madar-pos-NOUN.html">NOUN</a></tt> (5; 12% instances), <tt><a href="ajp_madar-pos-VERB.html">VERB</a></tt>-<tt><a href="ajp_madar-pos-PROPN.html">PROPN</a></tt> (3; 7% instances), <tt><a href="ajp_madar-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ajp_madar-pos-PROPN.html">PROPN</a></tt> (2; 5% instances), <tt><a href="ajp_madar-pos-VERB.html">VERB</a></tt>-<tt><a href="ajp_madar-pos-ADP.html">ADP</a></tt> (2; 5% instances), <tt><a href="ajp_madar-pos-ADP.html">ADP</a></tt>-<tt><a href="ajp_madar-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="ajp_madar-pos-DET.html">DET</a></tt>-<tt><a href="ajp_madar-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="ajp_madar-pos-NUM.html">NUM</a></tt>-<tt><a href="ajp_madar-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="ajp_madar-pos-VERB.html">VERB</a></tt>-<tt><a href="ajp_madar-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="ajp_madar-pos-VERB.html">VERB</a></tt>-<tt><a href="ajp_madar-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="ajp_madar-pos-VERB.html">VERB</a></tt>-<tt><a href="ajp_madar-pos-X.html">X</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -46,16 +46,24 @@ The following 11 pairs of parts of speech are connected with `obl`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 4 obl	color:blue
+# visual-style 2 8 obl	color:blue
 1	بدي	بدّ	VERB	_	_	0	root	_	_
-2	مجفف	مجفف	NOUN	_	_	1	obj	_	_
-3	ل	ل	ADP	_	_	4	case	_	SpaceAfter=No
-4	لشعر	شعر	NOUN	_	_	2	obl	_	SpaceAfter=No
-5	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
+2	استأجر	اِستاَجَر	NOUN	_	_	1	ccomp	_	_
+3	سيارة	سَيَّارَة	NOUN	_	_	2	obj	_	_
+4	من	مِن	ADP	_	_	6	case	_	_
+5	هاد	هاد	DET	_	_	6	det	_	_
+6	النوع	نَوع	NOUN	_	_	2	nmod	_	_
+7	ل	لِ	ADP	_	_	8	case	_	SpaceAfter=No
+8	مدة	مُدَّة	NOUN	_	_	2	obl	_	_
+9	أربعة	أَربَعَة	NUM	_	_	8	nummod	_	_
+10	و	وَ	CCONJ	_	_	11	cc	_	SpaceAfter=No
+11	عشرين	عِشرُون	NUM	_	_	9	conj	_	_
+12	ساعة	سَاعَة	NOUN	_	_	9	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
 
 ~~~
 

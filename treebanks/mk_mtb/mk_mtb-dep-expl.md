@@ -68,7 +68,7 @@ The following 4 pairs of parts of speech are connected with `expl`: <tt><a href=
 6	пет	пет	NUM	_	Definite=Ind|Number=Plur|NumType=Card	7	nummod	_	Translit=pet|LTranslit=pet
 7	натпревари	натпревар	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	3	obl	_	Translit=natprevari|LTranslit=natprevar
 8	по	по	ADP	_	_	9	case	_	Translit=po|LTranslit=po
-9	ред	ред	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No|Translit=red|LTranslit=red
+9	ред	ред	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No|Translit=red|LTranslit=red
 10	,	,	PUNCT	_	_	11	punct	_	Translit=,|LTranslit=,
 11	а	а	CCONJ	_	_	16	cc	_	Translit=a|LTranslit=a
 12	тоа	тоа	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	16	nsubj	_	Translit=toa|LTranslit=toa

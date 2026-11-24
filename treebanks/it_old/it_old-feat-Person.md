@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-24039 tokens (20%) have a non-empty value of `Person`.
-4789 types (39%) occur at least once with a non-empty value of `Person`.
+24042 tokens (20%) have a non-empty value of `Person`.
+4788 types (39%) occur at least once with a non-empty value of `Person`.
 1494 lemmas (23%) occur at least once with a non-empty value of `Person`.
-The feature is used with 5 part-of-speech tags: <tt><a href="it_old-pos-VERB.html">VERB</a></tt> (12000; 10% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt> (8734; 7% instances), <tt><a href="it_old-pos-AUX.html">AUX</a></tt> (3300; 3% instances), <tt><a href="it_old-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The feature is used with 5 part-of-speech tags: <tt><a href="it_old-pos-VERB.html">VERB</a></tt> (12001; 10% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt> (8736; 7% instances), <tt><a href="it_old-pos-AUX.html">AUX</a></tt> (3300; 3% instances), <tt><a href="it_old-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-12000 <tt><a href="it_old-pos-VERB.html">VERB</a></tt> tokens (71% of all `VERB` tokens) have a non-empty value of `Person`.
+12001 <tt><a href="it_old-pos-VERB.html">VERB</a></tt> tokens (71% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="it_old-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (11486; 96%), <tt><a href="it_old-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (11372; 95%), <tt><a href="it_old-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10596; 88%), <tt><a href="it_old-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9743; 81%), <tt><a href="it_old-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7979; 66%), <tt><a href="it_old-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (6752; 56%), <tt><a href="it_old-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (6363; 53%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="it_old-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (11486; 96%), <tt><a href="it_old-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (11372; 95%), <tt><a href="it_old-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10597; 88%), <tt><a href="it_old-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9743; 81%), <tt><a href="it_old-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7979; 66%), <tt><a href="it_old-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (6753; 56%), <tt><a href="it_old-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (6363; 53%).
 
 `VERB` tokens may have the following values of `Person`:
 
 * `1` (2054; 17% of non-empty `Person`): <em>vidi, vid', diss', dissi, dico, credo, veggio, volsi, so, gridò</em>
 * `2` (1669; 14% of non-empty `Person`): <em>vedi, va, fa, vedrai, credi, di', sai, dì, hai, dire</em>
-* `3` (8277; 69% of non-empty `Person`): <em>disse, fa, ha, fece, fé, rispuose, convien, cominciò, par, parea</em>
-* `EMPTY` (4940): <em>veder, far, dir, fare, parlar, vedere, fatto, voler, dicendo, dire</em>
+* `3` (8278; 69% of non-empty `Person`): <em>disse, fa, ha, fece, fé, rispuose, convien, cominciò, par, parea</em>
+* `EMPTY` (4939): <em>veder, far, dir, fare, parlar, vedere, fatto, voler, dicendo, dire</em>
 
 <table>
   <tr><th>Paradigm <i>fare</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -63,16 +63,16 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `PRON`
 
-8734 <tt><a href="it_old-pos-PRON.html">PRON</a></tt> tokens (62% of all `PRON` tokens) have a non-empty value of `Person`.
+8736 <tt><a href="it_old-pos-PRON.html">PRON</a></tt> tokens (62% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="it_old-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (8595; 98%), <tt><a href="it_old-feat-Clitic.html">Clitic</a></tt><tt>=EMPTY</tt> (7205; 82%), <tt><a href="it_old-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6995; 80%), <tt><a href="it_old-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (6390; 73%), <tt><a href="it_old-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (6161; 71%), <tt><a href="it_old-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4585; 52%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="it_old-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (8598; 98%), <tt><a href="it_old-feat-Clitic.html">Clitic</a></tt><tt>=EMPTY</tt> (7205; 82%), <tt><a href="it_old-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6996; 80%), <tt><a href="it_old-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (6392; 73%), <tt><a href="it_old-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (6163; 71%), <tt><a href="it_old-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4584; 52%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (3550; 41% of non-empty `Person`): <em>io, mi, me, m', noi, i', ci, ne, quel, n'</em>
-* `2` (1337; 15% of non-empty `Person`): <em>tu, ti, te, voi, t', vi, tal, v', tale, ne</em>
-* `3` (3847; 44% of non-empty `Person`): <em>si, s', lui, li, sé, elli, lo, la, lei, ella</em>
-* `EMPTY` (5449): <em>che, ch', chi, quel, ciò, cui, altro, qual, colui, un</em>
+* `1` (3551; 41% of non-empty `Person`): <em>io, mi, me, m', noi, i', ci, ne, quel, n'</em>
+* `2` (1336; 15% of non-empty `Person`): <em>tu, ti, te, voi, t', vi, v', tal, ne, tue</em>
+* `3` (3849; 44% of non-empty `Person`): <em>si, s', lui, li, sé, elli, lo, la, lei, ella</em>
+* `EMPTY` (5440): <em>che, ch', chi, quel, ciò, cui, altro, qual, colui, un</em>
 
 <table>
   <tr><th>Paradigm <i>ti</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -136,7 +136,7 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 `DET` tokens may have the following values of `Person`:
 
 * `3` (4; 100% of non-empty `Person`): <em>esso</em>
-* `EMPTY` (14964): <em>il, la, l', 'l, le, li, lo, un, i, mio</em>
+* `EMPTY` (14954): <em>il, la, l', 'l, le, li, lo, un, i, mio</em>
 
 ### `NOUN`
 
@@ -147,7 +147,7 @@ The most frequent other feature values with which `NOUN` and `Person` co-occurre
 `NOUN` tokens may have the following values of `Person`:
 
 * `3` (1; 100% of non-empty `Person`): <em>luce</em>
-* `EMPTY` (15952): <em>occhi, mondo, terra, gente, maestro, parte, ciel, mente, viso, loco</em>
+* `EMPTY` (15954): <em>occhi, mondo, terra, gente, maestro, parte, ciel, mente, viso, loco</em>
 
 ## Relations with Agreement in `Person`
 
@@ -155,7 +155,7 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="it_old-dep-expl-pv.html">expl:pv</a></tt>]--> PRON</tt> (1217; 88%),
 <tt>VERB --[<tt><a href="it_old-dep-conj.html">conj</a></tt>]--> VERB</tt> (1123; 78%),
 <tt>VERB --[<tt><a href="it_old-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (727; 57%),
-<tt>VERB --[<tt><a href="it_old-dep-expl-impers.html">expl:impers</a></tt>]--> PRON</tt> (243; 83%),
+<tt>VERB --[<tt><a href="it_old-dep-expl-impers.html">expl:impers</a></tt>]--> PRON</tt> (243; 82%),
 <tt>VERB --[<tt><a href="it_old-dep-advcl-cmp.html">advcl:cmp</a></tt>]--> VERB</tt> (143; 51%),
 <tt>VERB --[<tt><a href="it_old-dep-expl-pass.html">expl:pass</a></tt>]--> PRON</tt> (129; 94%),
 <tt>VERB --[<tt><a href="it_old-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (37; 61%),

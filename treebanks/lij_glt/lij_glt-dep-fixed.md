@@ -8,12 +8,60 @@ udver: '2'
 
 This relation is universal.
 
-102 nodes (1%) are attached to their parents as `fixed`.
+152 nodes (2%) are attached to their parents as `fixed`.
 
-102 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.29411764705882.
+152 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.23026315789474.
 
-The following 16 pairs of parts of speech are connected with `fixed`: <tt><a href="lij_glt-pos-ADP.html">ADP</a></tt>-<tt><a href="lij_glt-pos-ADP.html">ADP</a></tt> (32; 31% instances), <tt><a href="lij_glt-pos-ADV.html">ADV</a></tt>-<tt><a href="lij_glt-pos-ADP.html">ADP</a></tt> (16; 16% instances), <tt><a href="lij_glt-pos-ADV.html">ADV</a></tt>-<tt><a href="lij_glt-pos-SCONJ.html">SCONJ</a></tt> (13; 13% instances), <tt><a href="lij_glt-pos-ADP.html">ADP</a></tt>-<tt><a href="lij_glt-pos-NOUN.html">NOUN</a></tt> (11; 11% instances), <tt><a href="lij_glt-pos-ADP.html">ADP</a></tt>-<tt><a href="lij_glt-pos-SCONJ.html">SCONJ</a></tt> (7; 7% instances), <tt><a href="lij_glt-pos-ADV.html">ADV</a></tt>-<tt><a href="lij_glt-pos-ADV.html">ADV</a></tt> (4; 4% instances), <tt><a href="lij_glt-pos-ADP.html">ADP</a></tt>-<tt><a href="lij_glt-pos-ADV.html">ADV</a></tt> (3; 3% instances), <tt><a href="lij_glt-pos-ADP.html">ADP</a></tt>-<tt><a href="lij_glt-pos-DET.html">DET</a></tt> (2; 2% instances), <tt><a href="lij_glt-pos-ADP.html">ADP</a></tt>-<tt><a href="lij_glt-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="lij_glt-pos-PRON.html">PRON</a></tt>-<tt><a href="lij_glt-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="lij_glt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="lij_glt-pos-PART.html">PART</a></tt> (2; 2% instances), <tt><a href="lij_glt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="lij_glt-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="lij_glt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="lij_glt-pos-SCONJ.html">SCONJ</a></tt> (2; 2% instances), <tt><a href="lij_glt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="lij_glt-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="lij_glt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lij_glt-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="lij_glt-pos-PRON.html">PRON</a></tt>-<tt><a href="lij_glt-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 20 pairs of parts of speech are connected with `fixed`: <tt><a href="lij_glt-pos-ADP.html">ADP</a></tt>-<tt><a href="lij_glt-pos-ADP.html">ADP</a></tt> (43; 28% instances), <tt><a href="lij_glt-pos-ADP.html">ADP</a></tt>-<tt><a href="lij_glt-pos-NOUN.html">NOUN</a></tt> (22; 14% instances), <tt><a href="lij_glt-pos-ADV.html">ADV</a></tt>-<tt><a href="lij_glt-pos-ADP.html">ADP</a></tt> (22; 14% instances), <tt><a href="lij_glt-pos-ADV.html">ADV</a></tt>-<tt><a href="lij_glt-pos-SCONJ.html">SCONJ</a></tt> (16; 11% instances), <tt><a href="lij_glt-pos-ADP.html">ADP</a></tt>-<tt><a href="lij_glt-pos-ADV.html">ADV</a></tt> (8; 5% instances), <tt><a href="lij_glt-pos-ADP.html">ADP</a></tt>-<tt><a href="lij_glt-pos-DET.html">DET</a></tt> (7; 5% instances), <tt><a href="lij_glt-pos-ADP.html">ADP</a></tt>-<tt><a href="lij_glt-pos-SCONJ.html">SCONJ</a></tt> (7; 5% instances), <tt><a href="lij_glt-pos-ADV.html">ADV</a></tt>-<tt><a href="lij_glt-pos-ADV.html">ADV</a></tt> (7; 5% instances), <tt><a href="lij_glt-pos-ADP.html">ADP</a></tt>-<tt><a href="lij_glt-pos-ADJ.html">ADJ</a></tt> (4; 3% instances), <tt><a href="lij_glt-pos-ADP.html">ADP</a></tt>-<tt><a href="lij_glt-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="lij_glt-pos-ADV.html">ADV</a></tt>-<tt><a href="lij_glt-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="lij_glt-pos-ADV.html">ADV</a></tt>-<tt><a href="lij_glt-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="lij_glt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lij_glt-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="lij_glt-pos-PRON.html">PRON</a></tt>-<tt><a href="lij_glt-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="lij_glt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lij_glt-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="lij_glt-pos-ADV.html">ADV</a></tt>-<tt><a href="lij_glt-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="lij_glt-pos-ADV.html">ADV</a></tt>-<tt><a href="lij_glt-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="lij_glt-pos-PRON.html">PRON</a></tt>-<tt><a href="lij_glt-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="lij_glt-pos-PRON.html">PRON</a></tt>-<tt><a href="lij_glt-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances).
+
+
+~~~ conllu
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 11 fixed	color:blue
+1	E	e	CCONJ	_	_	3	cc	_	_
+2	dapeu	dapeu	ADV	_	_	3	advmod	_	_
+3	basta	bastâ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	ammiâ	ammiâ	VERB	_	Tense=Pres|VerbForm=Inf	3	ccomp	_	_
+5	e	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	figue	figua	NOUN	_	Gender=Fem|Number=Plur	4	obj	_	_
+7	che	che	PRON	_	PronType=Rel	9	nsubj	_	_
+8	gh'	ghe	PRON	_	PronType=Dem	9	expl	_	SpaceAfter=No
+9	é	ëse	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+10	in	in	ADP	_	ExtPos=ADP	13	case	_	_
+11	sce	sce	ADP	_	_	10	fixed	_	_
+12	i	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	menù	menù	NOUN	_	Gender=Masc|Number=Plur	9	obl	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 fixed	color:blue
+1	Î	ô	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	obj	_	_
+2	ò	avei	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	ciantæ	ciantâ	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+4	in	in	ADP	_	ExtPos=ADV	3	advmod	_	_
+5	gio	gio	NOUN	_	Gender=Masc|Number=Sing	4	fixed	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	oua	oua	ADV	_	_	8	advmod	_	_
+8	beseugna	besugnâ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+9	che	che	SCONJ	_	_	11	mark	_	_
+10	me	me	PRON	_	Number=Sing|Person=1|PronType=Prs	11	expl:pv	_	_
+11	pöse	pösâ	VERB	_	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	ccomp	_	_
+12	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	pittin	pittin	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	3	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -24,67 +72,18 @@ The following 16 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 10 11 fixed	color:blue
 1	E	e	CCONJ	_	_	2	cc	_	_
 2	pensâ	pensâ	VERB	_	Tense=Pres|VerbForm=Inf	0	root	_	_
-3	che	che	SCONJ	_	_	5	mark	_	_
-4	porrieivan	poei	AUX	_	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
-5	ëse	ëse	VERB	_	Tense=Pres|VerbForm=Inf	2	ccomp	_	_
-6	tutti	tutto	PRON	_	Gender=Masc|Number=Plur|PronType=Tot	5	nsubj	_	_
+3	che	che	SCONJ	_	_	8	mark	_	_
+4	porrieivan	poei	AUX	_	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	8	aux	_	_
+5	ëse	ëse	AUX	_	Tense=Pres|VerbForm=Inf	8	cop	_	_
+6	tutti	tutto	PRON	_	Gender=Masc|Number=Plur|PronType=Tot	8	nsubj	_	_
 7	pròpio	pròpio	ADV	_	_	8	advmod	_	_
-8	chì	chì	ADV	_	_	5	advmod	_	SpaceAfter=No
+8	chì	chì	ADV	_	_	2	ccomp	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	13	punct	_	_
-10	derê	derê	ADP	_	_	13	case	_	_
+10	derê	derê	ADV	_	ExtPos=ADP	13	case	_	_
 11	à	à	ADP	_	_	10	fixed	_	_
 12	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
-13	canto	canto	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
+13	canto	canto	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 12 fixed	color:blue
-1	O	o	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
-2	l'	l'	PART	_	_	4	dep	_	SpaceAfter=No
-3	à	avei	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
-4	cattou	cattâ	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-5	unna	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
-6	machina	machina	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	SpaceAfter=No
-7	,	,	PUNCT	_	_	9	punct	_	_
-8	seu	seu	PRON	_	Poss=Yes|PronType=Prs	9	det	_	_
-9	fræ	fræ	NOUN	_	Gender=Masc|Number=Sing	4	conj	_	_
-10	incangio	incangio	ADV	_	_	14	advmod	_	_
-11	solo	solo	ADV	_	_	14	advmod	_	_
-12	che	che	ADP	_	_	11	fixed	_	_
-13	unna	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
-14	biçicletta	biçicletta	NOUN	_	Gender=Fem|Number=Sing	9	orphan	_	SpaceAfter=No
-15	.	.	PUNCT	_	_	4	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 fixed	color:blue
-1	Seguo	seguo	ADV	_	_	11	advmod	_	_
-2	che	che	SCONJ	_	_	1	fixed	_	_
-3	da	da	ADP	_	_	4	case	_	_
-4	niatri	niatri	PRON	_	Gender=Masc|Number=Plur|Person=1|PronType=Prs	11	obl	_	_
-5	o	o	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	expl	_	_
-6	l'	l'	PART	_	_	11	dep	_	SpaceAfter=No
-7	é	ëse	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
-8	tutto	tutto	DET	_	Gender=Masc|Number=Sing|PronType=Tot	11	det	_	_
-9	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
-10	atro	atro	DET	_	Gender=Masc|Number=Sing|PronType=Ind	11	det	_	_
-11	pâ	pâ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
-12	de	de	ADP	_	_	13	case	_	_
-13	maneghe	manega	NOUN	_	Gender=Fem|Number=Plur	11	nmod	_	SpaceAfter=No
-14	.	.	PUNCT	_	_	11	punct	_	_
 
 ~~~
 

@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `iobj`: <tt><a href="ruc_rdt-dep-iobj-appl.html">iobj:appl</a></tt>.
 
-14 nodes (0%) are attached to their parents as `iobj`.
+20 nodes (0%) are attached to their parents as `iobj`.
 
-11 instances of `iobj` (79%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.35714285714286.
+14 instances of `iobj` (70%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.45.
 
-The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt>-<tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt> (13; 93% instances), <tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt>-<tt><a href="ruc_rdt-pos-PRON.html">PRON</a></tt> (1; 7% instances).
+The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt>-<tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt> (15; 75% instances), <tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt>-<tt><a href="ruc_rdt-pos-PRON.html">PRON</a></tt> (2; 10% instances), <tt><a href="ruc_rdt-pos-AUX.html">AUX</a></tt>-<tt><a href="ruc_rdt-pos-PRON.html">PRON</a></tt> (1; 5% instances), <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt>-<tt><a href="ruc_rdt-pos-PROPN.html">PROPN</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
@@ -34,26 +34,39 @@ The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 iobj	color:blue
+1	Nabyaliibwe	byala	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	0:root	Gloss=1sgS-PST-give_birth-PASS:PFV|MSeg=n-a-byal-ibwe
+2	ninkuura	kula	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Nar|VerbForm=Fin	1	conj	0:root|1:conj	Gloss=NAR-1sgS-grow-FV|MSeg=ni-n-kul-a
+3	oku	ku	ADP	LOC	NounClass=Bantu17|Referent=Yes	4	case	4:case	Gloss=AUG-17.LOC|MSeg=o-ku
+4	kyalo	kyalo	NOUN	_	NounClass=Bantu7	2	obl	2:obl	Gloss=7.village|MSeg=kyalo
+5	kye	e	PRON	_	NounClass=Bantu7|PronType=Rel	6	iobj	6:iobj	Gloss=7.REL|MSeg=kye
+6	beeta	eta	VERB	_	Mood=Ind|NounClass=Bantu2|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	4:acl:relcl	Gloss=2S-call-FV|MSeg=ba-et-a
+7	Kamusodoirye	Kamusodoirye	PROPN	_	NounClass=Bantu9	6	obj	6:obj	Gloss=9.Kamusodoirye|MSeg=Kamusodoirye|SpaceAfter=No
+8	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 7 8 iobj	color:blue
-1	Bairaiswe	muiraiswe	NOUN	_	NounClass=Bantu2	3	vocative	3:vocative	Gloss=2.my_friends|MSeg=bairaiswe|SpaceAfter=No
-2	,	,	PUNCT	_	_	1	punct	1:punct	_
-3	mutalowooza	lowooza	VERB	_	Mood=Ind|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=2plS-NEG-think-FV|MSeg=mu-ta-lowooz-a
-4	nti	nti	SCONJ	COMPL	_	6	mark	6:mark	Gloss=COMPL|MSeg=nti
-5	okuwandiika	wandiika	VERB	_	Referent=Yes|VerbForm=Inf	6	advcl	6:advcl	Gloss=AUG-INF-write-FV|MSeg=o-ku-wandiik-a|SpacesAfter=\n
-6	omala	mala	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	ccomp	3:ccomp	Gloss=2sgS-finish-FV|MSeg=o-mal-a
-7	kubuulya	buulya	VERB	_	VerbForm=Inf	6	xcomp	6:xcomp	Gloss=INF-ask-FV|MSeg=ku-buuly-a
-8	buli	buli	PRON	_	PronType=Tot	7	iobj	7:iobj|10:obj	Gloss=every|MSeg=buli
-9	gw'	e	PRON	_	NounClass=Bantu1|PronType=Rel	10	obj	8:ref	Gloss=1.REL|MSeg=gwe
-10	oyajiirye	aja	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	acl:relcl	8:acl:relcl	Gloss=2sgS-meet:PFV|MSeg=o-ajiirye
-11	n'	na	CCONJ	COM	_	12	cc	12:cc	Gloss=and|MSeg=na
-12	owandiika	wandiika	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	conj	3:ccomp|6:conj	Gloss=2sgS-write-FV|MSeg=o-wandiik-a
-13	bya	a	PART	GEN	NounClass=Bantu8	14	case	14:case	Gloss=8.GEN|MSeg=bya
-14	kukobeire	koba	NOUN	_	NounClass=Bantu15|VerbForm=Vnoun|Voice=Appl	12	obj	12:obj	Gloss=INF-say-APPL:PFV|MSeg=ku-kob-eire|SpaceAfter=No
-15	.	.	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
+# visual-style 7 6 iobj	color:blue
+1	Wabbaanga	bba	VERB	COP	Aspect=Hab|Mood=Ind|NounClass=Bantu16|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=16S-COP-FV-HAB|MSeg=wa-bba-a-nga
+2	wo	wo	ADV	LOC	NounClass=Bantu16	1	advmod:loc	1:advmod:loc	Gloss=16.LOC|MSeg=wo
+3	omuntu	muntu	NOUN	_	NounClass=Bantu1|Referent=Yes	1	nsubj	1:nsubj|7:iobj	Gloss=AUG-1.person|MSeg=o-muntu
+4	omukulu	mukulu	ADJ	_	NounClass=Bantu1|Referent=Yes	3	amod	3:amod	Gloss=AUG-1.adult|MSeg=o-mukulu|SpacesAfter=\n
+5	abandi	ndi	PRON	_	NounClass=Bantu2|PronType=Ind|Referent=Yes	7	nsubj	7:nsubj	Gloss=AUG-2-other|MSeg=a-ba-ndi
+6	gwe	e	PRON	_	NounClass=Bantu1|PronType=Rel	7	iobj	3:ref	Gloss=1.REL|MSeg=gwe
+7	batanga	ta	AUX	COP	Aspect=Hab|NounClass=Bantu2|Person=3|Tense=Past	3	acl:relcl	3:acl:relcl	Gloss=2S-PST-put-HAB|MSeg=ba-a-ta-nga
+8	mu	mu	ADV	LOC	NounClass=Bantu18	7	advmod:loc	7:advmod:loc	Gloss=18.LOC|MSeg=mu
+9	ekitinisya	kitinisya	NOUN	_	NounClass=Bantu7|Referent=Yes	7	obj	7:obj	Gloss=AUG-7.respect|MSeg=e-kitinisya|SpaceAfter=No
+10	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
 
 ~~~
 

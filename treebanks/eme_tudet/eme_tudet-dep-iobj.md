@@ -24,7 +24,7 @@ The following 1 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 1 2 iobj	color:blue
 1	nameʔeŋtari	meʔeŋ	VERB	v	Number=Sing|Person=1|Polarity=Neg|Tense=Fut	0	root	_	_
 2	ede	ede	PRON	pron	Number=Sing|Person=2	1	iobj	_	_
-3	depe	de	PRON	pron	Case=Dat|Number=Sing|Person=2	4	obl	_	_
+3	depe	de	PRON	pron	Case=Dat|Number=Sing|Person=2	4	nmod	_	_
 4	wãĩwĩ	wãĩwĩ	NOUN	n	_	1	obj	_	_
 
 ~~~

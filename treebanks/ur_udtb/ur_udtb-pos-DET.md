@@ -61,7 +61,7 @@ The 10 most frequent ambiguous types:  اس (<tt><a href="ur_udtb-pos-DET.html">
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.089744 (the average of all parts of speech is 1.103404).
+The form / lemma ratio of `DET` is 1.089744 (the average of all parts of speech is 1.103337).
 
 The 1st highest number of forms (8) was observed with the lemma “وہ”: اس, اسی, ان, انہیں, اُس, اُن, وہ, وہی.
 
@@ -69,9 +69,9 @@ The 2nd highest number of forms (8) was observed with the lemma “یہ”: اس
 
 The 3rd highest number of forms (3) was observed with the lemma “ایسا”: ایسا, ایسی, ایسے.
 
-`DET` occurs with 9 features: <tt><a href="ur_udtb-feat-PronType.html">PronType</a></tt> (2388; 96% instances), <tt><a href="ur_udtb-feat-Case.html">Case</a></tt> (1954; 78% instances), <tt><a href="ur_udtb-feat-Number.html">Number</a></tt> (1891; 76% instances), <tt><a href="ur_udtb-feat-Person.html">Person</a></tt> (1781; 71% instances), <tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt> (115; 5% instances), <tt><a href="ur_udtb-feat-Aspect.html">Aspect</a></tt> (3; 0% instances), <tt><a href="ur_udtb-feat-VerbForm.html">VerbForm</a></tt> (3; 0% instances), <tt><a href="ur_udtb-feat-Echo.html">Echo</a></tt> (1; 0% instances), <tt><a href="ur_udtb-feat-Polite.html">Polite</a></tt> (1; 0% instances)
+`DET` occurs with 9 features: <tt><a href="ur_udtb-feat-PronType.html">PronType</a></tt> (2496; 100% instances), <tt><a href="ur_udtb-feat-Case.html">Case</a></tt> (1954; 78% instances), <tt><a href="ur_udtb-feat-Number.html">Number</a></tt> (1891; 76% instances), <tt><a href="ur_udtb-feat-Person.html">Person</a></tt> (1781; 71% instances), <tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt> (115; 5% instances), <tt><a href="ur_udtb-feat-Aspect.html">Aspect</a></tt> (3; 0% instances), <tt><a href="ur_udtb-feat-VerbForm.html">VerbForm</a></tt> (3; 0% instances), <tt><a href="ur_udtb-feat-Echo.html">Echo</a></tt> (1; 0% instances), <tt><a href="ur_udtb-feat-Polite.html">Polite</a></tt> (1; 0% instances)
 
-`DET` occurs with 17 feature-value pairs: `Aspect=Perf`, `Case=Acc`, `Case=Acc,Dat`, `Case=Nom`, `Echo=Rdp`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Polite=Form`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `VerbForm=Part`
+`DET` occurs with 19 feature-value pairs: `Aspect=Perf`, `Case=Acc`, `Case=Acc,Dat`, `Case=Nom`, `Echo=Rdp`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Polite=Form`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Rel`, `PronType=Tot`, `VerbForm=Part`
 
 `DET` occurs with 58 feature combinations.
 The most frequent feature combination is `Case=Acc|Number=Sing|Person=3|PronType=Dem` (815 tokens).

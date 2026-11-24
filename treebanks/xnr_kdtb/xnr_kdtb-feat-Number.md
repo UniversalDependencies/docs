@@ -190,8 +190,8 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>VERB --[<tt><a href="xnr_kdtb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (51; 70%),
 <tt>VERB --[<tt><a href="xnr_kdtb-dep-obj.html">obj</a></tt>]--> NOUN</tt> (48; 74%),
 <tt>VERB --[<tt><a href="xnr_kdtb-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (45; 62%),
+<tt>NOUN --[<tt><a href="xnr_kdtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (40; 63%),
 <tt>NOUN --[<tt><a href="xnr_kdtb-dep-cop.html">cop</a></tt>]--> AUX</tt> (39; 89%),
-<tt>NOUN --[<tt><a href="xnr_kdtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (39; 62%),
 <tt>VERB --[<tt><a href="xnr_kdtb-dep-compound.html">compound</a></tt>]--> NOUN</tt> (36; 61%),
 <tt>VERB --[<tt><a href="xnr_kdtb-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (34; 79%),
 <tt>VERB --[<tt><a href="xnr_kdtb-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (32; 73%).

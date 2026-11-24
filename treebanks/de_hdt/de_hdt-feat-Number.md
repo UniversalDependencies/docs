@@ -12,8 +12,8 @@ It occurs with 2 different values: `Plur`, `Sing`.
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="de_hdt-feat-Number.html">Number</a></tt>, <tt><a href="de_hdt-feat-Number-psor.html">Number[psor]</a></tt>.
 
 1918832 tokens (56%) have a non-empty value of `Number`.
-148438 types (79%) occur at least once with a non-empty value of `Number`.
-115370 lemmas (80%) occur at least once with a non-empty value of `Number`.
+148439 types (79%) occur at least once with a non-empty value of `Number`.
+115385 lemmas (76%) occur at least once with a non-empty value of `Number`.
 The feature is used with 10 part-of-speech tags: <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (696646; 20% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt> (493650; 14% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (185041; 5% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> (134321; 4% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> (134054; 4% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> (128855; 4% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (73108; 2% instances), <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> (71302; 2% instances), <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> (1676; 0% instances), <tt><a href="de_hdt-pos-X.html">X</a></tt> (179; 0% instances).
 
 ### `NOUN`
@@ -27,16 +27,12 @@ The feature is used with 10 part-of-speech tags: <tt><a href="de_hdt-pos-NOUN.ht
 * `EMPTY` (32454): <em>Pentium, Computer, informations-, Release, Macintosh, internet-, Echelon, Communicator, SMS, Navigator</em>
 
 <table>
-  <tr><th>Paradigm <i>unknown</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de_hdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>256bittigen</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de_hdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>Milliardstel</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de_hdt-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>48bittige, COmputergestütztes</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de_hdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td></td><td><em>Milliaren</em></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de_hdt-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>Wirtschaftswissenschaftlichen</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="de_hdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>Internationbalen</em></td><td><em>Rekonfigurierbaren</em></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="de_hdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td></td><td><em>128bittigen, Zellularen</em></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>Miliarden, Milliardenn</em></td><td><em>Kostenpflichtige</em></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>Amyotrophe</em></td><td><em>Regenerative</em></td></tr>
+  <tr><th>Paradigm <i>Jahr</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>Jahr</em></td><td><em>Jahre</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>Jahr, Jahre</em></td><td><em>Jahren, Jahre</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>Jahres, Jahrs, Jahr</em></td><td><em>Jahre</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>Jahr</em></td><td><em>Jahre</em></td></tr>
+  <tr><td><tt></tt></td><td><em>Jahr</em></td><td><em>Jahre</em></td></tr>
 </table>
 
 ### `DET`
@@ -82,7 +78,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 * `Plur` (65932; 36% of non-empty `Number`): <em>neue, neuen, weitere, eigenen, beiden, ersten, deutschen, nächsten, letzten, großen</em>
 * `Sing` (119109; 64% of non-empty `Number`): <em>neuen, neue, deutschen, deutsche, ersten, erste, vergangenen, letzten, zweiten, heutigen</em>
-* `EMPTY` (77570): <em>möglich, gut, ganz, weltweit, deutlich, knapp, künftig, bekannt, schnell, offensichtlich</em>
+* `EMPTY` (77581): <em>möglich, gut, ganz, weltweit, deutlich, knapp, künftig, bekannt, schnell, offensichtlich</em>
 
 <table>
   <tr><th>Paradigm <i>neu</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -150,7 +146,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 * `Plur` (32775; 24% of non-empty `Number`): <em>stehen, lassen, kommen, gehören, gehen, sehen, arbeiten, finden, liegen, machen</em>
 * `Sing` (101546; 76% of non-empty `Number`): <em>sagte, gibt, geht, steht, bietet, erklärte, kommt, sieht, gab, stellt</em>
-* `EMPTY` (129266): <em>machen, angekündigt, geben, lassen, kommen, bringen, anbieten, erhalten, gegeben, gemacht</em>
+* `EMPTY` (129254): <em>machen, angekündigt, geben, lassen, kommen, bringen, anbieten, erhalten, gegeben, gemacht</em>
 
 <table>
   <tr><th>Paradigm <i>geben</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -295,7 +291,7 @@ The most frequent other feature values with which `X` and `Number` co-occurred: 
 `X` tokens may have the following values of `Number`:
 
 * `Sing` (179; 100% of non-empty `Number`): <em>Inc., Corp., Call</em>
-* `EMPTY` (53512): <em>of, internet, the, and, digital, mobile, media, for, OS, network</em>
+* `EMPTY` (53513): <em>of, internet, the, and, digital, mobile, media, for, OS, network</em>
 
 ## Relations with Agreement in `Number`
 

@@ -44,7 +44,7 @@ The following 6 pairs of parts of speech are connected with `cc`: <tt><a href="b
 5	सभ	सभ	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	14	obl	_	Translit=sabha|LTranslit=sabha
 6	लेखकन	लेखकन	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	8	nmod	_	Translit=lekhakana|LTranslit=lekhakana
 7	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	6	case	_	Translit=ke|LTranslit=kā
-8	राजनीति	राजनीति	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	obl	_	Translit=rājanīti|LTranslit=rājanīti
+8	राजनीति	राजनीति	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	nmod	_	Translit=rājanīti|LTranslit=rājanīti
 9	आ	आ	CCONJ	CC_CCD	_	10	cc	_	Translit=ā|LTranslit=ā
 10	गोलबंदी	गोलबंदी	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	8	conj	_	Translit=golabaṁdī|LTranslit=golabaṁdī
 11	से	से	ADP	PSP	AdpType=Post	8	case	_	Translit=se|LTranslit=se

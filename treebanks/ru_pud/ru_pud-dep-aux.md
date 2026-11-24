@@ -23,7 +23,7 @@ The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 aux	color:blue
-1	Никто	никто	PRON	DT	Case=Nom	3	nsubj	_	_
+1	Никто	никто	PRON	DT	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Neg	3	nsubj	_	_
 2	не	не	PART	NEG	Polarity=Neg	3	advmod	_	_
 3	знает	знать	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	7	punct	_	_
@@ -31,7 +31,7 @@ The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="
 6	бы	бы	AUX	RP	Mood=Cnd	7	aux	_	_
 7	работали	работать	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	3	ccomp	_	_
 8	вместе	вместе	ADV	RB	Degree=Pos	7	advmod	_	_
-9	эти	этот	DET	DT	Case=Nom|Number=Plur	11	det	_	_
+9	эти	этот	DET	DT	Case=Nom|Number=Plur|PronType=Dem	11	det	_	_
 10	два	два	NUM	CD	Case=Nom|Gender=Masc	11	nummod:gov	_	_
 11	драматурга	драматург	NOUN	NN	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	7	nsubj	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	3	punct	_	_
@@ -56,7 +56,7 @@ The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="
 9	прохладным	прохладный	ADJ	JJ	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	6	xcomp	_	SpaceAfter=No
 10	,	,	PUNCT	,	_	16	punct	_	_
 11	иначе	иначе	CCONJ	CC	_	16	cc	_	_
-12	он	он	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	16	nsubj	_	_
+12	он	он	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	_
 13	был	быть	AUX	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	16	cop	_	_
 14	бы	бы	AUX	RP	Mood=Cnd	16	aux	_	_
 15	очень	очень	ADV	RB	Degree=Pos	16	advmod	_	_
@@ -72,7 +72,7 @@ The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 aux	color:blue
-1	Какими	какой	DET	WDT	Case=Ins|Number=Plur	9	advcl	_	_
+1	Какими	какой	DET	WDT	Case=Ins|Number=Plur|PronType=Rel	9	advcl	_	_
 2	бы	бы	AUX	RP	Mood=Cnd	1	aux	_	_
 3	ни	ни	PART	NEG	Polarity=Neg	1	advmod	_	_
 4	были	быть	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	1	cop	_	_

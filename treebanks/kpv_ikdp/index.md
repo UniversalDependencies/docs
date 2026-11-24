@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Niko Partanen, Rogier Blokland, Michael Rießler, Jack Rueter.
 
 Repository: [UD_Komi_Zyrian-IKDP](https://github.com/UniversalDependencies/UD_Komi_Zyrian-IKDP)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkpv_ikdp218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkpv_ikdp219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 
@@ -742,8 +742,8 @@ The transcription is also published in Zenodo:
     <ul>
       <li>AUX-Fin: вӧлі, из, оз, вӧліс, выйым</li>
       <li>PRON: сыа, сы, сія, сіе, сіен, сіес, сійӧ, ачыс, Ная, Сылэн</li>
-      <li>VERB: сетіс, босьтіс, вежсис, воедіс, мунэма, примитіс, пукаліс, чеччис, xывнитіс, ветліс</li>
-      <li>VERB-Fin: сетіс, босьтіс, вежсис, воедіс, мунэма, примитіс, пукаліс, чеччис, xывнитіс, ветліс</li>
+      <li>VERB: сетіс, босьтіс, вежсис, воедіс, мунэма, примитіс, пукаліс, чеччис, ветліс, висьталэ</li>
+      <li>VERB-Fin: сетіс, босьтіс, вежсис, воедіс, мунэма, примитіс, пукаліс, чеччис, ветліс, висьталэ</li>
     </ul>
   </li>
 </ul>

@@ -12,16 +12,16 @@ Some words have combined values of the feature; 1 combinations have been observe
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt>, <tt><a href="kpv_lattice-feat-Number-psor.html">Number[psor]</a></tt>, <tt><a href="kpv_lattice-feat-Number-subj.html">Number[subj]</a></tt>.
 
-607 tokens (7%) have a non-empty value of `Number[psor]`.
-513 types (15%) occur at least once with a non-empty value of `Number[psor]`.
+608 tokens (7%) have a non-empty value of `Number[psor]`.
+514 types (15%) occur at least once with a non-empty value of `Number[psor]`.
 370 lemmas (16%) occur at least once with a non-empty value of `Number[psor]`.
-The feature is used with 10 part-of-speech tags: <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (465; 6% instances), <tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> (55; 1% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (32; 0% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (21; 0% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (19; 0% instances), <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The feature is used with 10 part-of-speech tags: <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (466; 6% instances), <tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> (55; 1% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (32; 0% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (21; 0% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (19; 0% instances), <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-465 <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> tokens (23% of all `NOUN` tokens) have a non-empty value of `Number[psor]`.
+466 <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> tokens (22% of all `NOUN` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `NOUN` and `Number[psor]` co-occurred: <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (382; 82%), <tt><a href="kpv_lattice-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (362; 78%).
+The most frequent other feature values with which `NOUN` and `Number[psor]` co-occurred: <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (383; 82%), <tt><a href="kpv_lattice-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (363; 78%).
 
 `NOUN` tokens may have the following values of `Number[psor]`:
 

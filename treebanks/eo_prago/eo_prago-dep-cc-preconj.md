@@ -59,7 +59,7 @@ The following 1 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 35	kaj	kaj	CCONJ	_	_	36	cc	_	_
 36	efika	efika	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	34	conj	_	_
 37	lingva	lingva	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	38	amod	_	_
-38	ordo	ordo	NOUN	_	Case=Nom|Number=Sing	32	nmod	_	SpaceAfter=No
+38	ordo	ordo	NOUN	_	Case=Nom|Number=Sing	32	obl	_	SpaceAfter=No
 39	.	.	PUNCT	_	_	25	punct	_	_
 
 ~~~

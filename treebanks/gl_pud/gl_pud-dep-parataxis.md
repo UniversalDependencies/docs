@@ -24,7 +24,7 @@ The following 8 pairs of parts of speech are connected with `parataxis`: <tt><a 
 # visual-style 5 13 parataxis	color:blue
 1	"	"	PUNCT	Fe	_	5	punct	_	SpaceAfter=No
 2	A	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
-3	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	4	det	_	_
+3	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	det	_	_
 4	voz	voz	NOUN	NCFS000	Gender=Fem|Number=Sing	5	nsubj	_	_
 5	deu	dar	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
 6	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_

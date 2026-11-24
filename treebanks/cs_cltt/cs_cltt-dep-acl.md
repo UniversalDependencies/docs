@@ -28,10 +28,10 @@ The following 7 pairs of parts of speech are connected with `acl`: <tt><a href="
 3	,	,	PUNCT	Z:-------------	_	6	punct	6:punct	_
 4	že	že	SCONJ	J,-------------	_	6	mark	6:mark	_
 5	je	on	PRON	PPXP4--3-------	Case=Acc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	7	obj	7:obj	LId=on-1
-6	nelze	lze	VERB	VB-S---3P-NA---	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl	2:acl:že	_
-7	přiřadit	přiřadit	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	6	csubj	6:csubj	SpaceAfter=No
+6	nelze	lze	VERB	VB-S---3P-NA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl	2:acl:že	_
+7	přiřadit	přiřadit	VERB	Vf--------A----	Aspect=Perf|Polarity=Pos|VerbForm=Inf	6	csubj	6:csubj	SpaceAfter=No
 8	,	,	PUNCT	Z:-------------	_	6	punct	6:punct	_
-9	uvedou	uvést	VERB	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+9	uvedou	uvést	VERB	VB-P---3P-AA---	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 10	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	9	expl:pass	9:expl:pass	_
 11	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	13	case	13:case	LId=v-1
 12	provozní	provozní	ADJ	AAFS6----1A----	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	13	amod	13:amod	_
@@ -52,7 +52,7 @@ The following 7 pairs of parts of speech are connected with `acl`: <tt><a href="
 3	,	,	PUNCT	Z:-------------	_	14	punct	14:punct	_
 4	že	že	SCONJ	J,-------------	_	14	mark	14:mark	_
 5	informace	informace	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur	14	nsubj	14:nsubj	_
-6	uváděné	uváděný	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	5	amod	5:amod	_
+6	uváděné	uváděný	ADJ	AAFP1----1A----	Aspect=Imp|Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	5	amod	5:amod	_
 7	za	za	ADP	RR--4----------	AdpType=Prep|Case=Acc	12	case	12:case	LId=za-1
 8	minulé	minulý	ADJ	AANS4----1A----	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	12	amod	12:amod	_
 9	a	a	CCONJ	J^-------------	_	10	cc	10:cc	LId=a-1
@@ -62,7 +62,7 @@ The following 7 pairs of parts of speech are connected with `acl`: <tt><a href="
 13	nejsou	být	AUX	VB-P---3P-NA---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	14	cop	14:cop	_
 14	srovnatelné	srovnatelný	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	2	acl	2:acl:že	SpaceAfter=No
 15	,	,	PUNCT	Z:-------------	_	14	punct	14:punct	_
-16	upraví	upravit	VERB	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+16	upraví	upravit	VERB	VB-P---3P-AA---	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 17	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	16	expl:pass	16:expl:pass	_
 18	informace	informace	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur	16	nsubj:pass	16:nsubj:pass	_
 19	za	za	ADP	RR--4----------	AdpType=Prep|Case=Acc	22	case	22:case	LId=za-1
@@ -88,12 +88,12 @@ The following 7 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 12 16 acl	color:blue
 1	Tuto	tento	DET	PDFS4----------	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	2	det	2:det	_
 2	dokumentaci	dokumentace	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing	3	obj	3:obj	_
-3	uschovávají	uschovávat	VERB	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+3	uschovávají	uschovávat	VERB	VB-P---3P-AA---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 4	účetní	účetní	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	5	amod	5:amod	LId=účetní-1
 5	jednotky	jednotka	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur	3	nsubj	3:nsubj	_
 6	po	po	ADP	RR--4----------	AdpType=Prep|Case=Acc	7	case	7:case	LId=po-1
 7	dobu	doba	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing	3	obl	3:obl:po:acc	_
-8	stanovenou	stanovený	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	7	amod	7:amod	_
+8	stanovenou	stanovený	ADJ	AAFS4----1A----	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	7	amod	7:amod	_
 9	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	10	case	10:case	LId=v-1
 10	§_31_odst._2	§_31_odst._2	X	X@-------------	_	8	obl	8:obl:v:loc	_
 11	podle	podle	ADP	RR--2----------	AdpType=Prep|Case=Gen	12	case	12:case	LId=podle-2
@@ -101,9 +101,9 @@ The following 7 pairs of parts of speech are connected with `acl`: <tt><a href="
 13	,	,	PUNCT	Z:-------------	_	16	punct	16:punct	_
 14	jakou	jaký	DET	P4FS4----------	Case=Acc|Gender=Fem|Number=Sing|PronType=Int,Rel	15	det	15:det	_
 15	funkci	funkce	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing	16	obj	16:obj	_
-16	plní	plnit	VERB	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	12	acl	12:acl	_
+16	plní	plnit	VERB	VB-P---3P-AA---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	12	acl	12:acl	_
 17	při	při	ADP	RR--6----------	AdpType=Prep|Case=Loc	18	case	18:case	LId=při-1
-18	vedení	vedení	NOUN	NNNS6-----A----	Case=Loc|Gender=Neut|Number=Sing	16	obl	16:obl:při:loc	_
+18	vedení	vedení	NOUN	NNNS6-----A----	Case=Loc|Gender=Neut|Number=Sing|VerbForm=Vnoun	16	obl	16:obl:při:loc	_
 19	účetnictví	účetnictví	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing	18	nmod	18:nmod:gen	SpaceAfter=No
 20	,	,	PUNCT	Z:-------------	_	21	punct	21:punct	_
 21	nejde-li	nejde-li	X	X@-------------	_	3	obl	3:obl	_

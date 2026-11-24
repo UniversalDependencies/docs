@@ -22,7 +22,7 @@ The following 5 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 cop	color:blue
-1	Касондярян	касомс	VERB	V	Derivation=Cond|Mood=Ind|Number[subj]=Sing|Person[subj]=1|VerbForm=Fin	4	advcl	_	SpaceAfter=No
+1	Касондярян	касомс	VERB	V	ConjType=Cnd|Mood=Ind|Number[subj]=Sing|Person[subj]=1|VerbForm=Fin	4	advcl	_	SpaceAfter=No
 2	,	,	PUNCT	CLB	_	1	punct	_	_
 3	улян	улемс	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
 4	лётчикокс	лётчик	NOUN	N	Case=Tra|Definite=Ind|Number=Plur,Sing	0	root	_	SpaceAfter=No

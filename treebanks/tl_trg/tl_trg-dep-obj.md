@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `obj`: <tt><a href="tl_trg-dep-obj-agent.html">obj:agent</a></tt>.
 
-33 nodes (4%) are attached to their parents as `obj`.
+32 nodes (4%) are attached to their parents as `obj`.
 
-32 instances of `obj` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.57575757575758.
+31 instances of `obj` (97%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.53125.
 
-The following 5 pairs of parts of speech are connected with `obj`: <tt><a href="tl_trg-pos-VERB.html">VERB</a></tt>-<tt><a href="tl_trg-pos-NOUN.html">NOUN</a></tt> (26; 79% instances), <tt><a href="tl_trg-pos-VERB.html">VERB</a></tt>-<tt><a href="tl_trg-pos-PRON.html">PRON</a></tt> (3; 9% instances), <tt><a href="tl_trg-pos-VERB.html">VERB</a></tt>-<tt><a href="tl_trg-pos-PROPN.html">PROPN</a></tt> (2; 6% instances), <tt><a href="tl_trg-pos-PRON.html">PRON</a></tt>-<tt><a href="tl_trg-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="tl_trg-pos-VERB.html">VERB</a></tt>-<tt><a href="tl_trg-pos-VERB.html">VERB</a></tt> (1; 3% instances).
+The following 5 pairs of parts of speech are connected with `obj`: <tt><a href="tl_trg-pos-VERB.html">VERB</a></tt>-<tt><a href="tl_trg-pos-NOUN.html">NOUN</a></tt> (25; 78% instances), <tt><a href="tl_trg-pos-VERB.html">VERB</a></tt>-<tt><a href="tl_trg-pos-PRON.html">PRON</a></tt> (3; 9% instances), <tt><a href="tl_trg-pos-VERB.html">VERB</a></tt>-<tt><a href="tl_trg-pos-PROPN.html">PROPN</a></tt> (2; 6% instances), <tt><a href="tl_trg-pos-PRON.html">PRON</a></tt>-<tt><a href="tl_trg-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="tl_trg-pos-VERB.html">VERB</a></tt>-<tt><a href="tl_trg-pos-VERB.html">VERB</a></tt> (1; 3% instances).
 
 
 ~~~ conllu

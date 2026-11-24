@@ -23,8 +23,8 @@ The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 csubj:pass	color:blue
-1	nč̣	nč̣	VERB	_	Conjug=Suffix|Mood=Ind|SubForm=AbstRel|Tense=Fut|VerbClass=2lit|VerbForm=Fin|Voice=Pass	0	root	_	Hiero=𓐩|ID=90910
-2	ꜥḳ	ꜥḳ	VERB	_	Gender=Masc|VerbClass=2lit|VerbForm=Inf	1	csubj:pass	_	Hiero=𓅧|ID=41180
+1	nč̣	nč̣	VERB	_	Conjug=Suffix|Mood=Ind|SubForm=AbstRel|Tense=Fut|VerbClass=2lit|VerbForm=Fin|Voice=Pass	0	root	_	Hiero=𓐩|ID=90910|Trans=Yes
+2	ꜥḳ	ꜥḳ	VERB	_	Gender=Masc|VerbClass=2lit|VerbForm=Inf	1	csubj:pass	_	Hiero=𓅧|ID=41180|Trans=No
 3	Wnꞽś	Wnꞽś	PROPN	_	Gender=Masc|NameType=King	2	nsubj	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺|ID=800001
 4	pn	pn	DET	_	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	Hiero=(𓊪:𓈖)|ID=59920
 5	m	m	ADP	_	Case=Equ|StatPrep=Cons	6	case	_	Hiero=𓅓|ID=500292

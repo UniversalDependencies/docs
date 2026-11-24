@@ -13,7 +13,7 @@ This relation is universal.
 16 instances of `dep` (76%) are left-to-right (parent precedes child).
 Average distance between parent and child is 2.14285714285714.
 
-The following 10 pairs of parts of speech are connected with `dep`: <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> (8; 38% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt>-<tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> (4; 19% instances), <tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (2; 10% instances), <tt><a href="bho_bhtb-pos-DET.html">DET</a></tt>-<tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> (1; 5% instances), <tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt>-<tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> (1; 5% instances), <tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt>-<tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> (1; 5% instances), <tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt>-<tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> (1; 5% instances), <tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt>-<tt><a href="bho_bhtb-pos-SCONJ.html">SCONJ</a></tt> (1; 5% instances), <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> (1; 5% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt>-<tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> (1; 5% instances).
+The following 10 pairs of parts of speech are connected with `dep`: <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> (8; 38% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt>-<tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> (4; 19% instances), <tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (2; 10% instances), <tt><a href="bho_bhtb-pos-DET.html">DET</a></tt>-<tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> (1; 5% instances), <tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt>-<tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> (1; 5% instances), <tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt>-<tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> (1; 5% instances), <tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt>-<tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> (1; 5% instances), <tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt>-<tt><a href="bho_bhtb-pos-SCONJ.html">SCONJ</a></tt> (1; 5% instances), <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> (1; 5% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt>-<tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
@@ -45,7 +45,7 @@ The following 10 pairs of parts of speech are connected with `dep`: <tt><a href=
 2	कि	कि	SCONJ	CC_CCS	_	1	conj	_	Translit=ki|LTranslit=ki
 3	बिआह	बिआह	NOUN	N_NN	_	7	nsubj	_	Translit=biāha|LTranslit=biāha
 4	ठीक	ठीक	ADJ	JJ	_	7	amod	_	Translit=ṭhīka|LTranslit=ṭhīka
-5	-	-	PUNCT	RD_PUNCT	_	6	punct	_	Translit=-|LTranslit=-
+5	-	-	PUNCT	RD_PUNC	_	6	punct	_	Translit=-|LTranslit=-
 6	ठाक	ठाक	PART	RD_ECH	_	4	compound	_	Translit=ṭhāka|LTranslit=ṭhāka
 7	हो	हो	VERB	V_VM	Number=Sing|Person=3|Voice=Act	0	root	_	Translit=ho|LTranslit=ho
 8	जाव	जा	AUX	V_VAUX	Case=Acc|Gender=Masc|Number=Sing|Person=3	7	aux	_	Translit=jāva|LTranslit=jā

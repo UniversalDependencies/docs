@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Jinho Choi, Na-Rae Han, Jena Hwang, Jayeol Chun.
 
 Repository: [UD_Korean-Kaist](https://github.com/UniversalDependencies/UD_Korean-Kaist)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udko_kaist218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udko_kaist219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 
@@ -67,11 +67,11 @@ The project repository: https://github.com/emorynlp/ud-korean
 
 ## Features
 
-
+[ExtPos](ko_kaist-feat-ExtPos.html) – [PronType](ko_kaist-feat-PronType.html)
 
 ## Relations
 
-[acl](ko_kaist-dep-acl.html) – [advcl](ko_kaist-dep-advcl.html) – [advmod](ko_kaist-dep-advmod.html) – [amod](ko_kaist-dep-amod.html) – [appos](ko_kaist-dep-appos.html) – [aux](ko_kaist-dep-aux.html) – [case](ko_kaist-dep-case.html) – [cc](ko_kaist-dep-cc.html) – [ccomp](ko_kaist-dep-ccomp.html) – [clf](ko_kaist-dep-clf.html) – [compound](ko_kaist-dep-compound.html) – [conj](ko_kaist-dep-conj.html) – [cop](ko_kaist-dep-cop.html) – [csubj](ko_kaist-dep-csubj.html) – [dep](ko_kaist-dep-dep.html) – [det](ko_kaist-dep-det.html) – [discourse](ko_kaist-dep-discourse.html) – [dislocated](ko_kaist-dep-dislocated.html) – [fixed](ko_kaist-dep-fixed.html) – [flat](ko_kaist-dep-flat.html) – [iobj](ko_kaist-dep-iobj.html) – [mark](ko_kaist-dep-mark.html) – [nmod](ko_kaist-dep-nmod.html) – [nsubj](ko_kaist-dep-nsubj.html) – [nummod](ko_kaist-dep-nummod.html) – [obj](ko_kaist-dep-obj.html) – [obl](ko_kaist-dep-obl.html) – [parataxis](ko_kaist-dep-parataxis.html) – [punct](ko_kaist-dep-punct.html) – [root](ko_kaist-dep-root.html) – [vocative](ko_kaist-dep-vocative.html) – [xcomp](ko_kaist-dep-xcomp.html)
+[acl](ko_kaist-dep-acl.html) – [advcl](ko_kaist-dep-advcl.html) – [advmod](ko_kaist-dep-advmod.html) – [amod](ko_kaist-dep-amod.html) – [appos](ko_kaist-dep-appos.html) – [aux](ko_kaist-dep-aux.html) – [case](ko_kaist-dep-case.html) – [cc](ko_kaist-dep-cc.html) – [ccomp](ko_kaist-dep-ccomp.html) – [clf](ko_kaist-dep-clf.html) – [compound](ko_kaist-dep-compound.html) – [compound:lvc](ko_kaist-dep-compound-lvc.html) – [conj](ko_kaist-dep-conj.html) – [cop](ko_kaist-dep-cop.html) – [csubj](ko_kaist-dep-csubj.html) – [dep](ko_kaist-dep-dep.html) – [det](ko_kaist-dep-det.html) – [discourse](ko_kaist-dep-discourse.html) – [dislocated](ko_kaist-dep-dislocated.html) – [fixed](ko_kaist-dep-fixed.html) – [flat](ko_kaist-dep-flat.html) – [iobj](ko_kaist-dep-iobj.html) – [mark](ko_kaist-dep-mark.html) – [nmod](ko_kaist-dep-nmod.html) – [nsubj](ko_kaist-dep-nsubj.html) – [nsubj:outer](ko_kaist-dep-nsubj-outer.html) – [nummod](ko_kaist-dep-nummod.html) – [obj](ko_kaist-dep-obj.html) – [obl](ko_kaist-dep-obl.html) – [orphan](ko_kaist-dep-orphan.html) – [parataxis](ko_kaist-dep-parataxis.html) – [punct](ko_kaist-dep-punct.html) – [root](ko_kaist-dep-root.html) – [vocative](ko_kaist-dep-vocative.html) – [xcomp](ko_kaist-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -108,15 +108,15 @@ The project repository: https://github.com/emorynlp/ud-korean
 </ul>
 
 <ul>
-<li>This corpus contains 391 lemmas tagged as pronouns (PRON): 거+이, 거기, 거기+ㄴ, 거기+가, 거기+서+의, 거기+에+는, 거기+에서+는, 건설부+는, 건자재+는, 것+이, 경제팀+이, 계림+은, 국립공원법+은, 귀하+가, 귀하+는, 귀하+의, 그, 그+가, 그+간+의, 그+곳+을, 그+는, 그+들+과+는, 그+들+과+의, 그+들+만+이, 그+들+에게+는, 그+들+은, 그+들+을, 그+들+의, 그+들+이, 그+때+까지+는, 그+때+의, 그+로+부터+의, 그+로서+는, 그+를, 그+밖+의, 그+보다+는, 그+에게+는, 그+와+는, 그+의, 그거+ㄴ, 그거+ㄹ, 그거+은, 그거+이, 그것, 그것+ㄴ, 그것+과+는, 그것+과+의, 그것+들+은, 그것+들+을, 그것+들+의, 그것+들+이, 그것+만+이, 그것+보다+는, 그것+에+는, 그것+으로+는, 그것+으로서+가, 그것+은, 그것+을, 그것+의, 그것+이, 그곳+을, 그곳+의, 그곳+이, 그날, 그날+은, 그날+을, 그날+의, 그녀, 그녀+가, 그녀+는, 그녀+들+은, 그녀+를, 그녀+와+의, 그녀+의, 그놈, 그놈+들+이, 그대, 그대+가, 그대+는, 그대+들+이, 그대+를, 그때, 그때+는, 그때+의, 그분+께서+는, 그분+은, 그분+을, 그분+의, 그이, 그자+를, 그해, 금융인+은, 기술력+은, 나, 나+ㄴ, 나+ㄹ, 나+는, 나+로서+는, 나+를, 나+만+이, 나+만은, 나+에게+는, 나+와+는, 나+와+의, 나+의, 날자+가, 남+들+을, 남+들+의, 남+들+이, 남+을, 남+의, 남+이, 내, 내+가, 내+것+이, 내+게+ㄴ, 내+게+는, 내+눈+을, 내+는, 내+에+는, 내+의, 너+ㄴ, 너+는, 너+를, 너+의, 너희, 너희+는, 너희+들+은, 너희+들+의, 너희+들+이, 네, 네+가, 누+가, 누가, 누구, 누구+가, 누구+를, 누구+의, 누구+이+ㄴ가+가, 누구+이+ㄴ가+는, 누구+이+ㄴ가+만+이, 누구+이+ㄴ지+를, 뉘, 당신, 당신+들+은, 당신+들+을, 당신+들+의, 당신+들+이, 당신+만+을, 당신+얼굴+을, 당신+에게+는, 당신+은, 당신+을, 당신+의, 당신+이, 동녀+는, 떼바구+가, 모두, 무슨, 무어+ㄹ, 무어+이+ㄴ가+를, 무어+이+ㄴ지+를, 무엇, 무엇+을, 무엇+이, 무엇+이+ㄴ가+가, 무엇+이+ㄴ가+를, 무엇+이+ㄴ가+의, 무엇+이+ㄴ지+는, 무엇+이+ㄴ지+를, 무엇+이+인가+를, 무엇무엇+을, 뭐, 뭐+가, 뭐+이+ㄴ가+를, 뭔가+를, 버버리+는, 보안원+은, 부르조아+법+이, 북방팀+은, 분+들+이, 상앙+은, 설현당+은, 세게경제+는, 세계성+은, 소인, 소인+은, 쇼스포츠+는, 스스로, 스스로+를, 신기업체수+는, 아리산+은, 아무, 아직+은, 어느, 어디, 어디+가, 어디+를, 언제, 언제+이+ㄴ가+는, 언젠가, 얼마, 얼마+간+의, 얼마+만큼+이, 여기, 여기+가, 여기+까지+는, 여기+는, 여기+서, 여기+서+ㄴ, 여기+서+는, 여기+서+의, 여기+에+는, 여기+에+의, 여기+에서+ㄴ, 여기+에서+는, 여기+에서+의, 여기서+는, 여기저기, 여기저기+의, 여러분, 여러분+께서, 여러분+께서+ㄴ, 여러분+들+께서+는, 여러분+들+은, 여러분+들+의, 여러분+들+이, 여러분+은, 여러분+을, 여러분+의, 여러분+이, 우리, 우리+가, 우리+가계+는, 우리+가계+의, 우리+경제+는, 우리+나라+가, 우리+나라+가계+는, 우리+나라+는, 우리+나라+를, 우리+나라+에+는, 우리+나라+에서+는, 우리+나라+와+는, 우리+나라+의, 우리+는, 우리+들+에게+는, 우리+들+은, 우리+들+을, 우리+들+의, 우리+들+이, 우리+로+부터+의, 우리+로서+는, 우리+를, 우리+민족+의, 우리+사회+가, 우리+사회+는, 우리+사회+에+는, 우리+사회+의, 우리+시단+의, 우리+시대+의, 우리+에게+는, 우리+와+는, 우리+의, 우리+측+은, 우리네, 원응국사+가, 위궤양+은, 이, 이+가, 이+간+의, 이+곳+은, 이+날+이, 이+는, 이+들+간+에+는, 이+들+에게+는, 이+들+은, 이+들+을, 이+들+의, 이+들+이, 이+로+는, 이+를, 이+에+는, 이+에게+ㄴ, 이+와+는, 이+외+에+는, 이+을, 이+의, 이+쪽+의, 이+쪽+이, 이거, 이거+ㄴ, 이거+는, 이거+이, 이것, 이것+ㄴ, 이것+과+는, 이것+들+은, 이것+들+을, 이것+들+의, 이것+들+이, 이것+으로+는, 이것+은, 이것+을, 이것+의, 이것+이, 이것저것, 이곳, 이곳+에+는, 이곳+에서+는, 이곳+은, 이곳+을, 이곳+의, 이곳+이, 이곳+저곳, 이녀석+은, 이때, 이때+가, 이때+는, 이때+에+는, 이때+의, 이번, 이번+에+는, 이분+은, 자가끼리+의, 자기, 자기+가, 자기+견해+를, 자기+계발+을, 자기+고발+이, 자기+는, 자기+들+만+이, 자기+들+은, 자기+들+을, 자기+들+의, 자기+들+이, 자기+를, 자기+보존+의, 자기+소외+가, 자기+와+의, 자기+운명+의, 자기+의, 자기+자신+을, 자기+자신+의, 자기+주장+을, 자기+중심+의, 자기+지방+의, 자기+통제+는, 자기+한테+는, 자기네+들+이, 자기네+의, 자네, 자네+가, 자네+는, 자네+들+은, 자네+들+의, 자신+들+의, 자신+들+이, 자신+은, 자신+을, 자신+의, 자신+이, 저, 저+는, 저+대로+의, 저+들+은, 저+들+을, 저+들+의, 저+들+이, 저+를, 저+마다+의, 저+의, 저거+ㄴ, 저것, 저것+은, 저기+를, 저분, 저쪽, 저희, 저희+가, 저희+들+의, 제, 제+가, 제+게+는, 제+모습+을, 제군+들+은, 제조업체+의, 퇴각로+가, 튤립+이, 파토스+는, 편+들+의, 히코네지역+은</li>
+<li>This corpus contains 356 lemmas tagged as pronouns (PRON): 거+이, 거기, 거기+ㄴ, 거기+가, 거기+서+의, 거기+에+는, 거기+에서+는, 귀하+가, 귀하+는, 귀하+의, 그, 그+가, 그+간+의, 그+곳+을, 그+는, 그+들+과+는, 그+들+과+의, 그+들+만+이, 그+들+에게+는, 그+들+은, 그+들+을, 그+들+의, 그+들+이, 그+때+까지+는, 그+때+의, 그+로+부터+의, 그+로서+는, 그+를, 그+밖+의, 그+보다+는, 그+에게+는, 그+와+는, 그+의, 그거+ㄴ, 그거+ㄹ, 그거+은, 그거+이, 그것, 그것+ㄴ, 그것+과+는, 그것+과+의, 그것+들+은, 그것+들+을, 그것+들+의, 그것+들+이, 그것+만+이, 그것+보다+는, 그것+에+는, 그것+으로+는, 그것+으로서+가, 그것+은, 그것+을, 그것+의, 그것+이, 그곳+을, 그곳+의, 그곳+이, 그날, 그날+은, 그날+을, 그날+의, 그녀, 그녀+가, 그녀+는, 그녀+들+은, 그녀+를, 그녀+와+의, 그녀+의, 그놈, 그놈+들+이, 그대, 그대+가, 그대+는, 그대+들+이, 그대+를, 그때, 그때+는, 그때+의, 그분+께서+는, 그분+은, 그분+을, 그분+의, 그이, 그자+를, 그해, 나, 나+ㄴ, 나+ㄹ, 나+는, 나+로서+는, 나+를, 나+만+이, 나+만은, 나+에게+는, 나+와+는, 나+와+의, 나+의, 남+들+을, 남+들+의, 남+들+이, 남+을, 남+의, 남+이, 내, 내+가, 내+것+이, 내+게+ㄴ, 내+게+는, 내+눈+을, 내+는, 내+에+는, 내+의, 너+ㄴ, 너+는, 너+를, 너+의, 너희, 너희+는, 너희+들+은, 너희+들+의, 너희+들+이, 네, 네+가, 누+가, 누가, 누구, 누구+가, 누구+를, 누구+의, 누구+이+ㄴ가+가, 누구+이+ㄴ가+는, 누구+이+ㄴ가+만+이, 누구+이+ㄴ지+를, 뉘, 당신, 당신+들+은, 당신+들+을, 당신+들+의, 당신+들+이, 당신+만+을, 당신+얼굴+을, 당신+에게+는, 당신+은, 당신+을, 당신+의, 당신+이, 무슨, 무어+ㄹ, 무어+이+ㄴ가+를, 무어+이+ㄴ지+를, 무엇, 무엇+을, 무엇+이, 무엇+이+ㄴ가+가, 무엇+이+ㄴ가+를, 무엇+이+ㄴ가+의, 무엇+이+ㄴ지+는, 무엇+이+ㄴ지+를, 무엇+이+인가+를, 무엇무엇+을, 뭐, 뭐+가, 뭐+이+ㄴ가+를, 뭔가+를, 분+들+이, 소인, 소인+은, 스스로, 스스로+를, 어디, 어디+가, 어디+를, 언제, 언제+이+ㄴ가+는, 언젠가, 얼마, 얼마+간+의, 얼마+만큼+이, 여기, 여기+가, 여기+까지+는, 여기+는, 여기+서, 여기+서+ㄴ, 여기+서+는, 여기+서+의, 여기+에+는, 여기+에+의, 여기+에서+ㄴ, 여기+에서+는, 여기+에서+의, 여기서+는, 여기저기, 여기저기+의, 여러분, 여러분+께서, 여러분+께서+ㄴ, 여러분+들+께서+는, 여러분+들+은, 여러분+들+의, 여러분+들+이, 여러분+은, 여러분+을, 여러분+의, 여러분+이, 우리, 우리+가, 우리+가계+는, 우리+가계+의, 우리+경제+는, 우리+나라+가, 우리+나라+가계+는, 우리+나라+는, 우리+나라+를, 우리+나라+에+는, 우리+나라+에서+는, 우리+나라+와+는, 우리+나라+의, 우리+는, 우리+들+에게+는, 우리+들+은, 우리+들+을, 우리+들+의, 우리+들+이, 우리+로+부터+의, 우리+로서+는, 우리+를, 우리+민족+의, 우리+사회+가, 우리+사회+는, 우리+사회+에+는, 우리+사회+의, 우리+시단+의, 우리+시대+의, 우리+에게+는, 우리+와+는, 우리+의, 우리+측+은, 우리네, 이, 이+가, 이+간+의, 이+곳+은, 이+날+이, 이+는, 이+들+간+에+는, 이+들+에게+는, 이+들+은, 이+들+을, 이+들+의, 이+들+이, 이+로+는, 이+를, 이+에+는, 이+에게+ㄴ, 이+와+는, 이+외+에+는, 이+을, 이+의, 이+쪽+의, 이+쪽+이, 이거, 이거+ㄴ, 이거+는, 이거+이, 이것, 이것+ㄴ, 이것+과+는, 이것+들+은, 이것+들+을, 이것+들+의, 이것+들+이, 이것+으로+는, 이것+은, 이것+을, 이것+의, 이것+이, 이것저것, 이곳, 이곳+에+는, 이곳+에서+는, 이곳+은, 이곳+을, 이곳+의, 이곳+이, 이곳+저곳, 이녀석+은, 이때, 이때+가, 이때+는, 이때+에+는, 이때+의, 이번, 이번+에+는, 이분+은, 자기, 자기+가, 자기+견해+를, 자기+계발+을, 자기+고발+이, 자기+는, 자기+들+만+이, 자기+들+은, 자기+들+을, 자기+들+의, 자기+들+이, 자기+를, 자기+보존+의, 자기+소외+가, 자기+와+의, 자기+운명+의, 자기+의, 자기+자신+을, 자기+자신+의, 자기+주장+을, 자기+중심+의, 자기+지방+의, 자기+통제+는, 자기+한테+는, 자기네+들+이, 자기네+의, 자네, 자네+가, 자네+는, 자네+들+은, 자네+들+의, 자신+들+의, 자신+들+이, 자신+은, 자신+을, 자신+의, 자신+이, 저, 저+는, 저+대로+의, 저+들+은, 저+들+을, 저+들+의, 저+들+이, 저+를, 저+마다+의, 저+의, 저거+ㄴ, 저것, 저것+은, 저기+를, 저분, 저쪽, 저희, 저희+가, 저희+들+의, 제, 제+가, 제+게+는, 제+모습+을, 제군+들+은</li>
 </ul>
 
 <ul>
-<li>This corpus contains 32 lemmas tagged as determiners (DET): 帝所中心的, 각, 그, 그런, 다른, 또다른, 맨, 모, 모든, 무슨, 본, 아무, 아무런, 어느, 어떤, 연, 올, 요, 유러비전, 이, 이곳, 이날, 이런, 이젠, 일견, 저, 전, 전제정, 제, 제반, 한, 한영</li>
+<li>This corpus contains 23 lemmas tagged as determiners (DET): 각, 그, 그런, 다른, 또다른, 모, 모든, 무슨, 본, 아무, 아무런, 어느, 어떤, 연, 올, 요, 이, 이곳, 이날, 이런, 저, 제반, 한</li>
 </ul>
 
 <ul>
-<li>Out of the above, 8 lemmas occurred sometimes as PRON and sometimes as DET: 그, 무슨, 아무, 어느, 이, 이곳, 저, 제</li>
+<li>Out of the above, 5 lemmas occurred sometimes as PRON and sometimes as DET: 그, 무슨, 이, 이곳, 저</li>
 </ul>
 
 <ul>
@@ -156,6 +156,51 @@ The project repository: https://github.com/emorynlp/ud-korean
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
 
+<ul>
+  <li><a>PronType</a></li>
+</ul>
+
+<ul>
+  <li>Dem
+    <ul>
+      <li>DET: 그, 이, 이런, 그런, 저, 본, 이곳, 요, 그이전과는, 올</li>
+      <li>PRON: 그것은, 이, 이것은, 이는, 이를, 그것을, 그것이, 이것이, 이들은, 이것을</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ind
+    <ul>
+      <li>DET: 어느, 아무, 다른, 또다른, 한, 모, 연, 아무런, 제반</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Int
+    <ul>
+      <li>DET: 어떤, 무슨</li>
+      <li>PRON: 무엇을, 누가, 무엇이, 무엇인가를, 무엇, 누군가가, 무엇인가의, 뭐가, 어디, 어디를</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Prs
+    <ul>
+      <li>PRON: 그는, 우리, 그의, 우리는, 나는, 그들은, 우리가, 우리의, 그가, 자기</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Tot
+    <ul>
+      <li>DET: 모든, 각</li>
+    </ul>
+  </li>
+</ul>
 
 
 
@@ -166,6 +211,18 @@ The project repository: https://github.com/emorynlp/ud-korean
 
 <h3>Other Features</h3>
 
+
+<ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>AUX
+        <ul>
+          <li>NOUN: 수, 수도, 수가, 것, 수는, 수밖에, 바, 뿐만, 데, 뿐</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 <h2>Syntax</h2>
 
@@ -185,14 +242,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (8393)</li>
+      <li>VERB--NOUN (8283)</li>
       <li>VERB--NOUN-ADP(가) (23)</li>
       <li>VERB--NOUN-ADP(과) (2)</li>
       <li>VERB--NOUN-ADP(들+이) (1)</li>
       <li>VERB--NOUN-ADP(와) (2)</li>
-      <li>VERB--NOUN-ADP(이) (23)</li>
+      <li>VERB--NOUN-ADP(이) (21)</li>
       <li>VERB--NOUN-ADP(이나) (2)</li>
-      <li>VERB--PRON (973)</li>
+      <li>VERB--PRON (961)</li>
       <li>VERB--PRON-ADP(가) (1)</li>
     </ul>
   </li>
@@ -201,7 +258,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (14169)</li>
+      <li>VERB--NOUN (14144)</li>
       <li>VERB--NOUN-ADP(과) (2)</li>
       <li>VERB--NOUN-ADP(나) (1)</li>
       <li>VERB--NOUN-ADP(들) (1)</li>
@@ -209,7 +266,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-ADP(만+을) (1)</li>
       <li>VERB--NOUN-ADP(와) (2)</li>
       <li>VERB--NOUN-ADP(을) (56)</li>
-      <li>VERB--PRON (565)</li>
+      <li>VERB--PRON (563)</li>
       <li>VERB--PRON-ADP(를) (3)</li>
       <li>VERB--PRON-ADP(을) (1)</li>
     </ul>
@@ -232,6 +289,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus does not use relation subtypes.</li>
-<li>The following 5 relation types are not used in this corpus at all: <a>expl</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>This corpus uses 2 relation subtypes: <a>compound:lvc</a>, <a>nsubj:outer</a></li>
+<li>The following 4 relation types are not used in this corpus at all: <a>expl</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

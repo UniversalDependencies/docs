@@ -68,7 +68,7 @@ The following 10 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 5 1 cc	color:blue
 1	καὶ	καί	CCONJ	_	_	5	cc	_	Gloss=and,also,even,then,next|Ref=GEN_10.3
 2	υἱοὶ	υἱός	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	Gloss=sons|Ref=GEN_10.3
-3	Γαμέρ	Γάμερ	PROPN	_	Case=Gen	2	nmod:poss	_	Gloss=Gomer|Ref=GEN_10.3|SpaceAfter=No
+3	Γαμέρ	Γάμερ	PROPN	_	Case=Gen|Gender=Masc	2	nmod:poss	_	Gloss=Gomer|Ref=GEN_10.3|SpaceAfter=No
 4	·	·	PUNCT	_	_	2	punct	_	Ref=GEN_10.3
 5	Ἀσχανὰζ	Ἀσχανάζ	PROPN	_	Gender=Masc	0	root	_	Gloss=Ashkenaz|Ref=GEN_10.3
 6	καὶ	καί	CCONJ	_	_	7	cc	_	Gloss=and,also,even,then,next|Ref=GEN_10.3

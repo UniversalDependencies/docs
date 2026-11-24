@@ -9,36 +9,54 @@ udver: '2'
 This feature is language-specific.
 It occurs with 9 different values: `ADJ`, `ADP`, `ADV`, `CCONJ`, `DET`, `INTJ`, `PART`, `PRON`, `SCONJ`.
 
-1128 tokens (1%) have a non-empty value of `ExtPos`.
-74 types (1%) occur at least once with a non-empty value of `ExtPos`.
-52 lemmas (1%) occur at least once with a non-empty value of `ExtPos`.
-The feature is used with 11 part-of-speech tags: <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt> (439; 0% instances), <tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt> (279; 0% instances), <tt><a href="uk_parlamint-pos-ADP.html">ADP</a></tt> (206; 0% instances), <tt><a href="uk_parlamint-pos-PART.html">PART</a></tt> (76; 0% instances), <tt><a href="uk_parlamint-pos-CCONJ.html">CCONJ</a></tt> (75; 0% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (26; 0% instances), <tt><a href="uk_parlamint-pos-DET.html">DET</a></tt> (21; 0% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="uk_parlamint-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-X.html">X</a></tt> (1; 0% instances).
+1426 tokens (1%) have a non-empty value of `ExtPos`.
+88 types (1%) occur at least once with a non-empty value of `ExtPos`.
+62 lemmas (1%) occur at least once with a non-empty value of `ExtPos`.
+The feature is used with 11 part-of-speech tags: <tt><a href="uk_parlamint-pos-ADP.html">ADP</a></tt> (474; 0% instances), <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt> (447; 0% instances), <tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt> (295; 0% instances), <tt><a href="uk_parlamint-pos-PART.html">PART</a></tt> (80; 0% instances), <tt><a href="uk_parlamint-pos-CCONJ.html">CCONJ</a></tt> (76; 0% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (27; 0% instances), <tt><a href="uk_parlamint-pos-DET.html">DET</a></tt> (21; 0% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="uk_parlamint-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-X.html">X</a></tt> (1; 0% instances).
+
+### `ADP`
+
+474 <tt><a href="uk_parlamint-pos-ADP.html">ADP</a></tt> tokens (5% of all `ADP` tokens) have a non-empty value of `ExtPos`.
+
+`ADP` tokens may have the following values of `ExtPos`:
+
+* `ADP` (406; 86% of non-empty `ExtPos`): <em>з, у, в, за, на, під, до, по, Згідно, відповідно</em>
+* `ADV` (66; 14% of non-empty `ExtPos`): <em>в, у, До</em>
+* `CCONJ` (1; 0% of non-empty `ExtPos`): <em>в</em>
+* `SCONJ` (1; 0% of non-empty `ExtPos`): <em>для</em>
+
+<table>
+  <tr><th>Paradigm <i>в</i></th><th><tt>ADP</tt></th><th><tt>ADV</tt></th><th><tt>CCONJ</tt></th></tr>
+  <tr><td><tt>_</tt></td><td><em>в</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="uk_parlamint-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>в</em></td><td><em>в</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="uk_parlamint-feat-Case.html">Case</a></tt><tt>=Loc</tt></tt></td><td><em>в</em></td><td><em>в</em></td><td><em>в</em></td></tr>
+</table>
 
 ### `VERB`
 
-439 <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt> tokens (4% of all `VERB` tokens) have a non-empty value of `ExtPos`.
+447 <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt> tokens (4% of all `VERB` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `VERB` and `ExtPos` co-occurred: <tt><a href="uk_parlamint-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (439; 100%), <tt><a href="uk_parlamint-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (439; 100%), <tt><a href="uk_parlamint-feat-Mood.html">Mood</a></tt><tt>=Imp</tt> (435; 99%), <tt><a href="uk_parlamint-feat-Number.html">Number</a></tt><tt>=Sing</tt> (435; 99%), <tt><a href="uk_parlamint-feat-Person.html">Person</a></tt><tt>=2</tt> (435; 99%), <tt><a href="uk_parlamint-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (435; 99%), <tt><a href="uk_parlamint-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (435; 99%).
+The most frequent other feature values with which `VERB` and `ExtPos` co-occurred: <tt><a href="uk_parlamint-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (447; 100%), <tt><a href="uk_parlamint-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (447; 100%), <tt><a href="uk_parlamint-feat-Mood.html">Mood</a></tt><tt>=Imp</tt> (435; 97%), <tt><a href="uk_parlamint-feat-Number.html">Number</a></tt><tt>=Sing</tt> (435; 97%), <tt><a href="uk_parlamint-feat-Person.html">Person</a></tt><tt>=2</tt> (435; 97%), <tt><a href="uk_parlamint-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (435; 97%), <tt><a href="uk_parlamint-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (435; 97%).
 
 `VERB` tokens may have the following values of `ExtPos`:
 
-* `ADP` (4; 1% of non-empty `ExtPos`): <em>починаючи</em>
-* `INTJ` (435; 99% of non-empty `ExtPos`): <em>будь</em>
+* `ADP` (12; 3% of non-empty `ExtPos`): <em>зважаючи, починаючи</em>
+* `INTJ` (435; 97% of non-empty `ExtPos`): <em>будь</em>
 
 ### `ADV`
 
-279 <tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt> tokens (5% of all `ADV` tokens) have a non-empty value of `ExtPos`.
+295 <tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt> tokens (5% of all `ADV` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `ADV` and `ExtPos` co-occurred: <tt><a href="uk_parlamint-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (255; 91%), <tt><a href="uk_parlamint-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (231; 83%).
+The most frequent other feature values with which `ADV` and `ExtPos` co-occurred: <tt><a href="uk_parlamint-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (263; 89%), <tt><a href="uk_parlamint-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (246; 83%).
 
 `ADV` tokens may have the following values of `ExtPos`:
 
-* `ADJ` (10; 4% of non-empty `ExtPos`): <em>так</em>
-* `ADP` (96; 34% of non-empty `ExtPos`): <em>відповідно, згідно, поряд, незважаючи, разом, спільно</em>
-* `ADV` (59; 21% of non-empty `ExtPos`): <em>так, поки, перш, більш, знову, більше, все, ще, врешті, навряд</em>
+* `ADJ` (10; 3% of non-empty `ExtPos`): <em>так</em>
+* `ADP` (106; 36% of non-empty `ExtPos`): <em>відповідно, згідно, поряд, незалежно, незважаючи, всупереч, одночасно, разом, спільно</em>
+* `ADV` (65; 22% of non-empty `ExtPos`): <em>так, поки, знову, перш, більш, більше, все, ще, врешті, навряд</em>
 * `CCONJ` (15; 5% of non-empty `ExtPos`): <em>так</em>
 * `PRON` (1; 0% of non-empty `ExtPos`): <em>де</em>
-* `SCONJ` (98; 35% of non-empty `ExtPos`): <em>тому, так, перш</em>
+* `SCONJ` (98; 33% of non-empty `ExtPos`): <em>тому, так, перш</em>
 
 <table>
   <tr><th>Paradigm <i>так</i></th><th><tt>ADJ</tt></th><th><tt>ADV</tt></th><th><tt>CCONJ</tt></th><th><tt>SCONJ</tt></th></tr>
@@ -47,67 +65,51 @@ The most frequent other feature values with which `ADV` and `ExtPos` co-occurred
   <tr><td><tt><tt><a href="uk_parlamint-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>так</em></td><td><em>так</em></td><td></td><td><em>так</em></td></tr>
 </table>
 
-### `ADP`
-
-206 <tt><a href="uk_parlamint-pos-ADP.html">ADP</a></tt> tokens (2% of all `ADP` tokens) have a non-empty value of `ExtPos`.
-
-The most frequent other feature values with which `ADP` and `ExtPos` co-occurred: <tt><a href="uk_parlamint-feat-Case.html">Case</a></tt><tt>=Loc</tt> (114; 55%).
-
-`ADP` tokens may have the following values of `ExtPos`:
-
-* `ADP` (140; 68% of non-empty `ExtPos`): <em>у, з, під, в, на, по, Згідно, відповідно, крім, поруч</em>
-* `ADV` (65; 32% of non-empty `ExtPos`): <em>в, у</em>
-* `SCONJ` (1; 0% of non-empty `ExtPos`): <em>для</em>
-
-<table>
-  <tr><th>Paradigm <i>в</i></th><th><tt>ADP</tt></th><th><tt>ADV</tt></th></tr>
-  <tr><td><tt>_</tt></td><td><em>в</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="uk_parlamint-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td></td><td><em>в</em></td></tr>
-  <tr><td><tt><tt><a href="uk_parlamint-feat-Case.html">Case</a></tt><tt>=Loc</tt></tt></td><td><em>в</em></td><td><em>в</em></td></tr>
-</table>
+`ExtPos` seems to be **lexical feature** of `ADV`. 92% lemmas (22) occur only with one value of `ExtPos`.
 
 ### `PART`
 
-76 <tt><a href="uk_parlamint-pos-PART.html">PART</a></tt> tokens (3% of all `PART` tokens) have a non-empty value of `ExtPos`.
+80 <tt><a href="uk_parlamint-pos-PART.html">PART</a></tt> tokens (3% of all `PART` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `PART` and `ExtPos` co-occurred: <tt><a href="uk_parlamint-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (55; 72%).
+The most frequent other feature values with which `PART` and `ExtPos` co-occurred: <tt><a href="uk_parlamint-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (57; 71%).
 
 `PART` tokens may have the following values of `ExtPos`:
 
-* `ADV` (45; 59% of non-empty `ExtPos`): <em>все, хоча, так, тільки, вряд, всього, не</em>
-* `CCONJ` (23; 30% of non-empty `ExtPos`): <em>не, чи</em>
-* `PART` (8; 11% of non-empty `ExtPos`): <em>чи, все, Так</em>
+* `ADP` (1; 1% of non-empty `ExtPos`): <em>не</em>
+* `ADV` (50; 63% of non-empty `ExtPos`): <em>все, хоча, так, тільки, вряд, всього, і, не</em>
+* `CCONJ` (24; 30% of non-empty `ExtPos`): <em>не, чи</em>
+* `PART` (5; 6% of non-empty `ExtPos`): <em>чи, Так</em>
 
 <table>
-  <tr><th>Paradigm <i>не</i></th><th><tt>ADV</tt></th><th><tt>CCONJ</tt></th></tr>
-  <tr><td><tt>_</tt></td><td></td><td><em>не</em></td></tr>
-  <tr><td><tt><tt><a href="uk_parlamint-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td><em>не</em></td><td><em>не</em></td></tr>
+  <tr><th>Paradigm <i>не</i></th><th><tt>ADP</tt></th><th><tt>ADV</tt></th><th><tt>CCONJ</tt></th></tr>
+  <tr><td><tt>_</tt></td><td></td><td></td><td><em>не</em></td></tr>
+  <tr><td><tt><tt><a href="uk_parlamint-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td><em>не</em></td><td><em>не</em></td><td><em>не</em></td></tr>
 </table>
 
 ### `CCONJ`
 
-75 <tt><a href="uk_parlamint-pos-CCONJ.html">CCONJ</a></tt> tokens (2% of all `CCONJ` tokens) have a non-empty value of `ExtPos`.
+76 <tt><a href="uk_parlamint-pos-CCONJ.html">CCONJ</a></tt> tokens (2% of all `CCONJ` tokens) have a non-empty value of `ExtPos`.
 
 `CCONJ` tokens may have the following values of `ExtPos`:
 
 * `ADV` (1; 1% of non-empty `ExtPos`): <em>і</em>
-* `CCONJ` (74; 99% of non-empty `ExtPos`): <em>а, але, так, чи, та</em>
+* `CCONJ` (75; 99% of non-empty `ExtPos`): <em>а, так, але, чи, та, або</em>
 
 ### `PRON`
 
-26 <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `ExtPos`.
+27 <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `PRON` and `ExtPos` co-occurred: <tt><a href="uk_parlamint-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (25; 96%), <tt><a href="uk_parlamint-feat-Number.html">Number</a></tt><tt>=Sing</tt> (24; 92%), <tt><a href="uk_parlamint-feat-Case.html">Case</a></tt><tt>=Nom</tt> (19; 73%).
+The most frequent other feature values with which `PRON` and `ExtPos` co-occurred: <tt><a href="uk_parlamint-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (26; 96%), <tt><a href="uk_parlamint-feat-Number.html">Number</a></tt><tt>=Sing</tt> (25; 93%), <tt><a href="uk_parlamint-feat-Case.html">Case</a></tt><tt>=Nom</tt> (20; 74%), <tt><a href="uk_parlamint-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (14; 52%).
 
 `PRON` tokens may have the following values of `ExtPos`:
 
-* `ADP` (3; 12% of non-empty `ExtPos`): <em>що</em>
+* `ADP` (4; 15% of non-empty `ExtPos`): <em>що</em>
 * `ADV` (4; 15% of non-empty `ExtPos`): <em>все, сама, тим</em>
-* `CCONJ` (3; 12% of non-empty `ExtPos`): <em>тим</em>
-* `DET` (2; 8% of non-empty `ExtPos`): <em>Що, ніщо</em>
+* `CCONJ` (3; 11% of non-empty `ExtPos`): <em>тим</em>
+* `DET` (2; 7% of non-empty `ExtPos`): <em>Що, ніщо</em>
 * `INTJ` (1; 4% of non-empty `ExtPos`): <em>їй</em>
-* `PRON` (11; 42% of non-empty `ExtPos`): <em>один</em>
-* `SCONJ` (2; 8% of non-empty `ExtPos`): <em>Тим</em>
+* `PRON` (11; 41% of non-empty `ExtPos`): <em>один</em>
+* `SCONJ` (2; 7% of non-empty `ExtPos`): <em>Тим</em>
 
 <table>
   <tr><th>Paradigm <i>те</i></th><th><tt>ADV</tt></th><th><tt>CCONJ</tt></th><th><tt>SCONJ</tt></th></tr>
@@ -174,5 +176,7 @@ The most frequent other feature values with which `X` and `ExtPos` co-occurred: 
 ## Relations with Agreement in `ExtPos`
 
 The 10 most frequent relations where parent and child node agree in `ExtPos`:
-<tt>VERB --[<tt><a href="uk_parlamint-dep-flat-repeat.html">flat:repeat</a></tt>]--> VERB</tt> (2; 100%).
+<tt>VERB --[<tt><a href="uk_parlamint-dep-flat-repeat.html">flat:repeat</a></tt>]--> VERB</tt> (2; 100%),
+<tt>ADP --[<tt><a href="uk_parlamint-dep-conj.html">conj</a></tt>]--> ADP</tt> (1; 100%),
+<tt>ADP --[<tt><a href="uk_parlamint-dep-reparandum.html">reparandum</a></tt>]--> ADP</tt> (1; 100%).
 

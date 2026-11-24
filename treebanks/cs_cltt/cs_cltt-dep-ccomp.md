@@ -23,10 +23,10 @@ The following 6 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 3	fgColor:white
 # visual-style 3 5 ccomp	color:blue
 1	Průběh	průběh	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	3:nsubj	_
-2	používání	používání	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing	1	nmod	1:nmod:gen	_
-3	může	moci	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	používání	používání	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|VerbForm=Vnoun	1	nmod	1:nmod:gen	_
+3	může	moci	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 4	být	být	AUX	Vf--------A----	Aspect=Imp|Polarity=Pos|VerbForm=Inf	5	aux:pass	5:aux:pass	_
-5	vyjádřen	vyjádřený	ADJ	VsYS---XX-AP---	Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	3	ccomp	3:ccomp	LDeriv=vyjádřit
+5	vyjádřen	vyjádřený	ADJ	VsYS---XX-AP---	Aspect=Perf|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	3	ccomp	3:ccomp	LDeriv=vyjádřit
 6	i	i	CCONJ	J^-------------	_	7	advmod:emph	7:advmod:emph	LId=i-1
 7	jinak	jinak	ADV	Db-------------	_	5	advmod	5:advmod	_
 8	než	než	SCONJ	J,-------------	_	10	mark	10:mark	LId=než-2
@@ -52,16 +52,16 @@ The following 6 pairs of parts of speech are connected with `ccomp`: <tt><a href
 1	Ostatní	ostatní	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	3	amod	3:amod	_
 2	účetní	účetní	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	3	amod	3:amod	LId=účetní-1
 3	jednotky	jednotka	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur	4	nsubj	4:nsubj	_
-4	stanoví	stanovit	VERB	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
+4	stanoví	stanovit	VERB	VB-P---3P-AA---	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
 5	,	,	PUNCT	Z:-------------	_	8	punct	8:punct	_
 6	zda	zda	SCONJ	J,-------------	_	8	mark	8:mark	_
 7	budou	být	AUX	VB-P---3F-AA---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	8	aux	8:aux|13:aux	_
-8	účtovat	účtovat	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	4	ccomp	4:ccomp	_
+8	účtovat	účtovat	VERB	Vf--------A----	Aspect=Imp|Polarity=Pos|VerbForm=Inf	4	ccomp	4:ccomp	_
 9	o	o	ADP	RR--6----------	AdpType=Prep|Case=Loc	11	case	11:case	LId=o-1
-10	odložené	odložený	ADJ	AAFS6----1A----	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	11	amod	11:amod	_
+10	odložené	odložený	ADJ	AAFS6----1A----	Aspect=Perf|Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	11	amod	11:amod	_
 11	dani	daň	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing	8	obl:arg	8:obl:arg:o:loc	_
 12	a	a	CCONJ	J^-------------	_	13	cc	13:cc	LId=a-1
-13	vykazovat	vykazovat	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	8	conj	4:ccomp|8:conj	_
+13	vykazovat	vykazovat	VERB	Vf--------A----	Aspect=Imp|Polarity=Pos|VerbForm=Inf	8	conj	4:ccomp|8:conj	_
 14	ji	on	PRON	PPFS4--3-------	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	13	obj	13:obj	SpaceAfter=No|LId=on-1
 15	.	.	PUNCT	Z:-------------	_	4	punct	4:punct	_
 
@@ -88,18 +88,18 @@ The following 6 pairs of parts of speech are connected with `ccomp`: <tt><a href
 12	není	být	AUX	VB-S---3P-NA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	15	aux:pass	15:aux:pass	SpaceAfter=No
 13	-	-	PUNCT	Z:-------------	_	15	punct	15:punct	SpaceAfter=No
 14	li	li	PART	TT-------------	_	15	mark	15:mark	_
-15	dodrženo	dodržený	ADJ	VsNS---XX-AP---	Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	10	advcl	10:advcl:li	LDeriv=dodržet
-16	ustanovení	ustanovení	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing	15	nsubj:pass	15:nsubj:pass	_
+15	dodrženo	dodržený	ADJ	VsNS---XX-AP---	Aspect=Perf|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	10	advcl	10:advcl:li	LDeriv=dodržet
+16	ustanovení	ustanovení	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Vnoun	15	nsubj:pass	15:nsubj:pass	_
 17	§_33_odst._7	§_33_odst._7	X	X@-------------	_	16	nmod	16:nmod	SpaceAfter=No
 18	,	,	PUNCT	Z:-------------	_	10	punct	10:punct	_
 19	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	20	expl:pass	20:expl:pass	_
-20	pohlíží	pohlížet	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
+20	pohlíží	pohlížet	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
 21	,	,	PUNCT	Z:-------------	_	26	punct	26:punct	_
-22	jakoby	jakoby	SCONJ	J,-------------	_	26	mark	26:mark	LId=jakoby-1
+22	jakoby	jakoby	ADV	J,-------------	_	26	advmod	26:advmod	LId=jakoby-1
 23	je	být	AUX	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	26	ccomp	26:ccomp	_
 24	účetní	účetní	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	25	amod	25:amod	LId=účetní-1
 25	jednotky	jednotka	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur	26	nsubj	26:nsubj	_
-26	nevedly	vést	VERB	VpTP---XR-NA---	Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act	20	advcl	20:advcl:jako	SpaceAfter=No|LId=vést-1
+26	nevedly	vést	VERB	VpTP---XR-NA---	Animacy=Inan|Aspect=Imp|Gender=Fem,Masc|Number=Plur|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act	20	advcl	20:advcl	SpaceAfter=No|LId=vést-1
 27	.	.	PUNCT	Z:-------------	_	20	punct	20:punct	_
 
 ~~~

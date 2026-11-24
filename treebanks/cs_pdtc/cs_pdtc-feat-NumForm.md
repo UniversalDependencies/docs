@@ -32,11 +32,11 @@ The most frequent other feature values with which `NUM` and `NumForm` co-occurre
 
 The 10 most frequent relations where parent and child node agree in `NumForm`:
 <tt>NUM --[<tt><a href="cs_pdtc-dep-compound.html">compound</a></tt>]--> NUM</tt> (5837; 67%),
-<tt>NUM --[<tt><a href="cs_pdtc-dep-conj.html">conj</a></tt>]--> NUM</tt> (5698; 99%),
+<tt>NUM --[<tt><a href="cs_pdtc-dep-conj.html">conj</a></tt>]--> NUM</tt> (5700; 99%),
 <tt>NUM --[<tt><a href="cs_pdtc-dep-orphan.html">orphan</a></tt>]--> NUM</tt> (34; 89%),
 <tt>NUM --[<tt><a href="cs_pdtc-dep-dep.html">dep</a></tt>]--> NUM</tt> (30; 83%),
 <tt>NUM --[<tt><a href="cs_pdtc-dep-parataxis.html">parataxis</a></tt>]--> NUM</tt> (10; 100%),
+<tt>NUM --[<tt><a href="cs_pdtc-dep-appos.html">appos</a></tt>]--> NUM</tt> (8; 80%),
 <tt>NUM --[<tt><a href="cs_pdtc-dep-nsubj.html">nsubj</a></tt>]--> NUM</tt> (5; 71%),
-<tt>NUM --[<tt><a href="cs_pdtc-dep-appos.html">appos</a></tt>]--> NUM</tt> (2; 100%),
-<tt>NUM --[<tt><a href="cs_pdtc-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (1; 100%).
+<tt>NUM --[<tt><a href="cs_pdtc-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (2; 67%).
 

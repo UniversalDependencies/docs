@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-490 nodes (4%) are attached to their parents as `obl`.
+563 nodes (4%) are attached to their parents as `obl`.
 
-467 instances of `obl` (95%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.39795918367347.
+535 instances of `obl` (95%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.43339253996448.
 
-The following 15 pairs of parts of speech are connected with `obl`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (318; 65% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> (60; 12% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-ADP.html">ADP</a></tt> (44; 9% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt> (27; 6% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (15; 3% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (10; 2% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-ADJ.html">ADJ</a></tt> (6; 1% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ab_abnc-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ab_abnc-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ab_abnc-pos-NUM.html">NUM</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `obl`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (355; 63% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> (65; 12% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-ADP.html">ADP</a></tt> (49; 9% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt> (47; 8% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (15; 3% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (14; 2% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-ADJ.html">ADJ</a></tt> (7; 1% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ab_abnc-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ab_abnc-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ab_abnc-pos-NUM.html">NUM</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -24,7 +24,7 @@ The following 15 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 7 5 obl	color:blue
 1	аҵабырг	а-ҵа́бырг	NOUN	Noun_NH_Sg_Det	Animacy=Nhum|Definite=Def|Number=Sing	3	obj	_	LMSeg:а-ҵа́бырг
 2	мҩа	а́-мҩа	NOUN	Noun_NH_Sg	Animacy=Nhum|Number=Sing	3	xcomp	_	LMSeg:а́-мҩа
-3	иқәиҵарц	а́-қәҵара	VERB	V_Dyn_Tr_NonFin_Purp_S:3SgM_DO:3	Dyn=Yes|Gender[subj]=Masc|Mood=Prp|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|VerbForm=NonFin	0	root	_	LMSeg:а́-қә·ҵа-ра
+3	иқәиҵарц	а́-қәҵара	VERB	V_Dyn_Tr_NonFin_Purp_S:3SgM_DO:3_LO:3SgM	Dyn=Yes|Gender[lo]=Masc|Gender[subj]=Masc|Mood=Prp|Number[lo]=Sing|Number[subj]=Sing|Person[lo]=3|Person[obj]=3|Person[subj]=3|Subcat=Tran|VerbForm=NonFin	0	root	_	LMSeg:а́-қә·ҵа-ра
 4	ари	ари́	PRON	Pron_Dem_Prox_Sg	Number=Sing|PronType=Dem	5	det	_	LMSeg:ари́
 5	адгьыл	а́дгьыл	NOUN	Noun_NH_Sg_[Det]	Animacy=Nhum|Number=Sing	7	obl	_	LMSeg:а́дгьыл
 6	ахь	а́хь	ADP	PP_Poss:3SgNH	Gender[psor]=Neut|Number[psor]=Sing|Person[psor]=3	5	case	_	LMSeg:а́хь

@@ -12,7 +12,7 @@ There are 1 language-specific subtypes of `acl`: <tt><a href="fr_sequoia-dep-acl
 1070 nodes (2%) are attached to their parents as `acl`.
 
 1066 instances of `acl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.11869158878505.
+Average distance between parent and child is 3.1196261682243.
 
 The following 12 pairs of parts of speech are connected with `acl`: <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (1004; 94% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (35; 3% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (17; 2% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-SYM.html">SYM</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
@@ -27,7 +27,7 @@ The following 12 pairs of parts of speech are connected with `acl`: <tt><a href=
 2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
 3	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	risque	risque	NOUN	_	Gender=Masc|Number=Sing	1	nsubj	_	Exponence[Gender]=Inherent
-5	associé	associer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	4	acl	_	Tense[denom]=Past
+5	associé	associer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	acl	_	Status[Tense]=Denom
 6	à	à	ADP	_	_	8	case	_	_
 7	l'	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	Exponence[Gender]=Absent|SpaceAfter=No
 8	utilisation	utilisation	NOUN	_	Gender=Fem|Number=Sing	5	obl:arg	_	Exponence[Gender]=Inherent
@@ -57,7 +57,7 @@ The following 12 pairs of parts of speech are connected with `acl`: <tt><a href=
 11	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	RPR	RPR	PROPN	_	_	8	nmod	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	6	punct	_	_
-14	décédé	décéder	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	2	acl	_	SpaceAfter=No|Tense[denom]=Past
+14	décédé	décéder	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	SpaceAfter=No|Status[Tense]=Denom
 15	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
@@ -73,7 +73,7 @@ The following 12 pairs of parts of speech are connected with `acl`: <tt><a href=
 2	Irakiens	irakien	NOUN	_	Gender=Masc|Number=Plur	5	nsubj	_	Exponence[Gender]=Inherent
 3	lui	lui	PRON	_	Case=Dat|Emph=No|Number=Sing|Person=3|PronType=Prs	5	iobj	_	_
 4	avaient	avoir	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	5	aux:tense	_	_
-5	plongé	plonger	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	Tense[denom]=Past
+5	plongé	plonger	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	Status[Tense]=Denom
 6	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	tête	tête	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	Exponence[Gender]=Inherent
 8	dans	dans	ADP	_	_	10	case	_	_
@@ -87,7 +87,7 @@ The following 12 pairs of parts of speech are connected with `acl`: <tt><a href=
 16	il	lui	PRON	_	Case=Nom|Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	nsubj:pass	_	_
 17	soit	être	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	aux:pass	_	_
 18	presque	presque	ADV	_	_	19	advmod	_	_
-19	noyé	noyer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	14	acl	_	SpaceAfter=No|Tense[denom]=Past
+19	noyé	noyer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	14	acl	_	SpaceAfter=No|Status[Tense]=Denom
 20	.	.	PUNCT	_	_	14	punct	_	_
 
 ~~~

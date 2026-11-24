@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: <tt><a href="eo_prago-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-13 nodes (0%) are attached to their parents as `acl`.
+14 nodes (0%) are attached to their parents as `acl`.
 
-12 instances of `acl` (92%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.15384615384615.
+13 instances of `acl` (93%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.07142857142857.
 
-The following 2 pairs of parts of speech are connected with `acl`: <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> (12; 92% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> (1; 8% instances).
+The following 2 pairs of parts of speech are connected with `acl`: <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> (13; 93% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> (1; 7% instances).
 
 
 ~~~ conllu

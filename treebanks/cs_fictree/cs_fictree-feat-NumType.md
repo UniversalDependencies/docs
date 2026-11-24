@@ -7,31 +7,30 @@ udver: '2'
 ## Treebank Statistics: UD_Czech-FicTree: Features: `NumType`
 
 This feature is universal.
-It occurs with 5 different values: `Card`, `Frac`, `Mult`, `Ord`, `Sets`.
+It occurs with 4 different values: `Card`, `Mult`, `Ord`, `Sets`.
 
-2137 tokens (1%) have a non-empty value of `NumType`.
-301 types (1%) occur at least once with a non-empty value of `NumType`.
-157 lemmas (1%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 4 part-of-speech tags: <tt><a href="cs_fictree-pos-NUM.html">NUM</a></tt> (1313; 1% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (360; 0% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (323; 0% instances), <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (141; 0% instances).
+2128 tokens (1%) have a non-empty value of `NumType`.
+298 types (1%) occur at least once with a non-empty value of `NumType`.
+154 lemmas (1%) occur at least once with a non-empty value of `NumType`.
+The feature is used with 4 part-of-speech tags: <tt><a href="cs_fictree-pos-NUM.html">NUM</a></tt> (1308; 1% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (360; 0% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (319; 0% instances), <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (141; 0% instances).
 
 ### `NUM`
 
-1313 <tt><a href="cs_fictree-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
+1308 <tt><a href="cs_fictree-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="cs_fictree-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (1237; 94%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (846; 64%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (740; 56%).
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="cs_fictree-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (1237; 95%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (841; 64%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (739; 56%).
 
 `NUM` tokens may have the following values of `NumType`:
 
 * `Card` (1308; 100% of non-empty `NumType`): <em>pár, jeden, dva, dvě, jednoho, tři, jedna, jednu, oba, čtyři</em>
-* `Frac` (5; 0% of non-empty `NumType`): <em>desetin, čtvrtiny, třetinu</em>
 
-`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (95) occur only with one value of `NumType`.
+`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (92) occur only with one value of `NumType`.
 
 ### `ADJ`
 
 360 <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> tokens (3% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="cs_fictree-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (360; 100%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (360; 100%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (328; 91%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (201; 56%).
+The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="cs_fictree-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (360; 100%), <tt><a href="cs_fictree-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (360; 100%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (360; 100%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (328; 91%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (201; 56%).
 
 `ADJ` tokens may have the following values of `NumType`:
 
@@ -44,13 +43,13 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 ### `DET`
 
-323 <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> tokens (4% of all `DET` tokens) have a non-empty value of `NumType`.
+319 <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> tokens (4% of all `DET` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (323; 100%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (323; 100%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (323; 100%), <tt><a href="cs_fictree-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (323; 100%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (323; 100%), <tt><a href="cs_fictree-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (323; 100%), <tt><a href="cs_fictree-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (217; 67%), <tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Acc</tt> (167; 52%).
+The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (319; 100%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (319; 100%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (319; 100%), <tt><a href="cs_fictree-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (319; 100%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (319; 100%), <tt><a href="cs_fictree-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (319; 100%), <tt><a href="cs_fictree-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (213; 67%), <tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Acc</tt> (163; 51%).
 
 `DET` tokens may have the following values of `NumType`:
 
-* `Card` (323; 100% of non-empty `NumType`): <em>několik, tolik, kolik, několika, mnoho, hodně, moc, víc, málo, mnoha</em>
+* `Card` (319; 100% of non-empty `NumType`): <em>několik, tolik, kolik, několika, mnoho, hodně, moc, víc, málo, mnoha</em>
 * `EMPTY` (8112): <em>to, jeho, který, ten, které, která, tom, všechno, toho, své</em>
 
 `NumType` seems to be **lexical feature** of `DET`. 100% lemmas (11) occur only with one value of `NumType`.
@@ -65,7 +64,7 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 
 * `Mult` (113; 80% of non-empty `NumType`): <em>jednou, dvakrát, kolikrát, několikrát, třikrát, párkrát, mnohokrát, tolikrát, pětkrát, stokrát</em>
 * `Ord` (28; 20% of non-empty `NumType`): <em>poprvé, podruhé, popáté, potřetí, popadesáté, posté, potisící</em>
-* `EMPTY` (10811): <em>už, tak, jak, ještě, pak, tam, proč, teď, nikdy, kde</em>
+* `EMPTY` (11077): <em>tak, už, jak, ještě, pak, tam, proč, teď, nikdy, kde</em>
 
 `NumType` seems to be **lexical feature** of `ADV`. 100% lemmas (23) occur only with one value of `NumType`.
 

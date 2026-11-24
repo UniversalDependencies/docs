@@ -22,7 +22,7 @@ The following 10 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 1 mark	color:blue
-1	Nítorí	nítorí	SCONJ	_	_	5	mark	_	Gloss=for|Ref=JOHN_10.19
+1	Nítorí	nítorí	SCONJ	_	ExtPos=SCONJ	5	mark	_	Gloss=for|Ref=JOHN_10.19
 2	náà	náà	ADV	_	_	1	fixed	_	Gloss=that|Ref=JOHN_10.19
 3	ìyapa	ìyapa	NOUN	_	_	5	nsubj	_	Gloss=separation|Ref=JOHN_10.19
 4	tún	tún	ADV	_	_	5	advmod	_	Gloss=again|Ref=JOHN_10.19
@@ -32,7 +32,7 @@ The following 10 pairs of parts of speech are connected with `mark`: <tt><a href
 8	Júù	júù	PROPN	_	_	5	obl	_	Gloss=jews|Ref=JOHN_10.19
 9	nítorí	nítorí	SCONJ	_	_	10	case	_	Gloss=because|Ref=JOHN_10.19
 10	ọ̀rọ̀	ọ̀rọ̀	NOUN	_	_	5	obl	_	Gloss=word|Ref=JOHN_10.19
-11	wọ̀nyí	wọ̀nyí	DET	_	_	10	det	_	Gloss=these|Ref=JOHN_10.19|SpaceAfter=No
+11	wọ̀nyí	wọ̀nyí	DET	_	PronType=Dem	10	det	_	Gloss=these|Ref=JOHN_10.19|SpaceAfter=No
 12	.	.	PUNCT	_	_	5	punct	_	Gloss=.|Ref=JOHN_10.19
 
 ~~~
@@ -44,10 +44,10 @@ The following 10 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 4 mark	color:blue
-1	Òun	Òun	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=he|Ref=JOHN_10.13
+1	Òun	òun	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=he|Ref=JOHN_10.13
 2	sá	sá	VERB	_	_	0	root	_	Gloss=fled|Ref=JOHN_10.13
 3	lọ	lọ	VERB	_	_	2	compound:svc	_	Gloss=go|Ref=JOHN_10.13
-4	nítorí	nítorí	SCONJ	_	_	8	mark	_	Gloss=because|Ref=JOHN_10.13
+4	nítorí	nítorí	SCONJ	_	ExtPos=SCONJ	8	mark	_	Gloss=because|Ref=JOHN_10.13
 5	tí	tí	PRON	_	PronType=Rel	4	fixed	_	Gloss=that|Ref=JOHN_10.13
 6	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	Gloss=he|Ref=JOHN_10.13
 7	jẹ́	jẹ́	AUX	_	_	8	cop	_	Gloss=be|Ref=JOHN_10.13
@@ -69,7 +69,7 @@ The following 10 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 7 mark	color:blue
-1	Wọ́n	Wọ́n	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	Gloss=they|Ref=JOHN_10.39
+1	Wọ́n	wọ́n	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	Gloss=they|Ref=JOHN_10.39
 2	sì	sì	CCONJ	_	_	5	cc	_	Gloss=then|Ref=JOHN_10.39
 3	tún	tún	ADV	_	_	5	advmod	_	Gloss=again|Ref=JOHN_10.39
 4	ń	ń	AUX	_	_	5	aux	_	Gloss=is|Ref=JOHN_10.39

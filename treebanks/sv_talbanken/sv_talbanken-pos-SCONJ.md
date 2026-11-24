@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Swedish-Talbanken: POS Tags: `SCONJ`
 
-There are 23 `SCONJ` lemmas (0%), 23 `SCONJ` types (0%) and 2236 `SCONJ` tokens (2%).
+There are 23 `SCONJ` lemmas (0%), 23 `SCONJ` types (0%) and 2224 `SCONJ` tokens (2%).
 Out of 17 observed tags, the rank of `SCONJ` is: 11 in number of lemmas, 12 in number of types and 11 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>att, som, om, än, när, eftersom, innan, då, medan, sedan</em>
 
 The 10 most frequent `SCONJ` types:  <em>att, som, om, än, när, eftersom, innan, då, medan, sedan</em>
 
-The 10 most frequent ambiguous lemmas: <em>att</em> (<tt><a href="sv_talbanken-pos-PART.html">PART</a></tt> 1128, <tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> 971), <em>som</em> (<tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> 1117, <tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> 388, <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> 65, <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 28, <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> 19), <em>om</em> (<tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> 427, <tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> 319, <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 7), <em>än</em> (<tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> 203, <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 16), <em>när</em> (<tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> 191, <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 15), <em>eftersom</em> (<tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> 43, <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> 1), <em>då</em> (<tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 116, <tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> 26), <em>sedan</em> (<tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 49, <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> 16, <tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> 10), <em>tills</em> (<tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> 6, <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> 1), <em>fast</em> (<tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> 11, <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 8, <tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> 5, <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> 4)
+The 10 most frequent ambiguous lemmas: <em>att</em> (<tt><a href="sv_talbanken-pos-PART.html">PART</a></tt> 1128, <tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> 971), <em>som</em> (<tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> 1117, <tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> 376, <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> 80, <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 28, <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> 16), <em>om</em> (<tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> 427, <tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> 319, <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 7), <em>än</em> (<tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> 203, <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 16), <em>när</em> (<tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> 191, <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 15), <em>eftersom</em> (<tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> 43, <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> 1), <em>då</em> (<tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 116, <tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> 26), <em>sedan</em> (<tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 49, <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> 16, <tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> 10), <em>tills</em> (<tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> 6, <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> 1), <em>fast</em> (<tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> 11, <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 8, <tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> 5, <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> 4)
 
-The 10 most frequent ambiguous types:  <em>att</em> (<tt><a href="sv_talbanken-pos-PART.html">PART</a></tt> 1103, <tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> 951), <em>som</em> (<tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> 1117, <tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> 370, <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> 60, <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 28, <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> 19, <tt><a href="sv_talbanken-pos-X.html">X</a></tt> 1), <em>om</em> (<tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> 420, <tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> 228, <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 7), <em>än</em> (<tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> 203, <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 16), <em>när</em> (<tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> 126, <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 12), <em>då</em> (<tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 89, <tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> 24), <em>sedan</em> (<tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 43, <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> 13, <tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> 4), <em>tills</em> (<tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> 6, <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> 1), <em>fast</em> (<tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> 9, <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 7, <tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> 5, <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> 2), <em>liksom</em> (<tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> 8, <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 5, <tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> 3)
+The 10 most frequent ambiguous types:  <em>att</em> (<tt><a href="sv_talbanken-pos-PART.html">PART</a></tt> 1103, <tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> 951), <em>som</em> (<tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> 1117, <tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> 358, <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> 75, <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 28, <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> 16, <tt><a href="sv_talbanken-pos-X.html">X</a></tt> 1), <em>om</em> (<tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> 420, <tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> 228, <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 7), <em>än</em> (<tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> 203, <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 16), <em>när</em> (<tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> 126, <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 12), <em>då</em> (<tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 89, <tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> 24), <em>sedan</em> (<tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 43, <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> 13, <tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> 4), <em>tills</em> (<tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> 6, <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> 1), <em>fast</em> (<tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> 9, <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 7, <tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> 5, <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> 2), <em>liksom</em> (<tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> 8, <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 5, <tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> 3)
 
 
 * <em>att</em>
@@ -23,10 +23,10 @@ The 10 most frequent ambiguous types:  <em>att</em> (<tt><a href="sv_talbanken-p
   * <tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> 951: <em>De kräver också <b>att</b> varje kvinna ska gifta sig nära nog utan undantag .</em>
 * <em>som</em>
   * <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> 1117: <em>Två huvudfaktorer kan urskiljas <b>som</b> förklarar men inte ursäktar :</em>
-  * <tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> 370: <em>Den olika könsrollen <b>som</b> barnavårdare och uppfostrare .</em>
-  * <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> 60: <em>De som vill det är säkert lika lämpliga <b>som</b> kvinnorna .</em>
+  * <tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> 358: <em>Den olika könsrollen <b>som</b> barnavårdare och uppfostrare .</em>
+  * <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> 75: <em>De som vill det är säkert lika lämpliga <b>som</b> kvinnorna .</em>
   * <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 28: <em>Det är i detta sammanhang <b>som</b> aposteln Paulus yttrar sitt berömda :</em>
-  * <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> 19: <em>Såväl folkpensioneringen <b>som</b> ATP ger möjligheter till följande förmåner :</em>
+  * <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> 16: <em>Såväl folkpensioneringen <b>som</b> ATP ger möjligheter till följande förmåner :</em>
   * <tt><a href="sv_talbanken-pos-X.html">X</a></tt> 1: <em>Allt efter <b>som</b> prisläget förändras , ändras också basbeloppet .</em>
 * <em>om</em>
   * <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> 420: <em>Vilken uppfattning har mannen <b>om</b> kvinnans ' rätta plats ' i hemmet ?</em>
@@ -60,7 +60,7 @@ The 10 most frequent ambiguous types:  <em>att</em> (<tt><a href="sv_talbanken-p
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.424934).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.425064).
 
 The 1st highest number of forms (1) was observed with the lemma “allteftersom”: <em>allteftersom</em>.
 
@@ -68,24 +68,18 @@ The 2nd highest number of forms (1) was observed with the lemma “att”: <em>a
 
 The 3rd highest number of forms (1) was observed with the lemma “den”: <em>det</em>.
 
-`SCONJ` occurs with 1 features: <tt><a href="sv_talbanken-feat-ExtPos.html">ExtPos</a></tt> (12; 1% instances)
-
-`SCONJ` occurs with 1 feature-value pairs: `ExtPos=ADV`
-
-`SCONJ` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (2224 tokens).
-Examples: <em>att, som, om, än, när, eftersom, innan, då, medan, sedan</em>
+`SCONJ` does not occur with any features.
 
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 6 different relations: <tt><a href="sv_talbanken-dep-mark.html">mark</a></tt> (2074; 93% instances), <tt><a href="sv_talbanken-dep-case.html">case</a></tt> (121; 5% instances), <tt><a href="sv_talbanken-dep-fixed.html">fixed</a></tt> (25; 1% instances), <tt><a href="sv_talbanken-dep-advmod.html">advmod</a></tt> (12; 1% instances), <tt><a href="sv_talbanken-dep-advcl.html">advcl</a></tt> (3; 0% instances), <tt><a href="sv_talbanken-dep-cc.html">cc</a></tt> (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 5 different relations: <tt><a href="sv_talbanken-dep-mark.html">mark</a></tt> (2074; 93% instances), <tt><a href="sv_talbanken-dep-case.html">case</a></tt> (121; 5% instances), <tt><a href="sv_talbanken-dep-fixed.html">fixed</a></tt> (25; 1% instances), <tt><a href="sv_talbanken-dep-advcl.html">advcl</a></tt> (3; 0% instances), <tt><a href="sv_talbanken-dep-cc.html">cc</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 9 different parts of speech: <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (1423; 64% instances), <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (420; 19% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (247; 11% instances), <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> (86; 4% instances), <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (36; 2% instances), <tt><a href="sv_talbanken-pos-PROPN.html">PROPN</a></tt> (17; 1% instances), <tt><a href="sv_talbanken-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 8 different parts of speech: <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (1423; 64% instances), <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (420; 19% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (247; 11% instances), <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> (81; 4% instances), <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (33; 1% instances), <tt><a href="sv_talbanken-pos-PROPN.html">PROPN</a></tt> (17; 1% instances), <tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> (1; 0% instances)
 
-2217 (99%) `SCONJ` nodes are leaves.
+2217 (100%) `SCONJ` nodes are leaves.
 
-17 (1%) `SCONJ` nodes have one child.
+5 (0%) `SCONJ` nodes have one child.
 
 0 (0%) `SCONJ` nodes have two children.
 
@@ -93,7 +87,7 @@ Parents of `SCONJ` nodes belong to 9 different parts of speech: <tt><a href="sv_
 
 The highest child degree of a `SCONJ` node is 3.
 
-Children of `SCONJ` nodes are attached using 5 different relations: <tt><a href="sv_talbanken-dep-fixed.html">fixed</a></tt> (12; 52% instances), <tt><a href="sv_talbanken-dep-advmod.html">advmod</a></tt> (4; 17% instances), <tt><a href="sv_talbanken-dep-obl.html">obl</a></tt> (3; 13% instances), <tt><a href="sv_talbanken-dep-cop.html">cop</a></tt> (2; 9% instances), <tt><a href="sv_talbanken-dep-nsubj.html">nsubj</a></tt> (2; 9% instances)
+Children of `SCONJ` nodes are attached using 4 different relations: <tt><a href="sv_talbanken-dep-advmod.html">advmod</a></tt> (4; 36% instances), <tt><a href="sv_talbanken-dep-obl.html">obl</a></tt> (3; 27% instances), <tt><a href="sv_talbanken-dep-cop.html">cop</a></tt> (2; 18% instances), <tt><a href="sv_talbanken-dep-nsubj.html">nsubj</a></tt> (2; 18% instances)
 
-Children of `SCONJ` nodes belong to 5 different parts of speech: <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> (16; 70% instances), <tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> (2; 9% instances), <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (2; 9% instances), <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (2; 9% instances), <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> (1; 4% instances)
+Children of `SCONJ` nodes belong to 5 different parts of speech: <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> (4; 36% instances), <tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> (2; 18% instances), <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (2; 18% instances), <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (2; 18% instances), <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> (1; 9% instances)
 

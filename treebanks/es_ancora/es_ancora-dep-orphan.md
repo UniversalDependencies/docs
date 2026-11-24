@@ -29,7 +29,7 @@ The following 1 pairs of parts of speech are connected with `orphan`: <tt><a hre
 5	trabajó	trabajar	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 6	en	en	ADP	sps00	_	8	case	8:case	_
 7	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	8:det	Entity=(NOCOREF:Spec.organization-organization-2-gstype:spec
-8	Instituto	Instituto	NOUN	np00000	_	5	obl	5:obl	MWE=Instituto_de_Ciencias_Sociales_de_Belgrado|MWEPOS=PROPN|ArgTem=argM:loc
+8	Instituto	Instituto	NOUN	np00000	_	5	obl	5:obl	ArgTem=argM:loc|MWE=Instituto_de_Ciencias_Sociales_de_Belgrado|MWEPOS=PROPN
 9	de	de	ADP	_	_	10	case	10:case	_
 10	Ciencias	Ciencias	NOUN	_	_	8	nmod	8:nmod	_
 11	Sociales	social	ADJ	aq0cp0	Number=Plur	10	amod	10:amod	_

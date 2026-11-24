@@ -1669,7 +1669,7 @@ udver: '2'
             <li>VERB--NOUN-Acc (22)</li>
             <li>VERB--NOUN-Acc-ADP(குறித்து) (1)</li>
             <li>VERB--NOUN-Acc-ADP(பற்றி) (1)</li>
-            <li>VERB--NOUN-Nom (61)</li>
+            <li>VERB--NOUN-Nom (59)</li>
             <li>VERB--PRON (3)</li>
             <li>VERB--PRON-Acc (17)</li>
             <li>VERB-Conv--NOUN-Acc (8)</li>

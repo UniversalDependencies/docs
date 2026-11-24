@@ -20,4 +20,4 @@ Middle Persian tends to begin sentences with _ud_ "and", which can also link a s
 The word _bē_ can appear as both the junctor "but" and the [adverb](ADV) "however".<br>
 The enclitic _=iz_ is an additive particle, which conveys the meaning "also, and" but also appears as a focus marker.
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:35 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:26 CET -->

@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (256; 100% of non-empty `Foreign`): <em>luxe, nepusto, pusto, generis, vitro, excellence, homo, lege, peeling, Buch</em>
-* `EMPTY` (135926): <em>práce, roce, let, práci, roku, oblasti, době, společnosti, hlediska, činnosti</em>
+* `EMPTY` (135986): <em>práce, roce, let, práci, roku, oblasti, době, společnosti, hlediska, činnosti</em>
 
 `Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (203) occur only with one value of `Foreign`.
 
@@ -31,7 +31,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 
 115 <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `ADJ` and `Foreign` co-occurred: <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (115; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (115; 100%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (114; 99%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (114; 99%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (102; 89%), <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (82; 71%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (79; 69%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (76; 66%).
+The most frequent other feature values with which `ADJ` and `Foreign` co-occurred: <tt><a href="cs_cac-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (115; 100%), <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (115; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (115; 100%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (114; 99%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (114; 99%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (102; 89%), <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (82; 71%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (79; 69%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (76; 66%).
 
 `ADJ` tokens may have the following values of `Foreign`:
 
@@ -92,7 +92,7 @@ The most frequent other feature values with which `ADV` and `Foreign` co-occurre
 `ADV` tokens may have the following values of `Foreign`:
 
 * `Yes` (9; 100% of non-empty `Foreign`): <em>explicite, quo, defacto, expost, innuce, ipsofacto, theory</em>
-* `EMPTY` (28066): <em>tak, také, jak, proto, již, už, ještě, pak, kde, tedy</em>
+* `EMPTY` (28285): <em>tak, také, jak, proto, již, už, ještě, pak, kde, tedy</em>
 
 ### `PRON`
 
@@ -134,7 +134,7 @@ The most frequent other feature values with which `DET` and `Foreign` co-occurre
 `CCONJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (3; 100% of non-empty `Foreign`): <em>et, and</em>
-* `EMPTY` (24212): <em>a, i, nebo, ale, však, ani, či, tak, neboť, jednak</em>
+* `EMPTY` (23993): <em>a, i, nebo, ale, však, ani, či, neboť, jednak, avšak</em>
 
 ## Relations with Agreement in `Foreign`
 

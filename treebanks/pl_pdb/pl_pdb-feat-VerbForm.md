@@ -60,7 +60,7 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 `ADJ` tokens may have the following values of `VerbForm`:
 
 * `Part` (6762; 100% of non-empty `VerbForm`): <em>dotyczące, dotyczących, związane, ubrany, określonych, związanych, przeznaczone, przedstawione, ubrana, dotyczącego</em>
-* `EMPTY` (29164): <em>innych, jeden, sam, inne, europejskiej, pierwszy, różnych, jednym, cały, 1</em>
+* `EMPTY` (29192): <em>innych, jeden, sam, inne, europejskiej, pierwszy, różnych, jednym, cały, 1</em>
 
 `VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (2131) occur only with one value of `VerbForm`.
 
@@ -125,7 +125,7 @@ The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<tt><a href="pl_pdb-dep-conj.html">conj</a></tt>]--> VERB</tt> (4848; 99%),
 <tt>VERB --[<tt><a href="pl_pdb-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1495; 51%),
 <tt>VERB --[<tt><a href="pl_pdb-dep-parataxis-obj.html">parataxis:obj</a></tt>]--> VERB</tt> (1272; 97%),
-<tt>VERB --[<tt><a href="pl_pdb-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1110; 83%),
+<tt>VERB --[<tt><a href="pl_pdb-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1109; 83%),
 <tt>VERB --[<tt><a href="pl_pdb-dep-aux.html">aux</a></tt>]--> AUX</tt> (517; 68%),
 <tt>VERB --[<tt><a href="pl_pdb-dep-ccomp-obj.html">ccomp:obj</a></tt>]--> VERB</tt> (497; 79%),
 <tt>VERB --[<tt><a href="pl_pdb-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (174; 98%),

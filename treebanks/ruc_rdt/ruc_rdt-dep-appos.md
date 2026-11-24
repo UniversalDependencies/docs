@@ -8,12 +8,32 @@ udver: '2'
 
 This relation is universal.
 
-12 nodes (0%) are attached to their parents as `appos`.
+37 nodes (0%) are attached to their parents as `appos`.
 
-12 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.41666666666667.
+37 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.67567567567568.
 
-The following 6 pairs of parts of speech are connected with `appos`: <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt> (4; 33% instances), <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-PRON.html">PRON</a></tt> (2; 17% instances), <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-PROPN.html">PROPN</a></tt> (2; 17% instances), <tt><a href="ruc_rdt-pos-PRON.html">PRON</a></tt>-<tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt> (2; 17% instances), <tt><a href="ruc_rdt-pos-PRON.html">PRON</a></tt>-<tt><a href="ruc_rdt-pos-PROPN.html">PROPN</a></tt> (1; 8% instances), <tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt>-<tt><a href="ruc_rdt-pos-PROPN.html">PROPN</a></tt> (1; 8% instances).
+The following 11 pairs of parts of speech are connected with `appos`: <tt><a href="ruc_rdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ruc_rdt-pos-PROPN.html">PROPN</a></tt> (12; 32% instances), <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt> (8; 22% instances), <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-PROPN.html">PROPN</a></tt> (4; 11% instances), <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-PRON.html">PRON</a></tt> (3; 8% instances), <tt><a href="ruc_rdt-pos-PRON.html">PRON</a></tt>-<tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt> (3; 8% instances), <tt><a href="ruc_rdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt> (2; 5% instances), <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-X.html">X</a></tt> (1; 3% instances), <tt><a href="ruc_rdt-pos-NUM.html">NUM</a></tt>-<tt><a href="ruc_rdt-pos-PROPN.html">PROPN</a></tt> (1; 3% instances), <tt><a href="ruc_rdt-pos-PRON.html">PRON</a></tt>-<tt><a href="ruc_rdt-pos-PROPN.html">PROPN</a></tt> (1; 3% instances), <tt><a href="ruc_rdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ruc_rdt-pos-NUM.html">NUM</a></tt> (1; 3% instances), <tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt>-<tt><a href="ruc_rdt-pos-PROPN.html">PROPN</a></tt> (1; 3% instances).
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 6 appos	color:blue
+1	Elphas	Elphas	PROPN	_	NounClass=Bantu1	3	nsubj	3:nsubj	Gloss=1.Elphas|MSeg=Elphas
+2	Moni	Moni	PROPN	_	NounClass=Bantu1	1	flat:name	1:flat:name	Gloss=1.Moni|MSeg=Moni
+3	musaiza	musaiza	NOUN	_	NounClass=Bantu1	4	nmod	4:nmod	Gloss=1.man|MSeg=musaiza
+4	Muirifuma	Muirifuma	PROPN	_	NounClass=Bantu1	0	root	0:root	Gloss=1.Muirifuma|MSeg=Muirifuma
+5	(	(	PUNCT	_	_	6	punct	6:punct	SpaceAfter=No
+6	Mufuma	Mufuma	PROPN	_	NounClass=Bantu1	4	appos	4:appos	Gloss=1.Mufuma|MSeg=Mufuma|SpaceAfter=No
+7	)	)	PUNCT	_	_	6	punct	6:punct	_
+8	eyeizira	eizira	VERB	REL	Mood=Ind|NounClass=Bantu1|Person=3|Referent=Yes|Tense=Pres|VerbForm=Fin	4	acl:relcl	4:acl:relcl	Gloss=S.REL-1S-belongs_to_totem-FV|MSeg=e-a-eizir-a
+9	oMbogo	mbogo	NOUN	_	NounClass=Bantu1|Referent=Yes	8	obj	8:obj	Gloss=AUG-1.buffalo|MSeg=o-mbogo|SpaceAfter=No
+10	.	.	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
+
+~~~
 
 
 ~~~ conllu
@@ -26,26 +46,6 @@ The following 6 pairs of parts of speech are connected with `appos`: <tt><a href
 2	emida	muda	NOUN	_	NounClass=Bantu4|Referent=Yes	1	obl:agent	1:obl:agent	_
 3	enjunzai	bijunzai	NOUN	_	NounClass=Bantu10|Referent=Yes	2	appos	2:appos	SpaceAfter=No
 4	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
-
-~~~
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 appos	color:blue
-1	Kanu	ni	PRON	_	Deixis=Prox|NounClass=Bantu12|Person=3|PronType=Dem	2	det	2:det	Gloss=12.PROX|MSeg=kanu
-2	akabina	kabina	NOUN	_	NounClass=Bantu12|Referent=Yes	8	nsubj	8:nsubj	Gloss=AUG-12.buttocks|MSeg=a-kabina
-3	kanu	ni	PRON	_	Deixis=Prox|NounClass=Bantu12|Person=3|PronType=Dem	2	appos	2:appos|5:obj	Gloss=12.PROX|MSeg=kanu
-4	k'	e	PRON	_	NounClass=Bantu12|PronType=Rel	5	obj	3:ref	Gloss=12.REL|MSeg=ke
-5	okubona	bona	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	acl:relcl	3:acl:relcl	Gloss=2sgS-PROG-see-FV|MSeg=o-ku-bon-a
-6	,	,	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
-7	niko	ni	AUX	COP	InfStruct=Foc|NounClass=Bantu12|Person=3|Tense=Pres	8	cop	8:cop	Gloss=COP-12|MSeg=ni-ko
-8	kaabyayire	byala	VERB	_	Aspect=Perf|Mood=Ind|NounClass=Bantu12|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	Gloss=12S-PST-give_birth:PFV|MSeg=ka-a-byayire
-9	kiki	kiki	PRON	_	PronType=Int	8	obj	8:obj	Gloss=what|MSeg=kiki|SpaceAfter=No
-10	?	?	PUNCT	_	_	8	punct	8:punct	SpacesAfter=\n
 
 ~~~
 

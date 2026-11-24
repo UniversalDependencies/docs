@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_French-ParTUT: POS Tags: `CCONJ`
 
 There are 8 `CCONJ` lemmas (0%), 10 `CCONJ` types (0%) and 855 `CCONJ` tokens (3%).
-Out of 17 observed tags, the rank of `CCONJ` is: 13 in number of lemmas, 13 in number of types and 9 in number of tokens.
+Out of 17 observed tags, the rank of `CCONJ` is: 12 in number of lemmas, 13 in number of types and 9 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>et, ou, mais, car, que, soit, ni, voire</em>
 
@@ -40,7 +40,7 @@ The 10 most frequent ambiguous types:  <em>soit</em> (<tt><a href="fr_partut-pos
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.250000 (the average of all parts of speech is 1.464850).
+The form / lemma ratio of `CCONJ` is 1.250000 (the average of all parts of speech is 1.465007).
 
 The 1st highest number of forms (2) was observed with the lemma “mais”: <em>Ma, mais</em>.
 

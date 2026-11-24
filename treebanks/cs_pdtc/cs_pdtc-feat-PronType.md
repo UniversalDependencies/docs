@@ -10,10 +10,10 @@ This feature is universal but the values `Emp` are language-specific.
 It occurs with 8 different values: `Dem`, `Emp`, `Ind`, `Int`, `Neg`, `Prs`, `Rel`, `Tot`.
 Some words have combined values of the feature; 2 combinations have been observed: `Dem|Ind`, `Int|Rel`.
 
-316267 tokens (9%) have a non-empty value of `PronType`.
+321153 tokens (9%) have a non-empty value of `PronType`.
 1177 types (1%) occur at least once with a non-empty value of `PronType`.
 198 lemmas (0%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (154606; 4% instances), <tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt> (118654; 3% instances), <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt> (43007; 1% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (154606; 4% instances), <tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt> (118654; 3% instances), <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt> (47893; 1% instances).
 
 ### `DET`
 
@@ -65,17 +65,17 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 ### `ADV`
 
-43007 <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt> tokens (26% of all `ADV` tokens) have a non-empty value of `PronType`.
+47893 <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt> tokens (28% of all `ADV` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="cs_pdtc-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (43007; 100%), <tt><a href="cs_pdtc-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (43007; 100%).
+The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="cs_pdtc-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (47893; 100%), <tt><a href="cs_pdtc-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (47893; 100%).
 
 `ADV` tokens may have the following values of `PronType`:
 
-* `Dem` (26275; 61% of non-empty `PronType`): <em>tam, tak, tady, teď, nyní, tehdy, dosud, tu, tenkrát, zde</em>
+* `Dem` (30820; 64% of non-empty `PronType`): <em>tam, tak, tady, teď, nyní, tehdy, dosud, tu, tenkrát, zde</em>
 * `Dem,Ind` (38; 0% of non-empty `PronType`): <em>párkrát, nejednou, nekonečněkrát, nesčetněkrát</em>
 * `Ind` (2784; 6% of non-empty `PronType`): <em>někdy, nějak, někde, kdysi, někam, několikrát, kdykoliv, kdykoli, jaksi, jakkoli</em>
-* `Int,Rel` (11790; 27% of non-empty `PronType`): <em>jak, kde, kdy, proč, kam, odkud, kolikrát, kudy, odkdy, dokdy</em>
-* `Neg` (1196; 3% of non-empty `PronType`): <em>nikdy, nijak, nikde, nikam, odnikud</em>
+* `Int,Rel` (12131; 25% of non-empty `PronType`): <em>jak, kde, kdy, proč, kam, odkud, kolikrát, kudy, odkdy, dokdy</em>
+* `Neg` (1196; 2% of non-empty `PronType`): <em>nikdy, nijak, nikde, nikam, odnikud</em>
 * `Rel` (2; 0% of non-empty `PronType`): <em>jak</em>
 * `Tot` (922; 2% of non-empty `PronType`): <em>vždy, všude, navždy, odjakživa, všudy, odevšad</em>
 * `EMPTY` (122186): <em>už, pak, více, ještě, včera, potom, dnes, velmi, stále, moc</em>
@@ -90,7 +90,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 ## Relations with Agreement in `PronType`
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
-<tt>ADV --[<tt><a href="cs_pdtc-dep-conj.html">conj</a></tt>]--> ADV</tt> (220; 51%),
+<tt>ADV --[<tt><a href="cs_pdtc-dep-conj.html">conj</a></tt>]--> ADV</tt> (222; 51%),
 <tt>DET --[<tt><a href="cs_pdtc-dep-conj.html">conj</a></tt>]--> DET</tt> (175; 92%),
 <tt>PRON --[<tt><a href="cs_pdtc-dep-conj.html">conj</a></tt>]--> PRON</tt> (121; 86%),
 <tt>DET --[<tt><a href="cs_pdtc-dep-fixed.html">fixed</a></tt>]--> ADV</tt> (33; 100%),
@@ -98,6 +98,6 @@ The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>PRON --[<tt><a href="cs_pdtc-dep-orphan.html">orphan</a></tt>]--> PRON</tt> (25; 86%),
 <tt>PRON --[<tt><a href="cs_pdtc-dep-dep.html">dep</a></tt>]--> PRON</tt> (23; 82%),
 <tt>PRON --[<tt><a href="cs_pdtc-dep-appos.html">appos</a></tt>]--> PRON</tt> (20; 95%),
-<tt>DET --[<tt><a href="cs_pdtc-dep-acl.html">acl</a></tt>]--> DET</tt> (9; 75%),
-<tt>DET --[<tt><a href="cs_pdtc-dep-cc.html">cc</a></tt>]--> ADV</tt> (8; 62%).
+<tt>DET --[<tt><a href="cs_pdtc-dep-cc.html">cc</a></tt>]--> ADV</tt> (13; 62%),
+<tt>DET --[<tt><a href="cs_pdtc-dep-acl.html">acl</a></tt>]--> DET</tt> (9; 75%).
 

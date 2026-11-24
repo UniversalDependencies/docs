@@ -47,7 +47,7 @@ The following 2 pairs of parts of speech are connected with `flat:name`: <tt><a 
 4	хаҵеи	а-ха́ҵа	NOUN	Noun_H_Sg_Coord	Animacy=Hum|Number=Sing	7	nsubj	_	LMSeg:а-ха́ҵа
 5	ҧҳәыси	а-ҧҳәы́с	NOUN	Noun_H_F_Sg_Coord	Animacy=Hum|Number=Sing	4	conj	_	LMSeg:а-ҧҳәы́с
 6	Масладубоваа	Масладубоваа	PROPN	Noun_Prop_Anthr_Coll_Pl_LastNameColl	NameType=Prs|Number=Plur	4	flat:name	_	LMSeg:Масладубоваа
-7	ааҩнашылт	а-ҩнашы́лара	VERB	V_Dyn_Intr_Fin_Aor_FPv:аа_S:3_S:Ad	Dyn=Yes|Mood=Ind|Person[subj]=3|Subcat=Intr|Tense=Aor|VerbForm=Fin	0	root	_	LMSeg:а-ҩна·шы́ла-ра|SpaceAfter=No
+7	ааҩнашылт	а-ҩнашы́лара	VERB	V_Dyn_Intr_Fin_Aor_FPv:аа_S:3_S:Ad_[LO:3SgNH]	Dyn=Yes|Gender[lo]=Neut|Mood=Ind|Number[lo]=Sing|Person[lo]=3|Person[subj]=3|Subcat=Intr|Tense=Aor|VerbForm=Fin	0	root	_	LMSeg:а-ҩна·шы́ла-ра|SpaceAfter=No
 8	.	.	PUNCT	Punct_Period	_	7	punct	_	LMSeg:.
 
 ~~~

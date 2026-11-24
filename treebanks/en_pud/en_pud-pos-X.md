@@ -37,7 +37,7 @@ The 10 most frequent ambiguous types:  <em>de</em> (<tt><a href="en_pud-pos-PROP
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.151116).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.151896).
 
 The 1st highest number of forms (1) was observed with the lemma “'s”: <em>’s</em>.
 
@@ -72,5 +72,5 @@ The highest child degree of a `X` node is 9.
 
 Children of `X` nodes are attached using 13 different relations: <tt><a href="en_pud-dep-flat.html">flat</a></tt> (7; 24% instances), <tt><a href="en_pud-dep-punct.html">punct</a></tt> (6; 21% instances), <tt><a href="en_pud-dep-case.html">case</a></tt> (4; 14% instances), <tt><a href="en_pud-dep-det.html">det</a></tt> (3; 10% instances), <tt><a href="en_pud-dep-acl-relcl.html">acl:relcl</a></tt> (1; 3% instances), <tt><a href="en_pud-dep-amod.html">amod</a></tt> (1; 3% instances), <tt><a href="en_pud-dep-appos.html">appos</a></tt> (1; 3% instances), <tt><a href="en_pud-dep-cc.html">cc</a></tt> (1; 3% instances), <tt><a href="en_pud-dep-compound.html">compound</a></tt> (1; 3% instances), <tt><a href="en_pud-dep-conj.html">conj</a></tt> (1; 3% instances), <tt><a href="en_pud-dep-cop.html">cop</a></tt> (1; 3% instances), <tt><a href="en_pud-dep-nmod-poss.html">nmod:poss</a></tt> (1; 3% instances), <tt><a href="en_pud-dep-nsubj.html">nsubj</a></tt> (1; 3% instances)
 
-Children of `X` nodes belong to 10 different parts of speech: <tt><a href="en_pud-pos-X.html">X</a></tt> (10; 34% instances), <tt><a href="en_pud-pos-PUNCT.html">PUNCT</a></tt> (6; 21% instances), <tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (3; 10% instances), <tt><a href="en_pud-pos-DET.html">DET</a></tt> (3; 10% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (2; 7% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (1; 3% instances), <tt><a href="en_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 3% instances), <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (1; 3% instances)
+Children of `X` nodes belong to 9 different parts of speech: <tt><a href="en_pud-pos-X.html">X</a></tt> (10; 34% instances), <tt><a href="en_pud-pos-PUNCT.html">PUNCT</a></tt> (6; 21% instances), <tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (3; 10% instances), <tt><a href="en_pud-pos-DET.html">DET</a></tt> (3; 10% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (2; 7% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (2; 7% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (1; 3% instances), <tt><a href="en_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 3% instances), <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (1; 3% instances)
 

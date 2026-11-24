@@ -43,7 +43,7 @@ The following 46 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 3	make	make	VERB	VB	_	0	root	0:root	_
 4	you	you	PRON	PRP	_	3	obj	3:obj|5:nsubj:xsubj	_
 5	sad	sad	ADJ	JJ	_	3	xcomp	3:xcomp	SpaceAfter=No
-6	?	?	PUNCT	?	_	3	punct	3:punct	_
+6	?	?	PUNCT	.	_	3	punct	3:punct	_
 
 ~~~
 
@@ -59,7 +59,7 @@ The following 46 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 3	got	get	VERB	VB	_	0	root	0:root	_
 4	ta	of	ADP	IN	_	5	mark	5:mark	_
 5	date	date	NOUN	NN	_	3	xcomp	3:xcomp	SpaceAfter=No
-6	?	?	PUNCT	?	_	3	punct	3:punct	_
+6	?	?	PUNCT	.	_	3	punct	3:punct	_
 
 ~~~
 

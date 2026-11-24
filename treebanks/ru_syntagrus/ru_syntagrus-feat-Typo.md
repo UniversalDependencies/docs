@@ -9,20 +9,20 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-21 tokens (0%) have a non-empty value of `Typo`.
-21 types (0%) occur at least once with a non-empty value of `Typo`.
-21 lemmas (0%) occur at least once with a non-empty value of `Typo`.
-The feature is used with 8 part-of-speech tags: <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (8; 0% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+22 tokens (0%) have a non-empty value of `Typo`.
+22 types (0%) occur at least once with a non-empty value of `Typo`.
+22 lemmas (0%) occur at least once with a non-empty value of `Typo`.
+The feature is used with 8 part-of-speech tags: <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (9; 0% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-8 <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Typo`.
+9 <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8; 100%), <tt><a href="ru_syntagrus-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (6; 75%), <tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=Nom</tt> (5; 63%).
+The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9; 100%), <tt><a href="ru_syntagrus-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (7; 78%), <tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=Nom</tt> (5; 56%).
 
 `NOUN` tokens may have the following values of `Typo`:
 
-* `Yes` (8; 100% of non-empty `Typo`): <em>Ка-шель, зе-е-млю, инка, капита-ан, по-ток, ррррадость, с-волочь, языка</em>
+* `Yes` (9; 100% of non-empty `Typo`): <em>Ка-шель, зе-е-млю, инка, капита-ан, по-ток, производство, ррррадость, с-волочь, языка</em>
 
 ### `ADJ`
 

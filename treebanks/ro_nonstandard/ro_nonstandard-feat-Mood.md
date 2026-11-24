@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Imp`, `Ind`, `Sub`.
 
-74238 tokens (13%) have a non-empty value of `Mood`.
+74237 tokens (13%) have a non-empty value of `Mood`.
 8172 types (26%) occur at least once with a non-empty value of `Mood`.
 1800 lemmas (15%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (44294; 8% instances), <tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (29944; 5% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (44299; 8% instances), <tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (29938; 5% instances).
 
 ### `VERB`
 
-44294 <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> tokens (59% of all `VERB` tokens) have a non-empty value of `Mood`.
+44299 <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> tokens (59% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="ro_nonstandard-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (44289; 100%), <tt><a href="ro_nonstandard-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (42275; 95%), <tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt> (34566; 78%), <tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=Sing</tt> (28050; 63%), <tt><a href="ro_nonstandard-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (24247; 55%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="ro_nonstandard-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (44287; 100%), <tt><a href="ro_nonstandard-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (42280; 95%), <tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt> (34571; 78%), <tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=Sing</tt> (28051; 63%), <tt><a href="ro_nonstandard-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (24252; 55%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Imp` (3100; 7% of non-empty `Mood`): <em>dă, scoală, ia, scoate, vino, lasă, pasă, spune, fă, faceți</em>
-* `Ind` (30910; 70% of non-empty `Mood`): <em>zise, era, are, avea, făcea, face, zicea, da, zic, zice</em>
+* `Ind` (30915; 70% of non-empty `Mood`): <em>zise, era, are, avea, făcea, face, zicea, da, zic, zice</em>
 * `Sub` (10284; 23% of non-empty `Mood`): <em>facă, dea, ia, margă, vie, aibă, vază, fie, ducă, stea</em>
-* `EMPTY` (30829): <em>făcut, dat, luat, da, zicînd, scris, pus, face, dus, venit</em>
+* `EMPTY` (30828): <em>făcut, dat, luat, da, zicînd, scris, pus, face, dus, venit</em>
 
 <table>
   <tr><th>Paradigm <i>zice</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th></tr>
@@ -53,14 +53,14 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 ### `AUX`
 
-29944 <tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> tokens (94% of all `AUX` tokens) have a non-empty value of `Mood`.
+29938 <tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> tokens (94% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="ro_nonstandard-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (28036; 94%), <tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt> (24219; 81%), <tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15150; 51%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="ro_nonstandard-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (28030; 94%), <tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt> (24213; 81%), <tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15148; 51%).
 
 `AUX` tokens may have the following values of `Mood`:
 
 * `Imp` (76; 0% of non-empty `Mood`): <em>fiți, fii, fireți, fi, fiţi, hii, sinteți, sunteți</em>
-* `Ind` (29059; 97% of non-empty `Mood`): <em>au, va, -i, -au, era, am, a, iaste, vor, e</em>
+* `Ind` (29053; 97% of non-empty `Mood`): <em>au, va, -i, -au, era, am, a, iaste, vor, e</em>
 * `Sub` (809; 3% of non-empty `Mood`): <em>fie, fii, fiu, poată, fiți, hie, fim, fie-, pot, putem</em>
 * `EMPTY` (1982): <em>fi, fost, fiind, hi, putut, fostu, vrut, putea, fiindu, nefiind</em>
 
@@ -108,14 +108,14 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="ro_nonstandard-dep-conj.html">conj</a></tt>]--> VERB</tt> (8413; 75%),
+<tt>VERB --[<tt><a href="ro_nonstandard-dep-conj.html">conj</a></tt>]--> VERB</tt> (8412; 75%),
 <tt>VERB --[<tt><a href="ro_nonstandard-dep-appos.html">appos</a></tt>]--> VERB</tt> (31; 58%),
-<tt>VERB --[<tt><a href="ro_nonstandard-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (17; 74%),
+<tt>VERB --[<tt><a href="ro_nonstandard-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (19; 76%),
+<tt>AUX --[<tt><a href="ro_nonstandard-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (10; 56%),
 <tt>VERB --[<tt><a href="ro_nonstandard-dep-obl.html">obl</a></tt>]--> VERB</tt> (7; 58%),
 <tt>AUX --[<tt><a href="ro_nonstandard-dep-advcl-tcl.html">advcl:tcl</a></tt>]--> VERB</tt> (3; 75%),
+<tt>AUX --[<tt><a href="ro_nonstandard-dep-conj.html">conj</a></tt>]--> AUX</tt> (3; 100%),
+<tt>AUX --[<tt><a href="ro_nonstandard-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (2; 100%),
 <tt>VERB --[<tt><a href="ro_nonstandard-dep-discourse.html">discourse</a></tt>]--> VERB</tt> (2; 100%),
-<tt>AUX --[<tt><a href="ro_nonstandard-dep-conj.html">conj</a></tt>]--> AUX</tt> (1; 100%),
-<tt>AUX --[<tt><a href="ro_nonstandard-dep-cop.html">cop</a></tt>]--> AUX</tt> (1; 100%),
-<tt>AUX --[<tt><a href="ro_nonstandard-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="ro_nonstandard-dep-obl-pmod.html">obl:pmod</a></tt>]--> AUX</tt> (1; 100%).
 

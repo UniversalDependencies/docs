@@ -79,7 +79,7 @@ The following 19 pairs of parts of speech are connected with `advcl:relcl`: <tt>
 1	Please	please	INTJ	UH	_	4	discourse	4:discourse	_
 2	do	do	AUX	VB	Mood=Imp|VerbForm=Fin	4	aux	4:aux	_
 3	not	not	PART	RB	Polarity=Neg	4	advmod	4:advmod	_
-4	go	go	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	Cxn=Conditional-UnspecifiedEpistemic-NoInversion|CxnElt=4:Conditional-UnspecifiedEpistemic-NoInversion.Apodosis|Supersense=v.motion
+4	go	go	VERB	VB	VerbForm=Inf	0	root	0:root	Cxn=Conditional-UnspecifiedEpistemic-NoInversion|CxnElt=4:Conditional-UnspecifiedEpistemic-NoInversion.Apodosis|Supersense=v.motion
 5	there	there	ADV	RB	PronType=Dem	4	advmod	4:advmod	_
 6	if	if	SCONJ	IN	_	15	mark	15:mark	_
 7	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	expl	15:expl	_

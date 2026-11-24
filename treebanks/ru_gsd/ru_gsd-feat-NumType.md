@@ -44,7 +44,7 @@ The 10 most frequent relations where parent and child node agree in `NumType`:
 <tt>NUM --[<tt><a href="ru_gsd-dep-conj.html">conj</a></tt>]--> NUM</tt> (37; 100%),
 <tt>NUM --[<tt><a href="ru_gsd-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (37; 100%),
 <tt>NUM --[<tt><a href="ru_gsd-dep-list.html">list</a></tt>]--> NUM</tt> (19; 100%),
-<tt>NUM --[<tt><a href="ru_gsd-dep-appos.html">appos</a></tt>]--> NUM</tt> (7; 100%),
+<tt>NUM --[<tt><a href="ru_gsd-dep-appos.html">appos</a></tt>]--> NUM</tt> (7; 78%),
 <tt>NUM --[<tt><a href="ru_gsd-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (7; 88%),
 <tt>NUM --[<tt><a href="ru_gsd-dep-parataxis.html">parataxis</a></tt>]--> NUM</tt> (4; 100%).
 

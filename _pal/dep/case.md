@@ -79,4 +79,4 @@ mark(tarsand-14, ka)
 
 Even though the attributive linker *ezāfe* is comparable to a case marker when it comes to nouns modifying other nouns, the very same linker is used for adjectives, adverbs, appositions, and infinite attributive clauses, which show no sign of substantivization. The *ezāfe* particle is annotated as a [determiner](DET).
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:44 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:24 CET -->

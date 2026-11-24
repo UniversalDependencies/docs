@@ -68,7 +68,7 @@ The following 48 pairs of parts of speech are connected with `conj`: <tt><a href
 1	ἐγέννησεν	γεννάω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-give-birth|Ref=GEN_6.10
 2	δὲ	δέ	CCONJ	_	_	1	cc	_	Gloss=but,and,however|Ref=GEN_6.10
 3	Νῶε	Νῶε	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	Gloss=Noah|Ref=GEN_6.10
-4	τρεῖς	τρεῖς	NUM	_	Case=Acc,Nom|Gender=Fem,Masc|Number=Plur|NumType=Card	5	nummod	_	Gloss=three|Ref=GEN_6.10
+4	τρεῖς	τρεῖς	NUM	_	Case=Acc,Nom|Gender=Masc|Number=Plur|NumType=Card	5	nummod	_	Gloss=three|Ref=GEN_6.10
 5	υἱούς	υἱός	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	1	obj	_	Gloss=sons|Ref=GEN_6.10|SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	Ref=GEN_6.10
 7	τὸν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	Gloss=the|Ref=GEN_6.10

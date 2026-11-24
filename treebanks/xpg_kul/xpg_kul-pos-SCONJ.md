@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>αινι</em> (<tt><a href="xpg_kul-p
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 2.442308).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 2.307512).
 
 The 1st highest number of forms (1) was observed with the lemma “aini”: <em>αινι</em>.
 

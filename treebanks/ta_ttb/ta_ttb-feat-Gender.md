@@ -126,14 +126,14 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="ta_ttb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (485; 70%),
-<tt>NOUN --[<tt><a href="ta_ttb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (470; 68%),
+<tt>NOUN --[<tt><a href="ta_ttb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (521; 71%),
+<tt>NOUN --[<tt><a href="ta_ttb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (473; 68%),
 <tt>PROPN --[<tt><a href="ta_ttb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (114; 79%),
 <tt>NOUN --[<tt><a href="ta_ttb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (91; 93%),
 <tt>PROPN --[<tt><a href="ta_ttb-dep-conj.html">conj</a></tt>]--> PROPN</tt> (77; 94%),
-<tt>NOUN --[<tt><a href="ta_ttb-dep-obl.html">obl</a></tt>]--> NOUN</tt> (51; 86%),
+<tt>NOUN --[<tt><a href="ta_ttb-dep-obl.html">obl</a></tt>]--> NOUN</tt> (17; 94%),
 <tt>PROPN --[<tt><a href="ta_ttb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (15; 79%),
 <tt>NOUN --[<tt><a href="ta_ttb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (14; 52%),
 <tt>NOUN --[<tt><a href="ta_ttb-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (14; 70%),
-<tt>PRON --[<tt><a href="ta_ttb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (8; 100%).
+<tt>PRON --[<tt><a href="ta_ttb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (8; 89%).
 

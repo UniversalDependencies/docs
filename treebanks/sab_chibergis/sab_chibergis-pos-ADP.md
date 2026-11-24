@@ -36,7 +36,7 @@ The 10 most frequent ambiguous types:  <em>ke</em> (<tt><a href="sab_chibergis-p
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.058824 (the average of all parts of speech is 1.193029).
+The form / lemma ratio of `ADP` is 1.058824 (the average of all parts of speech is 1.199461).
 
 The 1st highest number of forms (2) was observed with the lemma “giti”: <em>giti, gitire</em>.
 

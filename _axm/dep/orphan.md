@@ -28,4 +28,4 @@ The `orphan` relation is used to provide a satisfactory treatment of certain ins
 
 In this example, the subject _հոտն_/_hotn_ “odor” is promoted to the head position in the second conjunct. Attaching the predicate (without copula) _դժնիկ_/_džnik_ “buckthorn” to the subject is necessary to preserve the integrity of the clause, but using the standard relation [nsubj]() would be misleading because _դժնիկ_ “buckthorn” can't be the predicate of _հոտն_ “odor” without the copula. Therefore, the `orphan` relation is used to indicate that this is a non-standard attachment. By contrast, the coordinating conjunction _եւ_ “and” performs essentially the same function as in the non-elliptical case and therefore retains its normal relation [cc]().
 
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:37 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:39:09 CET -->

@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-936 tokens (0%) have a non-empty value of `Typo`.
-743 types (2%) occur at least once with a non-empty value of `Typo`.
+933 tokens (0%) have a non-empty value of `Typo`.
+741 types (2%) occur at least once with a non-empty value of `Typo`.
 633 lemmas (2%) occur at least once with a non-empty value of `Typo`.
-The feature is used with 14 part-of-speech tags: <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (267; 0% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (266; 0% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (187; 0% instances), <tt><a href="fr_gsd-pos-DET.html">DET</a></tt> (72; 0% instances), <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (41; 0% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (31; 0% instances), <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (27; 0% instances), <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (21; 0% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (13; 0% instances), <tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt> (1; 0% instances).
+The feature is used with 14 part-of-speech tags: <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (267; 0% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (266; 0% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (187; 0% instances), <tt><a href="fr_gsd-pos-DET.html">DET</a></tt> (72; 0% instances), <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (41; 0% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (31; 0% instances), <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (25; 0% instances), <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (20; 0% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (13; 0% instances), <tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -30,7 +30,7 @@ The most frequent other feature values with which `NOUN` and `Typo` co-occurred:
 
 266 <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="fr_gsd-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (201; 76%), <tt><a href="fr_gsd-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (201; 76%), <tt><a href="fr_gsd-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (201; 76%), <tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (196; 74%), <tt><a href="fr_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (189; 71%), <tt><a href="fr_gsd-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (150; 56%), <tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (135; 51%).
+The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="fr_gsd-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (201; 76%), <tt><a href="fr_gsd-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (201; 76%), <tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (196; 74%), <tt><a href="fr_gsd-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (196; 74%), <tt><a href="fr_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (189; 71%), <tt><a href="fr_gsd-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (150; 56%), <tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (135; 51%).
 
 `VERB` tokens may have the following values of `Typo`:
 
@@ -88,21 +88,21 @@ The most frequent other feature values with which `PRON` and `Typo` co-occurred:
 
 ### `ADP`
 
-27 <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Typo`.
+25 <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Typo`.
 
 `ADP` tokens may have the following values of `Typo`:
 
-* `Yes` (27; 100% of non-empty `Typo`): <em>a, d, des, entres, dr, en, pour</em>
+* `Yes` (25; 100% of non-empty `Typo`): <em>a, d, entres, dr, en, pour</em>
 
 ### `AUX`
 
-21 <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Typo`.
+20 <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `AUX` and `Typo` co-occurred: <tt><a href="fr_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (18; 86%), <tt><a href="fr_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (15; 71%), <tt><a href="fr_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (15; 71%), <tt><a href="fr_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (15; 71%), <tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (13; 62%).
+The most frequent other feature values with which `AUX` and `Typo` co-occurred: <tt><a href="fr_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (18; 90%), <tt><a href="fr_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (15; 75%), <tt><a href="fr_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (15; 75%), <tt><a href="fr_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (15; 75%), <tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12; 60%).
 
 `AUX` tokens may have the following values of `Typo`:
 
-* `Yes` (21; 100% of non-empty `Typo`): <em>a, serais, est, on, était, -être, esr, etre, furent, son</em>
+* `Yes` (20; 100% of non-empty `Typo`): <em>a, serais, est, on, était, -être, esr, etre, furent, son</em>
 
 ### `PROPN`
 

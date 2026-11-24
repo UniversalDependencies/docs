@@ -24,8 +24,8 @@ The following 11 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 3 4 xcomp	color:blue
 1	Jednou	jednou	ADV	Db-------------	_	3	advmod	3:advmod	_
 2	se	se	PRON	P7--4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	4	expl:pass	4:expl:pass	_
-3	měla	mít	VERB	VpFS----R-AA---	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
-4	přistavovat	přistavovat	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	3	xcomp	3:xcomp	_
+3	měla	mít	VERB	VpFS----R-AA---	Aspect=Imp|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
+4	přistavovat	přistavovat	VERB	Vf--------A----	Aspect=Imp|Polarity=Pos|VerbForm=Inf	3	xcomp	3:xcomp	_
 5	část	část	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	3:nsubj|4:nsubj:xsubj	_
 6	mlýna	mlýn	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	5:nmod:gen	SpaceAfter=No
 7	.	.	PUNCT	Z:-------------	_	3	punct	3:punct	_
@@ -40,7 +40,7 @@ The following 11 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 2	fgColor:white
 # visual-style 2 4 xcomp	color:blue
 1	Dub	dub	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	2:nsubj|4:nsubj:xsubj	_
-2	může	moci	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	může	moci	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 3	být	být	AUX	Vf--------A----	Aspect=Imp|Polarity=Pos|VerbForm=Inf	4	cop	4:cop	_
 4	starší	starý	ADJ	AAIS1----2A----	Animacy=Inan|Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing|Polarity=Pos	2	xcomp	2:xcomp	_
 5	než	než	SCONJ	J,-------------	_	8	mark	8:mark	_
@@ -58,7 +58,7 @@ The following 11 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 5 xcomp	color:blue
-1	CHTĚL	chtít	VERB	VpMS----R-AA---	Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
+1	CHTĚL	chtít	VERB	VpMS----R-AA---	Animacy=Anim|Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
 2	BYCH	být	AUX	Vc-S---1-------	Aspect=Imp|Mood=Cnd|Number=Sing|Person=1|VerbForm=Fin	1	aux	1:aux	_
 3	BÝT	být	AUX	Vf--------A----	Aspect=Imp|Polarity=Pos|VerbForm=Inf	5	cop	5:cop	_
 4	SVÝM	svůj	DET	P8NS7----------	Case=Ins|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	5	det	5:det	_

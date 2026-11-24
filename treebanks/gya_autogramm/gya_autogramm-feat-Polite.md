@@ -10,8 +10,8 @@ This feature is universal.
 It occurs with 1 different values: `Form`.
 
 11 tokens (0%) have a non-empty value of `Polite`.
-4 types (1%) occur at least once with a non-empty value of `Polite`.
-2 lemmas (1%) occur at least once with a non-empty value of `Polite`.
+4 types (0%) occur at least once with a non-empty value of `Polite`.
+2 lemmas (0%) occur at least once with a non-empty value of `Polite`.
 The feature is used with 2 part-of-speech tags: <tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> (5; 0% instances).
 
 ### `PRON`
@@ -22,17 +22,17 @@ The most frequent other feature values with which `PRON` and `Polite` co-occurre
 
 `PRON` tokens may have the following values of `Polite`:
 
-* `Form` (6; 100% of non-empty `Polite`): <em>ʔɛ̀nɛ̀, ʔɛ́nɛ́, =nɛ́</em>
-* `EMPTY` (452): <em>=à̰, =ám, ʔà̰, wà, =wà, =éí, =à, =m, mɛ́, mɛ̀</em>
+* `Form` (6; 100% of non-empty `Polite`): <em>ʔɛ́nɛ́-B, ʔɛ́nɛ́, =nɛ́</em>
+* `EMPTY` (717): <em>wà, =à̰, ʔà̰, mɛ́, =ám, mí, ʔám, =wà, =éí, =à</em>
 
 ### `DET`
 
-5 <tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> tokens (10% of all `DET` tokens) have a non-empty value of `Polite`.
+5 <tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> tokens (4% of all `DET` tokens) have a non-empty value of `Polite`.
 
 The most frequent other feature values with which `DET` and `Polite` co-occurred: <tt><a href="gya_autogramm-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (5; 100%).
 
 `DET` tokens may have the following values of `Polite`:
 
 * `Form` (5; 100% of non-empty `Polite`): <em>ʔó</em>
-* `EMPTY` (44): <em>ʔó, ʔá̰-nɛ̀, =ó, mà, zɔ̀m, =á̰-nɛ̀, mɛ̀, mɛ̀-nɛ́, zɔ̌m, ʔá̰</em>
+* `EMPTY` (136): <em>ʔó, ʔá̰-nɛ̀, mà, zɔ̀m, nɔ̀, nɛ̀, ʔá̰, ʔò, =ó, màrà</em>
 

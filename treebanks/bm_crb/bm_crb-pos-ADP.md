@@ -72,7 +72,7 @@ The 3rd highest number of forms (2) was observed with the lemma “kɔ́rɔ”: 
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 3 different relations: <tt><a href="bm_crb-dep-case.html">case</a></tt> (1021; 99% instances), <tt><a href="bm_crb-dep-fixed.html">fixed</a></tt> (10; 1% instances), <tt><a href="bm_crb-dep-obl.html">obl</a></tt> (2; 0% instances)
+`ADP` nodes are attached to their parents using 4 different relations: <tt><a href="bm_crb-dep-case.html">case</a></tt> (1021; 99% instances), <tt><a href="bm_crb-dep-fixed.html">fixed</a></tt> (10; 1% instances), <tt><a href="bm_crb-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="bm_crb-dep-obl.html">obl</a></tt> (1; 0% instances)
 
 Parents of `ADP` nodes belong to 9 different parts of speech: <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> (536; 52% instances), <tt><a href="bm_crb-pos-PRON.html">PRON</a></tt> (446; 43% instances), <tt><a href="bm_crb-pos-PROPN.html">PROPN</a></tt> (27; 3% instances), <tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> (10; 1% instances), <tt><a href="bm_crb-pos-NUM.html">NUM</a></tt> (6; 1% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="bm_crb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="bm_crb-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="bm_crb-pos-PART.html">PART</a></tt> (1; 0% instances)
 

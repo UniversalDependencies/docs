@@ -11,9 +11,9 @@ This relation is a language-specific subtype of <tt><a href="fi_ftb-dep-xcomp.ht
 369 nodes (0%) are attached to their parents as `xcomp:ds`.
 
 367 instances of `xcomp:ds` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.68563685636856.
+Average distance between parent and child is 1.68834688346883.
 
-The following 5 pairs of parts of speech are connected with `xcomp:ds`: <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (165; 45% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (117; 32% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (84; 23% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `xcomp:ds`: <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (164; 44% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (117; 32% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (84; 23% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt>-<tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -25,10 +25,10 @@ The following 5 pairs of parts of speech are connected with `xcomp:ds`: <tt><a h
 1	Pahoinvointi	pahoinvointi	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	2	nsubj	_	_
 2	humahti	humahtaa	VERB	V,Act,Ind,Past,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 3	ylitse	ylitse	ADV	Adv	_	2	advmod	_	_
-4	,	,	PUNCT	Pun	_	3	punct	_	_
+4	,	,	PUNCT	Pun	_	5	punct	_	_
 5	laittoi	laittaa	VERB	V,Act,Ind,Past,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
 6	nieleskelemään	nieleskellä	VERB	V,Act,InfMa,Ill	Case=Ill|InfForm=3|VerbForm=Inf|Voice=Act	5	xcomp:ds	_	Alt=xcomp:ds
-7	.	.	PUNCT	Pun	_	6	punct	_	_
+7	.	.	PUNCT	Pun	_	2	punct	_	_
 
 ~~~
 
@@ -44,7 +44,7 @@ The following 5 pairs of parts of speech are connected with `xcomp:ds`: <tt><a h
 3	tärkeätä	tärkeä	ADJ	A,Sg,Par	Case=Par|Number=Sing	0	root	_	Alt=0_root|FTB-Rel=modal
 4	tavata	tavata	VERB	V,Act,InfA,Lat	Case=Lat|InfForm=1|VerbForm=Inf|Voice=Act	3	xcomp:ds	_	Alt=3_xcomp:ds
 5	kasvotusten	kasvotusten	ADV	Adv	_	4	advmod	_	_
-6	.	.	PUNCT	Pun	_	5	punct	_	_
+6	.	.	PUNCT	Pun	_	3	punct	_	_
 
 ~~~
 
@@ -59,7 +59,7 @@ The following 5 pairs of parts of speech are connected with `xcomp:ds`: <tt><a h
 2	aika	aika	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	0	root	_	Alt=0_root|FTB-Rel=modal
 3	keittää	keittää	VERB	V,Act,InfA,Lat	Case=Lat|InfForm=1|VerbForm=Inf|Voice=Act	2	xcomp:ds	_	Alt=2_xcomp:ds
 4	kahvit	kahvi	NOUN	N,Pl,Nom	Case=Nom|Number=Plur	3	obj	_	_
-5	.	.	PUNCT	Pun	_	4	punct	_	_
+5	.	.	PUNCT	Pun	_	2	punct	_	_
 
 ~~~
 

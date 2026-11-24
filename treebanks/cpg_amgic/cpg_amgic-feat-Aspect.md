@@ -22,7 +22,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 `VERB` tokens may have the following values of `Aspect`:
 
-* `Imp` (45; 38% of non-empty `Aspect`): <em>laí, gréviz, leχ, éχu, (é)rχete, Rotá, cimáse, drúte, eršinónǰiska, eršístiniz</em>
+* `Imp` (45; 38% of non-empty `Aspect`): <em>laí, gréviz, leχ, éχu, (é)rχete, Rotá, cimáse, dróte, eršinónǰiska, eršístiniz</em>
 * `Perf` (73; 62% of non-empty `Aspect`): <em>eksévin, kásun, qazánǰisi, sikoθún, írten, írtis, Ksevasám', Ránsen, baγərtzísi, báris</em>
 * `EMPTY` (13): <em>baγərdά, bári, galaǰévγi, kašinónǰiska, peyéni, páro, péri, púmi, vγális, éni</em>
 

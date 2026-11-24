@@ -26,13 +26,13 @@ The following 24 pairs of parts of speech are connected with `advcl`: <tt><a hre
 1	Pokud	pokud	SCONJ	J,-------------	_	4	mark	4:mark	_
 2	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	4	expl:pass	4:expl:pass	LGloss=(zvr._zájmeno/částice)
 3	to	ten	DET	PDNS1----------	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj:pass	4:nsubj:pass	_
-4	provede	provést	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	10	advcl	10:advcl:pokud	_
+4	provede	provést	VERB	VB-S---3P-AA---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	10	advcl	10:advcl:pokud	_
 5	správně	správně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	4	advmod	4:advmod	SpaceAfter=No|LGloss=(podle_něj._měřítek;_př._chlap,_míra,...)|LDeriv=správní
 6	,	,	PUNCT	Z:-------------	_	4	punct	4:punct	_
 7	tak	tak	ADV	Db-------------	PronType=Dem	10	advmod	10:advmod	LId=tak-3
 8	to	ten	DET	PDNS4----------	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	11	obj	11:obj	_
 9	teoreticky	teoreticky	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	10	advmod	10:advmod	LDeriv=teoretický
-10	nelze	lze	VERB	VB-S---3P-NA---	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+10	nelze	lze	VERB	VB-S---3P-NA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 11	odhalit	odhalit	VERB	Vf--------A----	Aspect=Perf|Polarity=Pos|VerbForm=Inf	10	csubj	10:csubj	SpaceAfter=No
 12	.	.	PUNCT	Z:-------------	_	10	punct	10:punct	_
 
@@ -48,7 +48,7 @@ The following 24 pairs of parts of speech are connected with `advcl`: <tt><a hre
 1	Samozřejmě	samozřejmě	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	0	root	0:root	SpaceAfter=No|LDeriv=samozřejmý
 2	,	,	PUNCT	Z:-------------	_	4	punct	4:punct	_
 3	že	že	SCONJ	J,-------------	_	4	mark	4:mark	LId=že-1
-4	jde	jít	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	1:advcl:že	_
+4	jde	jít	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	1:advcl:že	_
 5	o	o	ADP	RR--4----------	AdpType=Prep|Case=Acc	6	case	6:case	LId=o-1
 6	volby	volba	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur	4	obl:arg	4:obl:arg:o:acc	_
 7	a	a	CCONJ	J^-------------	_	11	cc	11:cc	LId=a-1
@@ -78,7 +78,7 @@ The following 24 pairs of parts of speech are connected with `advcl`: <tt><a hre
 6	ta	ten	DET	PDFS1----------	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	7	det	7:det	_
 7	stará	starý	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	9	advcl	9:advcl:protože	SpaceAfter=No|LId=starý-2|LGloss=(člověk,_věc)
 8	,	,	PUNCT	Z:-------------	_	7	punct	7:punct	_
-9	mohou	moci	VERB	VB-P---3P-AA--1	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LGloss=(mít_možnost_[něco_dělat])
+9	mohou	moci	VERB	VB-P---3P-AA--1	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LGloss=(mít_možnost_[něco_dělat])
 10	mnozí	mnohý	ADJ	AAMP1----1A----	Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	11	amod	11:amod	_
 11	uživatelé	uživatel	NOUN	NNMP1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	9	nsubj	9:nsubj|12:nsubj	_
 12	ušetřit	ušetřit	VERB	Vf--------A----	Aspect=Perf|Polarity=Pos|VerbForm=Inf	9	xcomp	9:xcomp	_

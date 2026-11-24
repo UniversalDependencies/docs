@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.14 release
 The following people have contributed to making this treebank part of UD: Federica Iurescia, Federica Gamba, Flavio Massimiliano Cecchini, Francesco Mambrini, Giovanni Moretti, Marco Passarotti, Paolo Ruffolo.
 
 Repository: [UD_Latin-CIRCSE](https://github.com/UniversalDependencies/UD_Latin-CIRCSE)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_circse218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_circse219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 

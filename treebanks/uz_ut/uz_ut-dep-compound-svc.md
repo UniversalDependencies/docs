@@ -24,7 +24,7 @@ The following 3 pairs of parts of speech are connected with `compound:svc`: <tt>
 # visual-style 7	fgColor:white
 # visual-style 7 6 compound:svc	color:blue
 1	Toshkentda	Toshkent	PROPN	_	Case=Loc|Number=Sing	7	obl	_	_
-2	dzyudo	dzyudo	NOUN	_	Case=Nom|Number=Sing	5	obl	_	_
+2	dzyudo	dzyudo	NOUN	_	Case=Nom|Number=Sing	5	nmod	_	_
 3	boʻyicha	boʻyicha	ADP	_	_	2	case	_	_
 4	Gran-pri	gran-pri	NOUN	_	Case=Nom|Number=Sing	5	nmod	_	_
 5	musobaqasi	musobaqa	NOUN	_	Case=Nom|Number=Sing	7	nsubj	_	_

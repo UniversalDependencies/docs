@@ -38,4 +38,4 @@ Whenever there is a possessive determiner, `det:poss` should be used instead of 
 9	նկարը	նկար	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	4	obj	_	Translit=nkarë|LTranslit=nkar
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:02 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:41 CET -->

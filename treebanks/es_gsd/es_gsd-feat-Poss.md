@@ -11,7 +11,7 @@ It occurs with 1 different values: `Yes`.
 
 4481 tokens (1%) have a non-empty value of `Poss`.
 34 types (0%) occur at least once with a non-empty value of `Poss`.
-11 lemmas (0%) occur at least once with a non-empty value of `Poss`.
+10 lemmas (0%) occur at least once with a non-empty value of `Poss`.
 The feature is used with 2 part-of-speech tags: <tt><a href="es_gsd-pos-DET.html">DET</a></tt> (4459; 1% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (22; 0% instances).
 
 ### `DET`
@@ -23,9 +23,7 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 `DET` tokens may have the following values of `Poss`:
 
 * `Yes` (4459; 100% of non-empty `Poss`): <em>su, sus, mi, nuestra, cuya, nuestros, cuyo, nuestro, tu, mis</em>
-* `EMPTY` (56434): <em>el, la, los, un, las, una, este, esta, otras, otros</em>
-
-`Poss` seems to be **lexical feature** of `DET`. 100% lemmas (10) occur only with one value of `Poss`.
+* `EMPTY` (56569): <em>el, la, los, un, las, una, este, esta, otras, otros</em>
 
 ### `PRON`
 
@@ -36,5 +34,5 @@ The most frequent other feature values with which `PRON` and `Poss` co-occurred:
 `PRON` tokens may have the following values of `Poss`:
 
 * `Yes` (22; 100% of non-empty `Poss`): <em>mi, suyo, nuestros, suya, nuestro, suyos</em>
-* `EMPTY` (14022): <em>se, lo, que, le, la, me, uno, cual, los, nos</em>
+* `EMPTY` (17553): <em>se, que, lo, le, la, me, uno, cual, los, nos</em>
 

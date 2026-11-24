@@ -23,7 +23,7 @@ The most frequent other feature values with which `PRON` and `Poss` co-occurred:
 `PRON` tokens may have the following values of `Poss`:
 
 * `Yes` (2605; 100% of non-empty `Poss`): <em>io, mi, tu, ti, me, m', te, i', sé, t'</em>
-* `EMPTY` (11578): <em>che, si, ch', io, mi, s', noi, lui, ne, tu</em>
+* `EMPTY` (11571): <em>che, si, ch', io, mi, s', noi, lui, ne, tu</em>
 
 `Poss` seems to be **lexical feature** of `PRON`. 100% lemmas (22) occur only with one value of `Poss`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 `DET` tokens may have the following values of `Poss`:
 
 * `Yes` (2099; 100% of non-empty `Poss`): <em>mio, sua, suo, mia, lor, tua, tuo, sue, miei, suoi</em>
-* `EMPTY` (12869): <em>il, la, l', 'l, le, li, lo, un, i, quel</em>
+* `EMPTY` (12859): <em>il, la, l', 'l, le, li, lo, un, i, quel</em>
 
 ## Relations with Agreement in `Poss`
 

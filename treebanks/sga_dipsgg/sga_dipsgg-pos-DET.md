@@ -43,9 +43,9 @@ The 2nd highest number of forms (3) was observed with the lemma “a”: <em>a, 
 
 The 3rd highest number of forms (1) was observed with the lemma “cach”: <em>cach</em>.
 
-`DET` occurs with 6 features: <tt><a href="sga_dipsgg-feat-Case.html">Case</a></tt> (31; 100% instances), <tt><a href="sga_dipsgg-feat-Number.html">Number</a></tt> (31; 100% instances), <tt><a href="sga_dipsgg-feat-Gender.html">Gender</a></tt> (28; 90% instances), <tt><a href="sga_dipsgg-feat-PronType.html">PronType</a></tt> (28; 90% instances), <tt><a href="sga_dipsgg-feat-Definite.html">Definite</a></tt> (3; 10% instances), <tt><a href="sga_dipsgg-feat-Typo.html">Typo</a></tt> (1; 3% instances)
+`DET` occurs with 5 features: <tt><a href="sga_dipsgg-feat-Case.html">Case</a></tt> (31; 100% instances), <tt><a href="sga_dipsgg-feat-Number.html">Number</a></tt> (31; 100% instances), <tt><a href="sga_dipsgg-feat-PronType.html">PronType</a></tt> (31; 100% instances), <tt><a href="sga_dipsgg-feat-Gender.html">Gender</a></tt> (28; 90% instances), <tt><a href="sga_dipsgg-feat-Typo.html">Typo</a></tt> (1; 3% instances)
 
-`DET` occurs with 14 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Definite=Def`, `Definite=Ind`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Dual`, `Number=Plur`, `Number=Sing`, `PronType=Art`, `Typo=Yes`
+`DET` occurs with 14 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Dual`, `Number=Plur`, `Number=Sing`, `PronType=Art`, `PronType=Neg`, `PronType=Tot`, `Typo=Yes`
 
 `DET` occurs with 15 feature combinations.
 The most frequent feature combination is `Case=Nom|Gender=Fem|Number=Sing|PronType=Art` (6 tokens).

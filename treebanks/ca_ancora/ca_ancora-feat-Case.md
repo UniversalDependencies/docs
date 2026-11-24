@@ -29,7 +29,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 * `Gen` (354; 3% of non-empty `Case`): <em>n', en, ne, 'n, -ne</em>
 * `Loc` (1317; 12% of non-empty `Case`): <em>hi</em>
 * `Nom` (86; 1% of non-empty `Case`): <em>jo, tu, hom</em>
-* `EMPTY` (12456): <em>que, un, tot, on, què, això, qual, qui, quals, ell</em>
+* `EMPTY` (12349): <em>que, un, tot, on, què, això, qual, qui, quals, ell</em>
 
 <table>
   <tr><th>Paradigm <i>jo</i></th><th><tt>Acc,Dat</tt></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th></tr>

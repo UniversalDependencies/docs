@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="it_old-pos-VERB.htm
 
 12352 <tt><a href="it_old-pos-VERB.html">VERB</a></tt> tokens (73% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="it_old-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (10194; 83%), <tt><a href="it_old-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8970; 73%), <tt><a href="it_old-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7970; 65%), <tt><a href="it_old-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (7005; 57%), <tt><a href="it_old-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (6824; 55%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="it_old-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (10194; 83%), <tt><a href="it_old-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8970; 73%), <tt><a href="it_old-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7969; 65%), <tt><a href="it_old-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (7006; 57%), <tt><a href="it_old-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (6824; 55%).
 
 `VERB` tokens may have the following values of `Voice`:
 
@@ -107,7 +107,7 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 ## Relations with Agreement in `Voice`
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
-<tt>VERB --[<tt><a href="it_old-dep-conj.html">conj</a></tt>]--> VERB</tt> (854; 60%),
+<tt>VERB --[<tt><a href="it_old-dep-conj.html">conj</a></tt>]--> VERB</tt> (852; 59%),
 <tt>VERB --[<tt><a href="it_old-dep-aux.html">aux</a></tt>]--> AUX</tt> (473; 55%),
 <tt>VERB --[<tt><a href="it_old-dep-ccomp-reported.html">ccomp:reported</a></tt>]--> VERB</tt> (334; 62%),
 <tt>VERB --[<tt><a href="it_old-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (284; 53%),

@@ -11,16 +11,16 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="pl_mpdt-feat-Number.html">Number</a></tt>, <tt><a href="pl_mpdt-feat-Number-psor.html">Number[psor]</a></tt>.
 
-289 tokens (1%) have a non-empty value of `Number[psor]`.
-62 types (0%) occur at least once with a non-empty value of `Number[psor]`.
+353 tokens (1%) have a non-empty value of `Number[psor]`.
+70 types (0%) occur at least once with a non-empty value of `Number[psor]`.
 4 lemmas (0%) occur at least once with a non-empty value of `Number[psor]`.
-The feature is used with 1 part-of-speech tags: <tt><a href="pl_mpdt-pos-DET.html">DET</a></tt> (289; 1% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="pl_mpdt-pos-DET.html">DET</a></tt> (353; 1% instances).
 
 ### `DET`
 
-289 <tt><a href="pl_mpdt-pos-DET.html">DET</a></tt> tokens (13% of all `DET` tokens) have a non-empty value of `Number[psor]`.
+353 <tt><a href="pl_mpdt-pos-DET.html">DET</a></tt> tokens (13% of all `DET` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `DET` and `Number[psor]` co-occurred: <tt><a href="pl_mpdt-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (289; 100%), <tt><a href="pl_mpdt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (289; 100%), <tt><a href="pl_mpdt-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (289; 100%), <tt><a href="pl_mpdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (222; 77%), <tt><a href="pl_mpdt-feat-Person.html">Person</a></tt><tt>=1</tt> (195; 67%).
+The most frequent other feature values with which `DET` and `Number[psor]` co-occurred: <tt><a href="pl_mpdt-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (353; 100%), <tt><a href="pl_mpdt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (353; 100%), <tt><a href="pl_mpdt-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (353; 100%), <tt><a href="pl_mpdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (270; 76%), <tt><a href="pl_mpdt-feat-Person.html">Person</a></tt><tt>=1</tt> (238; 67%).
 
 `DET` tokens may have the following values of `Number[psor]`:
 

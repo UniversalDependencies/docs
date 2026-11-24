@@ -47,7 +47,7 @@ The following 32 pairs of parts of speech are connected with `compound`: <tt><a 
 # visual-style 10 11 compound	color:blue
 1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	pega	pega	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
-3	como	como	ADP	_	_	4	case	_	_
+3	como	como	SCONJ	_	_	4	case	_	_
 4	siempre	siempre	ADV	_	_	2	advmod	_	_
 5	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
 6	que	que	SCONJ	_	_	8	mark	_	_

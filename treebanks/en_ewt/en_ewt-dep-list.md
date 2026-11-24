@@ -28,7 +28,7 @@ The following 22 pairs of parts of speech are connected with `list`: <tt><a href
 4	George	George	PROPN	NNP	Number=Sing	2	flat	2:flat	SpaceAfter=No
 5	"	"	PUNCT	''	_	2	punct	2:punct	_
 6	<	<	PUNCT	-LRB-	_	7	punct	7:punct	SpaceAfter=No
-7	gtownsend@manorisd.net	gtownsend@manorisd.net	PROPN	ADD	_	2	list	2:list	SpaceAfter=No
+7	gtownsend@manorisd.net	gtownsend@manorisd.net	PROPN	ADD	Number=Sing	2	list	2:list	SpaceAfter=No
 8	>	>	PUNCT	-RRB-	_	7	punct	7:punct	_
 
 ~~~

@@ -172,10 +172,10 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="xnr_kdtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (48; 76%),
+<tt>NOUN --[<tt><a href="xnr_kdtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (49; 77%),
 <tt>NOUN --[<tt><a href="xnr_kdtb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (37; 80%),
-<tt>NOUN --[<tt><a href="xnr_kdtb-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (18; 60%),
-<tt>NOUN --[<tt><a href="xnr_kdtb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (17; 81%),
+<tt>NOUN --[<tt><a href="xnr_kdtb-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (18; 58%),
+<tt>NOUN --[<tt><a href="xnr_kdtb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (18; 82%),
 <tt>PROPN --[<tt><a href="xnr_kdtb-dep-compound.html">compound</a></tt>]--> PROPN</tt> (17; 89%),
 <tt>NOUN --[<tt><a href="xnr_kdtb-dep-nmod.html">nmod</a></tt>]--> ADJ</tt> (12; 80%),
 <tt>NOUN --[<tt><a href="xnr_kdtb-dep-compound.html">compound</a></tt>]--> NOUN</tt> (11; 79%),

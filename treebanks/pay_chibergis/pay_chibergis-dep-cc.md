@@ -74,7 +74,7 @@ The following 7 pairs of parts of speech are connected with `cc`: <tt><a href="p
 6	yẽherwa	yẽh	VERB	_	_	1	reparandum	_	AffLemma=-wa|AlignBegin=3835|AlignEnd=4214|Gloss=say|MGloss=O3SG- say -S3PL -PFV|MSeg=Ø-yẽh-er-Øwa|nWord=6|RX=[VT]|TokenType=Root|Word=ɲẽher|wordform=Ø-yẽh-er-Øwa
 7	=ma	=ma	SCONJ	_	_	6	mark	_	AlignBegin=4214|AlignEnd=4593|Gloss==NOM|MGloss==NOM|MSeg==ma|nWord=7|RX=[PRT]|TokenType=Clit|Word=ma
 8	,	_	PUNCT	_	_	6	punct	_	AlignBegin=4593|AlignEnd=4972|MSeg=,|nWord=8|Word=,
-9	ã	ã	PRON	_	_	10	det	_	AlignBegin=4972|AlignEnd=5351|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=9|RX=[PRO]|TokenType=Root|Word=ã
+9	ã	ã	PRON	_	ExtPos=DET	10	det	_	AlignBegin=4972|AlignEnd=5351|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=9|RX=[PRO]|TokenType=Root|Word=ã
 10	manih	manih	NOUN	_	_	12	reparandum	_	AlignBegin=5351|AlignEnd=5730|Gloss=rabbit|MGloss=rabbit|MSeg=manih|nWord=10|RX=[N]|TokenType=Root|Word=minih
 11	=ri	=ri	PART	_	_	10	cc	_	AlignBegin=5730|AlignEnd=6109|Gloss==COORD|MGloss==COORD|MSeg==ri|nWord=11|RX=[PRT]|TokenType=Clit|Word=ri
 12	manih	manih	NOUN	_	_	6	obl:arg	_	AlignBegin=6109|AlignEnd=6488|Gloss=rabbit|MGloss=rabbit|MSeg=manih|nWord=12|RX=[N]|TokenType=Root|Word=manih

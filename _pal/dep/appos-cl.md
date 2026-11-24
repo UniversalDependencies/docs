@@ -46,3 +46,4 @@ apposcl(xwīst, būd-14)
 mark(būd-14, kū-12)
 xcomp(būd-14, dōpāy)
 ~~~
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:21 CET -->

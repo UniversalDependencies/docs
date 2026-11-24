@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="xcl_caval-dep-nsubj.html">nsubj</a></tt>.
 There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="xcl_caval-dep-nsubj-caus.html">nsubj:caus</a></tt>.
 
-166 nodes (0%) are attached to their parents as `nsubj:pass`.
+167 nodes (0%) are attached to their parents as `nsubj:pass`.
 
-133 instances of `nsubj:pass` (80%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.8855421686747.
+134 instances of `nsubj:pass` (80%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.88622754491018.
 
-The following 7 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (71; 43% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (70; 42% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (9; 5% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (6; 4% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (6; 4% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (71; 43% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (71; 43% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (9; 5% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (6; 4% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (6; 4% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

@@ -33,9 +33,9 @@ The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 9	of	of	ADP	IN	_	11	case	11:case	_
 10	this	this	DET	DT	Number=Sing|PronType=Dem	11	det	11:det	_
 11	incident	incident	NOUN	NN	Number=Sing	3	nmod	3:nmod:of	_
-12	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	14	aux:pass	14:aux:pass	_
+12	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	14	aux:pass	14:aux:pass	_
 13	vigorously	vigorously	ADV	RB	_	14	advmod	14:advmod	_
-14	discussed	discuss	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	SpaceAfter=No
+14	discussed	discuss	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	SpaceAfter=No
 15	.	.	PUNCT	.	_	14	punct	14:punct	_
 
 ~~~
@@ -55,12 +55,12 @@ The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 6	after	after	SCONJ	IN	_	9	mark	9:mark	_
 7	German	German	ADJ	JJ	Degree=Pos	8	amod	8:amod	Proper=True
 8	forces	force	NOUN	NNS	Number=Plur	9	nsubj	9:nsubj	_
-9	crossed	cross	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	advcl	2:advcl:after	_
+9	crossed	cross	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	advcl	2:advcl:after	_
 10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	11:det	_
 11	border	border	NOUN	NN	Number=Sing	9	obj	9:obj	SpaceAfter=No
 12	,	,	PUNCT	,	_	14	punct	14:punct	_
 13	Chamberlain	Chamberlain	PROPN	NNP	Number=Sing	14	nsubj	14:nsubj	_
-14	placed	place	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+14	placed	place	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 15	blame	blame	NOUN	NN	Number=Sing	14	obj	14:obj	_
 16	on	on	ADP	IN	_	18	case	18:case	_
 17	both	both	CCONJ	CC	_	18	cc:preconj	18:cc:preconj	_
@@ -80,7 +80,7 @@ The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 # visual-style 8 7 cc:preconj	color:blue
 1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj:pass	3:nsubj:pass	_
 2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	3:aux:pass	_
-3	foretold	foretell	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
+3	foretold	foretell	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
 4	that	that	SCONJ	IN	_	8	mark	8:mark	_
 5	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	8:nsubj|18:nsubj	_
 6	would	would	AUX	MD	VerbForm=Fin	8	aux	8:aux	_
@@ -96,7 +96,7 @@ The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 16	,	,	PUNCT	,	_	18	punct	18:punct	_
 17	or	or	CCONJ	CC	_	18	cc	18:cc	_
 18	die	die	VERB	VB	VerbForm=Inf	8	conj	3:ccomp|8:conj:or	_
-19	young	young	ADJ	JJ	Degree=Pos	5	acl	5:acl	_
+19	young	young	ADJ	JJ	Degree=Pos	18	advcl	18:advcl	_
 20	in	in	ADP	IN	_	22	case	22:case	_
 21	a	a	DET	DT	Definite=Ind|PronType=Art	22	det	22:det	_
 22	battlefield	battlefield	NOUN	NN	Number=Sing	18	obl	18:obl:in	_

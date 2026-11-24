@@ -43,7 +43,7 @@ The following 5 pairs of parts of speech are connected with `parataxis`: <tt><a 
 # visual-style 5	fgColor:white
 # visual-style 5 9 parataxis	color:blue
 1	Katta	katta	ADJ	_	_	2	amod	_	_
-2	uydagi	uy	NOUN	_	Case=Loc|Number=Sing	3	obl	_	_
+2	uydagi	uy	NOUN	_	Case=Loc|Number=Sing	3	nmod	_	_
 3	bolaning	bola	NOUN	_	Case=Gen|Number=Sing	4	nmod:poss	_	_
 4	sochi	soch	NOUN	_	Case=Nom|Number=Sing|Poss=Yes	5	nsubj	_	_
 5	sargʻish	sargʻish	ADJ	_	_	0	root	_	SpaceAfter=No

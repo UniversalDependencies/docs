@@ -31,4 +31,4 @@ These verbs can be passivized, in which case the direct object becomes the subje
 #### Examples
 
 * _<b>գիտնալ</b> հասցէն_/_<b>gitnal</b> hascʼēn_ “to <b>know</b> the address”
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:20 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:04 CET -->

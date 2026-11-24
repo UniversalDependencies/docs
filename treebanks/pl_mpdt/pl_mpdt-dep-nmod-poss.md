@@ -7,33 +7,36 @@ udver: '2'
 ## Treebank Statistics: UD_Polish-MPDT: Relations: `nmod:poss`
 
 This relation is a language-specific subtype of <tt><a href="pl_mpdt-dep-nmod.html">nmod</a></tt>.
-There are also 2 other language-specific subtypes of `nmod`: <tt><a href="pl_mpdt-dep-nmod-arg.html">nmod:arg</a></tt>, <tt><a href="pl_mpdt-dep-nmod-flat.html">nmod:flat</a></tt>.
+There are also 3 other language-specific subtypes of `nmod`: <tt><a href="pl_mpdt-dep-nmod-arg.html">nmod:arg</a></tt>, <tt><a href="pl_mpdt-dep-nmod-cmp.html">nmod:cmp</a></tt>, <tt><a href="pl_mpdt-dep-nmod-flat.html">nmod:flat</a></tt>.
 
-326 nodes (1%) are attached to their parents as `nmod:poss`.
+463 nodes (1%) are attached to their parents as `nmod:poss`.
 
-248 instances of `nmod:poss` (76%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.52453987730061.
+343 instances of `nmod:poss` (74%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.52483801295896.
 
-The following 7 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-PRON.html">PRON</a></tt> (144; 44% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt> (129; 40% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt> (39; 12% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt> (11; 3% instances), <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-PRON.html">PRON</a></tt> (204; 44% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt> (175; 38% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt> (65; 14% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt> (14; 3% instances), <tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 9 nmod:poss	color:blue
-1	Kto	kto	PRON	subst:sg:nom:m	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	2	nsubj	2:nsubj|7:nsubj	Translit=Kto
-2	wierzy	wierzyć	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Translit=wierzy
-3	w	w	ADP	prep:acc:nwok	AdpType=Prep|Variant=Short	4	case	4:case	Case=Acc|Translit=w
-4	Chrystusa	Chrystus	PROPN	subst:sg:acc:manim2	Animacy=Nhum|Case=Acc|Gender=Masc|Number=Sing	2	obl:arg	2:obl:arg	SpaceAfter=No|Translit=Chrystusá
-5	,	,	PUNCT	interp	PunctType=Comm	7	punct	7:punct	Translit=,
-6	a	a	CCONJ	conj	_	7	cc	7:cc	Translit=á
-7	wstydzi	wstydzić	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	2:conj	Translit=wstydzi
-8	się	się	PRON	part	PronType=Prs|Reflex=Yes	7	expl:pv	7:expl:pv	Translit=się
-9	jego	on	PRON	ppron3:sg:gen:m:ter:akc:npraep	Case=Gen|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs|Variant=Long	10	nmod:poss	10:nmod:poss	Translit=iego
-10	Ewangeliej	ewangelia	NOUN	subst:sg:gen:f	Case=Gen|Gender=Fem|Number=Sing	7	iobj	7:iobj	SpaceAfter=No|Translit=Ewangeliey
-11	.	.	PUNCT	interp	PunctType=Peri	2	punct	2:punct	Translit=.
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 13 nmod:poss	color:blue
+1	45	45	NUM	dig	NumForm=Digit	12	list	12:list	SpaceAfter=No|Translit=45
+2	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	Translit=.
+3	Ponieważ	ponieważ	SCONJ	comp	_	7	mark	7:mark	Translit=Poniewáż
+4	go	on	PRON	ppron3:sg:acc:m:ter:nakc:npraep	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs|Variant=Short	7	obj	7:obj	Translit=go
+5	tedy	tedy	CCONJ	conj	_	12	cc	12:cc	Translit=tedy
+6	Dawid	Dawid	PROPN	subst:sg:nom:m	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	7:nsubj	Translit=Dawid
+7	nazywa	nazywać	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	advcl	12:advcl	Translit=názywa
+8	PAnem	pan	NOUN	subst:sg:inst:m	Case=Ins|Gender=Masc|Number=Sing	7	iobj	7:iobj	SpaceAfter=No|Translit=PAnem
+9	/	/	PUNCT	interp	PunctType=Slsh	12	punct	12:punct	Translit=/
+10	jakoż	jakoż	ADV	adv	_	12	advmod	12:advmod	Translit=jákoż
+11	jest	być	AUX	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	cop	12:cop	Translit=jest
+12	Synem	syn	NOUN	subst:sg:inst:m	Case=Ins|Gender=Masc|Number=Sing	0	root	0:root	Translit=Synem
+13	jego	on	PRON	ppron3:sg:gen:m:ter:akc:npraep	Case=Gen|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs|Variant=Long	12	nmod:poss	12:nmod:poss	SpaceAfter=No|Translit=jego
+14	?	?	PUNCT	interp	PunctType=Qest	12	punct	12:punct	Translit=?
 
 ~~~
 
@@ -67,7 +70,7 @@ The following 7 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 1	3285	3285	NUM	dig	NumForm=Digit	6	list	6:list	SpaceAfter=No|Translit=3285
 2	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	Translit=.
 3	(	(	PUNCT	interp	PunctSide=Ini|PunctType=Brck	4	punct	4:punct	SpaceAfter=No|Translit=(
-4	615	615	NUM	dig	NumForm=Digit	1	amod	1:amod	SpaceAfter=No|Translit=615
+4	615	615	NUM	dig	NumForm=Digit	1	nmod	1:nmod	SpaceAfter=No|Translit=615
 5	)	)	PUNCT	interp	PunctSide=Fin|PunctType=Brck	4	punct	4:punct	Translit=)
 6	Sprawa	sprawa	NOUN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	Translit=Sprawa
 7	Jędrzeja	Jędrzej	PROPN	subst:sg:gen:m	Case=Gen|Gender=Masc|Number=Sing	6	nmod:poss	6:nmod:poss	Translit=Yedrzeia

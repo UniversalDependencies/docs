@@ -7,13 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Polish-MPDT: Relations: `det:poss`
 
 This relation is a language-specific subtype of <tt><a href="pl_mpdt-dep-det.html">det</a></tt>.
+There are also 2 other language-specific subtypes of `det`: <tt><a href="pl_mpdt-dep-det-numgov.html">det:numgov</a></tt>, <tt><a href="pl_mpdt-dep-det-nummod.html">det:nummod</a></tt>.
 
-521 nodes (1%) are attached to their parents as `det:poss`.
+653 nodes (1%) are attached to their parents as `det:poss`.
 
-329 instances of `det:poss` (63%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.19769673704415.
+408 instances of `det:poss` (62%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.18376722817764.
 
-The following 4 pairs of parts of speech are connected with `det:poss`: <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-DET.html">DET</a></tt> (500; 96% instances), <tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_mpdt-pos-DET.html">DET</a></tt> (18; 3% instances), <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="pl_mpdt-pos-NUM.html">NUM</a></tt>-<tt><a href="pl_mpdt-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 4 pairs of parts of speech are connected with `det:poss`: <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-DET.html">DET</a></tt> (627; 96% instances), <tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_mpdt-pos-DET.html">DET</a></tt> (23; 4% instances), <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="pl_mpdt-pos-NUM.html">NUM</a></tt>-<tt><a href="pl_mpdt-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -42,18 +43,18 @@ The following 4 pairs of parts of speech are connected with `det:poss`: <tt><a h
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 11 det:poss	color:blue
-1	Aby	aby	SCONJ	comp	_	3	mark	3:mark	Translit=Aby
-2	nam	my	PRON	ppron12:pl:dat:pri	Case=Dat|Number=Plur|Person=1|PronType=Prs	3	iobj	3:iobj	Translit=nam
-3	dobrze	dobrze	ADV	adv:pos	Degree=Pos	0	root	0:root	Translit=dobrze
-4	było	być	AUX	praet:sg:n:imperf	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	3:cop	SpaceAfter=No|Translit=było
-5	,	,	PUNCT	interp	PunctType=Comm	7	punct	7:punct	Translit=,
-6	gdy	gdy	ADV	adv	_	7	advmod	7:advmod	Translit=gdy
-7	usłuchamy	usłuchać	VERB	fin:pl:pri:perf	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	3	advcl	3:advcl	Translit=usłuchamy
-8	głosu	głos	NOUN	subst:sg:gen:m	Case=Gen|Gender=Masc|Number=Sing	7	obj	7:obj	Translit=głosu
-9	Pana	pan	NOUN	subst:sg:gen:m	Case=Gen|Gender=Masc|Number=Sing	8	nmod	8:nmod	Translit=Páná
-10	Boga	Bóg	PROPN	subst:sg:gen:m	Case=Gen|Gender=Masc|Number=Sing	9	appos	9:appos	Translit=Bogá
-11	naszego	nasz	DET	adj:sg:gen:m:pos	Case=Gen|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	10	det:poss	10:det:poss	SpaceAfter=No|Translit=nászégo
-12	.	.	PUNCT	interp	PunctType=Peri	3	punct	3:punct	Translit=.
+1	Ach	ach	INTJ	interj	_	6	discourse:intj	6:discourse:intj	Translit=Ach
+2	co	co	PART	part	_	4	advmod:emph	4:advmod:emph	Translit=co
+3	mnie	ja	PRON	ppron12:sg:acc:pri:akc	Case=Acc|Number=Sing|Person=1|PronType=Prs|Variant=Long	6	iobj	6:iobj	Translit=mnie
+4	za	za	PART	part	_	5	advmod:emph	5:advmod:emph	Translit=zá
+5	czyściec	czyściec	NOUN	subst:sg:nom:m	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	6:nsubj	Translit=czyściec
+6	czeka	czekać	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Translit=czeka
+7	jednę	jeden	ADJ	adjnum:sg:acc:f:pos	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|NumType=Ord	8	amod	8:amod	Translit=iednę
+8	marnotrawnicę	marnotrawnica	NOUN	subst:sg:acc:f	Case=Acc|Gender=Fem|Number=Sing	3	nmod	3:nmod	Translit=marnotrawnicę
+9	twoją	twój	DET	adj:sg:acc:f:pos	Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	8	det:poss	8:det:poss	Translit=twoią
+10	BOŻE	Bóg	PROPN	subst:sg:voc:m	Case=Voc|Gender=Masc|Number=Sing	6	vocative	6:vocative	Translit=BOZE
+11	mój	mój	DET	adj:sg:voc:m:pos	Case=Voc|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det:poss	10:det:poss	SpaceAfter=No|Translit=moy
+12	!	!	PUNCT	interp	PunctType=Excl	6	punct	6:punct	Translit=!
 
 ~~~
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1486 nodes (3%) are attached to their parents as `root`.
+1995 nodes (3%) are attached to their parents as `root`.
 
-1486 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 11.8539703903096.
+1995 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 11.5578947368421.
 
-The following 5 pairs of parts of speech are connected with `root`: -<tt><a href="pro_corag-pos-VERB.html">VERB</a></tt> (1287; 87% instances), -<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (122; 8% instances), -<tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt> (43; 3% instances), -<tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt> (17; 1% instances), -<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (17; 1% instances).
+The following 5 pairs of parts of speech are connected with `root`: -<tt><a href="pro_corag-pos-VERB.html">VERB</a></tt> (1714; 86% instances), -<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (201; 10% instances), -<tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt> (44; 2% instances), -<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (20; 1% instances), -<tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt> (16; 1% instances).
 
 
 ~~~ conllu
@@ -22,22 +22,18 @@ The following 5 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 7 root	color:blue
-1	E	_	CCONJ	_	_	7	cc	_	_
-2	tot	_	DET	_	_	3	det	_	_
-3	homi	_	NOUN	_	_	7	nsubj	_	_
-4	de	_	ADP	_	_	6	case	_	_
-5	queste	_	DET	_	_	6	det	_	_
-6	poblatio	_	NOUN	_	_	3	nmod	_	_
-7	aia	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
-8	tot	_	DET	_	_	10	det	_	_
-9	so	_	DET	_	_	10	det	_	_
-10	paa	_	NOUN	_	_	7	obj	_	_
-11	a	_	ADP	_	_	12	case	_	_
-12	dret	_	NOUN	_	_	7	obl	_	_
-13	per	_	ADP	_	ExtPos=ADP	15	case	_	_
-14	davant	_	ADV	_	_	13	fixed	_	_
-15	mi	_	PRON	_	Number=Sing|Person=1|PronType=Prs	7	obl	_	SpaceAfter=No
-16	;	_	PUNCT	_	_	7	punct	_	_
+1	Item	_	ADV	_	_	7	advmod	_	SpaceAfter=No
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	aucuns	_	DET	_	_	4	det	_	_
+4	homes	_	NOUN	_	_	7	nsubj	_	_
+5	de	_	ADP	_	_	6	case	_	_
+6	Crognon	_	PROPN	_	_	4	nmod	_	_
+7	foren	_	VERB	_	Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
+8	de-	_	ADP	_	_	10	case	_	_
+9	-lo	_	DET	_	_	10	det	_	_
+10	seynhor	_	NOUN	_	_	7	obl	_	_
+11	Rey	_	NOUN	_	_	10	flat	_	SpaceAfter=No
+12	.	_	PUNCT	_	_	7	punct	_	_
 
 ~~~
 
@@ -48,21 +44,15 @@ The following 5 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 3 root	color:blue
-1	Sover	_	ADP	_	_	3	case	_	_
+1	Sober	_	ADP	_	_	3	case	_	_
 2	lo	_	DET	_	_	3	det	_	_
 3	pleyt	_	NOUN	_	_	0	root	_	_
-4	d'	_	ADP	_	_	5	case	_	SpaceAfter=No
-5	En	_	NOUN	_	_	3	nmod	_	_
-6	Bernat	_	PROPN	_	_	5	flat	_	_
+4	de	_	ADP	_	_	6	case	_	_
+5	Sent	_	ADJ	_	_	6	amod	_	_
+6	Polit	_	PROPN	_	_	3	nmod	_	_
 7	de	_	ADP	_	_	8	case	_	_
-8	Salier	_	PROPN	_	_	6	nmod	_	_
-9	et	_	CCONJ	_	_	11	cc	_	_
-10	d'	_	ADP	_	_	11	case	_	SpaceAfter=No
-11	En	_	NOUN	_	_	5	conj	_	_
-12	Bernat	_	PROPN	_	_	11	flat	_	_
-13	lo	_	DET	_	_	14	det	_	_
-14	Bon	_	NOUN	_	_	12	appos	_	SpaceAfter=No
-15	.	_	PUNCT	_	_	3	punct	_	_
+8	Ossau	_	PROPN	_	_	6	nmod	_	SpaceAfter=No
+9	.	_	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

@@ -30,7 +30,7 @@ The following 1 pairs of parts of speech are connected with `aux`: <tt><a href="
 5	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 6	autre	autre	ADJ	_	Gender=Masc|Number=Sing	7	amod	_	Exponence[Gender]=Absent
 7	chargement	chargement	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	Exponence[Gender]=Inherent
-8	partant	partir	VERB	_	VerbForm=Part	7	acl	_	Tense[denom]=Pres
+8	partant	partir	VERB	_	Tense=Pres|VerbForm=Part	7	acl	_	Status[Tense]=Denom
 9	de	de	ADP	_	_	10	case	_	_
 10	Baranquilla	Baranquilla	PROPN	_	_	8	obl:arg	_	_
 11	en	en	ADP	_	_	12	case	_	_

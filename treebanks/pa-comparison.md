@@ -8,82 +8,112 @@ udver: '2'
 <table>
   <thead>
   <tr>
-    <th width="50%" valign="top">
+    <th width="33%" valign="top">
       <h1>UD_Punjabi-CS</h1>
     </th>
-    <th width="50%" valign="top">
+    <th width="33%" valign="top">
+      <h1>UD_Punjabi-DYZ</h1>
+    </th>
+    <th width="33%" valign="top">
       <h1>UD_Punjabi-Rang</h1>
     </th>
   </tr>
   </thead>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h2>Tokenization and Word Segmentation</h2>
+    </td>
+    <td width="33%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 113 sentences and 1903 tokens.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+      <li>This corpus contains 243 sentences and 4618 tokens.</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 137 sentences and 1907 tokens.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>All tokens in this corpus are followed by a space.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+      <li>All tokens in this corpus are followed by a space.</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
       <li>All tokens in this corpus are followed by a space.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus does not contain words with spaces.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+      <li>This corpus does not contain words with spaces.</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus does not contain words with spaces.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 3 types of words that contain both letters and punctuation. Examples: "ਮਾਡਲ", ਪਿਆਸ,, ਭੁੱਖ,</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+      <li>This corpus contains 58 types of words that contain both letters and punctuation. Examples: 'ਚ, ’ਤੇ, 'ਤੇ, "ਕਿੰਨਾ, 'ਚੋਂ, (ਮੈਨੂੰ, (ਯੂਨਾਨ, ’ਚ, "ਇਹ, "ਉਹ, "ਕੋਈ, "ਸਾਇੰਸ, 'ਐਨੀ, 'ਡੇਜ਼ੀ, 'ਫ਼ਾਦਰ, (ਇੱਕ, (ਕਾਨਫਰੰਸ, (ਚਾਰ, (ਪ੍ਰਾਚੀਨ, (ਬਿੱਲੀ, (ਮੈਂ, John-the-Drinker, [Karagheus, ਆਪਣੇ-ਆਪ, ਇਧਰ-ਉਧਰ, ਉੱਚੀ-ਉੱਚੀ, ਐ", ਐ', ਐ”, ਕਰਦਾ—ਜਿਸ, ਗੱਲ?', ਚਿਰ?", ਚੂਰ-ਚੂਰ, ਛੋਟੀਆਂ-ਛੋਟੀਆਂ, ਤਿਆਰ-ਬਰ-ਤਿਆਰ, ਦਿਉ-ਕੱਦ, ਦਿਨ-ਕਟੀ, ਪੁੱਟ-, ਪੰਜ-ਛੇ, ਮਲ-ਮੁਲ, ਲੇਖਕ), ਵੱਲ', ਸ਼ਹਿਰ), ਹਨ), ਹਮ-, ਹਾਲ), ਹਾਲ-ਚਾਲ, ਹੁੰਮ-ਹੁੰਮਾ, ਹੌਲੀ-ਹੌਲੀ, ‘ਕਾਲੀਆਂ</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus does not contain words that contain both letters and punctuation.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -93,7 +123,17 @@ udver: '2'
       <li>This corpus does not use the following tags: SYM, X</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h2>Morphology</h2>
+      
+      <h3>Tags</h3>
+      
+      <ul>
+      <li>This corpus uses 15 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a></li>
+      <li>This corpus does not use the following tags: SYM, X</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -105,91 +145,143 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 10 word types tagged as particles (PART): ਕੇ, ਜਿਹੀ, ਤਾਂ, ਨਹੀ, ਨਹੀਂ, ਨਾ, ਭੀ, ਲਗਭਗ, ਵਾਲੀ, ਹੀ</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+      <li>This corpus contains 21 word types tagged as particles (PART): ਕਾਸ਼, ਕਿ, ਕਿਉਂ, ਕੀ, ਕੁ, ਕੇ, ਕੇਵਲ, ਜਿਹਾ, ਜਿਹੀ, ਜਿਹੇ, ਜੀ, ਤਾਂ, ਨਹੀਂ, ਨਾ, ਭਰ, ਭਾਵ, ਮੈਂ, ਵੀ, ਸਿਰਫ਼, ਹਾਂ, ਹੀ</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 12 word types tagged as particles (PART): آپے, بس, بھی, تاں, جہا, دا, نا, نہی, نہیں, وی, ہاں, ہی</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 30 lemmas tagged as pronouns (PRON): ਅਜਿਹਾ, ਆਪ, ਆਪਣਾ, ਇਨ੍ਹਾ, ਇਸ, ਇਹ, ਉਨਾਂ, ਉਨ੍ਹਾਂ, ਉਸ, ਉਹ, ਕਿਸ, ਕੀ, ਕੁਝ, ਕੋਈ, ਕੌਣ, ਜਿਨ੍ਹੇ, ਜਿਸ, ਜਿਹੜਾ, ਜੋ, ਤੁਸੀਂ, ਤੁਹਾਨੂੰ, ਤੂੰ, ਤੈਨੂੰ, ਦੋਵਾਂ, ਮੇ, ਮੇਰਾ, ਮੈ, ਮੈਂ, ਮੈਨੂੰ, ਹਰ</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+      <li>This corpus contains 26 lemmas tagged as pronouns (PRON): _, ਅਸੀਂ, ਆਪ, ਆਪਣਾ, ਆਪਣੇ-ਆਪ, ਇਹ, ਉਹ, ਕਿਸ, ਕੀ, ਕੁਝ, ਕੋਈ, ਕੌਣ, ਜਣਾ, ਜਿਸਦਾ, ਜਿਹੜਾ, ਜਿਹੜੀ, ਜਿੰਨਾ, ਜੋ, ਤੁਸੀ, ਤੁਸੀਂ, ਤੂੰ, ਮੈਂ, ਸਭ, ਸਾਡਾ, ਸਾਨੂੰ, ਹਰ</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 31 lemmas tagged as pronouns (PRON): آپ, آپنا, اس, اسنوں, اسنے, اسی, اسے, اناں, انھاں, اوہ, اپنا, اہ, اہدے, ایہہ, تسی, تسیں, توں, تہانوں, جس, جسدا, جنھے, جو, جہڑا, دن, میرا, مینوں, میں, کجھ, کوئی, کون, کی</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 18 lemmas tagged as determiners (DET): ਆਪਣਾ, ਇਕ, ਇਸ, ਇਸਦਾ, ਇਹ, ਇੱਕ, ਉਹ, ਏਨਾ, ਓਨੀ, ਕਿਸ, ਕੀ, ਕੋਈ, ਜਿਹਾ, ਜੋ, ਦੋਵੇਂ, ਸਭ, ਹਰ, ਹੋਰ</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+      <li>This corpus contains 29 lemmas tagged as determiners (DET): _, ਅਜਿਹਾ, ਅਜਿਹੀ, ਇਕ, ਇਸ, ਇਹ, ਇੱਕ, ਉਹ, ਏਨਾ, ਐਨੀ, ਕਈ, ਕਾਹਦਾ, ਕਿਸ, ਕਿਹੋ, ਕਿਹੜਾ, ਕਿੰਨਾ, ਕੀ, ਕੁਝ, ਕੁੱਝ, ਕੁੱਲ, ਕੈਸਾ, ਕੋਈ, ਜੋ, ਬਹੁਤ, ਸਭ, ਸਾਰਾ, ਹਰ, ਹਰੇਕ, ਹੋਰ</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 17 lemmas tagged as determiners (DET): آپنا, اس, انہاں, اونی, اپنا, اہ, بہت, جو, سارا, سب, سبھ, میرا, میں, کسے, کوئی, ہر, یہ</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>Out of the above, 9 lemmas occurred sometimes as PRON and sometimes as DET: ਆਪਣਾ, ਇਸ, ਇਹ, ਉਹ, ਕਿਸ, ਕੀ, ਕੋਈ, ਜੋ, ਹਰ</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+      <li>Out of the above, 10 lemmas occurred sometimes as PRON and sometimes as DET: _, ਇਹ, ਉਹ, ਕਿਸ, ਕੀ, ਕੁਝ, ਕੋਈ, ਜੋ, ਸਭ, ਹਰ</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
       <li>Out of the above, 8 lemmas occurred sometimes as PRON and sometimes as DET: آپنا, اس, اپنا, اہ, جو, میرا, میں, کوئی</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 4 lemmas tagged as auxiliaries (AUX): ਪੈਣਾ, ਸਕਣਾ, ਸੀ, ਹੈ</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+      <li>This corpus contains 8 lemmas tagged as auxiliaries (AUX): ਕਰਨਾ, ਜਾਣਾ, ਪੈਣਾ, ਰਹਿਣਾ, ਸਕਣਾ, ਸੀ, ਹੈ, ਹੋਣਾ</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 1 lemmas tagged as auxiliaries (AUX): ہونا</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>Out of the above, 4 lemmas occurred sometimes as AUX and sometimes as VERB: ਪੈਣਾ, ਸਕਣਾ, ਸੀ, ਹੈ</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+      <li>Out of the above, 8 lemmas occurred sometimes as AUX and sometimes as VERB: ਕਰਨਾ, ਜਾਣਾ, ਪੈਣਾ, ਰਹਿਣਾ, ਸਕਣਾ, ਸੀ, ਹੈ, ਹੋਣਾ</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
       <li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: ہونا</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+      <li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
       <li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Conv
+        <ul>
+          <li>VERB: ਲੈ, ਕਰਕੇ, ਕੱਢ, ਖਲਾਰ, ਖਿਝ, ਚੱਟ, ਜਾ, ਜੋੜ, ਦੇਖਕੇ, ਪਕੜ</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
       <ul>
         <li>Fin
         <ul>
@@ -199,7 +291,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Fin
+        <ul>
+          <li>AUX: ਸੀ, ਹੈ, ਸਨ, ਹਾਂ, ਹਨ, ਸਾਂ, ਗਈ, ਗਿਆ, ਰਹੇ, ਸਕਦਾ</li>
+          <li>VERB: ਹੋ, ਕੀਤਾ, ਗਈ, ਆ, ਗਿਆ, ਲਿਆ, ਹੈ, ਦਿੱਤਾ, ਦੇਖ, ਹੋਣ</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Fin
         <ul>
@@ -211,7 +313,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Inf
         <ul>
@@ -220,7 +322,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Inf
+        <ul>
+          <li>AUX: ਪੈਣਾ, ਹੋਣ</li>
+          <li>VERB: ਕਰ, ਕਰਨ, ਕਰਨਾ, ਦੇਖਣ, ਰੱਖਣਾ, ਲੈਣ, ਸੁਣ, ਆਉਣ, ਦਿਖਾਇਆ, ਪਾਉਣ</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Inf
         <ul>
@@ -232,7 +344,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Part
         <ul>
@@ -242,7 +354,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Part
+        <ul>
+          <li>AUX: ਰਿਹਾ, ਹੋਇਆ, ਰਹੀ, ਸਕਦੀ, ਪਏ, ਹੋਏ, ਰਹੀਆਂ, ਰਹਿੰਦੀ, ਕਰਦੀਆਂ, ਜਾਂਦਾ</li>
+          <li>VERB: ਕਰਦੀ, ਜਾਂਦਾ, ਦਿੱਤੀ, ਜਾਂਦੀ, ਦੇਖਿਆ, ਹੋਇਆ, ਆਏ, ਗਏ, ਜਾਂਦੇ, ਕਿਹਾ</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Part
         <ul>
@@ -254,27 +376,35 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>Nominal Features</h3>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h3>Nominal Features</h3>
+    </td>
+    <td width="33%" valign="top">
       <h3>Nominal Features</h3>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Gender</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Gender</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>Gender</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Fem
           <ul>
@@ -293,7 +423,26 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Fem
+          <ul>
+            <li>ADJ: ਪਹਿਲੀ, ਅੱਛੀ, ਪਿਆਰੀ, ਨਵੀਨ, ਪੂਰੀ, ਵੱਡੀ, ਅਜਿਹੀ, ਅਨਾਮ, ਅੱਲੜ੍ਹ, ਇਕੱਠੀਆਂ</li>
+            <li>ADP: ਦੀ, ਦੀਆਂ, ਵਾਲੀ, ਜਿੰਨੀ, ਵਰਗੇ, ਵਾਲੀਆਂ</li>
+            <li>AUX: ਰਹੀ, ਸਕਦੀ, ਗਈ, ਰਹੀਆਂ, ਰਹਿੰਦੀ, ਹੋਈ, ਕਰਦੀਆਂ, ਜਾਂਦੀ, ਜਾਣ, ਪਈ</li>
+            <li>AUX-Fin: ਗਈ, ਹੋਈ</li>
+            <li>AUX-Part: ਰਹੀ, ਸਕਦੀ, ਰਹੀਆਂ, ਰਹਿੰਦੀ, ਕਰਦੀਆਂ, ਜਾਂਦੀ, ਪਈ, ਪੈਂਦੀਆਂ, ਹੁੰਦੀ</li>
+            <li>NOUN: ਗੱਲ, ਮਾਂ, ਕੌਫ਼ੀ, ਚੀਜ਼, ਔਰਤ, ਗੱਲਾਂ, ਤਰ੍ਹਾਂ, ਰਾਤ, ਸ਼ਾਦੀ, ਉਡੀਕ</li>
+            <li>PROPN: ਮਾਰਗਰੇਟ, ਰਮੇਦੀਉਸ, ਵੈਨ, ਹਨੇਲੀ, ਜੈਕਲਿਨ, ਦਾਨ, ਮਰਸੇਨ, ਮਿਸਿਜ਼, ਸ਼ੈਨੀ, ਆਂਟ</li>
+            <li>VERB: ਹੋ, ਗਈ, ਲਿਆ, ਦਿੱਤਾ, ਕਰਦੀ, ਦਿੱਤੀ, ਜਾਂਦੀ, ਆਈ, ਗਈਆਂ, ਹੋਈ</li>
+            <li>VERB-Fin: ਹੋ, ਗਈ, ਲਿਆ, ਦਿੱਤਾ, ਕਹਿ, ਦਿੰਦੀ, ਹੁੰਦੀ, ਹੋਈ, ਕਰਾਂਗੀ, ਕੀਤੀ</li>
+            <li>VERB-Inf: ਕਰਨੀਆਂ, ਦੇਣੀ, ਪਹਿਨਣੀਆਂ, ਹੋਣੀ</li>
+            <li>VERB-Part: ਕਰਦੀ, ਦਿੱਤੀ, ਜਾਂਦੀ, ਗਈਆਂ, ਚੁੱਕੀ, ਪਹਿਨੀ, ਆਉਂਦੀਆਂ, ਕਰਵਾਈ, ਕੀਤੀਆਂ, ਕੱਢਦੀ</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Fem
           <ul>
@@ -305,7 +454,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Masc
           <ul>
@@ -324,7 +473,25 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Masc
+          <ul>
+            <li>ADJ: ਵੱਡੇ, ਚੰਗਾ, ਭਰੇ, ਵੱਡਾ, ਛੋਟੇ, ਨੰਗੇ, ਪੁਰਾਣੇ, ਪ੍ਰਤੱਖ, ਬਜ਼ੁਰਗ, ਲਾਲ</li>
+            <li>ADP: ਦੇ, ਦਾ, ਵਿਚ, ਵਾਲਾ, ਵਾਲੇ, ਕਾਰਨ, ਵਰਗਾ, ਛੋਟੇ, ਜਿੱਡਾ, ਜੋਗਾ</li>
+            <li>AUX-Fin: ਸੀ, ਸਾਂ, ਗਿਆ, ਰਹੇ, ਸਕਦਾ, ਪਿਆ, ਪਵੇਗਾ, ਸਕਦੇ, ਹੋਵੋਗੇ</li>
+            <li>AUX-Part: ਰਿਹਾ, ਹੋਇਆ, ਪਏ, ਹੋਏ, ਜਾਂਦਾ, ਜਾਂਦੇ, ਰਿਹਾ।", ਸਕਿਆ</li>
+            <li>NOUN: ਦਿਨ, ਸਮੇਂ, ਘਰ, ਸਮਾਂ, ਰੰਗ, ਕੰਮ, ਜਨਮ, ਪਾਣੀ, ਮਹੀਨੇ, ਸਕੂਲ</li>
+            <li>PROPN: ਬੂਇੰਦੀਆ, ਟਿਨ, ਮੈਲਈਆਦਿ, ਆਰਕੇਦੀਓ, ਔਰਲਿਆਨੋ, ਜ਼ੋਰਬਾ, ਹੋਸਿ, ਐਤਵਾਰ, ਪੀਟਰ, ਮਾਰਚ</li>
+            <li>VERB: ਕੀਤਾ, ਗਿਆ, ਜਾਂਦਾ, ਦੇਖ, ਸੀ, ਆਇਆ, ਦੇਖਿਆ, ਹੁੰਦਾ, ਹੋਇਆ, ਆਏ</li>
+            <li>VERB-Fin: ਕੀਤਾ, ਗਿਆ, ਦੇਖ, ਸੀ, ਆਇਆ, ਹੁੰਦਾ, ਲੱਗਾ, ਬਣਾਇਆ, ਆਖਿਆ, ਜਾਵਾਂਗੇ</li>
+            <li>VERB-Inf: ਪਹਿਣਨੇ</li>
+            <li>VERB-Part: ਜਾਂਦਾ, ਦੇਖਿਆ, ਹੋਇਆ, ਆਏ, ਗਏ, ਜਾਂਦੇ, ਕਿਹਾ, ਪੁੱਛਦਾ, ਬੈਠੇ, ਕਹਿੰਦੇ</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Masc
           <ul>
@@ -341,27 +508,35 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Number</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Number</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>Number</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -380,7 +555,26 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Plur
+          <ul>
+            <li>ADJ: ਵੱਡੇ, ਭਰੇ, ਅਜਿਹੇ, ਅਨਾਮ, ਆਮ, ਇਕੱਠੀਆਂ, ਇਕੱਠੇ, ਕਦੀਮ, ਕੱਚੇ, ਗੁਪਤ</li>
+            <li>ADP: ਦੇ, ਦੀਆਂ, ਵਾਲੇ, ਦਿਆਂ, ਵਰਗੇ, ਵਾਲੀਆਂ</li>
+            <li>AUX-Fin: ਸਨ, ਹਨ, ਨੇ, ਹੋ, ਨੇ), ਸਕਦੇ, ਹਨ), ਹਾਂ;, ਹੋਵੋਗੇ</li>
+            <li>AUX-Part: ਪਏ, ਰਹੀਆਂ, ਹੋਏ, ਕਰਦੀਆਂ, ਜਾਂਦੇ, ਪੈਂਦੀਆਂ</li>
+            <li>NOUN: ਗੱਲਾਂ, ਮਹੀਨੇ, ਵਜੇ, ਅੱਖਾਂ, ਬਾਰੀਆਂ, ਲੋਕ, ਵਸਤਾਂ, ਆਦਮੀਆਂ, ਇੱਟਾਂ, ਖਾਨਾਬਦੋਸ਼ਾਂ</li>
+            <li>PRON: ਉਹ, ਉਨ੍ਹਾਂ, ਅਸੀਂ, ਤੁਸੀਂ, ਉਹਨਾਂ, ਸਾਨੂੰ, ਤੁਹਾਨੂੰ, ਸਾਡੇ, ਇਨ੍ਹਾਂ, ਜਣੇ</li>
+            <li>PROPN: ਆਲੂ</li>
+            <li>VERB: ਦੇਖ, ਆਏ, ਗਏ, ਜਾਂਦੇ, ਗਈਆਂ, ਦੇ, ਹੋਵੇਗਾ, ਕਹਿੰਦੇ, ਚਲੇ, ਦੱਸੋ</li>
+            <li>VERB-Fin: ਦੇਖ, ਹੋਵੇਗਾ, ਦੱਸੋ, ਕਰੋ, ਜਾਵਾਂਗੇ, ਜਾਵੋਗੇ, ਰੁਕੋ, ਲੱਗਦੇ, ਸਨ, ਹੁੰਦੇ</li>
+            <li>VERB-Inf: ਕਰਨੀਆਂ, ਪਹਿਣਨੇ, ਪਹਿਨਣੀਆਂ</li>
+            <li>VERB-Part: ਆਏ, ਗਏ, ਜਾਂਦੇ, ਗਈਆਂ, ਕਹਿੰਦੇ, ਚਲੇ, ਪੀਂਦਿਆਂ, ਬੈਠੇ, ਆਉਂਦੀਆਂ, ਉਡਾਉਂਦਿਆਂ</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -397,7 +591,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -417,7 +611,27 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Sing
+          <ul>
+            <li>ADJ: ਚੰਗਾ, ਪਹਿਲੀ, ਅੱਛੀ, ਪਿਆਰੀ, ਵੱਡਾ, ਛੋਟੇ, ਪੁਰਾਣੇ, ਪੂਰੀ, ਪ੍ਰਤੱਖ, ਬਜ਼ੁਰਗ</li>
+            <li>ADP: ਦਾ, ਵਿਚ, ਵਾਲਾ, ਵਾਲੇ, ਕਾਰਨ, ਵਰਗਾ, ਵਾਲੀ, ਛੋਟੇ, ਜਿੰਨੀ, ਜਿੱਡਾ</li>
+            <li>AUX: ਸੀ, ਹੈ, ਹਾਂ, ਰਿਹਾ, ਸਾਂ, ਹੋਇਆ, ਰਹੀ, ਸਕਦੀ, ਗਈ, ਗਿਆ</li>
+            <li>AUX-Fin: ਸੀ, ਹੈ, ਹਾਂ, ਸਾਂ, ਗਈ, ਗਿਆ, ਰਹੇ, ਸਕਦਾ, ਹੋਈ, ਪਿਆ</li>
+            <li>AUX-Part: ਰਿਹਾ, ਹੋਇਆ, ਰਹੀ, ਸਕਦੀ, ਰਹਿੰਦੀ, ਜਾਂਦਾ, ਜਾਂਦੀ, ਪਈ, ਰਿਹਾ।", ਸਕਿਆ</li>
+            <li>NOUN: ਦਿਨ, ਗੱਲ, ਸਮੇਂ, ਘਰ, ਸਮਾਂ, ਮਾਂ, ਰੰਗ, ਕੌਫ਼ੀ, ਕੰਮ, ਚੀਜ਼</li>
+            <li>PRON: ਮੈਂ, ਇਹ, ਆਪਣੇ, ਮੇਰੇ, ਮੈਨੂੰ, ਆਪਣੀ, ਇਸ, ਉਸਦੇ, ਮੇਰਾ, ਆਪਣਾ</li>
+            <li>PROPN: ਵੈਨ, ਬੂਇੰਦੀਆ, ਟਿਨ, ਮਾਰਗਰੇਟ, ਰਮੇਦੀਉਸ, ਆਰਕੇਦੀਓ, ਔਰਲਿਆਨੋ, ਜ਼ੋਰਬਾ, ਦਾਨ, ਹੋਸਿ</li>
+            <li>VERB: ਹੋ, ਕੀਤਾ, ਗਈ, ਗਿਆ, ਲਿਆ, ਹੈ, ਦਿੱਤਾ, ਕਰਦੀ, ਜਾਂਦਾ, ਹੋਣ</li>
+            <li>VERB-Fin: ਹੋ, ਕੀਤਾ, ਗਈ, ਗਿਆ, ਲਿਆ, ਹੈ, ਦਿੱਤਾ, ਹੋਣ, ਸੀ, ਆਇਆ</li>
+            <li>VERB-Inf: ਕਰਦਾ, ਦੇਣੀ, ਹੋਣੀ</li>
+            <li>VERB-Part: ਕਰਦੀ, ਜਾਂਦਾ, ਦਿੱਤੀ, ਜਾਂਦੀ, ਦੇਖਿਆ, ਹੋਇਆ, ਪੁੱਛਦਾ, ਚੁੱਕੀ, ਜਾਈਦਾ, ਦੇਖਦਾ</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -436,19 +650,24 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Case</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Case</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>Case</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Abl
           <ul>
@@ -459,7 +678,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Abl
+          <ul>
+            <li>ADP: ਤੋਂ, ਸਹਾਰੇ</li>
+            <li>NOUN: ਗੱਲੋਂ, ਘਰੋ, ਬਾਹੋਂ, ਮੂੰਹੋਂ, ਲਾਗਿਉ</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Abl
           <ul>
@@ -471,7 +700,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Acc
           <ul>
@@ -485,7 +714,23 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Acc
+          <ul>
+            <li>ADJ: ਵੱਡੇ, ਛੋਟੇ, ਨੰਗੇ, ਪੁਰਾਣੇ, ਪੂਰੀ, ਬਜ਼ੁਰਗ, ਵਧੀਆ, (ਪ੍ਰਾਚੀਨ, ਅਗਲੇ, ਅਸਮਾਨੀ</li>
+            <li>ADP: ਨੂੰ, ਵਾਲੇ, ਸਾਹਮਣੇ, ਕਾਰਨ, ਛੋਟੇ, ਦਿਆਂ, ਵਲ, ਵਾਲੀ, ਵਾਲੀਆਂ</li>
+            <li>NOUN: ਘਰ, ਸਮਾਂ, ਰੰਗ, ਕੌਫ਼ੀ, ਤਰ੍ਹਾਂ, ਦਿਨ, ਮਹੀਨੇ, ਰਾਤ, ਸਕੂਲ, ਸਾਲ</li>
+            <li>PRON: ਮੈਨੂੰ, ਉਨ੍ਹਾਂ, ਆਪਣੀ, ਆਪਣਾ, ਉਸਦੇ, ਤੈਨੂੰ, ਉਹਨਾਂ, ਕੀ, ਸਾਨੂੰ, ਉਸੇ</li>
+            <li>PROPN: ਬੂਇੰਦੀਆ, ਆਰਕੇਦੀਓ, ਮਾਰਗਰੇਟ, ਰਮੇਦੀਉਸ, ਵੈਨ, ਹੋਸਿ, ਦਾਨ, ਮੈਲਈਆਦਿ, ਔਰਲਿਆਨੋ, ਮਾਰਚ</li>
+            <li>VERB: ਲੈਣ, ਆਉਣ, ਪਾਉਣ, ਖਾਣ, ਡਰ, ਦੇਣ, ਪੀਂਦਿਆਂ, ਬੀਤਣ, ਸਮਝ, ਉਘੜਨ</li>
+            <li>VERB-Inf: ਲੈਣ, ਆਉਣ, ਪਾਉਣ, ਖਾਣ, ਦੇਣ, ਬੀਤਣ, ਸਮਝ, ਉਘੜਨ, ਉਠਣ, ਉਠਾਣ</li>
+            <li>VERB-Part: ਪੀਂਦਿਆਂ, ਉਡਾਉਂਦਿਆਂ, ਦੇਖਦਿਆਂ, ਬੁੜਬੁੜਾਉਂਦੇ, ਮੁਸਕਰਾਉਂਦਿਆਂ, ਲੰਘਦਿਆਂ</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Acc
           <ul>
@@ -497,7 +742,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Nom
           <ul>
@@ -509,7 +754,20 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Nom
+          <ul>
+            <li>ADJ: ਚੰਗਾ, ਅੱਛੀ, ਪਿਆਰੀ, ਲਾਲ, ਵੱਡਾ, ਗੁਪਤ, ਭਰੇ, ਵੱਡੀ, ਹੋਰ, ਅਜਿਹੇ</li>
+            <li>ADP: ਵਰਗਾ, ਜਿੱਡਾ, ਵਰਗੇ, ਵਾਲੀ, ਵਾਲੇ</li>
+            <li>NOUN: ਗੱਲ, ਦਿਨ, ਕੰਮ, ਚੀਜ਼, ਦੋਸਤ, ਪਾਣੀ, ਉਡੀਕ, ਜਨਮ, ਮਾਂ, ਸ਼ਾਦੀ</li>
+            <li>PRON: ਮੈਂ, ਉਹ, ਇਹ, ਅਸੀਂ, ਇਸ, ਤੁਸੀਂ, ਉਸਦੀ, ਕੁਝ, ਜਿਹੜਾ, ਉਸਦੇ</li>
+            <li>PROPN: ਟਿਨ, ਜ਼ੋਰਬਾ, ਵੈਨ, ਸ਼ੈਨੀ, ਹਨੇਲੀ, ਆਂਟ, ਇਲਸੀ, ਔਰਲਿਆਨੋ, ਕਿੱਟੀ, ਜੂਨ</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Nom
           <ul>
@@ -520,43 +778,57 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-    </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
       <h3>Degree and Polarity</h3>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h3>Degree and Polarity</h3>
+    </td>
+    <td width="33%" valign="top">
       <h3>Degree and Polarity</h3>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Degree</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Degree</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>Degree</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -565,7 +837,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Pos
+          <ul>
+            <li>ADJ: ਸ਼ਾਂਤ, ਸਮਰੱਥ, ਬੰਦ, ਹੈਰਾਨ, ਅਟੁੱਟ, ਅਲੱਭ, ਆਕਰਸ਼ਕ, ਆਦੀ, ਈਜਾਦ, ਈਰਖਾਲੂ</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -576,43 +857,57 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-    </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
       <h3>Verbal Features</h3>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h3>Verbal Features</h3>
+    </td>
+    <td width="33%" valign="top">
       <h3>Verbal Features</h3>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Aspect</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Aspect</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>Aspect</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -627,7 +922,20 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Imp
+          <ul>
+            <li>AUX-Fin: ਸੀ, ਰਹੇ</li>
+            <li>AUX-Part: ਸਕਦੀ, ਰਹਿੰਦੀ, ਕਰਦੀਆਂ, ਜਾਂਦਾ, ਜਾਂਦੀ, ਜਾਂਦੇ, ਪੈਂਦੀਆਂ, ਹੁੰਦੀ</li>
+            <li>VERB: ਕਰਦੀ, ਜਾਂਦਾ, ਸੀ, ਜਾਂਦੀ, ਜਾਂਦੇ, ਪੁੱਛਦਾ, ਹੋਵੇਗਾ, ਕਹਿੰਦਾ, ਕਹਿੰਦੇ, ਜਾਈਦਾ</li>
+            <li>VERB-Fin: ਸੀ, ਹੋਵੇਗਾ, ਕਹਿੰਦਾ, ਦਿੰਦੀ, ਹੁੰਦੀ, ਰਹੇ, ਲੱਗਦਾ, ਲੱਗਦੇ, ਸਨ, ਹੁੰਦੇ</li>
+            <li>VERB-Part: ਕਰਦੀ, ਜਾਂਦਾ, ਜਾਂਦੀ, ਜਾਂਦੇ, ਪੁੱਛਦਾ, ਕਹਿੰਦੇ, ਜਾਈਦਾ, ਦੇਖਦਾ, ਪੀਂਦਿਆਂ, ਲੈਂਦਾ</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -643,7 +951,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Perf
           <ul>
@@ -658,7 +966,21 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Perf
+          <ul>
+            <li>AUX-Fin: ਸਨ, ਸਾਂ, ਗਈ, ਗਿਆ, ਪਿਆ, ਹੋ</li>
+            <li>AUX-Part: ਰਹੀ, ਪਏ, ਹੋਏ, ਪਈ, ਸਕਿਆ, ਹੋਇਆਂ</li>
+            <li>VERB: ਹੋ, ਕੀਤਾ, ਗਈ, ਆ, ਗਿਆ, ਲਿਆ, ਦਿੱਤਾ, ਦਿੱਤੀ, ਆਇਆ, ਦੇਖਿਆ</li>
+            <li>VERB-Fin: ਹੋ, ਕੀਤਾ, ਗਈ, ਆ, ਗਿਆ, ਲਿਆ, ਦਿੱਤਾ, ਆਇਆ, ਲੱਗਾ, ਕਹਿ</li>
+            <li>VERB-Inf: ਦਿਖਾਇਆ, ਉਠ, ਲੱਗਿਆ</li>
+            <li>VERB-Part: ਦਿੱਤੀ, ਦੇਖਿਆ, ਆਏ, ਗਏ, ਕਿਹਾ, ਗਈਆਂ, ਬੈਠੇ, ਚਲੇ, ਚੁੱਕੀ, ਪਹਿਨਿਆ</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Perf
           <ul>
@@ -671,19 +993,24 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Mood</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -695,7 +1022,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Imp
+          <ul>
+            <li>VERB: ਦੱਸੋ, ਪੁੱਛਿਆ, ਸੁਣਾ, ਆਖਿਆ, ਕਰੋ, ਦੇਖੋ, ਰੁਕੋ, ਲਉ, ਲੱਗਦਾ, ਸੁਣਾ!"</li>
+            <li>VERB-Fin: ਦੱਸੋ, ਪੁੱਛਿਆ, ਸੁਣਾ, ਆਖਿਆ, ਕਰੋ, ਰੁਕੋ, ਲੱਗਦਾ, ਸੁਣਾ!"</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -706,7 +1043,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -721,7 +1058,21 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Ind
+          <ul>
+            <li>AUX-Fin: ਸੀ, ਹੈ, ਸਨ, ਹਾਂ, ਹਨ, ਸਾਂ, ਗਈ, ਗਿਆ, ਰਹੇ, ਸਕਦਾ</li>
+            <li>AUX-Part: ਰਹੀ, ਜਾਂਦਾ, ਸਕਿਆ</li>
+            <li>VERB: ਹੋ, ਕਰ, ਲੱਗ, ਕੀਤਾ, ਗਈ, ਆ, ਗਿਆ, ਲਿਆ, ਹੈ, ਕਰਨ</li>
+            <li>VERB-Fin: ਹੋ, ਕੀਤਾ, ਗਈ, ਆ, ਗਿਆ, ਲਿਆ, ਹੈ, ਦਿੱਤਾ, ਦੇਖ, ਹੋਣ</li>
+            <li>VERB-Inf: ਕਰ, ਕਰਨ, ਦਿਖਾਇਆ, ਕਰਦਾ, ਪੈ, ਉਠ, ਪੀਣ, ਲੱਗਿਆ</li>
+            <li>VERB-Part: ਜਾਂਦਾ, ਦਿੱਤੀ, ਗਏ, ਕਿਹਾ, ਚੁੱਕੀ, ਆਉਂਦਾ, ਆਉਂਦੀ, ਕਰਦੇ, ਰਹੀ</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -739,19 +1090,24 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Tense</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Fut
           <ul>
@@ -763,7 +1119,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Fut
+          <ul>
+            <li>AUX-Fin: ਪਵੇਗਾ, ਹੋਵੋਗੇ</li>
+            <li>VERB-Fin: ਹੋਵੇਗਾ, ਕਰਾਂਗੀ, ਜਾਵਾਂਗੀ, ਜਾਵਾਂਗੇ, ਜਾਵੋਗੇ, ਦਿਆਂਗਾ, ਪਵੇਗਾ, ਲਿਖਾਂਗੀ, ਸਕੂ</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Fut
           <ul>
@@ -774,7 +1140,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Past
           <ul>
@@ -789,7 +1155,21 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Past
+          <ul>
+            <li>AUX-Fin: ਸੀ, ਸਾਂ, ਗਿਆ, ਸਕਦੇ, ਸੀ), ਸੀ?</li>
+            <li>AUX-Part: ਰਹੀ</li>
+            <li>VERB: ਕੀਤਾ, ਗਿਆ, ਦਿੱਤੀ, ਸੀ, ਗਏ, ਆਈ, ਕਿਹਾ, ਦਿਖਾਇਆ, ਚੁੱਕੀ, ਦਿਖਾਈ</li>
+            <li>VERB-Fin: ਕੀਤਾ, ਗਿਆ, ਸੀ, ਪੁੱਛਿਆ, ਬਣਾਇਆ, ਆਖਿਆ, ਦੱਸੋ, ਲਾਇਆ, ਸਨ, ਹੁੰਦੇ</li>
+            <li>VERB-Inf: ਦਿਖਾਇਆ, ਉਠ, ਲੱਗਿਆ</li>
+            <li>VERB-Part: ਦਿੱਤੀ, ਗਏ, ਕਿਹਾ, ਚੁੱਕੀ, ਰਹੀ</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Past
           <ul>
@@ -804,7 +1184,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Pres
           <ul>
@@ -819,7 +1199,19 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Pres
+          <ul>
+            <li>AUX-Fin: ਹੈ, ਹਾਂ, ਹਨ, ਰਹੇ, ਹੋਈ, ਨੇ, ਹੋਣ, ਏ, ਏਂ, ਐ"</li>
+            <li>VERB-Fin: ਹੋ, ਆ, ਹੈ, ਦੇਖ, ਹੋਣ, ਆਇਆ, ਹੁੰਦਾ, ਲੱਗਾ, ਕਹਿ, ਕਹਿੰਦਾ</li>
+            <li>VERB-Inf: ਕਰਦਾ, ਦਿਖਾਉਣ</li>
+            <li>VERB-Part: ਆਉਂਦੀ, ਚਾਹੁੰਦਾ</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Pres
           <ul>
@@ -835,43 +1227,57 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-    </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h3>Pronouns, Determiners, Quantifiers</h3>
+    </td>
+    <td width="33%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>PronType</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>PronType</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>PronType</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Dem
           <ul>
@@ -881,7 +1287,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Dem
+          <ul>
+            <li>DET: ਇਸ, ਇਹ, ਇਸੇ, ਅਜਿਹੀ, ਇਸਤੋਂ, ਇਹੋ, ਉਸ, ਕੀ, "ਇਹ, "ਉਹ</li>
+            <li>PRON: ਉਸ, ਉਹ, ਜੋ, ਇਹ, ਉਸਨੇ, ਕਿਸੇ, ਇਸ, ਜਿਨ੍ਹਾਂ, ਉਹਨੂੰ, ਉਸੇ</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Dem
           <ul>
@@ -893,7 +1309,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -903,7 +1319,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Ind
+          <ul>
+            <li>DET: ਇੱਕ, ਕੋਈ, ਇਕ, ਹਰ, ਕਈ, ਸਭ, ਹੋਰ, ਕਿਸੇ, ਕੁਝ, ਸਾਰੇ</li>
+            <li>PRON: ਕੋਈ, ਇਸਦੇ, ਕੀ, ਕੁਝ, ਆਪ, ਹਰ, ਜਣੇ, ਸਭ</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -915,7 +1341,25 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Int
+          <ul>
+            <li>DET: "ਕਿੰਨਾ, ਕਿਸ, ਕਿਹੋ, ਕਿਹੜਾ, ਕੈਸਾ, ‘ਕਾਹਦਾ</li>
+            <li>PRON: ਕਿਸ</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
       <ul>
         <li>Prs
           <ul>
@@ -925,7 +1369,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Prs
+          <ul>
+            <li>DET: ਉਨ੍ਹਾਂ</li>
+            <li>PRON: ਮੈਂ, ਆਪਣੇ, ਮੇਰੇ, ਮੈਨੂੰ, ਉਨ੍ਹਾਂ, ਅਸੀਂ, ਆਪਣੀ, ਆਪਣੀਆਂ, ਉਸਦੇ, ਮੇਰਾ</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Prs
           <ul>
@@ -937,7 +1391,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Rel
           <ul>
@@ -947,7 +1401,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Rel
+          <ul>
+            <li>DET: ਜਿਸ</li>
+            <li>PRON: ਜਿਸ, ਜਿਸਦਾ, ਜਿਹੜਾ, ਤੁਹਾਨੂੰ, ਜਿਸਨੂੰ, ਜਿਹੜੀ, ਜਿੰਨਾ, ਜਿਹਨਾਂ, ਜਿਹੜੇ</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Rel
           <ul>
@@ -959,20 +1423,34 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>NumType</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>NumType</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Card
+          <ul>
+            <li>NUM: 1, 1942, 12</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Card
           <ul>
@@ -983,19 +1461,24 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Poss</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Poss</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>Poss</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -1004,7 +1487,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Yes
+          <ul>
+            <li>PRON: ਉਸਦੇ, ਮੇਰੀ, ਉਸਦੀ, ਤੇਰਾ, ਸਾਡੇ, ਉਹਦੀ, ਜਿਸਦਾ, ਤੁਹਾਡੀ, ਤੇਰੇ, ਮੇਰੀਆਂ</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -1015,19 +1507,24 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Reflex</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Reflex</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>Reflex</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -1036,7 +1533,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Yes
+          <ul>
+            <li>PRON: ਆਪਣੇ, ਆਪਣੀ, ਆਪਣਾ, ਆਪਣੇ-ਆਪ</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -1047,19 +1553,24 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Person</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Person</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>Person</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>1
           <ul>
@@ -1074,7 +1585,21 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>1
+          <ul>
+            <li>AUX-Fin: ਸਾਂ, ਗਿਆ, ਹਾਂ;</li>
+            <li>PRON: ਮੈਂ, ਮੇਰੇ, ਮੈਨੂੰ, ਅਸੀਂ, ਆਪਣੀ, ਮੇਰਾ, ਆਪਣਾ, ਮੇਰੀ, ਸਾਨੂੰ, (ਮੈਨੂੰ</li>
+            <li>VERB: ਹੋ, ਕੀਤਾ, ਗਿਆ, ਦਿੱਤਾ, ਦਿੱਤੀ, ਕਰਦਾ, ਬਣਾਇਆ, ਆਖਿਆ, ਕਰਾਂਗੀ, ਚਾਹੁੰਦਾ</li>
+            <li>VERB-Fin: ਹੋ, ਕੀਤਾ, ਗਿਆ, ਦਿੱਤਾ, ਬਣਾਇਆ, ਆਖਿਆ, ਕਰਾਂਗੀ, ਜਾਵਾਂਗੀ, ਜਾਵਾਂਗੇ, ਦਿਆਂਗਾ</li>
+            <li>VERB-Inf: ਕਰਦਾ</li>
+            <li>VERB-Part: ਦਿੱਤੀ, ਚਾਹੁੰਦਾ</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>1
           <ul>
@@ -1088,7 +1613,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>2
           <ul>
@@ -1100,7 +1625,19 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>2
+          <ul>
+            <li>AUX-Fin: ਹੋ, ਹੋਵੋਗੇ</li>
+            <li>PRON: ਤੁਸੀਂ, ਤੈਨੂੰ, ਤੁਹਾਨੂੰ, ਤੇਰਾ, ਤੂੰ, ਤੇਰੇ</li>
+            <li>VERB: ਕਹਿ, ਦੱਸੋ, ਸੁਣਾ, ਕਰੋ, ਜਾਵੋਗੇ, ਦੇਖੋ, ਰੁਕੋ, ਲਉ, ਲੱਗਦੇ, ਸੁਣਾ!"</li>
+            <li>VERB-Fin: ਕਹਿ, ਦੱਸੋ, ਸੁਣਾ, ਕਰੋ, ਜਾਵੋਗੇ, ਰੁਕੋ, ਲੱਗਦੇ, ਸੁਣਾ!"</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>2
           <ul>
@@ -1113,7 +1650,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>3
           <ul>
@@ -1129,7 +1666,21 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>3
+          <ul>
+            <li>AUX-Fin: ਹੈ, ਸਨ, ਹਾਂ, ਹਨ, ਰਹੇ, ਸਕਦਾ, ਹੋਈ, ਨੇ, ਪਿਆ, ਹੋਣ</li>
+            <li>AUX-Part: ਰਿਹਾ, ਜਾਂਦਾ</li>
+            <li>PRON: ਉਹ, ਇਹ, ਆਪਣੇ, ਉਨ੍ਹਾਂ, ਇਸ, ਉਸਦੇ, ਉਸਦੀ, ਉਸਦਾ, ਉਹਨਾਂ, ਉਸੇ</li>
+            <li>VERB: ਹੈ, ਦੇਖ, ਜਾਂਦਾ, ਹੋਣ, ਆਇਆ, ਹੁੰਦਾ, ਹੋਈ, ਚੁੱਕੀ, ਹੁੰਦੀ, ਆਉਂਦਾ</li>
+            <li>VERB-Fin: ਹੈ, ਦੇਖ, ਹੋਣ, ਆਇਆ, ਹੁੰਦਾ, ਹੁੰਦੀ, ਹੋਈ, ਐ”, ਕੀਤੀ, ਦੱਸੋ</li>
+            <li>VERB-Part: ਜਾਂਦਾ, ਚੁੱਕੀ, ਆਉਂਦਾ</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>3
           <ul>
@@ -1142,17 +1693,20 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Polite</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Form
           <ul>
@@ -1162,36 +1716,48 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-    </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
       <h3>Other Features</h3>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h3>Other Features</h3>
+    </td>
+    <td width="33%" valign="top">
       <h3>Other Features</h3>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>ExtPos</a>
           <ul>
@@ -1219,12 +1785,35 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>ExtPos</a>
+          <ul>
+            <li>ADV
+              <ul>
+                <li>ADV: ਜਦੋਂ, ਇਸ, ਏਥੋਂ, ਅਜੇ, ਜਿਵੇਂ</li>
+              </ul>
+            </li>
+            <li>PRON
+              <ul>
+                <li>PRON: ਆਪਣੇ</li>
+              </ul>
+            </li>
+            <li>SCONJ
+              <ul>
+                <li>SCONJ: ਬਾਵਜੂਦ</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -1233,7 +1822,16 @@ udver: '2'
       <li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: ਸੀ, ਹੈ.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h2>Syntax</h2>
+      
+      <h3>Auxiliary Verbs and Copula</h3>
+      
+      <ul>
+      <li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: ਸੀ, ਹੈ.</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -1244,20 +1842,26 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: ਹੈ, ਸੀ.</li>
       <li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: ਸੀ, ਹੈ.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+      <li>This corpus uses 7 lemmas as auxiliaries (<a>aux</a>). Examples: ਸੀ, ਹੈ, ਰਹਿਣਾ, ਹੋਣਾ, ਸਕਣਾ, ਪੈਣਾ, ਕਰਨਾ.</li>
+      <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: ਜਾਣਾ.</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: ہونا.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
@@ -1289,7 +1893,56 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
+      
+      Here we consider only relations between verbs (parent) and nouns or pronouns (child).
+      <ul>
+        <li><a>nsubj</a>
+          <ul>
+            <li>VERB--NOUN-Acc (3)</li>
+            <li>VERB--NOUN-Acc-ADP(ਨੇ) (2)</li>
+            <li>VERB--NOUN-Nom (16)</li>
+            <li>VERB--PRON (4)</li>
+            <li>VERB--PRON-ADP(ਨੇ) (1)</li>
+            <li>VERB--PRON-Acc (1)</li>
+            <li>VERB--PRON-Acc-ADP(ਨੇ) (2)</li>
+            <li>VERB--PRON-Nom (22)</li>
+            <li>VERB-Fin--NOUN (1)</li>
+            <li>VERB-Fin--NOUN-Acc (4)</li>
+            <li>VERB-Fin--NOUN-Acc-ADP(ਦਾ) (2)</li>
+            <li>VERB-Fin--NOUN-Acc-ADP(ਨੇ) (1)</li>
+            <li>VERB-Fin--NOUN-Nom (39)</li>
+            <li>VERB-Fin--NOUN-Nom-ADP(ਨੇ) (1)</li>
+            <li>VERB-Fin--PRON (7)</li>
+            <li>VERB-Fin--PRON-ADP(ਨੇ) (4)</li>
+            <li>VERB-Fin--PRON-Acc (3)</li>
+            <li>VERB-Fin--PRON-Acc-ADP(ਨੇ) (1)</li>
+            <li>VERB-Fin--PRON-Nom (34)</li>
+            <li>VERB-Inf--NOUN-Acc (1)</li>
+            <li>VERB-Inf--NOUN-Acc-ADP(ਦਾ) (1)</li>
+            <li>VERB-Inf--NOUN-Acc-ADP(ਨੇ) (2)</li>
+            <li>VERB-Inf--NOUN-Nom (9)</li>
+            <li>VERB-Inf--PRON (2)</li>
+            <li>VERB-Inf--PRON-ADP(ਨੂੰ) (1)</li>
+            <li>VERB-Inf--PRON-Acc (1)</li>
+            <li>VERB-Inf--PRON-Acc-ADP(ਨੇ) (1)</li>
+            <li>VERB-Inf--PRON-Nom (12)</li>
+            <li>VERB-Part--NOUN-Acc (2)</li>
+            <li>VERB-Part--NOUN-Acc-ADP(ਨੇ) (5)</li>
+            <li>VERB-Part--NOUN-Nom (21)</li>
+            <li>VERB-Part--NOUN-Nom-ADP(ਨੇ) (1)</li>
+            <li>VERB-Part--PRON (4)</li>
+            <li>VERB-Part--PRON-ADP(ਨੇ) (4)</li>
+            <li>VERB-Part--PRON-Acc (3)</li>
+            <li>VERB-Part--PRON-Acc-ADP(ਨੇ) (2)</li>
+            <li>VERB-Part--PRON-Nom (57)</li>
+            <li>VERB-Part--PRON-Nom-ADP(ਨਾ) (1)</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
@@ -1321,7 +1974,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
@@ -1357,7 +2010,58 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>obj</a>
+          <ul>
+            <li>VERB--NOUN-Acc (1)</li>
+            <li>VERB--NOUN-Acc-ADP(ਨੂੰ) (4)</li>
+            <li>VERB--NOUN-Nom (20)</li>
+            <li>VERB--PRON (1)</li>
+            <li>VERB--PRON-ADP(ਨੂੰ) (1)</li>
+            <li>VERB--PRON-Acc (1)</li>
+            <li>VERB--PRON-Acc-ADP(ਨਾਲ) (1)</li>
+            <li>VERB--PRON-Acc-ADP(ਨੂੰ) (1)</li>
+            <li>VERB-Conv--NOUN-Acc-ADP(ਨੂੰ) (2)</li>
+            <li>VERB-Conv--NOUN-Nom (6)</li>
+            <li>VERB-Conv--PRON-Nom (1)</li>
+            <li>VERB-Fin--NOUN (1)</li>
+            <li>VERB-Fin--NOUN-Acc (1)</li>
+            <li>VERB-Fin--NOUN-Acc-ADP(ਦਾ) (1)</li>
+            <li>VERB-Fin--NOUN-Acc-ADP(ਨੂੰ) (5)</li>
+            <li>VERB-Fin--NOUN-Acc-ADP(’ਤੇ) (1)</li>
+            <li>VERB-Fin--NOUN-Nom (14)</li>
+            <li>VERB-Fin--PRON (1)</li>
+            <li>VERB-Fin--PRON-ADP(ਨੂੰ) (5)</li>
+            <li>VERB-Fin--PRON-Acc (3)</li>
+            <li>VERB-Fin--PRON-Nom (3)</li>
+            <li>VERB-Inf--NOUN (1)</li>
+            <li>VERB-Inf--NOUN-Acc (1)</li>
+            <li>VERB-Inf--NOUN-Acc-ADP(_) (1)</li>
+            <li>VERB-Inf--NOUN-Acc-ADP(ਨੂੰ) (7)</li>
+            <li>VERB-Inf--NOUN-Nom (37)</li>
+            <li>VERB-Inf--PRON (2)</li>
+            <li>VERB-Inf--PRON-ADP(ਦਾ) (1)</li>
+            <li>VERB-Inf--PRON-ADP(ਨੂੰ) (2)</li>
+            <li>VERB-Inf--PRON-Acc (6)</li>
+            <li>VERB-Inf--PRON-Acc-ADP(ਨੂੰ) (1)</li>
+            <li>VERB-Inf--PRON-Nom (1)</li>
+            <li>VERB-Part--NOUN (3)</li>
+            <li>VERB-Part--NOUN-Acc (4)</li>
+            <li>VERB-Part--NOUN-Acc-ADP(ਦਾ) (1)</li>
+            <li>VERB-Part--NOUN-Acc-ADP(ਨੂੰ) (5)</li>
+            <li>VERB-Part--NOUN-Nom (34)</li>
+            <li>VERB-Part--NOUN-Nom-ADP(ਨੂੰ) (3)</li>
+            <li>VERB-Part--PRON (2)</li>
+            <li>VERB-Part--PRON-ADP(ਨੂੰ) (5)</li>
+            <li>VERB-Part--PRON-Acc (3)</li>
+            <li>VERB-Part--PRON-Acc-ADP(ਨੂੰ) (1)</li>
+            <li>VERB-Part--PRON-Nom-ADP(ਨੂੰ) (1)</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
@@ -1387,7 +2091,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>iobj</a>
           <ul>
@@ -1403,7 +2107,25 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>iobj</a>
+          <ul>
+            <li>VERB--PRON (1)</li>
+            <li>VERB--PRON-ADP(ਨੂੰ) (4)</li>
+            <li>VERB--PRON-Acc (4)</li>
+            <li>VERB--PRON-Acc-ADP(ਨੂੰ) (1)</li>
+            <li>VERB-Fin--PRON (1)</li>
+            <li>VERB-Fin--PRON-Acc (5)</li>
+            <li>VERB-Inf--PRON-Acc (1)</li>
+            <li>VERB-Part--PRON-ADP(ਨੂੰ) (2)</li>
+            <li>VERB-Part--PRON-Acc (4)</li>
+            <li>VERB-Part--PRON-Acc-ADP(ਨੂੰ) (3)</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>iobj</a>
           <ul>
@@ -1419,26 +2141,39 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-    </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+      <h3>Verbs with Reflexive Core Objects</h3>
+      
+      <ul>
+        <li>This corpus contains 1 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: ਪੁੱਛਣਾ ਆਪਣੇ-ਆਪ</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
@@ -1447,7 +2182,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
@@ -1455,7 +2190,15 @@ udver: '2'
       <li>The following 10 relation types are not used in this corpus at all: <a>csubj</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h3>Relations Overview</h3>
+      
+      <ul>
+      <li>This corpus uses 13 relation subtypes: <a>acl:relcl</a>, <a>advmod:emph</a>, <a>aux:pass</a>, <a>compound:lvc</a>, <a>compound:redup</a>, <a>compound:svc</a>, <a>det:poss</a>, <a>nmod:poss</a>, <a>nmod:tmod</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:tmod</a></li>
+      <li>The following 7 relation types are not used in this corpus at all: <a>csubj</a>, <a>expl</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>

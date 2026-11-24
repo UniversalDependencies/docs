@@ -12,18 +12,18 @@ It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 1012 tokens (9%) have a non-empty value of `Degree`.
 451 types (20%) occur at least once with a non-empty value of `Degree`.
 322 lemmas (20%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 3 part-of-speech tags: <tt><a href="sv_swell-pos-ADJ.html">ADJ</a></tt> (846; 8% instances), <tt><a href="sv_swell-pos-ADV.html">ADV</a></tt> (164; 2% instances), <tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt> (2; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="sv_swell-pos-ADJ.html">ADJ</a></tt> (845; 8% instances), <tt><a href="sv_swell-pos-ADV.html">ADV</a></tt> (165; 2% instances), <tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt> (2; 0% instances).
 
 ### `ADJ`
 
-846 <tt><a href="sv_swell-pos-ADJ.html">ADJ</a></tt> tokens (96% of all `ADJ` tokens) have a non-empty value of `Degree`.
+845 <tt><a href="sv_swell-pos-ADJ.html">ADJ</a></tt> tokens (96% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="sv_swell-feat-Case.html">Case</a></tt><tt>=Nom</tt> (840; 99%), <tt><a href="sv_swell-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (525; 62%), <tt><a href="sv_swell-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (524; 62%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="sv_swell-feat-Case.html">Case</a></tt><tt>=Nom</tt> (839; 99%), <tt><a href="sv_swell-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (524; 62%), <tt><a href="sv_swell-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (524; 62%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
 * `Cmp` (59; 7% of non-empty `Degree`): <em>bättre, mer, äldre, enklare, lättare, mindre, svårare, biligare, billigare, färre</em>
-* `Pos` (744; 88% of non-empty `Degree`): <em>olika, många, bra, nya, andra, viktigt, själv, stor, viktig, svårt</em>
+* `Pos` (743; 88% of non-empty `Degree`): <em>olika, många, bra, nya, andra, viktigt, själv, stor, viktig, svårt</em>
 * `Sup` (43; 5% of non-empty `Degree`): <em>bästa, flesta, viktigaste, sista, viktigast, bekvämaste, best, farligaste, forsta, lyckligaste</em>
 * `EMPTY` (31): <em>första, andra, tredje, Tredja, Tustar, båda, ex., firsta, gammlar, hal</em>
 
@@ -39,12 +39,12 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 ### `ADV`
 
-164 <tt><a href="sv_swell-pos-ADV.html">ADV</a></tt> tokens (22% of all `ADV` tokens) have a non-empty value of `Degree`.
+165 <tt><a href="sv_swell-pos-ADV.html">ADV</a></tt> tokens (22% of all `ADV` tokens) have a non-empty value of `Degree`.
 
 `ADV` tokens may have the following values of `Degree`:
 
 * `Cmp` (26; 16% of non-empty `Degree`): <em>mer, bättre, vidare, mindre, Tidigare, fortta, hårdare, oftare, senare, snabbare</em>
-* `Pos` (118; 72% of non-empty `Degree`): <em>mycket, bra, lite, ofta, väldigt, helt, generellt, absolut, hårt, snart</em>
+* `Pos` (119; 72% of non-empty `Degree`): <em>mycket, bra, lite, ofta, väldigt, helt, generellt, absolut, hårt, snart</em>
 * `Sup` (20; 12% of non-empty `Degree`): <em>mest, minst, sist, bäst, näst, främst, innerst, framst, oftas</em>
 * `EMPTY` (591): <em>hur, så, där, därför, också, här, bara, kanske, ut, även</em>
 
@@ -53,7 +53,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
   <tr><td><tt></tt></td><td><em>mycket</em></td><td><em>mer</em></td><td><em>mest</em></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADV`. 93% lemmas (55) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADV`. 93% lemmas (56) occur only with one value of `Degree`.
 
 ### `NOUN`
 

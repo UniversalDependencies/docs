@@ -34,4 +34,4 @@ The `NumType` feature applies to [numerals](_xmf/pos/NUM).
 
 * _ოთხონ (otʻxon)_ 'four times' etc.
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:04 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:51 CET -->

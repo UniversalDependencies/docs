@@ -49,4 +49,4 @@ The word _tuwān_ is used as a noun "might, power" but is also employed like a m
 #### Examples:
 - _tuwān_ "can, be able"
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:23 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:07 CET -->

@@ -89,4 +89,4 @@ Jussive is a periphrastic form (combination of the imperative of the lexical ver
 
 * Dobrushina, Nina (2019). Moods of Mehweb. In Michael Daniel, Nina Dobrushina & Dmitry Ganenkov (eds.), The Mehweb language: Essays on phonology, morphology and syntax, 117–165. Berlin: Language Science Press. DOI:10.5281/zenodo.3402062
   
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:00 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:47 CET -->

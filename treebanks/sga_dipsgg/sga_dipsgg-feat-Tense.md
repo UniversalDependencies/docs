@@ -18,19 +18,19 @@ The feature is used with 2 part-of-speech tags: <tt><a href="sga_dipsgg-pos-VERB
 
 28 <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt> tokens (88% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="sga_dipsgg-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (28; 100%), <tt><a href="sga_dipsgg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (26; 93%), <tt><a href="sga_dipsgg-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (26; 93%), <tt><a href="sga_dipsgg-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (24; 86%), <tt><a href="sga_dipsgg-feat-PartType.html">PartType</a></tt><tt>=EMPTY</tt> (24; 86%), <tt><a href="sga_dipsgg-feat-Person.html">Person</a></tt><tt>=3</tt> (19; 68%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="sga_dipsgg-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (28; 100%), <tt><a href="sga_dipsgg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (26; 93%), <tt><a href="sga_dipsgg-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (26; 93%), <tt><a href="sga_dipsgg-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (24; 86%), <tt><a href="sga_dipsgg-feat-Person.html">Person</a></tt><tt>=3</tt> (19; 68%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Fut` (3; 11% of non-empty `Tense`): <em>cél, róis, tiach</em>
-* `Past` (4; 14% of non-empty `Tense`): <em>giuil, roscribad, roscríbad, rosechestar</em>
+* `Past` (4; 14% of non-empty `Tense`): <em>giuil, scribad, scríbad, sechestar</em>
 * `Pres` (21; 75% of non-empty `Tense`): <em>chain, Gaib, braigim, cóima, ecmoṅgat, epur, farcai, fuasna, llega, maraith</em>
 * `EMPTY` (4): <em>adest, dicit, fit, pepedi</em>
 
 <table>
   <tr><th>Paradigm <i>scríbaid</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
-  <tr><td><tt><tt><a href="sga_dipsgg-feat-PartType.html">PartType</a></tt><tt>=Aug</tt>|<tt><a href="sga_dipsgg-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="sga_dipsgg-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td><em>roscribad, roscríbad</em></td></tr>
   <tr><td><tt><tt><a href="sga_dipsgg-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="sga_dipsgg-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>scríbaimm</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="sga_dipsgg-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="sga_dipsgg-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td><em>scribad, scríbad</em></td></tr>
 </table>
 
 ### `AUX`

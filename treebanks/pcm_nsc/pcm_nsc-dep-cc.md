@@ -22,20 +22,20 @@ The following 23 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 5 cc	color:blue
-1	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	AlignBegin=115746|AlignEnd=115830|Gloss=NOM.SG.1
-2	say	say	VERB	_	_	0	root	_	AlignBegin=115830|AlignEnd=116020|Gloss=say
-3	[	[	PUNCT	_	_	9	punct	_	AlignBegin=116020|AlignEnd=116020|Gloss=PUNCT
-4	toh	toh	INTJ	_	_	9	discourse	_	AlignBegin=116020|AlignEnd=116210|Gloss=alright
-5	but	but	CCONJ	_	_	9	cc	_	AlignBegin=116210|AlignEnd=116330|Gloss=but
-6	uncle	uncle	NOUN	_	_	9	vocative	_	AlignBegin=116330|AlignEnd=116608|Gloss=uncle
-7	<	<	PUNCT	_	_	6	punct	_	AlignBegin=116608|AlignEnd=116608|Gloss=PUNCT
-8	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	AlignBegin=116608|AlignEnd=116730|Gloss=NOM.SG.1
-9	wan	want	VERB	_	_	2	parataxis	_	AlignBegin=116730|AlignEnd=116940|Gloss=want
-10	go	go	VERB	_	_	9	xcomp	_	AlignBegin=116940|AlignEnd=117140|Gloss=go
-11	school	school	NOUN	_	_	10	obl:arg	_	AlignBegin=117140|AlignEnd=117370|Gloss=school
-12	o	o	PART	_	PartType=Disc	9	advmod	_	AlignBegin=117370|AlignEnd=117617|Gloss=EMPH
-13	//]	//]	PUNCT	_	_	9	punct	_	AlignBegin=117617|AlignEnd=117617|Gloss=PUNCT
-14	//	//	PUNCT	_	_	2	punct	_	AlignBegin=117587|AlignEnd=117617|Gloss=PUNCT
+1	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Gloss=NOM.SG.1|WordAlignmentBegin=115746|WordAlignmentEnd=115830
+2	say	say	VERB	_	_	0	root	_	Gloss=say|WordAlignmentBegin=115830|WordAlignmentEnd=116020
+3	[	[	PUNCT	_	_	9	punct	_	Gloss=PUNCT|WordAlignmentBegin=116020|WordAlignmentEnd=116020
+4	toh	toh	INTJ	_	_	9	discourse	_	Gloss=alright|WordAlignmentBegin=116020|WordAlignmentEnd=116210
+5	but	but	CCONJ	_	_	9	cc	_	Gloss=but|WordAlignmentBegin=116210|WordAlignmentEnd=116330
+6	uncle	uncle	NOUN	_	_	9	vocative	_	Gloss=uncle|WordAlignmentBegin=116330|WordAlignmentEnd=116608
+7	<	<	PUNCT	_	_	6	punct	_	Gloss=PUNCT|WordAlignmentBegin=116608|WordAlignmentEnd=116608
+8	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	Gloss=NOM.SG.1|WordAlignmentBegin=116608|WordAlignmentEnd=116730
+9	wan	want	VERB	_	_	2	parataxis	_	Gloss=want|WordAlignmentBegin=116730|WordAlignmentEnd=116940
+10	go	go	VERB	_	_	9	xcomp	_	Gloss=go|WordAlignmentBegin=116940|WordAlignmentEnd=117140
+11	school	school	NOUN	_	_	10	obl:arg	_	Gloss=school|WordAlignmentBegin=117140|WordAlignmentEnd=117370
+12	o	o	PART	_	PartType=Disc	9	advmod	_	Gloss=EMPH|WordAlignmentBegin=117370|WordAlignmentEnd=117617
+13	//]	//]	PUNCT	_	_	9	punct	_	Gloss=PUNCT|WordAlignmentBegin=117617|WordAlignmentEnd=117617
+14	//	//	PUNCT	_	_	2	punct	_	Gloss=PUNCT|WordAlignmentBegin=117587|WordAlignmentEnd=117617
 
 ~~~
 
@@ -46,20 +46,20 @@ The following 23 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 11 cc	color:blue
-1	#	#	PUNCT	_	_	4	punct	_	AlignBegin=240327|AlignEnd=240875|Gloss=PUNCT
-2	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	AlignBegin=240875|AlignEnd=241060|Gloss=NOM.SG.1
-3	con	con	AUX	_	Aspect=Cons	4	aux	_	AlignBegin=241060|AlignEnd=241265|Gloss=CONS
-4	sabi	sabi	VERB	_	_	0	root	_	AlignBegin=241265|AlignEnd=241595|Gloss=know
-5	{	{	PUNCT	_	_	7	punct	_	AlignBegin=241595|AlignEnd=241595|Gloss=PUNCT
-6	di	di	DET	_	Definite=Def|PronType=Art	7	det	_	AlignBegin=241595|AlignEnd=241725|Gloss=DEF.ART
-7	work	work	NOUN	_	_	4	obj	_	AlignBegin=241725|AlignEnd=242025|Gloss=work
-8	now	now	ADV	_	_	4	advmod	_	AlignBegin=242025|AlignEnd=242296|Gloss=now
-9	|c	|c	PUNCT	_	_	12	punct	_	AlignBegin=242296|AlignEnd=242296|Gloss=PUNCT
-10	#	#	PUNCT	_	_	12	punct	_	AlignBegin=242296|AlignEnd=242550|Gloss=PUNCT
-11	and	and	CCONJ	_	_	12	cc	_	AlignBegin=242550|AlignEnd=242735|Gloss=and
-12	money	money	NOUN	_	_	7	conj	_	AlignBegin=242735|AlignEnd=243055|Gloss=money
-13	}	}	PUNCT	_	_	12	punct	_	AlignBegin=243055|AlignEnd=243055|Gloss=PUNCT
-14	//	//	PUNCT	_	_	4	punct	_	AlignBegin=243025|AlignEnd=243055|Gloss=PUNCT
+1	#	#	PUNCT	_	_	4	punct	_	Gloss=PUNCT|WordAlignmentBegin=240327|WordAlignmentEnd=240875
+2	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Gloss=NOM.SG.1|WordAlignmentBegin=240875|WordAlignmentEnd=241060
+3	con	con	AUX	_	Aspect=Cons	4	aux	_	Gloss=CONS|WordAlignmentBegin=241060|WordAlignmentEnd=241265
+4	sabi	sabi	VERB	_	_	0	root	_	Gloss=know|WordAlignmentBegin=241265|WordAlignmentEnd=241595
+5	{	{	PUNCT	_	_	7	punct	_	Gloss=PUNCT|WordAlignmentBegin=241595|WordAlignmentEnd=241595
+6	di	di	DET	_	Definite=Def|PronType=Art	7	det	_	Gloss=DEF.ART|WordAlignmentBegin=241595|WordAlignmentEnd=241725
+7	work	work	NOUN	_	_	4	obj	_	Gloss=work|WordAlignmentBegin=241725|WordAlignmentEnd=242025
+8	now	now	ADV	_	_	4	advmod	_	Gloss=now|WordAlignmentBegin=242025|WordAlignmentEnd=242296
+9	|c	|c	PUNCT	_	_	12	punct	_	Gloss=PUNCT|WordAlignmentBegin=242296|WordAlignmentEnd=242296
+10	#	#	PUNCT	_	_	12	punct	_	Gloss=PUNCT|WordAlignmentBegin=242296|WordAlignmentEnd=242550
+11	and	and	CCONJ	_	_	12	cc	_	Gloss=and|WordAlignmentBegin=242550|WordAlignmentEnd=242735
+12	money	money	NOUN	_	_	7	conj	_	Gloss=money|WordAlignmentBegin=242735|WordAlignmentEnd=243055
+13	}	}	PUNCT	_	_	12	punct	_	Gloss=PUNCT|WordAlignmentBegin=243055|WordAlignmentEnd=243055
+14	//	//	PUNCT	_	_	4	punct	_	Gloss=PUNCT|WordAlignmentBegin=243025|WordAlignmentEnd=243055
 
 ~~~
 
@@ -70,17 +70,17 @@ The following 23 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 9 cc	color:blue
-1	#	#	PUNCT	_	_	8	punct	_	AlignBegin=58363|AlignEnd=58514|Gloss=PUNCT
-2	wait	wait	VERB	_	_	8	discourse	_	AlignBegin=58514|AlignEnd=58790|Gloss=wait
-3	na	na	AUX	_	PartType=Cop	8	cop	_	AlignBegin=58790|AlignEnd=58980|Gloss=be
-4	because	because	SCONJ	_	_	8	mark	_	AlignBegin=58980|AlignEnd=59628|Gloss=because
-5	woman	woman	NOUN	_	_	8	nsubj	_	AlignBegin=59628|AlignEnd=60160|Gloss=woman
-6	no	no	AUX	_	Polarity=Neg	8	aux	_	AlignBegin=60160|AlignEnd=60270|Gloss=NEG
-7	fit	fit	AUX	_	Mood=Pot	8	aux	_	AlignBegin=60270|AlignEnd=60430|Gloss=ABIL
-8	fight	fight	VERB	_	_	0	root	_	AlignBegin=60430|AlignEnd=60785|Gloss=fight
-9	or	or	CCONJ	_	_	10	cc	_	AlignBegin=60785|AlignEnd=61042|Gloss=or
-10	anything	anyting	PRON	_	_	8	conj	_	AlignBegin=61042|AlignEnd=61601|Gloss=anything
-11	//	//	PUNCT	_	_	8	punct	_	AlignBegin=61601|AlignEnd=61601|Gloss=PUNCT
+1	#	#	PUNCT	_	_	8	punct	_	Gloss=PUNCT|WordAlignmentBegin=58363|WordAlignmentEnd=58514
+2	wait	wait	VERB	_	_	8	discourse	_	Gloss=wait|WordAlignmentBegin=58514|WordAlignmentEnd=58790
+3	na	na	AUX	_	PartType=Cop	8	cop	_	Gloss=be|WordAlignmentBegin=58790|WordAlignmentEnd=58980
+4	because	because	SCONJ	_	_	8	mark	_	Gloss=because|WordAlignmentBegin=58980|WordAlignmentEnd=59628
+5	woman	woman	NOUN	_	_	8	nsubj	_	Gloss=woman|WordAlignmentBegin=59628|WordAlignmentEnd=60160
+6	no	no	AUX	_	Polarity=Neg	8	aux	_	Gloss=NEG|WordAlignmentBegin=60160|WordAlignmentEnd=60270
+7	fit	fit	AUX	_	Mood=Pot	8	aux	_	Gloss=ABIL|WordAlignmentBegin=60270|WordAlignmentEnd=60430
+8	fight	fight	VERB	_	_	0	root	_	Gloss=fight|WordAlignmentBegin=60430|WordAlignmentEnd=60785
+9	or	or	CCONJ	_	_	10	cc	_	Gloss=or|WordAlignmentBegin=60785|WordAlignmentEnd=61042
+10	anything	anyting	PRON	_	_	8	conj	_	Gloss=anything|WordAlignmentBegin=61042|WordAlignmentEnd=61601
+11	//	//	PUNCT	_	_	8	punct	_	Gloss=PUNCT|WordAlignmentBegin=61601|WordAlignmentEnd=61601
 
 ~~~
 

@@ -13,7 +13,7 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 
 132 tokens (3%) have a non-empty value of `Person[obj]`.
 123 types (6%) occur at least once with a non-empty value of `Person[obj]`.
-90 lemmas (6%) occur at least once with a non-empty value of `Person[obj]`.
+90 lemmas (7%) occur at least once with a non-empty value of `Person[obj]`.
 The feature is used with 2 part-of-speech tags: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (128; 3% instances), <tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (4; 0% instances).
 
 ### `VERB`
@@ -50,7 +50,7 @@ The most frequent other feature values with which `AUX` and `Person[obj]` co-occ
 
 <table>
   <tr><th>Paradigm <i>аф</i></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
+  <tr><td><tt><tt><a href="mdf_jr-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="mdf_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=2</tt>|<tt><a href="mdf_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt></tt></td><td><em>афолензе</em></td><td></td></tr>
   <tr><td><tt><tt><a href="mdf_jr-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="mdf_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt>|<tt><a href="mdf_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=2</tt>|<tt><a href="mdf_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>тяк</em></td></tr>
-  <tr><td><tt><tt><a href="mdf_jr-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="mdf_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=2</tt>|<tt><a href="mdf_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt></tt></td><td><em>афолензе</em></td><td></td></tr>
 </table>
 

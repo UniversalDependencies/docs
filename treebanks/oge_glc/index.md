@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.18 release
 The following people have contributed to making this treebank part of UD: Irina Lobzhanidze.
 
 Repository: [UD_Old_Georgian-GLC](https://github.com/UniversalDependencies/UD_Old_Georgian-GLC)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udoge_glc218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udoge_glc219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 
@@ -47,20 +47,38 @@ The Old Georgian UD Treebank (UD_Old_Georgian-GLC) is the first syntactically an
 
 
 
-The Old Georgian UD Treebank (UD_Georgian-GLC) serves as the first syntactically annotated corpus of the Old Georgian language. It includes 151 utterances (5809 tokens) randomly selected from the OGLC (Doborjginidze et al. 2013), providing detailed annotations encompassing the grammatical structure and dependencies within the sentences.
+The Old Georgian UD Treebank (UD_Old_Georgian-GLC) serves as the first syntactically annotated corpus of the Old Georgian language. It includes 1232 utterances (33630 tokens) selected from the OGLC (Doborjginidze et al. 2013), providing detailed annotations encompassing the grammatical structure and dependencies within the sentences.
 
-The treebank's annotations align with the Universal Dependencies (UD) specifications, allowing for greater consistency and compatibility with other UD treebanks. Although the tokenization and segmentation principles of the GLC differ slightly from those of the UD, the UD_Old_Georgian-GLC follows the UD approach, particularly regarding multiword tokens, to minimize differences.
+| Text | Date | Tokens | Sentences |
+|---|:---:|---:|---:|
+| The Great Nomocanon: Cyril of Alexandria’s Epistle to Domnus | 883 | 6575 | 151 |
+| The Great Nomocanon: Decree of the Council of Constantinople (394) | 883 | 615 | 14 |
+| Gregory of Nazianzus, On the Resurrection | 10th–11th c. | 7804 | 322 |
+| Martyrdom of Barlaam the Ascetic | 11th c. | 5623 | 188 |
+| Andrew of Crete, On the Nativity of the Theotokos | 11th c. | 4585 | 188 |
+| On the Exaltation of the Life-Giving Cross | 11th c. | 2637 | 122 |
+| Book of Baruch | 12th c. | 4154 | 184 |
+| Epistle to the Antiochians by Ignatius the God-Bearer | 12th–13th c. | 1486 | 63 |
+| **Total** | | **33479** | **1232** |
+
+The treebank's annotations align with the Universal Dependencies (UD) specifications, allowing for greater consistency and compatibility with other UD treebanks. Although the tokenization and segmentation principles of the original GLC corpus differ slightly from those of the UD, the UD_Old_Georgian-GLC treebank adopts UD-compliant tokenization and segmentation principles, including the treatment of multiword tokens.
 
 Morpho-syntactic annotations, as discussed in Lobzhanidze (2022), have been automatically adapted to UD requirements. This includes annotations for lemmas (LEMMA), part-of-speech categories (UPOS; XPOS), morphological features (FEATS), transliteration, and tokenization issues (MISC). Furthermore, heads of words (HEADS), dependency relations (DEPREL), and enhanced dependency graphs (DEPS) were automatically converted and then reviewed and manually corrected.
 
-The current version of the UD_Georgian-GLC treebank includes 151 utterances (sentences) consisting of 5809 tokens. These sentences served as a training set, enriching the treebank and offering a more comprehensive representation of the Old Georgian language. The primary objective is to provide a more comprehensive and representative dataset for training and analysis purposes.
+The current treebank is divided into three datasets for training, development, and evaluation, following the Universal Dependencies framework.
+
+Training set (train): 734 sentences, 20937 syntactic words.
+
+Development set (dev): 122 sentences, 2577 syntactic words.
+
+Test set (test): 376 sentences, 10116 syntactic words.
 
 
 ## Acknowledgments
 
-The UD_Georgian-GLC release is based on the data from the Georgian Language Corpus (GLC) developed with the financial support of the Shota Rustaveli National Science Foundation (Project Nos. DP2016_23, LE/17/1-30/13, AR/320/4-105/11, Y-04-10).
+The UD_Old_Georgian-GLC release is based on the data from the Georgian Language Corpus (GLC) developed with the financial support of the Shota Rustaveli National Science Foundation (Project Nos. DP2016_23, LE/17/1-30/13, AR/320/4-105/11, Y-04-10).
 
-Special gratitudes goes to Prof. Dr. Dan Zeman for his invaluable contributions in making the dataset available on GitHub and offering valuable suggestions.
+Special gratitudes goes to Prof. Dr. Dan Zeman for his invaluable contributions in making the language and dataset available on GitHub and offering valuable suggestions.
 
 ## References
 
@@ -76,25 +94,25 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 
 ## POS Tags
 
-[ADJ](oge_glc-pos-ADJ.html) – [ADP](oge_glc-pos-ADP.html) – [ADV](oge_glc-pos-ADV.html) – [AUX](oge_glc-pos-AUX.html) – [CCONJ](oge_glc-pos-CCONJ.html) – [NOUN](oge_glc-pos-NOUN.html) – [NUM](oge_glc-pos-NUM.html) – [PART](oge_glc-pos-PART.html) – [PRON](oge_glc-pos-PRON.html) – [PROPN](oge_glc-pos-PROPN.html) – [PUNCT](oge_glc-pos-PUNCT.html) – [SCONJ](oge_glc-pos-SCONJ.html) – [VERB](oge_glc-pos-VERB.html) – [X](oge_glc-pos-X.html)
+[ADJ](oge_glc-pos-ADJ.html) – [ADP](oge_glc-pos-ADP.html) – [ADV](oge_glc-pos-ADV.html) – [AUX](oge_glc-pos-AUX.html) – [CCONJ](oge_glc-pos-CCONJ.html) – [INTJ](oge_glc-pos-INTJ.html) – [NOUN](oge_glc-pos-NOUN.html) – [NUM](oge_glc-pos-NUM.html) – [PART](oge_glc-pos-PART.html) – [PRON](oge_glc-pos-PRON.html) – [PROPN](oge_glc-pos-PROPN.html) – [PUNCT](oge_glc-pos-PUNCT.html) – [SCONJ](oge_glc-pos-SCONJ.html) – [VERB](oge_glc-pos-VERB.html) – [X](oge_glc-pos-X.html)
 
 ## Features
 
-[AdpType](oge_glc-feat-AdpType.html) – [AdvType](oge_glc-feat-AdvType.html) – [Aspect](oge_glc-feat-Aspect.html) – [Case](oge_glc-feat-Case.html) – [Case[stack]](oge_glc-feat-Case-stack.html) – [Degree](oge_glc-feat-Degree.html) – [ExtPos](oge_glc-feat-ExtPos.html) – [Mood](oge_glc-feat-Mood.html) – [Number](oge_glc-feat-Number.html) – [Number[io]](oge_glc-feat-Number-io.html) – [Number[obj]](oge_glc-feat-Number-obj.html) – [Number[subj]](oge_glc-feat-Number-subj.html) – [NumForm](oge_glc-feat-NumForm.html) – [NumType](oge_glc-feat-NumType.html) – [PartType](oge_glc-feat-PartType.html) – [Person](oge_glc-feat-Person.html) – [Person[io]](oge_glc-feat-Person-io.html) – [Person[obj]](oge_glc-feat-Person-obj.html) – [Person[subj]](oge_glc-feat-Person-subj.html) – [Poss](oge_glc-feat-Poss.html) – [PronType](oge_glc-feat-PronType.html) – [PunctSide](oge_glc-feat-PunctSide.html) – [PunctType](oge_glc-feat-PunctType.html) – [Subcat](oge_glc-feat-Subcat.html) – [Tense](oge_glc-feat-Tense.html) – [VerbForm](oge_glc-feat-VerbForm.html) – [Voice](oge_glc-feat-Voice.html)
+[AdpType](oge_glc-feat-AdpType.html) – [AdvType](oge_glc-feat-AdvType.html) – [Aspect](oge_glc-feat-Aspect.html) – [Case](oge_glc-feat-Case.html) – [Case[stack]](oge_glc-feat-Case-stack.html) – [Case[stackb]](oge_glc-feat-Case-stackb.html) – [Degree](oge_glc-feat-Degree.html) – [Evident](oge_glc-feat-Evident.html) – [ExtPos](oge_glc-feat-ExtPos.html) – [Mood](oge_glc-feat-Mood.html) – [NameType](oge_glc-feat-NameType.html) – [Number](oge_glc-feat-Number.html) – [Number[io]](oge_glc-feat-Number-io.html) – [Number[obj]](oge_glc-feat-Number-obj.html) – [Number[subj]](oge_glc-feat-Number-subj.html) – [NumForm](oge_glc-feat-NumForm.html) – [NumType](oge_glc-feat-NumType.html) – [PartType](oge_glc-feat-PartType.html) – [Person](oge_glc-feat-Person.html) – [Person[io]](oge_glc-feat-Person-io.html) – [Person[obj]](oge_glc-feat-Person-obj.html) – [Person[subj]](oge_glc-feat-Person-subj.html) – [Poss](oge_glc-feat-Poss.html) – [PronType](oge_glc-feat-PronType.html) – [PunctSide](oge_glc-feat-PunctSide.html) – [PunctType](oge_glc-feat-PunctType.html) – [Subcat](oge_glc-feat-Subcat.html) – [Tense](oge_glc-feat-Tense.html) – [Typo](oge_glc-feat-Typo.html) – [VerbForm](oge_glc-feat-VerbForm.html) – [VerbType](oge_glc-feat-VerbType.html) – [Voice](oge_glc-feat-Voice.html)
 
 ## Relations
 
-[acl](oge_glc-dep-acl.html) – [acl:relcl](oge_glc-dep-acl-relcl.html) – [advcl](oge_glc-dep-advcl.html) – [advmod](oge_glc-dep-advmod.html) – [advmod:emph](oge_glc-dep-advmod-emph.html) – [advmod:neg](oge_glc-dep-advmod-neg.html) – [amod](oge_glc-dep-amod.html) – [appos](oge_glc-dep-appos.html) – [case](oge_glc-dep-case.html) – [cc](oge_glc-dep-cc.html) – [ccomp](oge_glc-dep-ccomp.html) – [compound](oge_glc-dep-compound.html) – [conj](oge_glc-dep-conj.html) – [cop](oge_glc-dep-cop.html) – [csubj](oge_glc-dep-csubj.html) – [dep](oge_glc-dep-dep.html) – [det](oge_glc-dep-det.html) – [det:poss](oge_glc-dep-det-poss.html) – [discourse](oge_glc-dep-discourse.html) – [fixed](oge_glc-dep-fixed.html) – [flat](oge_glc-dep-flat.html) – [iobj](oge_glc-dep-iobj.html) – [mark](oge_glc-dep-mark.html) – [nmod](oge_glc-dep-nmod.html) – [nsubj](oge_glc-dep-nsubj.html) – [nsubj:pass](oge_glc-dep-nsubj-pass.html) – [nummod](oge_glc-dep-nummod.html) – [obj](oge_glc-dep-obj.html) – [obl](oge_glc-dep-obl.html) – [parataxis](oge_glc-dep-parataxis.html) – [punct](oge_glc-dep-punct.html) – [root](oge_glc-dep-root.html) – [vocative](oge_glc-dep-vocative.html) – [xcomp](oge_glc-dep-xcomp.html)
+[acl](oge_glc-dep-acl.html) – [acl:relcl](oge_glc-dep-acl-relcl.html) – [advcl](oge_glc-dep-advcl.html) – [advmod](oge_glc-dep-advmod.html) – [advmod:emph](oge_glc-dep-advmod-emph.html) – [advmod:neg](oge_glc-dep-advmod-neg.html) – [amod](oge_glc-dep-amod.html) – [appos](oge_glc-dep-appos.html) – [case](oge_glc-dep-case.html) – [cc](oge_glc-dep-cc.html) – [ccomp](oge_glc-dep-ccomp.html) – [compound](oge_glc-dep-compound.html) – [conj](oge_glc-dep-conj.html) – [cop](oge_glc-dep-cop.html) – [csubj](oge_glc-dep-csubj.html) – [dep](oge_glc-dep-dep.html) – [det](oge_glc-dep-det.html) – [det:poss](oge_glc-dep-det-poss.html) – [discourse](oge_glc-dep-discourse.html) – [dislocated](oge_glc-dep-dislocated.html) – [fixed](oge_glc-dep-fixed.html) – [flat](oge_glc-dep-flat.html) – [goeswith](oge_glc-dep-goeswith.html) – [iobj](oge_glc-dep-iobj.html) – [mark](oge_glc-dep-mark.html) – [nmod](oge_glc-dep-nmod.html) – [nsubj](oge_glc-dep-nsubj.html) – [nsubj:pass](oge_glc-dep-nsubj-pass.html) – [nummod](oge_glc-dep-nummod.html) – [obj](oge_glc-dep-obj.html) – [obl](oge_glc-dep-obl.html) – [orphan](oge_glc-dep-orphan.html) – [parataxis](oge_glc-dep-parataxis.html) – [punct](oge_glc-dep-punct.html) – [root](oge_glc-dep-root.html) – [vocative](oge_glc-dep-vocative.html) – [xcomp](oge_glc-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 151 sentences, 6575 tokens and 6884 syntactic words.</li>
+<li>This corpus contains 1232 sentences, 32383 tokens and 33630 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 757 tokens (12%) that are not followed by a space.</li>
+<li>This corpus contains 4812 tokens (15%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -102,12 +120,12 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 </ul>
 
 <ul>
-<li>This corpus contains 43 types of words that contain both letters and punctuation. Examples: კერძო-დიაკონნი, ა(1), ადგილ-ადგილადისა, ბ(2), გ(3), დ(4), დედათ-დიაკონი, დღითი-დღედსა, ე(5), ვ(6), ზ(7), ზედა-მარბეველობისაჲთა, თ(9), თანა-შემატყუებელნი, ი(10), ია(11), იბ(12), იგ(13), იდ(14), იე(15), ივ(16), იზ(17), ით(19), იჱ(18), კ(20), კა(21), კბ(22), კგ(23), კდ(24), კე(25), კერძო-დიაკონთა, კერძო-დიაკონი, კერძო-დიაკონობისა, კერძო-დიაკონობისასა, კერძო-დიაკონსა, კვ(26), კზ(27), კთ(29), კჱ(28), ნათესავითი-ნათესავადმდე, ჟამად-ჟამად, ჟამად-ჟამადთა, ჱ(8)</li>
+<li>This corpus contains 89 types of words that contain both letters and punctuation. Examples: ცისად-ცისადთა, თანა-ზიარ, კაცად-კაცადი, კერძო-დიაკონნი, სათნო-იყო, შემდგომითი-შემდგომად, ა(1), აბრალებ-ა, ადგილ-ადგილადისა, ამბორის-მყოფელ, აღჳრ-ესხნენ, აღჳრ-სხმა, ბ(2), გ(3), გამოვიძიოთ-ღა, გარე-მოვიცვათ, დ(4), დედათ-დიაკონთა, დედათ-დიაკონი, დღითი-დღე, დღითი-დღედსა, დღითი-დღეობისა, ე(5), ვ(6), ვინ-ა, ვინ-მე, ზ(7), ზედა-მარბეველობისაჲთა, თ(9), თავს-დებად, თანა-აც, თანა-მწირველთა, თანა–აღდეგით, თაყუანის-მცემელთა, თაყუანის-საცემელ, ი(10), ია(11), იბ(12), იგ(13), იდ(14), იე(15), ივ(16), იზ(17), ით(19), იჱ(18), კ(20), კა(21), კბ(22), კგ(23), კდ(24)</li>
 </ul>
 
 <ul>
-<li>This corpus contains 302 multi-word tokens. On average, one multi-word token consists of 2.02 syntactic words.</li>
-<li>There are 221 types of multi-word tokens. Examples: ვინაჲთგან, ჯერ-არს, ამისთჳს, მისგან, რომელმან-იგი, ამიერითგან, რომელთა-იგი, ვითარ-იგი, მისთჳს, მათგან, მღდელობისაგან, რომლისათჳს, რომლისათჳსცა, ჴელთ-დასხმისა, ამიერითგანცა, დასისაგანნი, დიაკონთათჳს, ვინაჲცა, თჳსაგან, კანონისაებრ, მათთჳს, მიზეზისათჳს, მოქმედებისაგან, პატივისაგან, რომელნი-იგი, ღმრთისაგან, შემდგომითი-შემდგომად, შეყოფისაგან, ცხად-არს, ჴელ-ყოს, ჴელთ-დასხმაჲ, ადგილ-ეც, ამათგან, ამათთჳს, არიოზისთჳს, აღაპისთჳს, აღმატებადმდე, აღმოცენებულთათჳს, აღრაცხილ-ყოფაჲ, აღრაცხილთათჳს, აღსაარებისათჳს, აღსასრულადმდე, ბუნებათაგან, განგებისათჳს, განკრძალულ-ყოფაჲ, განსაზღვრებისაებრ, განსაკითხაობისაგანცა, განჩინებისაებრ, განჩინებულთაგანისა, განწმედილობისაგან.</li>
+<li>This corpus contains 1239 multi-word tokens. On average, one multi-word token consists of 2.01 syntactic words.</li>
+<li>There are 732 types of multi-word tokens. Examples: ვინაჲთგან, მისგან, ამისთჳს, ჯერ-არს, რომელი-იგი, მისთჳს, მათგან, რომლისათჳსცა, ამისთჳსცა, მათთჳს, რომელმან-იგი, ვითარ-იგი, რომლისათჳს, ღმრთისაგან, ცხორებისათჳს, უკუნისამდე, ჩუენთჳს, რომელნი-იგი, შენთჳს, ამიერითგან, რომელთა-იგი, ვითარცა-იგი, საქმეთაგან, ყოველთათჳს, შენგან, ჯერ-იყო, ამათგან, თქუენთჳს, მიზეზისათჳს, მისებრ, რაჲ-იგი, ქუეყანისაგან, ჩუენგან, ჯერისათჳს, ჴორცთათჳს, არარაჲსაგან, ვისგანმე, თავს-იდებდა, მამისათჳს, მისისაგან, მღდელობისაგან, ნუცა, ორთაგან, პირველითგან, რომელთაგანმე, რომელსა-იგი, რომლისაგან, საკრველთაგან, ჩემთჳს, ცოდვათაგან.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -115,16 +133,16 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <h3>Tags</h3>
 
 <ul>
-<li>This corpus uses 14 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
-<li>This corpus does not use the following tags: DET, INTJ, SYM</li>
+<li>This corpus uses 15 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
+<li>This corpus does not use the following tags: DET, SYM</li>
 </ul>
 
 <ul>
-<li>This corpus contains 23 word types tagged as particles (PART): არა, არარაჲ, არღარა, არღასადა, არცა, არცათუ, არცაღა, არცაღათუ, ვერ, ვითამე, თუ, თჳთ, ნუ, ნუმცა, ნუუკუე, ნუღარამცა, ნუცა, ნუცამცა, რაჲ, რაჲთამცა, რეცა, ცა, ხოლო</li>
+<li>This corpus contains 37 word types tagged as particles (PART): არ, არა, არავე, არარაჲ, არაჲ, არღა, არღარა, არღასადა, არც, არცა, არცათუ, არცამცა, არცაღა, არცაღათუ, ვერ, ვერღარა, ვერცა, ვითამე, თჳთ, მცა, ნუ, ნუმვე, ნუმცა, ნურაჲთა, ნუუკუე, ნუუკუედა, ნუღარა, ნუღარამცა, ნუცა, ნუცამცა, ნუცაღა, ო, რაჲ, რაჲთამცა, რეცა, ცა, ხოლო</li>
 </ul>
 
 <ul>
-<li>This corpus contains 58 lemmas tagged as pronouns (PRON): ამიერი, არავინ, არარაჲ, არღარავინ, ეგე, ეგევითარი, ერთი, ეს, ესე, ესევითარი, ვიეთი, ვიეთიმე, ვიეთნიმე, ვითარი, ვინ, ვინაჲ, ვინაჲთ, ვინმე, ვინცა, ვისთჳმე, ვისიმე, თავი, თთჳ, თითოეული, თქუენ, თქუენი, თჳსი, იგი, იგინი, ის, მათი, მე, მისი, მრავალი, რა, რათმე, რაოდენი, რაჲ, რაჲმე, რაჲცა, რომელი, სხუა, სხუად, სხუანი, სხუაჲ, სხჳა, სხჳსი, ურთიერთა, უშენი, ყოველთავე, ყოველი, ყოველივე, შენ, შენი, ჩემი, ჩუენ, ჩუენი, ძუელი</li>
+<li>This corpus contains 94 lemmas tagged as pronouns (PRON): ამიერი, ამისი, არავინ, არარა, არვინ, არღარავინ, ეგე, ეგევითარი, ერთი, ეს, ესე, ესევე, ესევითარი, ესენი, ესოდენი, ვერარა, ვერვინ, ვიეთი, ვიეთიმე, ვიეთმე, ვიეთნიმე, ვითარი, ვინ, ვინ-მე, ვინა, ვინმე, ვინმცა, ვინცა, ვის, ვისი, ვისიმე, თავადი, თავი, თთჳ, თითოეული, თითუეული, თოთოეული, თქუენ, თქუენი, თჳთ, თჳსი, იგი, იგივე, იგინი, ის, ისინი, კაცად-კაცადი, მათ, მათი, მათო, მე, მევე, მისი, მრავალი, ნურარა, ორივე, რა, რაბამი, რავდენ, რავდენი, რავდენიცა, რათა, რათმე, რაოდენი, რაჲ-მე, რაჲმე, რაჲცა, რომელ, რომელი, რომელიეგე, რომელიმე, რომელიცა, სხუა, სხუად, სხუანი, სხჳა, სხჳსი, ურთიერთა, ურთიერთას, ურთიერთასი, უშენი, ყოველთავე, ყოველი, ყოველივე, შენ, შენთჳს, შენი, ჩემი, ჩვენ, ჩვენი, ჩუეი, ჩუენ, ჩუენი, ძუელი</li>
 </ul>
 
 <ul>
@@ -135,7 +153,7 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 </ul>
 
 <ul>
-<li>This corpus contains 2 lemmas tagged as auxiliaries (AUX): არის, ყოფა</li>
+<li>This corpus contains 1 lemmas tagged as auxiliaries (AUX): ყოფა</li>
 </ul>
 
 <ul>
@@ -149,8 +167,8 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: არს, იყოს, იყვნენ, იყო, არიან, იქმნა, იქმნეს, იქმენინ, იქმნნეს, იქმნებიან</li>
-    <li>VERB: განიკუეთენ, იტყჳს, აქუნდეს, თქუა, უჴმს, განვასაზღვრებთ, ვიტყჳთ, დავიცავთ, დასცხერინ, იკადროს</li>
+    <li>AUX: არს, იყო, არიან, ხარ, იყოს, იქმნა, იყვნენ, იქმნეს, იყვნეს, ყო</li>
+    <li>VERB: თქუა, იტყჳს, გიხაროდენ, იქმნა, ჰრქუა, ვიტყჳ, იხილა, აქუნდეს, განიკუეთენ, ეტყოდა</li>
   </ul>
   </li>
 </ul>
@@ -158,7 +176,8 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Part
   <ul>
-    <li>VERB: შეკრებულთა, ჴელთდასხმულ, აღწერილთა, დაცვულისა, მოჴსენებულისა, ქმნილ, ღმერთშემოსილთა, დასხმულთა, დაცვულსა, დაცულსა</li>
+    <li>ADJ: პატივცემული, აღებული, აღმომავალი, აღსრულებულთა, აღსრულებულსა, გამოცდილ, განათლებულნი, განგებული, განმზადებულსა, განმწმედელი</li>
+    <li>VERB: კურთხეულ, შემძლებელ, შესაძლებელ, ქმნილ, შეკრებულთა, ჴელთდასხმულ, მყოფნი, ყოფადთა, აღწერილთა, ბრძანებულ</li>
   </ul>
   </li>
 </ul>
@@ -166,7 +185,7 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Vnoun
   <ul>
-    <li>VERB: ყოფაჲ, ქმნად, ყოფად, აღსაშენებელად, ყოფისა, აღსაარებად, განკუეთასა, განსამტკიცებელად, თქუმად, მსახურებასა</li>
+    <li>VERB: ყოფად, ყოფაჲ, თქუმად, ქმნად, შეწირვად, აღსაშენებელად, ვნებაჲ, მიღებაჲ, მორჩილებაჲ, მოსლვად</li>
   </ul>
   </li>
 </ul>
@@ -183,12 +202,15 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: წმიდათა, საღმრთოთა, ნეტართა, სამღდელოთა, მსოფლიოთა, საეკლესიოთა, სამოციქულოთა, საღმრთონი, ბუნებითნი, სჯულიერთა</li>
-      <li>NOUN: მამათა, ეპისკოპოსთა, ეკლესიათა, ჴელთ, კანონნი, კანონთა, დიაკონთა, მსახურთა, საქმეთა, ეპისკოპოსნი</li>
-      <li>NUM: ორთა, ოცდაათთა, ორნი, ათორმეტთა, ათრვამეტთა, ას, ექუსას, ორასთა, შჳდნი, ასერგასისთა</li>
-      <li>PRON: მათ, რომელთა, ჩუენ, რომელნი, თჳსთა, ამათ, ყოველთა, ჩუენთა, ჩუენისა, სხუათა</li>
-      <li>PROPN: იუსტინიანესთა, კოსტანიტენსთა, კჳრილესთა</li>
-      <li>VERB-Part: შეკრებულთა, ღმერთშემოსილთა, აღწერილთა, დასხმულთა, მყოფთა, მყოფნი, პირველთქუმულთა, პირველმოჴსენებულთა, შემოკრებულთა, განჩინებულთა</li>
+      <li>ADJ: წმიდათა, საღმრთოთა, წმიდანი, ბოროტთა, მრავალთა, ზესთა, კეთილთა, საღმრთონი, დიდთა, ღირსთა</li>
+      <li>ADJ-Part: აღსრულებულთა, განათლებულნი, ლტოლვილნი, მყოფთა, მყოფნი, ქმნულნი, ხილულნი</li>
+      <li>AUX-Fin: იყვნეს, ქმნეს</li>
+      <li>NOUN: მამათა, საქმეთა, კაცთა, ჴორცთა, ვნებათა, ეპისკოპოსთა, თავთა, წარმართთა, ანგელოზთა, სიტყუათა</li>
+      <li>NUM: ორთა, ორთავე, ოცდაათთა, ორნი, პირველნი, შჳდთა, ათორმეტთა, ათრვამეტთა, ას, ექუსას</li>
+      <li>PRON: მათ, ჩუენ, ყოველთა, რომელთა, რომელნი, თქუენ, იგინი, ჩუენდა, მისთა, თჳსთა</li>
+      <li>PROPN: ქრისტჱსითა, ისრაელისათა, ქრისტესითა, აგარისთა, ანტიოქიისათა, ბარლაამისითა, იერუსალჱმისათა, იექონიაჲსთა, იოაკიმისთა, ისრაილისათა</li>
+      <li>VERB-Part: შეკრებულთა, მყოფნი, ყოფადთა, აღწერილთა, ღმერთშემოსილთა, შემოკრებულთა, დაბადებულნი, დასხმულთა, მყოფთა, პირველთქუმულთა</li>
+      <li>VERB-Vnoun: აღძრვანი, გამორჩევათა, გამოძიებათა, განგებათა, ზრახვანი, ღებისანი, შემოკლებითთა, ხედვანი, ხილვათა</li>
     </ul>
   </li>
 </ul>
@@ -196,13 +218,16 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: წმიდისა, სათნო, სამეუფოსა, წმიდასა, დიდისა, სამღდელოსა, უზიარებელ, უმჯობესისა, წმიდაჲ, აწინდელისა</li>
-      <li>NOUN: ღმრთისა, ეპისკოპოსმან, ქალაქსა, მეფისა, ეკლესიასა, ქმნაჲ, ეპისკოპოსისა, სიტყუაჲ, კრებაჲ, კრებისა</li>
-      <li>NUM: მეოთხისა, პირველთა, პირველისა, ერთი, ერთისა, მეათხუთმეტედ, მეათხუთმეტედმდე, მეორე, მეორემან, მეორესა</li>
-      <li>PRON: იგი, მის, ამას, ესე, მას, ამის, რომელი, ვინმე, რომელმან, ვინაჲთ</li>
-      <li>PROPN: ქრისტეს, თეოფილე, გრიგოლი, იესუ, იუსტინიანეს, არაბიანე, თევდოსის, თეოდორე, კესარია, ნეკტარი</li>
-      <li>VERB-Part: დაცვულისა, მოჴსენებულისა, დაცვულსა, დაცულსა, განსაზღვრებულსა, გარდასრულისა, მომპოვნებელმან, მქონებელი, პირველმოჴსენებულისა, სჯულდებულისა</li>
-      <li>VERB-Vnoun: ყოფაჲ, ქმნად, ყოფად, აღსაშენებელად, ყოფისა, აღსაარებად, განკუეთასა, განსამტკიცებელად, თქუმად, მსახურებასა</li>
+      <li>ADJ: კეთილად, წმიდისა, ნეტარი, წმიდასა, წმიდაჲ, დიდისა, წმიდამან, უფროჲსად, ღირს, დიდი</li>
+      <li>ADJ-Part: პატივცემული, აღებული, აღმომავალი, აღსრულებულსა, გამოცდილ, განგებული, განმზადებულსა, განმწმედელი, განყოფილი, განწმედილისა</li>
+      <li>AUX-Fin: არს</li>
+      <li>NOUN: ღმრთისა, ჯუარი, უფლისა, სიტყუაჲ, ღმერთი, ცხორებისა, ღმერთმან, უფალმან, ეპისკოპოსმან, ქუეყანასა</li>
+      <li>NUM: პირველ, ერთი, პირველი, პირველისა, მეორე, ერთისა, ერთსა, პირველად, ერთ, მეორესა</li>
+      <li>PRON: იგი, მის, მას, ესე, რომელი, შენ, ამის, ამას, მან, რომლისა</li>
+      <li>PROPN: ქრისტეს, ქრისტე, ბარლაამ, იესუ, ქრისტესა, ქრისტემან, თეოფილე, მარიამ, მოსეს, მოსე</li>
+      <li>VERB: ყოფად, ყოფაჲ, კურთხეულ, შემძლებელ, შესაძლებელ, თქუმად, ქმნილ, ჴელთდასხმულ, ქმნად, შეწირვად</li>
+      <li>VERB-Part: კურთხეულ, შემძლებელ, შესაძლებელ, ქმნილ, ჴელთდასხმულ, ბრძანებულ, დაცვულისა, მიმადლებულო, მოჴსენებულისა, წერილ</li>
+      <li>VERB-Vnoun: ყოფად, ყოფაჲ, თქუმად, ქმნად, შეწირვად, აღსაშენებელად, ვნებაჲ, მიღებაჲ, მორჩილებაჲ, მოსლვად</li>
     </ul>
   </li>
 </ul>
@@ -212,16 +237,32 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 </ul>
 
 <ul>
+  <li>Abs
+    <ul>
+      <li>ADJ: ღირს, დიდ, კეთილ, ცხად, საცნაურ, უმჯობეს, შეურაცხ, საჴმარ, სრულ, მრავალ</li>
+      <li>ADJ-Part: გამოცდილ, მორტყმულ</li>
+      <li>NOUN: სახელ, ძალ, პატივ, კუერთხ, ჟამ, საჴმარ, ღმერთებ, მიზეზ, მსახურ, სულ</li>
+      <li>NUM: ერთ</li>
+      <li>PRON: შენ, თჳთ, რომელ, ჩუენ</li>
+      <li>PROPN: ნაბუქოდონოსორ, იაკობ, ბარლაამ, ემმანუელ, ვალტასარ, ვალტაშარ, ისრაილ, კრიტელ, ნაზარეთ, საბაოთ</li>
+      <li>VERB-Part: კურთხეულ, შემძლებელ, შესაძლებელ, ქმნილ, ჴელთდასხმულ, ბრძანებულ, წერილ, დასჯილ, აღმომაცენებელ, აღრაცხილ</li>
+      <li>VERB-Vnoun: განმწმედელ, მომასწავებელ, შესახეთქელ, შუვამდგომელ</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Dat
     <ul>
-      <li>ADJ: სამეუფოსა, წმიდასა, სამღდელოსა, უკუანაჲსკნელსა, დიდსა, სამღდელოთა, ახალსა, ბოროტსა, განკრძალულსა, განურღუეველთა</li>
-      <li>ADP: შინა, თანა, ზედა, თჳს, მიმართ, მომართ, ქუეშე, თანათა, თანასა, შინ</li>
-      <li>NOUN: ქალაქსა, ეკლესიასა, ჟამსა, ადგილსა, ეკლესიისათა, კანონსა, კრებასა, პატივსა, სამღდელოსა, სიტყუასა</li>
-      <li>NUM: ათორმეტთა, მეორესა, მესამესა, ორსავე, პირველსა, სამას</li>
-      <li>PRON: ამას, მას, მათ, თჳსსა, რომელსა, ჩუენდა, მისდა, რომელსაცა, ყოველთა, ჩუენ</li>
-      <li>PROPN: ნიკეას, პეტრეს, ანკჳრიას, ანტიოქიას, აღაპის, ვაღადიოსს, ვაღადისსა, იუსტინიანეს, კართაგენს, კოსტანიტენსთა</li>
-      <li>VERB-Part: დაცვულსა, დაცულსა, განსაზღვრებულსა, აღმაშენებელსა, აღმოთქუმულთა, აღრაცხილთა, აღრაცხილსა, განმამტკიცებელსა, განმყოფელსა, განუკრძალველთა</li>
-      <li>VERB-Vnoun: განკუეთასა, მსახურებასა, გამორჩევასა, განმრავლებასა, დადგინებასა, დატევებასა, ზიარებასა, ზიარებისასა, მიმთხუევასა, მიქცევასა</li>
+      <li>ADJ: წმიდასა, დიდსა, სამეუფოსა, სამღდელოსა, საღმრთოსა, ბოროტსა, ნეტარსა, საშინელსა, ახალსა, ესევითარსა</li>
+      <li>ADJ-Part: აღსრულებულთა, აღსრულებულსა, განმზადებულსა, დამოკიდებულსა, მოსრულსა, პირველდაცემულსა</li>
+      <li>ADP: შინა, თანა, წინაშე, შორის, მიმართ, მომართ, ქუეშე, თჳს, მიერ, გარეშე</li>
+      <li>NOUN: ქუეყანასა, ღმერთსა, ადგილსა, თავს, ჟამსა, მთასა, ქალაქსა, პირსა, უფალსა, დღესა</li>
+      <li>NUM: ერთსა, მეორესა, პირველსა, მეათესა, მესამესა, ათორმეტთა, ათცხრამეტსა, მეხუთესა, ორსავე, პირველ</li>
+      <li>PRON: მას, ამას, მათ, რომელსა, ყოველთა, მე, მისსა, ჩუენდა, თქუენ, თჳსსა</li>
+      <li>PROPN: ქრისტესა, ქრისტესსა, ბარლაამს, მოსეს, ნიკეას, ანტიოქიას, ბაბილონისასა, ბაბილონს, ბოსტრისასა, დავითისსა</li>
+      <li>VERB-Part: დაცვულსა, დაცულსა, ბრძანებულსა, განსაზღვრებულსა, გარდასრულსა, ქმნილსა, შემოკრებულთა, შობილსა, აღთქუმულთა, აღმაშენებელსა</li>
+      <li>VERB-Vnoun: განკუეთასა, მსახურებასა, შეწირვასა, აღმოსლვასაცა, ბრძოლასა, გამორჩევასა, განახლებასა, განმრავლებასა, დადგინებასა, დაკლვასა</li>
     </ul>
   </li>
 </ul>
@@ -229,12 +270,13 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Erg
     <ul>
-      <li>ADJ: წმიდამან, ღირსმან, გამოუთქუმელმან, ნეტარი, სამოციქულომან, საღმრთომან, სახიერმან</li>
-      <li>NOUN: ეპისკოპოსმან, ღმერთმან, განჩინებამან, დედაქალაქისამან, მეფემან, მსახურმან, განჩინებისამან, დიაკონმან, ერმან, კანონმან</li>
-      <li>NUM: მეორემან</li>
-      <li>PRON: რომელმან, მან, ჩუენმან, ერთმან, ესე, თითოეულმან, თქუენმან, ყოველმან, შენმან</li>
-      <li>PROPN: ანკჳრიისამან, ქრისტემან, ალექსანდრიისამან, ანტიოქიისამან, კოსტანტინეპოლისამან, კოსტანტინოპილისამან, კოსტანტინოპოვლისამან, ქრისტესმან</li>
-      <li>VERB-Part: მომპოვნებელმან, აღძრულმან, გამომეძიებელმან, განთავისუფლებულმან, განკრძალულმან, დამდებელმან, ლმობიერქმნილმანცა, მსხდომარემან</li>
+      <li>ADJ: წმიდამან, ნეტარმან, ღირსმან, ბოროტმან, დამოკიდებულმან, მხოლომან, სამოციქულომან, საღმრთომან, ყოველმან, ახოვანმან</li>
+      <li>ADJ-Part: დამოკიდებულმან</li>
+      <li>NOUN: ღმერთმან, უფალმან, ეპისკოპოსმან, სულმან, ბერმან, განჩინებამან, ეშმაკთამან, მეფემან, მთავარმან, ძემან</li>
+      <li>NUM: ერთმან, მეორემან, პირველმან</li>
+      <li>PRON: მან, რომელმან, ჩუენ, ჩუენმან, შენმან, მათ, თავადმან, რომელთაცა, შენ, ვინმე</li>
+      <li>PROPN: ქრისტემან, ანკჳრიისამან, ადამ, ალექსანდრიისამან, ანტიოქიისამან, არაბიანე, თეოფილე, კოსტანტინეპოლისამან, კოსტანტინოპილისამან, ქრისტესმან</li>
+      <li>VERB-Part: განკრძალულმან, მომპოვნებელმან, აღძრულმან, გამომეძიებელმან, განთავისუფლებულმან, განჴორციელებულმან, დამდებელმან, ლმობიერქმნილმანცა, მიმსგავსებულმან, მინიჭებულმან</li>
     </ul>
   </li>
 </ul>
@@ -242,14 +284,14 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Ess
     <ul>
-      <li>ADJ: უფროჲსად, განუბნეველად, მოქმედად, ნაკლულევანად, სამადლობელად, უფროჲსადღა, ღირსად, ცხოველსმყოფელად, წარუგებელად, წინააღმდგომად</li>
-      <li>ADP: მდე</li>
-      <li>NOUN: მღდელად, ბრალობათად, ბრძოლად, დღედმდე, ელვარემყოფელად, ეპისკოპოსად, ერთჴმობად, ზედამდგომელად, ზეცად, თანამკჳდრად</li>
-      <li>NUM: მეათხუთმეტედ, მეათხუთმეტედმდე</li>
-      <li>PRON: თჳსად, სხუად</li>
-      <li>PROPN: ალექსანდრიად, ქრისტედ</li>
-      <li>VERB-Part: მისატევებლად, მოცემულად, ქმნილად</li>
-      <li>VERB-Vnoun: ქმნად, ყოფად, აღსაშენებელად, აღსაარებად, განსამტკიცებელად, თქუმად, მღდელობად, სწავლად, წინააღსადგომელად, აღმატებად</li>
+      <li>ADJ: კეთილად, უფროჲსად, წმიდად, ჭეშმარიტად, განცხადებულად, ბოროტად, ღირსად, მტკიცედ, სულიერად, შეურყეველად</li>
+      <li>ADP: მდე, მიმართ</li>
+      <li>NOUN: ზეცად, სახედ, მუცლად, ქუეყანად, ხატად, ხილვად, საქმედ, სლვად, არსებად, ბრძოლად</li>
+      <li>NUM: პირველ, პირველად, მეათხუთმეტედ, მეორედ, ორად, პირველადცა, მეხუთედ</li>
+      <li>PRON: თჳსად, სხუად, არარად, რაჲმე, რომელთა</li>
+      <li>PROPN: ბაბილონად, ალექსანდრიად, ეგჳპტედ, იერუსალჱმად, იერუსალჱმდ, ქანანისად, ქრისტედ, ჯუბიად</li>
+      <li>VERB-Part: ქმნილად, განცხადებულად, დამჴსნელად, თქუმულად, მისატევებლად, მოსავაკებლად, მოცემულად, შეუძლებელად</li>
+      <li>VERB-Vnoun: ყოფად, თქუმად, ქმნად, შეწირვად, აღსაშენებელად, მოსლვად, ხილვად, აღსაარებად, აღსლვად, აღსრულებად</li>
     </ul>
   </li>
 </ul>
@@ -257,14 +299,15 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Gen
     <ul>
-      <li>ADJ: წმიდათა, უფროჲსღა, წმიდისა, დიდისა, საღმრთოთა, ნეტართა, უმჯობესისა, აწინდელისა, მსოფლიოთა, საეკლესიოთა</li>
-      <li>ADP: მიერ, თჳს, მიმართ, შინა, გან, თჳნიერ, ზედა, თანა, ზე, განნი</li>
-      <li>NOUN: მამათა, ღმრთისა, ეპისკოპოსთა, ეკლესიათა, მეფისა, ეპისკოპოსისა, კანონთა, კრებისა, მთავარეპისკოპოსისა, საქმეთა</li>
-      <li>NUM: ორთა, ოცდაათთა, მეოთხისა, ათრვამეტთა, ას, ექუსას, ორასთა, პირველთა, პირველისა, ათას</li>
-      <li>PRON: მის, მათ, რომელთა, ამის, ჩუენისა, თჳსთა, თჳსისა, ამათ, ვინაჲთ, რომლისა</li>
-      <li>PROPN: ქრისტეს, თევდოსის, იუსტინიანეს, იესუ, კოსტანტინეს, კოსტანტინოპოლის, ალექსადრიისაჲ, ანდრიანოპოლისაჲ, ანკჳრიისაჲ, ანტიოქიისაჲ</li>
-      <li>VERB-Part: შეკრებულთა, დაცვულისა, მოჴსენებულისა, ღმერთშემოსილთა, აღწერილთა, დასხმულთა, მყოფთა, პირველთქუმულთა, პირველმოჴსენებულთა, განჩინებულთა</li>
-      <li>VERB-Vnoun: ყოფისა, გამოჩინებისა, განტევებისა, დგომისა, თქუმისა, მითხრობისა, მიღებისა, შეყოფისა</li>
+      <li>ADJ: წმიდათა, წმიდისა, დიდისა, ნეტარისა, უფროჲსღა, მრავალთა, საღმრთოთა, ბოროტთა, ზესთა, კეთილთა</li>
+      <li>ADJ-Part: განწმედილისა, დაბადებულისა, მყოფთა</li>
+      <li>ADP: გან, თჳს, მიერ, მიმართ, შორის, შინა, თანა, თჳსცა, ებრ, თჳნიერ</li>
+      <li>NOUN: ღმრთისა, უფლისა, ცხორებისა, მამათა, საქმეთა, სულისა, სოფლისა, ჴორცთა, მამისა, ძისა</li>
+      <li>NUM: პირველისა, ორთა, პირველ, ერთისა, ორთავე, ოცდაათთა, პირველთა, მეოთხისა, პირველად, პირველვე</li>
+      <li>PRON: მის, მათ, ამის, რომლისა, ჩუენისა, რომელთა, მისისა, თჳსისა, მისთა, ყოვლისა</li>
+      <li>PROPN: ქრისტეს, იესუ, ქრისტჱს, ქრისტესი, მოსეს, ბარლაამის, დავითის, თევდოსის, იუსტინიანეს, კოსტანტინოპოლის</li>
+      <li>VERB-Part: შეკრებულთა, ყოფადთა, აღწერილთა, დაცვულისა, მოჴსენებულისა, ღმერთშემოსილთა, გამოუთქუმელისა, გარდასრულისა, დასხმულთა, მყოფთა</li>
+      <li>VERB-Vnoun: ყოფისა, აღდგომისა, განკაცებისა, ამაღლებისა, აღსლვისა, აღშჱნებისა, გამორჩევათა, გამოჩინებისა, გამოძიებათა, განახლებისა</li>
     </ul>
   </li>
 </ul>
@@ -272,14 +315,15 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Ins
     <ul>
-      <li>ADJ: წმიდითა, კანონებრივითა, მაღლითა, სათნო, საღმრთოთა, სწორითა, უმჯობესისაჲთა, ძმებრივითა, წინააღმდგომით, წმიდით</li>
-      <li>ADP: გან, განნი, განცა</li>
-      <li>NOUN: სიმართლით, კერძო, მიზეზითა, მსახურებით, მსახურებისაჲთა, სულითა, მადლითა, ნებსით, საღმრთოჲთა, სახელითა</li>
-      <li>NUM: მეორითა</li>
-      <li>PRON: ყოვლით, თჳსით, თჳსითა, ყოვლითა, ამით, ესევითარითა, ვინაჲთ, თქუენითა, თქუენისაჲთა, თჳსისაჲთა</li>
-      <li>PROPN: ქრისტესითა</li>
-      <li>VERB-Part: განჴორციელებულისა, წარწერილითა</li>
-      <li>VERB-Vnoun: ყოფითა, გამოხუმითა, განშორებითა, გარდასლვითა, მოცემისაჲთა, ქცევითა, შედგომითა</li>
+      <li>ADJ: კერძო, საღმრთოჲთა, დიდითა, წმიდით, წმიდითა, წმიდისაჲთა, მაღლითა, თითოსახითა, თითოფერითა, მიერით</li>
+      <li>ADJ-Part: მოღებულითა, შეერთებულითა, შეკრებულითა</li>
+      <li>ADP: გან, ურთ, განვე, განნი, განცა, ვითარცა</li>
+      <li>NOUN: სიტყჳთა, ძალითა, დიდებითა, მადლითა, სახითა, ქუეყანით, ჴორცითა, სახელითა, ღმრთისაჲთა, სიხარულით</li>
+      <li>NUM: პირველით, მეორითა, პირველ, პირველი, პირველივე, პირველითა, სამითა</li>
+      <li>PRON: მით, ვინაჲთ, თჳსითა, რომლითა, ყოვლით, თჳსით, შენითა, ამით, მისითა, ყოვლითა</li>
+      <li>PROPN: ეგჳპტით, ქრისტესითა, ქრისტჱსითა, იერუსალჱმით, ბარლაამისითა, ედემისაჲთ, ედომით, თემანით, ისრაელითა, ლიბანით</li>
+      <li>VERB-Part: გამოუთქუმელითა, აღმოსავალით, განჴორციელებულისა, წარწერილითა</li>
+      <li>VERB-Vnoun: ყოფითა, შუებითა, დამარხვითა, მოსლვითა, ყოფით, შეცვალებითა, ხილვით, აღვსებითა, ბრძოლითა, გამოსახვითა</li>
     </ul>
   </li>
 </ul>
@@ -287,14 +331,15 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Nom
     <ul>
-      <li>ADJ: სათნო, უზიარებელ, წმიდაჲ, საღმრთონი, ღირს, შესაძლებელ, ბოროტი, ბუნებითნი, დამჴსნელ, დიდი</li>
-      <li>ADP: ებრ</li>
-      <li>NOUN: კანონნი, ქმნაჲ, სიტყუაჲ, კრებაჲ, ეპისკოპოსნი, ყოფაჲ, დიაკონი, დიაკონნი, თავი, ხუცესი</li>
-      <li>NUM: ორნი, შჳდნი, ერთი, მეორე, ოთხმეოცდახუთნი, ორნივე, პირველი, პირველნი, სამნი</li>
-      <li>PRON: იგი, ესე, ვინმე, რომელი, რომელნი, რაჲმე, ჩუენ, ვინ, იგინი, ერთი</li>
-      <li>PROPN: თეოფილე, გრიგოლი, არაბიანე, თეოდორე, ნეკტარი, ქრისტე, ამფილოქე, დიოსკორე, იესუ, კესარია</li>
-      <li>VERB-Part: მყოფნი, დასხმულნი, მქონებელი, შეკრებული, აღდგომილნი, აღვსებული, აღმოქუმული, აღმსაარებელნი, აღსრულნი, აღწერილნი</li>
-      <li>VERB-Vnoun: ყოფაჲ, აღნადგინებსა, დამტკიცებაჲ, დასხმაჲ, დაწესებაჲ, ზიარებაჲ, მიღებაჲ, მოქცევაჲ, მსახურებაჲ, შესლვაჲ</li>
+      <li>ADJ: ნეტარი, წმიდაჲ, წმიდა, დიდი, სათნო, ბოროტი, ესევითარი, სხუაჲ, საკჳრველი, წმიდანი</li>
+      <li>ADJ-Part: პატივცემული, აღებული, აღმომავალი, განათლებულნი, განგებული, განმწმედელი, განყოფილი, დაფარული, ლტოლვილნი, მდრტჳნავი</li>
+      <li>ADP: ებრ, მდე, მდი</li>
+      <li>NOUN: ჯუარი, სიტყუაჲ, ღმერთი, უფალი, კაცი, ჴმაჲ, ღმრთისაჲ, დიდებაჲ, სული, სახელი</li>
+      <li>NUM: ერთი, პირველი, მეორე, პირველ, პირველნი, ორნი, ორივე, შჳდნი, ერთისაჲ, მეორენი</li>
+      <li>PRON: იგი, ესე, რომელი, შენ, რომელნი, რაჲ, იგინი, მისი, შენი, ჩუენ</li>
+      <li>PROPN: ქრისტე, ბარლაამ, მარიამ, მოსე, ღმერთი, თეოფილე, იესუ, პავლე, გრიგოლი, ნეკტარი</li>
+      <li>VERB-Part: მყოფნი, დაბადებულნი, მქონებელი, შეკრებული, განკუეთადი, დაკლული, დამტევებელნი, დასხმულნი, მდგომარე, მიღებული</li>
+      <li>VERB-Vnoun: ყოფაჲ, ვნებაჲ, მიღებაჲ, მორჩილებაჲ, აღდგომაჲ, აღრიცხუვაჲ, აღსრულებაჲ, განპებაჲ, დაწყებაჲ, მოსპოლვაჲ</li>
     </ul>
   </li>
 </ul>
@@ -302,7 +347,13 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Voc
     <ul>
-      <li>NOUN: მეგობარო, ძმანო</li>
+      <li>ADJ: სათნოო, დიდებულო, მპყრობელო, საკჳრველო, საყუარელნო, ყოვლისამპყრობელო, ჭეშმარიტო, აღსაბეჭდველო, ახალნო, ახალო</li>
+      <li>ADJ-Part: შობილო</li>
+      <li>NOUN: უფალო, ღმერთო, მამაო, შვილნო, ძმანო, სიტყუაო, სძალო, ღმრთისაო, ჯუარო, ასულო</li>
+      <li>PRON: ჩემო, ჩუენდამო, ჩუენო, ჩემნო, ჩუენისაო, შენ, შენდამო, ჩვენო</li>
+      <li>PROPN: ისრაილისაო, იერუსალიმ, იერუსალჱმ, ისრაჱლ, აჰრონისო, ბეთლემო, დავითისო, თემან, იაკობისო, იესესო</li>
+      <li>VERB-Part: მიმადლებულო, მოქმნილო, დასხმულო, მიმოგანრთხმულო, მოსწავებულო, შემზადებულო, შემწყნარებელო</li>
+      <li>VERB-Vnoun: ცხორებაო</li>
     </ul>
   </li>
 </ul>
@@ -319,7 +370,8 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Pos
     <ul>
-      <li>ADJ: წმიდათა, წმიდისა, სათნო, დიდისა, წმიდასა, წმიდაჲ, ნეტართა, ღირს, წმიდამან, ბოროტი</li>
+      <li>ADJ: კეთილად, წმიდათა, წმიდისა, ნეტარი, წმიდასა, წმიდაჲ, დიდისა, კერძო, წმიდამან, ღირს</li>
+      <li>ADJ-Part: პატივცემული, აღებული, აღმომავალი, აღსრულებულთა, აღსრულებულსა, გამოცდილ, განათლებულნი, განგებული, განმზადებულსა, განმწმედელი</li>
     </ul>
   </li>
 </ul>
@@ -327,7 +379,7 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Sup
     <ul>
-      <li>ADJ: უმჯობესისა, უპირატესთა, უდარესთა, უდარესისა, უდიდესია, უვაღრეს, უვაღრესისა, უმეტესი, უმცირეს, უმჯობესისაჲთა</li>
+      <li>ADJ: უზეშთაეს, უმჯობეს, უმჯობესისა, უსაკჳრველეს, უაღრესი, უდარესი, უდიდებულეს, უმაღლესად, უმეტესი, უმცირეს</li>
     </ul>
   </li>
 </ul>
@@ -344,8 +396,19 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Imp
     <ul>
-      <li>AUX-Fin: არს, იყვნენ, იყო, არიან, იქმნებოდის, იყავნ, არსა, იყვენით, იყოს, ეყავნ</li>
-      <li>VERB-Fin: აქუნდეს, უჴმს, ვიტყჳთ, ჰნებავს, აქუნდენ, აღვიარებთ, ბრძანებს, გევედრები, გუნებავს, ეგნენ</li>
+      <li>AUX: არს, არიან, ხარ, იყო, იყვნენ, ვარ, იყვნეს, ვართ, არსა, იყავნ</li>
+      <li>AUX-Fin: არს, არიან, ხარ, იყო, იყვნენ, ვარ, იყვნეს, ვართ, იყავნ, არსა</li>
+      <li>VERB: გიხაროდენ, იტყჳს, აქუნდეს, ვიტყჳ, ეტყოდა, ეწოდების, ამაღლდების, იტყოდა, უჴმს, აქუნდა</li>
+      <li>VERB-Fin: გიხაროდენ, იტყჳს, აქუნდეს, ვიტყჳ, ეტყოდა, ეწოდების, ამაღლდების, იტყოდა, უჴმს, აქუნდა</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Iter
+    <ul>
+      <li>AUX-Fin: არნ, არიედ, არნა, იქმნებიედ</li>
+      <li>VERB-Fin: ჰრქჳან, უწოდიან, გეშინინ, იპოვნიან, აბრალებნ, აღვლიან, აყუედრებდის, გამოეცხადოს, გამოვალნ, გარდავჰჴედით</li>
     </ul>
   </li>
 </ul>
@@ -353,8 +416,10 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Perf
     <ul>
-      <li>AUX-Fin: იყოს, იქმნა, იქმნეს, იქმენინ, იქმნნეს, იქმნებიან, იქმნენ, იქმნების, ქმნას, არს</li>
-      <li>VERB-Fin: განიკუეთენ, თქუა, იტყჳს, განვასაზღვრებთ, დასცხერინ, იკადროს, მოვიდეს, დავიცავთ, ასწავეს, განასაზღვრა</li>
+      <li>AUX-Fin: იყო, იქმნა, იყოს, იქმნეს, ყო, იქმნნეს, იქმნენ, იქმენინ, იქმნებიან, ყოს</li>
+      <li>VERB: თქუა, იქმნა, ჰრქუა, იხილა, განიკუეთენ, მიეცა, მისცა, მოვიდეს, გესმეს, იხილე</li>
+      <li>VERB-Fin: თქუა, იქმნა, ჰრქუა, იხილა, განიკუეთენ, მიეცა, მისცა, მოვიდეს, გესმეს, იხილე</li>
+      <li>VERB-Part: ქმნილ, ქმნილნი, ბრძანებულ, დადგინებადსა, დასჯილ, ქმნილი, ქმნილსა, შეწყნარებულ, ცხორებულ</li>
     </ul>
   </li>
 </ul>
@@ -366,8 +431,8 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Imp
     <ul>
-      <li>AUX-Fin: იქმენინ, იქმნებოდის, იყავნ, იყვენით, ეყავნ, იქმნებოდინ, იქმოდეთ</li>
-      <li>VERB-Fin: განიკუეთენ, დასცხერინ, დაეცადენ, ეც, მიეცემოდედ, არწმუნე, აღდგეს, აღმოვედ, აჩუენებდინ, გამოარჩიენით</li>
+      <li>AUX-Fin: იქმენინ, იყავნ, იყვენით, იქმნებოდის, იყავ, ექმნენით, ეყავნ, იქმნებოდინ, იქმოდეთ, მეყავ</li>
+      <li>VERB-Fin: გიხაროდენ, განიკუეთენ, იხილე, ისმინე, მიიღე, დასცხერინ, ეც, იქმენ, წარვედ, აღდეგ</li>
     </ul>
   </li>
 </ul>
@@ -375,8 +440,9 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Ind
     <ul>
-      <li>AUX-Fin: არს, იყო, არიან, იქმნა, იყვნენ, იქმნნეს, იქმნებიან, იქმნების, არსა, იქმნებოდის</li>
-      <li>VERB-Fin: იტყჳს, თქუა, უჴმს, განვასაზღვრებთ, ვიტყჳთ, დავიცავთ, ჰყოფს, განვაახლებთ, ჰნებავს, ასწავეს</li>
+      <li>AUX-Fin: არს, იყო, არიან, ხარ, იქმნა, ყო, ვარ, იყვნეს, იქმნნეს, იყვნენ</li>
+      <li>VERB: თქუა, იტყჳს, იქმნა, ჰრქუა, ვიტყჳ, იხილა, ეტყოდა, მისცა, არს, ეწოდების</li>
+      <li>VERB-Fin: თქუა, იტყჳს, იქმნა, ჰრქუა, ვიტყჳ, იხილა, ეტყოდა, მისცა, არს, ეწოდების</li>
     </ul>
   </li>
 </ul>
@@ -384,8 +450,9 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Sub
     <ul>
-      <li>AUX-Fin: იყოს, იყვნენ, იქმნეს, იქმნენ, ქმნას, არს, იქმნას, იქმნებიან, იქმნებოდედ, იქმნნეს</li>
-      <li>VERB-Fin: აქუნდეს, იკადროს, მოვიდეს, განაჩინოს, განიკუეთოს, განლაღნეს, გრქუას, დაიცვას, იპოოს, მივიდეს</li>
+      <li>AUX-Fin: იყოს, იყვნენ, იქმნენ, იქმნეს, ყოს, იყვნეს, ვიყვნეთ, იქმნას, იქმნნეს, იყავნ</li>
+      <li>VERB: აქუნდეს, ვთქუა, აგრძნა, გამოჩნდეს, გესმას, ვიქმნნეთ, ვყოთ, იკადროს, მოვიდეს, შევიდეს</li>
+      <li>VERB-Fin: აქუნდეს, ვთქუა, აგრძნა, გამოჩნდეს, გესმას, ვიქმნნეთ, ვყოთ, იკადროს, მოვიდეს, შევიდეს</li>
     </ul>
   </li>
 </ul>
@@ -397,8 +464,9 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Fut
     <ul>
-      <li>AUX-Fin: იქმნების, იყოს</li>
-      <li>VERB-Fin: დავიცავთ, განამჴნობენ, განაქარვებენ, განვარდებიან, განვეკრძალნეთ, განიხრწნებიან, გარდასცვალებენ, დავადგინნეთ, დაჰბრკოლდებიან, შევლენ</li>
+      <li>AUX-Fin: იყოს, ყოს, იქმნების, იქმნენ, იყავ, იყვნენ, ექმნენით, ვექმნნეთ, ვიქმნნეთ, ვიყვნეთ</li>
+      <li>VERB: გიხაროდენ, იხილე, ისმინე, მიიღე, აგრძნა, წარვედ, აქუნდეს, აღდეგ, გამოჩნდეს, გესმას</li>
+      <li>VERB-Fin: გიხაროდენ, იხილე, ისმინე, მიიღე, აგრძნა, წარვედ, აქუნდეს, აღდეგ, გამოჩნდეს, გესმას</li>
     </ul>
   </li>
 </ul>
@@ -406,7 +474,9 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Imp
     <ul>
-      <li>VERB-Fin: ვიდოდინ</li>
+      <li>AUX-Fin: იყო</li>
+      <li>VERB: აღამაღლებდა, აღამაღლებდით, განასხმიდა, გარდამოვიდოდა, გეტყოდე, გეტყოდი, ედვა, ესმოდა, ეტყოდეს, ეჩუენებოდა</li>
+      <li>VERB-Fin: აღამაღლებდა, აღამაღლებდით, განასხმიდა, გარდამოვიდოდა, გეტყოდე, გეტყოდი, ედვა, ესმოდა, ეტყოდეს, ეჩუენებოდა</li>
     </ul>
   </li>
 </ul>
@@ -414,8 +484,26 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Past
     <ul>
-      <li>AUX-Fin: იყვნენ, იყო, იქმნა, იქმნებოდის, იქმნნეს, იყვენით, იქმნებოდედ, იქმნებოდეს, იქმნებოდინ, იქმოდეთ</li>
-      <li>VERB-Fin: თქუა, აქუნდეს, ასწავეს, აქუნდენ, განასაზღვრა, გხადა, ეგულებოდის, ვისწავეთ, ითქუა, იტყოდა</li>
+      <li>AUX-Fin: იყო, იქმნა, იყვნენ, ყო, იყვნეს, იქმნნეს, იქმნეს, იქმნებოდის, იყვენით, იყვნიან</li>
+      <li>VERB: თქუა, იქმნა, ჰრქუა, იხილა, ეტყოდა, მიეცა, მისცა, იტყოდა, აქუნდა, მიიღო</li>
+      <li>VERB-Fin: თქუა, იქმნა, ჰრქუა, იხილა, ეტყოდა, მიეცა, მისცა, იტყოდა, აქუნდა, მიიღო</li>
+      <li>VERB-Part: ქმნილ, ქმნილნი, აღრაცხილ, აღსრულებული, განძებულ, დადგინებადსა, დანერგული, დაყენებული, თქუმულად, მიღებული</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>PastPerf
+    <ul>
+      <li>VERB-Fin: განერნენ, გამოეცხადოს, განუმზადებიან, დაეცეს, ებრძანოს, ეგულვოს, ეცნობოს, მიყოფიეს</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Pqp
+    <ul>
+      <li>VERB-Fin: მიგცენ, გამოეკუეთა, დაედვა, დაეპყრნეს, ეპოვა, ეტჳრთა, ეფუცა, ეყო, მიეფარა, მიეღო</li>
     </ul>
   </li>
 </ul>
@@ -423,8 +511,10 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Pres
     <ul>
-      <li>AUX-Fin: არს, იყოს, არიან, იქმნეს, იქმენინ, იქმნებიან, იქმნენ, იყავნ, არსა, ქმნას</li>
-      <li>VERB-Fin: განიკუეთენ, იტყჳს, უჴმს, განვასაზღვრებთ, ვიტყჳთ, დასცხერინ, იკადროს, მოვიდეს, ჰყოფს, აქუნდეს</li>
+      <li>AUX: არს, არიან, ხარ, იყოს, ვარ, იქმნეს, იყავნ, ვართ, იქმნენ, არნ</li>
+      <li>AUX-Fin: არს, არიან, ხარ, იყოს, ვარ, იქმნეს, იყავნ, ვართ, იქმნენ, არნ</li>
+      <li>VERB: იტყჳს, ვიტყჳ, განიკუეთენ, არს, ეწოდების, ამაღლდების, უჴმს, ედების, იკურთხევის, აქუნდეს</li>
+      <li>VERB-Fin: იტყჳს, ვიტყჳ, განიკუეთენ, არს, ეწოდების, ამაღლდების, უჴმს, ედების, იკურთხევის, აქუნდეს</li>
     </ul>
   </li>
 </ul>
@@ -436,9 +526,29 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Act
     <ul>
-      <li>AUX-Fin: არს, იყოს, იყვნენ, იყო, არიან, იყავნ, არსა, იყვენით, ქმნას, ეყავნ</li>
-      <li>VERB-Fin: იტყჳს, აქუნდეს, თქუა, უჴმს, განვასაზღვრებთ, დავიცავთ, დასცხერინ, ვიტყჳთ, იკადროს, მოვიდეს</li>
-      <li>VERB-Part: მყოფთა, მყოფნი, გარდასრულისა, მომავალთა, მქონებელი, ყოფადთა, აღდგომილნი, გამომავალნი, განმყოფელსა, განმხრწნელნი</li>
+      <li>AUX: არს, იყო, იყოს, იყვნენ, ყო, არიან, იყვნეს, იყავნ, ყოს, არსა</li>
+      <li>AUX-Fin: არს, იყო, იყოს, იყვნენ, ყო, არიან, იყვნეს, იყავნ, ყოს, არსა</li>
+      <li>VERB: თქუა, იტყჳს, ჰრქუა, ვიტყჳ, იხილა, მისცა, ისმინე, აქუნდეს, იტყოდა, იხილე</li>
+      <li>VERB-Fin: თქუა, იტყჳს, ჰრქუა, ვიტყჳ, იხილა, მისცა, ისმინე, აქუნდეს, იტყოდა, იხილე</li>
+      <li>VERB-Part: მყოფნი, ყოფადთა, გარდასრულისა, მყოფთა, გარდასრულსა, მომავალთა, მქონებელი, მყოფისაჲ, შემოსრულთა, წარსრულთა</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Inv
+    <ul>
+      <li>VERB-Fin: გიც, მრწამს, შუენის</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Mid
+    <ul>
+      <li>AUX-Fin: არს, ხარ, არიან, ვარ, არნ, არნა, არსა, ვართ, იყავნ, იყვენით</li>
+      <li>VERB: გესმეს, ეტყოდა, მოვიდეს, ესმა, აქუს, აღვიდა, განვიდეს, ეტყოდეს, ვიდოდეთ, მოვედ</li>
+      <li>VERB-Fin: გესმეს, ეტყოდა, მოვიდეს, ესმა, აქუს, აღვიდა, განვიდეს, ეტყოდეს, ვიდოდეთ, მოვედ</li>
     </ul>
   </li>
 </ul>
@@ -446,13 +556,25 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Pass
     <ul>
-      <li>AUX-Fin: იქმნა, იქმნეს, იქმენინ, იქმნნეს, იქმნებიან, იქმნებოდის, იქმნენ, იქმნების, ვიქმნებით, იქმნას</li>
-      <li>VERB-Fin: განიკუეთენ, განეყენოს, განიკუეთოს, დაეცადენ, ითქუა, იპოოს, იჯმნიან, მიეცემოდედ, ამაღლდეს, აღესრულების</li>
-      <li>VERB-Part: შეკრებულთა, ჴელთდასხმულ, აღწერილთა, დაცვულისა, მოჴსენებულისა, ქმნილ, ღმერთშემოსილთა, დასხმულთა, დაცვულსა, დაცულსა</li>
+      <li>AUX-Fin: იქმნა, იყო, იქმნეს, იქმნნეს, იქმნენ, იქმნებიან, იყოს, იქმენინ, იქმნების, იქმნებოდის</li>
+      <li>VERB: გიხაროდენ, იქმნა, განიკუეთენ, მიეცა, ეწოდების, ედების, შეკრებულთა, ჴელთდასხმულ, ამაღლდა, იკურთხევის</li>
+      <li>VERB-Fin: გიხაროდენ, იქმნა, განიკუეთენ, მიეცა, ეწოდების, ედების, ამაღლდა, იკურთხევის, ამაღლდების, გამოჩნდა</li>
+      <li>VERB-Part: შეკრებულთა, ჴელთდასხმულ, ქმნილ, აღწერილთა, დაცვულისა, მოჴსენებულისა, ღმერთშემოსილთა, წერილ, ბრძანებულ, დასხმულთა</li>
     </ul>
   </li>
 </ul>
 
+<ul>
+  <li><a>Evident</a></li>
+</ul>
+
+<ul>
+  <li>Nfh
+    <ul>
+      <li>PART: ო</li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
@@ -464,7 +586,7 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Dem
     <ul>
-      <li>PRON: იგი, ესე, ამას, ამის, ამათ, მას, მათ, მის, იგინი, ეგევითარისა</li>
+      <li>PRON: იგი, მას, ესე, მის, ამის, ამას, მან, მათ, მით, ამათ</li>
     </ul>
   </li>
 </ul>
@@ -472,7 +594,7 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Ind
     <ul>
-      <li>PRON: ვინმე, სხუათა, რაჲმე, ერთი, ერთისა, ვინ, მრავალთა, სხუასა, ვიეთმე, რათმე</li>
+      <li>PRON: ვინმე, რაჲმე, ვინ, სხუათა, რაჲ, სხუანი, ვიეთმე, ვისმე, მრავალთა, რასმე</li>
     </ul>
   </li>
 </ul>
@@ -480,7 +602,15 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Int
     <ul>
-      <li>PRON: ვითარი, ვინ, ვის, რა, რათა, რაოდენისა, რომელი</li>
+      <li>PRON: რაჲ, ვინ, ვინაჲ, ვის, ვითარი, რა, რაოდენი, რასა, რაჲმცა, რაჲსა</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Int,Rel
+    <ul>
+      <li>PRON: რაჲ</li>
     </ul>
   </li>
 </ul>
@@ -488,7 +618,7 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Neg
     <ul>
-      <li>PRON: არავის, არავინ, არარაჲ, არღარავინ</li>
+      <li>PRON: არარაჲ, არავის, არარაჲსა, არარად, არავინ, არარაჲთ, არღარავინ, ვერარა, ვერარაჲ, ვერვინაჲთ</li>
     </ul>
   </li>
 </ul>
@@ -496,7 +626,7 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: მათ, მის, ჩუენ, თჳსთა, მას, ჩუენისა, თჳსისა, ჩუენთა, თჳსსა, ჩუენდა</li>
+      <li>PRON: მათ, შენ, ჩუენ, მის, მე, მისი, ჩუენისა, თქუენ, მისსა, მისისა</li>
     </ul>
   </li>
 </ul>
@@ -504,7 +634,7 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Rcp
     <ul>
-      <li>PRON: ურთიერთას</li>
+      <li>PRON: ურთიერთას, ურთიერთარს</li>
     </ul>
   </li>
 </ul>
@@ -512,7 +642,7 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Rel
     <ul>
-      <li>PRON: რომელთა, რომელი, რომელნი, რომელმან, ვინაჲთ, რომლისა, რომელსა, რომელსაცა, რომელნიცა, ვინცა</li>
+      <li>PRON: რომელი, რომლისა, რომელთა, რომელნი, რომელსა, ვინაჲთ, რომელმან, რომელ, ვინაჲცა, რომლითა</li>
     </ul>
   </li>
 </ul>
@@ -520,7 +650,7 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Tot
     <ul>
-      <li>PRON: ყოველთა, ყოვლისა, ყოვლისავე, ყოველსა, თითოეულსა, ყოველთავე, ყოვლით, თითოეულნი, ყოველთაჲსა, ყოველი</li>
+      <li>PRON: ყოველთა, ყოვლისა, ყოველნი, ყოველი, ყოველივე, ყოველსა, ყოვლისავე, ყოვლით, თითოეულისა, თითოეულსა</li>
     </ul>
   </li>
 </ul>
@@ -532,7 +662,7 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Card
     <ul>
-      <li>NUM: ოცდაათთა, ორნი, ათორმეტთა, ათრვამეტთა, ას, ექუსას, ორასთა, ორთა, სამას, შჳდნი</li>
+      <li>NUM: ერთი, ორთა, ერთსა, ერთისა, ერთ, ორთავე, ოცდაათთა, ერთმან, ორნი, ათორმეტთა</li>
     </ul>
   </li>
 </ul>
@@ -540,7 +670,7 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Ord
     <ul>
-      <li>NUM: მეოთხისა, პირველთა, პირველისა, ერთი, მეათხუთმეტედ, მეათხუთმეტედმდე, მეორე, მეორემან, მეორესა, მეორითა</li>
+      <li>NUM: პირველ, პირველი, პირველისა, მეორე, პირველად, მეორესა, პირველთა, პირველნი, მეოთხისა, პირველვე</li>
     </ul>
   </li>
 </ul>
@@ -552,7 +682,7 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Yes
     <ul>
-      <li>PRON: თავს</li>
+      <li>PRON: მისი, მისსა, მისისა, ჩუენისა, მისთა, შენი, თჳსთა, თჳსისა, თჳსსა, ჩუენ</li>
     </ul>
   </li>
 </ul>
@@ -565,7 +695,7 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>1
     <ul>
-      <li>PRON: ჩუენ, ჩუენისა, ჩუენთა, ჩუენდა, მე, ჩუენმან, ჩემ, ჩუენცა, ჩუენისასა, ჩუენისაჲ</li>
+      <li>PRON: ჩუენ, მე, ჩუენისა, ჩუენდა, ჩუენთა, ჩუენი, ჩემი, ჩემ, ჩემსა, ჩემდა</li>
     </ul>
   </li>
 </ul>
@@ -573,7 +703,7 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>2
     <ul>
-      <li>PRON: შენ, შენისა, თქუენ, შენსა, შენდა, შენი, თქუენითა, თქუენისაჲთა, თქუენმან, შენთა</li>
+      <li>PRON: შენ, თქუენ, შენი, შენსა, შენისა, თქუენდა, შენნი, შენთა, შენდა, თქუენი</li>
     </ul>
   </li>
 </ul>
@@ -581,7 +711,11 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>3
     <ul>
-      <li>PRON: თავს, მის</li>
+      <li>AUX: არს, არსა, იყვნეს</li>
+      <li>AUX-Fin: არს, იყვნეს</li>
+      <li>PRON: იგი, მის, მას, მათ, მან, მისი, მისსა, მისთა, მისისა, მათთა</li>
+      <li>VERB: მათდა, უჩუენებდა</li>
+      <li>VERB-Fin: მათდა</li>
     </ul>
   </li>
 </ul>
@@ -597,7 +731,9 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
     <ul>
       <li>Post
         <ul>
-          <li>ADP: გან, შინა, მიერ, თჳს, თანა, ზედა, მიმართ, თჳნიერ, ებრ, ზე</li>
+          <li>ADP: გან, თჳს, მიერ, შინა, თანა, მიმართ, შორის, მდე, წინაშე, ებრ</li>
+          <li>PRON: რომლისა, ამის</li>
+          <li>VERB-Vnoun: აღშჱნებისა</li>
         </ul>
       </li>
     </ul>
@@ -609,27 +745,32 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
     <ul>
       <li>Cau
         <ul>
-          <li>ADV: ამისთჳს</li>
+          <li>ADV: რად, რადმე, რადღა, რაჲთურთით, რაჲსა, რაჲსათჳსმე</li>
+        </ul>
+      </li>
+      <li>Int
+        <ul>
+          <li>ADV: ვითარ</li>
         </ul>
       </li>
       <li>Loc
         <ul>
-          <li>ADV: მუნ, არასადა, ეგერა, აქა, ზემორე, ზემოჲთ, ზეშთა, სადა, სადაცა, სადმე</li>
+          <li>ADV: ზედა, მუნ, სადა, აქა, წინა, თანა, ეგერა, ესერა, ამიერ, არასადა</li>
         </ul>
       </li>
       <li>Man
         <ul>
-          <li>ADV: კეთილად, ღმრთივ, ესრეთ, ყოვლად, ეგრეთვე, მხოლოდ, ოდენ, ბოროტად, წმიდად, ამიერ</li>
+          <li>ADV: უკუე, ესრეთ, ყოვლად, ღმრთივ, ვითარ, ოდენ, ფრიად, ეგრეთვე, სრულიად, ესრჱთ</li>
         </ul>
       </li>
       <li>Rel
         <ul>
-          <li>ADV: სადა</li>
+          <li>ADV: ვითარ, რაჟამს, რაოდენ, ვითარცა, სადა</li>
         </ul>
       </li>
       <li>Tim
         <ul>
-          <li>ADV: უკუე, ჯერ, აწ, რაჟამს, კუალად, პირველად, უწინარეს, მერმეცა, მარადის, მაშინ</li>
+          <li>ADV: კუალად, აწ, ჯერ, მარადის, შემდგომად, მეყსეულად, მაშინ, მერმე, ოდეს, მყის</li>
         </ul>
       </li>
     </ul>
@@ -641,12 +782,26 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
     <ul>
       <li>Gen
         <ul>
-          <li>ADJ: უფროჲსად, უმჯობესისაჲთა, უფროჲსადღა</li>
-          <li>NOUN: ეკლესიისათა, წელიწადთაჲსა, ალექსანდრიელისანი, მსახურებისაჲთა, დედაქალაქისამან, ეკლესიისასა, ეფესელთასა, კაცთასა, მამათანი, მიტროპოლიტისასა</li>
-          <li>PRON: თჳსისასა, მათთასა, მისისა, ჩუენისასა, ამათსა, თქუენისაჲთა, თჳსისაჲ, თჳსისაჲთა, მისისაჲ, მრავალთასა</li>
-          <li>PROPN: ანკჳრიისამან, ალექსანდრიისამან, ანტიოქიისამან, კოსტანტინეპოლისამან, კოსტანტინოპილისამან, კოსტანტინოპოვლისამან, ქრისტესითა</li>
-          <li>VERB-Part: განწესებულთასა</li>
-          <li>VERB-Vnoun: ზიარებისასა, მოცემისაჲთა, მსახურებისათა, ყოფისასა</li>
+          <li>ADJ: უფროჲსად, ძელისანი, წმიდისაჲთა, საუკუნოსაჲ, უფროჲსისა, ძელისათა, ამპარტავანისაჲ, ბაბილოვნელთაჲსა, ბოროტისათა, გამომეძიებელთაჲთა</li>
+          <li>NOUN: ღმრთისაჲ, უფლისაჲ, ღმრთისაჲთა, ეკლესიისათა, კაცთაჲსა, ღმრთისასა, სოფლისაჲ, ღმრთისათა, ცეცხლისაჲ, ჯუარისაჲთა</li>
+          <li>NUM: სამთასა, სამთაჲ, ასერგასისთა, ერგასისთა, ერთისაჲ, მეორისაჲ</li>
+          <li>PRON: მისისაჲ, შენისაჲ, ჩუენისაჲ, ჩუენთასა, მისთაჲ, მათთასა, ჩემისაჲ, თჳსისაჲ, ყოველთასა, ჩუენისასა</li>
+          <li>PROPN: ქრისტესსა, ანკჳრიისამან, იუდაჲსასა, ქრისტესითა, ბაბილონისასა, ისრაილისაო, ქრისტჱსითა, ალექსადრიისაჲ, ალექსანდრიისამან, ანდრიანოპოლისაჲ</li>
+          <li>VERB-Part: მყოფისაჲ, განწესებულთასა, განწესებულთაჲ, განჴდილთა, დაბადებულთასა, დამწყებელისაჲ, დაფლულისაჲ, მიყვანებადისანი, მყოფთაჲ, რწმუნებულთაჲ</li>
+          <li>VERB-Vnoun: აღდგომისაჲ, განსლვისაჲ, დადგომისაჲ, ზიარებისასა, მოცემისაჲთა, მსახურებისათა, მსახურებისაჲ, ქებისაჲ, ღებისანი, ყოფისასა</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Case[stackb]</a>
+    <ul>
+      <li>Gen
+        <ul>
+          <li>ADJ: ძელისათასა</li>
+          <li>NOUN: ეშმაკისათაჲ, ქუეყანისათაჲ</li>
         </ul>
       </li>
     </ul>
@@ -658,14 +813,38 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
     <ul>
       <li>ADV
         <ul>
-          <li>ADJ: შემდგომითი</li>
-          <li>ADV: მცირედ</li>
-          <li>PART: არა</li>
+          <li>ADJ: შემდგომითი, სულიერად</li>
+          <li>ADV: ვითარ, რაჲზომ, დღითი, ვითარცა, ზედა, რავდენ, სადა, მცირედ, უკუანა, ქუეშე</li>
+          <li>PART: არა, არცა, ნუ, ცა</li>
+          <li>PRON: ყოვლით</li>
         </ul>
       </li>
       <li>PRON
         <ul>
-          <li>PRON: ესე, რომელმან, რომელთა, ვინაჲ, რომელი, ვინცა, თავს, რაოდენისა, რაჲ, რაჲცა</li>
+          <li>PRON: რომელი, ვინაჲცა, ვინაჲ, რომელმან, რომელნი, ესე, რომელთა, რაჲ, რომელსა, რავდენი</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>CCONJ: ანუ</li>
+          <li>SCONJ: ვითარ, ვითარცა, გინა, რაჟამს</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>NameType</a>
+    <ul>
+      <li>Geo
+        <ul>
+          <li>PROPN: ბაბილონად, ეგჳპტით, ნიკეას, ბაბილონისასა, ისრაილისაო, კესარია, კოსტანტინოპოლის, ალექსადრიისაჲ, ალექსანდრიისამან, ანდრიანოპოლისაჲ</li>
+        </ul>
+      </li>
+      <li>Prs
+        <ul>
+          <li>PROPN: ქრისტეს, ქრისტე, ბარლაამ, იესუ, ქრისტესა, ქრისტემან, მარიამ, თეოფილე, ქრისტესსა, ღმერთი</li>
         </ul>
       </li>
     </ul>
@@ -675,14 +854,19 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li><a>NumForm</a>
     <ul>
+      <li>Digit
+        <ul>
+          <li>NUM: 13</li>
+        </ul>
+      </li>
       <li>Georgian
         <ul>
-          <li>NUM: ა(1), ბ(2), გ(3), დ(4), ე(5), ვ(6), ზ(7), თ(9), ი(10), ია(11)</li>
+          <li>NUM: 14, ა(1), ბ(2), გ(3), დ(4), ე(5), ვ(6), ზ(7), თ(9), ი(10)</li>
         </ul>
       </li>
       <li>Word
         <ul>
-          <li>NUM: მეოთხისა, პირველთა, პირველისა, ათორმეტთა, ათრვამეტთა, ერთი, მეათხუთმეტედ, მეათხუთმეტედმდე, მეორე, მეორემან</li>
+          <li>NUM: პირველ, ერთი, პირველი, პირველისა, ორთა, მეორე, ერთისა, ერთსა, პირველად, ერთ</li>
         </ul>
       </li>
     </ul>
@@ -694,13 +878,13 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
     <ul>
       <li>Plur
         <ul>
-          <li>VERB-Fin: გუნებავს, აქუნდა, გამოგეცხადო, გამოგჳცხადეს, განგჳნათლეს, გუასმიეს, გუაქუნდა, გუთნდა, გჳღირს, გჳჩნდა</li>
+          <li>VERB-Fin: აქუნდა, გამოგჳჩნდა, გუასწავებს, გუნებავს, გუსუროდის, გჳკჳრდეს, ეჩუენოს, ჰრქუეს, აქუნდეს, გამოგეცხადო</li>
         </ul>
       </li>
       <li>Sing
         <ul>
           <li>AUX-Fin: მექმნებიან</li>
-          <li>VERB-Fin: აქუნდეს, აღუჩნდეს, გშუენოდა, მეშინის, მიჩნს, სთნდა, უვის, უჩნდა, უჴმდა, უჴმს</li>
+          <li>VERB-Fin: ჰრქუა, ეტყოდა, აქუს, ეწოდების, აქუნდეს, ეც, მეშინის, მივსწერ, მიჩნს, სთნდა</li>
         </ul>
       </li>
     </ul>
@@ -712,12 +896,13 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
     <ul>
       <li>Plur
         <ul>
-          <li>VERB-Fin: გევედრები, აღწერნეს, გამოაჩინნენ, განაგებდეს, განანათლნეს, განაშორნა, განაწყვნა, განვჰყრით, განუყოფენ, გჳჩუენნეს</li>
+          <li>VERB-Fin: გევედრები, დათრგუნნეს, დამიტევნა, დაჰჴსნეს, იტყჳ, ყვნეს, ადიდებს, აღანთნა, აღაშენენ, აღმამაღლნეს</li>
         </ul>
       </li>
       <li>Sing
         <ul>
-          <li>VERB-Fin: ჰყოფს, აუწყონ, აღაშფოთებენ, აღგზარდა, აღიყვანა, აღმიდგინა, აღუწოდა, აჩუენებდინ, გამოგაჩინა, გამომიძიეთ</li>
+          <li>VERB: თქუა, მისცა, ვიტყჳ, პოვა, მოიღო, ჰყოფს, აქუნდა, აღადგინა, აღვასრულებთ, ვთქუა</li>
+          <li>VERB-Fin: თქუა, მისცა, ვიტყჳ, პოვა, მოიღო, ჰყოფს, აქუნდა, აღადგინა, აღვასრულებთ, ვთქუა</li>
         </ul>
       </li>
     </ul>
@@ -729,14 +914,15 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
     <ul>
       <li>Plur
         <ul>
-          <li>AUX-Fin: იყვნენ, არიან, იქმნნეს, იქმნებიან, იქმნენ, იყვენით, ვიქმნებით, იქმნებოდეს, იქმნებოდინ, იქმოდეთ</li>
-          <li>VERB-Fin: განიკუეთენ, განვასაზღვრებთ, ვიტყჳთ, დავიცავთ, განვაახლებთ, ასწავეს, აქუნდენ, აღვიარებთ, დაეცადენ, დავამტკიცებთ</li>
+          <li>AUX-Fin: არიან, იყვნენ, იყვნეს, იქმნნეს, იქმნენ, ვართ, იქმნებიან, იყვენით, იქმნეს, იყვნიან</li>
+          <li>VERB-Fin: განიკუეთენ, თქუეს, აღვასრულებთ, განვასაზღვრებთ, ეტყოდეს, ვიტყჳთ, ვიხილეთ, დავიცავთ, ვიდოდეთ, ვისმინეთ</li>
         </ul>
       </li>
       <li>Sing
         <ul>
-          <li>AUX-Fin: არს, იყოს, იყო, იქმნა, იქმნეს, იქმენინ, იქმნებოდის, იქმნების, იყავნ, არსა</li>
-          <li>VERB-Fin: იტყჳს, აქუნდეს, თქუა, უჴმს, დასცხერინ, იკადროს, ჰყოფს, მოვიდეს, ჰნებავს, ბრძანებს</li>
+          <li>AUX-Fin: არს, იყო, ხარ, იყოს, იქმნა, ყო, ვარ, იქმნეს, იყავნ, არნ</li>
+          <li>VERB: თქუა, იტყჳს, გიხაროდენ, იქმნა, ჰრქუა, ვიტყჳ, იხილა, აქუნდეს, ეტყოდა, მიეცა</li>
+          <li>VERB-Fin: თქუა, იტყჳს, გიხაროდენ, იქმნა, ჰრქუა, ვიტყჳ, იხილა, აქუნდეს, ეტყოდა, მიეცა</li>
         </ul>
       </li>
     </ul>
@@ -748,20 +934,23 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
     <ul>
       <li>Emp
         <ul>
-          <li>ADJ: უფროჲსღა, უფროჲსად, უფროჲს, უფროჲსადღა, ძუელსავე, წერილებრივიცა, წმიდისაცა</li>
-          <li>ADP: განცა, თჳსცა, გან, განმე</li>
-          <li>ADV: მერმეცა, ამიერცა, კუალადცა, მაშინღა, მისდადვე, მსგავსადვე, პირველვე</li>
-          <li>NOUN: განჴორციელებისაცა, დაჴსნისაცა, დედაქალაქსაცა, ეპისკოპოსისაცა, ლაოდიკიასცა, მიმართნიცა, მკითხველობასავე, საჭურისთაცა, სჳნიდისსაცა, ქალაქსაცა</li>
-          <li>PART: თჳთ, ცა, რაჲთამცა</li>
-          <li>PRON: რომელსაცა, რომელნიცა, ჩუენცა, ამასცა, ესევე, ესეცა, რომლისაცა, მათვე, მასვე, სხუათაცა</li>
-          <li>PROPN: აპოლინარიცა, დიონჳსისნიცა, ნესტორცა, სარდიკიასცა</li>
-          <li>VERB-Part: ლმობიერქმნილმანცა, სათნოყოფილთაცა</li>
+          <li>ADJ: უფროჲსღა, უფროჲსად, უფროჲს, აწინდელიცა, გუშინდელიცა, მარტივნიცა, მიმხუეჭელნიცა, მოსაგონებელადცა, ნეტარიცა, საზოგადოჲთაცა</li>
+          <li>ADP: თჳსცა, განცა, განმე, განვე, გან</li>
+          <li>ADV: მერმეცა, ნამდჳლვე, მსგავსადვე, მუნცა, ყოვლადვე, ყოლადვე, შინაგანცა, ადვილადვე, ამიერცა, ვიდრეღა</li>
+          <li>AUX-Fin: ხარა</li>
+          <li>NOUN: ანგელოზნიცა, მეუღლისადა, სიმაღლეცა, არაჲვე, არგანცა, აღმზრდელიცა, აღსასრულადცა, გამოცხადებითაცა, განჴორციელებისაცა, გოონებანიცა</li>
+          <li>NUM: ორთავე, პირველვე, ორივე, პირველადცა, პირველივე, ერთისაცა, ერთიცა, მეორეცა, ორნივე, ორსავე</li>
+          <li>PART: ცა, თჳთ, ხოლო, ვითამე, ო, რაჲთამცა</li>
+          <li>PRON: ყოველივე, ვინაჲცა, ყოვლისავე, რომელსაცა, რომელნიცა, ყოველსავე, ესეცა, ჩუენცა, რომელთაცა, ამასცა</li>
+          <li>PROPN: აპოლინარიცა, დანიელსცა, დიონჳსისნიცა, ესაიცა, იესუჲსიცა, ისააკცა, ისაკისიცა, მოსეცა, ნესტორცა, სარდიკიასცა</li>
+          <li>VERB-Fin: დაჰბრკოლდებია, ითქუმისცა</li>
+          <li>VERB-Part: ლმობიერქმნილმანცა, სათნოყოფილთაცა, შეწირულიცა</li>
+          <li>VERB-Vnoun: აღვსებაჲცა, აღმოსლვასაცა, გამომზრდელცა, განსლვაჲცა, ვედრებაჲცა, მიხედვადცა, ხილვადცა</li>
         </ul>
       </li>
       <li>Neg
         <ul>
-          <li>ADV: არღარა</li>
-          <li>PART: არა, არცა, ნუცა, ნუ, ნუმცა, ვერ, ნუუკუე, ნუღარამცა, არარაჲ, არღარა</li>
+          <li>PART: არა, არცა, ვერ, ნუ, ნუცა, ნუუკუე, არღარა, ნუმცა, არღა, არ</li>
         </ul>
       </li>
     </ul>
@@ -774,17 +963,17 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
       <li>1
         <ul>
           <li>AUX-Fin: მექმნებიან</li>
-          <li>VERB-Fin: გუნებავს, გამოგჳცხადეს, განგჳნათლეს, გუასმიეს, გუაქუნდა, გუთნდა, გჳღირს, გჳჩნდა, გჳჩნს, გჳჩუენნეს</li>
+          <li>VERB-Fin: გუასწავებს, გამოგჳჩნდა, გუნებავს, გუსუროდის, გჳკჳრდეს, მეშინის, მიჩნს, გამოგჳცხადებდეს, გამოგჳცხადეს, განგაზრახებ</li>
         </ul>
       </li>
       <li>2
         <ul>
-          <li>VERB-Fin: გამოგეცხადო, გშუენოდა</li>
+          <li>VERB-Fin: აღმოგიცენოს, გამოგაჩინა, გამოგეცხადო, გამოგივლინოს, განგაჩინა, გაქუს, გაჩუენა, გესმას, გეტყჳ, გეჩუენა</li>
         </ul>
       </li>
       <li>3
         <ul>
-          <li>VERB-Fin: ამხილებს, აქუნდა, აქუნდეს, აღუჩნდეს, ესწავოს, ვეყოფი, მოუწოდეს, სთნდა, უბრძანებთ, უვის</li>
+          <li>VERB-Fin: ჰრქუა, ეტყოდა, აქუნდა, აქუნდეს, აქუს, ეწოდების, ეჩუენოს, ეც, მივსწერ, მიუგე</li>
         </ul>
       </li>
     </ul>
@@ -796,17 +985,19 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
     <ul>
       <li>1
         <ul>
-          <li>VERB-Fin: გამომიძიეთ, გჳწამებს, დამიტევნა, მასწავნა, მიხილნა, მოგუმადლა, მომიგოთ, შეგვედრა</li>
+          <li>VERB: დამიტევნა, მომიგოთ, მრწამს, აღმამაღლნეს, გამომიძიეთ, განგუაახლნა, განმწმიდნეს, გუაკურთხენ, გუაქუნდენ, გუახარებს</li>
+          <li>VERB-Fin: დამიტევნა, მომიგოთ, აღმამაღლნეს, გამომიძიეთ, განგუაახლნა, განმწმიდნეს, გუაკურთხენ, გუაქუნდენ, გუახარებს, გჳზიარნა</li>
         </ul>
       </li>
       <li>2
         <ul>
-          <li>VERB-Fin: გევედრები, აღგზარდა, აღმიდგინა, გამოგაჩინა, გასწავა, გრქუას, გხადა, გხადონ, წარგგრაგნა</li>
+          <li>VERB-Fin: გევედრები, გამცნებს, გხადა, აღგზარდა, აღმიდგინა, გამოგაჩინა, განგაჩინა, გასწავა, გაჩუენა, გესმის</li>
         </ul>
       </li>
       <li>3
         <ul>
-          <li>VERB-Fin: ჰყოფს, აუწყონ, აღაშფოთებენ, აღიყვანა, აღუწოდა, აღწერნეს, აჩუენებდინ, გამოაჩინნენ, განაგებდეს, განანათლნეს</li>
+          <li>VERB: თქუა, გიხაროდენ, მისცა, ვიტყჳ, პოვა, მოიღო, ჰყოფს, აქუნდა, აღადგინა, აღვასრულებთ</li>
+          <li>VERB-Fin: თქუა, გიხაროდენ, მისცა, ვიტყჳ, პოვა, მოიღო, ჰყოფს, აქუნდა, აღადგინა, აღვასრულებთ</li>
         </ul>
       </li>
     </ul>
@@ -818,20 +1009,22 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
     <ul>
       <li>1
         <ul>
-          <li>AUX-Fin: ვარ, ვიქმნებით</li>
-          <li>VERB-Fin: განვასაზღვრებთ, ვიტყჳთ, დავიცავთ, განვაახლებთ, აღვიარებთ, გევედრები, დავამტკიცებთ, დავჰბეჭდავთ, ვისწავეთ, აღვწერენით</li>
+          <li>AUX-Fin: ვარ, ვართ, ვიქმნენით, ვიყვენით, ვიყვნეთ, ვექმნნეთ, ვიქმენ, ვიქმნე, ვიქმნებით, ვიქმნნეთ</li>
+          <li>VERB: ვიტყჳ, მოვიკითხავ, გევედრები, ვჰგონებ, აღვასრულებთ, განვასაზღვრებთ, ვთქუა, ვიტყჳთ, ვიხილეთ, დავიცავთ</li>
+          <li>VERB-Fin: ვიტყჳ, მოვიკითხავ, გევედრები, ვჰგონებ, აღვასრულებთ, განვასაზღვრებთ, ვთქუა, ვიტყჳთ, ვიხილეთ, დავიცავთ</li>
         </ul>
       </li>
       <li>2
         <ul>
-          <li>AUX-Fin: იყვენით, იქმოდეთ, ხარ</li>
-          <li>VERB-Fin: არწმუნე, აღემატე, აღმოვედ, გამოარჩიენით, გამოიძიეთ, გამომიძიეთ, განარინე, განჰგუმირე, გეგულებოდის, გიხარინ</li>
+          <li>AUX-Fin: ხარ, იყვენით, იყავ, ხართ, იქმენ, ექმნენით, იქმოდეთ, იყვნეთ, იყო, მეყავ</li>
+          <li>VERB-Fin: გიხაროდენ, ისმინე, გესმეს, იხილე, იქმენ, მიიღე, წარვედ, აღდეგ, ეკრძალენით, ეც</li>
         </ul>
       </li>
       <li>3
         <ul>
-          <li>AUX-Fin: არს, იყოს, იყვნენ, იყო, არიან, იქმნა, იქმნეს, იქმენინ, იქმნნეს, იქმნებიან</li>
-          <li>VERB-Fin: განიკუეთენ, იტყჳს, აქუნდეს, თქუა, უჴმს, დასცხერინ, იკადროს, მოვიდეს, ჰყოფს, ჰნებავს</li>
+          <li>AUX-Fin: არს, იყო, არიან, იყოს, იქმნა, იყვნენ, იქმნეს, იყვნეს, ყო, იქმნნეს</li>
+          <li>VERB: თქუა, იტყჳს, იქმნა, ჰრქუა, იხილა, აქუნდეს, განიკუეთენ, ეტყოდა, მიეცა, მისცა</li>
+          <li>VERB-Fin: თქუა, იტყჳს, იქმნა, ჰრქუა, იხილა, აქუნდეს, განიკუეთენ, ეტყოდა, მიეცა, მისცა</li>
         </ul>
       </li>
     </ul>
@@ -843,12 +1036,12 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
     <ul>
       <li>Fin
         <ul>
-          <li>PUNCT: “</li>
+          <li>PUNCT: “, !, ), ], -</li>
         </ul>
       </li>
       <li>Ini
         <ul>
-          <li>PUNCT: „</li>
+          <li>PUNCT: „, (, [</li>
         </ul>
       </li>
     </ul>
@@ -858,6 +1051,11 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li><a>PunctType</a>
     <ul>
+      <li>Brck
+        <ul>
+          <li>PUNCT: (, ), [, ]</li>
+        </ul>
+      </li>
       <li>Colo
         <ul>
           <li>PUNCT: :</li>
@@ -870,12 +1068,17 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
       </li>
       <li>Dash
         <ul>
-          <li>PUNCT: –</li>
+          <li>PUNCT: -, –</li>
+        </ul>
+      </li>
+      <li>Excl
+        <ul>
+          <li>PUNCT: !</li>
         </ul>
       </li>
       <li>Peri
         <ul>
-          <li>PUNCT: .</li>
+          <li>PUNCT: ., -</li>
         </ul>
       </li>
       <li>Qest
@@ -902,13 +1105,40 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
     <ul>
       <li>Intr
         <ul>
-          <li>VERB-Fin: იშვების, მეშინოდა</li>
+          <li>VERB-Fin: მეშინოდა, იშვების, შემოვიღე</li>
         </ul>
       </li>
       <li>Tran
         <ul>
           <li>AUX-Fin: მექმნებიან</li>
-          <li>VERB-Fin: ამხილებს, მიჴსნიან</li>
+          <li>VERB-Fin: ამხილებს, დაწერნა, მიჴსნიან</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Typo</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>NOUN: მად, მამა</li>
+          <li>SCONJ: ვითარ</li>
+          <li>VERB-Fin: ვჰმადლობ</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>VerbType</a>
+    <ul>
+      <li>Aux
+        <ul>
+          <li>AUX-Fin: არს, არიან, იყო, იქმნა, ხარ, ყო, იყოს, ვარ, იქმნეს, იყვნეს</li>
+          <li>VERB-Fin: აქუს, გაქუს, ვიქმნენით, ყავ, ყვნა, ჰყავ</li>
         </ul>
       </li>
     </ul>
@@ -920,7 +1150,7 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: ყოფა, არის.</li>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: ყოფა.</li>
 </ul>
 
 <ul>
@@ -933,17 +1163,23 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN-Dat (1)</li>
-      <li>VERB-Fin--NOUN-Erg (16)</li>
-      <li>VERB-Fin--NOUN-Gen (1)</li>
-      <li>VERB-Fin--NOUN-Nom (72)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(მიერ) (1)</li>
-      <li>VERB-Fin--PRON-Dat (3)</li>
-      <li>VERB-Fin--PRON-Erg (14)</li>
-      <li>VERB-Fin--PRON-Nom (70)</li>
-      <li>VERB-Part--NOUN-Nom (7)</li>
-      <li>VERB-Part--PRON-Nom (17)</li>
-      <li>VERB-Vnoun--PRON-Nom (2)</li>
+      <li>VERB--NOUN-Nom (3)</li>
+      <li>VERB--PRON-Erg (1)</li>
+      <li>VERB--PRON-Nom (1)</li>
+      <li>VERB-Fin--NOUN-Abs (8)</li>
+      <li>VERB-Fin--NOUN-Dat (10)</li>
+      <li>VERB-Fin--NOUN-Erg (151)</li>
+      <li>VERB-Fin--NOUN-Nom (447)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(მიხედვით) (1)</li>
+      <li>VERB-Fin--PRON-Dat (47)</li>
+      <li>VERB-Fin--PRON-Erg (114)</li>
+      <li>VERB-Fin--PRON-Nom (340)</li>
+      <li>VERB-Part--NOUN-Nom (32)</li>
+      <li>VERB-Part--PRON-Dat (3)</li>
+      <li>VERB-Part--PRON-Nom (48)</li>
+      <li>VERB-Vnoun--NOUN-Dat (1)</li>
+      <li>VERB-Vnoun--NOUN-Nom (2)</li>
+      <li>VERB-Vnoun--PRON-Nom (8)</li>
     </ul>
   </li>
 </ul>
@@ -951,23 +1187,32 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN-Dat (57)</li>
-      <li>VERB-Fin--NOUN-Gen (7)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(გან) (1)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(მიერ) (1)</li>
-      <li>VERB-Fin--NOUN-Nom (70)</li>
-      <li>VERB-Fin--PRON-Dat (16)</li>
-      <li>VERB-Fin--PRON-Erg (1)</li>
-      <li>VERB-Fin--PRON-Gen (1)</li>
-      <li>VERB-Fin--PRON-Nom (19)</li>
+      <li>VERB--NOUN-Dat (2)</li>
+      <li>VERB--NOUN-Nom (2)</li>
+      <li>VERB-Fin--NOUN-Abs (28)</li>
+      <li>VERB-Fin--NOUN-Dat (217)</li>
+      <li>VERB-Fin--NOUN-Dat-ADP(მიმართ) (1)</li>
+      <li>VERB-Fin--NOUN-Erg (1)</li>
+      <li>VERB-Fin--NOUN-Gen (21)</li>
+      <li>VERB-Fin--NOUN-Ins (1)</li>
+      <li>VERB-Fin--NOUN-Nom (554)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(გან) (1)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(ნაცვლად) (1)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(შორის) (1)</li>
+      <li>VERB-Fin--PRON (3)</li>
+      <li>VERB-Fin--PRON-Abs (5)</li>
+      <li>VERB-Fin--PRON-Dat (101)</li>
+      <li>VERB-Fin--PRON-Gen (4)</li>
+      <li>VERB-Fin--PRON-Nom (189)</li>
+      <li>VERB-Part--NOUN-Abs (1)</li>
       <li>VERB-Part--NOUN-Dat (5)</li>
-      <li>VERB-Part--NOUN-Gen (9)</li>
+      <li>VERB-Part--NOUN-Gen (2)</li>
+      <li>VERB-Part--NOUN-Nom (1)</li>
       <li>VERB-Part--PRON-Nom (1)</li>
-      <li>VERB-Vnoun--NOUN-Dat (5)</li>
-      <li>VERB-Vnoun--NOUN-Gen (10)</li>
+      <li>VERB-Vnoun--NOUN-Dat (6)</li>
       <li>VERB-Vnoun--NOUN-Nom (2)</li>
       <li>VERB-Vnoun--PRON-Dat (2)</li>
-      <li>VERB-Vnoun--PRON-Nom (2)</li>
+      <li>VERB-Vnoun--PRON-Nom (3)</li>
     </ul>
   </li>
 </ul>
@@ -975,16 +1220,24 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--NOUN-Dat (33)</li>
+      <li>VERB--PRON-Dat (1)</li>
+      <li>VERB-Fin--NOUN-Abs (1)</li>
+      <li>VERB-Fin--NOUN-Dat (179)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(შინა) (1)</li>
-      <li>VERB-Fin--NOUN-Gen (1)</li>
-      <li>VERB-Fin--PRON-Dat (47)</li>
+      <li>VERB-Fin--NOUN-Gen (18)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(თჳს) (1)</li>
+      <li>VERB-Fin--NOUN-Nom (4)</li>
+      <li>VERB-Fin--PRON (4)</li>
+      <li>VERB-Fin--PRON-Dat (201)</li>
       <li>VERB-Fin--PRON-Dat-ADP(თჳს) (1)</li>
-      <li>VERB-Fin--PRON-Gen (2)</li>
-      <li>VERB-Fin--PRON-Nom (3)</li>
-      <li>VERB-Part--NOUN-Dat (1)</li>
+      <li>VERB-Fin--PRON-Erg (7)</li>
+      <li>VERB-Fin--PRON-Gen (4)</li>
+      <li>VERB-Fin--PRON-Nom (8)</li>
+      <li>VERB-Part--NOUN-Dat (2)</li>
       <li>VERB-Part--PRON-Dat (5)</li>
-      <li>VERB-Vnoun--PRON-Dat (1)</li>
+      <li>VERB-Vnoun--NOUN-Gen (1)</li>
+      <li>VERB-Vnoun--PRON-Dat (2)</li>
+      <li>VERB-Vnoun--PRON-Nom (1)</li>
     </ul>
   </li>
 </ul>
@@ -996,5 +1249,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 5 relation subtypes: <a>acl:relcl</a>, <a>advmod:emph</a>, <a>advmod:neg</a>, <a>det:poss</a>, <a>nsubj:pass</a></li>
-<li>The following 8 relation types are not used in this corpus at all: <a>expl</a>, <a>dislocated</a>, <a>aux</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>The following 5 relation types are not used in this corpus at all: <a>expl</a>, <a>aux</a>, <a>clf</a>, <a>list</a>, <a>reparandum</a></li>
 </ul>

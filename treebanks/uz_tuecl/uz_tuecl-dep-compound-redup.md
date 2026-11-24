@@ -32,7 +32,7 @@ The following 1 pairs of parts of speech are connected with `compound:redup`: <t
 7	tapil	tapil	PART	_	_	8	advmod	_	_
 8	yigʻishtirib	yigʻishtir	VERB	_	_	0	root	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	14	punct	_	_
-10	oshxonadagi	oshxona	NOUN	_	Case=Loc|Number=Sing	11	obl	_	_
+10	oshxonadagi	oshxona	NOUN	_	Case=Loc|Number=Sing	11	nmod	_	_
 11	stolni	stol	NOUN	_	Case=Acc|Number=Sing	14	obj	_	_
 12	ham	ham	ADV	_	_	14	advmod	_	_
 13	chiqarib	chiq	VERB	_	VerbForm=Conv	14	compound:svc	_	_

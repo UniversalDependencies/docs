@@ -66,7 +66,7 @@ The following 14 pairs of parts of speech are connected with `orphan`: <tt><a hr
 8	80	80	NUM	_	Number=Plur|NumType=Card	9	nummod	_	Exponence[Number]=Inherent|SpaceAfter=No
 9	%	%	SYM	_	ExtPos=NOUN|Number=Plur	11	nsubj:pass	_	_
 10	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux:pass	_	_
-11	consacré	consacrer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	Tense[denom]=Past
+11	consacré	consacrer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	Status[Tense]=Denom
 12	à	à	ADP	_	_	14	case	_	_
 13	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
 14	reconstruction	reconstruction	NOUN	_	Gender=Fem|Number=Sing	11	obl:arg	_	Exponence[Gender]=Inherent|SpaceAfter=No
@@ -106,7 +106,7 @@ The following 14 pairs of parts of speech are connected with `orphan`: <tt><a hr
 10	à	à	ADP	_	ExtPos=ADV	5	advmod	_	Idiom=Yes
 11	partir	partir	VERB	_	VerbForm=Inf	10	fixed	_	InIdiom=Yes|Subject=Generic
 12	de	de	ADP	_	_	13	case	_	_
-13	1950	1950	NUM	_	Number=Sing|NumType=Card	10	obl:arg	_	Exponence[Number]=Inherent|SpaceAfter=No
+13	1950	1950	NUM	_	ExtPos=PROPN|Number=Sing|NumType=Card	10	obl:arg	_	Exponence[Number]=Inherent|SpaceAfter=No
 14	)	)	PUNCT	_	_	10	punct	_	_
 15	et	et	CCONJ	_	_	16	cc	_	_
 16	René	René	PROPN	_	Gender=Masc|Number=Sing	5	conj	_	Exponence[Gender]=Inherent

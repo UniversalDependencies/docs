@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Jana Strnadová, Gauthier Caron, Martin Popel, Daniel Zeman, Marie-Catherine de Marneffe, Bruno Guillaume.
 
 Repository: [UD_French-PUD](https://github.com/UniversalDependencies/UD_French-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_pud218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_pud219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 3.0
 
@@ -205,7 +205,7 @@ employ ten-fold cross-validation.
       <li>ADJ: autres, grand, dernier, derniers, général, nouveaux, plusieurs, certains, nouveau, chaque</li>
       <li>ADJ-Part: issu, issus</li>
       <li>AUX-Part: été, fait</li>
-      <li>DET: le, les, un, l', des, son, ce, ses, ces, de</li>
+      <li>DET: le, les, un, l', des, son, ce, ses, ces, leur</li>
       <li>NOUN: ans, nord, état, gouvernement, siècle, jour, monde, pays, sud, temps</li>
       <li>NUM: 1er, premier</li>
       <li>PRON: il, ils, lui, le, s', un, eux, je, l', -il</li>
@@ -586,7 +586,7 @@ employ ten-fold cross-validation.
       </li>
       <li>PRON
         <ul>
-          <li>ADV: plus, beaucoup, peu, moins, près, trop, énormément</li>
+          <li>ADV: plus, beaucoup, peu, moins, près, trop</li>
           <li>DET: l', un</li>
         </ul>
       </li>
@@ -640,11 +640,13 @@ employ ten-fold cross-validation.
     <ul>
       <li>Yes
         <ul>
+          <li>ADJ: telles</li>
           <li>ADV: aujourd</li>
           <li>CCONJ: où</li>
           <li>DET: e, sar</li>
           <li>NOUN: Porte-d'</li>
           <li>NUM: XVIII</li>
+          <li>VERB-Part: occupé</li>
         </ul>
       </li>
     </ul>
@@ -671,7 +673,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB-Fin--NOUN (356)</li>
-      <li>VERB-Fin--PRON (334)</li>
+      <li>VERB-Fin--PRON (335)</li>
       <li>VERB-Inf--NOUN (1)</li>
       <li>VERB-Inf--PRON (1)</li>
       <li>VERB-Part--NOUN (181)</li>
@@ -686,7 +688,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN (310)</li>
       <li>VERB-Fin--NOUN-ADP(de) (1)</li>
       <li>VERB-Fin--PRON (57)</li>
-      <li>VERB-Inf--NOUN (229)</li>
+      <li>VERB-Inf--NOUN (228)</li>
       <li>VERB-Inf--PRON (34)</li>
       <li>VERB-Part--NOUN (245)</li>
       <li>VERB-Part--PRON (41)</li>

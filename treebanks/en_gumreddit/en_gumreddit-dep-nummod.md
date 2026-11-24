@@ -24,7 +24,7 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 10 9 nummod	color:blue
 1	_	_	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	3:nsubj	Discourse=explanation-evidence:54->51:2:_|Entity=(58-time-giv:act-nnnnn-cf1*-1-ana)|Lem=*LOWER*|Len=4
 2	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	3:cop	Lem=be|Len=2
-3	_	_	PRON	WP	PronType=Rel	0	root	0:root	Lem=_|Len=4
+3	_	_	PRON	WP	Case=Acc|PronType=Rel	0	root	0:root	Lem=_|Len=4
 4	_	_	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	acl:relcl	3:acl:relcl	Lem=happen|Len=8|MSeg=happen-ed
 5	_	_	ADP	IN	_	6	case	6:case	Lem=_|Len=2
 6	_	_	PROPN	NNP	Number=Sing	4	obl	4:obl:in|13:obl	Entity=(60-place-new-nnnnn-cf3-1-coref-Zimbabwe)|Lem=_|Len=8
@@ -60,7 +60,7 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 7	_	_	NOUN	NN	Number=Sing	5	obj	5:obj	Entity=56)|Lem=_|Len=4
 8	_	_	CCONJ	CC	_	11	cc	11:cc	Discourse=adversative-antithesis:49->46:1:dm-but-308-gold|Lem=_|Len=3|PDTB=Explicit:Comparison.Concession.Arg1-as-denier:and:315:316-327:308-314
 9	_	_	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	11	nsubj	11:nsubj	Entity=(32-person-acc:com-nnnnn-cf3-1-ana)|Lem=_|Len=2
-10	_	_	ADV	RB	Degree=Pos	11	advmod	11:advmod	Lem=_|Len=5
+10	_	_	ADV	RB	_	11	advmod	11:advmod	Lem=_|Len=5
 11	_	_	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	conj	4:conj:and	Lem=_|Len=4
 12	_	_	ADP	IN	_	13	case	13:case	Lem=_|Len=2
 13	_	_	SYM	$	_	11	obl	11:obl:at	Entity=(57-object-new-nnnnn-cf1-1-coref|Lem=_|Len=1
@@ -112,12 +112,12 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 27	_	_	DET	DT	Definite=Def|PronType=Art	28	det	28:det	Entity=(27-abstract-auto-nnnnn-cf3-2-coref-United_States_dollar|Lem=_|Len=3
 28	_	_	NOUN	NN	Number=Sing	25	nmod	25:nmod:of	Entity=27)26)|Lem=_|Len=6
 29	_	_	AUX	MD	VerbForm=Fin	31	aux	31:aux	Lem=_|Len=5
-30	_	_	ADV	RB	Degree=Pos	31	advmod	31:advmod	Lem=_|Len=8|MSeg=probab-ly
+30	_	_	ADV	RB	Degree=Pos	31	advmod	31:advmod	Lem=_|Len=8|MSeg=probabl-y
 31	_	_	VERB	VB	VerbForm=Inf	2	ccomp	2:ccomp	Cxn=Conditional-UnspecifiedEpistemic-NoInversion|CxnElt=31:Conditional-UnspecifiedEpistemic-NoInversion.Apodosis|Lem=_|Len=5
 32	_	_	ADV	RB	_	33	advmod	33:advmod	Lem=_|Len=6
 33	_	_	ADV	RB	Degree=Pos	31	advmod	31:advmod	Lem=_|Len=4
 34	_	_	PUNCT	-LRB-	_	35	punct	35:punct	Discourse=evaluation-comment:23->18:1:lex-indwd-139-_|Lem=_|Len=1|SpaceAfter=No
-35	_	_	ADV	RB	Degree=Pos	31	advmod	31:advmod	Lem=_|Len=8|MSeg=probab-ly
+35	_	_	ADV	RB	Degree=Pos	31	advmod	31:advmod	Lem=_|Len=8|MSeg=probabl-y
 36	_	_	PUNCT	:	_	35	punct	35:punct	Lem=…|Len=3|SpaceAfter=No
 37	_	_	PUNCT	-RRB-	_	35	punct	35:punct	Entity=22)|Lem=_|Len=1|SpaceAfter=No
 38	_	_	PUNCT	.	_	2	punct	2:punct	Lem=_|Len=1

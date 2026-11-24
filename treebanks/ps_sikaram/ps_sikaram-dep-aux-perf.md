@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Pashto-Sikaram: Relations: `aux:perf`
 
 This relation is a language-specific subtype of .
-There are also 6 other language-specific subtypes of `aux`: <tt><a href="ps_sikaram-dep-aux-cnd.html">aux:cnd</a></tt>, <tt><a href="ps_sikaram-dep-aux-fut.html">aux:fut</a></tt>, <tt><a href="ps_sikaram-dep-aux-hab.html">aux:hab</a></tt>, <tt><a href="ps_sikaram-dep-aux-pass.html">aux:pass</a></tt>, <tt><a href="ps_sikaram-dep-aux-pot.html">aux:pot</a></tt>, <tt><a href="ps_sikaram-dep-aux-sub.html">aux:sub</a></tt>.
+There are also 7 other language-specific subtypes of `aux`: <tt><a href="ps_sikaram-dep-aux-cnd.html">aux:cnd</a></tt>, <tt><a href="ps_sikaram-dep-aux-fut.html">aux:fut</a></tt>, <tt><a href="ps_sikaram-dep-aux-hab.html">aux:hab</a></tt>, <tt><a href="ps_sikaram-dep-aux-pass.html">aux:pass</a></tt>, <tt><a href="ps_sikaram-dep-aux-pot.html">aux:pot</a></tt>, <tt><a href="ps_sikaram-dep-aux-preverb.html">aux:preverb</a></tt>, <tt><a href="ps_sikaram-dep-aux-sub.html">aux:sub</a></tt>.
 
-38 nodes (1%) are attached to their parents as `aux:perf`.
+46 nodes (1%) are attached to their parents as `aux:perf`.
 
-31 instances of `aux:perf` (82%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.18421052631579.
+36 instances of `aux:perf` (78%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.56521739130435.
 
-The following 1 pairs of parts of speech are connected with `aux:perf`: <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt> (38; 100% instances).
+The following 1 pairs of parts of speech are connected with `aux:perf`: <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt> (46; 100% instances).
 
 
 ~~~ conllu

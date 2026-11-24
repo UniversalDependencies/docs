@@ -32,7 +32,7 @@ The following 47 pairs of parts of speech are connected with `advcl`: <tt><a hre
 8	I	I	PRON	PRP	_	9	nsubj	9:nsubj	_
 9	do	do	VERB	VBP	_	6	advcl	6:advcl:if	_
 10	this	this	PRON	DT	_	9	obj	9:obj	SpaceAfter=No
-11	?	?	PUNCT	?	_	6	punct	6:punct	_
+11	?	?	PUNCT	.	_	6	punct	6:punct	_
 
 ~~~
 

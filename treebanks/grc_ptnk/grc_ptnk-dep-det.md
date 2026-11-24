@@ -72,7 +72,7 @@ The following 12 pairs of parts of speech are connected with `det`: <tt><a href=
 4	γυναῖκα	γυνή	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	Gloss=woman,wife|Ref=GEN_38.6
 5	Ἢρ	Ἤρ	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	Gloss=Er|Ref=GEN_38.6
 6	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	7	det	_	Gloss=the|Ref=GEN_38.6
-7	πρωτοτόκῳ	πρωτότοκος	ADJ	_	Case=Dat|Gender=Fem,Masc,Neut|Number=Sing	5	appos	_	Gloss=first-born|Ref=GEN_38.6
+7	πρωτοτόκῳ	πρωτότοκος	ADJ	_	Case=Dat|Gender=Masc|Number=Sing	5	appos	_	Gloss=first-born|Ref=GEN_38.6
 8	αὐτοῦ	αὐτός	PRON	_	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Prs	7	nmod:poss	_	Gloss=he,she,it,-self,same|Ref=GEN_38.6|SpaceAfter=No
 9	,	,	PUNCT	_	_	10	punct	_	Ref=GEN_38.6
 10	ᾗ	ὅς	PRON	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Rel	12	iobj	_	Gloss=who,which,that|Ref=GEN_38.6

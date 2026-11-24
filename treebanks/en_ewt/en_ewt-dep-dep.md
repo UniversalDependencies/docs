@@ -61,7 +61,7 @@ The following 5 pairs of parts of speech are connected with `dep`: <tt><a href="
 9	such	such	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
 10	wonderful	wonderful	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
 11	people	people	NOUN	NNS	Number=Plur	8	obj	8:obj|13:nsubj	Supersense=n.PERSON
-12	who	who	PRON	WP	PronType=Rel	13	nsubj	11:ref	_
+12	who	who	PRON	WP	Case=Nom|PronType=Rel	13	nsubj	11:ref	_
 13	CARE	care	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	11:acl:relcl	Cxn=rc-wh-nsubj|Supersense=v.emotion
 14	,	,	PUNCT	,	_	17	punct	17:punct	_
 15	Not	not	PART	RB	Polarity=Neg	17	advmod	17:advmod	_

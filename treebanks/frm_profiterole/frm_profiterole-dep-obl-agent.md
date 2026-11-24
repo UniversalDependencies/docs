@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Middle_French-PROFITEROLE: Relations: `obl:agent`
 
 This relation is a language-specific subtype of <tt><a href="frm_profiterole-dep-obl.html">obl</a></tt>.
-There are also 1 other language-specific subtypes of `obl`: <tt><a href="frm_profiterole-dep-obl-mod.html">obl:mod</a></tt>.
+There are also 2 other language-specific subtypes of `obl`: <tt><a href="frm_profiterole-dep-obl-arg.html">obl:arg</a></tt>, <tt><a href="frm_profiterole-dep-obl-mod.html">obl:mod</a></tt>.
 
-39 nodes (0%) are attached to their parents as `obl:agent`.
+43 nodes (0%) are attached to their parents as `obl:agent`.
 
-39 instances of `obl:agent` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.33333333333333.
+43 instances of `obl:agent` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.51162790697674.
 
-The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (29; 74% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (5; 13% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt> (5; 13% instances).
+The following 4 pairs of parts of speech are connected with `obl:agent`: <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (32; 74% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (5; 12% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt> (5; 12% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

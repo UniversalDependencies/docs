@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Kaja Dobrovoljc, Joakim Nivre.
 
 Repository: [UD_Slovenian-SST](https://github.com/UniversalDependencies/UD_Slovenian-SST)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsl_sst218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsl_sst219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 
@@ -29,7 +29,7 @@ Genre: spoken
 Questions, comments?
 General annotation questions (either Slovenian-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Slovenian-SST/issues).
-If you want to collaborate, please contact [kaja&nbsp;•&nbsp;dobrovoljc&nbsp;(æt)&nbsp;ff&nbsp;•&nbsp;uni-lj&nbsp;•&nbsp;si].
+If you want to collaborate, please contact [kaja&nbsp;•&nbsp;dobrovoljc&nbsp;(æt)&nbsp;ijs&nbsp;•&nbsp;si].
 Development of the treebank happens outside the UD repository.
 If there are bugs, either the original data source or the conversion procedure must be fixed.
 Do not submit pull requests against the UD repository.

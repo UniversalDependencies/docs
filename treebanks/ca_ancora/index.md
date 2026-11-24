@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Héctor Martínez Alonso, Elena Pascual, Daniel Zeman.
 
 Repository: [UD_Catalan-AnCora](https://github.com/UniversalDependencies/UD_Catalan-AnCora)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udca_ancora218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udca_ancora219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY 4.0
 
@@ -131,7 +131,7 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
 </ul>
 
 <ul>
-<li>This corpus contains 49 lemmas tagged as pronouns (PRON): I, això, algun, algú, allò, altre, aquell, aquest, cada, cadascun, cadascú, cap, com, divers, ell, en, gaire, hi, hom, jo, mateix, meu, molt, ningú, nostre, on, poc, prou, qual, qualsevol, quan, quant, que, quelcom, qui, quin, quién, què, res, se, seu, tal, tant, tot, tothom, tu, un, vostre, él</li>
+<li>This corpus contains 48 lemmas tagged as pronouns (PRON): I, això, algun, algú, allò, altre, aquell, aquest, cada, cadascun, cadascú, cap, divers, ell, en, gaire, hi, hom, jo, mateix, meu, molt, ningú, nostre, on, poc, prou, qual, qualsevol, quan, quant, que, quelcom, qui, quin, quién, què, res, se, seu, tal, tant, tot, tothom, tu, un, vostre, él</li>
 </ul>
 
 <ul>
@@ -530,8 +530,9 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
 <ul>
   <li>Int
     <ul>
+      <li>ADV: com</li>
       <li>DET: quina, quin, quins, quines, quants</li>
-      <li>PRON: com, què, qui, on, quan, quina, quin, quines, quins, quant</li>
+      <li>PRON: què, qui, on, quan, quina, quin, quines, quins, quant, que</li>
     </ul>
   </li>
 </ul>
@@ -556,8 +557,9 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
 <ul>
   <li>Rel
     <ul>
+      <li>ADV: com</li>
       <li>DET: qual, Que</li>
-      <li>PRON: que, on, què, qui, qual, quals, quan, com</li>
+      <li>PRON: que, on, què, qui, qual, quals, quan</li>
     </ul>
   </li>
 </ul>
@@ -565,7 +567,7 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
 <ul>
   <li>Tot
     <ul>
-      <li>DET: tot</li>
+      <li>DET: totes, tota, tot</li>
       <li>PRON: tot</li>
     </ul>
   </li>
@@ -712,7 +714,7 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
     <ul>
       <li>ADP
         <ul>
-          <li>ADP: a, des, en, pel, per, de, d', amb, pels, gràcies</li>
+          <li>ADP: des, a, pel, d', de, per, en, gràcies, fins</li>
           <li>ADV: juntament, fins, quant, entorn, enfront, enmig, prop, més, no, així</li>
           <li>NOUN: respecte, cap, gràcies, arran, conjuntament, tret, llevat, referent, degut, fruit</li>
           <li>PRON: tot</li>
@@ -722,17 +724,17 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
       <li>ADV
         <ul>
           <li>ADJ: junt</li>
-          <li>ADP: a, en, per, de, amb, d', in, pel</li>
+          <li>ADP: a, en, per, de, d', Amb, in</li>
           <li>ADV: fins, així, no, més, prop, ben, enfront</li>
           <li>CCONJ: ni, Mentre, O</li>
           <li>DET: un, una, la</li>
-          <li>NOUN: sí, ara, tan, és, sens, Tant, avui, ben, hores, poc</li>
+          <li>NOUN: sí, ara, tan, és, sens, avui, ben, hores, poc, Vet</li>
           <li>PRON: tot</li>
         </ul>
       </li>
       <li>CCONJ
         <ul>
-          <li>ADP: a, de, en, d', des</li>
+          <li>ADP: a, de, d', des</li>
           <li>ADV: així, no, juntament, ja, fins, enlloc, més</li>
           <li>CCONJ: sinó, o, mentre, i</li>
           <li>NOUN: és, alhora, conjuntament, Malgrat, això, bé, passant</li>
@@ -742,7 +744,7 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
       <li>SCONJ
         <ul>
           <li>ADJ: igual</li>
-          <li>ADP: per, a, en, amb, de, des, pel</li>
+          <li>ADP: per, a, en, des, de, pel</li>
           <li>ADV: ja, encara, sempre, fins, així, només, Juntament, Quant, més</li>
           <li>CCONJ: mentre, i, Ni, però</li>
           <li>DET: tot, un, una</li>
@@ -879,7 +881,7 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
 </ul>
 
 <ul>
-<li>This corpus uses 6 lemmas as auxiliaries (<a>aux</a>). Examples: haver, anar, poder, ser, estar, saber.</li>
+<li>This corpus uses 6 lemmas as auxiliaries (<a>aux</a>). Examples: haver, anar, poder, estar, saber, ser.</li>
 <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: ser.</li>
 </ul>
 
@@ -893,7 +895,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-ADP(a) (1)</li>
       <li>VERB-Fin--NOUN-ADP(de) (6)</li>
       <li>VERB-Fin--NOUN-ADP(des) (1)</li>
-      <li>VERB-Fin--PRON (3572)</li>
+      <li>VERB-Fin--PRON (3571)</li>
       <li>VERB-Fin--PRON-ADP(a) (2)</li>
       <li>VERB-Fin--PRON-ADP(de) (1)</li>
       <li>VERB-Fin--PRON-ADP(per) (1)</li>
@@ -911,10 +913,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Acc (2)</li>
       <li>VERB-Inf--PRON-Acc,Dat (1)</li>
       <li>VERB-Inf--PRON-Nom (3)</li>
-      <li>VERB-Part--NOUN (2697)</li>
-      <li>VERB-Part--NOUN-ADP(de) (2)</li>
+      <li>VERB-Part--NOUN (2367)</li>
+      <li>VERB-Part--NOUN-ADP(de) (1)</li>
       <li>VERB-Part--NOUN-ADP(en) (1)</li>
-      <li>VERB-Part--PRON (882)</li>
+      <li>VERB-Part--PRON (727)</li>
       <li>VERB-Part--PRON-Acc (1)</li>
       <li>VERB-Part--PRON-Nom (9)</li>
     </ul>
@@ -933,14 +935,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Acc (460)</li>
       <li>VERB-Fin--PRON-Acc,Dat (2930)</li>
       <li>VERB-Fin--PRON-Acc-ADP(a) (2)</li>
-      <li>VERB-Fin--PRON-Dat (21)</li>
       <li>VERB-Ger--NOUN (507)</li>
       <li>VERB-Ger--NOUN-ADP(a) (17)</li>
       <li>VERB-Ger--PRON (45)</li>
       <li>VERB-Ger--PRON-ADP(a) (1)</li>
       <li>VERB-Ger--PRON-Acc (41)</li>
       <li>VERB-Ger--PRON-Acc,Dat (131)</li>
-      <li>VERB-Ger--PRON-Dat (1)</li>
       <li>VERB-Inf--NOUN (6658)</li>
       <li>VERB-Inf--NOUN-ADP(a) (208)</li>
       <li>VERB-Inf--NOUN-ADP(de) (1)</li>
@@ -951,7 +951,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Acc (521)</li>
       <li>VERB-Inf--PRON-Acc,Dat (1867)</li>
       <li>VERB-Inf--PRON-Acc-ADP(a) (1)</li>
-      <li>VERB-Inf--PRON-Dat (12)</li>
       <li>VERB-Part--NOUN (2015)</li>
       <li>VERB-Part--NOUN-ADP(a) (83)</li>
       <li>VERB-Part--NOUN-ADP(de) (1)</li>
@@ -961,7 +960,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--PRON-Acc (123)</li>
       <li>VERB-Part--PRON-Acc,Dat (918)</li>
       <li>VERB-Part--PRON-Acc-ADP(a) (1)</li>
-      <li>VERB-Part--PRON-Dat (6)</li>
     </ul>
   </li>
 </ul>

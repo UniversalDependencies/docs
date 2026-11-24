@@ -49,7 +49,7 @@ The following 3 pairs of parts of speech are connected with `mark`: <tt><a href=
 5	,	_	PUNCT	_	_	4	punct	_	AlignBegin=74422|AlignEnd=74770|nWord=5
 6	manire	manire	PART	_	_	11	mark	_	AlignBegin=75950|AlignEnd=76406|GE=how_much|Gloss=how_much|nWord=6|RX=[Q]
 7	gli	gli	NOUN	_	_	8	nmod:poss	_	AlignBegin=76406|AlignEnd=76862|GE=tree|Gloss=tree|nWord=7|RX=[N]
-8	ki	ki	NOUN	_	_	11	obj	_	AlignBegin=76862|AlignEnd=77318|GE=sap|Gloss=sap|nWord=8|RX=[N]
+8	ki	ki	NOUN	_	_	11	obl	_	AlignBegin=76862|AlignEnd=77318|GE=sap|Gloss=sap|nWord=8|RX=[N]
 9	giti	giti	ADP	_	_	8	case	_	AlignBegin=77318|AlignEnd=77774|GE=[LOC]|Gloss=LOC|nWord=9|RX=[ADP]
 10	iki	iki	NOUN	_	_	11	obj	_	AlignBegin=77774|AlignEnd=78230|GE=money|Gloss=money|nWord=10|RX=[N]
 11	lite	lit	VERB	_	_	4	advcl	_	AlignBegin=78230|AlignEnd=78686|GE=[THM]|Gloss=bring-THM|nWord=11|RX=[V:ANY]
@@ -72,7 +72,7 @@ The following 3 pairs of parts of speech are connected with `mark`: <tt><a href=
 5	,	_	PUNCT	_	_	4	punct	_	AlignBegin=74422|AlignEnd=74770|nWord=5
 6	manire	manire	PART	_	_	11	mark	_	AlignBegin=75950|AlignEnd=76406|GE=how_much|Gloss=how_much|nWord=6|RX=[Q]
 7	gli	gli	NOUN	_	_	8	nmod:poss	_	AlignBegin=76406|AlignEnd=76862|GE=tree|Gloss=tree|nWord=7|RX=[N]
-8	ki	ki	NOUN	_	_	11	obj	_	AlignBegin=76862|AlignEnd=77318|GE=sap|Gloss=sap|nWord=8|RX=[N]
+8	ki	ki	NOUN	_	_	11	obl	_	AlignBegin=76862|AlignEnd=77318|GE=sap|Gloss=sap|nWord=8|RX=[N]
 9	giti	giti	ADP	_	_	8	case	_	AlignBegin=77318|AlignEnd=77774|GE=[LOC]|Gloss=LOC|nWord=9|RX=[ADP]
 10	iki	iki	NOUN	_	_	11	obj	_	AlignBegin=77774|AlignEnd=78230|GE=money|Gloss=money|nWord=10|RX=[N]
 11	lite	lit	VERB	_	_	4	advcl	_	AlignBegin=78230|AlignEnd=78686|GE=[THM]|Gloss=bring-THM|nWord=11|RX=[V:ANY]

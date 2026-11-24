@@ -66,7 +66,7 @@ The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href
 6	Tupã	Tupã	NOUN	n	_	7	nmod	_	_
 7	rawsuβi	awsuβ	NOUN	n	Rel=Cont	3	ccomp	_	_
 8	o	o	PRON	pro	Reflex=Yes	9	nmod	_	_
-9	pɨʔape	pɨʔa	NOUN	n	Case=Loc	10	obl	_	_
+9	pɨʔape	pɨʔa	NOUN	n	Case=Loc	10	nmod	_	_
 10	seko	eko	NOUN	n	Rel=NCont	11	obj	_	_
 11	aβɨpotareʔɨma	aβɨpotar	VERB	v	Polarity=Neg|VerbForm=Ger	7	dep	_	_
 
