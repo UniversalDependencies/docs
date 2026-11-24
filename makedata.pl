@@ -1,5 +1,9 @@
 #!/usr/bin/env perl
 # Replacement for makedata.sh in UD docs.
+# Scans universal documentation as well as language-specific documentation for
+# all languages in docs. Collects names of pages in pos, feat, dep. Generates
+# three YAML files with lists of UPOS tags / features / dependency relations.
+# Puts the files in the _data folder of docs, where Jekyll will look for them.
 # Copyright © 2026 Dan Zeman <zeman@ufal.mff.cuni.cz>
 # License: GNU GPL
 
