@@ -30,6 +30,34 @@ udver:  '2'
 
 ## Troubleshooting
 
+### Automatic Links to Pages in Collections
+
+The standard way of adding hypertext links in MarkDown is square brackets with text to be displayed, immediately
+followed by round parentheses with the URL. This gets translated to the `a href` element in HTML. An extra feature
+of the UD website is that pages in collections describing UPOS categories, morphological features and dependency
+relations can be referenced without providing the URL, as described [here](https://universaldependencies.org/contributing/editing.html#links-to-documentation).
+This should work both for hyperlinks in MarkDown and the `a` elements given without URL directly in HTML.
+The problem is that sometimes this mechanism fails to pick up newly created pages in language-specific documentation
+(for example, [Issue 1327](https://github.com/UniversalDependencies/docs/issues/1327)).
+
+The link resolution happens client-side in
+[`lib/annodoc/annodoc.js`](https://github.com/UniversalDependencies/universaldependencies.github.io/blob/master/lib/annodoc/annodoc.js#L1268)
+using a listing in `lib/local/collections.js`. In the pages source `collections.js` contains no real listing; just
+instructions for Jekyll how to build the listing from `site.collections` (which contains a collection of pages for each
+UD language in `_config.yml`, and some extra collections for universal documentation). When Jekyll builds the site from
+scratch, it will prepare the [target
+`collections.js`](https://github.com/UniversalDependencies/universaldependencies.github.io/blob/master/lib/local/collections.js),
+which contains the real listing. But Jekyll does not always rebuild everything from scratch. It often works
+incrementally, focusing on pages that have been modified. When the building system detects a new file in pages source,
+it should rebuild the whole site, including `collections.js`. At least in theory. Sometimes it does not. The cheapest
+way to fix it is to touch the source `collections.js` by adding a deleting a character in a comment.
+
+Another relevant point is that the listing pairs the URL with the `title` of each collection page (in the front matter
+/ header of the MarkDown file). If the page does not have a correct title, auto-linking will not work. So, for example,
+`Gender-spkr.md` has to carry `title: 'Gender[spkr]'`.
+
+### When Running Locally
+
 _(Very old notes about building the UD website.)_
 
 Issue: when running locally, the system gives the error message

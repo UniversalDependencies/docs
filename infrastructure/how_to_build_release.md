@@ -153,6 +153,10 @@ It is meant for the maintenance task force rather than individual treebank teams
 
 ## Updating automatically generated parts of documentation
 
+* Add or remove a character in a comment of `docs/lib/local/collections.js` to ensure that Jekyll rebuilds this file.
+  The auto-linking feature for pages in language-specific documentation depends on it. Without it, auto-linking may
+  not work for newly added documentation of language-specific features or relations.
+
 * Run the script that refreshes the title page of Universal Dependencies (list of languages, treebanks and their properties).
 
 	```bash
