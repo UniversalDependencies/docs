@@ -50,7 +50,7 @@ The conversion of the UPDT to the Universal Dependencies was performed semi-auto
 
 
 The Persian Universal Dependency Treebank (Persian UD) is the converted version of the
-[Uppsala Persian Dependency Treebank (UPDT)](https://sites.google.com/site/mojganserajicom/home/updt) (Seraji, 2015).
+[Uppsala Persian Dependency Treebank (UPDT)](https://sites.google.com/view/mojganseraji-com/home/updt) (Seraji, 2015).
 The treebank has its original annotation scheme based on Stanford Typed Dependencies (de Marneffe et al., 2006;
 de Marneffe and Manning, 2008). The scheme was extended for Persian to include the language specific syntactic relations
 that could not be covered by the primary scheme developed for English. The treebank consists of ca 6000 annotated and
