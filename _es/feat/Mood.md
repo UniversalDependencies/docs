@@ -20,7 +20,8 @@ Mood is a feature that expresses modality and subclassifies finite verb forms. I
 
 ### <a name="Ind">`Ind`</a>: indicative
 
-The indicative can be considered the default mood. A verb in indicative merely states that something happens, has happened or will happen, without adding any attitude of the speaker.
+The indicative can be considered the default mood. A verb in indicative merely states that something happens, has
+happened or will happen, without adding any attitude of the speaker.
 
 #### Examples
 
@@ -32,6 +33,8 @@ The indicative can be considered the default mood. A verb in indicative merely s
 ### <a name="Imp">`Imp`</a>: imperative
 
 The speaker uses imperative to order or ask the addressee to do the action of the verb.
+Note that the form labeled as imperative is used in positive polarity, while in negative commands the subjunctive
+form is used instead.
 
 #### Examples
 
@@ -43,12 +46,14 @@ The speaker uses imperative to order or ask the addressee to do the action of th
 ### <a name="Sub">`Sub`</a>: subjunctive
 
 The subjunctive mood is used to express various states of unreality such as doubt, possibility, necessity, or action that has not yet occurred.
+Furthermore, it is used in negative commands.
 
 #### Examples
 
 * _Espero que tú hables español._ "I hope that you speak Spanish."
 * _Dudo que ellos coman pizza._ "I doubt that they eat pizza."
 * _Es necesario que nosotros vayamos al cine._ "It is necessary that we go to the movies."
+* _No hables tan rápido._ "Do not speak so fast."
 
 
 ### <a name="Cnd">`Cnd`</a>: conditional
