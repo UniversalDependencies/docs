@@ -504,6 +504,28 @@ It is a specialized web-based pipeline for producing Enhanced Universal Dependen
 * License: MIT
 * Homepage: <https://github.com/mehmetoguzderin/ud-agent-skill-mcp-plugin>
 
+#### Stanza
+
+**Stanza** is a Python NLP toolkit with a neural pipeline for tokenization, multi-word token expansion, lemmatization, POS and morphological feature tagging, and dependency parsing. For some languages it also does named entity recognition, constituency parsing, and sentiment analysis. Pretrained models are available for most UD treebanks. Stanza reads and writes CoNLL-U, and it includes scripts for training new models from any treebank in CoNLL-U format. It also provides a Python interface to Stanford CoreNLP.
+
+* Category: trainable tokenizer, tagger, lemmatizer and parser
+* Platform: any OS with Python 3
+* Implementation: Python (PyTorch)
+* License: Apache License 2.0
+* Homepage: <https://stanfordnlp.github.io/stanza/>
+* References: [Qi et al. (2020)](https://arxiv.org/abs/2003.07082)
+
+#### Semgrex, Ssurgeon, and SemgrexStats
+
+**Semgrex** is a pattern language for searching dependency graphs. It matches nodes with regular expressions over their attributes (word, lemma, POS, features, etc.) and over the relations between nodes. It can search both basic and enhanced dependencies, including empty nodes. **Ssurgeon** edits graphs based on Semgrex matches: it can relabel, move or remove edges, change token attributes, add or delete nodes, and split or merge words and multi-word tokens. **SemgrexStats** runs scripts over a corpus that collect statistics on the matches of a pattern, such as counts of relations or of the words matched by a node. All three are part of Stanford CoreNLP and can be run on CoNLL-U files from the command line or through the Java API. Stanza provides a Python interface to Semgrex and Ssurgeon.
+
+* Category: dependency graph search and manipulation
+* Platform: any OS that runs Java; Python interface through Stanza
+* Implementation: Java, with Python bindings
+* License: GPL v3 or later
+* Homepage: <https://stanfordnlp.github.io/CoreNLP/>
+* References: [Bauer et al. (2023)](https://aclanthology.org/2023.tlt-1.7/)
+
 ### Visualization tools
 
 #### Deptreeviz
