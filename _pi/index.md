@@ -17,7 +17,7 @@ Pāli is an Indo-Aryan language, widely studied as the scriptural and liturgical
 
 ## Sentence Segmentation
 
-While we strip out punctuation in our `# text` rows, we do recommend using any punctuation in your source to help segment into sentences.  In the Pāli Text Society and Mahāsaṅgīti editions, you should generally use both semicolons (`;`) and periods (`.`) to split sentences.  However, be aware that Pāli verses may sometimes use semicolons to mark *pāda* "line" boundaries which are not semantic.  Always segment sentences by syntax.
+While we strip out punctuation in our `# text` rows, we do recommend using any punctuation in your source to help segment into sentences.  In the Pāli Text Society and Mahāsaṅgīti editions, you should generally use both semicolons (`;`) and periods (`.`) to split sentences.  However, be aware that Pāli verses may sometimes use semicolons to mark *pāda* "line" boundaries which are not semantic, and many times they separate sentences with commas as well. So, unfortunately, you must always segment sentences by syntax rather than relying on your chosen edition's punctuation.
 
 ## Tokenization and Word Segmentation
 
