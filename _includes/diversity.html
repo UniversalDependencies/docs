@@ -1,0 +1,42 @@
+<div id="diversity">
+  <div class="div-slider">
+    <label for="div-release">
+      UD release <b class="div-relname"></b> <small class="div-reldate"></small> <small class="div-approx" hidden></small>
+    </label>
+    <input type="range" id="div-release" min="0" max="0" step="1" value="0">
+  </div>
+  <div class="div-crumbs"></div>
+  <div class="div-panes">
+    <figure>
+      <figcaption>Languages</figcaption>
+      <svg class="div-pie" data-metric="languages" viewBox="-210 -125 420 250" role="img" aria-label="Pie chart: languages"></svg>
+    </figure>
+    <figure>
+      <figcaption>Words</figcaption>
+      <svg class="div-pie" data-metric="words" viewBox="-210 -125 420 250" role="img" aria-label="Pie chart: words"></svg>
+    </figure>
+  </div>
+  <table class="div-table">
+    <thead>
+      <tr>
+        <th></th>
+        <th>Languages</th>
+        <th>%</th>
+        <th>Words</th>
+        <th>%</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+  <p class="div-hint">Click a slice or a row to see its genera (for a family) or languages (for a genus). Hover for exact numbers.</p>
+  <div class="div-tip" hidden></div>
+</div>
+<link rel="stylesheet" type="text/css" href="css/diversity.css"/>
+<script>
+  window.UD_DIVERSITY = {
+    releases: {{ site.data.treebank_sizes.releases | jsonify }},
+    treebanks: {{ site.data.treebank_sizes.treebanks | jsonify }},
+    languages: {{ site.data.languages | jsonify }}
+  };
+</script>
+<script src="lib/local/diversity.js"></script>

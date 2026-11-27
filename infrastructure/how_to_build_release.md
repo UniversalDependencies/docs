@@ -186,18 +186,16 @@ It is meant for the maintenance task force rather than individual treebank teams
 	cd docs ; git pull --no-edit ; git status ; git commit -a -m 'Updated list of features and relations.' ; git push ; cd ..
 	```
 
+	The diversity charts on the homepage are interactive and drawn from `_data/treebank_sizes.yaml` (size of every
+	treebank in every release) and `_data/languages.yaml` (family and genus of every language). Add the new release
+	to `download.md` first, and make sure that the treebank pages (`treebanks/*/index.md`) were regenerated for it
+	and that the release is in `docs-automation/valdan/releases.json`. Then add the release to the first file
+	(sizes are read from the treebank pages); earlier releases are not touched. The second file is downloaded from
+	`docs-automation/codes_and_flags.yaml`, so it is updated when languages were added there.
+
 	```bash
-	tools/survey_language_families.pl --input release --udpath . --tbklist released_treebanks.txt --langyaml docs-automation/codes_and_flags.yaml --output tbkstats > tbkstats.2.19.txt
-	tools/survey_language_families.pl --input tbkstats --langyaml docs-automation/codes_and_flags.yaml --output fampie --languages --families --complatex < tbkstats.2.19.txt | pdflatex
-	pdftoppm -png -r 600 texput.pdf > docs/img/lang_per_fam.png
-	tools/survey_language_families.pl --input tbkstats --langyaml docs-automation/codes_and_flags.yaml --output fampie --words --families --complatex < tbkstats.2.19.txt | pdflatex
-	pdftoppm -png -r 600 texput.pdf > docs/img/word_per_fam.png
-	tools/survey_language_families.pl --input tbkstats --langyaml docs-automation/codes_and_flags.yaml --output fampie --languages --genera IE --complatex < tbkstats.2.19.txt | pdflatex
-	pdftoppm -png -r 600 texput.pdf > docs/img/lang_per_gen_ie.png
-	tools/survey_language_families.pl --input tbkstats --langyaml docs-automation/codes_and_flags.yaml --output fampie --words --genera IE --complatex < tbkstats.2.19.txt | pdflatex
-	pdftoppm -png -r 600 texput.pdf > docs/img/word_per_gen_ie.png
-	rm textput.pdf
-	cd docs ; git pull --no-edit ; git commit -a -m 'Updated diversity pie charts.' ; git push ; cd ..
+	cd docs ; python3 infrastructure/make_languages_yaml.py ; python3 infrastructure/make_diversity_data.py
+	git pull --no-edit ; git commit -a -m 'Updated diversity data.' ; git push ; cd ..
 	```
 
 * Run the script `makedata.pl` in the docs repository. It will regenerate the YAML files in the folder `_data`; this is needed
