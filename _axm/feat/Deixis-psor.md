@@ -42,10 +42,10 @@ The entity is far away from the reference point (e.g., from the speaker).
 
 #### Examples
 
-* _երբ այս ազգ օձս խայթէ զմարդն, նայ հանց ցաւէ խիստ, որ այլազգ օձոյն<b>ն</b> չցաւէ_/_erb ays azg òjs xayt’ē zmardn, nay hanc’ c’awē xist, or aylazg òjoynn čc’awē_ “When this kind of snake bites a man, it tends to hurt so intensely that the (bite) of other kinds of snakes does not hurt ([in such a way)”.
+* _երբ այս ազգ օձս խայթէ զմարդն, նայ հանց ցաւէ խիստ, որ այլազգ օձոյն<b>ն</b> չցաւէ_/_erb ays azg òjs xayt’ē zmardn, nay hanc’ c’awē xist, or aylazg òjoynn čc’awē_ “When this kind of snake bites a man, it tends to hurt so intensely that the (bite) of other kinds of snakes does not hurt (in such a way)”.
 * _Եւ ասէ աղուէսն . այդ ՚ի քո երեսդ և ՚ի մորուսդ , և ՚ի նորայ<b>ն</b> , որ յերբ ՚ի յ արքունիս մտանէ՝ նա զ այլ ոք չարախօսէ։_/_Ew asē aġowēsn . ayd ՚i kʼo eresd ew ՚i morowsd , ew ՚i noray<b>n</b> , or yerb ՚i y arkʼownis mtanē, na z ayl okʼ čaraxòsē._ “And the fox says: 'That is from your own face and your beard, and from that one, who whenever entering the royal court, speaks ill of anyone else”.
 
-Note that in Middle Armenian, the function of the substantivized genitive is expressed by attaching demonstrative/personal article _-ն_/_-n_ directly to the genitive form of nouns or pronouns as in the examples above.
+Note that in Middle Armenian, the function of the substantivized genitive is expressed by attaching the demonstrative/person-indexing article -ն/-n directly to the genitive form of a noun or pronoun, as illustrated by the examples above. Unlike the substantivized genitive marker in Eastern Armenian, this article is not tokenized separately.
 
 
 <!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:39 CET -->
