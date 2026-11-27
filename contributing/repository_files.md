@@ -269,8 +269,10 @@ Treebank maintainers should never touch the `master` branch, they should always 
 (Ordinary contributors are not even able to push to `master`, the branch is protected.)
 At release time, the release task force will take care of merging the contents of the `dev` branch into `master`.
 <strong>Please do not submit pull requests from the dev branch (or from anywhere else) to the master branch.</strong>
-This is not needed for the release merge to take place, and if someone overlooks the destination branch and accepts the pull request,
-it will again result in a commit to the master branch at wrong time.
+This is not needed for the release merge to take place, and if someone overlooks the destination branch and accepts the
+pull request, it will again result in a commit to the master branch at wrong time. Also, <strong>do not merge `master`
+back into `dev`!</strong> Extra files are generated in `master` at release time. These files are not expected in `dev`
+and they will trigger validation errors if you bring them in.
 
 (To make things a bit more confusing, this policy of data repositories does not apply to some other repositories that
 we use. In the `docs` repository you must work with the `pages-source` branch. That is done automatically if you edit
